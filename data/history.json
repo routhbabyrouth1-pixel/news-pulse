@@ -1,0 +1,96 @@
+{
+ "updated": "2026-11-10T01:48+05:30",
+ "hours": [
+  {
+   "hour": "2026-11-10T01:00+05:30",
+   "generatedAt": "2026-11-10T01:48+05:30",
+   "feeds": 16,
+   "headlines": 262,
+   "stories": [
+    {
+     "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "CNN",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-10T01:38+05:30",
+     "score": 11.47
+    },
+    {
+     "title": "Two security breaches near White House prompt brief lockdown",
+     "link": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T00:27+05:30",
+     "score": 7.86
+    },
+    {
+     "title": "Trump questions midterm elections integrity after previously accepting results",
+     "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "CNN",
+      "India Today",
+      "The Guardian",
+      "The New York Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-09T23:17+05:30",
+     "score": 6.96
+    },
+    {
+     "title": "White House under lockdown as car crashes in secure area; Trump was inside residence",
+     "link": "https://timesofindia.indiatimes.com/world/us/white-house-placed-under-lockdown-after-car-crashes-near-premises/articleshow/135687261.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-09T21:39+05:30",
+     "score": 6.61
+    },
+    {
+     "title": "Andhra Pradesh deputy chief minister Pawan Kalyan and wife Anna Konidela announce separation",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZmJJSEdsdHNBZzhHWEtQR1UzdTNsa3N4UGUwUDJHRXJlalVWWnhpZlNkbHl1c0x4dC1OMGs5QVI3aDViRTBoNG5kTHVOdmNITWJoMTRDdTdCVGlKMmJMT04wbFRpS0Q2OHJsdW9YZ3NseWlFbFViRFhuaW5FUW9tcGc0dXNSa3RFZjBoeFFjM2NVeGN5Z0xCRi0tSmFQWlVBQXZ4Y2NNclF5dXFZOVZZYkFidzFqSWtlem03UmdlVFZWeGFGU2psSnJqUGdJM3FOVHc4WkJLS3FqM0tFVU9UUmoxaHRyNUMzS2xyMklrWkd0eUVKRko3QkU0aWZmUdIBgwJBVV95cUxNbVlGNG4ydHRNbURab2Z0WWw4V0dYSlY4U2VuTG92T2Z6ZEl1UG9BaHBnbkIxZ3VLTGViR1J6cXhfTFJIV3M4Mld5QkJ3bGZDLS1Raktub1I0NlJ0cXJoYnZYUWJKbHdfN0QyRnBfc2d3eE81VEJyTHhZTmNHdXBQM0dPTHV4SFZiTnEtME9mNTVxMUdXUmdHZGRWUGNCMjRDckdhSGJVYnVsTWtfM2wxY01oNVIya0pEWFN6RjNaWkt0ZlkxM1M0WFZjaWJtbnNoWWg0TVZ2U0ZfUEQ2NVNEcnROcXo0MEVpNGczSGo3cnlZQTlMdFd6NDlCdkt0Z0dpVGZv?oc=5",
+     "source": "The Times of India",
+     "sources": [
+      "Deccan Herald",
+      "Pinkvilla",
+      "The New Indian Express",
+      "The South First",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T00:17+05:30",
+     "score": 6.5
+    }
+   ]
+  }
+ ]
+}
