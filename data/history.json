@@ -1,6 +1,98 @@
 {
- "updated": "2026-11-10T01:48+05:30",
+ "updated": "2026-11-10T02:01+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T02:00+05:30",
+   "generatedAt": "2026-11-10T02:01+05:30",
+   "feeds": 16,
+   "headlines": 256,
+   "stories": [
+    {
+     "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "AP News",
+      "Al Jazeera",
+      "Mint",
+      "NDTV",
+      "Reuters",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-10T01:38+05:30",
+     "score": 11.44
+    },
+    {
+     "title": "Two security breaches near White House prompt brief lockdown",
+     "link": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T00:27+05:30",
+     "score": 8.11
+    },
+    {
+     "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+     "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
+     "source": "Times of India",
+     "sources": [
+      "Axios",
+      "CNBC",
+      "Telegraph India",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T00:51+05:30",
+     "score": 7.1
+    },
+    {
+     "title": "'Does anybody believe this was honest?' Trump revives fraud claims after midterms",
+     "link": "https://timesofindia.indiatimes.com/world/us/does-anybody-believe-this-was-honest-trump-flips-stance-on-midterms-result-revives-2020-style-fraud-claims/articleshow/135687611.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "The New York Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-09T21:53+05:30",
+     "score": 7.06
+    },
+    {
+     "title": "Trump questions midterm elections integrity after previously accepting results",
+     "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNN",
+      "India Today",
+      "The New York Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-09T23:17+05:30",
+     "score": 7.04
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T01:00+05:30",
    "generatedAt": "2026-11-10T01:48+05:30",
