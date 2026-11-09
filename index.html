@@ -68,6 +68,32 @@ ol.stories{list-style:none;margin:0;padding:0;display:flex;flex-direction:column
 .notice p{margin:0;color:var(--muted);font-size:.9rem}
 .skeleton .story{min-height:96px}
 .skeleton .story *{visibility:hidden}
+.story{cursor:pointer;-webkit-tap-highlight-color:transparent;transition:transform .12s ease}
+.story:active{transform:scale(.985)}
+.story:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.story .title{color:var(--fg);font-family:var(--display);font-weight:600;font-size:1.08rem;line-height:1.3;text-wrap:balance;overflow-wrap:anywhere}
+.story .teaser{font-size:.86rem;color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.more{font-size:.78rem;font-weight:600;color:var(--accent)}
+.backdrop{position:fixed;inset:0;background:rgba(10,12,20,.45);z-index:20}
+.sheet{position:fixed;left:0;right:0;bottom:0;z-index:21;max-height:92vh;max-height:92dvh;overflow-y:auto;-webkit-overflow-scrolling:touch;
+  background:var(--surface);border-radius:18px 18px 0 0;box-shadow:0 -8px 30px rgba(0,0,0,.18);
+  padding-bottom:max(20px,env(safe-area-inset-bottom,0px))}
+@media (prefers-reduced-motion:no-preference){.sheet:not([hidden]){animation:up .22s ease-out}}
+@keyframes up{from{transform:translateY(40px);opacity:.4}to{transform:none;opacity:1}}
+.sheet-inner{max-width:620px;margin:0 auto;display:flex;flex-direction:column;gap:14px;padding-top:10px}
+.grab{width:40px;height:5px;border-radius:3px;background:var(--line);margin:0 auto}
+.sheet-top{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.close{border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:999px;width:34px;height:34px;font-size:1.1rem;line-height:1;cursor:pointer}
+.d-img{width:100%;max-height:220px;object-fit:cover;border-radius:12px;background:var(--bg)}
+.d-title{font-family:var(--display);font-weight:800;font-size:1.4rem;line-height:1.25;margin:0;text-wrap:balance;overflow-wrap:anywhere}
+.d-summary{margin:0;font-size:1rem;line-height:1.6}
+.read{display:flex;justify-content:center;align-items:center;padding:13px 16px;border-radius:12px;background:var(--accent);color:#fff;text-decoration:none;font-weight:600;text-align:center}
+.d-h{font-family:var(--display);font-size:.95rem;margin:4px 0 0}
+.d-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+.d-list li{border-top:1px solid var(--line)}
+.d-list a{display:flex;flex-direction:column;gap:2px;padding:11px 0;color:var(--fg);text-decoration:none}
+.d-list a b{font-size:.78rem;font-weight:600;color:var(--accent)}
+.d-list a span{font-size:.92rem;line-height:1.35;overflow-wrap:anywhere}
 footer{font-size:.74rem;color:var(--muted);padding-top:18px}
 </style>
 </head>
@@ -92,6 +118,20 @@ footer{font-size:.74rem;color:var(--muted);padding-top:18px}
     <footer>Ranked by how many news outlets are covering each story in the last 6 hours, from Google News, Times of India, NDTV, The Hindu, Indian Express, Hindustan Times, Economic Times, Mint, BBC, Al Jazeera and The Guardian. Updates every hour.</footer>
   </div>
 </main>
+
+<div class="backdrop" id="backdrop" hidden></div>
+<section class="sheet gutter" id="sheet" hidden role="dialog" aria-modal="true" aria-labelledby="dTitle">
+  <div class="sheet-inner">
+    <div class="grab" aria-hidden="true"></div>
+    <div class="sheet-top"><span class="meta" id="dMeta"></span><button class="close" id="dClose" type="button" aria-label="Close">✕</button></div>
+    <img class="d-img" id="dImg" alt="" referrerpolicy="no-referrer" hidden>
+    <h2 class="d-title" id="dTitle"></h2>
+    <p class="d-summary" id="dSummary"></p>
+    <a class="read" id="dRead" target="_blank" rel="noopener">Read the full story</a>
+    <h3 class="d-h" id="dCovH"></h3>
+    <ul class="d-list" id="dList"></ul>
+  </div>
+</section>
 
 <script>
 (function(){
@@ -139,8 +179,8 @@ footer{font-size:.74rem;color:var(--muted);padding-top:18px}
       const li = el("li", "story");
       li.append(el("span", "rank", String(i + 1)));
       const body = el("div", "story-body");
-      const a = el("a", "title", s.title); a.href = safe(s.link); a.target = "_blank"; a.rel = "noopener";
-      body.append(a);
+      body.append(el("span", "title", s.title));
+      if (s.summary) body.append(el("span", "teaser", s.summary));
       const meta = el("div", "meta");
       meta.append(el("span", null, s.source || ""));
       if (s.publishedAt) meta.append(el("span", null, ago(s.publishedAt)));
@@ -150,10 +190,51 @@ footer{font-size:.74rem;color:var(--muted);padding-top:18px}
       cov.append(el("span", null, (s.sourceCount || 1) + (s.sourceCount === 1 ? " outlet" : " outlets")), track);
       body.append(cov);
       if (s.sources && s.sources.length > 1) body.append(el("div", "outlets", s.sources.join(" · ")));
+      body.append(el("span", "more", "Tap for details"));
       li.append(body);
+      li.tabIndex = 0; li.setAttribute("role", "button");
+      li.addEventListener("click", () => openDetail(s));
+      li.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openDetail(s); } });
       list.append(li);
     });
   }
+
+  let lastFocus = null;
+  function openDetail(s){
+    lastFocus = document.activeElement;
+    $("dMeta").textContent = [s.source, s.publishedAt ? ago(s.publishedAt) : ""].filter(Boolean).join(" · ");
+    $("dTitle").textContent = s.title;
+    const img = $("dImg");
+    if (s.image){ img.hidden = false; img.src = s.image; img.onerror = () => { img.hidden = true; }; } else { img.hidden = true; img.removeAttribute("src"); }
+    $("dSummary").textContent = s.summary || "No summary came with this story. Tap below to read it on the news site.";
+    $("dSummary").classList.toggle("muted", !s.summary);
+    const read = $("dRead"); read.href = safe(s.link); read.textContent = "Read the full story on " + (s.source || "the news site");
+    const arts = (s.articles && s.articles.length ? s.articles : [{source:s.source, title:s.title, link:s.link}]);
+    const others = arts.filter(a => a.link !== s.link);
+    $("dCovH").textContent = others.length ? `More coverage (${s.sourceCount || arts.length} outlets)` : "";
+    $("dCovH").hidden = !others.length;
+    const list = $("dList"); list.replaceChildren();
+    others.forEach(a => {
+      const li = el("li"); const link = el("a"); link.href = safe(a.link); link.target = "_blank"; link.rel = "noopener";
+      link.append(el("b", null, a.source + (a.publishedAt ? " · " + ago(a.publishedAt) : "")), el("span", null, a.title));
+      li.append(link); list.append(li);
+    });
+    $("backdrop").hidden = false; $("sheet").hidden = false; $("sheet").scrollTop = 0;
+    document.body.style.overflow = "hidden";
+    try { history.pushState({detail:true}, ""); } catch(e){}
+    $("dClose").focus();
+  }
+  function closeDetail(fromPop){
+    if ($("sheet").hidden) return;
+    $("backdrop").hidden = true; $("sheet").hidden = true;
+    document.body.style.overflow = "";
+    if (!fromPop && history.state && history.state.detail) { try { history.back(); } catch(e){} }
+    if (lastFocus) lastFocus.focus();
+  }
+  $("dClose").addEventListener("click", () => closeDetail(false));
+  $("backdrop").addEventListener("click", () => closeDetail(false));
+  window.addEventListener("popstate", () => closeDetail(true));
+  document.addEventListener("keydown", e => { if (e.key === "Escape") closeDetail(false); });
 
   async function load(){
     $("refresh").disabled = true;
