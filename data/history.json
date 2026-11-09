@@ -1,6 +1,167 @@
 {
- "updated": "2026-11-10T03:16+05:30",
+ "updated": "2026-11-10T04:13+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T04:00+05:30",
+   "generatedAt": "2026-11-10T04:13+05:30",
+   "feeds": 16,
+   "headlines": 188,
+   "stories": [
+    {
+     "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+     "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNBC",
+      "NDTV",
+      "Telegraph India",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T00:51+05:30",
+     "score": 7.94,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135692217,imgsize-150770.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+       "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
+       "publishedAt": "2026-11-10T00:51+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmJuZjgzYW5hamNYeWNpNGdzaXdTNnBSc0l2ZTlfc1FNQjV1c3lCdjJuamhCZjRaRnktTlhkZEF3SjdtdjlXYjcxbG9GaU9saDRBdmMzRXVLb1h2QWNObXF1aGZ1TUJhRW5FSWY4RkJpRUVTYzQwYVBmelFITFRVUHQ0RWdsMlpUOV8xT2pRM1FXQ2hpdmsyLVFOQnpVYThRSGFYUnNyN0IwXzFwRWtWZHlzMkdvbHJsdHRUdHMzaGI0UkdQbHVzNkJIeUhOZjdKQkxadlpYYUZkVWNQTGZTSFg3OA?oc=5",
+       "publishedAt": "2026-11-10T00:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+     "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNBC",
+      "Mashable",
+      "NDTV",
+      "TechCrunch",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T02:48+05:30",
+     "score": 7.14,
+     "summary": "The new models, Fable 5.2 and Mythos 5.2, can perform up to 30 percent faster than previous versions, particularly for complex tasks like coding, while costing 20 percent less, the company said.",
+     "image": "https://static.toiimg.com/photo/msid-135693108,imgsize-87908.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
+       "publishedAt": "2026-11-10T02:48+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Anthropic Launches New Models Ahead Of IPO: Claude Fable 5.2, Mythos 5.2",
+       "link": "https://www.ndtv.com/world-news/anthropic-launches-powerful-new-models-claude-fable-5-2-and-mythos-5-2-ahead-of-ipo-12305314#publisher=newsstand",
+       "publishedAt": "2026-11-10T00:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "2 Critical, 3 Injured After Government Buses, Car Collide In Mumbai",
+     "link": "https://www.ndtv.com/india-news/2-critical-3-injured-after-government-buses-car-collide-in-mumbai-12305245#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "India Today",
+      "Mid-Day",
+      "NDTV",
+      "ThePrint",
+      "Urban Acres",
+      "urbanacres.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T00:07+05:30",
+     "score": 6.61,
+     "summary": "Police officers arrived at the scene and used a crane to remove the damaged cars and buses from the road after extracting their occupants.",
+     "image": "https://c.ndtvimg.com/2026-11/9hoqs568_kd_625x300_10_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "2 Critical, 3 Injured After Government Buses, Car Collide In Mumbai",
+       "link": "https://www.ndtv.com/india-news/2-critical-3-injured-after-government-buses-car-collide-in-mumbai-12305245#publisher=newsstand",
+       "publishedAt": "2026-11-10T00:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Qatar, Saudi Want Peaceful Iran Deal, US Ready For Strikes If Needed: Trump",
+     "link": "https://www.ndtv.com/world-news/qatar-saudi-want-peaceful-iran-deal-us-ready-for-strikes-if-needed-donald-trump-12305498#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "Iran International",
+      "NDTV",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T02:39+05:30",
+     "score": 6.24,
+     "summary": "Trump, who met Qatar's prime minister earlier on Monday, said \"Qatar would rather see a peaceful solution\" and \"Saudi Arabia would rather see a peaceful solution\" but \"we're ready to go anytime we want\" with strikes.",
+     "image": "https://c.ndtvimg.com/2026-11/al90ni34_donald-trump_625x300_10_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Qatar, Saudi Want Peaceful Iran Deal, US Ready For Strikes If Needed: Trump",
+       "link": "https://www.ndtv.com/world-news/qatar-saudi-want-peaceful-iran-deal-us-ready-for-strikes-if-needed-donald-trump-12305498#publisher=newsstand",
+       "publishedAt": "2026-11-10T02:39+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2o4T2dDT1ZqQmlqM0JxZEViaHZzWjRPeGtRd2N5MEZweXhTWXV1b0RybWgxNzZrMUJmOXFDMGMtTGE1RzJCMHBNdkctTVZpWXhBUUcxYUhnOTRqOEpQZUpPWjdsZHgtTWc4cWYxYnRtZEgzb191X2tlOUVVYXh4SFpnejMxYXRidEhFalZMeDlSSlhmUm5IR0Nyd2hybHhWVjVrcXA1ODVaYWo1ODhFSEhNMFZxdmdaN3VLTEc0dE1MZ21pVGxFMFh0TQ?oc=5",
+       "publishedAt": "2026-11-10T02:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump lights 'diya' in Oval Office before MAGA dystopia in Seattle",
+     "link": "https://timesofindia.indiatimes.com/world/us/trump-lights-diwali-lamp-in-oval-office-as-pardoned-jan-6-rioter-brings-darkness-to-seattle-celebration/articleshow/135689740.cms",
+     "source": "Times of India",
+     "sources": [
+      "Firstpost",
+      "Hindustan Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India",
+      "Tripura Chronicle"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-09T23:12+05:30",
+     "score": 6.2,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135690131,imgsize-216348.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Trump lights 'diya' in Oval Office before MAGA dystopia in Seattle",
+       "link": "https://timesofindia.indiatimes.com/world/us/trump-lights-diwali-lamp-in-oval-office-as-pardoned-jan-6-rioter-brings-darkness-to-seattle-celebration/articleshow/135689740.cms",
+       "publishedAt": "2026-11-09T23:12+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Trump lights Diwali lamp in Oval Office as pardoned Jan 6 rioter brings darkness to Seattle celebration",
+       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd2hKUlducHZLM3o3Yk5zYVpyNjJrb1RQQmlONUdxb25XMnM4aDJZVHpIajFyV2hXRnVmMWlVOVVRU2JTT2NtZ3hPS0I4RlF0ZnhySk95dy1Xa25wMnlMQ282R0xtYkpqYm9kZW5LLUZ4bnlVYmM2RmZ2QVdZRzhTTXFfYWlTVGQ3OW9VOXJUa2V3UmJyS3JyTG1xUlNicDB1akl0X3Z6eWJPZGYwT1dUamc5TUpVbi01TkQ0N1Q1NUd6OC1aaVJ0LThXajM5OUZLWTJaMEFQWXFwNThfcEZMYVpaZDZpRnRqaUlvV3hTT2hVWmRManJsZnhLRmQ2cUpVU3lnNw?oc=5",
+       "publishedAt": "2026-11-09T23:12+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T03:00+05:30",
    "generatedAt": "2026-11-10T03:16+05:30",
