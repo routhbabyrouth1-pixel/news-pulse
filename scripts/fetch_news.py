@@ -68,6 +68,30 @@ def tokens(title):
     return {w for w in words if len(w) >= 3 and w not in STOP}
 
 
+MEDIA = "{http://search.yahoo.com/mrss/}"
+
+
+def summarize(text, limit=420):
+    text = re.sub(r"\s+", " ", clean(text)).strip()
+    if len(text) <= limit:
+        return text
+    cut = text[:limit].rsplit(" ", 1)[0]
+    return cut.rstrip(",;:-") + "…"
+
+
+def find_image(it):
+    for tag in (MEDIA + "content", MEDIA + "thumbnail"):
+        for m in it.iter(tag):
+            url = m.get("url") or ""
+            if url.startswith("http") and (m.get("medium") in (None, "image") or tag.endswith("thumbnail")):
+                return url
+    enc = it.find("enclosure")
+    if enc is not None and (enc.get("type") or "").startswith("image") and (enc.get("url") or "").startswith("http"):
+        return enc.get("url")
+    m = re.search(r'<img[^>]+src="(https?://[^"]+)"', it.findtext("description", "") or "")
+    return m.group(1) if m else None
+
+
 def parse_date(text):
     if not text:
         return None
@@ -103,6 +127,8 @@ def parse_feed(raw, label, is_gn):
                 "published": parse_date(e.findtext("a:updated", "", ns)),
                 "extra_sources": set(),
                 "gn_rank": None,
+                "summary": summarize(e.findtext("a:summary", "", ns)),
+                "image": None,
             }
         return
     for i, it in enumerate(items):
@@ -128,6 +154,9 @@ def parse_feed(raw, label, is_gn):
             "published": parse_date(it.findtext("pubDate", "")),
             "extra_sources": extra,
             "gn_rank": i if is_gn else None,
+            # Google News descriptions are just a list of links, so no summary from them.
+            "summary": "" if is_gn else summarize(it.findtext("description", "")),
+            "image": None if is_gn else find_image(it),
         }
 
 
@@ -203,6 +232,16 @@ def build(feeds_raw, now):
     stories = []
     for s, sources, newest, c in ranked[:TOP_N]:
         h = pick_headline(c)
+        ordered = sorted(c["items"], key=lambda it: ("news.google.com" in it["link"], -(it["published"].timestamp() if it["published"] else 0)))
+        summary = next((it["summary"] for it in ordered if len(it.get("summary") or "") > 40 and it["summary"] != it["title"]), "")
+        image = next((it["image"] for it in ordered if it.get("image")), None)
+        articles, seen = [], set()
+        for it in ordered:
+            if it["source"] in seen:
+                continue
+            seen.add(it["source"])
+            articles.append({"source": it["source"], "title": it["title"], "link": it["link"],
+                             "publishedAt": it["published"].astimezone(IST).isoformat(timespec="minutes") if it["published"] else None})
         stories.append({
             "title": h["title"],
             "link": h["link"],
@@ -211,6 +250,9 @@ def build(feeds_raw, now):
             "sourceCount": len(sources),
             "publishedAt": newest.astimezone(IST).isoformat(timespec="minutes") if newest else None,
             "score": round(s, 2),
+            "summary": summary,
+            "image": image,
+            "articles": articles[:8],
         })
     return stories, len(items)
 
