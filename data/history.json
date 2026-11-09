@@ -1,6 +1,202 @@
 {
- "updated": "2026-11-10T02:02+05:30",
+ "updated": "2026-11-10T03:16+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T03:00+05:30",
+   "generatedAt": "2026-11-10T03:16+05:30",
+   "feeds": 16,
+   "headlines": 233,
+   "stories": [
+    {
+     "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "AP News",
+      "Al Jazeera",
+      "BBC",
+      "Mint",
+      "NDTV",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-10T01:38+05:30",
+     "score": 9.48,
+     "summary": "Russell Brand has been sentenced to 10 years and six months in prison after being convicted of raping one woman",
+     "image": "https://i.guim.co.uk/img/media/436eb58d5bdd12577af2411e0eade0959e2802c5/384_157_3039_2432/master/3039.jpg?width=140&quality=85&auto=format&fit=max&s=2a1d48453acf667c7d242abb8f3ad97e",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
+       "publishedAt": "2026-11-10T01:38+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault",
+       "link": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
+       "publishedAt": "2026-11-09T23:33+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Who is Russell Brand? UK comedian sentenced to 10.5 years in prison for rape: All about the case and verdict",
+       "link": "https://www.livemint.com/news/world/who-is-russell-brand-uk-comedian-sentenced-to-10-5-years-in-prison-for-rape-all-about-the-case-and-verdict-11794238051140.html",
+       "publishedAt": "2026-11-09T22:29+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Comedian Russell Brand sentenced to more than a decade in prison",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMlAxVUJqMTN0TDBtd3NzdkF5bzB1RGZSVml1MGtFYWE4OEcyV01ObXM1aHJfR0JqQVZQNUJ2V2h2S3d4R2k0OFBTdG9GOVJnQ0x6Tzczb1dSYTlVNjBjY1JOY0JKaldVM2hoeW82QWd1UEZ1REZwbTh5NmpMMjBwa25HRGduVHZFOXo5anQxLTBlUFBhN2doLVJaQ3NfR05fcldvbWduU1ZxSjRoSC11bTVKQ0NuRnBoMGs3Vmx5eVY3S0UxMU1z0gHOAUFVX3lxTFBGendpOHdvU3R4UFNLZnoxZXlFS1pUdkZOa0FBNEEyVzZjdW0tWDV1dTItZDFGMjBlY2I1dmpSZEJDWk55Y3Vua1RNYWRHaVlnNnR4TWJyc0ZzTlZCckNVVDdXVEVxWEJuNWFKdlhuVVJZcFNteFpUVUpNS0FWZTNFNmFVSFRYRmkxZEFCWDRacTVyaVhodW56UWFQQVVoTDdZcTF1T1c1bnFFOTIzTkZnckhNbl9TWkJDOHF3QlFSTmxfRzc0TXlwamNzSXpR?oc=5",
+       "publishedAt": "2026-11-09T21:34+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+     "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNBC",
+      "Gizmodo",
+      "Investing.com India",
+      "Mashable",
+      "NDTV",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T02:48+05:30",
+     "score": 8.42,
+     "summary": "The new models, Fable 5.2 and Mythos 5.2, can perform up to 30 percent faster than previous versions, particularly for complex tasks like coding, while costing 20 percent less, the company said.",
+     "image": "https://static.toiimg.com/photo/msid-135693108,imgsize-87908.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
+       "publishedAt": "2026-11-10T02:48+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Anthropic Launches New Models Ahead Of IPO: Claude Fable 5.2, Mythos 5.2",
+       "link": "https://www.ndtv.com/world-news/anthropic-launches-powerful-new-models-claude-fable-5-2-and-mythos-5-2-ahead-of-ipo-12305314#publisher=newsstand",
+       "publishedAt": "2026-11-10T00:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+     "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "CNBC",
+      "Telegraph India",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T00:51+05:30",
+     "score": 8.1,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135692217,imgsize-150770.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+       "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
+       "publishedAt": "2026-11-10T00:51+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmJuZjgzYW5hamNYeWNpNGdzaXdTNnBSc0l2ZTlfc1FNQjV1c3lCdjJuamhCZjRaRnktTlhkZEF3SjdtdjlXYjcxbG9GaU9saDRBdmMzRXVLb1h2QWNObXF1aGZ1TUJhRW5FSWY4RkJpRUVTYzQwYVBmelFITFRVUHQ0RWdsMlpUOV8xT2pRM1FXQ2hpdmsyLVFOQnpVYThRSGFYUnNyN0IwXzFwRWtWZHlzMkdvbHJsdHRUdHMzaGI0UkdQbHVzNkJIeUhOZjdKQkxadlpYYUZkVWNQTGZTSFg3OA?oc=5",
+       "publishedAt": "2026-11-10T00:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Two security breaches near White House prompt brief lockdown",
+     "link": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T00:27+05:30",
+     "score": 7.9,
+     "summary": "Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier.",
+     "image": "https://c.ndtvimg.com/2026-11/di45k6mo_white-house-accident-_625x300_09_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Two security breaches near White House prompt brief lockdown",
+       "link": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
+       "publishedAt": "2026-11-10T00:27+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "White House Had Brief Lockdown After Car Crash Nearby, 2 Arrested",
+       "link": "https://www.ndtv.com/world-news/white-house-on-temporary-lockdown-after-car-crashes-into-signpost-12304959#publisher=newsstand",
+       "publishedAt": "2026-11-10T00:17+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "White House on brief lockdown with Trump inside as car crashes into sidewalk, another person jumps barricade; 2 arrested",
+       "link": "https://www.livemint.com/news/us-news/white-house-lockdown-as-car-crashes-near-north-lawn-driver-clashes-with-secret-service-trump-inside-premises-11794239095126.html",
+       "publishedAt": "2026-11-09T21:31+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "White House goes into temporary lockdown after vehicle crashes near North Lawn | Hindustan Times",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWUhGNndxTUM4REJ3bEZpWjBjVnNfQWszMTVwS2pQSlZKb29FVHpfMmhQY1ZSUUhpc3N6a015cXJxbFZ1M2lPX1RTQmZRU1J6MFlrUkRCYlRja3hZY0xjLVB5cFZTYXNQelFIUVQ4bU5Fb0NpZjJVQ2NwU0ZJREI4TmJudjFJR3VrOHdrLWlQZDNZb09xSlJpZ211RmZ3WWo1WDJFVkZXQ240Vzl1MjRGTjB1ZC1MYnp2MjcxSGlOcmhsbnpQQ0dpTlZuMkxhM2tRdVY2NUg0cG1ZYUd6ZHNPZ2lKQdIB6AFBVV95cUxOeVE1c1RtRFVPUHE2WDY3QXltUWE5N0dPQlNMTG1wRGwybnpyVUx2dDBrLWlmRDdyYUM4eXd5WUZNYXpFTHZNSG5oQ3AtaFlQYU9wdXNvbm0wb2lkMG4wUURQLTZHU3VmUDlMS2FvTmZOY2dBOHpIQXFVU28yWVdqNmE3VlpLajFXemhPdGlqRWp1YjZHcTk1aHg1bVhhUkJzUkFTbEp1RWpwSmRzemR2cFF2UVBpdllJVXJjeDFITmRLelYzSGtlR0paR0dtY29Gc1gyams5NDVwV2Y5WWNCTVlieTRyOHNm?oc=5",
+       "publishedAt": "2026-11-09T21:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump lights 'diya' in Oval Office before MAGA dystopia in Seattle",
+     "link": "https://timesofindia.indiatimes.com/world/us/trump-lights-diwali-lamp-in-oval-office-as-pardoned-jan-6-rioter-brings-darkness-to-seattle-celebration/articleshow/135689740.cms",
+     "source": "Times of India",
+     "sources": [
+      "Firstpost",
+      "Hindustan Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India",
+      "Tripura Chronicle"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-09T23:12+05:30",
+     "score": 6.36,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135690131,imgsize-216348.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Trump lights 'diya' in Oval Office before MAGA dystopia in Seattle",
+       "link": "https://timesofindia.indiatimes.com/world/us/trump-lights-diwali-lamp-in-oval-office-as-pardoned-jan-6-rioter-brings-darkness-to-seattle-celebration/articleshow/135689740.cms",
+       "publishedAt": "2026-11-09T23:12+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Trump lights Diwali lamp in Oval Office as pardoned Jan 6 rioter brings darkness to Seattle celebration",
+       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd2hKUlducHZLM3o3Yk5zYVpyNjJrb1RQQmlONUdxb25XMnM4aDJZVHpIajFyV2hXRnVmMWlVOVVRU2JTT2NtZ3hPS0I4RlF0ZnhySk95dy1Xa25wMnlMQ282R0xtYkpqYm9kZW5LLUZ4bnlVYmM2RmZ2QVdZRzhTTXFfYWlTVGQ3OW9VOXJUa2V3UmJyS3JyTG1xUlNicDB1akl0X3Z6eWJPZGYwT1dUamc5TUpVbi01TkQ0N1Q1NUd6OC1aaVJ0LThXajM5OUZLWTJaMEFQWXFwNThfcEZMYVpaZDZpRnRqaUlvV3hTT2hVWmRManJsZnhLRmQ2cUpVU3lnNw?oc=5",
+       "publishedAt": "2026-11-09T23:12+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T02:00+05:30",
    "generatedAt": "2026-11-10T02:02+05:30",
