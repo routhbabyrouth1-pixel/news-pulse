@@ -1,0 +1,53 @@
+name: Hourly news
+
+on:
+  schedule:
+    - cron: "7 * * * *"   # every hour at :07 UTC, which is :37 IST
+  workflow_dispatch:       # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]       # runs once right after you upload or change files
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: hourly-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch and rank the news
+        run: python scripts/fetch_news.py
+
+      - name: Save this hour to history
+        run: |
+          git config user.name "news-pulse-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/history.json
+          if ! git diff --cached --quiet; then
+            git commit -m "News update $(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M') IST"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
