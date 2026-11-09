@@ -1,6 +1,193 @@
 {
- "updated": "2026-11-10T04:13+05:30",
+ "updated": "2026-11-10T05:08+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T05:00+05:30",
+   "generatedAt": "2026-11-10T05:08+05:30",
+   "feeds": 16,
+   "headlines": 166,
+   "stories": [
+    {
+     "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "NVIDIA Newsroom",
+      "The Economic Times",
+      "The New York Times",
+      "The Times of India",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-10T04:43+05:30",
+     "score": 9.03,
+     "summary": "Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.",
+     "image": "https://static.toiimg.com/photo/msid-135695206,imgsize-95022.cms",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+       "publishedAt": "2026-11-10T04:43+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'He had no idea she was a spy': Trump backs Nvidia CEO Jensen Huang",
+       "link": "https://timesofindia.indiatimes.com/world/us/he-had-no-idea-she-was-a-spy-trump-backs-nvidia-ceo-jensen-huang/articleshow/135695196.cms",
+       "publishedAt": "2026-11-10T04:03+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Trump's close ties to Nvidia's Huang scrutinized",
+       "link": "https://economictimes.indiatimes.com/tech/technology/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns/articleshow/135691644.cms",
+       "publishedAt": "2026-11-10T00:17+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'He had no idea she was a spy': Trump backs Nvidia CEO Jensen Huang",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOTZHWTU3c0l1OWEwUElVMmozcTZCWjRkc2JrcW1oblFSRDJDZHRVbUtkaFo1SnUyd3pNcnRSdDl0M2h2MGl0N0E5dHJVN3QwVG45bXdEYTRiZ0w1ZXBrUkRraWdQSFJDYzI3bzJ5WGg4cHhVNV9vUTJiS0pZaFNsUWM3YzBjWjZRei1vNHhVMS1wSUVSTjR5QnNsc2ZLRjRTSVlNd1JPWU1zMm1TMFcwNHhWdWFacWJPUy1OUnp2cThaQzhZaFNjOFZYbXdMMW1z?oc=5",
+       "publishedAt": "2026-11-10T04:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+     "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "Reuters",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T00:51+05:30",
+     "score": 7.79,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135692217,imgsize-150770.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+       "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
+       "publishedAt": "2026-11-10T00:51+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmJuZjgzYW5hamNYeWNpNGdzaXdTNnBSc0l2ZTlfc1FNQjV1c3lCdjJuamhCZjRaRnktTlhkZEF3SjdtdjlXYjcxbG9GaU9saDRBdmMzRXVLb1h2QWNObXF1aGZ1TUJhRW5FSWY4RkJpRUVTYzQwYVBmelFITFRVUHQ0RWdsMlpUOV8xT2pRM1FXQ2hpdmsyLVFOQnpVYThRSGFYUnNyN0IwXzFwRWtWZHlzMkdvbHJsdHRUdHMzaGI0UkdQbHVzNkJIeUhOZjdKQkxadlpYYUZkVWNQTGZTSFg3OA?oc=5",
+       "publishedAt": "2026-11-10T00:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+     "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNBC",
+      "Mashable",
+      "NDTV",
+      "TechCrunch",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T02:48+05:30",
+     "score": 6.99,
+     "summary": "The new models, Fable 5.2 and Mythos 5.2, can perform up to 30 percent faster than previous versions, particularly for complex tasks like coding, while costing 20 percent less, the company said.",
+     "image": "https://static.toiimg.com/photo/msid-135693108,imgsize-87908.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
+       "publishedAt": "2026-11-10T02:48+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Anthropic Launches New Models Ahead Of IPO: Claude Fable 5.2, Mythos 5.2",
+       "link": "https://www.ndtv.com/world-news/anthropic-launches-powerful-new-models-claude-fable-5-2-and-mythos-5-2-ahead-of-ipo-12305314#publisher=newsstand",
+       "publishedAt": "2026-11-10T00:39+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdWlmTTQwWUlGdUthcE1uVkdINGN4ZVU5RGVMSmRjNzBBNGZYdzQwYkxWZWVzbUJDUW5Db1ZMZmFUS0dhS2NoZ09lNnpUR2VQelZJd29DMFFldlhuRWhHU244VEdTVVZia283d3FheGhnSm90eWlrYmxjTFRhd0dxNjNBVWQ3RWVzN3YwTGhyR0JaZWhJa2lfblVpdFZQSjRGajRRV0R6TFFlbk9CeDhxb1VPOWlmYUpMNzR5amNKV1FtR1NobUUwV0dzemxKbW5kaFhTYmlMZmpQdzhzRklTSU91bDBwZjdULTVZUU1tcGVYZ9IB9wFBVV95cUxOenZpa2paNlNLRUJwVEtKc0o0SkVzcjRPejd1RjIyeFBGVEZSQXV4MENHejhRRmNNano5OEpPekdvLVBFcGxuT1JIclc3dW15RVJxMlllSUM2WXFsN04yVHYwMDlYdWI5bVNXdG9ZVjNjcTZPTjlwYWRsVlZxTXNnemRzZnB2TEh6MXNNRDNlYWZ0STJzUkUyZGRibWNLNkJMOXFGbUJVV3dHREc1bnVHeVRtajdaa0RFb3ZWeW05Ykp4ekx4VWNLTVNibGRPQXVheDBGQjB4VzNEWVRIQWRVM0Q1R29iSUlYS2t2YjBBRkV2aHFGTU5j?oc=5",
+       "publishedAt": "2026-11-10T02:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Diwali is 'Eid of joy', says Kharge; Cong insulting Sanatan culture: BJP",
+     "link": "https://timesofindia.indiatimes.com/india/diwali-is-eid-of-joy-says-kharge-cong-insulting-sanatan-culture-bjp/articleshow/135691615.cms",
+     "source": "Times of India",
+     "sources": [
+      "Rediff",
+      "Telegraph India",
+      "The Economic Times",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T00:17+05:30",
+     "score": 6.28,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135691679,imgsize-69492.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Diwali is 'Eid of joy', says Kharge; Cong insulting Sanatan culture: BJP",
+       "link": "https://timesofindia.indiatimes.com/india/diwali-is-eid-of-joy-says-kharge-cong-insulting-sanatan-culture-bjp/articleshow/135691615.cms",
+       "publishedAt": "2026-11-10T00:17+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Diwali is 'Eid of joy', says Kharge; Congress insulting Sanatan culture: BJP",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjFkM1IxSXlEMW11UDk2amFJOFBvVkNfMVg0U05zU2hhSzdldHhRbE9EM3lsWGRLZ2FFdkpwbmFlOHMxa3FmeFM2WmJNaUtoVTlZakxCSUpOTTZmRERvVXVjVzc3SlFPOFViUnJrak1CRmVTRzhOUEJEejVCamowMXhoS2hWWGhlbDhuVm9nTWtqZEtaaTZubXV0c3p3ZllZcFFvb05TUmZ1NlhQWnNGYjJFRE9NMUwwQVpsSzhFRzUwU1FtaFZnMWtoMlRPNEYy?oc=5",
+       "publishedAt": "2026-11-10T00:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Qatar, Saudi Want Peaceful Iran Deal, US Ready For Strikes If Needed: Trump",
+     "link": "https://www.ndtv.com/world-news/qatar-saudi-want-peaceful-iran-deal-us-ready-for-strikes-if-needed-donald-trump-12305498#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "Iran International",
+      "NDTV",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T04:37+05:30",
+     "score": 6.21,
+     "summary": "Trump, who met Qatar's prime minister earlier on Monday, said \"Qatar would rather see a peaceful solution\" and \"Saudi Arabia would rather see a peaceful solution\" but \"we're ready to go anytime we want\" with strikes.",
+     "image": "https://c.ndtvimg.com/2026-11/al90ni34_donald-trump_625x300_10_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Qatar, Saudi Want Peaceful Iran Deal, US Ready For Strikes If Needed: Trump",
+       "link": "https://www.ndtv.com/world-news/qatar-saudi-want-peaceful-iran-deal-us-ready-for-strikes-if-needed-donald-trump-12305498#publisher=newsstand",
+       "publishedAt": "2026-11-10T02:39+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Trump says Qatar, Saudi prefer peace in Iran conflict",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
+       "publishedAt": "2026-11-10T04:37+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T04:00+05:30",
    "generatedAt": "2026-11-10T04:13+05:30",
