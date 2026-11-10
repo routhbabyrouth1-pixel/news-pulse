@@ -1,6 +1,196 @@
 {
- "updated": "2026-11-10T09:18+05:30",
+ "updated": "2026-11-10T10:20+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T10:00+05:30",
+   "generatedAt": "2026-11-10T10:20+05:30",
+   "feeds": 16,
+   "headlines": 206,
+   "stories": [
+    {
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Hindu"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T09:28+05:30",
+     "score": 9.35,
+     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T09:28+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
+       "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+       "publishedAt": "2026-11-10T06:14+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Trump Says FBI Investigating Nvidia CEO's Affair With Alleged Chinese Spy",
+       "link": "https://www.ndtv.com/world-news/donald-trump-says-fbi-investigating-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-12305672#publisher=newsstand",
+       "publishedAt": "2026-11-10T04:54+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Trump says FBI looking into Nvidia CEO Jensen Huang's affair with 'Chinese agent'",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0xWb1lmUVBYVnFEVmJidVZoTkk3dWFvSTljOWZmeXllQ3c1dVg3enhfMTQyRUZ3ZFVNV0ZTVzRMZmZoNFhrMUViLVZsbmRtd2JXajZNQ3MzM0QtelJ0emJtT2ZEX29JMEMyVjNkZUJXclhzcThuSnRwV0tOWFFaejRZSHNldDJjQ19jS1FKZ04za040bmdFcmhiUUE4TjhqVnBMd3NWM0RoZHF0S1QtRXh5Rm9kTGdHVmhxbmtOcjRUR0dQbTV3Q2k3RnB2RmZBS3VFVmo3cGNWQdIB4AFBVV95cUxPQUN5VXZ5ZUxoSVlIdWVjSkF5OXhNQXd1YTIzcUlKZG5GeUFndW00RGg5R3NpX1BYeFluUzg2YkxhWVNoNVRDQXBRTGR1TlFXUHNiYlRjS3BRV3oyQXdtYVhzbG83MGpLU2c1YnZJWVNYQm9BWVJRLTZWMVY1b1pLZmE5Y0FWTEFITE41cG0xS1BQd0M3ZE81Y1lVU3psaDhUSmp0dmRyU2tmbFBiVDBhbFhpclVwOUlRd1ljWjJ5SmxvaFB1MHRLdEQ3T3NUdkVvcENiYmw1UEdNZ1UxYkxXRw?oc=5",
+       "publishedAt": "2026-11-10T06:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cancer Horoscope Today: November 10, 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "iDiva"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-10T05:50+05:30",
+     "score": 8.37,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Cancer Horoscope Today: November 10, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
+       "publishedAt": "2026-11-10T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "France blames Iran for cyberattacks on supermarket fridges",
+     "link": "https://timesofindia.indiatimes.com/world/europe/france-blames-iran-for-cyberattacks-on-supermarket-fridges-summons-ambassador/articleshow/135696579.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "Rediff",
+      "Reuters",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T07:24+05:30",
+     "score": 7.61,
+     "summary": "French intelligence agencies have accused Iran's Revolutionary Guards of orchestrating disruptive cyberattacks against commercial refrigerators. The incidents targeted hundreds of supermarkets and other food establishments, resulting in significant disruptions to cold-storage systems. Following these attacks, blood banks were also affected, leading to urgent measures for cold-storage. French officials warned of…",
+     "image": "https://static.toiimg.com/photo/msid-135696600,imgsize-187186.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "France blames Iran for cyberattacks on supermarket fridges",
+       "link": "https://timesofindia.indiatimes.com/world/europe/france-blames-iran-for-cyberattacks-on-supermarket-fridges-summons-ambassador/articleshow/135696579.cms",
+       "publishedAt": "2026-11-10T07:24+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "France blames Iran for October supermarket cyberattack",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+       "publishedAt": "2026-11-10T06:31+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "France blames Iran for cyberattacks on supermarket fridges, summons ambassador",
+       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWHFha1JkME9ielJ6VkYwMExRaDVzZjBySnVhb2FieDJ1bU9rMnJTOHJja3U2d1ZscUFKWU9BNXNQVGZCZWQybzB0aEtJTW9mdXR6d1ZzSV9WYXJLMXhYUGhQZ09rRTV0b3U0bEsyZkNiVF9ZSGxWT2ZONlpJSHJiemd4cVZPYWNZeTJVUm9aNFhkMkRJcHJnMDFsdWh2cVNqRGxnQWhrZEdTZ1ppZXozOHhUaThwcDRjNkExaFpzWlphV0VuZFR6VGdOa3RpTy1DNkxHSU92QlB0UkFKeDZnWVltSk1JcjTSAewBQVVfeXFMUF9GT3pkbzFxaFRWeGdmS2JraENCTHU4Mk1oUEFXY3JQS3RyV3VnRzI0RkdKMGVrTHRLbUgzODA2clVLdjlHajhvWk1zTEdmZHRpdFdGLWtlYnpjcG04ZThDbnNodVNEYTNHXzJEWjRMeGFwOHB4WlRNWmM2REUzSjdCdDVvWnJXNDhCaThhUGtCNlpSMVd1MUlkblZkTWh0dl9hcUdfUG5CTl9fRVBrMENOUlFOa1VuN01vZzVxM3laY18zMEdEUTRnRVdQdl9XR0duUV9SZ0hHNE9LcWQ3NGI5TFF0OXNtLV8tWTg?oc=5",
+       "publishedAt": "2026-11-10T07:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock market today: Check if NSE, BSE are open or closed for Diwali-Balipratipada",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-are-nse-bse-open-or-closed-on-november-10-for-diwali-balipratipada-check-details/articleshow/135697978.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T09:05+05:30",
+     "score": 7.54,
+     "summary": "With the festive season bringing changes to the regular trading calendar, investors may be wondering whether the stock market will remain open or closed today, Tuesday, November 10. Following a special Muhurat trading session on Sunday and a regular session on Monday, both the BSE and NSE will remain closed today on account of Diwali-Balipratipada. Regular trading will resume on Wednesday, November 11.",
+     "image": "https://static.toiimg.com/photo/msid-135698093,imgsize-218062.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Stock market today: Check if NSE, BSE are open or closed for Diwali-Balipratipada",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-are-nse-bse-open-or-closed-on-november-10-for-diwali-balipratipada-check-details/articleshow/135697978.cms",
+       "publishedAt": "2026-11-10T09:05+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Are banks open or closed today on November 10?",
+       "link": "https://economictimes.indiatimes.com/wealth/save/bank-holiday-for-bali-pratipada-are-banks-open-or-closed-today-on-november-10-2026/articleshow/135626342.cms",
+       "publishedAt": "2026-11-10T07:00+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume?",
+       "link": "https://www.ndtv.com/business-news/stock-market-holiday-today-november-10-nse-nifty-bse-sensex-banks-shut-when-will-trading-resume-12305778#publisher=newsstand",
+       "publishedAt": "2026-11-10T06:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Diwali as US federal holiday? 19 lawmakers back fresh push",
+     "link": "https://timesofindia.indiatimes.com/world/us/5-indian-origin-lawmakers-among-19-backing-diwali-federal-holiday-bill-in-us/articleshow/135696813.cms",
+     "source": "Times of India",
+     "sources": [
+      "Firstpost",
+      "Rediff",
+      "Telangana Today",
+      "The Economic Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T08:43+05:30",
+     "score": 7.48,
+     "summary": "A group of Indian-American lawmakers supports legislation to establish Diwali as a federal holiday in the United States. Congresswoman Grace Meng leads the initiative alongside 14 other representatives advocating for the recognition of Diwali. This legislation aims to promote cultural awareness and inclusion among diverse communities. The festival represents significant values across various religious groups and…",
+     "image": "https://static.toiimg.com/photo/msid-135697732,imgsize-209216.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Diwali as US federal holiday? 19 lawmakers back fresh push",
+       "link": "https://timesofindia.indiatimes.com/world/us/5-indian-origin-lawmakers-among-19-backing-diwali-federal-holiday-bill-in-us/articleshow/135696813.cms",
+       "publishedAt": "2026-11-10T08:43+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "5 Indian-origin lawmakers among 19 backing Diwali federal holiday bill in US",
+       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUVXQ1pLb1JYNDczYVl2TnRCbGFUWXlXQlA2T1BfQ0x1TkVhVmRUaVZGLVhGQmZsMGlPaFl0ZWp1allMWHlubjNYSzNJUkxGMDhveV9OMVJvbU9ORlA4VjIwQzBRQi1iQ2tySDdpWGdzSzdXa3Fybl9DNk9YLUNUdFV5U2t2XzFyS2hMMEFnYjZDUHpIVG9nV2FqQ2VqMnM0MzZqU2ZCVmQzY0czeUxndFo0N0JzZVRqVHNBcGl5YzNoU3c3SHg4X05ST2dHbHFnNGpSNnRtVHBncC1YYjFZaw?oc=5",
+       "publishedAt": "2026-11-10T08:43+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T09:00+05:30",
    "generatedAt": "2026-11-10T09:18+05:30",
