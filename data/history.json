@@ -1,6 +1,181 @@
 {
- "updated": "2026-11-10T19:38+05:30",
+ "updated": "2026-11-10T21:16+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T21:00+05:30",
+   "generatedAt": "2026-11-10T21:16+05:30",
+   "feeds": 16,
+   "headlines": 320,
+   "stories": [
+    {
+     "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
+     "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "CNBC",
+      "Mint",
+      "NDTV",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T19:47+05:30",
+     "score": 8.25,
+     "summary": "The resolution against Pete Hegseth was brought in by outgoing Republican lawmaker Thomas Massie on Monday.",
+     "image": "https://c.ndtvimg.com/2026-11/sb47n1a4_pete-hegseth_650x400_10_November_26.jpg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
+       "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
+       "publishedAt": "2026-11-10T19:47+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "‘No Secretary of Defence has ever been impeached’: Pete Hegseth defends Iran war actions amid removal push",
+       "link": "https://www.livemint.com/news/us-news/no-secretary-of-defence-has-ever-been-impeached-pete-hegseth-defends-iran-war-actions-amid-removal-push-11794318707252.html",
+       "publishedAt": "2026-11-10T19:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+     "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "Moneycontrol.com",
+      "The Hindu",
+      "WSJ",
+      "Yahoo Finance"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T20:16+05:30",
+     "score": 7.93,
+     "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+       "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T20:16+05:30"
+      },
+      {
+       "source": "WSJ",
+       "title": "Stock Market Today: Dow Opens Lower After Inflation Report — Live Updates",
+       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAycGFzVmI4Q3NSQ2ZMTC1DdDR0M2R3SG1OZm1DMHZ6OG9qa3dJUllpSThRa1RlYm5uWGZrVDE1VHJZU0xJdlBFRWpZSnhzU2hUMlJ1UDdJXzFxamNqTDE5bkgwUXowRV9JdUhyckdOclgyMHlaZFE2RlZR?oc=5",
+       "publishedAt": "2026-11-10T20:07+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Anthropic targets $1.4 trillion valuation in blockbuster IPO",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaHg2Um5QRHJwZGRBc0NVZW1Ma3BlNmtkb21VT1MyLW84TExDWFB3Nk9CZDU4SWNjS0E1YVhvVGUyUHRDVkFOcGFvWURXNDNidEtrSDdkQXBiMTZfd0c0NW9raTg2TEFJUDdZbkZscWRTWG9KemRHY05IOWI4RnpZdkt3UmRNRmNVa0FEa0l6dzlJY0pwQzhaR21zQTBCa21pT3pVcUY0UzZWdS1xSlQ0Wkg3SnJGUVV0RkpvLU5LbHl6TlF6NHhBU3k1dC1kb0xjMlBaSNIB2gFBVV95cUxPSVBfcUpMakhUR3piWW9rZUk5S3JkVDhmVGVzY01rNEg1VHNaYXdFelg2MjA1X2s2WGZ6NTBLcmRhR3NaRFhvVzB0RnJCdmlSNWNUZ2pVX2ZveXlwODQwYkxhbm85QzBWNFVzV2RwUkkyajlzTTk2VmRoZFhSeU52RUJnRE44b2s2YUFYWHhmbG0zc1Y0WUQyZFhfeVVCVUZUSGtRSlRMZ1U5bXJEMENMV1VIUG1kUGNFWDF3aHZORWJaNXpGVHZ2cFdleVQtczF4OXNvNWhPQmZ5dw?oc=5",
+       "publishedAt": "2026-11-10T18:09+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic Sets $70-$78 Price Band Per Share, Targets Trillion Dollar Listing",
+     "link": "https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC",
+      "CNBC",
+      "NDTV",
+      "TechCrunch",
+      "The Hindu",
+      "Yahoo Finance"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T20:08+05:30",
+     "score": 7.56,
+     "summary": "The Anthropic IPO is shaping up to be one of the stock market debuts in history when it lists on Nasdaq, with major companies and investors also committing billions to the offering.",
+     "image": "https://c.ndtvimg.com/2026-05/44jeg4kk_anthropic_625x300_07_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Anthropic Sets $70-$78 Price Band Per Share, Targets Trillion Dollar Listing",
+       "link": "https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004#publisher=newsstand",
+       "publishedAt": "2026-11-10T20:08+05:30"
+      },
+      {
+       "source": "TechCrunch",
+       "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdjJNdmJTYXR1eFhPRm5fN2lYY3p4MUt4UWhUM0ZVT2VKZ2xaU3hWMTkzTlFGUEV4bWFlY3Z0dVRhVHpETWhCejlJaFhOQXpvenBqc2ZLa1hkOGVySmZodC1ndjhwS01oM3BfR1pPdGhHdUwxQ19LRjgwc1dPbTFfX2hkVEVNQXdOTUU2VjdZR1N6WS13Z2Y2TzdvNGZrWmRZZ00zRlY2OEpVTkx2V25BQThIRFJUakRIcUVDd2h5NmdlTFRKaUx2ei1PbGplUDl6?oc=5",
+       "publishedAt": "2026-11-10T19:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "\"We Fell In Love With Him\": Sonia Gandhi On 1st Son Who Died Just After Birth",
+     "link": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-we-fell-in-love-with-him-sonia-gandhi-on-1st-son-who-died-just-after-birth-12307490#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "ABP Live English",
+      "India Today",
+      "NDTV",
+      "Rediff",
+      "The Economic Times",
+      "The Statesman",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T15:56+05:30",
+     "score": 7.36,
+     "summary": "Sonia Gandhi in her memoir says that Rajiv Gandhi broke down and cried alongside her despite what she calls his \"stiff upper lip\" upbringing",
+     "image": "https://c.ndtvimg.com/2022-10/a2pq2o48_rajiv-gandhi-and-sonia-gandhi-_625x300_27_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "\"We Fell In Love With Him\": Sonia Gandhi On 1st Son Who Died Just After Birth",
+       "link": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-we-fell-in-love-with-him-sonia-gandhi-on-1st-son-who-died-just-after-birth-12307490#publisher=newsstand",
+       "publishedAt": "2026-11-10T15:30+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Sonia recalls Sanjay Gandhi's role during Emergency",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/sanjay-gandhi-was-man-in-a-hurry-played-significant-role-in-decision-making-during-emergency-sonia/articleshow/135706775.cms",
+       "publishedAt": "2026-11-10T15:21+05:30"
+      },
+      {
+       "source": "ABP Live English",
+       "title": "We Fell In Love With Him Immediately: Sonia Gandhi Recalls Heartbreaking Loss Of Her Firstborn In New Memoir",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObm9fSFFES0JNdVBQSFFqWkNCUUhwVmxKVVRxZDFockh1YU9LeGRZT2ZuM3ZKcERscG00RW02ZTJMYWZuNThHVkd2dm9PUHlBUlBFeVB5dmJBRXlRZV93WGN4cWpCd2VKeXI0Rkt0ZnB4bUFFLWlra2dCVVlQT3JxNldzWGF2a0RGRmd0Ui1XbHlVSjVjazIwWFpYQ1B2d2tJSU5CMzRoaVBfZFgtUjFHcTd3Vmx0cWxkX2UxUnlCUHFKZXBWUW1wS2RKREd0dGFrR3VxUC1ZWEcxbXpKT3fSAeMBQVVfeXFMT3ZnUW1FWHFCbF81MGdqNm5xNDJaTlVsb1RMUm1mMTZIeENyN2cyRWp5T2Y5c1M1NXRqamNsUjl0V0s3emphbjNrT0lkS2MweFJqQ3RUQTAzeVI0ZVlEQ0dOVXV2YVdmbm5jRFNPOUJDcUJNdktlWTFZYldxMVIteDYyLW00RktFUkR3R2V4UHdfZ0RqYUY3bmZLNklYY1pYNG94VkVsVjIxbXdBNHVyRThQaWVwTVRYRXpLZXJVNGIzU2g4OWhwbzlnckxTSXBtekJBYzEtQ1RzUVFsQmpRaWFtcW8?oc=5",
+       "publishedAt": "2026-11-10T15:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Amazon’s Ring Unveils $250 Flying Security Camera After Delays",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbXRBdlZ1WTVUbVRnZ0R1c2dYaWJkRDY4MGFQWnI3T2ZpN3BjSUZ3MGpuWUpVeUV1WEJ0cHZfUDZOUUhFRlk4OGFmR25NNEdrcDhiTnU3XzVGc0h5NWVDT25zT0dETk5kLXk4d3hkZW9VbTRYX1NpTTh5SGttZExKQ2E2eENWYktzbjdxZmY1TDJndl80Nmo2R3cxSmdHeU9ucFlOMWZMQkl4YUNhcHoydm13?oc=5",
+     "source": "Bloomberg.com",
+     "sources": [
+      "About Amazon",
+      "Bloomberg.com",
+      "CNBC",
+      "TechCrunch",
+      "The Verge"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T19:00+05:30",
+     "score": 7.12,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Bloomberg.com",
+       "title": "Amazon’s Ring Unveils $250 Flying Security Camera After Delays",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbXRBdlZ1WTVUbVRnZ0R1c2dYaWJkRDY4MGFQWnI3T2ZpN3BjSUZ3MGpuWUpVeUV1WEJ0cHZfUDZOUUhFRlk4OGFmR25NNEdrcDhiTnU3XzVGc0h5NWVDT25zT0dETk5kLXk4d3hkZW9VbTRYX1NpTTh5SGttZExKQ2E2eENWYktzbjdxZmY1TDJndl80Nmo2R3cxSmdHeU9ucFlOMWZMQkl4YUNhcHoydm13?oc=5",
+       "publishedAt": "2026-11-10T19:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T19:00+05:30",
    "generatedAt": "2026-11-10T19:38+05:30",
