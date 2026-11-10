@@ -1,6 +1,183 @@
 {
- "updated": "2026-11-10T16:22+05:30",
+ "updated": "2026-11-10T17:19+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T17:00+05:30",
+   "generatedAt": "2026-11-10T17:19+05:30",
+   "feeds": 16,
+   "headlines": 337,
+   "stories": [
+    {
+     "title": "Q2 Results Live: Cochin Shipyard Profit Tumbles 50%, Declares Dividend; MRF Profit Slips 28%; Kalyan Jewellers In Focus",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbmdqRi1Xc1dUSUt2a3pSVVdtOVRHX2ZydWRibWlVZlA0cjlsak1IRldxQjFpQkc5SnBOak1KbEVyUWVGdmFVZVJ4NVFmUHgta1QzeUdFNGlrcUUydGVWeXJsZm5pdXRBbUwyQTlkQW9ldHh2YUNxVTl6S2NEY0Q0d2VWeXoyS0xaNlIwYWZzZFVKX2FPX2hIY2Jvd2ROcFIzUGJxd2ZCVWh6aHJOQ0ZFRU5ObW9hVGxsLUxYOEkzVFRva183Q000TUdEdnNUYXNCSjhZaHZleFZMV2RCTjVKSU44QUlBcFk3ald2WVJKV0RsWGtJ0gH8AUFVX3lxTE55RDgzV282ZGRmZEpUZjJEZF9XV1p3Y1ZOMmttM3g5WjlpU2pocmluRmZ2cUFRakhIWl9tWE9RcHQ5MzdUTlc1WlcyR1dhNGFXU241YXNQRGNzN1lqZVdjcXRsTlFtX0psNXhsVURsUGZEQ20tZk5NeGhqbWx3SnVteVhsNWh0bGNwWXBvRWJfWlVZempiSVZBRVhLcVdqWmREb3N2NU9lell6NjR3Y0VBaGxnbTB0N2RrbEVVSTQ2LTZDdGRqWmZ1QVpBeW9PdHViLWRMZUM3VDhZZGZuQmltZXdMTEczdklDVndCbWxKVmZfWlVmWUR5MjdoQg?oc=5",
+     "source": "NDTV Profit",
+     "sources": [
+      "BusinessLine",
+      "Livemint",
+      "Moneycontrol.com",
+      "NDTV Profit",
+      "Rediff MoneyWiz",
+      "Trade Brains",
+      "Univest",
+      "Zee Business",
+      "https://www.siam.in/"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-10T15:55+05:30",
+     "score": 9.86,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV Profit",
+       "title": "Q2 Results Live: Cochin Shipyard Profit Tumbles 50%, Declares Dividend; MRF Profit Slips 28%; Kalyan Jewellers In Focus",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbmdqRi1Xc1dUSUt2a3pSVVdtOVRHX2ZydWRibWlVZlA0cjlsak1IRldxQjFpQkc5SnBOak1KbEVyUWVGdmFVZVJ4NVFmUHgta1QzeUdFNGlrcUUydGVWeXJsZm5pdXRBbUwyQTlkQW9ldHh2YUNxVTl6S2NEY0Q0d2VWeXoyS0xaNlIwYWZzZFVKX2FPX2hIY2Jvd2ROcFIzUGJxd2ZCVWh6aHJOQ0ZFRU5ObW9hVGxsLUxYOEkzVFRva183Q000TUdEdnNUYXNCSjhZaHZleFZMV2RCTjVKSU44QUlBcFk3ald2WVJKV0RsWGtJ0gH8AUFVX3lxTE55RDgzV282ZGRmZEpUZjJEZF9XV1p3Y1ZOMmttM3g5WjlpU2pocmluRmZ2cUFRakhIWl9tWE9RcHQ5MzdUTlc1WlcyR1dhNGFXU241YXNQRGNzN1lqZVdjcXRsTlFtX0psNXhsVURsUGZEQ20tZk5NeGhqbWx3SnVteVhsNWh0bGNwWXBvRWJfWlVZempiSVZBRVhLcVdqWmREb3N2NU9lell6NjR3Y0VBaGxnbTB0N2RrbEVVSTQ2LTZDdGRqWmZ1QVpBeW9PdHViLWRMZUM3VDhZZGZuQmltZXdMTEczdklDVndCbWxKVmZfWlVmWUR5MjdoQg?oc=5",
+       "publishedAt": "2026-11-10T15:55+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Cochin Shipyard Q2 net profit halves to Rs 54 crore; declares dividend",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZDZXN0t6elVoYWdwVHNfdDEyQ09abkZrb29GbDByU1U0UjRnblpEaFBXcS03dlVyWGpJZmswMlZ2SjFmUXlUXzdralphWEtaUF9TZDNIb1pQYVotSDM2ZUwwWlRHMmxRN0cxTFJBMkVFaEgyMTZyMTFfOVFqN0hFdzR3bFE1cEJrLXZRbnRQYml2ZlRaUHpPQnJ6UTBQNWFfbE9UcDVBT095NVhubmEtS25LSkkwWi1lTGRObWlzVFZVZDgwM0gwNWJ0TUEtUDTSAdQBQVVfeXFMTmkwZ2ozV29zNHNueWs0Rlp3T1BjOXRjNGh0LXVadmpkSkR1ellIU0tPcmU1MzgtSm83Y2xUZlZIbmJaU2NDWGRFVGwwZXNWYlBIbGoxYWR3eWs5ZFNYLXFkdDFTOGV0MXBCR1h2N2FmQTBJblJpOGsybEV1WG0yMW1oUHVmNm9OeS1FV3o3Z3VlZlpwQzRXOHByUDRxcUxxdXpjRWw1WWhhYkxVbzAwY0g0OEFrWjd2a3JfdVB1SWVDSXk2WlllV3JHUmhPcnlXd1hBRlg?oc=5",
+       "publishedAt": "2026-11-10T15:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sonia recalls Sanjay Gandhi's role during Emergency",
+     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/sanjay-gandhi-was-man-in-a-hurry-played-significant-role-in-decision-making-during-emergency-sonia/articleshow/135706775.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Firstpost",
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T15:21+05:30",
+     "score": 7.86,
+     "summary": "The comments from the ruling party came on the day Sonia Gandhi’s memoir was released, in which she weighed in on the Emergency imposed in the country in 1975 and called it a mistake",
+     "image": "https://th-i.thgim.com/public/incoming/tk1oaf/article71685198.ece/alternates/LANDSCAPE_1200/12_RVM4554.jpg",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Sonia recalls Sanjay Gandhi's role during Emergency",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/sanjay-gandhi-was-man-in-a-hurry-played-significant-role-in-decision-making-during-emergency-sonia/articleshow/135706775.cms",
+       "publishedAt": "2026-11-10T15:21+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Sonia Gandhi trying to justify Emergency, memoir should've been named ‘Whitewashing’: BJP",
+       "link": "https://www.thehindu.com/news/national/sonia-gandhi-trying-to-justify-emergency-memoir-shouldve-been-named-whitewashing-bjp/article71685174.ece",
+       "publishedAt": "2026-11-10T13:51+05:30"
+      },
+      {
+       "source": "Telegraph India",
+       "title": "‘Sizing up’ women at Delhi reception: Sonia Gandhi memoir recalls Bill Clinton's ‘old habit’",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaU8xb2hrY1c0OUtRdXZTQ0ZHejVJWDVEdVdNUTVFMFU0RERtRTB1WGxEQ0o5RmhHOFNsdnpIN2Z5aVNsTHlqYWlVUkJDVGpMNi1OWkZLU2hWaGpRb2xxZXFxY1FNOGstazZueHk1bXpITXZzTnpYRnNHcUh4eUxIazhncndINGNDN19Ec2I3cmN3eVZrUWltaHBlRFVGS2Z3cXIzc0tMdFBQQXlsa0ktV3NMUHU1YV82VkplWEhYT0Rya2xpTXhvN1pqZEltV2k30gHWAUFVX3lxTE1Jc1NrLXVFblE1Q2VHc3A5RHV2dVF5cTZ5eVN6QVA4Zjc2LVBQaExkZm0xNEJWcURjN2JhemtYRjVwcnVmallLOUJHSUp6WmdJT05Yak1iY1RBUlpLYkdpZ1Q4eGcwZUtLX2dKSElYT1pmbEUtSEhGRkxQeFZMaFlxMkplNndJTXVUWkZWTnplenI0UUd2VGNPVEd6c010SE9xYVcyMmRsblI3ZlRFbFltc1V4RTVCNm5OclJzZzJFMXA1anowaVZ1YlZaaklmQ0JfOEFQbXc?oc=5",
+       "publishedAt": "2026-11-10T12:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+     "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+     "source": "The Guardian",
+     "sources": [
+      "BBC",
+      "DW.com",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T16:53+05:30",
+     "score": 7.43,
+     "summary": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe Europe live – latest updates US officials have said they are seeking a “final end” to the war between Russia and Ukraine, beginning with trilateral talks in Abu Dhabi on Tuesday, the first substantive negotiations between the two countries since February. The talks are the first since…",
+     "image": "https://i.guim.co.uk/img/media/83dc5bf0e0260881e9cd595c706a20cd0b0a8604/761_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=c7b5181f4b6713c17b9829e20be81363",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+       "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+       "publishedAt": "2026-11-10T16:53+05:30"
+      },
+      {
+       "source": "DW.com",
+       "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
+       "publishedAt": "2026-11-10T16:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Crime To Be Ambitious?' Pranab Mukherjee's Daughter Hits Back At Sonia Gandhi",
+     "link": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-crime-to-be-ambitious-pranab-mukherjees-daughter-hits-back-at-sonia-gandhi-12307487#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Moneycontrol.com",
+      "NDTV",
+      "PTC News",
+      "The Economic Times",
+      "The Indian Express",
+      "The News Mill"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T15:23+05:30",
+     "score": 7.43,
+     "summary": "Sonia Gandhi, in her memoir 'Belonging: A Journey Of Love', which released worldwide today, references a 2010 conversation with Pranab Mukherjee and writes \"he shocked me with the suggestion that perhaps it was time for a change at the top\".",
+     "image": "https://i.ndtvimg.com/i/2015-11/sonia-gandhi_650x400_81446476274.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "'Crime To Be Ambitious?' Pranab Mukherjee's Daughter Hits Back At Sonia Gandhi",
+       "link": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-crime-to-be-ambitious-pranab-mukherjees-daughter-hits-back-at-sonia-gandhi-12307487#publisher=newsstand",
+       "publishedAt": "2026-11-10T15:23+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "‘He shocked me’: Sonia Gandhi on Pranab Mukherjee’s PM hint",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORTdyOUt1czBVQkFBaGNxMVBuR2RlR0FmT1dYQTdUNHg0UHQ0NzFuSUtWb0loaGlaNnVyNXozVHMwYzlZdTdOcmtDd0Ztd3JfTklOZDQ3VzZiWnRCdE5XWnpES0p2TzBPSVdQMTFwdlFPZ05COHg3TkQzRndRaVJXVHNodFNDUHBIRWlMbE5nRGM2YS1HQ3Y5aEhEeFRQNmFVMjF2VnkxdURzVjJOd1JfaWxmejVNalNUaXlaNmlUQTRISXg5eWxwTVZkR05JaGRoZkE?oc=5",
+       "publishedAt": "2026-11-10T15:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pannun’s civil lawsuit: U.S. State Department formally serves notice on India",
+     "link": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Mint",
+      "Swarajya",
+      "Telegraph India",
+      "The Hindu",
+      "ThePrint",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T15:23+05:30",
+     "score": 7.18,
+     "summary": "The U.S. Department of State said it was legally obliged to do so and is not taking a position on the case",
+     "image": "https://th-i.thgim.com/public/incoming/hop5hz/article71685489.ece/alternates/LANDSCAPE_1200/India_Sikh_Assassination_Plot_65459.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Pannun’s civil lawsuit: U.S. State Department formally serves notice on India",
+       "link": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
+       "publishedAt": "2026-11-10T15:23+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "US State Department serves summons to Government of India in civil lawsuit by Khalistan separatist Gurpatwant Pannun",
+       "link": "https://www.livemint.com/news/us-news/us-state-department-serves-summons-to-government-of-india-in-civil-lawsuit-by-khalistan-separatist-gurpatwant-pannun-11794301265628.html",
+       "publishedAt": "2026-11-10T14:41+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T16:00+05:30",
    "generatedAt": "2026-11-10T16:22+05:30",
