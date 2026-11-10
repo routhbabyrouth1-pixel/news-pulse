@@ -1,6 +1,197 @@
 {
- "updated": "2026-11-10T10:20+05:30",
+ "updated": "2026-11-10T11:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T11:00+05:30",
+   "generatedAt": "2026-11-10T11:21+05:30",
+   "feeds": 16,
+   "headlines": 247,
+   "stories": [
+    {
+     "title": "Nvidia CEO Jensen Huang's price of secret affair",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/jensen-huangs-price-of-secret-affair-nvidia-ceo-loses-7-4-billion-in-30-minutes-drops-2-spots-in-top-10-richest-list/articleshow/135699776.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNBC",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-10T11:06+05:30",
+     "score": 10.46,
+     "summary": "Nvidia's CEO Jensen Huang faced a notable drop in net worth, tumbling from $162.2 billion to $154.7 billion, following revelations of an ongoing investigation into his supposed involvement with a Chinese spy. The resulting unrest caused Nvidia's shares to plunge by more than 7%, raising alarms about its market stability as broader questions emerge regarding Nokia's dealings in China and their national security…",
+     "image": "https://static.toiimg.com/photo/msid-135698481,imgsize-59044.cms",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Nvidia CEO Jensen Huang's price of secret affair",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/jensen-huangs-price-of-secret-affair-nvidia-ceo-loses-7-4-billion-in-30-minutes-drops-2-spots-in-top-10-richest-list/articleshow/135699776.cms",
+       "publishedAt": "2026-11-10T11:06+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Nvidia CEO Jensen Huang loses $7.4bn in 30 minutes, drops 2 spots in Forbes rich list",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-ceo-jensen-huang-loses-7-4-billion-in-30-minutes-drops-2-spots-in-forbes-rich-list/articleshow/135698220.cms",
+       "publishedAt": "2026-11-10T09:22+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
+       "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+       "publishedAt": "2026-11-10T06:14+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Trump says FBI looking into Nvidia CEO Jensen Huang's affair with 'Chinese agent'",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0xWb1lmUVBYVnFEVmJidVZoTkk3dWFvSTljOWZmeXllQ3c1dVg3enhfMTQyRUZ3ZFVNV0ZTVzRMZmZoNFhrMUViLVZsbmRtd2JXajZNQ3MzM0QtelJ0emJtT2ZEX29JMEMyVjNkZUJXclhzcThuSnRwV0tOWFFaejRZSHNldDJjQ19jS1FKZ04za040bmdFcmhiUUE4TjhqVnBMd3NWM0RoZHF0S1QtRXh5Rm9kTGdHVmhxbmtOcjRUR0dQbTV3Q2k3RnB2RmZBS3VFVmo3cGNWQdIB4AFBVV95cUxPQUN5VXZ5ZUxoSVlIdWVjSkF5OXhNQXd1YTIzcUlKZG5GeUFndW00RGg5R3NpX1BYeFluUzg2YkxhWVNoNVRDQXBRTGR1TlFXUHNiYlRjS3BRV3oyQXdtYVhzbG83MGpLU2c1YnZJWVNYQm9BWVJRLTZWMVY1b1pLZmE5Y0FWTEFITE41cG0xS1BQd0M3ZE81Y1lVU3psaDhUSmp0dmRyU2tmbFBiVDBhbFhpclVwOUlRd1ljWjJ5SmxvaFB1MHRLdEQ3T3NUdkVvcENiYmw1UEdNZ1UxYkxXRw?oc=5",
+       "publishedAt": "2026-11-10T06:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Why Sonia Gandhi gave up PM post in 2004 despite UPA victory; memoir recalls moment",
+     "link": "https://timesofindia.indiatimes.com/india/what-made-sonia-gandhi-turn-down-pm-post-after-upas-2004-victory-memoir-revisits-moment/articleshow/135699936.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "The Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T10:30+05:30",
+     "score": 8.36,
+     "summary": "Sonia Gandhi reveals her thoughts in her memoir about declining the prime minister role after the UPA's victory. She describes her inner voice guiding her decision and her conversation with Rahul. Gandhi highlights why she chose Manmohan Singh for the position, noting his integrity and governance experience. Her memoir also covers her personal journey, including significant tragedies and cultural adjustments after…",
+     "image": "https://static.toiimg.com/photo/msid-135699972,imgsize-912528.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Why Sonia Gandhi gave up PM post in 2004 despite UPA victory; memoir recalls moment",
+       "link": "https://timesofindia.indiatimes.com/india/what-made-sonia-gandhi-turn-down-pm-post-after-upas-2004-victory-memoir-revisits-moment/articleshow/135699936.cms",
+       "publishedAt": "2026-11-10T10:30+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "In memoir, Sonia Gandhi recalls UPA power dynamics with Manmohan, Pranab’s 2010 PM post hint",
+       "link": "https://www.hindustantimes.com/india-news/manmohan-singh-ran-govt-i-focused-on-party-sonia-gandhi-details-upa-division-of-power-in-her-memoire-101794280216321.html",
+       "publishedAt": "2026-11-10T09:14+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "What made Sonia Gandhi turn down PM post after UPA’s 2004 victory? Memoir revisits moment",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWERJV0kzbG96REIwdElCby1vcXNCckgzUFFmNGZQWU0tWEVJQUh1UzNUampSR3YzSjJhV3F5bkxNUDl2dnd2N1pyWlo4X2ZBRUVWR0x0ZHJtR3c2WWpGZW1DMFlkc2Z4WGxwQkcxbXczME5ydVZsbklJcTlidkZzUDR1aG1BSTBBOHhjTkZQQlpadUtVa196WTE4TEJZVVNrbWt2XzB5eXB1QXRsWnRsWGdia01nUjhNQ1NGalNXYUVBZ0JudEluaE8tS3ZrZXd0N0pRMkFzZ3NBb2RIZmI0bTF2aTdKTGZWbGJz?oc=5",
+       "publishedAt": "2026-11-10T10:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Diwali as US federal holiday? 19 lawmakers back fresh push",
+     "link": "https://timesofindia.indiatimes.com/world/us/5-indian-origin-lawmakers-among-19-backing-diwali-federal-holiday-bill-in-us/articleshow/135696813.cms",
+     "source": "Times of India",
+     "sources": [
+      "Firstpost",
+      "Inshorts",
+      "Rediff",
+      "Telangana Today",
+      "The Economic Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T08:43+05:30",
+     "score": 7.86,
+     "summary": "A group of Indian-American lawmakers supports legislation to establish Diwali as a federal holiday in the United States. Congresswoman Grace Meng leads the initiative alongside 14 other representatives advocating for the recognition of Diwali. This legislation aims to promote cultural awareness and inclusion among diverse communities. The festival represents significant values across various religious groups and…",
+     "image": "https://static.toiimg.com/photo/msid-135697732,imgsize-209216.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Diwali as US federal holiday? 19 lawmakers back fresh push",
+       "link": "https://timesofindia.indiatimes.com/world/us/5-indian-origin-lawmakers-among-19-backing-diwali-federal-holiday-bill-in-us/articleshow/135696813.cms",
+       "publishedAt": "2026-11-10T08:43+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "5 Indian-origin lawmakers among 19 backing Diwali federal holiday bill in US",
+       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUVXQ1pLb1JYNDczYVl2TnRCbGFUWXlXQlA2T1BfQ0x1TkVhVmRUaVZGLVhGQmZsMGlPaFl0ZWp1allMWHlubjNYSzNJUkxGMDhveV9OMVJvbU9ORlA4VjIwQzBRQi1iQ2tySDdpWGdzSzdXa3Fybl9DNk9YLUNUdFV5U2t2XzFyS2hMMEFnYjZDUHpIVG9nV2FqQ2VqMnM0MzZqU2ZCVmQzY0czeUxndFo0N0JzZVRqVHNBcGl5YzNoU3c3SHg4X05ST2dHbHFnNGpSNnRtVHBncC1YYjFZaw?oc=5",
+       "publishedAt": "2026-11-10T08:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "France blames Iran for cyberattacks on supermarket fridges",
+     "link": "https://timesofindia.indiatimes.com/world/europe/france-blames-iran-for-cyberattacks-on-supermarket-fridges-summons-ambassador/articleshow/135696579.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "The Atlantic",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T07:24+05:30",
+     "score": 7.44,
+     "summary": "French intelligence agencies have accused Iran's Revolutionary Guards of orchestrating disruptive cyberattacks against commercial refrigerators. The incidents targeted hundreds of supermarkets and other food establishments, resulting in significant disruptions to cold-storage systems. Following these attacks, blood banks were also affected, leading to urgent measures for cold-storage. French officials warned of…",
+     "image": "https://static.toiimg.com/photo/msid-135696600,imgsize-187186.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "France blames Iran for cyberattacks on supermarket fridges",
+       "link": "https://timesofindia.indiatimes.com/world/europe/france-blames-iran-for-cyberattacks-on-supermarket-fridges-summons-ambassador/articleshow/135696579.cms",
+       "publishedAt": "2026-11-10T07:24+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "France blames Iran for October supermarket cyberattack",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+       "publishedAt": "2026-11-10T06:31+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "France blames Iran for cyberattacks on supermarket fridges, summons ambassador",
+       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWHFha1JkME9ielJ6VkYwMExRaDVzZjBySnVhb2FieDJ1bU9rMnJTOHJja3U2d1ZscUFKWU9BNXNQVGZCZWQybzB0aEtJTW9mdXR6d1ZzSV9WYXJLMXhYUGhQZ09rRTV0b3U0bEsyZkNiVF9ZSGxWT2ZONlpJSHJiemd4cVZPYWNZeTJVUm9aNFhkMkRJcHJnMDFsdWh2cVNqRGxnQWhrZEdTZ1ppZXozOHhUaThwcDRjNkExaFpzWlphV0VuZFR6VGdOa3RpTy1DNkxHSU92QlB0UkFKeDZnWVltSk1JcjTSAewBQVVfeXFMUF9GT3pkbzFxaFRWeGdmS2JraENCTHU4Mk1oUEFXY3JQS3RyV3VnRzI0RkdKMGVrTHRLbUgzODA2clVLdjlHajhvWk1zTEdmZHRpdFdGLWtlYnpjcG04ZThDbnNodVNEYTNHXzJEWjRMeGFwOHB4WlRNWmM2REUzSjdCdDVvWnJXNDhCaThhUGtCNlpSMVd1MUlkblZkTWh0dl9hcUdfUG5CTl9fRVBrMENOUlFOa1VuN01vZzVxM3laY18zMEdEUTRnRVdQdl9XR0duUV9SZ0hHNE9LcWQ3NGI5TFF0OXNtLV8tWTg?oc=5",
+       "publishedAt": "2026-11-10T07:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cancer Horoscope Today: November 10, 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "iDiva"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T05:50+05:30",
+     "score": 7.22,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Cancer Horoscope Today: November 10, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
+       "publishedAt": "2026-11-10T05:50+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T10:00+05:30",
    "generatedAt": "2026-11-10T10:20+05:30",
