@@ -1,6 +1,209 @@
 {
- "updated": "2026-11-10T11:21+05:30",
+ "updated": "2026-11-10T12:31+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T12:00+05:30",
+   "generatedAt": "2026-11-10T12:31+05:30",
+   "feeds": 16,
+   "headlines": 283,
+   "stories": [
+    {
+     "title": "Rubio warned Trump about Nvidia CEO's Chinese 'spy' affair months ago. Did he ignore it?",
+     "link": "https://timesofindia.indiatimes.com/world/us/rubio-warned-trump-about-nvidia-ceos-affair-with-chinese-spy-months-ago-did-he-ignore-it/articleshow/135701376.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC News",
+      "Hindustan Times",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Hindu",
+      "The New York Times",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T12:10+05:30",
+     "score": 9.44,
+     "summary": "US President Donald Trump expressed confidence in Nvidia CEO Jensen Huang regarding allegations of ties to a Chinese spy. Trump stated he believes Huang was unaware of the alleged spy's identity during an FBI investigation. Rubio's memo on Huang's relationships surfaced before Trump's visit to Beijing, indicating prior knowledge of the situation. The FBI is scrutinizing the implications on national security…",
+     "image": "https://static.toiimg.com/photo/msid-135701745,imgsize-145638.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Rubio warned Trump about Nvidia CEO's Chinese 'spy' affair months ago. Did he ignore it?",
+       "link": "https://timesofindia.indiatimes.com/world/us/rubio-warned-trump-about-nvidia-ceos-affair-with-chinese-spy-months-ago-did-he-ignore-it/articleshow/135701376.cms",
+       "publishedAt": "2026-11-10T12:10+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T09:28+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Trump says FBI looking into Nvidia CEO Jensen Huang's affair with 'Chinese agent'",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0xWb1lmUVBYVnFEVmJidVZoTkk3dWFvSTljOWZmeXllQ3c1dVg3enhfMTQyRUZ3ZFVNV0ZTVzRMZmZoNFhrMUViLVZsbmRtd2JXajZNQ3MzM0QtelJ0emJtT2ZEX29JMEMyVjNkZUJXclhzcThuSnRwV0tOWFFaejRZSHNldDJjQ19jS1FKZ04za040bmdFcmhiUUE4TjhqVnBMd3NWM0RoZHF0S1QtRXh5Rm9kTGdHVmhxbmtOcjRUR0dQbTV3Q2k3RnB2RmZBS3VFVmo3cGNWQdIB4AFBVV95cUxPQUN5VXZ5ZUxoSVlIdWVjSkF5OXhNQXd1YTIzcUlKZG5GeUFndW00RGg5R3NpX1BYeFluUzg2YkxhWVNoNVRDQXBRTGR1TlFXUHNiYlRjS3BRV3oyQXdtYVhzbG83MGpLU2c1YnZJWVNYQm9BWVJRLTZWMVY1b1pLZmE5Y0FWTEFITE41cG0xS1BQd0M3ZE81Y1lVU3psaDhUSmp0dmRyU2tmbFBiVDBhbFhpclVwOUlRd1ljWjJ5SmxvaFB1MHRLdEQ3T3NUdkVvcENiYmw1UEdNZ1UxYkxXRw?oc=5",
+       "publishedAt": "2026-11-10T06:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Why Sonia Gandhi gave up PM post in 2004 despite UPA victory; memoir recalls moment",
+     "link": "https://timesofindia.indiatimes.com/india/what-made-sonia-gandhi-turn-down-pm-post-after-upas-2004-victory-memoir-revisits-moment/articleshow/135699936.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T10:30+05:30",
+     "score": 8.41,
+     "summary": "Sonia Gandhi reveals her thoughts in her memoir about declining the prime minister role after the UPA's victory. She describes her inner voice guiding her decision and her conversation with Rahul. Gandhi highlights why she chose Manmohan Singh for the position, noting his integrity and governance experience. Her memoir also covers her personal journey, including significant tragedies and cultural adjustments after…",
+     "image": "https://static.toiimg.com/photo/msid-135699972,imgsize-912528.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Why Sonia Gandhi gave up PM post in 2004 despite UPA victory; memoir recalls moment",
+       "link": "https://timesofindia.indiatimes.com/india/what-made-sonia-gandhi-turn-down-pm-post-after-upas-2004-victory-memoir-revisits-moment/articleshow/135699936.cms",
+       "publishedAt": "2026-11-10T10:30+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "In memoir, Sonia Gandhi recalls UPA power dynamics with Manmohan, Pranab’s 2010 PM post hint",
+       "link": "https://www.hindustantimes.com/india-news/manmohan-singh-ran-govt-i-focused-on-party-sonia-gandhi-details-upa-division-of-power-in-her-memoire-101794280216321.html",
+       "publishedAt": "2026-11-10T09:14+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "What made Sonia Gandhi turn down PM post after UPA’s 2004 victory? Memoir revisits moment",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWERJV0kzbG96REIwdElCby1vcXNCckgzUFFmNGZQWU0tWEVJQUh1UzNUampSR3YzSjJhV3F5bkxNUDl2dnd2N1pyWlo4X2ZBRUVWR0x0ZHJtR3c2WWpGZW1DMFlkc2Z4WGxwQkcxbXczME5ydVZsbklJcTlidkZzUDR1aG1BSTBBOHhjTkZQQlpadUtVa196WTE4TEJZVVNrbWt2XzB5eXB1QXRsWnRsWGdia01nUjhNQ1NGalNXYUVBZ0JudEluaE8tS3ZrZXd0N0pRMkFzZ3NBb2RIZmI0bTF2aTdKTGZWbGJz?oc=5",
+       "publishedAt": "2026-11-10T10:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
+     "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+     "source": "The Guardian",
+     "sources": [
+      "TWZ",
+      "The Guardian",
+      "The Times of India",
+      "The Times of Israel",
+      "Times of India",
+      "WSJ",
+      "وكالة صدى نيوز"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T12:16+05:30",
+     "score": 8.01,
+     "summary": "The reported evacuation comes weeks after the US withdrew bombers from RAF Fairford over a suspected Iran-linked security incident The US military evacuated aircraft from a second airbase in ⁠Britain on Monday after a threat from Iran, the Wall Street Journal (WSJ) reported, citing people familiar with the matter, weeks after Washington withdrew its bombers from ⁠RAF Fairford airbase over ⁠a suspected Iran-linked…",
+     "image": "https://i.guim.co.uk/img/media/af04e0ad8236fe288041fbdcdd6bba810aba9aa1/0_173_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=a47bae74f3b22739cfbea6fffd16c20a",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
+       "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+       "publishedAt": "2026-11-10T12:16+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "US evacuates aircraft from UK air base after Iran threat: Report",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-evacuates-aircraft-from-uk-air-base-after-iran-threat-report/articleshow/135699996.cms",
+       "publishedAt": "2026-11-10T10:33+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "US evacuates aircraft from UK air base after Iran threat: Report",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMzNnNmRUcS14N1VQQlJQTnZJRGZTUDhqUkxuR3pTbWRGNnk2VGpEYVVtMVRRbGFxMUMtaGREN1ppc2hMODc5dVVYWHJDMFdDZGpxTml0NDlLNkRZazZzMG9vMEVNV2ZxM0pfXzJjdUpZLTVERFNtMVJCTU9ack8zUUY0QVluZDEtRUdRZG9nREpLT3RhS3VtRWcwSVREU1V6aG9Zb3R6azRITG5BWUlrdDVEWmJYQnhJd0VtMU81VG9KXzJCNEhsSTRXSnhSMHc?oc=5",
+       "publishedAt": "2026-11-10T10:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+     "link": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+     "source": "The Guardian",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "CGTN",
+      "Reuters",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T11:30+05:30",
+     "score": 7.9,
+     "summary": "Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’ Get our daily political email , free app or daily news podcast OpenAI will not face criminal penalties over the Medicare data breach , but the prime minister has flagged changes to Australia’s criminal law to crack down on future breaches by artificial intelligence companies. Anthony…",
+     "image": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8860562d2849d1681cc78614e56d9f4f",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+       "link": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+       "publishedAt": "2026-11-10T11:30+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+       "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T10:52+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEQl9udTRUU1hUZzhQNmxLY29aQjRqb3dYZEU1ME5ncnlLMkUzTmpwaTBSRHJmTXRmNkduZmdVNFllZmVNeUlIcVI0TW5rQThqLUNlWDRvcnVJOXM?oc=5",
+       "publishedAt": "2026-11-10T10:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Australia's Qantas Airways to cut 850 jobs",
+     "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/australias-qantas-airways-to-cut-850-jobs-as-ai-takes-off-back-office-work-shifts-to-india/articleshow/135696879.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "ABC News & Headlines – Australian Broadcasting Corporation",
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "Reuters",
+      "The Economic Times",
+      "The Guardian"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T07:53+05:30",
+     "score": 7.73,
+     "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Australia's Qantas Airways to cut 850 jobs",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/australias-qantas-airways-to-cut-850-jobs-as-ai-takes-off-back-office-work-shifts-to-india/articleshow/135696879.cms",
+       "publishedAt": "2026-11-10T07:53+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+       "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T07:25+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02RlZqRC1uYWJWaUtMNzIxblRsNFdxdXcxeXJEV05hdHRUb2J6emNjTW9OQ2xORHh0NU5GYTVqWWx4akljcDlJVnhZbDRLSFdocGJJRk5QYlp2TTg?oc=5",
+       "publishedAt": "2026-11-10T07:25+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T11:00+05:30",
    "generatedAt": "2026-11-10T11:21+05:30",
