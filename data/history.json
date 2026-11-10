@@ -1,6 +1,189 @@
 {
- "updated": "2026-11-10T23:15+05:30",
+ "updated": "2026-11-11T00:16+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T00:00+05:30",
+   "generatedAt": "2026-11-11T00:16+05:30",
+   "feeds": 16,
+   "headlines": 291,
+   "stories": [
+    {
+     "title": "Anthropic Sets $70-$78 Price Band Per Share, Targets Trillion-Dollar Listing",
+     "link": "https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC",
+      "CNBC",
+      "NDTV",
+      "Reuters",
+      "TechCrunch",
+      "Telegraph India",
+      "WSJ"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T21:59+05:30",
+     "score": 8.37,
+     "summary": "The Anthropic IPO is shaping up to be one of the biggest stock market debuts in history when it lists on Nasdaq, with major companies and investors also committing billions to the offering.",
+     "image": "https://c.ndtvimg.com/2026-05/44jeg4kk_anthropic_625x300_07_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Anthropic Sets $70-$78 Price Band Per Share, Targets Trillion-Dollar Listing",
+       "link": "https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004#publisher=newsstand",
+       "publishedAt": "2026-11-10T21:59+05:30"
+      },
+      {
+       "source": "TechCrunch",
+       "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdjJNdmJTYXR1eFhPRm5fN2lYY3p4MUt4UWhUM0ZVT2VKZ2xaU3hWMTkzTlFGUEV4bWFlY3Z0dVRhVHpETWhCejlJaFhOQXpvenBqc2ZLa1hkOGVySmZodC1ndjhwS01oM3BfR1pPdGhHdUwxQ19LRjgwc1dPbTFfX2hkVEVNQXdOTUU2VjdZR1N6WS13Z2Y2TzdvNGZrWmRZZ00zRlY2OEpVTkx2V25BQThIRFJUakRIcUVDd2h5NmdlTFRKaUx2ei1PbGplUDl6?oc=5",
+       "publishedAt": "2026-11-10T19:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Israel's new parliament sworn in as leaders compete to form government",
+     "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "NDTV",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of Israel"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T22:33+05:30",
+     "score": 8.21,
+     "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Israel's new parliament sworn in as leaders compete to form government",
+       "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T22:33+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Israel parliament sworn in; Gadi eyes power",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/israels-parliament-sworn-in-as-eisenkot-tries-to-forge-a-government/articleshow/135714454.cms",
+       "publishedAt": "2026-11-10T20:43+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
+       "publishedAt": "2026-11-10T21:21+05:30"
+      }
+     ]
+    },
+    {
+     "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
+     "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T22:01+05:30",
+     "score": 8.12,
+     "summary": "The resolution against Pete Hegseth was brought in by outgoing Republican lawmaker Thomas Massie on Monday.",
+     "image": "https://c.ndtvimg.com/2026-11/sb47n1a4_pete-hegseth_650x400_10_November_26.jpg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
+       "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
+       "publishedAt": "2026-11-10T22:01+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "‘No Secretary of Defence has ever been impeached’: Pete Hegseth defends Iran war actions amid removal push",
+       "link": "https://www.livemint.com/news/us-news/no-secretary-of-defence-has-ever-been-impeached-pete-hegseth-defends-iran-war-actions-amid-removal-push-11794318707252.html",
+       "publishedAt": "2026-11-10T19:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Hegseth calls moves to impeach him a farce",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/pentagon-chief-pete-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail/articleshow/135712064.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T19:36+05:30",
+     "score": 7.72,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Hegseth calls moves to impeach him a farce",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/pentagon-chief-pete-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail/articleshow/135712064.cms",
+       "publishedAt": "2026-11-10T18:53+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Pentagon chief Hegseth calls moves to impeach him a farce that will fail",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUkJOd3JQOHVGMWFnVU50WG9NOHgtSHBTREwwQlFCcV84M3NIMXU5MEVHT1ltY0F0bUhOZHZhNG16bWx4bU5IYU1rNnRib3c3d3lkeEtIeEQ2QmlxR1lCR3ZTTUZhLW85SU5vdXRMRnp6WjdVSTR2aF9YazdnVDlmWno5dGh0bXhFS0JtbHVGa0ZIbDZpdG9uY3I2cVliSTdBaXJPbi1GMEVlSVlWZEpvOUF0NEtwak9OUS1KRmZBSmduSHlhemo1UlZiZEhBeDhIc0HSAdgBQVVfeXFMT0ExbzBmZ29ZV0M3bVY1Ti1ja292akVUXy1BZ1AtdnFYVXduTkx4d0lwUURjU2FvOFNBSllsbUJqbXk3NmY5Qy1sZUVCVjhQWlZzOGpyY21JX3RZOHNEYTE4RXZtVXJ5MUdZNmI3X2RoZTFVSlFJMlAwekdya21XX3NTclhJUEVrX2hwV1l0UTU2dnNDbVNGbWRZUmM5aE15dVRYeG4tNVl4TGxBeWJNcDI0ZGxJYjhvZG5aVEVRcXRzYTN3Xzc5NjRzYlBfWmMydEE4WnIyRHBJ?oc=5",
+       "publishedAt": "2026-11-10T19:36+05:30"
+      }
+     ]
+    },
+    {
+     "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
+     "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "MS NOW",
+      "Reuters",
+      "The Times of India",
+      "Times of India",
+      "TradingView",
+      "Truthout"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T21:57+05:30",
+     "score": 7.65,
+     "summary": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
+     "image": "https://static.toiimg.com/photo/msid-135715730,imgsize-89558.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
+       "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
+       "publishedAt": "2026-11-10T21:37+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+       "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
+       "publishedAt": "2026-11-10T20:48+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
+       "publishedAt": "2026-11-10T21:57+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T23:00+05:30",
    "generatedAt": "2026-11-10T23:15+05:30",
