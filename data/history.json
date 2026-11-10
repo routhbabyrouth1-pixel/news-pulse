@@ -1,6 +1,172 @@
 {
- "updated": "2026-11-10T18:28+05:30",
+ "updated": "2026-11-10T19:38+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T19:00+05:30",
+   "generatedAt": "2026-11-10T19:38+05:30",
+   "feeds": 16,
+   "headlines": 342,
+   "stories": [
+    {
+     "title": "Facing Impeachment, Pete Hegseth Makes A \"Punish Own Warriors\" Remark",
+     "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNBC",
+      "CNN",
+      "NDTV"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T19:23+05:30",
+     "score": 7.46,
+     "summary": "The resolution against Pete Hegseth was brought in by outgoing Republican lawmaker Thomas Massie on Monday.",
+     "image": "https://c.ndtvimg.com/2026-11/sb47n1a4_pete-hegseth_650x400_10_November_26.jpg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Facing Impeachment, Pete Hegseth Makes A \"Punish Own Warriors\" Remark",
+       "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
+       "publishedAt": "2026-11-10T19:23+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Satellite Images Capture Thick Smog Over Northern India 2 Days After Diwali",
+     "link": "https://www.ndtv.com/india-news/satellite-images-capture-thick-smog-over-northern-india-2-days-after-diwali-12308490#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "India Today",
+      "Inshorts",
+      "NDTV",
+      "The Statesman",
+      "WION"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T18:41+05:30",
+     "score": 7.34,
+     "summary": "The only parts of India which appear to not be enveloped by the grey cover are the western states such as Rajasthan and Gujarat, and the northeastern states.",
+     "image": "https://c.ndtvimg.com/2026-11/4kbfn048_india-pollution-satellite_625x300_10_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Satellite Images Capture Thick Smog Over Northern India 2 Days After Diwali",
+       "link": "https://www.ndtv.com/india-news/satellite-images-capture-thick-smog-over-northern-india-2-days-after-diwali-12308490#publisher=newsstand",
+       "publishedAt": "2026-11-10T18:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+     "source": "The Guardian",
+     "sources": [
+      "BBC",
+      "DW.com",
+      "Reuters",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T19:09+05:30",
+     "score": 7.29,
+     "summary": "US-led talks in Abu Dhabi are first substantive negotiations in months focusing on ending the conflict which has raged for more than four years US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united response” after France blamed Iran for a spate of cyber-attacks on supermarket freezers and chillers that caused millions of euros of damage.…",
+     "image": "https://i.guim.co.uk/img/media/107e559a07afa91b8a10b4e3226ef062b4051e0e/63_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=77ca63dc298bd7c55a13748902e04061",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+       "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+       "publishedAt": "2026-11-10T19:09+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "US-mediated Russia-Ukraine peace talks begin",
+       "link": "https://economictimes.indiatimes.com/news/defence/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/articleshow/135709980.cms",
+       "publishedAt": "2026-11-10T17:25+05:30"
+      },
+      {
+       "source": "DW.com",
+       "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
+       "publishedAt": "2026-11-10T16:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ECI extends Model Code of Conduct restrictions to retired officials working with State governments",
+     "link": "https://www.thehindu.com/news/national/eci-extends-model-code-restrictions-to-retired-govt-officials-engaged-by-states/article71685602.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Scroll.in",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T18:50+05:30",
+     "score": 6.98,
+     "summary": "The Election Commission of India said such individuals must maintain political neutrality and refrain from participating in election campaigns or canvassing",
+     "image": "https://th-i.thgim.com/public/incoming/lihdmv/article71685652.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202026_22_04_5.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "ECI extends Model Code of Conduct restrictions to retired officials working with State governments",
+       "link": "https://www.thehindu.com/news/national/eci-extends-model-code-restrictions-to-retired-govt-officials-engaged-by-states/article71685602.ece",
+       "publishedAt": "2026-11-10T18:50+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "ECI extends neutrality restrictions in poll-bound states",
+       "link": "https://www.hindustantimes.com/india-news/eci-extends-neutrality-restrictions-re-employed-officials-in-poll-bound-states-101794305239183.html",
+       "publishedAt": "2026-11-10T15:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘Why are we becoming vishwaguru in air pollution?’ Kharge asks Modi government",
+     "link": "https://www.thehindu.com/news/national/why-are-we-becoming-vishwaguru-in-air-pollution-kharge-asks-modi-government/article71685788.ece",
+     "source": "The Hindu",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T18:41+05:30",
+     "score": 6.93,
+     "summary": "Clean air is a fundamental right, not a privilege to be granted by the Government, Mallikarjun Kharge said",
+     "image": "https://th-i.thgim.com/public/incoming/7i46w5/article71685809.ece/alternates/LANDSCAPE_1200/20261104322L.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "‘Why are we becoming vishwaguru in air pollution?’ Kharge asks Modi government",
+       "link": "https://www.thehindu.com/news/national/why-are-we-becoming-vishwaguru-in-air-pollution-kharge-asks-modi-government/article71685788.ece",
+       "publishedAt": "2026-11-10T18:41+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Why are we becoming Vishwaguru in air pollution?' Congress questions PM Modi",
+       "link": "https://timesofindia.indiatimes.com/india/why-are-we-becoming-vishwaguru-in-air-pollution-congress-questions-pm-modi/articleshow/135707207.cms",
+       "publishedAt": "2026-11-10T15:49+05:30"
+      },
+      {
+       "source": "The New Indian Express",
+       "title": "Kharge asks why Delhi is becoming 'vishwaguru' in air pollution, dares PM Modi to give 'Hawa Ka Hisaab'",
+       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZW9vM0MwMDdnNWVHSGdhMjNKd1pOSE1xQ1dSYjN3Rm4yU2RhMVR1b3kzcnFoVGhvVjRtYU84bUpleC1wYmhhT19JZEhhVEliM2JERVBrMU9rQWxWajZaUldpV2VGSFlEdXdDV2RlVElqM3VqOFF2cnBEQU8zWkdGWE1aY0EyQm4yVlFYZHR2Wmd1cnc3cjlfSVE4NkVXZzR4bGNzVS16cm5tZVZXLXdxWUFyc3A1THRvVk5TQ21ZclFFbml3VDhRUk51U2lkeHotd29GS2dNY0VJSmtpWmQ4c0NtQTc3cnNSem9tLdIB-gFBVV95cUxQb1JmZGVUNVJmb2VkSS02RTExUk9FYmFQbWNXbmx2MWVZMU1RUjdrQzNxcGtaLTQtaEE5MGVqeGJlTHpHSVJiaTNveGFIcXhvT2VuYThIOWwtRVQzZzRGM3RaYmN0SW9SUUo4QnJfU0hWOVpzbWNTNlBsNjBieFZoSExZRmtZbXhBTDQ3Q0NsVFNWTDVzTnVJV1VUSGRfWDFiQ01TblFQalhOOUJOTHR0SzV1RzU0R1ZjcTZZbkhkZkUtYk1qelJPMzhfYU1WZFZWRDBSVzBnTnNEbk5fT2Rkc3JVcEhwU2hGby16LUVJU3FTeERIY0JacFN3?oc=5",
+       "publishedAt": "2026-11-10T15:18+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T18:00+05:30",
    "generatedAt": "2026-11-10T18:28+05:30",
