@@ -1,6 +1,187 @@
 {
- "updated": "2026-11-10T05:08+05:30",
+ "updated": "2026-11-10T06:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T06:00+05:30",
+   "generatedAt": "2026-11-10T06:26+05:30",
+   "feeds": 16,
+   "headlines": 130,
+   "stories": [
+    {
+     "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
+     "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "Telegraph India",
+      "The Guardian",
+      "The Times of India",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-10T06:14+05:30",
+     "score": 11.47,
+     "summary": "US president says he believes CEO Jensen Huang had no knowledge of woman's alleged work for Chinese intelligence.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
+       "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+       "publishedAt": "2026-11-10T06:14+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T06:04+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+       "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+       "publishedAt": "2026-11-10T05:00+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Trump Says FBI Investigating Nvidia CEO's Affair With Alleged Chinese Spy",
+       "link": "https://www.ndtv.com/world-news/donald-trump-says-fbi-investigating-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-12305672#publisher=newsstand",
+       "publishedAt": "2026-11-10T04:54+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'He had no idea she was a spy': Trump backs Nvidia CEO Jensen Huang",
+       "link": "https://timesofindia.indiatimes.com/world/us/he-had-no-idea-she-was-a-spy-trump-backs-nvidia-ceo-jensen-huang/articleshow/135695196.cms",
+       "publishedAt": "2026-11-10T04:03+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'He had no idea she was a spy': Trump backs Nvidia CEO Jensen Huang",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOTZHWTU3c0l1OWEwUElVMmozcTZCWjRkc2JrcW1oblFSRDJDZHRVbUtkaFo1SnUyd3pNcnRSdDl0M2h2MGl0N0E5dHJVN3QwVG45bXdEYTRiZ0w1ZXBrUkRraWdQSFJDYzI3bzJ5WGg4cHhVNV9vUTJiS0pZaFNsUWM3YzBjWjZRei1vNHhVMS1wSUVSTjR5QnNsc2ZLRjRTSVlNd1JPWU1zMm1TMFcwNHhWdWFacWJPUy1OUnp2cThaQzhZaFNjOFZYbXdMMW1z?oc=5",
+       "publishedAt": "2026-11-10T04:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+     "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNBC",
+      "NDTV",
+      "TechCrunch",
+      "The GitHub Blog",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T02:48+05:30",
+     "score": 6.89,
+     "summary": "The new models, Fable 5.2 and Mythos 5.2, can perform up to 30 percent faster than previous versions, particularly for complex tasks like coding, while costing 20 percent less, the company said.",
+     "image": "https://static.toiimg.com/photo/msid-135693108,imgsize-87908.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
+       "publishedAt": "2026-11-10T02:48+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Anthropic Launches New Models Ahead Of IPO: Claude Fable 5.2, Mythos 5.2",
+       "link": "https://www.ndtv.com/world-news/anthropic-launches-powerful-new-models-claude-fable-5-2-and-mythos-5-2-ahead-of-ipo-12305314#publisher=newsstand",
+       "publishedAt": "2026-11-10T00:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+     "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "CNN",
+      "The Hindu",
+      "The New York Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T00:51+05:30",
+     "score": 6.57,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135692217,imgsize-150770.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+       "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
+       "publishedAt": "2026-11-10T00:51+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmJuZjgzYW5hamNYeWNpNGdzaXdTNnBSc0l2ZTlfc1FNQjV1c3lCdjJuamhCZjRaRnktTlhkZEF3SjdtdjlXYjcxbG9GaU9saDRBdmMzRXVLb1h2QWNObXF1aGZ1TUJhRW5FSWY4RkJpRUVTYzQwYVBmelFITFRVUHQ0RWdsMlpUOV8xT2pRM1FXQ2hpdmsyLVFOQnpVYThRSGFYUnNyN0IwXzFwRWtWZHlzMkdvbHJsdHRUdHMzaGI0UkdQbHVzNkJIeUhOZjdKQkxadlpYYUZkVWNQTGZTSFg3OA?oc=5",
+       "publishedAt": "2026-11-10T00:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFNfSjlGZWFOd01laGhIaG9idVhwaUxEOXctN1hkb1E2Qkd6YXEyaE5DUHFzMEdoT3dqWXNQbkxScXRFb3o2aGU4SEpWdnU5SGdKQUJXTUFMdS1kcHJKVnJPVnBUZk1XUjd6NXRLcnJwSGhXMFZVa2hqQ1VvVWkzM2FxT2tCNlhGN1VYYjgwRTdiY2Z6SElpNmtfMXRmTjF0RW5fX0JVVWhuZVlsX1lWdDBMU1g1ZzBFeXlGT2tZbUNyQjlLUFE?oc=5",
+     "source": "WSJ",
+     "sources": [
+      "AP News",
+      "Al Jazeera",
+      "CBS News",
+      "The Hindu",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T02:59+05:30",
+     "score": 6.18,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "WSJ",
+       "title": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFNfSjlGZWFOd01laGhIaG9idVhwaUxEOXctN1hkb1E2Qkd6YXEyaE5DUHFzMEdoT3dqWXNQbkxScXRFb3o2aGU4SEpWdnU5SGdKQUJXTUFMdS1kcHJKVnJPVnBUZk1XUjd6NXRLcnJwSGhXMFZVa2hqQ1VvVWkzM2FxT2tCNlhGN1VYYjgwRTdiY2Z6SElpNmtfMXRmTjF0RW5fX0JVVWhuZVlsX1lWdDBMU1g1ZzBFeXlGT2tZbUNyQjlLUFE?oc=5",
+       "publishedAt": "2026-11-10T02:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWFV6NE1INllrcTlGZmFtTnVVeVFJcWVvRzhJY3dIbUZ1RFBQUWlTZWtDSy1GMVg2ZTZWTENFZFNpYWZ6ZS1EVHFvcDhHeEpqUFdSejJXZE84am1jSXV3YjN0akhHa3ZuRU9pSzNB?oc=5",
+     "source": "Science Daily",
+     "sources": [
+      "BBC",
+      "Education Times",
+      "Phys.org",
+      "Science Daily",
+      "The Brighter Side of News"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T06:14+05:30",
+     "score": 6.01,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Science Daily",
+       "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWFV6NE1INllrcTlGZmFtTnVVeVFJcWVvRzhJY3dIbUZ1RFBQUWlTZWtDSy1GMVg2ZTZWTENFZFNpYWZ6ZS1EVHFvcDhHeEpqUFdSejJXZE84am1jSXV3YjN0akhHa3ZuRU9pSzNB?oc=5",
+       "publishedAt": "2026-11-10T06:14+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T05:00+05:30",
    "generatedAt": "2026-11-10T05:08+05:30",
