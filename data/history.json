@@ -1,6 +1,168 @@
 {
- "updated": "2026-11-11T02:13+05:30",
+ "updated": "2026-11-11T03:09+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T03:00+05:30",
+   "generatedAt": "2026-11-11T03:09+05:30",
+   "feeds": 16,
+   "headlines": 236,
+   "stories": [
+    {
+     "title": "First day of Ukraine peace talks constructive, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "The Guardian",
+      "The Times of India",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T02:51+05:30",
+     "score": 8.2,
+     "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "First day of Ukraine peace talks constructive, Zelensky says",
+       "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-11T02:51+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Day 1 of Ukraine peace talks sparks hope, but Donetsk & Nato's role big hurdles",
+       "link": "https://timesofindia.indiatimes.com/world/europe/first-day-of-ukraine-peace-talks-sparks-hope-but-donetsk-and-natos-role-remain-hurdles/articleshow/135715748.cms",
+       "publishedAt": "2026-11-10T21:39+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "First day of Ukraine peace talks sparks hope, but Donetsk and Nato's role remain hurdles",
+       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPY2JwdzYyV3Y3ZjZuSE55Z2pmdGdBZkxMOXhaMVpzOVBNOHJTWFI1Y2prbENTcmRxenFwRXZCVl9GMmpLNjY5QUZPcGZVQnRJbkRsQk4tQkVXRWJuTzZsdWEtSUNvQ29Ha1lSSW1CZEpwWExQVXBSTEV1X3VUelhBSm5KcF9WUGotUk9YR0l3NXhFa1VQMlU2cXN3UFMxUWtHeUdTeHdGYTVEVXNJbVZ1a2RLelp2YkVYeVAxbllvYkYxc0c4Z0lEcEdRc0ZZZjU2Q1dlc1dvTy1zR3R3elJaNlI4aG83WTV6S0F5cEF6TkpZa1k?oc=5",
+       "publishedAt": "2026-11-10T21:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHNkQ3h6dFZOTXM1Wk04SzN6dUtuTEZWZ3VRc1AzaHhWcUgybUR4TmZ0a2Q3TktGajhoSUZLZm9nVUwxQjQyeXQ1SGVDQ3hqaXB4Q1FaaFVBanpYTXZPSWFLNFRRR25fVmhFU3JOYWRVUzVBQlZxRE9kSGtQR2ZRSzVZb1NDN0pneUEzWEh3OEdjMkUweTdVRFlIUFBqQdIBowFBVV95cUxPcEoyQ19NMjF5Mkpra0NRVWg5SUUwWDE1QXh0Tllfbm8tU2RoeklfaE9jOFhOeU13VUNVcHJfckVpSVpfUzR2SUdJMWlGaGdlUEVXakNlUDVjMUtHT1FZMlA2T1NDYWt5QWJDVlZhTHhzd3E5VXNnV3dzUnNMcDVjYjE0WW1WNlY3bHdkSVVZWG5wQlBZSEVtWU83SVNhTFltbFhZ?oc=5",
+     "source": "XBOX Wire",
+     "sources": [
+      "Digital Foundry",
+      "PlayStation.Blog",
+      "The Economic Times",
+      "The Times of India",
+      "The Verge",
+      "XBOX Wire"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T21:19+05:30",
+     "score": 7.53,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "XBOX Wire",
+       "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHNkQ3h6dFZOTXM1Wk04SzN6dUtuTEZWZ3VRc1AzaHhWcUgybUR4TmZ0a2Q3TktGajhoSUZLZm9nVUwxQjQyeXQ1SGVDQ3hqaXB4Q1FaaFVBanpYTXZPSWFLNFRRR25fVmhFU3JOYWRVUzVBQlZxRE9kSGtQR2ZRSzVZb1NDN0pneUEzWEh3OEdjMkUweTdVRFlIUFBqQdIBowFBVV95cUxPcEoyQ19NMjF5Mkpra0NRVWg5SUUwWDE1QXh0Tllfbm8tU2RoeklfaE9jOFhOeU13VUNVcHJfckVpSVpfUzR2SUdJMWlGaGdlUEVXakNlUDVjMUtHT1FZMlA2T1NDYWt5QWJDVlZhTHhzd3E5VXNnV3dzUnNMcDVjYjE0WW1WNlY3bHdkSVVZWG5wQlBZSEVtWU83SVNhTFltbFhZ?oc=5",
+       "publishedAt": "2026-11-10T21:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "After Netanyahu's \"Unity\" Call, Eisenkot's \"Delusional, Outgoing PM\" Jab",
+     "link": "https://www.ndtv.com/world-news/after-benjamin-netanyahus-unity-call-rival-gadi-eisenkots-shameful-delusional-jab-12309964#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Firstpost",
+      "India Today",
+      "NDTV",
+      "The Jerusalem Post",
+      "The Times of Israel"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T00:27+05:30",
+     "score": 7.05,
+     "summary": "The attack came shortly after Netanyahu called for a national unity government, saying Israel needed to stand together against the growing threat from Iran.",
+     "image": "https://c.ndtvimg.com/2026-11/3kjok4v8_netanyahu-eisenkot_625x300_08_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "After Netanyahu's \"Unity\" Call, Eisenkot's \"Delusional, Outgoing PM\" Jab",
+       "link": "https://www.ndtv.com/world-news/after-benjamin-netanyahus-unity-call-rival-gadi-eisenkots-shameful-delusional-jab-12309964#publisher=newsstand",
+       "publishedAt": "2026-11-11T00:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "CPCB explains why official AQI is capped at 500 but pvt apps show higher readings",
+     "link": "https://timesofindia.indiatimes.com/india/cpcb-explains-why-official-aqi-is-capped-at-500-despite-private-apps-showing-higher-readings/articleshow/135715891.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "NewsBytes",
+      "The Economic Times",
+      "The News Mill",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T21:46+05:30",
+     "score": 6.85,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135715926,imgsize-76554.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "CPCB explains why official AQI is capped at 500 but pvt apps show higher readings",
+       "link": "https://timesofindia.indiatimes.com/india/cpcb-explains-why-official-aqi-is-capped-at-500-despite-private-apps-showing-higher-readings/articleshow/135715891.cms",
+       "publishedAt": "2026-11-10T21:46+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "CPCB explains why official AQI is capped at 500 despite private apps showing higher readings",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQTYwNDItZVNQNnpJQXRRbUR3N3NHbmJKeXFtdnVMaFMtNmszVXhCWlBvSFYtTENqeTA1RkVLalE1ZFFYXzFnaXM0LTdrV0lWVzc5Q1FsNWEza21mTFg2b3EyQWlWWWlNNGo1RXF0WHZvdWFiaFhKVmxpN0xaNzNsSEdoZm9rSzJQZE1KRnJxVjFHWk4taUNsbGZXVUx6SlV5UnBpUmNCNHBrX08yVmNrYmt1SGxld0VCa3lHUFd6LUE0dUZHQ2kyNV9ibnVjVDBfTnFqN0haWU40clBDeVNULVptVk1pOFR3bGJLbHd3VXFRZw?oc=5",
+       "publishedAt": "2026-11-10T21:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Israel's new parliament sworn in as leaders compete to form government",
+     "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC News",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The New York Times",
+      "The Times of Israel"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T23:47+05:30",
+     "score": 6.57,
+     "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Israel's new parliament sworn in as leaders compete to form government",
+       "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T22:33+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
+       "publishedAt": "2026-11-10T23:47+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T02:00+05:30",
    "generatedAt": "2026-11-11T02:13+05:30",
