@@ -1,6 +1,177 @@
 {
- "updated": "2026-11-10T08:17+05:30",
+ "updated": "2026-11-10T09:18+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T09:00+05:30",
+   "generatedAt": "2026-11-10T09:18+05:30",
+   "feeds": 16,
+   "headlines": 192,
+   "stories": [
+    {
+     "title": "Cancer Horoscope Today: November 10, 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "Susan Miller Astrology Zone",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "iDiva"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-10T05:50+05:30",
+     "score": 9.59,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Cancer Horoscope Today: November 10, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
+       "publishedAt": "2026-11-10T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T07:14+05:30",
+     "score": 8.16,
+     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T07:14+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Trump Says FBI Investigating Nvidia CEO's Affair With Alleged Chinese Spy",
+       "link": "https://www.ndtv.com/world-news/donald-trump-says-fbi-investigating-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-12305672#publisher=newsstand",
+       "publishedAt": "2026-11-10T04:54+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Trump says FBI looking into Nvidia CEO Jensen Huang's affair with 'Chinese agent'",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0xWb1lmUVBYVnFEVmJidVZoTkk3dWFvSTljOWZmeXllQ3c1dVg3enhfMTQyRUZ3ZFVNV0ZTVzRMZmZoNFhrMUViLVZsbmRtd2JXajZNQ3MzM0QtelJ0emJtT2ZEX29JMEMyVjNkZUJXclhzcThuSnRwV0tOWFFaejRZSHNldDJjQ19jS1FKZ04za040bmdFcmhiUUE4TjhqVnBMd3NWM0RoZHF0S1QtRXh5Rm9kTGdHVmhxbmtOcjRUR0dQbTV3Q2k3RnB2RmZBS3VFVmo3cGNWQdIB4AFBVV95cUxPQUN5VXZ5ZUxoSVlIdWVjSkF5OXhNQXd1YTIzcUlKZG5GeUFndW00RGg5R3NpX1BYeFluUzg2YkxhWVNoNVRDQXBRTGR1TlFXUHNiYlRjS3BRV3oyQXdtYVhzbG83MGpLU2c1YnZJWVNYQm9BWVJRLTZWMVY1b1pLZmE5Y0FWTEFITE41cG0xS1BQd0M3ZE81Y1lVU3psaDhUSmp0dmRyU2tmbFBiVDBhbFhpclVwOUlRd1ljWjJ5SmxvaFB1MHRLdEQ3T3NUdkVvcENiYmw1UEdNZ1UxYkxXRw?oc=5",
+       "publishedAt": "2026-11-10T06:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "France blames Iran for cyberattacks on supermarket fridges",
+     "link": "https://timesofindia.indiatimes.com/world/europe/france-blames-iran-for-cyberattacks-on-supermarket-fridges-summons-ambassador/articleshow/135696579.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "Reuters",
+      "The Atlantic",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T07:24+05:30",
+     "score": 7.8,
+     "summary": "French intelligence agencies have accused Iran's Revolutionary Guards of orchestrating disruptive cyberattacks against commercial refrigerators. The incidents targeted hundreds of supermarkets and other food establishments, resulting in significant disruptions to cold-storage systems. Following these attacks, blood banks were also affected, leading to urgent measures for cold-storage. French officials warned of…",
+     "image": "https://static.toiimg.com/photo/msid-135696600,imgsize-187186.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "France blames Iran for cyberattacks on supermarket fridges",
+       "link": "https://timesofindia.indiatimes.com/world/europe/france-blames-iran-for-cyberattacks-on-supermarket-fridges-summons-ambassador/articleshow/135696579.cms",
+       "publishedAt": "2026-11-10T07:24+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "France blames Iran for October supermarket cyberattack",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+       "publishedAt": "2026-11-10T06:31+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "France blames Iran for cyberattacks on supermarket fridges, summons ambassador",
+       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWHFha1JkME9ielJ6VkYwMExRaDVzZjBySnVhb2FieDJ1bU9rMnJTOHJja3U2d1ZscUFKWU9BNXNQVGZCZWQybzB0aEtJTW9mdXR6d1ZzSV9WYXJLMXhYUGhQZ09rRTV0b3U0bEsyZkNiVF9ZSGxWT2ZONlpJSHJiemd4cVZPYWNZeTJVUm9aNFhkMkRJcHJnMDFsdWh2cVNqRGxnQWhrZEdTZ1ppZXozOHhUaThwcDRjNkExaFpzWlphV0VuZFR6VGdOa3RpTy1DNkxHSU92QlB0UkFKeDZnWVltSk1JcjTSAewBQVVfeXFMUF9GT3pkbzFxaFRWeGdmS2JraENCTHU4Mk1oUEFXY3JQS3RyV3VnRzI0RkdKMGVrTHRLbUgzODA2clVLdjlHajhvWk1zTEdmZHRpdFdGLWtlYnpjcG04ZThDbnNodVNEYTNHXzJEWjRMeGFwOHB4WlRNWmM2REUzSjdCdDVvWnJXNDhCaThhUGtCNlpSMVd1MUlkblZkTWh0dl9hcUdfUG5CTl9fRVBrMENOUlFOa1VuN01vZzVxM3laY18zMEdEUTRnRVdQdl9XR0duUV9SZ0hHNE9LcWQ3NGI5TFF0OXNtLV8tWTg?oc=5",
+       "publishedAt": "2026-11-10T07:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Oil prices edge lower as Trump signals pause in military action against Iran",
+     "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-edges-lower-as-donald-trump-signals-pause-in-military-action-against-iran/articleshow/135696941.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "Hindustan Times",
+      "The Hindu",
+      "The Times of Israel",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T07:56+05:30",
+     "score": 7.52,
+     "summary": "Oil prices decreased following US President Donald Trump's comments regarding military action against Iran. Although Trump postponed military strikes, he stated that the naval blockade in the Strait of Hormuz would continue. Oil production by Opec rose in October due to increased output from Saudi Arabia, Kuwait, and Iraq. Russian and Ukrainian officials held peace talks aimed at resolving the ongoing conflict…",
+     "image": "https://static.toiimg.com/photo/msid-135696971,imgsize-103166.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Oil prices edge lower as Trump signals pause in military action against Iran",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-edges-lower-as-donald-trump-signals-pause-in-military-action-against-iran/articleshow/135696941.cms",
+       "publishedAt": "2026-11-10T07:56+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Trump says U.S. military action against Iran not necessary ‘at this point’",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2lMRXh6QmpRczBaem1wZHdBRndlbms1STJ5aEUyYjl4dEV2QzdqczVDeXM4T2RvNzRscDhYMzFXYld5Z0RfQzI2MTY0X2JzdTE0UVh3elZxV2tsNGZtM1pJeENaYW5reVNHUldRYTFUdjNETjAxaTBZQ3c1aWhMYlZ1ZXlfb2VjY0lJTnlvSzBRWms1R0tEaVJxTFNkV1R6ZnEwRUhBdDdWT015Z1NTb1BfMNIBugFBVV95cUxON2VPTUZpWE9pZjFjak1kbHQ1XzVwVHlYWXN4UjFBTVlwZjczR0I0eEZ5ekM0b1hzNXVNNWliTzhYNnJTektaYkFGaWlwRkl4YjhXcm02d24ySm1tQXY5OTJlMXR6cUtkSUYtMHo2ZGJieEgtR0dwLURWbkdkUmo3NXR4VnJSYzF1eEpJbnRZb3hhNko4MWFkWWJtYUVSX3pzcmZ4MzRNdG9tUzQ2Z0lxa3ZMNWlwWE9jSGc?oc=5",
+       "publishedAt": "2026-11-10T03:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ramayana Box Office Collection Day 5 LIVE Updates: Ranbir Kapoor film records biggest Monday haul; earns over Rs 663 cr worldwide",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbTMyWlctV1Z1eDNMNGRVaEtuc2VlRnQwWV9rWEJYby02aWFGN3Y1by1ZQW96R3kyMl84TjBhbWxJMkZQT3Eyek5NZ1FNYmhkdHVkb3otOEFURmpydU9obGhEclliN1pnMFZyNk54WnY2SDQ5NG1vM3dJaVk1czNVNXFZTkZMWF85eTAwZEEzLVFyV2oybkNRNXU4blFvN213YVhjdmUwUEZPUXpOVlBJaTd6OGlWWmlXUXRqMHJWb1Q1S3RmVG5waFEzNV9mSkJacEFYUGdyYnJPS0poT3psdlFaR2tiYWxHZ2h1Q2dKSFdYSDU50gH7AUFVX3lxTE9STW1xd2p5bWFPRFliSzlBUXdZcEltUnpibHhaLVpCWW9lYnhqOW1Jc0ZGWGRDTmotSHAwMC1ZUzU4Z1JHekctakpESjRSY2xoQ09QVldraTVqX3hwSS1neHJaRWtNdkdISjJSaVMtc3JjRi11eGkxR19MZ3JCVGpyQVhyaEVhOHo1ZVpiOHhLaTcxTV9kYzV4N2xPWkFVaXgxZloyQzBveFhjWXJPem1rN1hVN2tRNVVmalpmVzM4TnNOREl0elBXT0NKSEc4MXl5THlnbG5JUHMtQ2V1OE5nZ3FkV0YxWmtmYV9xWjVTMFh5Nm5BQ3RUXzJr?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "BBC",
+      "Telegraph India",
+      "The Guardian",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T09:00+05:30",
+     "score": 7.45,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Box Office Collection Day 5 LIVE Updates: Ranbir Kapoor film records biggest Monday haul; earns over Rs 663 cr worldwide",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbTMyWlctV1Z1eDNMNGRVaEtuc2VlRnQwWV9rWEJYby02aWFGN3Y1by1ZQW96R3kyMl84TjBhbWxJMkZQT3Eyek5NZ1FNYmhkdHVkb3otOEFURmpydU9obGhEclliN1pnMFZyNk54WnY2SDQ5NG1vM3dJaVk1czNVNXFZTkZMWF85eTAwZEEzLVFyV2oybkNRNXU4blFvN213YVhjdmUwUEZPUXpOVlBJaTd6OGlWWmlXUXRqMHJWb1Q1S3RmVG5waFEzNV9mSkJacEFYUGdyYnJPS0poT3psdlFaR2tiYWxHZ2h1Q2dKSFdYSDU50gH7AUFVX3lxTE9STW1xd2p5bWFPRFliSzlBUXdZcEltUnpibHhaLVpCWW9lYnhqOW1Jc0ZGWGRDTmotSHAwMC1ZUzU4Z1JHekctakpESjRSY2xoQ09QVldraTVqX3hwSS1neHJaRWtNdkdISjJSaVMtc3JjRi11eGkxR19MZ3JCVGpyQVhyaEVhOHo1ZVpiOHhLaTcxTV9kYzV4N2xPWkFVaXgxZloyQzBveFhjWXJPem1rN1hVN2tRNVVmalpmVzM4TnNOREl0elBXT0NKSEc4MXl5THlnbG5JUHMtQ2V1OE5nZ3FkV0YxWmtmYV9xWjVTMFh5Nm5BQ3RUXzJr?oc=5",
+       "publishedAt": "2026-11-10T09:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T08:00+05:30",
    "generatedAt": "2026-11-10T08:17+05:30",
