@@ -1,6 +1,183 @@
 {
- "updated": "2026-11-10T07:29+05:30",
+ "updated": "2026-11-10T08:17+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T08:00+05:30",
+   "generatedAt": "2026-11-10T08:17+05:30",
+   "feeds": 16,
+   "headlines": 146,
+   "stories": [
+    {
+     "title": "Cancer Horoscope Today: November 10, 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "Susan Miller Astrology Zone",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "iDiva"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-10T05:50+05:30",
+     "score": 9.73,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Cancer Horoscope Today: November 10, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
+       "publishedAt": "2026-11-10T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T07:14+05:30",
+     "score": 8.32,
+     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T07:14+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
+       "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+       "publishedAt": "2026-11-10T06:14+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Trump Says FBI Investigating Nvidia CEO's Affair With Alleged Chinese Spy",
+       "link": "https://www.ndtv.com/world-news/donald-trump-says-fbi-investigating-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-12305672#publisher=newsstand",
+       "publishedAt": "2026-11-10T04:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘Zero political aspirations’: UFC chief Dana White responds to Trump’s White House job offer",
+     "link": "https://timesofindia.indiatimes.com/world/us/zero-political-aspirations-ufc-chief-dana-white-responds-to-trumps-white-house-job-offer/articleshow/135696483.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC News",
+      "Fox News",
+      "NDTV",
+      "The Guardian",
+      "The New York Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T07:28+05:30",
+     "score": 8.01,
+     "summary": "Dana White made it clear he is not interested in the role of White House press secretary following a playful comment from President Trump. Trump had quipped about White taking on the position while showcasing UFC fighters. This humorous suggestion sparked some online chatter and confusion regarding the identities involved. The press secretary role has been open since October when Katie Zacharia was let go.",
+     "image": "https://static.toiimg.com/photo/msid-135696524,imgsize-76168.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "‘Zero political aspirations’: UFC chief Dana White responds to Trump’s White House job offer",
+       "link": "https://timesofindia.indiatimes.com/world/us/zero-political-aspirations-ufc-chief-dana-white-responds-to-trumps-white-house-job-offer/articleshow/135696483.cms",
+       "publishedAt": "2026-11-10T07:16+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Dana White declines Trump’s offer to be White House press secretary",
+       "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T04:16+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"Don't Want To Be In Politics\": UFC Chief Dana White Turns Down Trump's Offer",
+       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTTlkRXFfamxMU3RVQU0tb0U2YktWWnFJYlc4S3JZSlVFd1BHZGlXRlRCQXlDa3hGSzJZSWVRbDFYWnhpS1VEOHhxd0RrM0JtRk1ndXlRTDRUS0xOVWwtdFlEUk1RM0VpUzdRU0VCdzQyZHE1NTUwbnpYUVZqeEFoZ3FTSE9sUjlDaXJsZnVvY0dJX0xVODBJR2ZJRzRqUDM0UmItRG5qME1ybnYyUUx5U0FRVzlPVEl5LU83RndtaHAtSmZBUUFpWDZlY0czUXNETXljS3FsdkNhN3c?oc=5",
+       "publishedAt": "2026-11-10T07:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Deputy CM Pawan Kalyan to part ways with wife, Anna Lezhneva",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-cm-pawan-kalyan-to-part-ways-with-wife-anna-lezhneva/article71684784.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Herald",
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T07:59+05:30",
+     "score": 7.45,
+     "summary": "In a joint statement, the couple said that, after sharing a significant part of their lives together, they had decided to separate",
+     "image": "https://th-i.thgim.com/public/news/national/sgpkjs/article71684840.ece/alternates/LANDSCAPE_1200/pawan%20kalyan%20anna%20lezhneva.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Deputy CM Pawan Kalyan to part ways with wife, Anna Lezhneva",
+       "link": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-cm-pawan-kalyan-to-part-ways-with-wife-anna-lezhneva/article71684784.ece",
+       "publishedAt": "2026-11-10T07:59+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Pawan Kalyan, Wife Anna Konidala Announce Separation After 13 Years Of Marriage",
+       "link": "https://www.ndtv.com/india-news/pawan-kalyan-wife-anna-konidala-announce-separation-after-13-years-of-marriage-andhra-pradesh-deputy-chief-minister-12305738#publisher=newsstand",
+       "publishedAt": "2026-11-10T07:05+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Qatar, Saudi Want Peaceful Iran Deal, US Ready For Strikes If Needed: Trump",
+     "link": "https://www.ndtv.com/world-news/qatar-saudi-want-peaceful-iran-deal-us-ready-for-strikes-if-needed-donald-trump-12305498#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "AP News",
+      "Al Jazeera",
+      "BBC",
+      "NDTV",
+      "Reuters",
+      "www.israelhayom.com"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T04:37+05:30",
+     "score": 7.14,
+     "summary": "Trump, who met Qatar's prime minister earlier on Monday, said \"Qatar would rather see a peaceful solution\" and \"Saudi Arabia would rather see a peaceful solution\" but \"we're ready to go anytime we want\" with strikes.",
+     "image": "https://c.ndtvimg.com/2026-11/al90ni34_donald-trump_625x300_10_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Qatar, Saudi Want Peaceful Iran Deal, US Ready For Strikes If Needed: Trump",
+       "link": "https://www.ndtv.com/world-news/qatar-saudi-want-peaceful-iran-deal-us-ready-for-strikes-if-needed-donald-trump-12305498#publisher=newsstand",
+       "publishedAt": "2026-11-10T02:39+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Trump says Qatar, Saudi prefer peace in Iran conflict",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
+       "publishedAt": "2026-11-10T04:37+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T07:00+05:30",
    "generatedAt": "2026-11-10T07:29+05:30",
