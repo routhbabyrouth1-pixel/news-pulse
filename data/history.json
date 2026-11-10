@@ -1,6 +1,178 @@
 {
- "updated": "2026-11-10T15:24+05:30",
+ "updated": "2026-11-10T16:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T16:00+05:30",
+   "generatedAt": "2026-11-10T16:22+05:30",
+   "feeds": 16,
+   "headlines": 337,
+   "stories": [
+    {
+     "title": "Q2 Results Live: Cochin Shipyard Profit Tumbles 50%, Declares Dividend; MRF Profit Slips 28%; Kalyan Jewellers In Focus",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbmdqRi1Xc1dUSUt2a3pSVVdtOVRHX2ZydWRibWlVZlA0cjlsak1IRldxQjFpQkc5SnBOak1KbEVyUWVGdmFVZVJ4NVFmUHgta1QzeUdFNGlrcUUydGVWeXJsZm5pdXRBbUwyQTlkQW9ldHh2YUNxVTl6S2NEY0Q0d2VWeXoyS0xaNlIwYWZzZFVKX2FPX2hIY2Jvd2ROcFIzUGJxd2ZCVWh6aHJOQ0ZFRU5ObW9hVGxsLUxYOEkzVFRva183Q000TUdEdnNUYXNCSjhZaHZleFZMV2RCTjVKSU44QUlBcFk3ald2WVJKV0RsWGtJ0gH8AUFVX3lxTE55RDgzV282ZGRmZEpUZjJEZF9XV1p3Y1ZOMmttM3g5WjlpU2pocmluRmZ2cUFRakhIWl9tWE9RcHQ5MzdUTlc1WlcyR1dhNGFXU241YXNQRGNzN1lqZVdjcXRsTlFtX0psNXhsVURsUGZEQ20tZk5NeGhqbWx3SnVteVhsNWh0bGNwWXBvRWJfWlVZempiSVZBRVhLcVdqWmREb3N2NU9lell6NjR3Y0VBaGxnbTB0N2RrbEVVSTQ2LTZDdGRqWmZ1QVpBeW9PdHViLWRMZUM3VDhZZGZuQmltZXdMTEczdklDVndCbWxKVmZfWlVmWUR5MjdoQg?oc=5",
+     "source": "NDTV Profit",
+     "sources": [
+      "BusinessLine",
+      "Livemint",
+      "Moneycontrol.com",
+      "NDTV Profit",
+      "Rediff MoneyWiz",
+      "Sahi",
+      "Trade Brains",
+      "Univest",
+      "Zee Business",
+      "https://www.siam.in/"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-10T15:55+05:30",
+     "score": 11.03,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV Profit",
+       "title": "Q2 Results Live: Cochin Shipyard Profit Tumbles 50%, Declares Dividend; MRF Profit Slips 28%; Kalyan Jewellers In Focus",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbmdqRi1Xc1dUSUt2a3pSVVdtOVRHX2ZydWRibWlVZlA0cjlsak1IRldxQjFpQkc5SnBOak1KbEVyUWVGdmFVZVJ4NVFmUHgta1QzeUdFNGlrcUUydGVWeXJsZm5pdXRBbUwyQTlkQW9ldHh2YUNxVTl6S2NEY0Q0d2VWeXoyS0xaNlIwYWZzZFVKX2FPX2hIY2Jvd2ROcFIzUGJxd2ZCVWh6aHJOQ0ZFRU5ObW9hVGxsLUxYOEkzVFRva183Q000TUdEdnNUYXNCSjhZaHZleFZMV2RCTjVKSU44QUlBcFk3ald2WVJKV0RsWGtJ0gH8AUFVX3lxTE55RDgzV282ZGRmZEpUZjJEZF9XV1p3Y1ZOMmttM3g5WjlpU2pocmluRmZ2cUFRakhIWl9tWE9RcHQ5MzdUTlc1WlcyR1dhNGFXU241YXNQRGNzN1lqZVdjcXRsTlFtX0psNXhsVURsUGZEQ20tZk5NeGhqbWx3SnVteVhsNWh0bGNwWXBvRWJfWlVZempiSVZBRVhLcVdqWmREb3N2NU9lell6NjR3Y0VBaGxnbTB0N2RrbEVVSTQ2LTZDdGRqWmZ1QVpBeW9PdHViLWRMZUM3VDhZZGZuQmltZXdMTEczdklDVndCbWxKVmZfWlVmWUR5MjdoQg?oc=5",
+       "publishedAt": "2026-11-10T15:55+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Cochin Shipyard Q2 net profit halves to Rs 54 crore; declares dividend",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZDZXN0t6elVoYWdwVHNfdDEyQ09abkZrb29GbDByU1U0UjRnblpEaFBXcS03dlVyWGpJZmswMlZ2SjFmUXlUXzdralphWEtaUF9TZDNIb1pQYVotSDM2ZUwwWlRHMmxRN0cxTFJBMkVFaEgyMTZyMTFfOVFqN0hFdzR3bFE1cEJrLXZRbnRQYml2ZlRaUHpPQnJ6UTBQNWFfbE9UcDVBT095NVhubmEtS25LSkkwWi1lTGRObWlzVFZVZDgwM0gwNWJ0TUEtUDTSAdQBQVVfeXFMTmkwZ2ozV29zNHNueWs0Rlp3T1BjOXRjNGh0LXVadmpkSkR1ellIU0tPcmU1MzgtSm83Y2xUZlZIbmJaU2NDWGRFVGwwZXNWYlBIbGoxYWR3eWs5ZFNYLXFkdDFTOGV0MXBCR1h2N2FmQTBJblJpOGsybEV1WG0yMW1oUHVmNm9OeS1FV3o3Z3VlZlpwQzRXOHByUDRxcUxxdXpjRWw1WWhhYkxVbzAwY0g0OEFrWjd2a3JfdVB1SWVDSXk2WlllV3JHUmhPcnlXd1hBRlg?oc=5",
+       "publishedAt": "2026-11-10T15:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
+     "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+     "source": "The Guardian",
+     "sources": [
+      "NDTV",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T14:48+05:30",
+     "score": 8.24,
+     "summary": "From the assassinations of her husband and mother-in-law to press stonewalling under Modi, Belonging offers an insider’s account of India’s political evolution • Don’t get This is India delivered to your inbox? Sign up here Few love stories have been as closely entwined with a nation’s history as that of Sonia and Rajiv Gandhi. The former’s much-awaited political memoir, Belonging, offers a strikingly candid account…",
+     "image": "https://i.guim.co.uk/img/media/d2e894a22b72fea95ed08e3a70d3924f4ca19359/2314_387_3859_3088/master/3859.jpg?width=140&quality=85&auto=format&fit=max&s=f50ca4fe4fab425da5723c61ac2b25e8",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
+       "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+       "publishedAt": "2026-11-10T13:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Ramayana' box office day 6 (LIVE): Ranbir Kapoor starrer inches towards Rs 400 crore",
+     "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-6-live-ranbir-kapoor-yash-sai-pallavi-starrer-inches-towards-rs-400-crore-in-india/articleshow/135704287.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "NDTV",
+      "Pinkvilla",
+      "Telegraph India",
+      "The Guardian",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T13:41+05:30",
+     "score": 8.05,
+     "summary": "The blockbuster Ramayana: Part 1, starring Ranbir Kapoor, Yash, and Sai Pallavi, is making waves in cinemas. With a remarkable net collection of Rs 346.35 crore in India over five days and a worldwide gross touching Rs 663.90 crore, the film is on a path to reaching Rs 700 crore post-Monday's earnings. Advance sales for Day 6 look strong as audience interest continues to grow.",
+     "image": "https://static.toiimg.com/photo/msid-135704419,imgsize-362035.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Ramayana' box office day 6 (LIVE): Ranbir Kapoor starrer inches towards Rs 400 crore",
+       "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-6-live-ranbir-kapoor-yash-sai-pallavi-starrer-inches-towards-rs-400-crore-in-india/articleshow/135704287.cms",
+       "publishedAt": "2026-11-10T13:41+05:30"
+      },
+      {
+       "source": "Pinkvilla",
+       "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer has an Extraordinary Monday Overseas, Biggest ever for an Indian film",
+       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQdm9KQ1FmYUZ4V0ljSFRpaldfY3RjSElYUGh4a01nb2xKcU5lMDJweWRfM2x3b08ydFpfNlMzSnNoMjFMMndFc2xmSFFoZ0hBUkhMMF9sQml6aDJZSEZqNlI4d1VPRkx5VVlrNWRUczZSWTRkOGZnVEg2V3BfWWF0WDVsZFFVdFQydGNWZnlDcFBVY2lZbTN5TzFfTk9HR2dzeFlLUzNnYkF5azNLcDJHWnJGbEVvMjVlRXQwSjJ1UVhjT3JlbmxzOEk3M0NZYjZzVkZIWmJCSlVMN2E4THR6ZG02NC16b0hzaTloVUszZVBWN0g2d3dsaXZ0bEJ1Mm5lODVzNWlqb3RjenBOeWNCa3gtbDYyLW92VTl3WjFNcGIyLUllYlE?oc=5",
+       "publishedAt": "2026-11-10T13:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sonia recalls Sanjay Gandhi's role during Emergency",
+     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/sanjay-gandhi-was-man-in-a-hurry-played-significant-role-in-decision-making-during-emergency-sonia/articleshow/135706775.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "Rediff",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T15:21+05:30",
+     "score": 7.9,
+     "summary": "The comments from the ruling party came on the day Sonia Gandhi’s memoir was released, in which she weighed in on the Emergency imposed in the country in 1975 and called it a mistake",
+     "image": "https://th-i.thgim.com/public/incoming/tk1oaf/article71685198.ece/alternates/LANDSCAPE_1200/12_RVM4554.jpg",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Sonia recalls Sanjay Gandhi's role during Emergency",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/sanjay-gandhi-was-man-in-a-hurry-played-significant-role-in-decision-making-during-emergency-sonia/articleshow/135706775.cms",
+       "publishedAt": "2026-11-10T15:21+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Sonia Gandhi trying to justify Emergency, memoir should've been named ‘Whitewashing’: BJP",
+       "link": "https://www.thehindu.com/news/national/sonia-gandhi-trying-to-justify-emergency-memoir-shouldve-been-named-whitewashing-bjp/article71685174.ece",
+       "publishedAt": "2026-11-10T13:51+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "'Was Sizing Up Women At Reception': Sonia Gandhi Recalls Bill Clinton's Visit",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa1BaVGx1WENEZl8wX2xuMmpMd1pkT2Rlak5pME9fYkstMmJHZU14QWZtWHpjT1JXRFdKN0MwQ29Zd1VBMzFnUzZ5Nms0c1NyLXVJUi12X1p6YXBETlpXNFNDZ3hwWXNjUlJDc1RfaU9sbzg1UEFEc0tackpsVEt1VjVXdUVYcXc2bm5kYkFFYjlLTzctZUxPV1RxSElFa2JETWduUmVscURUaWVuZnJfZGJaYzkyb0hkMWdOOWVtNjZsWTFZVDZQbkRqc092RzlyeHF0eGRHZkJETlB6djkyVG5QQWJETHdNeXBHWUpEZUFZd9IB-gFBVV95cUxQS3loRlh6SE44R1ZqUnN3eVJlZEQyMm9hTi1oUWdnZzRXQks3Q3U2WmVyemUxZ2ptUEdEYVNVSmZFczFMbmt6WkRDa0ZrRFhFWkp2UVVKaTVRZmVOMXVDS3E0X0ZnRzhldGYzMzc4cXhhSURzcUM1MEdsT29zakw3MFlfNUV3SEttdDRZZE5CSFJMTUlTdFA5MGJKR0NGSFFKdHVKMW5oZDdrWXQ3QlFQdDY0Vk9vSEVWV19abC1sM19OdHA1SFpob3Y3emdtQkh6QUwtMndSM0ZTby0tNW9fSDFYRkRfLUlralZ5RzlaMTJKcHdOejBTWnhn?oc=5",
+       "publishedAt": "2026-11-10T12:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+     "source": "The Guardian",
+     "sources": [
+      "BBC",
+      "DW.com",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T15:56+05:30",
+     "score": 7.43,
+     "summary": "Talks in Abu Dhabi are first substantive negotiations in months focusing on ending the conflict which has raged for more than four years US officials seek ‘final end’ to Russia-Ukraine war as talks begin A police officer from Spain’s canine unit was killed ⁠and an expert from the explosives disposal unit was seriously injured in ⁠a backpack explosion in the northern Spanish city of Oviedo , according to authorities.…",
+     "image": "https://i.guim.co.uk/img/media/5b0960a278f00d719bff4d289a0850518bd8f2bc/937_0_4888_3911/master/4888.jpg?width=140&quality=85&auto=format&fit=max&s=91f4d25883549ab03e2b2b990a917aa7",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live",
+       "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+       "publishedAt": "2026-11-10T15:56+05:30"
+      },
+      {
+       "source": "DW.com",
+       "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
+       "publishedAt": "2026-11-10T11:25+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T15:00+05:30",
    "generatedAt": "2026-11-10T15:24+05:30",
