@@ -1,6 +1,180 @@
 {
- "updated": "2026-11-10T06:26+05:30",
+ "updated": "2026-11-10T07:29+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T07:00+05:30",
+   "generatedAt": "2026-11-10T07:29+05:30",
+   "feeds": 16,
+   "headlines": 124,
+   "stories": [
+    {
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Guardian",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-10T07:14+05:30",
+     "score": 10.46,
+     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T07:14+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
+       "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+       "publishedAt": "2026-11-10T06:14+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+       "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+       "publishedAt": "2026-11-10T05:00+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Trump Says FBI Investigating Nvidia CEO's Affair With Alleged Chinese Spy",
+       "link": "https://www.ndtv.com/world-news/donald-trump-says-fbi-investigating-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-12305672#publisher=newsstand",
+       "publishedAt": "2026-11-10T04:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "NDTV",
+      "The Hindu",
+      "The Times of Israel",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T06:30+05:30",
+     "score": 7.33,
+     "summary": "Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
+     "image": "https://c.ndtvimg.com/2026-11/5n8p9aro_donald-trump_625x300_10_November_26.jpeg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+       "publishedAt": "2026-11-10T06:30+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "War On Iran Is \"Effectively Over\", Says Trump After Meeting With Qatari PM",
+       "link": "https://www.ndtv.com/world-news/iran-war-war-on-iran-is-effectively-over-says-donald-trump-after-meeting-with-qatari-pm-12305624#publisher=newsstand",
+       "publishedAt": "2026-11-10T04:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "CNN",
+      "NDTV",
+      "The Hindu",
+      "The New York Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T07:08+05:30",
+     "score": 7.24,
+     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+       "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T07:08+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+       "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
+       "publishedAt": "2026-11-10T05:23+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+     "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNBC",
+      "NDTV",
+      "The GitHub Blog",
+      "The Times of India",
+      "The Verge",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T02:48+05:30",
+     "score": 6.72,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135693108,imgsize-87908.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
+       "publishedAt": "2026-11-10T02:48+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdWlmTTQwWUlGdUthcE1uVkdINGN4ZVU5RGVMSmRjNzBBNGZYdzQwYkxWZWVzbUJDUW5Db1ZMZmFUS0dhS2NoZ09lNnpUR2VQelZJd29DMFFldlhuRWhHU244VEdTVVZia283d3FheGhnSm90eWlrYmxjTFRhd0dxNjNBVWQ3RWVzN3YwTGhyR0JaZWhJa2lfblVpdFZQSjRGajRRV0R6TFFlbk9CeDhxb1VPOWlmYUpMNzR5amNKV1FtR1NobUUwV0dzemxKbW5kaFhTYmlMZmpQdzhzRklTSU91bDBwZjdULTVZUU1tcGVYZ9IB9wFBVV95cUxOenZpa2paNlNLRUJwVEtKc0o0SkVzcjRPejd1RjIyeFBGVEZSQXV4MENHejhRRmNNano5OEpPekdvLVBFcGxuT1JIclc3dW15RVJxMlllSUM2WXFsN04yVHYwMDlYdWI5bVNXdG9ZVjNjcTZPTjlwYWRsVlZxTXNnemRzZnB2TEh6MXNNRDNlYWZ0STJzUkUyZGRibWNLNkJMOXFGbUJVV3dHREc1bnVHeVRtajdaa0RFb3ZWeW05Ykp4ekx4VWNLTVNibGRPQXVheDBGQjB4VzNEWVRIQWRVM0Q1R29iSUlYS2t2YjBBRkV2aHFGTU5j?oc=5",
+       "publishedAt": "2026-11-10T02:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pawan Kalyan, Wife Anna Konidala Announce Separation After 13 Years Of Marriage",
+     "link": "https://www.ndtv.com/india-news/pawan-kalyan-wife-anna-konidala-announce-separation-after-13-years-of-marriage-andhra-pradesh-deputy-chief-minister-12305738#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Deccan Herald",
+      "NDTV",
+      "The Indian Express",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T07:05+05:30",
+     "score": 6.68,
+     "summary": "In a joint statement posted late last night on Kalyan's Instagram page, they said they made the decision with \"mutual understanding and respect\".",
+     "image": "https://c.ndtvimg.com/2026-11/m9h9k4c8_pawan-kalyan_625x300_10_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Pawan Kalyan, Wife Anna Konidala Announce Separation After 13 Years Of Marriage",
+       "link": "https://www.ndtv.com/india-news/pawan-kalyan-wife-anna-konidala-announce-separation-after-13-years-of-marriage-andhra-pradesh-deputy-chief-minister-12305738#publisher=newsstand",
+       "publishedAt": "2026-11-10T07:05+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T06:00+05:30",
    "generatedAt": "2026-11-10T06:26+05:30",
