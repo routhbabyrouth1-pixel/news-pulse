@@ -1,6 +1,172 @@
 {
- "updated": "2026-11-10T17:19+05:30",
+ "updated": "2026-11-10T18:28+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T18:00+05:30",
+   "generatedAt": "2026-11-10T18:28+05:30",
+   "feeds": 16,
+   "headlines": 333,
+   "stories": [
+    {
+     "title": "ECI extends ECI extends model code restrictions to retired Govt officials engaged by Statesmodel code restrictions to retired Govt officials engaged by States",
+     "link": "https://www.thehindu.com/news/national/eci-extends-model-code-restrictions-to-retired-govt-officials-engaged-by-states/article71685602.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint",
+      "Times of India",
+      "United News of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T17:25+05:30",
+     "score": 7.93,
+     "summary": "The Election Commission of India said such individuals must maintain political neutrality and refrain from participating in election campaigns or canvassing",
+     "image": "https://th-i.thgim.com/public/incoming/lihdmv/article71685652.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202026_22_04_5.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "ECI extends ECI extends model code restrictions to retired Govt officials engaged by Statesmodel code restrictions to retired Govt officials engaged by States",
+       "link": "https://www.thehindu.com/news/national/eci-extends-model-code-restrictions-to-retired-govt-officials-engaged-by-states/article71685602.ece",
+       "publishedAt": "2026-11-10T17:25+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "ECI extends neutrality restrictions in poll-bound states",
+       "link": "https://www.hindustantimes.com/india-news/eci-extends-neutrality-restrictions-re-employed-officials-in-poll-bound-states-101794305239183.html",
+       "publishedAt": "2026-11-10T15:37+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Retired govt officials come under purview of model code restrictions, says EC",
+       "link": "https://timesofindia.indiatimes.com/india/must-maintain-political-neutrality-ec-says-model-code-curbs-apply-to-retired-govt-officials/articleshow/135706156.cms",
+       "publishedAt": "2026-11-10T14:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+     "source": "The Guardian",
+     "sources": [
+      "BBC",
+      "DW.com",
+      "Reuters",
+      "The Economic Times",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T17:58+05:30",
+     "score": 7.42,
+     "summary": "US-led talks in Abu Dhabi are first substantive negotiations in months focusing on ending the conflict which has raged for more than four years US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united response” after France blamed Iran for a spate of cyber-attacks on supermarket freezers and chillers that caused millions of euros of damage.…",
+     "image": "https://i.guim.co.uk/img/media/107e559a07afa91b8a10b4e3226ef062b4051e0e/63_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=77ca63dc298bd7c55a13748902e04061",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+       "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+       "publishedAt": "2026-11-10T17:58+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "US-mediated Russia-Ukraine peace talks begin",
+       "link": "https://economictimes.indiatimes.com/news/defence/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/articleshow/135709980.cms",
+       "publishedAt": "2026-11-10T17:25+05:30"
+      },
+      {
+       "source": "DW.com",
+       "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
+       "publishedAt": "2026-11-10T14:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft might start paying GPU owners to train AI on their graphics cards",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1ZCc3RVTjJ4cDZFM3VXMVhQMy1ldWg5T1MxZG15aEVUYWl2TUdKTDdlTzA3ZWJpTFZZTjBkMUw4S3dJUHVORXRTUXU4LTNuSkFicHRuTDlFbFdIWXlCa3BiaHQ5cDBjVWdJbEd4amdhczZGTG9Rd0kyWDE1ejk4aU4yVktTeXprbDFqNWktNktfcGZONHZrdEgxUU5EZjNYdDVXbEFyR2c?oc=5",
+     "source": "PC Guide",
+     "sources": [
+      "Insider Gaming",
+      "International Business Times UK",
+      "PC Guide",
+      "VideoCardz.com",
+      "XenoSpectrum"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T15:25+05:30",
+     "score": 6.99,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "PC Guide",
+       "title": "Microsoft might start paying GPU owners to train AI on their graphics cards",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1ZCc3RVTjJ4cDZFM3VXMVhQMy1ldWg5T1MxZG15aEVUYWl2TUdKTDdlTzA3ZWJpTFZZTjBkMUw4S3dJUHVORXRTUXU4LTNuSkFicHRuTDlFbFdIWXlCa3BiaHQ5cDBjVWdJbEd4amdhczZGTG9Rd0kyWDE1ejk4aU4yVktTeXprbDFqNWktNktfcGZONHZrdEgxUU5EZjNYdDVXbEFyR2c?oc=5",
+       "publishedAt": "2026-11-10T15:25+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pannun’s civil lawsuit: U.S. State Department formally serves notice on India",
+     "link": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Mint",
+      "Swarajya",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T17:12+05:30",
+     "score": 6.98,
+     "summary": "The U.S. Department of State said it was legally obliged to do so and is not taking a position on the case",
+     "image": "https://th-i.thgim.com/public/incoming/hop5hz/article71685489.ece/alternates/LANDSCAPE_1200/India_Sikh_Assassination_Plot_65459.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Pannun’s civil lawsuit: U.S. State Department formally serves notice on India",
+       "link": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
+       "publishedAt": "2026-11-10T17:12+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "US State Department serves summons to Government of India in civil lawsuit by Khalistan separatist Gurpatwant Pannun",
+       "link": "https://www.livemint.com/news/us-news/us-state-department-serves-summons-to-government-of-india-in-civil-lawsuit-by-khalistan-separatist-gurpatwant-pannun-11794301265628.html",
+       "publishedAt": "2026-11-10T14:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
+     "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+     "source": "The Guardian",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T14:48+05:30",
+     "score": 6.89,
+     "summary": "From the assassinations of her husband and mother-in-law to press stonewalling under Modi, Belonging offers an insider’s account of India’s political evolution • Don’t get This is India delivered to your inbox? Sign up here Few love stories have been as closely entwined with a nation’s history as that of Sonia and Rajiv Gandhi. The former’s much-awaited political memoir, Belonging, offers a strikingly candid account…",
+     "image": "https://i.guim.co.uk/img/media/d2e894a22b72fea95ed08e3a70d3924f4ca19359/2314_387_3859_3088/master/3859.jpg?width=140&quality=85&auto=format&fit=max&s=f50ca4fe4fab425da5723c61ac2b25e8",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
+       "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+       "publishedAt": "2026-11-10T13:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T17:00+05:30",
    "generatedAt": "2026-11-10T17:19+05:30",
