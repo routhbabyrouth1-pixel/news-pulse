@@ -1,6 +1,190 @@
 {
- "updated": "2026-11-11T01:21+05:30",
+ "updated": "2026-11-11T02:13+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T02:00+05:30",
+   "generatedAt": "2026-11-11T02:13+05:30",
+   "feeds": 16,
+   "headlines": 255,
+   "stories": [
+    {
+     "title": "Gemini 4 Carbon Available In Google Search AI Mode",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU1TdlZqOVJZbDFVTzdSMjJzc3NxNnhCd3N0bkRxakJETEZTSm05MHJYUzFNenIxeDkxNzR0ODJudHlCUldRR3J3QWU3bWZIcjQtakx3TXdES2NqVUtLTTJ4c1pULWN2TnpwbHlEQ00tT3VCMHctaU1fbkFZVTkxZnVsZw?oc=5",
+     "source": "Search Engine Roundtable",
+     "sources": [
+      "9to5Google",
+      "Firstpost",
+      "Forbes",
+      "MLQ.ai",
+      "OrcaRouter",
+      "Search Engine Roundtable",
+      "The New Stack",
+      "WIRED",
+      "blog.google",
+      "infoq.com"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-10T22:20+05:30",
+     "score": 10.52,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Search Engine Roundtable",
+       "title": "Gemini 4 Carbon Available In Google Search AI Mode",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU1TdlZqOVJZbDFVTzdSMjJzc3NxNnhCd3N0bkRxakJETEZTSm05MHJYUzFNenIxeDkxNzR0ODJudHlCUldRR3J3QWU3bWZIcjQtakx3TXdES2NqVUtLTTJ4c1pULWN2TnpwbHlEQ00tT3VCMHctaU1fbkFZVTkxZnVsZw?oc=5",
+       "publishedAt": "2026-11-10T22:20+05:30"
+      },
+      {
+       "source": "The New Stack",
+       "title": "Google says Gemini 4 Carbon proved Signal’s encryption in weeks",
+       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TM2pMUmdKcFpSdXhqZld0NWkyN0s1UUpOd2h3WHBRcFBwRGNUdmFyNGt3UFI0eng4d1dsdXpWN3h2b2Z6Z2c4YW1LTXgtbnlhSVVYdFVZSTY?oc=5",
+       "publishedAt": "2026-11-10T21:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Israel's new parliament sworn in as leaders compete to form government",
+     "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC News",
+      "NDTV",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu",
+      "The New York Times",
+      "The Times of Israel"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T23:47+05:30",
+     "score": 9.09,
+     "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Israel's new parliament sworn in as leaders compete to form government",
+       "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-10T22:33+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Israel parliament sworn in; Gadi eyes power",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/israels-parliament-sworn-in-as-eisenkot-tries-to-forge-a-government/articleshow/135714454.cms",
+       "publishedAt": "2026-11-10T20:43+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
+       "publishedAt": "2026-11-10T23:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Rubio says no need for major combat operations against Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Hindustan Times",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T01:05+05:30",
+     "score": 7.56,
+     "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
+     "image": "https://c.ndtvimg.com/2025-03/4ppk59jo_marco-rubio_625x300_13_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Rubio says no need for major combat operations against Iran",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+       "publishedAt": "2026-11-11T01:04+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"No Need For Major Combat\": Marco Rubio Says Iran Ops Were 'Devastating'",
+       "link": "https://www.ndtv.com/world-news/no-need-for-major-combat-marco-rubio-says-iran-ops-were-devastating-12309935#publisher=newsstand",
+       "publishedAt": "2026-11-10T23:59+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Rubio says no need for major combat operations against Iran given US economic campaign",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5",
+       "publishedAt": "2026-11-11T01:05+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "US sanctions inflicting ‘extraordinary economic pain’ on Iran, no need for major combat ops: Rubio | World News",
+       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdngwbjlSSXR3RXJWYms5OEtWTTZPYkgzbkRHS1N6VjlCNFVzRGVvMGs2RFNrb3duTm84RWVoZFVFV1VxM2Zub09YLUo3WU5XdGVkcTJZZDNFbUFIVTJqbE9lVlRVNXhWX3k2ZUMtTnZSSDBpYnNRTG1zYWhjYWh0QXNBX05ZZXFXanVwRVZ1WGpFczVnaU1ydkhITU9ha1h5T0ZvS2FkUDZqZ21kSG1jSXNzaVdBVENtUjB3aUhpM1A2dUlmWkZscFd6NmgzcE12Z2lHaExjVGNSWVpwUm5HQ0REVDNCSWRVRThibHlEbk96Tk9FaFduc2dieEQ?oc=5",
+       "publishedAt": "2026-11-10T20:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
+     "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "Benzinga",
+      "Bloomberg.com",
+      "Reuters",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T21:57+05:30",
+     "score": 6.33,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135715730,imgsize-89558.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
+       "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
+       "publishedAt": "2026-11-10T21:37+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
+       "publishedAt": "2026-11-10T21:57+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Google Patches Critical Chrome Zero-Day Exploiting XML Vulnerability",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkxBVWZQTjEyS1hoV2oybG1DNGNXWkd6XzlWS3ZJOFBYRlVlR1kwYk1FZGxBX25lRFRReFhSS3NkSlc3dkI2YUNpYXE3YmQzSWJOZG1ZaFdDQlNZSmdobU1weVVZTTRqTU5ydGpRS3d4dXd4ZkZ1c2xYRkdDX3ZQNndyUlM5OGlsTTZuYXNIZGw?oc=5",
+     "source": "LinkedIn",
+     "sources": [
+      "AndroidPure",
+      "Hong Kong Computer Emergency Response Team Coordination Centre",
+      "Lifehacker",
+      "LinkedIn",
+      "The Hacker News"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T01:30+05:30",
+     "score": 6.26,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "LinkedIn",
+       "title": "Google Patches Critical Chrome Zero-Day Exploiting XML Vulnerability",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkxBVWZQTjEyS1hoV2oybG1DNGNXWkd6XzlWS3ZJOFBYRlVlR1kwYk1FZGxBX25lRFRReFhSS3NkSlc3dkI2YUNpYXE3YmQzSWJOZG1ZaFdDQlNZSmdobU1weVVZTTRqTU5ydGpRS3d4dXd4ZkZ1c2xYRkdDX3ZQNndyUlM5OGlsTTZuYXNIZGw?oc=5",
+       "publishedAt": "2026-11-11T01:30+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T01:00+05:30",
    "generatedAt": "2026-11-11T01:21+05:30",
