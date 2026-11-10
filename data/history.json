@@ -1,6 +1,187 @@
 {
- "updated": "2026-11-10T13:43+05:30",
+ "updated": "2026-11-10T15:24+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T15:00+05:30",
+   "generatedAt": "2026-11-10T15:24+05:30",
+   "feeds": 16,
+   "headlines": 332,
+   "stories": [
+    {
+     "title": "US reportedly evacuate aircraft from RAF Mildenhall over Iran threat",
+     "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "CNN",
+      "NDTV",
+      "Telegraph India",
+      "The Guardian",
+      "The Times of India",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-10T15:02+05:30",
+     "score": 9.24,
+     "summary": "Evacuation comes weeks after US withdrew bombers from RAF Fairford over suspected Iran-linked security incident The US military has reportedly evacuated aircraft from a second airbase in ⁠Britain after a threat from Iran. Two US refuelling tankers that were using the RAF Mildenhall military base diverted to Germany on Monday morning, while several other tankers at the base ⁠were moved to Germany and other locations…",
+     "image": "https://i.guim.co.uk/img/media/af04e0ad8236fe288041fbdcdd6bba810aba9aa1/0_173_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=a47bae74f3b22739cfbea6fffd16c20a",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "US reportedly evacuate aircraft from RAF Mildenhall over Iran threat",
+       "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+       "publishedAt": "2026-11-10T15:02+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "US moves aircraft from second UK base over ‘threat from Iran’",
+       "link": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
+       "publishedAt": "2026-11-10T13:38+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "US evacuates aircraft from UK air base after Iran threat: Report",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-evacuates-aircraft-from-uk-air-base-after-iran-threat-report/articleshow/135699996.cms",
+       "publishedAt": "2026-11-10T10:33+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "US evacuates aircraft from UK air base after Iran threat: Report",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMzNnNmRUcS14N1VQQlJQTnZJRGZTUDhqUkxuR3pTbWRGNnk2VGpEYVVtMVRRbGFxMUMtaGREN1ppc2hMODc5dVVYWHJDMFdDZGpxTml0NDlLNkRZazZzMG9vMEVNV2ZxM0pfXzJjdUpZLTVERFNtMVJCTU9ack8zUUY0QVluZDEtRUdRZG9nREpLT3RhS3VtRWcwSVREU1V6aG9Zb3R6azRITG5BWUlrdDVEWmJYQnhJd0VtMU81VG9KXzJCNEhsSTRXSnhSMHc?oc=5",
+       "publishedAt": "2026-11-10T10:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Ramayana' box office day 6 (LIVE): Ranbir Kapoor starrer inches towards Rs 400 crore",
+     "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-6-live-ranbir-kapoor-yash-sai-pallavi-starrer-inches-towards-rs-400-crore-in-india/articleshow/135704287.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "Pinkvilla",
+      "Telegraph India",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T13:41+05:30",
+     "score": 8.21,
+     "summary": "The blockbuster Ramayana: Part 1, starring Ranbir Kapoor, Yash, and Sai Pallavi, is making waves in cinemas. With a remarkable net collection of Rs 346.35 crore in India over five days and a worldwide gross touching Rs 663.90 crore, the film is on a path to reaching Rs 700 crore post-Monday's earnings. Advance sales for Day 6 look strong as audience interest continues to grow.",
+     "image": "https://static.toiimg.com/photo/msid-135704419,imgsize-362035.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Ramayana' box office day 6 (LIVE): Ranbir Kapoor starrer inches towards Rs 400 crore",
+       "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-6-live-ranbir-kapoor-yash-sai-pallavi-starrer-inches-towards-rs-400-crore-in-india/articleshow/135704287.cms",
+       "publishedAt": "2026-11-10T13:41+05:30"
+      },
+      {
+       "source": "Pinkvilla",
+       "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer has an Extraordinary Monday Overseas, Biggest ever for an Indian film",
+       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQdm9KQ1FmYUZ4V0ljSFRpaldfY3RjSElYUGh4a01nb2xKcU5lMDJweWRfM2x3b08ydFpfNlMzSnNoMjFMMndFc2xmSFFoZ0hBUkhMMF9sQml6aDJZSEZqNlI4d1VPRkx5VVlrNWRUczZSWTRkOGZnVEg2V3BfWWF0WDVsZFFVdFQydGNWZnlDcFBVY2lZbTN5TzFfTk9HR2dzeFlLUzNnYkF5azNLcDJHWnJGbEVvMjVlRXQwSjJ1UVhjT3JlbmxzOEk3M0NZYjZzVkZIWmJCSlVMN2E4THR6ZG02NC16b0hzaTloVUszZVBWN0g2d3dsaXZ0bEJ1Mm5lODVzNWlqb3RjenBOeWNCa3gtbDYyLW92VTl3WjFNcGIyLUllYlE?oc=5",
+       "publishedAt": "2026-11-10T13:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Aaryavir Sehwag joins Gill, Agarwal in elite list with stunning 160 against UAE",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/aaryavir-sehwag-joins-shubman-gill-mayank-agarwal-in-elite-list-with-stunning-160-against-uae/articleshow/135704665.cms",
+     "source": "Times of India",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "India Today",
+      "Sportstar",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T13:54+05:30",
+     "score": 7.5,
+     "summary": "In a dazzling display of talent, Aaryavir Sehwag smacked an impressive 160 runs against the UAE during the ACC U19 Asia Cup. His formidable innings featured 17 fours and seven sixes, paving the way for India's dominance. Partnering with VK Vineeth, they amassed a substantial 193 runs for the second wicket. However, he narrowly missed breaking the record for the highest Youth ODI score.",
+     "image": "https://static.toiimg.com/photo/msid-135704741,imgsize-160598.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Aaryavir Sehwag joins Gill, Agarwal in elite list with stunning 160 against UAE",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/aaryavir-sehwag-joins-shubman-gill-mayank-agarwal-in-elite-list-with-stunning-160-against-uae/articleshow/135704665.cms",
+       "publishedAt": "2026-11-10T13:54+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Aaryavir Sehwag joins Shubman Gill, Mayank Agarwal in elite list with stunning 160 against UAE",
+       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPd0tXU3MteG9tUWlVMEt4Qm9uYk1BVFFGTGo1TTZYajRYci1wSG5WVlhwMW5wMElzcXFqYUlPMWRaN1dLQTBKcHdYSzV3U3Z2V1BzQXE0eEtRN0lCN0tBZWcxTFc5aTluajZFYVB4dkhsNm1PdG5ORDlxdFl3Rnp1dUxIbjJ6dHY2LTI3QzJwWjVtMC04Q0VIME1KYnpEaWZ6dWp3aEkyT0JWc1RLcGtjUDlFeEg2S1pVR2NyQnlaYXJ5bjhzaVpQRUluTGZvb3Qtd21idndWQVAySUVQZUZ3QTB0bGhuU3dVeEZfOC1TNV82OF9fQjhDcGlGSTRjc2U5VGJPOE13?oc=5",
+       "publishedAt": "2026-11-10T13:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pannun’s civil lawsuit: U.S. State Department formally serves notice on India",
+     "link": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Gujarat Samachar",
+      "Mint",
+      "NewsBytes",
+      "The Hindu",
+      "The Tribune",
+      "ThePrint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T15:01+05:30",
+     "score": 7.44,
+     "summary": "The U.S. Department of State said it was legally obliged to do so and is not taking a position on the case",
+     "image": "https://th-i.thgim.com/public/incoming/hop5hz/article71685489.ece/alternates/LANDSCAPE_1200/India_Sikh_Assassination_Plot_65459.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Pannun’s civil lawsuit: U.S. State Department formally serves notice on India",
+       "link": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
+       "publishedAt": "2026-11-10T15:01+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "US State Department serves summons to Government of India in civil lawsuit by Khalistan separatist Gurpatwant Pannun",
+       "link": "https://www.livemint.com/news/us-news/us-state-department-serves-summons-to-government-of-india-in-civil-lawsuit-by-khalistan-separatist-gurpatwant-pannun-11794301265628.html",
+       "publishedAt": "2026-11-10T14:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+     "source": "The Guardian",
+     "sources": [
+      "BBC",
+      "DW.com",
+      "Euronews.com",
+      "Reuters",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T14:51+05:30",
+     "score": 7.41,
+     "summary": "Talks in Abu Dhabi are first substantive negotiations in months focusing on ending the conflict which has raged for more than four years Donald Trump has said that Ukraine would like be expected to give up territory in a final deal, and would end with a “little bit different shape“. After meeting with Kremlin advisor Kirill Dmitriev last week, Trump said he would seek a “big, beautiful agreement” that “might involve…",
+     "image": "https://i.guim.co.uk/img/media/5b0960a278f00d719bff4d289a0850518bd8f2bc/937_0_4888_3911/master/4888.jpg?width=140&quality=85&auto=format&fit=max&s=91f4d25883549ab03e2b2b990a917aa7",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live",
+       "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+       "publishedAt": "2026-11-10T14:51+05:30"
+      },
+      {
+       "source": "DW.com",
+       "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
+       "publishedAt": "2026-11-10T11:25+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T13:00+05:30",
    "generatedAt": "2026-11-10T13:43+05:30",
