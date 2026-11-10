@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-10T12:31+05:30",
+ "updated": "2026-11-10T13:43+05:30",
  "hours": [
+  {
+   "hour": "2026-11-10T13:00+05:30",
+   "generatedAt": "2026-11-10T13:43+05:30",
+   "feeds": 16,
+   "headlines": 294,
+   "stories": [
+    {
+     "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
+     "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+     "source": "The Guardian",
+     "sources": [
+      "Sky News",
+      "Telegraph India",
+      "The Guardian",
+      "The Jerusalem Post",
+      "The Times of India",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T12:16+05:30",
+     "score": 7.83,
+     "summary": "The reported evacuation comes weeks after the US withdrew bombers from RAF Fairford over a suspected Iran-linked security incident The US military evacuated aircraft from a second airbase in ⁠Britain on Monday after a threat from Iran, the Wall Street Journal (WSJ) reported, citing people familiar with the matter, weeks after Washington withdrew its bombers from ⁠RAF Fairford airbase over ⁠a suspected Iran-linked…",
+     "image": "https://i.guim.co.uk/img/media/af04e0ad8236fe288041fbdcdd6bba810aba9aa1/0_173_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=a47bae74f3b22739cfbea6fffd16c20a",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
+       "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+       "publishedAt": "2026-11-10T12:16+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "US evacuates aircraft from UK air base after Iran threat: Report",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-evacuates-aircraft-from-uk-air-base-after-iran-threat-report/articleshow/135699996.cms",
+       "publishedAt": "2026-11-10T10:33+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "US evacuates aircraft from UK air base after Iran threat: Report",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMzNnNmRUcS14N1VQQlJQTnZJRGZTUDhqUkxuR3pTbWRGNnk2VGpEYVVtMVRRbGFxMUMtaGREN1ppc2hMODc5dVVYWHJDMFdDZGpxTml0NDlLNkRZazZzMG9vMEVNV2ZxM0pfXzJjdUpZLTVERFNtMVJCTU9ack8zUUY0QVluZDEtRUdRZG9nREpLT3RhS3VtRWcwSVREU1V6aG9Zb3R6azRITG5BWUlrdDVEWmJYQnhJd0VtMU81VG9KXzJCNEhsSTRXSnhSMHc?oc=5",
+       "publishedAt": "2026-11-10T10:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India vs UAE Live Score Updates, U19 Asia Cup 2026: Aaryavir Sehwag Nears Century, India In Control vs UAE",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM0NwN3lHaFhKOTZodG1DZnAxZUNkVnRrYm9JbC1qSzRGYTZiMGpEWGVkYkptX2xnazcxVGxDYVBLcEFWZElhRVY0T2RQVmVRZjFkbkZEeFZLdU1GX2ZyX2RpUmVNTFdiY2s4SzA0VnJCQzdpQlJYSWdwLVJQYXBNbTJVQ3lnTURZeFNObElyZEU5WE11ZWhoZ2JVQ0xjbUl5OVdpTEZTcVZpOWN6Q1d2RUxDQ2YwN0ZYVFdXU1puT0xuVktTcDB4aTJ0OUJ3dGRfUF85T3Rn?oc=5",
+     "source": "NDTV Sports",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "India Today",
+      "NDTV Sports",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T13:35+05:30",
+     "score": 7.48,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV Sports",
+       "title": "India vs UAE Live Score Updates, U19 Asia Cup 2026: Aaryavir Sehwag Nears Century, India In Control vs UAE",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM0NwN3lHaFhKOTZodG1DZnAxZUNkVnRrYm9JbC1qSzRGYTZiMGpEWGVkYkptX2xnazcxVGxDYVBLcEFWZElhRVY0T2RQVmVRZjFkbkZEeFZLdU1GX2ZyX2RpUmVNTFdiY2s4SzA0VnJCQzdpQlJYSWdwLVJQYXBNbTJVQ3lnTURZeFNObElyZEU5WE11ZWhoZ2JVQ0xjbUl5OVdpTEZTcVZpOWN6Q1d2RUxDQ2YwN0ZYVFdXU1puT0xuVktTcDB4aTJ0OUJ3dGRfUF85T3Rn?oc=5",
+       "publishedAt": "2026-11-10T13:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+     "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+     "source": "The Guardian",
+     "sources": [
+      "BBC",
+      "DW.com",
+      "NDTV",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T11:25+05:30",
+     "score": 7.37,
+     "summary": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe US officials said they would seek a “final end” to the war between Russia and Ukraine, beginning with trilateral talks in Abu Dhabi on Tuesday in the first substantive negotiations between the two countries since February. The talks are also the first since the US launched joint strikes…",
+     "image": "https://i.guim.co.uk/img/media/b67f54026a5a8be610e08a9ba1634e5bc9eb901e/87_0_869_695/master/869.jpg?width=140&quality=85&auto=format&fit=max&s=c1aa2025ee1c4710947412f8d4f6ac95",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+       "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+       "publishedAt": "2026-11-10T10:30+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "US-Mediated Talks Between Russia, Ukraine Begin Today In Abu Dhabi",
+       "link": "https://www.ndtv.com/world-news/us-mediated-talks-between-russia-ukraine-begin-today-in-abu-dhabi-12306322#publisher=newsstand",
+       "publishedAt": "2026-11-10T10:23+05:30"
+      },
+      {
+       "source": "DW.com",
+       "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
+       "publishedAt": "2026-11-10T11:25+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Why Shubman Gill is captaining India for the last time in ODI series",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-shubman-gill-is-captaining-india-for-the-last-time-in-new-zealand-odi-series/articleshow/135699367.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricinfo",
+      "Deccan Herald",
+      "MSN",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T10:08+05:30",
+     "score": 7.15,
+     "summary": "Shubman Gill leads India in his final match of the ODI series against New Zealand at Seddon Park. He will miss the fourth and fifth ODIs due to workload management before the Test series. India are ahead in the series, leading series 2-0. Shreyas Iyer will take over as captain for the final two matches.",
+     "image": "https://static.toiimg.com/photo/msid-135699500,imgsize-36196.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Why Shubman Gill is captaining India for the last time in ODI series",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-shubman-gill-is-captaining-india-for-the-last-time-in-new-zealand-odi-series/articleshow/135699367.cms",
+       "publishedAt": "2026-11-10T10:08+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Why Shubman Gill is captaining India for the last time in New Zealand ODI series",
+       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNb0lYRk9qbW9WaDlQZjlmb0ZsdkFxU0U5Y3NHNVUxYzVjUlByaG1SMFZUbWRzTHhVdU1lcWxNMXdxMERYejlMOW56bVJObGNmNjUxa2xUZkM0YXYtNHhaZkVWazVxLTJRV0J0NnhBa1lNZmljeHhSMW9SajZMbGpvaGs0bVExM3hoMlgzdENEV3VmS1M3eHFVYW9wTlVYalpGc3VaUmxQeXdodi1MelZEazlXaEhnbmpjeUxTS1ZXaV9VOVFEbW5tNTZDeG1MdG9JMlg3VFBHb0lNMG95X2daVzRTS3pnSGF3am1oX0puMFByTFg4a0ozZDdtTUhFYlF1c1JOM0R5SEpPdw?oc=5",
+       "publishedAt": "2026-11-10T10:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "\"He Tends To Look Away, Avoiding Eye Contact\": Sonia Gandhi On PM Modi",
+     "link": "https://www.ndtv.com/india-news/have-no-real-contact-with-him-he-avoids-eye-contact-sonia-gandhi-on-pm-modi-12306330#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Deccan Herald",
+      "NDTV",
+      "The Guardian",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T11:33+05:30",
+     "score": 7.14,
+     "summary": "The former Congress chief says whenever the two come together, they greet each other with a namaste, but claims that the Prime Minister \"tends to look away\".",
+     "image": "https://c.ndtvimg.com/2026-11/gtbm645g_sonia-gandhi-pm-_625x300_07_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "\"He Tends To Look Away, Avoiding Eye Contact\": Sonia Gandhi On PM Modi",
+       "link": "https://www.ndtv.com/india-news/have-no-real-contact-with-him-he-avoids-eye-contact-sonia-gandhi-on-pm-modi-12306330#publisher=newsstand",
+       "publishedAt": "2026-11-10T11:33+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-10T12:00+05:30",
    "generatedAt": "2026-11-10T12:31+05:30",
