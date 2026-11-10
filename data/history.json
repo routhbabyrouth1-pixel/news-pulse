@@ -1,6 +1,160 @@
 {
- "updated": "2026-11-11T04:09+05:30",
+ "updated": "2026-11-11T05:04+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T05:00+05:30",
+   "generatedAt": "2026-11-11T05:04+05:30",
+   "feeds": 16,
+   "headlines": 164,
+   "stories": [
+    {
+     "title": "Rubio says no need for major combat operations against Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "CBS News",
+      "Hindustan Times",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T01:05+05:30",
+     "score": 8.09,
+     "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
+     "image": "https://c.ndtvimg.com/2025-03/4ppk59jo_marco-rubio_625x300_13_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Rubio says no need for major combat operations against Iran",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+       "publishedAt": "2026-11-11T01:04+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"No Need For Major Combat\": Marco Rubio Says Iran Ops Were 'Devastating'",
+       "link": "https://www.ndtv.com/world-news/no-need-for-major-combat-marco-rubio-says-iran-ops-were-devastating-12309935#publisher=newsstand",
+       "publishedAt": "2026-11-10T23:59+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Rubio says no need for major combat operations against Iran given US economic campaign",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5",
+       "publishedAt": "2026-11-11T01:05+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Suryakumar ready to bounce back from 'very difficult' phase",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc3BacWtsQTlqdDAyaEpaZ2NTYXgybGM1SWJ1Vm1nRVdsUnI0cmJMcFhtLXpxWnplcldkM1FlaUhwaHRFVUtscWVSOGVjNG56U2hRV0NaVWVFdWpGaENHSzZhTnl5dGZXVDdkRFRKYWxVVVRxR0hpdHFfQkJTSkZ0b05pTjd1SHAtOTRncE1vUFlGY2ZnM3VzNHFpQ21WTnNSaEVSaUZhcFM2OFd6T1lJVUJlREFnZFJrOFkzdjZndzExM1BnQUFCamZMMmQwMUphd3fSAeMBQVVfeXFMT0JUTmZuazNnR1RtZkJEcFhORG5lcTA1UUFhQ3prNjd2NXZRX0VqdnJOMG90Qmk2LVlfNEIzMWRROFc3U3hrQ1JWUnA4NjFEdDVTRG1iZGZLNGhpbEhJc21tQU1hQ2ktUkR3OGdaSHFNdXVMNm43M29sc3BpZjRpcEtLTHhOaThZTllEa3VpUW8yZlM5Y3ZpMlZKbkdQM1lHYTZPQWZGWGg4SGVQcXM4ZEpkQ1d5VGxJam5UQzNFbHNHT0JLcmxiRjU2TEpLWEhBNElkQVNuWjg2dVN4ZnVEeUx0elE?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Rediff",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T03:06+05:30",
+     "score": 7.17,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "Suryakumar ready to bounce back from 'very difficult' phase",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc3BacWtsQTlqdDAyaEpaZ2NTYXgybGM1SWJ1Vm1nRVdsUnI0cmJMcFhtLXpxWnplcldkM1FlaUhwaHRFVUtscWVSOGVjNG56U2hRV0NaVWVFdWpGaENHSzZhTnl5dGZXVDdkRFRKYWxVVVRxR0hpdHFfQkJTSkZ0b05pTjd1SHAtOTRncE1vUFlGY2ZnM3VzNHFpQ21WTnNSaEVSaUZhcFM2OFd6T1lJVUJlREFnZFJrOFkzdjZndzExM1BnQUFCamZMMmQwMUphd3fSAeMBQVVfeXFMT0JUTmZuazNnR1RtZkJEcFhORG5lcTA1UUFhQ3prNjd2NXZRX0VqdnJOMG90Qmk2LVlfNEIzMWRROFc3U3hrQ1JWUnA4NjFEdDVTRG1iZGZLNGhpbEhJc21tQU1hQ2ktUkR3OGdaSHFNdXVMNm43M29sc3BpZjRpcEtLTHhOaThZTllEa3VpUW8yZlM5Y3ZpMlZKbkdQM1lHYTZPQWZGWGg4SGVQcXM4ZEpkQ1d5VGxJam5UQzNFbHNHT0JLcmxiRjU2TEpLWEhBNElkQVNuWjg2dVN4ZnVEeUx0elE?oc=5",
+       "publishedAt": "2026-11-11T03:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Unable to manage fridges': Iran mocks France over supermarket cyberattack",
+     "link": "https://timesofindia.indiatimes.com/world/middle-east/unable-to-manage-fridges-iran-mocks-france-after-paris-blames-tehran-for-supermarket-cyberattack/articleshow/135720067.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "The Hindu",
+      "The Times of India",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T03:45+05:30",
+     "score": 6.92,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135720069,imgsize-59820.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Unable to manage fridges': Iran mocks France over supermarket cyberattack",
+       "link": "https://timesofindia.indiatimes.com/world/middle-east/unable-to-manage-fridges-iran-mocks-france-after-paris-blames-tehran-for-supermarket-cyberattack/articleshow/135720067.cms",
+       "publishedAt": "2026-11-11T03:45+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Unable to manage fridges': Iran mocks France after Paris blames Tehran for supermarket cyberattack",
+       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdzJ2bkNlRmhoc2gyZ2dva2dnOHpBcWtpaWNRaTVOeFBUUjV3cnU2U01lRkpWS0VzNXdUb1hTMkdkNVpQRTZuUUhrdTZHVDhvRmRGeVZTTGZqdVdPYUswbDlfdG9FNFVsbVJfckhPM0c0YlZiZFBiQjlGV0NQWDJOZERqTVVlc1BoU3k2VHNLN2p1enNWYnp0MkJpRHFWWDJsSld3WFZYMjlIR1JWaDcyN1h6YkVmN093SmVSaldxQW5EOUY0MmMtUUFzNkw0bTU3SlNUSDVUajFSZUU1aV9Bc3VWaWlESkZTWFdaRTlST25wLTFqcDJOV0c1bHB3dk1CX1lXOU1EMA?oc=5",
+       "publishedAt": "2026-11-11T03:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GTA 6 will technically be playable on Xbox One at launch",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSGVROUVwbzRkandoNlo1Qmh4cmg4Rk56aDNVcGxOZlRhaTVlSFdRVy03YWotNlhhQ1lVU1ZackxQUFZpWXppaEl3Z3N4MjNEUGs4R0RZRWV2X0R5U0NrRzhFVWZjakFRcm1pQWxwcTg5cTlG?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "Digital Foundry",
+      "Mashable",
+      "PlayStation.Blog",
+      "The Times of India",
+      "XBOX Wire"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T02:21+05:30",
+     "score": 6.05,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "GTA 6 will technically be playable on Xbox One at launch",
+       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSGVROUVwbzRkandoNlo1Qmh4cmg4Rk56aDNVcGxOZlRhaTVlSFdRVy03YWotNlhhQ1lVU1ZackxQUFZpWXppaEl3Z3N4MjNEUGs4R0RZRWV2X0R5U0NrRzhFVWZjakFRcm1pQWxwcTg5cTlG?oc=5",
+       "publishedAt": "2026-11-11T02:21+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Perth Scorchers Women vs Sydney Thunder Women, free match prediction 11 November 2026",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QZTVsMGEyZk9jRm9wUVFVSEg4eTVLZ1FqU0xET3RyaWkzUTBSQjJPWDZZRThDczZYR3Q5M2hRUVdYOFdkUjczUXp0aDFBU1VBbjcyRmRRVy1KbU1sM3l5Q1A5Yzl3Tk5Cd3UzTk41Tnp1cDlQLXBvQmg4Zjh0Qkk?oc=5",
+     "source": "TheTopBookies",
+     "sources": [
+      "Cricinfo",
+      "Cricket World",
+      "Perth Scorchers",
+      "Sydney Thunder",
+      "TheTopBookies"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T03:46+05:30",
+     "score": 5.86,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "TheTopBookies",
+       "title": "Perth Scorchers Women vs Sydney Thunder Women, free match prediction 11 November 2026",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QZTVsMGEyZk9jRm9wUVFVSEg4eTVLZ1FqU0xET3RyaWkzUTBSQjJPWDZZRThDczZYR3Q5M2hRUVdYOFdkUjczUXp0aDFBU1VBbjcyRmRRVy1KbU1sM3l5Q1A5Yzl3Tk5Cd3UzTk41Tnp1cDlQLXBvQmg4Zjh0Qkk?oc=5",
+       "publishedAt": "2026-11-11T03:46+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T04:00+05:30",
    "generatedAt": "2026-11-11T04:09+05:30",
