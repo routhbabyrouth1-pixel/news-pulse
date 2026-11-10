@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-11T00:16+05:30",
+ "updated": "2026-11-11T01:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T01:00+05:30",
+   "generatedAt": "2026-11-11T01:21+05:30",
+   "feeds": 16,
+   "headlines": 271,
+   "stories": [
+    {
+     "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
+     "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "India Today",
+      "Mint",
+      "NDTV",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T22:01+05:30",
+     "score": 7.95,
+     "summary": "The resolution against Pete Hegseth was brought in by outgoing Republican lawmaker Thomas Massie on Monday.",
+     "image": "https://c.ndtvimg.com/2026-11/sb47n1a4_pete-hegseth_650x400_10_November_26.jpg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
+       "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
+       "publishedAt": "2026-11-10T22:01+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
+       "link": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
+       "publishedAt": "2026-11-10T20:15+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "‘No Secretary of Defence has ever been impeached’: Pete Hegseth defends Iran war actions amid removal push",
+       "link": "https://www.livemint.com/news/us-news/no-secretary-of-defence-has-ever-been-impeached-pete-hegseth-defends-iran-war-actions-amid-removal-push-11794318707252.html",
+       "publishedAt": "2026-11-10T19:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
+     "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "Bloomberg.com",
+      "Reuters",
+      "The Times of India",
+      "Times of India",
+      "TradingView",
+      "Truthout"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-10T21:57+05:30",
+     "score": 7.47,
+     "summary": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
+     "image": "https://static.toiimg.com/photo/msid-135715730,imgsize-89558.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
+       "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
+       "publishedAt": "2026-11-10T21:37+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+       "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
+       "publishedAt": "2026-11-10T20:48+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
+       "publishedAt": "2026-11-10T21:57+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Google Pixel Tag Initial Review: The gold standard for Find Hub trackers, whatever that’s worth",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EQTY3a1RXN20yNG5aRksxLXdLa2hfazcxWExMVHBTTGo2OUFuTDVIaHYwcFFUYTJsZ0hhbUE3UUNYOFdFbkZEbVhRcUU4SkotMWp4cDNSRld3amw4QWxnSXRTODZNWnpUSVlGTlZVa0VIX3ZH?oc=5",
+     "source": "9to5Google",
+     "sources": [
+      "9to5Google",
+      "Android Authority",
+      "CNET",
+      "TechCrunch",
+      "The Verge"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T22:30+05:30",
+     "score": 7.02,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "9to5Google",
+       "title": "Google Pixel Tag Initial Review: The gold standard for Find Hub trackers, whatever that’s worth",
+       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EQTY3a1RXN20yNG5aRksxLXdLa2hfazcxWExMVHBTTGo2OUFuTDVIaHYwcFFUYTJsZ0hhbUE3UUNYOFdFbkZEbVhRcUU4SkotMWp4cDNSRld3amw4QWxnSXRTODZNWnpUSVlGTlZVa0VIX3ZH?oc=5",
+       "publishedAt": "2026-11-10T22:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Suryakumar ready to bounce back from 'very difficult' phase",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc3BacWtsQTlqdDAyaEpaZ2NTYXgybGM1SWJ1Vm1nRVdsUnI0cmJMcFhtLXpxWnplcldkM1FlaUhwaHRFVUtscWVSOGVjNG56U2hRV0NaVWVFdWpGaENHSzZhTnl5dGZXVDdkRFRKYWxVVVRxR0hpdHFfQkJTSkZ0b05pTjd1SHAtOTRncE1vUFlGY2ZnM3VzNHFpQ21WTnNSaEVSaUZhcFM2OFd6T1lJVUJlREFnZFJrOFkzdjZndzExM1BnQUFCamZMMmQwMUphd3fSAeMBQVVfeXFMT0JUTmZuazNnR1RtZkJEcFhORG5lcTA1UUFhQ3prNjd2NXZRX0VqdnJOMG90Qmk2LVlfNEIzMWRROFc3U3hrQ1JWUnA4NjFEdDVTRG1iZGZLNGhpbEhJc21tQU1hQ2ktUkR3OGdaSHFNdXVMNm43M29sc3BpZjRpcEtLTHhOaThZTllEa3VpUW8yZlM5Y3ZpMlZKbkdQM1lHYTZPQWZGWGg4SGVQcXM4ZEpkQ1d5VGxJam5UQzNFbHNHT0JLcmxiRjU2TEpLWEhBNElkQVNuWjg2dVN4ZnVEeUx0elE?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Rediff",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-10T21:10+05:30",
+     "score": 6.81,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "Suryakumar ready to bounce back from 'very difficult' phase",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc3BacWtsQTlqdDAyaEpaZ2NTYXgybGM1SWJ1Vm1nRVdsUnI0cmJMcFhtLXpxWnplcldkM1FlaUhwaHRFVUtscWVSOGVjNG56U2hRV0NaVWVFdWpGaENHSzZhTnl5dGZXVDdkRFRKYWxVVVRxR0hpdHFfQkJTSkZ0b05pTjd1SHAtOTRncE1vUFlGY2ZnM3VzNHFpQ21WTnNSaEVSaUZhcFM2OFd6T1lJVUJlREFnZFJrOFkzdjZndzExM1BnQUFCamZMMmQwMUphd3fSAeMBQVVfeXFMT0JUTmZuazNnR1RtZkJEcFhORG5lcTA1UUFhQ3prNjd2NXZRX0VqdnJOMG90Qmk2LVlfNEIzMWRROFc3U3hrQ1JWUnA4NjFEdDVTRG1iZGZLNGhpbEhJc21tQU1hQ2ktUkR3OGdaSHFNdXVMNm43M29sc3BpZjRpcEtLTHhOaThZTllEa3VpUW8yZlM5Y3ZpMlZKbkdQM1lHYTZPQWZGWGg4SGVQcXM4ZEpkQ1d5VGxJam5UQzNFbHNHT0JLcmxiRjU2TEpLWEhBNElkQVNuWjg2dVN4ZnVEeUx0elE?oc=5",
+       "publishedAt": "2026-11-10T21:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "\"No Need For Major Combat\": Marco Rubio Says Iran Ops Were 'Devastating'",
+     "link": "https://www.ndtv.com/world-news/no-need-for-major-combat-marco-rubio-says-iran-ops-were-devastating-12309935#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "Hindustan Times",
+      "NDTV",
+      "Reuters",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-10T23:59+05:30",
+     "score": 6.52,
+     "summary": "Marco Rubio also appeared downbeat about the prospects of a deal with Tehran, saying Iran currently did not appear realistic about negotiations.",
+     "image": "https://c.ndtvimg.com/2025-03/4ppk59jo_marco-rubio_625x300_13_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "\"No Need For Major Combat\": Marco Rubio Says Iran Ops Were 'Devastating'",
+       "link": "https://www.ndtv.com/world-news/no-need-for-major-combat-marco-rubio-says-iran-ops-were-devastating-12309935#publisher=newsstand",
+       "publishedAt": "2026-11-10T23:59+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Rubio says no need for major combat operations against Iran given US economic campaign",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5",
+       "publishedAt": "2026-11-10T21:57+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T00:00+05:30",
    "generatedAt": "2026-11-11T00:16+05:30",
