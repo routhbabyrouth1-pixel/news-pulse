@@ -1,6 +1,221 @@
 {
- "updated": "2026-11-11T15:26+05:30",
+ "updated": "2026-11-11T16:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T16:00+05:30",
+   "generatedAt": "2026-11-11T16:27+05:30",
+   "feeds": 16,
+   "headlines": 332,
+   "stories": [
+    {
+     "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
+     "link": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece",
+     "source": "The Hindu",
+     "sources": [
+      "CGTN",
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-11T13:10+05:30",
+     "score": 9.95,
+     "summary": "All the passengers who had boarded the aircraft were deboarded, and it was taken to the isolation bay",
+     "image": "https://th-i.thgim.com/public/news/national/3fdnli/article71688703.ece/alternates/LANDSCAPE_1200/Kolkataairport.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
+       "link": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece",
+       "publishedAt": "2026-11-11T13:10+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Hijack threat note found on Air India flight in Kolkata; moved to isolation bay",
+       "link": "https://timesofindia.indiatimes.com/city/kolkata/hijack-threat-note-found-on-air-india-flight-in-kolkata-passengers-deboarded-plane-moved-to-isolation-bay/articleshow/135728515.cms",
+       "publishedAt": "2026-11-11T12:28+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Air India flight to Mumbai moved to isolation bay after hijack threat at Kolkata airport: What we know",
+       "link": "https://www.livemint.com/news/india/air-india-kolkata-mumbai-flight-moved-to-isolation-bay-after-hijack-threat-message-found-on-board-11794379871901.html",
+       "publishedAt": "2026-11-11T12:24+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay",
+       "link": "https://www.hindustantimes.com/india-news/hijack-scare-on-air-india-vistara-flight-to-mumbai-before-takeoff-plane-moved-to-isolation-bay-kolkata-airport-101794378656962.html",
+       "publishedAt": "2026-11-11T12:18+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Hijack threat note found on Air India flight in Kolkata; passengers deboarded, plane moved to isolation b",
+       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTGxHcnU0empHZG1wUkswSUVENW1JNVN1ZEJvYktmUjFNZ1pKNEczRktNd1lPRXJ1MXJ2aVQ2aW90czNsclE3c0NERUZWUURMcjd1bUlLZGNNc2o5RnM3b19CeWZnTFpqZy1JeXlOY2tzSlV1a05vZ0lfcWFLNkdrMHVxNDJqbHJLT0dVNmR5aWdrLUJxOE1kZ1dMRzc3ZEJ1WG4yeTZ4RTduVDlabjNiWUh4dlpzQkVRY2xGZ25oNVJ5TV9rQlJJV1VGQlF3cFFfaUNmV0dGb3lSNkVkSF85UU9EU3VqdXdGUHBUYW4wWGhFYmNBM3pyVy1xMlJoa3hmUUdsTFdmd3dmT2Rw?oc=5",
+       "publishedAt": "2026-11-11T12:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "J&K attack: Three injured after terrorists open fire on CRPF personnel in Kulgam",
+     "link": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Rediff",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-11T16:06+05:30",
+     "score": 9.69,
+     "summary": "Unidentified motorcycle-borne assailants opened fire on security personnel deployed at a naka in Kulgam district of Jammu and Kashmir",
+     "image": "https://th-i.thgim.com/public/incoming/l0h7n1/article71689174.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-11%20at%2015.27.36.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "J&K attack: Three injured after terrorists open fire on CRPF personnel in Kulgam",
+       "link": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece",
+       "publishedAt": "2026-11-11T16:06+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Terrorists Fire At Security Personnel In J&K's Kulgam. CRPF's Full Statement",
+       "link": "https://www.ndtv.com/india-news/jammu-and-kashmir-firing-terrorists-fire-at-security-personnel-in-jammu-and-kashmis-kulgam-crpfs-full-statement-12312211#publisher=newsstand",
+       "publishedAt": "2026-11-11T15:18+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "J&K terror attack: Three CRPF personnel shot at checkpost in Kulgam, one critically injured; manhunt underway",
+       "link": "https://www.livemint.com/news/india/kulgam-terror-attack-at-least-3-crpf-personnel-injured-after-terrorists-open-fire-in-kashmir-valley-11794388849478.html",
+       "publishedAt": "2026-11-11T14:53+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Motorcycle-borne terrorists attack CRPF team in J-K’s Kulgam; 3 jawans injured",
+       "link": "https://www.hindustantimes.com/india-news/terrorists-attack-a-crpf-convoy-in-kulgam-one-jawan-injured-101794388555146.html",
+       "publishedAt": "2026-11-11T14:48+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Terrorists open fire at CRPF party in J&K's Kulgam, 3 injured",
+       "link": "https://timesofindia.indiatimes.com/india/terrorists-attack-crpf-personnel-in-jks-kulgam-search-operation-launched/articleshow/135732041.cms",
+       "publishedAt": "2026-11-11T14:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Amul, Mother Dairy to hike milk prices by  ₹2-6 per litre from November 12",
+     "link": "https://www.hindustantimes.com/india-news/mother-dairy-set-to-hike-prices-by-2-4-per-liter-from-november-12-milk-price-increase-101794379159051.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Rediff",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T12:12+05:30",
+     "score": 7.51,
+     "summary": "New prices include ₹76 per litre for full cream, ₹62 for toned and ₹65 for cow milk, adding to household costs amid elevated food inflation.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/_b28354f2-1eeb-11ea-9a0d-a0e38c0c67e3_1794379272450_Vzs5_fc8b7896-9956-4cfd-8017-3b08ac343317_ud1T.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Amul, Mother Dairy to hike milk prices by  ₹2-6 per litre from November 12",
+       "link": "https://www.hindustantimes.com/india-news/mother-dairy-set-to-hike-prices-by-2-4-per-liter-from-november-12-milk-price-increase-101794379159051.html",
+       "publishedAt": "2026-11-11T12:12+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Mother Dairy, Amul hike milk rates by upto Rs 6 per litre from tomorrow; check prices",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/mother-dairy-milk-gets-costlier-dairy-giant-hikes-rate-by-rs-2-4-per-litre-from-thursday-check-prices/articleshow/135727078.cms",
+       "publishedAt": "2026-11-11T11:14+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Mother Dairy, Amul milk gets costlier: Dairy giant hikes rate by upto Rs 6 per litre from Thursday; check",
+       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSEZmdTV3R0Vhd0J6ZnoyRkI1WXprcXZlc29PMWYzNUUyYXhSQU1Tc3U1M1BMZXYyY2wtV2lpUlR6aTNUWTVQX0pDcFM3bG9rcEdPVnF2Y0dzRGpSeDNQc3lvMHdnY3ZmUk1HZUlYTHhQekVPWVR4N1FkSmVLMTlFZmlqWm5sZVR6SXFQZHhBV3VnVzI5Y0NnTjloeGNqNFhwNk1zbDk4X2NUbkRRZGpBRWtnbm95RFFwNHdVbUxZbnNNRnp5QUI5UTRNelpyT2hqcHZoeFpoc2t2N0FodmtHWmxJMUFvbEFqUUtSckdTbkZ4U2VscWRKdmVMc1I3NUNfNERXVk03MHZJYks1dlQ3WV9SUnFwQQ?oc=5",
+       "publishedAt": "2026-11-11T11:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pochettino about to replace Carrick as MNU manager?",
+     "link": "https://economictimes.indiatimes.com/news/sports/football/pochettino-in-frame-to-replace-carrick-as-manchester-united-manager-amid-growing-speculation/articleshow/135733317.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "BBC",
+      "ESPN India",
+      "Goal.com",
+      "The Economic Times",
+      "The Guardian",
+      "The Telegraph"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T15:40+05:30",
+     "score": 6.92,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Pochettino about to replace Carrick as MNU manager?",
+       "link": "https://economictimes.indiatimes.com/news/sports/football/pochettino-in-frame-to-replace-carrick-as-manchester-united-manager-amid-growing-speculation/articleshow/135733317.cms",
+       "publishedAt": "2026-11-11T15:40+05:30"
+      },
+      {
+       "source": "Goal.com",
+       "title": "Man Utd finally landing Mauricio Pochettino to replace Michael Carrick would be the first managerial decision the Red Devils have got right in years",
+       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdktLekJyWjBPdWZDTGdrYWFvNkRoY0FETllhcEF5TTBJZkhlNXhUNk9LRFFWUmdhOWIzRWZpU0sxbXBadm1zTUFxQ1RxT096NDU3eS11b1lLOGpRb0U1czg5TDY0TWdMY1JRZlFLeFZQbnNRT1dKTVBfMFRQVnNtUkZnMXNZTnRkZ0xyd2hmWmhoZVRONG9LcThhdzM3MHV2QWVjTTRmMG9pY3BHc1c3dGVGY0RzaldaV0NPSnZHVFdEUXQ0Vnd4VnlZcURhZUNHeXBZd0x1X09RM2VyamREVm1sLU54bUkyb0IxSWtVRkM2SW1BVzN4NEl5U2tLMVliVVlNeGwxZkY?oc=5",
+       "publishedAt": "2026-11-11T13:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Why is BJP worried?' Akhilesh gives fresh PDA definition ahead of Ayodhya visit",
+     "link": "https://timesofindia.indiatimes.com/india/why-is-bjp-so-worried-akhilesh-gives-fresh-pda-definition-amid-ayodhya-visit-attack/articleshow/135733060.cms",
+     "source": "Times of India",
+     "sources": [
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T15:33+05:30",
+     "score": 6.9,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135733175,imgsize-118332.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Why is BJP worried?' Akhilesh gives fresh PDA definition ahead of Ayodhya visit",
+       "link": "https://timesofindia.indiatimes.com/india/why-is-bjp-so-worried-akhilesh-gives-fresh-pda-definition-amid-ayodhya-visit-attack/articleshow/135733060.cms",
+       "publishedAt": "2026-11-11T15:33+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Why is BJP so worried?' Akhilesh gives fresh PDA definition amid Ayodhya visit attack",
+       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQekNQenRoVTMwUG96dnNTN2JINlM2UTFrYnZmeVBsQjhZMFZqZGZmcHFmVkVjaHpfdkxGVWp5OXowVHdxRUFuTXJFUGNLc0tUajhRNjI2cEJMekQzUG5uSUxMd3FKQ0ZSLTV6WUdWY1BMemliZFRfbXQwV3FJUXVaT3BPQ0dNeVJqaTF4b0dNTVNENDlwbUhyZE5NVzJPWk9XRmNicXdmbGpxZ1BEZUMzd2xwN3JLVWhVdzNCS1duZFB5MXh5YUVGVTlZOWQ4WFBIWkc5NVlqSWRCbWstRlRpamExMGVwdw?oc=5",
+       "publishedAt": "2026-11-11T15:33+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T15:00+05:30",
    "generatedAt": "2026-11-11T15:26+05:30",
