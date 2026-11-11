@@ -1,6 +1,214 @@
 {
- "updated": "2026-11-11T16:27+05:30",
+ "updated": "2026-11-11T17:23+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T17:00+05:30",
+   "generatedAt": "2026-11-11T17:23+05:30",
+   "feeds": 16,
+   "headlines": 335,
+   "stories": [
+    {
+     "title": "J&K attack: Three injured after terrorists open fire on CRPF personnel in Kulgam",
+     "link": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Rediff",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T16:06+05:30",
+     "score": 9.28,
+     "summary": "Unidentified motorcycle-borne assailants opened fire on security personnel deployed at a naka in Kulgam district of Jammu and Kashmir",
+     "image": "https://th-i.thgim.com/public/incoming/l0h7n1/article71689174.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-11%20at%2015.27.36.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "J&K attack: Three injured after terrorists open fire on CRPF personnel in Kulgam",
+       "link": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece",
+       "publishedAt": "2026-11-11T16:06+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Terrorists Fire At Security Personnel In J&K's Kulgam. CRPF's Full Statement",
+       "link": "https://www.ndtv.com/india-news/jammu-and-kashmir-firing-terrorists-fire-at-security-personnel-in-jammu-and-kashmis-kulgam-crpfs-full-statement-12312211#publisher=newsstand",
+       "publishedAt": "2026-11-11T15:18+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "J&K terror attack: Three CRPF personnel shot at checkpost in Kulgam, one critically injured; manhunt underway",
+       "link": "https://www.livemint.com/news/india/kulgam-terror-attack-at-least-3-crpf-personnel-injured-after-terrorists-open-fire-in-kashmir-valley-11794388849478.html",
+       "publishedAt": "2026-11-11T14:53+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Motorcycle-borne terrorists attack CRPF team in J-K’s Kulgam; 3 jawans injured",
+       "link": "https://www.hindustantimes.com/india-news/terrorists-attack-a-crpf-convoy-in-kulgam-one-jawan-injured-101794388555146.html",
+       "publishedAt": "2026-11-11T14:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Yogi Adityanath dismisses Deepavali pollution concerns, says it will subside",
+     "link": "https://www.thehindu.com/news/national/cm-yogi-adityanath-dismisses-diwali-pollution-concerns-says-it-will-subside/article71688638.ece",
+     "source": "The Hindu",
+     "sources": [
+      "ANI News",
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-11T16:31+05:30",
+     "score": 9.16,
+     "summary": "Nobody says anything to those who polluted the entire system with their corrupt misdeeds. But if the public bursts crackers one day, it creates pollution, the CM said",
+     "image": "https://th-i.thgim.com/public/incoming/y2n3b1/article71688698.ece/alternates/LANDSCAPE_1200/PTI11_07_2026_000294B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Yogi Adityanath dismisses Deepavali pollution concerns, says it will subside",
+       "link": "https://www.thehindu.com/news/national/cm-yogi-adityanath-dismisses-diwali-pollution-concerns-says-it-will-subside/article71688638.ece",
+       "publishedAt": "2026-11-11T16:31+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘Pollution will subside’: Yogi Adityanath backs Diwali firecracker use despite AQI spike",
+       "link": "https://www.hindustantimes.com/india-news/pollution-will-subside-yogi-adityanath-backs-diwali-firecracker-use-despite-aqi-spike-101794384647979.html",
+       "publishedAt": "2026-11-11T13:40+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Pollution increased on Diwali would subside, so why worry': UP CM Yogi Adityanath",
+       "link": "https://timesofindia.indiatimes.com/india/even-if-pollution-increased-on-diwali-it-would-eventually-subside-up-cm-yogi/articleshow/135727975.cms",
+       "publishedAt": "2026-11-11T12:02+05:30"
+      },
+      {
+       "source": "India Today",
+       "title": "Bursting firecrackers on Diwali no big deal, pollution will subside: Yogi Adityanath",
+       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaUNaMjBuNTFsQjEyZlk4ZWNXME5zQm95dDkzWE4wWE1EQTUtLUQtdkk4anBLb0ZRanhWZFJwRzhjaGZPZFdrWl9EekZPOFd5MHhQcDVObDNqS2NDRGVNOWRaaGhBcy1FOVdyMElQdXRvRFhLVmZ0bkZ6a2ZwOWsyc0Jjal90ZTZkeldpQWExM0FER0dNYVMtaUFEOEJtNnRRc2gwa0wzdTJ2b0l3Z1psWWl5eE0yaVNvX2o1OFlzOEVXcjJMWkxkbWtoVThmZjVuOHo5VTVkelMxenpxZ0J6Yg?oc=5",
+       "publishedAt": "2026-11-11T12:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Air India flight to Mumbai moved to isolation bay after hijack threat at Kolkata airport: What we know",
+     "link": "https://www.livemint.com/news/india/air-india-kolkata-mumbai-flight-moved-to-isolation-bay-after-hijack-threat-message-found-on-board-11794379871901.html",
+     "source": "Mint",
+     "sources": [
+      "CGTN",
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T12:28+05:30",
+     "score": 7.93,
+     "summary": "The Air India flight was moved to an isolation bay on Wednesday morning.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/Air_India_1794379952744_HbLD_1794379956118_ZJOz_185fc733-dbb1-4d52-ae8d-af903720fe38_GWHY.png",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Air India flight to Mumbai moved to isolation bay after hijack threat at Kolkata airport: What we know",
+       "link": "https://www.livemint.com/news/india/air-india-kolkata-mumbai-flight-moved-to-isolation-bay-after-hijack-threat-message-found-on-board-11794379871901.html",
+       "publishedAt": "2026-11-11T12:24+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay",
+       "link": "https://www.hindustantimes.com/india-news/hijack-scare-on-air-india-vistara-flight-to-mumbai-before-takeoff-plane-moved-to-isolation-bay-kolkata-airport-101794378656962.html",
+       "publishedAt": "2026-11-11T12:18+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Hijack threat note found on Air India flight in Kolkata; passengers deboarded, plane moved to isolation b",
+       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTGxHcnU0empHZG1wUkswSUVENW1JNVN1ZEJvYktmUjFNZ1pKNEczRktNd1lPRXJ1MXJ2aVQ2aW90czNsclE3c0NERUZWUURMcjd1bUlLZGNNc2o5RnM3b19CeWZnTFpqZy1JeXlOY2tzSlV1a05vZ0lfcWFLNkdrMHVxNDJqbHJLT0dVNmR5aWdrLUJxOE1kZ1dMRzc3ZEJ1WG4yeTZ4RTduVDlabjNiWUh4dlpzQkVRY2xGZ25oNVJ5TV9rQlJJV1VGQlF3cFFfaUNmV0dGb3lSNkVkSF85UU9EU3VqdXdGUHBUYW4wWGhFYmNBM3pyVy1xMlJoa3hmUUdsTFdmd3dmT2Rw?oc=5",
+       "publishedAt": "2026-11-11T12:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Can Huang's position as CEO be challenged?",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/could-jensen-huangs-position-as-nvidia-ceo-be-challenged-what-the-companys-bylaws-say-china-spy-scandal/articleshow/135729888.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Al Jazeera",
+      "Fortune India",
+      "Indian Television Dot Com",
+      "NDTV",
+      "Reuters",
+      "The Economic Times",
+      "The Indian Express"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T14:19+05:30",
+     "score": 7.58,
+     "summary": "The H200 is among Nvidia's most capable chips for training and running advanced AI systems and is subject to US export licence approvals.",
+     "image": "https://c.ndtvimg.com/2026-11/uq11bngs_nvidia-pla-reuters_625x300_11_November_26.jpeg",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Can Huang's position as CEO be challenged?",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/could-jensen-huangs-position-as-nvidia-ceo-be-challenged-what-the-companys-bylaws-say-china-spy-scandal/articleshow/135729888.cms",
+       "publishedAt": "2026-11-11T14:18+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Banned By US 25 Years Ago, Chinese University Bought Nvidia AI Chips Last Month",
+       "link": "https://www.ndtv.com/world-news/banned-by-us-25-years-ago-chinese-university-bought-nvidia-ai-chips-last-month-12311749#publisher=newsstand",
+       "publishedAt": "2026-11-11T13:29+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+       "link": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+       "publishedAt": "2026-11-11T12:56+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Nvidia CEO Jensen Huang Case LIVE Updates: PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, says report",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0dWdWZpVjZZMmRhdkNrWW0tZ2QwdXR4cnVoaVNZYS1RQldiakgyQXdLbXhUSkttVVdPRmY3M0NvdlB6d1FxS0t6YkNuWms1QWRDazNoSVpfVUFuZUZ0YnBIN3lLUzJZU1dTYnNzUFpDMHhkMHNHVGl5QzRiLU9DLVNYV3I1NkZqc2FQenJpY3JrVnNpZHBRRzNkSnBaN25GY0pScmZMWWpwYzVhNUF4S2VSUlBlVUpEcWxBR0EzSkNXQQ?oc=5",
+       "publishedAt": "2026-11-11T14:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock Market Close: Sensex pares gains but ends 773 pts up, Nifty at 25,255; PSU Bank rises 3%",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOG55UEd1cnFnWm85cmhKUGtyXzRTVkhweG9Cd3J2RlFuSndxVVVaaTlia1dpTUYzekFEbGRoWFNrUXRXS1RCNDYzUzRZZ1JmRG9uQTdCRmJmLVlZQnFsdTRnZThoVmVUOXZRNnpsUS10OEtyeVpPQTRJcTlmVlBFN21LTU9jaER4cGNiS3lodUxKSHVrN0htRHA0OUMzUDRJUEhvcGE4b3RISmd0YnYycEhLQmFUOEYzNzhzRi1kT1BSNEpGdTRaZkhNWU4zcV9nczBuVFJmSE5qWVQ4MlFkQzRyU1BxVlFK0gHuAUFVX3lxTE1xMEVDVE1GYUoxZVgxRVlaMjVaQ1NBcmM1R0MtZXExSzRHV196M09kTVNXN0VMMGJJcXVIVHdKdW9JLXJfZl92ZWtoTExTVTNST3J4em8xZi1NTXVsWl9qSVBDSTRKaWhseFo4QmZ3TThJWVZ1ODIzUkNvVlROcmE0dnNVTHRMdEFQVThkSG5OM0l0cjhvajRYVDFRWlc1MzFlS0VxU3NHQ21pZFVuOUJFUkhlQ0owb3pLbDZMbnZ2TmtSeGl6VkF5Vk02V1VvUWFiTHd0NEpwQS1rR2RuYVAyUHh0VXlnR2Z4MGhrQVE?oc=5",
+     "source": "Business Standard",
+     "sources": [
+      "Business Standard",
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T15:52+05:30",
+     "score": 7.25,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Business Standard",
+       "title": "Stock Market Close: Sensex pares gains but ends 773 pts up, Nifty at 25,255; PSU Bank rises 3%",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOG55UEd1cnFnWm85cmhKUGtyXzRTVkhweG9Cd3J2RlFuSndxVVVaaTlia1dpTUYzekFEbGRoWFNrUXRXS1RCNDYzUzRZZ1JmRG9uQTdCRmJmLVlZQnFsdTRnZThoVmVUOXZRNnpsUS10OEtyeVpPQTRJcTlmVlBFN21LTU9jaER4cGNiS3lodUxKSHVrN0htRHA0OUMzUDRJUEhvcGE4b3RISmd0YnYycEhLQmFUOEYzNzhzRi1kT1BSNEpGdTRaZkhNWU4zcV9nczBuVFJmSE5qWVQ4MlFkQzRyU1BxVlFK0gHuAUFVX3lxTE1xMEVDVE1GYUoxZVgxRVlaMjVaQ1NBcmM1R0MtZXExSzRHV196M09kTVNXN0VMMGJJcXVIVHdKdW9JLXJfZl92ZWtoTExTVTNST3J4em8xZi1NTXVsWl9qSVBDSTRKaWhseFo4QmZ3TThJWVZ1ODIzUkNvVlROcmE0dnNVTHRMdEFQVThkSG5OM0l0cjhvajRYVDFRWlc1MzFlS0VxU3NHQ21pZFVuOUJFUkhlQ0owb3pLbDZMbnZ2TmtSeGl6VkF5Vk02V1VvUWFiTHd0NEpwQS1rR2RuYVAyUHh0VXlnR2Z4MGhrQVE?oc=5",
+       "publishedAt": "2026-11-11T15:52+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T16:00+05:30",
    "generatedAt": "2026-11-11T16:27+05:30",
