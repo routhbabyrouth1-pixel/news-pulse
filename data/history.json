@@ -1,6 +1,227 @@
 {
- "updated": "2026-11-11T08:18+05:30",
+ "updated": "2026-11-11T09:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T09:00+05:30",
+   "generatedAt": "2026-11-11T09:22+05:30",
+   "feeds": 16,
+   "headlines": 206,
+   "stories": [
+    {
+     "title": "Horoscope Today: November 11, 2026",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jekg4S1BZeE0wODZMN1hRSmQ4SU9MMWhYaDhULXFJbF9HWTBSSlYxVmZpY3p1TEF3M2NuVjQzdHp2MnhVSlhyREJkSGp3Y2JVWndvTlhqVkEwV0ZGcjd4ZkoxcTVLZ1h0aURLNVNn?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "Cricinfo",
+      "Cricket World",
+      "Deccan Herald",
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "Perth Scorchers",
+      "Syracuse.com",
+      "The Economic Times",
+      "The Times of India",
+      "The West Australian"
+     ],
+     "sourceCount": 15,
+     "publishedAt": "2026-11-11T06:00+05:30",
+     "score": 15.6,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 11, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jekg4S1BZeE0wODZMN1hRSmQ4SU9MMWhYaDhULXFJbF9HWTBSSlYxVmZpY3p1TEF3M2NuVjQzdHp2MnhVSlhyREJkSGp3Y2JVWndvTlhqVkEwV0ZGcjd4ZkoxcTVLZ1h0aURLNVNn?oc=5",
+       "publishedAt": "2026-11-11T06:00+05:30"
+      },
+      {
+       "source": "TheTopBookies",
+       "title": "Perth Scorchers Women vs Sydney Thunder Women, free match prediction 11 November 2026",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QZTVsMGEyZk9jRm9wUVFVSEg4eTVLZ1FqU0xET3RyaWkzUTBSQjJPWDZZRThDczZYR3Q5M2hRUVdYOFdkUjczUXp0aDFBU1VBbjcyRmRRVy1KbU1sM3l5Q1A5Yzl3Tk5Cd3UzTk41Tnp1cDlQLXBvQmg4Zjh0Qkk?oc=5",
+       "publishedAt": "2026-11-11T03:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Mint",
+      "NDTV",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-11T08:56+05:30",
+     "score": 11.43,
+     "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+       "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-11T08:56+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "US House Rejects Effort To Impeach Defence Chief Pete Hegseth",
+       "link": "https://www.ndtv.com/world-news/us-house-rejects-effort-to-impeach-defence-chief-pete-hegseth-12310329#publisher=newsstand",
+       "publishedAt": "2026-11-11T07:38+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "House Republicans block bid to impeach Pete Hegseth, Donald Trump calls it ‘exoneration of a great American patriot’",
+       "link": "https://www.livemint.com/news/us-news/house-republicans-block-bid-to-impeach-pete-hegseth-donald-trump-calls-it-exoneration-of-a-great-american-patriot-11794359217875.html",
+       "publishedAt": "2026-11-11T06:49+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "US House blocks bid to impeach war secretary Pete Hegseth",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-house-blocks-bid-to-impeach-war-secretary-pete-hegseth/articleshow/135721794.cms",
+       "publishedAt": "2026-11-11T05:16+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. Republicans derail bid to impeach Hegseth",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmpqRXMyaFdQSG96bUV2R0Njd3pOZklEckFzU2J4QTFzOEtGNVRWZ0hYbHdyYTUtb0pGaGs5R041VmZfdkFtUDJiQ0pfY25vUktDOThKVUstZmUzaUJBQjZERFRWMGYzYTBUMng4bFNJMFBnU3NhMkVvNDF4b2doRmRtbWdDTFJ2OC1aRFFlQUlXckQtOXRaeVFNb2lFdkNULTV6bWRSeVg2djNu0gGzAUFVX3lxTE9PdTFiTGJkd0pNX0ExU0Q1SlNBeGhESWoySzZidlJFYVVqYjVQS0dkV182VlNGNGRlOXNvQWV4WkNwd1VVR2MxSm9wMElkZGFhdm8ta1pXbjNrbEtiWFRLUkRQdnNWZTdncFI1RXpWa20tYVZuZ3FIaXJwOFJGUnl0NmVkNHNFaWpFLUdBNnBPMWc3Q0FYWlBhWGZwb1lGRGYzLXhLVnpjVUFPUjhXRmo1c20w?oc=5",
+       "publishedAt": "2026-11-11T05:23+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Several coaches of Sairang-Kolkata Express train derails at Digaru in Assam",
+     "link": "https://www.thehindu.com/news/national/assam/assam-several-coaches-of-sairang-kolkata-express-train-derails-updates-november-11-2026/article71688223.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Rediff",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-11T09:12+05:30",
+     "score": 9.12,
+     "summary": "No injuries reported so far; Loco Pilot failed to control train’s speed while giving precedence to another train, authorities said",
+     "image": "https://th-i.thgim.com/public/incoming/s7ipyx/article71688240.ece/alternates/LANDSCAPE_1200/assam%20tain%20derailment.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Several coaches of Sairang-Kolkata Express train derails at Digaru in Assam",
+       "link": "https://www.thehindu.com/news/national/assam/assam-several-coaches-of-sairang-kolkata-express-train-derails-updates-november-11-2026/article71688223.ece",
+       "publishedAt": "2026-11-11T09:12+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "5 Coaches, Engine Of Kolkata-Sairang Express Derail In Assam, Rescue Ops On",
+       "link": "https://www.ndtv.com/india-news/several-injured-after-6-coaches-of-kolkata-sairang-express-derail-in-assam-12310632#publisher=newsstand",
+       "publishedAt": "2026-11-11T08:55+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Six coaches of Kolkata-Sairang express derails in Assam; several injured, rescue underway",
+       "link": "https://www.livemint.com/news/india/six-coaches-of-kolkata-sairang-express-derails-in-assam-several-injured-rescue-underway-11794366343133.html",
+       "publishedAt": "2026-11-11T08:42+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Assam: 6 coaches of Kolkata-Sairang Express derail",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/kolkata-sairang-express-derailment-in-assam-six-coaches-go-off-tracks-at-digaru-station-several-passengers-injured/articleshow/135723921.cms",
+       "publishedAt": "2026-11-11T08:37+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Passenger train derails at Digaru railway station in Assam's Kamrup",
+       "link": "https://www.hindustantimes.com/india-news/passenger-train-coaches-derailed-at-digaru-railway-station-in-assams-kamrup-injured-death-toll-compensation-101794365637385.html",
+       "publishedAt": "2026-11-11T08:26+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "5 coaches, engine of Kolkata-Sairang Express derail near Guwahati",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdjdnQjlRUlN4c0NFOE80V0ZRSmhxUXBVZ2lMTkFlSXdZcjNvaEVjc3M0dHVzVXJXUUdJdFREWkR1REprMm9vMTdOVmwyUlpOOFZJMGtmQU91ZUljN0N2ejNzSU56eVZBWFg2WkVHeWdaMjd0VnhOdHYzT1drYjVfa2lXU21iY3hrYUxyYUFyY2F4ZGRHSGhjSGdaOE8wU1lmemJpRXoyZFJEWTJsR3FTS2dRZ0Y4cEJ0RFhPX2x5TVdOZjNURm9WQkhrbFc5VlFYVWRiMmQ5Wm15UnV1WGd2ZTAtQzY0dkFI?oc=5",
+       "publishedAt": "2026-11-11T08:25+05:30"
+      }
+     ]
+    },
+    {
+     "title": "New Zealand announce squad for India Tests: Who is in, who is out?",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-announce-squad-for-india-tests-devon-conway-rachin-ravindra-included-despite-fitness-concerns/articleshow/135722336.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricinfo",
+      "ICC",
+      "NZC",
+      "The Indian Express",
+      "Times of India",
+      "cricket.com.au"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T06:56+05:30",
+     "score": 8.09,
+     "summary": "The opening Test of the two-match series will be played at the Basin Reserve in Wellington from November 19. The second match will take place at Hagley Oval in Christchurch from November 27. Tom Latham will lead the New Zealand side.",
+     "image": "https://static.toiimg.com/photo/msid-135722358,imgsize-38219.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "New Zealand announce squad for India Tests: Who is in, who is out?",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-announce-squad-for-india-tests-devon-conway-rachin-ravindra-included-despite-fitness-concerns/articleshow/135722336.cms",
+       "publishedAt": "2026-11-11T06:56+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Ravindra, Conway named in New Zealand squad for India Tests",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHdrS2RPVVBsZDNlQXdVWkJvVHhQc1hWNE14Y3luekJTai1YSFZDTjUya3VwWm5oRDh5M2JLbDJ5N2FvNndSZlA3QlRBTTI5bGFtblRzT1h6TUhqVVRYdnN2QzJqSGNrRjQzR050bVRJRFR3R3Y1d01IaVVLczVIdml5UmxPQlVHcG13dXZKY3VBS3k2aTlidEtwUFM1R2lHYVdoZ1lQUWlMVTBlZDBRMFpUbHJrZTjSAcgBQVVfeXFMT3AzUV9kN2hEQng1czltT2VHMTBIcXJ0YUJ5YmtxY0hnRkhfTHFCNXZzMXRSMEl1UWE0bEd3eW9Lam1KbzZNQXJBRUtNNS0wNWZna05WZ0ltRTFNTGlMcTY5TXF5dXlOSkt3VWhWYVpKRWZzVGtYRTVfTDE3alcyNlo0ZFBNa1J0QUx3STZmU1dKMzVRRlNKV0o0VjRodjN1UWYxU0tjNmNwa092SWd1Qjh3MnFXTDdkLWw3aWxvWklrZE9HajBjeHc?oc=5",
+       "publishedAt": "2026-11-11T03:34+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+     "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T05:56+05:30",
+     "score": 7.93,
+     "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d424/live/bb3e8330-dbf6-11f1-8471-ffe15ac7c066.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+       "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-11T05:56+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5",
+       "publishedAt": "2026-11-11T05:56+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T08:00+05:30",
    "generatedAt": "2026-11-11T08:18+05:30",
