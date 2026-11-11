@@ -1,6 +1,182 @@
 {
- "updated": "2026-11-11T06:27+05:30",
+ "updated": "2026-11-11T07:28+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T07:00+05:30",
+   "generatedAt": "2026-11-11T07:28+05:30",
+   "feeds": 16,
+   "headlines": 139,
+   "stories": [
+    {
+     "title": "New Zealand announce squad for India Tests: Who is in, who is out?",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-announce-squad-for-india-tests-devon-conway-rachin-ravindra-included-despite-fitness-concerns/articleshow/135722336.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "ICC",
+      "NZ Herald",
+      "NZC",
+      "Stuff.co.nz",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T06:56+05:30",
+     "score": 9.41,
+     "summary": "The opening Test of the two-match series will be played at the Basin Reserve in Wellington from November 19. The second match will take place at Hagley Oval in Christchurch from November 27. Tom Latham will lead the New Zealand side.",
+     "image": "https://static.toiimg.com/photo/msid-135722358,imgsize-38219.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "New Zealand announce squad for India Tests: Who is in, who is out?",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-announce-squad-for-india-tests-devon-conway-rachin-ravindra-included-despite-fitness-concerns/articleshow/135722336.cms",
+       "publishedAt": "2026-11-11T06:56+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Ravindra, Conway named in New Zealand squad for India Tests",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHdrS2RPVVBsZDNlQXdVWkJvVHhQc1hWNE14Y3luekJTai1YSFZDTjUya3VwWm5oRDh5M2JLbDJ5N2FvNndSZlA3QlRBTTI5bGFtblRzT1h6TUhqVVRYdnN2QzJqSGNrRjQzR050bVRJRFR3R3Y1d01IaVVLczVIdml5UmxPQlVHcG13dXZKY3VBS3k2aTlidEtwUFM1R2lHYVdoZ1lQUWlMVTBlZDBRMFpUbHJrZTjSAcgBQVVfeXFMT3AzUV9kN2hEQng1czltT2VHMTBIcXJ0YUJ5YmtxY0hnRkhfTHFCNXZzMXRSMEl1UWE0bEd3eW9Lam1KbzZNQXJBRUtNNS0wNWZna05WZ0ltRTFNTGlMcTY5TXF5dXlOSkt3VWhWYVpKRWZzVGtYRTVfTDE3alcyNlo0ZFBNa1J0QUx3STZmU1dKMzVRRlNKV0o0VjRodjN1UWYxU0tjNmNwa092SWd1Qjh3MnFXTDdkLWw3aWxvWklrZE9HajBjeHc?oc=5",
+       "publishedAt": "2026-11-11T03:34+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+     "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "Scroll.in",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T05:56+05:30",
+     "score": 8.24,
+     "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d424/live/bb3e8330-dbf6-11f1-8471-ffe15ac7c066.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+       "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-11T05:56+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5",
+       "publishedAt": "2026-11-11T05:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+     "link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+     "source": "The Guardian",
+     "sources": [
+      "AP News",
+      "CBS News",
+      "Reuters",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T04:12+05:30",
+     "score": 7.57,
+     "summary": "Republicans pick Jordan as House leader and John Thune as Senate leader for last two years of Trump’s presidency US politics – live updates Republicans have elected veteran congressman Jim Jordan as their new leader in the House of Representatives, putting a strident defender of Donald Trump at the helm of their conference as they navigate the fallout from sweeping losses in last week’s midterm elections. Jordan…",
+     "image": "https://i.guim.co.uk/img/media/7c7b9a4a19524aff2e4e5d73e05badceb52c697c/867_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=ac142c1690dbaa9cd209993f3e3bc0a2",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+       "link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+       "publishedAt": "2026-11-11T04:12+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Jim Jordan elected House Republican leader after party's midterm defeat",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/jim-jordan-elected-house-republican-leader-after-partys-midterm-defeat/articleshow/135719643.cms",
+       "publishedAt": "2026-11-11T01:38+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Jim Jordan elected House Republican leader after party's midterm defeat",
+       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRU4tVEVpSU8zQUM3N2FqYVloUTBQbjc4WEpsRnN5MmhvclRialAyY21IMERCNnNhcmlwSzJRZUl5aFhkVEViUmxGNmRiRnR0YzJWRmNzYmcwNExoVHdrdUQ3UDhueXNtVXktblcyT05aRXNGdWd2aXdnOUc5U3BTUTcwWnlzdFlJWUpYNVJOMFZTd2pjdlI2THNLXy10cGNyLU9RZ3FOYUNubkNZZXhmM1lKWUd5UVN0SzRjM2FibXhLUjA4Nnp0azhPU29zRUJNekgybENrcmVfV2FtZkJIT3VOaFhkWE9yTS10N2ZHUE5fWW9ETGZ5T0hWdjHSAYICQVVfeXFMT0FoVmZUWEh6MlVDdEVXcWtSMHJ0YzQtZlkwenVFa0o5M0JIN3BMUWtlRTNZXzFVU2pwVzFZdGhEeTc1d045RUtSYmV4WXJOS0YxVC0wbjROcEpHQ0VfMWtsMEZ5OWFrM1Vtcnh1b21TbFhYVEZkcHNhM3U3dzJDampWZWtidEg3WEdNMmZPOTJJLXZmbS05Z0Z6SVdjb0ZReGxuaGxtNFU1aW1yZWt4bEdpbzlvSjdCX1pESDQtbjI1MG90aGdoRTVranF5RXhuNjd1RHlwZVVFMFFQdFlXRkJHa1RUZDBqMldiSl9POXJDaTVWenloMFV3anhVRi1jdmFR?oc=5",
+       "publishedAt": "2026-11-11T01:38+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gill-Rahul out, Kishan-Gaikwad in? Rayudu, Karthik predict India's changes",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shubman-gill-kl-rahul-to-miss-final-two-odis-for-test-preparations-rayudu-karthik-predict-indias-playing-xi-changes/articleshow/135717451.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricinfo",
+      "MSN",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T06:00+05:30",
+     "score": 7.25,
+     "summary": "With Shubman Gill and KL Rahul set to miss the final two games to prepare for the upcoming Test series, the spotlight now shifts to the batting combination Shreyas Iyer will field in the remaining matches. Former India cricketers Ambati Rayudu and Dinesh Karthik have backed Ishan Kishan and Ruturaj Gaikwad to come into the playing XI, offering India a new-look top and middle order for the final leg of the series.",
+     "image": "https://static.toiimg.com/photo/msid-135717672,imgsize-129108.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Gill-Rahul out, Kishan-Gaikwad in? Rayudu, Karthik predict India's changes",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shubman-gill-kl-rahul-to-miss-final-two-odis-for-test-preparations-rayudu-karthik-predict-indias-playing-xi-changes/articleshow/135717451.cms",
+       "publishedAt": "2026-11-11T06:00+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Shubman Gill, KL Rahul to miss final two ODIs for Test preparations; Rayudu, Karthik predict India's play",
+       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPbXYwRmxiU0JLQllsLXdrVmZXSHMzNTdFQ1d5ZzhISGw2YmE4VHVqTVZ3UmxneDlVOExNNG93empMeVVZVkw0c3VTS3VfaGNZcENKdjhMeEdIaDRfQWxKRGtHNEQzQ1dldzVQdHFVM0RCVy1FVFJjY2l3aXhIUE50WTl0ZW5MeVBhWENlM0dNdERtcmU2emRvMHhDQVZ3THJhQmpXdVFfTkVUc2xQc2FnX2hVR1dZX1lOVkcxa1FJVDJYRjhZQ3JkZTBzbWpQeUdoeHhNYmJBUi1LYmRMdXBNeWxNSXhJVmxXUVdyRUF3Tjk1NzdxQ09CUGxDelhrLWtJUkR3eXpYZ0l3Z1RNQkp0cEJIQktGVnc4T0VMaDFhWmhWTFhkbVV5NGxNb2pIOVgxQ3hnTFc0Um4?oc=5",
+       "publishedAt": "2026-11-11T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "80% of Delhi's pollution Monday due to crackers",
+     "link": "https://timesofindia.indiatimes.com/india/80-of-delhis-pollution-monday-due-to-crackers/articleshow/135721614.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Indian Express",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T04:16+05:30",
+     "score": 6.96,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135721645,imgsize-57608.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "80% of Delhi's pollution Monday due to crackers",
+       "link": "https://timesofindia.indiatimes.com/india/80-of-delhis-pollution-monday-due-to-crackers/articleshow/135721614.cms",
+       "publishedAt": "2026-11-11T04:16+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "80% of Delhi's pollution Monday due to crackers",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV29od0llc3FaN1FOc2F1YUx4OUhrcjBTOFhzMmRHZnE4ZkxlSWhiUFpKVUhTaUk2ZVdBWFFjU1FCN2VtdFZlWjR6MXlTbEJoaGdiRExRSmxMQTdXQjlfbk9wWTdWeWZuTE1iZ2ZmYkk5UHVnUVVXQnJ0ekRUeFhTMFNPV3NUNDRUay01bzFzVm1KS1BxQkZSSnZ3ZVhxVlhNMXVMRnJfQlIycHJzRkFMRThYOA?oc=5",
+       "publishedAt": "2026-11-11T04:16+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T06:00+05:30",
    "generatedAt": "2026-11-11T06:27+05:30",
