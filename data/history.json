@@ -1,6 +1,201 @@
 {
- "updated": "2026-11-11T21:20+05:30",
+ "updated": "2026-11-11T22:23+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T22:00+05:30",
+   "generatedAt": "2026-11-11T22:23+05:30",
+   "feeds": 16,
+   "headlines": 301,
+   "stories": [
+    {
+     "title": "Former V-P Dhankhar collapses during morning walk, admitted to AIIMS",
+     "link": "https://www.thehindu.com/news/national/former-vp-dhankhar-collapses-during-morning-walk-admitted-to-aiims/article71690696.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Herald",
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express",
+      "The News Mill",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T21:55+05:30",
+     "score": 8.3,
+     "summary": "The 75-year-old former Rajya Sabha chairman has been admitted to the hospital’s cardio-neuro centre and is currently under the care of the department of cardiology for medical evaluation and treatment, the sources said",
+     "image": "https://th-i.thgim.com/public/incoming/m2ukji/article71690800.ece/alternates/LANDSCAPE_1200/PTI07_21_2025_000536A.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Former V-P Dhankhar collapses during morning walk, admitted to AIIMS",
+       "link": "https://www.thehindu.com/news/national/former-vp-dhankhar-collapses-during-morning-walk-admitted-to-aiims/article71690696.ece",
+       "publishedAt": "2026-11-11T21:55+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Ex-VP Jagdeep Dhankhar collapses during morning walk, admitted to AIIMS",
+       "link": "https://timesofindia.indiatimes.com/india/ex-vp-jagdeep-dhankhar-collapses-during-morning-walk-admitted-to-aiims/articleshow/135736747.cms",
+       "publishedAt": "2026-11-11T17:39+05:30"
+      },
+      {
+       "source": "The New Indian Express",
+       "title": "Former V-P Jagdeep Dhankhar collapses during morning walk, admitted to AIIMS",
+       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZHk3bGt4LXNUc0x6YXNpVU9nNFE1ejh4YzVwU1k5OW1takdGT2dIU05XX1lnV3paeXFXVThKQWd1UmpwaEZUSXNPT0pwVGtadzZldWJlRlBQc1VRQU4zQ0VLUkptYW1QZ2RhNi1UbmxENjF4bGNVVjhxT1VScFN0Q0JRZlkxMnotcHlKTExBbkZxVlhraFVtc0RRWHFTVFBUTUFKM2hXY0FCdGVaUmN6STgtbXY0bWd5dXlVR091Mjl5a1F20gHSAUFVX3lxTFBWbHh2YWxZMGlJWFMzWG85aEpLSkhKV1ZHaFF1TFVtWVNCcmpqeUhlWlhEZ1I4TUVTNGZfY1kyUnhWd2FNOTZienhHbzA4REJvZ08tYUxqQzVHMEpMWGtzTC1aWDJhOXRoQTltNXN6U0EyZGN3SE45ckc3SmcxNmp6ZHBTWkRsTFBJYVlfVldwUEUyY1htMkJJNENHcVd1TklsODNfYXpyeGh3OU1TWGtOamtoWi1RbU1vM19oVHR3R3BVZ2ZONVQwMjlsNGpMb0tPdw?oc=5",
+       "publishedAt": "2026-11-11T17:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "300 Schools In Italy Evacuated After Bomb Threat Emails From 'Misoginistan'",
+     "link": "https://www.ndtv.com/world-news/300-schools-in-italy-evacuated-after-bomb-threat-emails-from-misoginistan-12313294#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CGTN",
+      "NDTV",
+      "Reuters",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T18:53+05:30",
+     "score": 7.72,
+     "summary": "The security alert came amid rising concerns in Europe about so-called hybrid warfare threats which have targeted supermarkets, blood banks, air traffic and TV broadcasters.",
+     "image": "https://c.ndtvimg.com/2026-11/89ls5ke_bomb_625x300_11_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "300 Schools In Italy Evacuated After Bomb Threat Emails From 'Misoginistan'",
+       "link": "https://www.ndtv.com/world-news/300-schools-in-italy-evacuated-after-bomb-threat-emails-from-misoginistan-12313294#publisher=newsstand",
+       "publishedAt": "2026-11-11T18:53+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Schools across Italy evacuated after receiving email bomb alerts",
+       "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
+       "publishedAt": "2026-11-11T18:48+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Genocide against Italians': Over 300 schools evacuated after bomb threats in Italy",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVDNQWlJYS3FuWWVjTms4TVlpY01aQTlYMTZLMGdzeVZ4TWswY0tLUGN0eTRtT0pBVEtGaFBsa05lQzFPV19iUmtvSW01NENFek9JY2ZfTGk5RFFYY184U09tRVVSMThsN21pZkljX3A3Z1l0ejB6SU05ci1NNm52Vy02MTR4ckNrYmt6azZDQU94MEZrbk45TkU0dlJkaHhWQlJuVEFyRW5HSmpnNTJVX1RVNjdSaVFubGVNeTV2OV9pTHg2Tml5SVk1LVZjN2R5U2IyNzR0bGxjWEkwRkxRR2FjdW54Ung0c1Fn?oc=5",
+       "publishedAt": "2026-11-11T17:15+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ladakh bans protests ahead of polls: Wangchuk warns of fresh agitation against elections",
+     "link": "https://timesofindia.indiatimes.com/india/ladakh-bans-protests-ahead-of-polls-sonam-wangchuk-warns-of-fresh-agitation-against-elections/articleshow/135734705.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T16:42+05:30",
+     "score": 7.18,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135735086,imgsize-98462.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Ladakh bans protests ahead of polls: Wangchuk warns of fresh agitation against elections",
+       "link": "https://timesofindia.indiatimes.com/india/ladakh-bans-protests-ahead-of-polls-sonam-wangchuk-warns-of-fresh-agitation-against-elections/articleshow/135734705.cms",
+       "publishedAt": "2026-11-11T16:42+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Ladakh bans protest ahead of polls",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/elections-authorities-ban-dharnas-protests-in-leh-kargil-ahead-of-polls/articleshow/135734552.cms",
+       "publishedAt": "2026-11-11T16:31+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Ladakh bans protests ahead of polls: Sonam Wangchuk warns of fresh agitation against elections",
+       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd3RObHBZa2xKMFVldmRYRHdWdnNjSnFsT2V5V0ZqMC1kLUlmeUF0Wnp1WjFUal91RmxXNEl3VXdaUHg3cTZKWkZOSUhOWVNianc4elQ1cnJ6VHl4akhNbW9aMTFKZ2w1YnZlVU1PVnBrT1BSTXhySWZXV0dlRUpUQkpkU1h3RzEzZTFHSVg3Q1V4WlpiczNqRkFsYzNLQzc0b0VCdndfYzBqR3A4R1Q2M1pGZ2hiSDM0N3ItR3FyVDVWTWdWb2kzMF8zRl9ldG0xdEtDNmludVAxQkRETTZoLVU2ZlZCOTl4R25jQk5BTU1qd00?oc=5",
+       "publishedAt": "2026-11-11T16:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India simplifies visa norms; categories cut, forms to be 70% leaner",
+     "link": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Bloomberg.com",
+      "NDTV",
+      "Rediff",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T21:52+05:30",
+     "score": 6.97,
+     "summary": "Tourist visa renamed ‘visitor visa ’, which will have two sub-categories, V-1 and V-2, so that applicants can select a visa suited to the nature and duration of their proposed visit; special provision for subject-matter experts introduced",
+     "image": "https://th-i.thgim.com/public/news/national/565njc/article71690688.ece/alternates/LANDSCAPE_1200/iStock-486918368.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "India simplifies visa norms; categories cut, forms to be 70% leaner",
+       "link": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
+       "publishedAt": "2026-11-11T21:52+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Centre simplifies visa regime: Paperwork cut by 70%, categories reduced from 13 to 9",
+       "link": "https://timesofindia.indiatimes.com/india/centre-simplifies-visa-regime-paperwork-cut-by-70-categories-reduced-from-13-to-9/articleshow/135741142.cms",
+       "publishedAt": "2026-11-11T20:40+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Centre simplifies visa regime: Paperwork cut by 70%, categories reduced from 13 to 9",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDR1bFV4dXIxZjE2VmxxVGFPYXVhdWZ6Rkx4a3VmTnktbE9fRDVUVlVVOXROY1BORVc5RWlOVDhwcTlyVXlJaGx0VGJ4UUg1MWpqZjVGa2RaUHpfQnI2VG1MbEFkR0k2OEtjcGRNWTgxbFBCczdjYldxRTVaRFA5cjNfVkl2R1YyaDROa1RFWTRxZU1XQmNzT0VpaXpZVklGRWgxY05qRWg1Qi16bVVVOF9xY0NlU2lnaGFkZ3BObE8taGk4cWpLZXZBLWx6TFdqaUhQZVRHT2pBcFRKQi1Wc1Z2UQ?oc=5",
+       "publishedAt": "2026-11-11T20:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "4 Coaches Of Chauri Chaura Express Derail In Kanpur, No Casualties Reported",
+     "link": "https://www.ndtv.com/india-news/4-coaches-of-chauri-chaura-express-derail-in-kanpur-no-casualties-reported-12313111#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "India TV News",
+      "NDTV",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T19:15+05:30",
+     "score": 6.69,
+     "summary": "The derailment occurred at around 6:54 am. Northeast Frontier Railway said all passengers were safe and were being transported to their destinations by an alternative train.",
+     "image": "https://c.ndtvimg.com/2026-11/ulrjjluo_chaura-chauri-express-derailament_625x300_11_November_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "4 Coaches Of Chauri Chaura Express Derail In Kanpur, No Casualties Reported",
+       "link": "https://www.ndtv.com/india-news/4-coaches-of-chauri-chaura-express-derail-in-kanpur-no-casualties-reported-12313111#publisher=newsstand",
+       "publishedAt": "2026-11-11T19:15+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "4 coaches of Chauri Chaura Express derail at Kanpur Central station",
+       "link": "https://timesofindia.indiatimes.com/city/kanpur/3-coaches-of-chauri-chaura-express-derail-at-kanpur-central-station/articleshow/135737153.cms",
+       "publishedAt": "2026-11-11T17:49+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T21:00+05:30",
    "generatedAt": "2026-11-11T21:20+05:30",
