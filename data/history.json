@@ -1,6 +1,163 @@
 {
- "updated": "2026-11-12T03:01+05:30",
+ "updated": "2026-11-12T04:18+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T04:00+05:30",
+   "generatedAt": "2026-11-12T04:18+05:30",
+   "feeds": 16,
+   "headlines": 195,
+   "stories": [
+    {
+     "title": "Ramayana Box Office Collection Day 8",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkpCM0pJNVBwR2cwdUZMUFJxbUpKTXlfVWM4VkZXdll3N1hKNmw2MUlaVmVwOXNiU3BBNElSOEE1azNqTFd3S014ZHRudVFpajA4ZTV5WUFYRmlwNXRLUmxIYlRuZ3FnWkRZdktJVy05Wk5CTGVIWFZFb0hzdkJpOERDbW81T0hQdHc?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "IMDb",
+      "NDTV",
+      "Outlook Luxe",
+      "Rediff",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-12T01:33+05:30",
+     "score": 8.92,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Ramayana Box Office Collection Day 8",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkpCM0pJNVBwR2cwdUZMUFJxbUpKTXlfVWM4VkZXdll3N1hKNmw2MUlaVmVwOXNiU3BBNElSOEE1azNqTFd3S014ZHRudVFpajA4ZTV5WUFYRmlwNXRLUmxIYlRuZ3FnWkRZdktJVy05Wk5CTGVIWFZFb0hzdkJpOERDbW81T0hQdHc?oc=5",
+       "publishedAt": "2026-11-12T01:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Saudi Intercepts Houthi Missiles, Drones, Group Denies Targeting Mecca",
+     "link": "https://www.ndtv.com/world-news/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca-12314643#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "CGTN",
+      "Firstpost",
+      "India Today",
+      "NDTV",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T02:30+05:30",
+     "score": 8.2,
+     "summary": "The Saudi-led military coalition fighting the Yemeni group said it had intercepted and destroyed three cruise missiles headed to the Riyadh region, two drones aimed at Mecca and southern areas and two missiles pointed towards the west.",
+     "image": "https://c.ndtvimg.com/2026-11/is0pl1tk_saudi-intercepts-houthi-missile_625x300_12_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Saudi Intercepts Houthi Missiles, Drones, Group Denies Targeting Mecca",
+       "link": "https://www.ndtv.com/world-news/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca-12314643#publisher=newsstand",
+       "publishedAt": "2026-11-12T02:30+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
+       "publishedAt": "2026-11-12T02:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "2 J&K Special Police Officers On Patrolling Duty Go Missing, Search On",
+     "link": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-on-patrolling-duty-go-missing-search-on-12314416#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "The Earth News",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T23:42+05:30",
+     "score": 6.73,
+     "summary": "A joint search operation was launched by police and security forces in the area to look for them.",
+     "image": "https://c.ndtvimg.com/2026-11/0k3t90io_rashpal-kumar-jk-spo_625x300_11_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "2 J&K Special Police Officers On Patrolling Duty Go Missing, Search On",
+       "link": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-on-patrolling-duty-go-missing-search-on-12314416#publisher=newsstand",
+       "publishedAt": "2026-11-11T23:42+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Two spl police officers reported missing in J&K's Kishtwar; search op launched",
+       "link": "https://timesofindia.indiatimes.com/india/two-police-officers-reported-missing-in-jks-kishtwar-search-op-launched/articleshow/135744807.cms",
+       "publishedAt": "2026-11-11T22:40+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Two Special Police Officers reported missing in J&K's Kishtwar; search op launched",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdEFibXFoQjZ2R2RMT2w4Mk50RXZSeUFybkxlb3p4UnREUzllUzQzNjdVR05DaUtocm13QXk4bndWYUt2bVJDYWNsN1FPWVBSa0lrQ1JxUVdKS00wU09yNkNtNG1lNllrYUVYMmNUbWIwN2pFX2xjNmdIbE5vMVVyRmpYdE1icnZWNG4yMFUwSVFEMU9RYW9CbHhNVnhBUENUczRYVkR6a3RSWENXbmJNSFVmWlBTc0MydlNWU052d2ZQa2tvN3hkQ1F2OWVkY3lTVWdKNDJR?oc=5",
+       "publishedAt": "2026-11-11T22:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Definitely long term': Ness Wadia on Hardik Pandya's acquisition",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTFHN09NTElTX3FXd1MzVGNRUnMxalUycE5DNF80ZTVOTkpBUzNLTDRKSkxHM0RtY0Z4TWxFTDVjY1N4SVozQ2dPNDRza0FmaG5UeWJWYnpKazJPcXJuN1lRdWFGMFI0V2tLdUJWRjIwMTVxSEtzZm1jNUVhc1JjOVhHcm1Bd2UwSjU5Mk1JZnRobUJGdzV5VUlnYzA4aU5mNVhwcVk5OA?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "IPL",
+      "Mumbai Indians | Official website",
+      "Reuters",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T23:32+05:30",
+     "score": 6.71,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "'Definitely long term': Ness Wadia on Hardik Pandya's acquisition",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTFHN09NTElTX3FXd1MzVGNRUnMxalUycE5DNF80ZTVOTkpBUzNLTDRKSkxHM0RtY0Z4TWxFTDVjY1N4SVozQ2dPNDRza0FmaG5UeWJWYnpKazJPcXJuN1lRdWFGMFI0V2tLdUJWRjIwMTVxSEtzZm1jNUVhc1JjOVhHcm1Bd2UwSjU5Mk1JZnRobUJGdzV5VUlnYzA4aU5mNVhwcVk5OA?oc=5",
+       "publishedAt": "2026-11-11T23:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gemini 4 Carbon Halves Google's Hallucinations, Review Finds, but Still Won't Beat Anthropic's Opus",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QQ0h6ZW05dmxXYVlqci1ha01vQmhsVmY2U01YaVcwazdoX1JrNWhJLUk1YmN1OTBwLS1pZF9NMGYtcVFyS2t4QjZOWEE2N1FZVU93SDlwYS1BY0k?oc=5",
+     "source": "BigGo Finance",
+     "sources": [
+      "BigGo Finance",
+      "ET CIO",
+      "OrcaRouter",
+      "The GitHub Blog",
+      "The Verge",
+      "blog.google"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T22:38+05:30",
+     "score": 6.55,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BigGo Finance",
+       "title": "Gemini 4 Carbon Halves Google's Hallucinations, Review Finds, but Still Won't Beat Anthropic's Opus",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QQ0h6ZW05dmxXYVlqci1ha01vQmhsVmY2U01YaVcwazdoX1JrNWhJLUk1YmN1OTBwLS1pZF9NMGYtcVFyS2t4QjZOWEE2N1FZVU93SDlwYS1BY0k?oc=5",
+       "publishedAt": "2026-11-11T22:38+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T03:00+05:30",
    "generatedAt": "2026-11-12T03:01+05:30",
