@@ -1,6 +1,184 @@
 {
- "updated": "2026-11-11T19:44+05:30",
+ "updated": "2026-11-11T21:20+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T21:00+05:30",
+   "generatedAt": "2026-11-11T21:20+05:30",
+   "feeds": 16,
+   "headlines": 337,
+   "stories": [
+    {
+     "title": "Centre Approves Rs 3,230-Crore Yuge Yugeen Bharat Museum Development",
+     "link": "https://www.ndtv.com/india-news/centre-approves-rs-3-230-crore-yuge-yugeen-bharat-museum-development-12313655#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BusinessLine",
+      "Free Malaysia Today",
+      "Hindustan Times",
+      "Moneycontrol.com",
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "The New Indian Express",
+      "ThePrint"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-11T20:13+05:30",
+     "score": 10.03,
+     "summary": "It is envisaged as a landmark museum showcasing the continuity, diversity and richness of India's rich civilisational legacy through an integrated narrative of its tangible and intangible cultural heritage, according to officials.",
+     "image": "https://c.ndtvimg.com/2026-11/8mfa0vrc_yuge-yugeen_625x300_11_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Centre Approves Rs 3,230-Crore Yuge Yugeen Bharat Museum Development",
+       "link": "https://www.ndtv.com/india-news/centre-approves-rs-3-230-crore-yuge-yugeen-bharat-museum-development-12313655#publisher=newsstand",
+       "publishedAt": "2026-11-11T20:13+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Union Cabinet approves  ₹3,230 crore for Yuge Yugeen Bharat National Museum",
+       "link": "https://www.hindustantimes.com/india-news/union-cabinet-approves-3-230-crore-for-yuge-yugeen-bharat-national-museum-101794391612090.html",
+       "publishedAt": "2026-11-11T15:36+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "'Bigger than Louvre': All about the Yuge Yugeen Bharat Museum cleared by Cabinet",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaFFtZnBCeWkxYlF1Ykh1SHRRbVJXTmdsYmdaVzFmeUF2akx5d0czNnB1R0x0X2ZxOHl6Z1Y2a3ZVM3hQdjRKWjJZVTlTdXRsME91Y0JfOUlQRndFNzFKNTB2Vl9pRzlUcTRMS0NRZWR6VGhIU2lidjNpcFBCczN3eGdYV1BkQmxYc0RDYi12ek9rVG5KbDVyVVM1TmUxaVNNN3pXY3IzUUNNZG53dWV4Z0FWR0JtdXkwX09JVEdSOUxEOVdwRHVrd2oyRdIB0AFBVV95cUxPWmhya0tMRTdhVGE3MHAyTGdfYm4xQVBYR0xQUGVZaGxnS0NPX2FQMlp3bVQ0bHFxRWZ1bGhlTUxBVXR1RTFiUHJkT1hBQV9EWjUwQy1KZTFUay1SR1RkMUdCUVdqOHlXVU9VdlBPVGpUU2Q3eVVFWG9Ib0ZYUHpGMW94QTlzVm9qa0xTY01IOGtnYl9YdHpzdklPY2VJM0E1ZHZIa1ZWMXEwVGVKWEoxNkpkTzJReXpSVzZnU0ZLTHE1ZEpERWdmdjc1NDkxT1Ba?oc=5",
+       "publishedAt": "2026-11-11T15:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "What time does GTA 6 launch in the UAE? Release date, price and how to preload",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWNKTEV1czZQMndhN0k3blh2cWE0WUE2YURlOGJiVHpZcXd0V0JlNlJGeEtleEhROHVZYkpzd29kQmVKR2huNmNPUEkzSmVYV0lyeU5EV0JYLXY3QUJsdG0yV18xZlZQa1lXV19UWnpHMnhNUG82a0J5bjdSbVluVXREMWZ1dllnNnBpLWxNTklqWEdpTjNTZ1dxdjdyYnRGbXZhdjlJVGNkZzE1dmZEbDFqejlHampYaXhFeGoyTl9OdHFXWi1OcnlrQ3JoMDJqcHlJUk1uODhZdWEyVWc?oc=5",
+     "source": "The National",
+     "sources": [
+      "PlayStation.Blog",
+      "Rockstar Games",
+      "The Economic Times",
+      "The National",
+      "The Times of India",
+      "XBOX Wire"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T18:48+05:30",
+     "score": 8.08,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The National",
+       "title": "What time does GTA 6 launch in the UAE? Release date, price and how to preload",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWNKTEV1czZQMndhN0k3blh2cWE0WUE2YURlOGJiVHpZcXd0V0JlNlJGeEtleEhROHVZYkpzd29kQmVKR2huNmNPUEkzSmVYV0lyeU5EV0JYLXY3QUJsdG0yV18xZlZQa1lXV19UWnpHMnhNUG82a0J5bjdSbVluVXREMWZ1dllnNnBpLWxNTklqWEdpTjNTZ1dxdjdyYnRGbXZhdjlJVGNkZzE1dmZEbDFqejlHampYaXhFeGoyTl9OdHFXWi1OcnlrQ3JoMDJqcHlJUk1uODhZdWEyVWc?oc=5",
+       "publishedAt": "2026-11-11T18:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
+     "link": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "CNN",
+      "Euronews.com",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T18:46+05:30",
+     "score": 8.07,
+     "summary": "The talks in the UAE capital were the first ⁠between the two warring sides since February.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
+       "link": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
+       "publishedAt": "2026-11-11T18:46+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Russia, Ukraine agree to major prisoner swap after U.S.-brokered talks in Abu Dhabi",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHp5LXpzTm9yVFVHQ0pfWTh6UzExNC01OTEtZHBUS1dPZzM4ejZDa24zU2s3a3A2V3EwR1o4SFkxMkFCcTRkV1U4TGFxaDUtZVVoU3VBbkhRcU4yNnIydGp2ekJmMkZQcUF3U3JvNVVtMzRNTVZBVUVELXNIaFdYRHpqRUhtTEtCUlRXcl9pU0lhODVubnZkM2g1RkE0ZVJCT0VDcWZndUt2eGtUZExycFlpWkZFamJYYkhmQzNWQdIBxgFBVV95cUxNVFRBMFRxd3VMRGpyMWwxYXdnYkpsY2pNSG5vN0lmNGIwOXV5Y3ltbjdlR3RvWVpWcjl4d3RCSG1IUEtmV3ZWVURWdURFc2k3OThFczBHNmJqa1RaQWsyV1U1Y2hKZkN2ajdiNFUycWVHcngyUk10X1c1VTJaQUxXd2lLTFlCd2s1WXI1bFk5NTRGNFozUk5GRTBXXy1UU05vXy0zc0dPOC1UUEtQM3JpX2VNR1NId0tZRTAtQkFBMks0LWFsLVE?oc=5",
+       "publishedAt": "2026-11-11T16:21+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ladakh bans protests ahead of polls: Wangchuk warns of fresh agitation against elections",
+     "link": "https://timesofindia.indiatimes.com/india/ladakh-bans-protests-ahead-of-polls-sonam-wangchuk-warns-of-fresh-agitation-against-elections/articleshow/135734705.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T16:42+05:30",
+     "score": 7.38,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135735086,imgsize-98462.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Ladakh bans protests ahead of polls: Wangchuk warns of fresh agitation against elections",
+       "link": "https://timesofindia.indiatimes.com/india/ladakh-bans-protests-ahead-of-polls-sonam-wangchuk-warns-of-fresh-agitation-against-elections/articleshow/135734705.cms",
+       "publishedAt": "2026-11-11T16:42+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Ladakh bans protest ahead of polls",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/elections-authorities-ban-dharnas-protests-in-leh-kargil-ahead-of-polls/articleshow/135734552.cms",
+       "publishedAt": "2026-11-11T16:31+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Ladakh bans protests ahead of polls: Sonam Wangchuk warns of fresh agitation against elections",
+       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd3RObHBZa2xKMFVldmRYRHdWdnNjSnFsT2V5V0ZqMC1kLUlmeUF0Wnp1WjFUal91RmxXNEl3VXdaUHg3cTZKWkZOSUhOWVNianc4elQ1cnJ6VHl4akhNbW9aMTFKZ2w1YnZlVU1PVnBrT1BSTXhySWZXV0dlRUpUQkpkU1h3RzEzZTFHSVg3Q1V4WlpiczNqRkFsYzNLQzc0b0VCdndfYzBqR3A4R1Q2M1pGZ2hiSDM0N3ItR3FyVDVWTWdWb2kzMF8zRl9ldG0xdEtDNmludVAxQkRETTZoLVU2ZlZCOTl4R25jQk5BTU1qd00?oc=5",
+       "publishedAt": "2026-11-11T16:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cabinet clears  ₹2,390-crore Noida Metro extension; Blue, Aqua lines get new link",
+     "link": "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Metro Rail News",
+      "NDTV",
+      "PM India",
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T19:37+05:30",
+     "score": 7.09,
+     "summary": "PM Modi said the extension will improve access to “offices, schools, hospitals and commercial hubs”, ease congestion and lead to shorter commute time.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/aqua_line_1794395765192_FrQG_1794395765327_6eQU_1b8d2409-ffc5-4eef-9e7c-dbb7cf4fa6bc_q6xb.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Cabinet clears  ₹2,390-crore Noida Metro extension; Blue, Aqua lines get new link",
+       "link": "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html",
+       "publishedAt": "2026-11-11T16:28+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Noida-Greater Noida Metro gets ₹2,390 crore boost",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/noida-to-greater-noida-west-metro-gets-rs-2390-crore-boost-8-5-km-aqua-line-extension-to-have-five-new-stations-check-route-interchange-completion-timeline/articleshow/135732651.cms",
+       "publishedAt": "2026-11-11T15:20+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T19:00+05:30",
    "generatedAt": "2026-11-11T19:44+05:30",
