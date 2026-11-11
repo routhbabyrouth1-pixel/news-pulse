@@ -1,6 +1,167 @@
 {
- "updated": "2026-11-11T22:23+05:30",
+ "updated": "2026-11-11T23:23+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T23:00+05:30",
+   "generatedAt": "2026-11-11T23:23+05:30",
+   "feeds": 16,
+   "headlines": 284,
+   "stories": [
+    {
+     "title": "Amul Milk Prices To Go Up By Rs 2-4 Per Litre From Tomorrow",
+     "link": "https://www.ndtv.com/india-news/amul-milk-price-hike-amul-hikes-milk-prices-by-rs-2-4-per-litre-12313273#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "Rising Kashmir",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "ThePrint",
+      "Zee Business"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T19:14+05:30",
+     "score": 7.37,
+     "summary": "Amul Milk Price Hike: In a statement, the company said prices of its fresh milk variants will rise by Rs 2 to Rs 4 per litre, depending on the type. The prices will be effective from November 12.",
+     "image": "https://c.ndtvimg.com/2023-02/23m6o5gs_amul-milk_640x480_03_February_23.jpg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Amul Milk Prices To Go Up By Rs 2-4 Per Litre From Tomorrow",
+       "link": "https://www.ndtv.com/india-news/amul-milk-price-hike-amul-hikes-milk-prices-by-rs-2-4-per-litre-12313273#publisher=newsstand",
+       "publishedAt": "2026-11-11T19:10+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Amul hikes milk prices by Rs 2-4 per litre from Nov 12",
+       "link": "https://economictimes.indiatimes.com/industry/cons-products/food/amul-hikes-milk-prices-by-rs-2-4-per-litre-from-november-12/articleshow/135739242.cms",
+       "publishedAt": "2026-11-11T19:02+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Amul raises milk prices by ₹2-4 per litre, effective from November 12",
+       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOblMteWJuX0RBYTNtMG5mWV9ESktNc1lqMDkwNHN2Y0dYenpJTlI2UGxva043ZURDNTFDU21wMGZhRzBvbFdPaHdWQ2kwSU4tamxhODhxeGRLOERfUEJMUy1qaEhUZUhmLTk3VnFwRlhqUEJ1cmRleVI0RzhJN0oxTXUyaTVzNmJaWXRqSEZRR1pLaU5BREFNb0NrTTlDSFU4Y0VzUmxHaGZyOWNuNGtuc2s3d1UxdTZkY24tU05vNGpINWJE0gHLAUFVX3lxTE8tLXlzR1RoUDd5YjRpalNoVWJ5OFEtNTNNOTdiNjNkS2d5OXUtM3UyTWdjNkpyUS1SYlFEREdXTFNickdTOU03aVczRHFNS0RRTUVQMlFCNldIeDNIRTBiQTR5V1BaZ0pzX244d19uN2gycm5VdWNoY2lBTTJ4NTVuYVM4cEwwSnJTYkdXT1N3ZTdzOVh0dDlFeTU0MHZhWlI3SWNFY0xXVURvVHZfb1ZiU016OWs3U0Vid3VBMFY3Nk1tVE5xQ2dja0ZB?oc=5",
+       "publishedAt": "2026-11-11T19:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India simplifies visa norms; categories cut, forms to be 70% leaner",
+     "link": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Bloomberg.com",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T21:52+05:30",
+     "score": 7.25,
+     "summary": "Tourist visa renamed ‘visitor visa ’, which will have two sub-categories, V-1 and V-2, so that applicants can select a visa suited to the nature and duration of their proposed visit; special provision for subject-matter experts introduced",
+     "image": "https://th-i.thgim.com/public/news/national/565njc/article71690688.ece/alternates/LANDSCAPE_1200/iStock-486918368.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "India simplifies visa norms; categories cut, forms to be 70% leaner",
+       "link": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
+       "publishedAt": "2026-11-11T21:52+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Centre simplifies visa regime: Paperwork cut by 70%, categories reduced from 13 to 9",
+       "link": "https://timesofindia.indiatimes.com/india/centre-simplifies-visa-regime-paperwork-cut-by-70-categories-reduced-from-13-to-9/articleshow/135741142.cms",
+       "publishedAt": "2026-11-11T20:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘GTA 6’ Pre-Loads Are Slowing Down The Internet, Warns ISP",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDE0aGMxRk9vR2Rwa1o3NV9vendjenZRX1I2X1B2dkU5VVNqcDhnaFpiTERMMUZTODZSdzNBMUJIUlVCb29DZTNRS21oZUI3SXNLc01ZR3h5VGZwYmNTcXgzdzhlX0NpejlhN0IyOGtFekdWclkzU0syWnNPVkc0TmtvY0YyNmxuZEFUUGVheDhKYWh3TWROei1jd0w1emNkVWFaU0ktNFB6QQ?oc=5",
+     "source": "Forbes",
+     "sources": [
+      "Forbes",
+      "GSMArena.com",
+      "PlayStation.Blog",
+      "The Times of India",
+      "XBOX Wire"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T20:52+05:30",
+     "score": 7.08,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Forbes",
+       "title": "‘GTA 6’ Pre-Loads Are Slowing Down The Internet, Warns ISP",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDE0aGMxRk9vR2Rwa1o3NV9vendjenZRX1I2X1B2dkU5VVNqcDhnaFpiTERMMUZTODZSdzNBMUJIUlVCb29DZTNRS21oZUI3SXNLc01ZR3h5VGZwYmNTcXgzdzhlX0NpejlhN0IyOGtFekdWclkzU0syWnNPVkc0TmtvY0YyNmxuZEFUUGVheDhKYWh3TWROei1jd0w1emNkVWFaU0ktNFB6QQ?oc=5",
+       "publishedAt": "2026-11-11T20:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Two spl police officers reported missing in J&K's Kishtwar; search op launched",
+     "link": "https://timesofindia.indiatimes.com/india/two-police-officers-reported-missing-in-jks-kishtwar-search-op-launched/articleshow/135744807.cms",
+     "source": "Times of India",
+     "sources": [
+      "Bhaskar English",
+      "India Today",
+      "Kashmir Life",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T22:40+05:30",
+     "score": 6.94,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135744903,imgsize-160576.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Two spl police officers reported missing in J&K's Kishtwar; search op launched",
+       "link": "https://timesofindia.indiatimes.com/india/two-police-officers-reported-missing-in-jks-kishtwar-search-op-launched/articleshow/135744807.cms",
+       "publishedAt": "2026-11-11T22:40+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Two police officers reported missing in J&K's Kishtwar; search op launched",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdEFibXFoQjZ2R2RMT2w4Mk50RXZSeUFybkxlb3p4UnREUzllUzQzNjdVR05DaUtocm13QXk4bndWYUt2bVJDYWNsN1FPWVBSa0lrQ1JxUVdKS00wU09yNkNtNG1lNllrYUVYMmNUbWIwN2pFX2xjNmdIbE5vMVVyRmpYdE1icnZWNG4yMFUwSVFEMU9RYW9CbHhNVnhBUENUczRYVkR6a3RSWENXbmJNSFVmWlBTc0MydlNWU052d2ZQa2tvN3hkQ1F2OWVkY3lTVWdKNDJR?oc=5",
+       "publishedAt": "2026-11-11T22:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gunmen ambush Pakistan police team en route to raid illegal gold mines, 11 killed",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU1VaUl9QaE96TW5SV25CTGQzazBLZnZJb05uLWVCaGk0ZWRhWHlMNWxTcGMzeWIzMHVuQjBIbHFYZ2tocEQ1dk9vcTdkMkVLYVlvdUU0SFUxVXlqcWFSR25EYzBjc1VtT3dlNHJtQWp2Q2VuWmZEaDRCYXBqWDVZYmhycEhFZDF0eFF3bnVlTGVONVJvTjJpS05GNVVieXZXNXdDNEJjaVdXMTVGYmRXWTZNd0tyX3JZNDV3eDRsMGRMN0c2c2JMdzQxeGI4T1hrMTRpRzFUQW9LTW5DU0hHcU1Sa05ScEJibW83SzhnUVNZd0trYnfSAfsBQVVfeXFMTkVYb1RkYm1XUHhvOWtVRnR5WHhfZDQ5c2FzeG02Ym5XYmllSGtaS05NS25Lb19TdEVLM0NwMmYwSjlMRHh2V3ZnT3FWdGNwbUVyUmphazdTc25sWk56ZkNlcGFKVGw5cE4tSFhMWjBQZTRWamFaWjdKMEJLZzZ3VEpYMVNfZGh4eUk1TXN1U2pkakltcWluT3ZRaTRaQWZZQ0xPMHA1YTB1S002eU4xMnoxcDYtcHZhZlJqQkpJQTZzblYteFMwTTZlUVhmdWhFWmtOekdIMVR6QUg4WDZkRjJla1BNZ3VIWnZCdFFDQTdWdXFtajBfMmh3SEU?oc=5",
+     "source": "India Today",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "Reuters",
+      "Telegraph India",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T21:03+05:30",
+     "score": 6.36,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "India Today",
+       "title": "Gunmen ambush Pakistan police team en route to raid illegal gold mines, 11 killed",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU1VaUl9QaE96TW5SV25CTGQzazBLZnZJb05uLWVCaGk0ZWRhWHlMNWxTcGMzeWIzMHVuQjBIbHFYZ2tocEQ1dk9vcTdkMkVLYVlvdUU0SFUxVXlqcWFSR25EYzBjc1VtT3dlNHJtQWp2Q2VuWmZEaDRCYXBqWDVZYmhycEhFZDF0eFF3bnVlTGVONVJvTjJpS05GNVVieXZXNXdDNEJjaVdXMTVGYmRXWTZNd0tyX3JZNDV3eDRsMGRMN0c2c2JMdzQxeGI4T1hrMTRpRzFUQW9LTW5DU0hHcU1Sa05ScEJibW83SzhnUVNZd0trYnfSAfsBQVVfeXFMTkVYb1RkYm1XUHhvOWtVRnR5WHhfZDQ5c2FzeG02Ym5XYmllSGtaS05NS25Lb19TdEVLM0NwMmYwSjlMRHh2V3ZnT3FWdGNwbUVyUmphazdTc25sWk56ZkNlcGFKVGw5cE4tSFhMWjBQZTRWamFaWjdKMEJLZzZ3VEpYMVNfZGh4eUk1TXN1U2pkakltcWluT3ZRaTRaQWZZQ0xPMHA1YTB1S002eU4xMnoxcDYtcHZhZlJqQkpJQTZzblYteFMwTTZlUVhmdWhFWmtOekdIMVR6QUg4WDZkRjJla1BNZ3VIWnZCdFFDQTdWdXFtajBfMmh3SEU?oc=5",
+       "publishedAt": "2026-11-11T21:03+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T22:00+05:30",
    "generatedAt": "2026-11-11T22:23+05:30",
