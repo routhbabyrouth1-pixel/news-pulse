@@ -1,6 +1,207 @@
 {
- "updated": "2026-11-11T13:50+05:30",
+ "updated": "2026-11-11T15:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T15:00+05:30",
+   "generatedAt": "2026-11-11T15:26+05:30",
+   "feeds": 16,
+   "headlines": 300,
+   "stories": [
+    {
+     "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
+     "link": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-11T13:10+05:30",
+     "score": 9.37,
+     "summary": "All the passengers who had boarded the aircraft were deboarded, and it was taken to the isolation bay",
+     "image": "https://th-i.thgim.com/public/news/national/3fdnli/article71688703.ece/alternates/LANDSCAPE_1200/Kolkataairport.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
+       "link": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece",
+       "publishedAt": "2026-11-11T13:10+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Hijack threat note found on Air India flight in Kolkata; moved to isolation bay",
+       "link": "https://timesofindia.indiatimes.com/city/kolkata/hijack-threat-note-found-on-air-india-flight-in-kolkata-passengers-deboarded-plane-moved-to-isolation-bay/articleshow/135728515.cms",
+       "publishedAt": "2026-11-11T12:28+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Air India flight to Mumbai moved to isolation bay after hijack threat at Kolkata airport: What we know",
+       "link": "https://www.livemint.com/news/india/air-india-kolkata-mumbai-flight-moved-to-isolation-bay-after-hijack-threat-message-found-on-board-11794379871901.html",
+       "publishedAt": "2026-11-11T12:24+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay",
+       "link": "https://www.hindustantimes.com/india-news/hijack-scare-on-air-india-vistara-flight-to-mumbai-before-takeoff-plane-moved-to-isolation-bay-kolkata-airport-101794378656962.html",
+       "publishedAt": "2026-11-11T12:18+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Hijack threat note found on Air India flight in Kolkata; passengers deboarded, plane moved to isolation b",
+       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTGxHcnU0empHZG1wUkswSUVENW1JNVN1ZEJvYktmUjFNZ1pKNEczRktNd1lPRXJ1MXJ2aVQ2aW90czNsclE3c0NERUZWUURMcjd1bUlLZGNNc2o5RnM3b19CeWZnTFpqZy1JeXlOY2tzSlV1a05vZ0lfcWFLNkdrMHVxNDJqbHJLT0dVNmR5aWdrLUJxOE1kZ1dMRzc3ZEJ1WG4yeTZ4RTduVDlabjNiWUh4dlpzQkVRY2xGZ25oNVJ5TV9rQlJJV1VGQlF3cFFfaUNmV0dGb3lSNkVkSF85UU9EU3VqdXdGUHBUYW4wWGhFYmNBM3pyVy1xMlJoa3hmUUdsTFdmd3dmT2Rw?oc=5",
+       "publishedAt": "2026-11-11T12:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Can Huang's position as CEO be challenged?",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/could-jensen-huangs-position-as-nvidia-ceo-be-challenged-what-the-companys-bylaws-say-china-spy-scandal/articleshow/135729888.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Fortune India",
+      "Indian Television Dot Com",
+      "NDTV",
+      "Reuters",
+      "The Economic Times",
+      "The Indian Express",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T14:18+05:30",
+     "score": 7.87,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135728869,imgsize-886460.cms",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Can Huang's position as CEO be challenged?",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/could-jensen-huangs-position-as-nvidia-ceo-be-challenged-what-the-companys-bylaws-say-china-spy-scandal/articleshow/135729888.cms",
+       "publishedAt": "2026-11-11T14:18+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Advantage China? How Nvidia CEO's affair with Chinese spy Alice Huang could impact US",
+       "link": "https://timesofindia.indiatimes.com/world/us/advantage-china-how-nvidia-ceos-affair-with-chinese-spy-alice-huang-could-impact-us/articleshow/135728760.cms",
+       "publishedAt": "2026-11-11T12:44+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Nvidia CEO Jensen Huang Case LIVE Updates: Nvidia loses market cap crown to Microsoft amid Jensen Huang’s China spy scandal",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0dWdWZpVjZZMmRhdkNrWW0tZ2QwdXR4cnVoaVNZYS1RQldiakgyQXdLbXhUSkttVVdPRmY3M0NvdlB6d1FxS0t6YkNuWms1QWRDazNoSVpfVUFuZUZ0YnBIN3lLUzJZU1dTYnNzUFpDMHhkMHNHVGl5QzRiLU9DLVNYV3I1NkZqc2FQenJpY3JrVnNpZHBRRzNkSnBaN25GY0pScmZMWWpwYzVhNUF4S2VSUlBlVUpEcWxBR0EzSkNXQdIByAFBVV95cUxQTW45cVlOV08wcnIzRHcwR2VJNjNYb0NzUGFGOEM2bzVwSHB1UUhGOTBEUWxzby1acVJOVTBBRGJJZnk1a01HZ0JkM3ZxZ0JidHdRR1VTZzlUMEY3NUExQlpqaDRIUERieVBSNFBleFZmN0NVcWxzQjZrLThEM2ZjUDhJXzJQMjRCZlBscWR3SjBNMFY0YnBicVZFV25oVlJWdHdzYThGV3MxOFBWWTVsbkJneWJNMG4wYVZtMTJpZ2RaUjc3cHQ1RA?oc=5",
+       "publishedAt": "2026-11-11T12:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Got rid of her like garbage': Nepali-American man convicted of wife's murder in US",
+     "link": "https://timesofindia.indiatimes.com/world/us/got-rid-of-her-like-garbage-nepali-american-man-convicted-of-wifes-murder-in-us/articleshow/135726724.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNN",
+      "India Today",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India",
+      "WUSA9"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T10:55+05:30",
+     "score": 7.75,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135726844,imgsize-522154.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Got rid of her like garbage': Nepali-American man convicted of wife's murder in US",
+       "link": "https://timesofindia.indiatimes.com/world/us/got-rid-of-her-like-garbage-nepali-american-man-convicted-of-wifes-murder-in-us/articleshow/135726724.cms",
+       "publishedAt": "2026-11-11T10:55+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Got rid of her like garbage': Nepali-American man convicted of wife's murder in US",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbGFZakEwZEthUTZrZlJEU3Z0M2c5QWRaZ0ZHcWFVWEV3NWM4WVYxQ3VyaUdDMmk5bW1kTFp2NHBzclpJUWM0MHo3ZHdtcmFBX2R5eFFoam9ZVEhzeTJ5MjN1QUFJX0IyWF9aUno3Ylh3UU5ITVhYaUVTZjkzMVFZTVRHS3dNeWFMQWxOeWN1bjhYMk9rZE9FRzhadjFfdW1HSTBkaE56UXJIY2xfaXNhb2d6dzJuX2sxWTg2cnd1S1JzaGJMRXZ5SXM0LWRmMFp2N1ZiU1g4V3RuYzNMOUJSeFZCWXA?oc=5",
+       "publishedAt": "2026-11-11T10:55+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Amul, Mother Dairy to hike milk prices by  ₹2-6 per litre from November 12",
+     "link": "https://www.hindustantimes.com/india-news/mother-dairy-set-to-hike-prices-by-2-4-per-liter-from-november-12-milk-price-increase-101794379159051.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Rediff",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T12:12+05:30",
+     "score": 7.67,
+     "summary": "New prices include ₹76 per litre for full cream, ₹62 for toned and ₹65 for cow milk, adding to household costs amid elevated food inflation.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/_b28354f2-1eeb-11ea-9a0d-a0e38c0c67e3_1794379272450_Vzs5_fc8b7896-9956-4cfd-8017-3b08ac343317_ud1T.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Amul, Mother Dairy to hike milk prices by  ₹2-6 per litre from November 12",
+       "link": "https://www.hindustantimes.com/india-news/mother-dairy-set-to-hike-prices-by-2-4-per-liter-from-november-12-milk-price-increase-101794379159051.html",
+       "publishedAt": "2026-11-11T12:12+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Mother Dairy raises milk prices by ₹2-4 per litre, effective November 12",
+       "link": "https://www.thehindu.com/business/mother-dairy-raises-milk-prices-by-2-4-per-litre-effective-november-12/article71688495.ece",
+       "publishedAt": "2026-11-11T11:50+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Mother Dairy, Amul hike milk rates by upto Rs 6 per litre from tomorrow; check prices",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/mother-dairy-milk-gets-costlier-dairy-giant-hikes-rate-by-rs-2-4-per-litre-from-thursday-check-prices/articleshow/135727078.cms",
+       "publishedAt": "2026-11-11T11:14+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Mother Dairy milk gets costlier: Dairy giant hikes rate by Rs 2-4 per litre from Thursday; check prices",
+       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSEZmdTV3R0Vhd0J6ZnoyRkI1WXprcXZlc29PMWYzNUUyYXhSQU1Tc3U1M1BMZXYyY2wtV2lpUlR6aTNUWTVQX0pDcFM3bG9rcEdPVnF2Y0dzRGpSeDNQc3lvMHdnY3ZmUk1HZUlYTHhQekVPWVR4N1FkSmVLMTlFZmlqWm5sZVR6SXFQZHhBV3VnVzI5Y0NnTjloeGNqNFhwNk1zbDk4X2NUbkRRZGpBRWtnbm95RFFwNHdVbUxZbnNNRnp5QUI5UTRNelpyT2hqcHZoeFpoc2t2N0FodmtHWmxJMUFvbEFqUUtSckdTbkZ4U2VscWRKdmVMc1I3NUNfNERXVk03MHZJYks1dlQ3WV9SUnFwQQ?oc=5",
+       "publishedAt": "2026-11-11T11:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Security Personnel Injured In Terror Attack On J&K CRPF Camp",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW9QUWp1Mk9nbHNIb3h1My1hcFJ0bHpMVlJWbUhqeXFBQXo3enRMN3dKcmJ2dnF1QzZuZmtQNkZreHZvV1R5NjNwTTlnT1JaSjBKcUU1QzRrdnRCRUlLUGY4cnYwUzA4RUtOWDlhRllLN1NhNDBSWUlwNmRGV3RtNFhlZDdrTGJ4VnNnVWtmR1VSbThZbnZGMXR1LXZEU01DUE15RnRNTnU2OF9fX1ZmZw?oc=5",
+     "source": "NDTV",
+     "sources": [
+      "Greater Kashmir",
+      "Hindustan Times",
+      "NDTV",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T14:45+05:30",
+     "score": 7.38,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Security Personnel Injured In Terror Attack On J&K CRPF Camp",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW9QUWp1Mk9nbHNIb3h1My1hcFJ0bHpMVlJWbUhqeXFBQXo3enRMN3dKcmJ2dnF1QzZuZmtQNkZreHZvV1R5NjNwTTlnT1JaSjBKcUU1QzRrdnRCRUlLUGY4cnYwUzA4RUtOWDlhRllLN1NhNDBSWUlwNmRGV3RtNFhlZDdrTGJ4VnNnVWtmR1VSbThZbnZGMXR1LXZEU01DUE15RnRNTnU2OF9fX1ZmZw?oc=5",
+       "publishedAt": "2026-11-11T14:45+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T13:00+05:30",
    "generatedAt": "2026-11-11T13:50+05:30",
