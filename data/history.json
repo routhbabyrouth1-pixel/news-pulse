@@ -1,6 +1,192 @@
 {
- "updated": "2026-11-12T00:23+05:30",
+ "updated": "2026-11-12T01:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T01:00+05:30",
+   "generatedAt": "2026-11-12T01:26+05:30",
+   "feeds": 16,
+   "headlines": 245,
+   "stories": [
+    {
+     "title": "Centre simplifies visa regime: Paperwork cut by 70%, categories reduced from 13 to 9",
+     "link": "https://timesofindia.indiatimes.com/india/centre-simplifies-visa-regime-paperwork-cut-by-70-categories-reduced-from-13-to-9/articleshow/135741142.cms",
+     "source": "Times of India",
+     "sources": [
+      "Bloomberg.com",
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-11T20:57+05:30",
+     "score": 9.0,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-47529300.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Centre simplifies visa regime: Paperwork cut by 70%, categories reduced from 13 to 9",
+       "link": "https://timesofindia.indiatimes.com/india/centre-simplifies-visa-regime-paperwork-cut-by-70-categories-reduced-from-13-to-9/articleshow/135741142.cms",
+       "publishedAt": "2026-11-11T20:40+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "India simplifies its visa processing facilities",
+       "link": "https://economictimes.indiatimes.com/industry/services/travel/centre-cuts-visa-categories-from-13-to-9-reduces-application-form-fields-by-up-to-70/articleshow/135740791.cms",
+       "publishedAt": "2026-11-11T20:07+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "India simplifies visa norms; categories cut, forms to be 70% leaner",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY01RWnFqQ1pmaGRqYzNSSnZETGQ2STRFdXVVZ05DSFBPX1JSWkFhR2FzS1ZFTWNtUmFnVnYwVlUwWHltbTZ2czUzWThwdmNvNlZwOWpxMzNiMUttUXlVSzFuUm1Ic2N6bkVEdlgzR2JiVFY4R0xKQlRNMDF0YXpxZ1owbnZJUjROb1c0ZGppengyZXRSR2g2NmN6QlhBM2QzTzZ4TTVPYWdQUV9KTW45bkcwVjVTTXZGczZjYURlLWtFZ9IByAFBVV95cUxPXzAzZ3FmLUFxTHRiNGl3Wkdwb0pWUmJOWE5ROG1kQWo2VUlZNlpLM1hGRU5HU25HX0RpajlLMm5fRC1rYzFzTzJhb2oxUVRlS0J1a0xWU0dTNF9FbFYtbVo4ZlVUa01WLXozc2FPVjdjNmVnRXRhamFIUEt6QU44TUZIajBpMDJJSE9qdkpOaHFrTFpfaklaamotS3dOeU1xdzlVSjhYeHlsdVNWdmh5V1RqR3l6VThHYjl2RFJtdDdyRExDR2x6bg?oc=5",
+       "publishedAt": "2026-11-11T20:57+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Centre simplifies visa regime: Paperwork cut by 70%, categories reduced from 13 to 9",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDR1bFV4dXIxZjE2VmxxVGFPYXVhdWZ6Rkx4a3VmTnktbE9fRDVUVlVVOXROY1BORVc5RWlOVDhwcTlyVXlJaGx0VGJ4UUg1MWpqZjVGa2RaUHpfQnI2VG1MbEFkR0k2OEtjcGRNWTgxbFBCczdjYldxRTVaRFA5cjNfVkl2R1YyaDROa1RFWTRxZU1XQmNzT0VpaXpZVklGRWgxY05qRWg1Qi16bVVVOF9xY0NlU2lnaGFkZ3BObE8taGk4cWpLZXZBLWx6TFdqaUhQZVRHT2pBcFRKQi1Wc1Z2UQ?oc=5",
+       "publishedAt": "2026-11-11T20:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "2 J&K Special Police Officers On Patrolling Duty Go Missing, Search On",
+     "link": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-on-patrolling-duty-go-missing-search-on-12314416#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "The Indian Express",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T23:42+05:30",
+     "score": 7.46,
+     "summary": "A joint search operation was launched by police and security forces in the area to look for them.",
+     "image": "https://c.ndtvimg.com/2026-11/0k3t90io_rashpal-kumar-jk-spo_625x300_11_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "2 J&K Special Police Officers On Patrolling Duty Go Missing, Search On",
+       "link": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-on-patrolling-duty-go-missing-search-on-12314416#publisher=newsstand",
+       "publishedAt": "2026-11-11T23:42+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Two spl police officers reported missing in J&K's Kishtwar; search op launched",
+       "link": "https://timesofindia.indiatimes.com/india/two-police-officers-reported-missing-in-jks-kishtwar-search-op-launched/articleshow/135744807.cms",
+       "publishedAt": "2026-11-11T22:40+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Two Special Police Officers reported missing in J&K's Kishtwar; search op launched",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdEFibXFoQjZ2R2RMT2w4Mk50RXZSeUFybkxlb3p4UnREUzllUzQzNjdVR05DaUtocm13QXk4bndWYUt2bVJDYWNsN1FPWVBSa0lrQ1JxUVdKS00wU09yNkNtNG1lNllrYUVYMmNUbWIwN2pFX2xjNmdIbE5vMVVyRmpYdE1icnZWNG4yMFUwSVFEMU9RYW9CbHhNVnhBUENUczRYVkR6a3RSWENXbmJNSFVmWlBTc0MydlNWU052d2ZQa2tvN3hkQ1F2OWVkY3lTVWdKNDJR?oc=5",
+       "publishedAt": "2026-11-11T22:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
+     "link": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-12T00:21+05:30",
+     "score": 7.32,
+     "summary": "Twenty-four-hour stoppage draws high participation weeks before election in which far right could gain power Millions of people across Spain have joined the country’s first general strike in 14 years, setting up picket lines to protest against soaring housing prices before an election in which the far right could be catapulted into power. At the centre of Wednesday’s nationwide 24-hour stoppage, singularly called…",
+     "image": "https://i.guim.co.uk/img/media/670f7b1292952fbdbf85579bbc17110a0b1e8a16/499_0_4522_3617/master/4522.jpg?width=140&quality=85&auto=format&fit=max&s=e1201028ddc5ea474dc793f23069ff7f",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
+       "link": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
+       "publishedAt": "2026-11-12T00:21+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Spain sees widespread disruption in first general strike for 14 years",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-11T23:14+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Workers across Spain stage first general strike in 14 years",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZy1Nd05aWEZqd2RBZjRpdUxBX0wzdEV5RmVoRFo1Z2FXV3hER0JtLUREYzZyS3Q2QXhoU05HVHhlWHdRUmNhcGRvQmRWYXA4cWdkbGxQRkN1M1U4V0ZMMG56WG40ZkRZLTBJaVYtemZmNDRPcU01bVlGdFkwU3RGUllJdUN0QzIyR3ZXT1FhTmNHd9IBlwFBVV95cUxNbW8wSWRkTWhpZW41cGppVS1oLV9lMWJhMDNaRjdfNTlQQ0FDNkU3VDdvRXNtamRVLXFqY05kTlpTTEtHcVMyNGFMNEkwQTBMb0JwQ09RYnF6NlJMaWdfR0Y0Zi1GTkgtQ2VFNGlSS1NCNm01LU1GcnU5bjlOd0RpZk5iSmVZLUR4Nm5fVzk0M2ZsQWRUMGRV?oc=5",
+       "publishedAt": "2026-11-11T19:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Definitely long term': Ness Wadia on Hardik Pandya's acquisition",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTFHN09NTElTX3FXd1MzVGNRUnMxalUycE5DNF80ZTVOTkpBUzNLTDRKSkxHM0RtY0Z4TWxFTDVjY1N4SVozQ2dPNDRza0FmaG5UeWJWYnpKazJPcXJuN1lRdWFGMFI0V2tLdUJWRjIwMTVxSEtzZm1jNUVhc1JjOVhHcm1Bd2UwSjU5Mk1JZnRobUJGdzV5VUlnYzA4aU5mNVhwcVk5OA?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "IPL",
+      "Mumbai Indians | Official website",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T23:32+05:30",
+     "score": 7.18,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "'Definitely long term': Ness Wadia on Hardik Pandya's acquisition",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTFHN09NTElTX3FXd1MzVGNRUnMxalUycE5DNF80ZTVOTkpBUzNLTDRKSkxHM0RtY0Z4TWxFTDVjY1N4SVozQ2dPNDRza0FmaG5UeWJWYnpKazJPcXJuN1lRdWFGMFI0V2tLdUJWRjIwMTVxSEtzZm1jNUVhc1JjOVhHcm1Bd2UwSjU5Mk1JZnRobUJGdzV5VUlnYzA4aU5mNVhwcVk5OA?oc=5",
+       "publishedAt": "2026-11-11T23:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'I wasn't in that dressing room': Root reacts to Khawaja's Sandpapergate revelations",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-wasnt-in-that-dressing-room-joe-root-reacts-to-usman-khawajas-fresh-sandpapergate-revelations/articleshow/135742606.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "Cricinfo",
+      "ESPN India",
+      "Sky Sports",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T21:34+05:30",
+     "score": 7.1,
+     "summary": "England captain Joe Root has refused to comment on fresh Sandpapergate allegations raised by Usman Khawaja in his autobiography. Khawaja claims Australia's wider team was involved in the 2018 ball-tampering scandal. Root said he did not know what happened inside the Australian dressing room, while Peter Handscomb also declined to discuss the revelations.",
+     "image": "https://static.toiimg.com/photo/msid-135742870,imgsize-88126.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'I wasn't in that dressing room': Root reacts to Khawaja's Sandpapergate revelations",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-wasnt-in-that-dressing-room-joe-root-reacts-to-usman-khawajas-fresh-sandpapergate-revelations/articleshow/135742606.cms",
+       "publishedAt": "2026-11-11T21:34+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'I wasn't in that dressing room': Joe Root reacts to Usman Khawaja's fresh Sandpapergate revelations",
+       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOam5XejBTNUJmclJtdERHZ2VzQVJnZ1dWX3N2SEZna1ZYVldtdl9BUlkzVDBoVWJwbEVNb0h0MHM0YlkweGJCSFdhQTVuOVY2VnFDU1cxSmZvSTZtclpyMnF4bnJHQ2hDaV8yTk5OMHp4NVp4NmpfWDJiMy1xaWlSVG9NbDNJZWlHazg3RWh2TzBPSG9zSFVvYU5vUGM5WXJma3NQUHZjcWQyUmk2OUVKbktZYmE2ZC12SDF4Z3RXYWZJODhFOXZhZ012eDhwVl9KdkFFWU1ndW1hR0Nxc29GV000M2U0MmcwNkV2V0Y1SThDZWZTVElDLXZHTGJoRXFyX0JUNXBHdzXSAY4CQVVfeXFMTmFoYUJ0VWx4TVJrVGU2Sm1Oa01nV2lKcjJ3LWZyZVhvX3BYVnBFV0wyNzh4a2EtNG5wOTNITzh2QzM2SUVIVURYZzlZYU9SelJ1YXRTLVYxdHB0Z3U4Z3UycjhCVUlwMnBvemRPSEotR2xkZVhiRDBJQl9PaDBnME1QQ1BoQjBBLVYyN19JZHlOTExhTTM2TUtLekR1VlpwQWY0LXFfc2dGZmx5bWNyWnItSzFWYm1OTHUzVXVpSVYyb3RQTnVVMjdvR1kxbFpRZHlzbDdib1doMkdLb1NOSFVBSnhrM21WdFgyRGdFbFdKTmdKdkpzMVYzSEJzUl9CMkVZUVBNUUdjekZxc0JB?oc=5",
+       "publishedAt": "2026-11-11T21:34+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T00:00+05:30",
    "generatedAt": "2026-11-12T00:23+05:30",
