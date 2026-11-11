@@ -1,6 +1,206 @@
 {
- "updated": "2026-11-11T11:26+05:30",
+ "updated": "2026-11-11T12:36+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T12:00+05:30",
+   "generatedAt": "2026-11-11T12:36+05:30",
+   "feeds": 16,
+   "headlines": 259,
+   "stories": [
+    {
+     "title": "Assam train derailment LIVE updates: Six coaches of Sairang-Kolkata Express train derail",
+     "link": "https://www.thehindu.com/news/national/assam/assam-sairang-kolkata-express-train-coaches-derailment-accident-today-live-updates-november-11-2026/article71688339.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-11T11:54+05:30",
+     "score": 10.38,
+     "summary": "No injuries reported so far; alternate trains arranged to to help passengers reach their destinations",
+     "image": "https://th-i.thgim.com/public/incoming/s7ipyx/article71688240.ece/alternates/LANDSCAPE_1200/assam%20tain%20derailment.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Assam train derailment LIVE updates: Six coaches of Sairang-Kolkata Express train derail",
+       "link": "https://www.thehindu.com/news/national/assam/assam-sairang-kolkata-express-train-coaches-derailment-accident-today-live-updates-november-11-2026/article71688339.ece",
+       "publishedAt": "2026-11-11T11:54+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Six coaches of Kolkata-Sairang express derail in Assam; several injured, rescue underway",
+       "link": "https://www.livemint.com/news/india/six-coaches-of-kolkata-sairang-express-derails-in-assam-several-injured-rescue-underway-11794366343133.html",
+       "publishedAt": "2026-11-11T08:42+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Assam: 6 coaches of Kolkata-Sairang Express derail",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/kolkata-sairang-express-derailment-in-assam-six-coaches-go-off-tracks-at-digaru-station-several-passengers-injured/articleshow/135723921.cms",
+       "publishedAt": "2026-11-11T08:37+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Six coaches of Kolkata-Sairang Express derail at Digaru railway station in Assam; rescue ops on",
+       "link": "https://www.hindustantimes.com/india-news/passenger-train-coaches-derailed-at-digaru-railway-station-in-assams-kamrup-injured-death-toll-compensation-101794365637385.html",
+       "publishedAt": "2026-11-11T08:26+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "5 Coaches, Engine Of Kolkata-Sairang Express Derail In Assam, Rescue Ops On",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDQ5MllaZnZDV19QVUFyN0s1cEwxUzZBRjZ4MS01X1l2Zkt2WTgwaGt6eEQ1MWtTSzFhemlwNTViNUNXNUplOFVCX2ZTbFdZZElKRWI5cTNmMjlQTUJ0Y3ptaFRWQUI5QWdmMm11ZmMwR0ZFUlFJMVRlNGx4c3Y4Wl9wMmN4QzY1c2RFRzZhQkFsR1AybzlvSXp5UHY4cDUxbFVyRVp2YWFwSVJhMXFwOWRGX3ItUQ?oc=5",
+       "publishedAt": "2026-11-11T08:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Mother Dairy set to hike milk prices by  ₹2-4 per liter from November 12",
+     "link": "https://www.hindustantimes.com/india-news/mother-dairy-set-to-hike-prices-by-2-4-per-liter-from-november-12-milk-price-increase-101794379159051.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Inshorts",
+      "Moneycontrol.com",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T12:12+05:30",
+     "score": 8.23,
+     "summary": "The Delhi-NCR supplier sells about 35 lakh litres daily in the region and more than 50 lakh litres nationwide.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/_b28354f2-1eeb-11ea-9a0d-a0e38c0c67e3_1794379272450_Vzs5_fc8b7896-9956-4cfd-8017-3b08ac343317_ud1T.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Mother Dairy set to hike milk prices by  ₹2-4 per liter from November 12",
+       "link": "https://www.hindustantimes.com/india-news/mother-dairy-set-to-hike-prices-by-2-4-per-liter-from-november-12-milk-price-increase-101794379159051.html",
+       "publishedAt": "2026-11-11T12:12+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Mother Dairy raises milk prices by ₹2-4 per litre, effective November 12",
+       "link": "https://www.thehindu.com/business/mother-dairy-raises-milk-prices-by-2-4-per-litre-effective-november-12/article71688495.ece",
+       "publishedAt": "2026-11-11T11:50+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Mother Dairy To Raise Milk Prices By Rs 2-4 Per Litre From Tomorrow",
+       "link": "https://www.ndtv.com/india-news/mother-dairy-to-raise-milk-prices-by-rs-2-4-per-litre-from-tomorrow-12311357#publisher=newsstand",
+       "publishedAt": "2026-11-11T11:45+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Mother Dairy milk gets costlier: Dairy giant hikes rate by Rs 2-4 per litre from Thursday; check prices",
+       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSEZmdTV3R0Vhd0J6ZnoyRkI1WXprcXZlc29PMWYzNUUyYXhSQU1Tc3U1M1BMZXYyY2wtV2lpUlR6aTNUWTVQX0pDcFM3bG9rcEdPVnF2Y0dzRGpSeDNQc3lvMHdnY3ZmUk1HZUlYTHhQekVPWVR4N1FkSmVLMTlFZmlqWm5sZVR6SXFQZHhBV3VnVzI5Y0NnTjloeGNqNFhwNk1zbDk4X2NUbkRRZGpBRWtnbm95RFFwNHdVbUxZbnNNRnp5QUI5UTRNelpyT2hqcHZoeFpoc2t2N0FodmtHWmxJMUFvbEFqUUtSckdTbkZ4U2VscWRKdmVMc1I3NUNfNERXVk03MHZJYks1dlQ3WV9SUnFwQQ?oc=5",
+       "publishedAt": "2026-11-11T11:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Air India Kolkata-Mumbai flight moved to isolation bay after hijack threat message found on board",
+     "link": "https://www.livemint.com/news/india/air-india-kolkata-mumbai-flight-moved-to-isolation-bay-after-hijack-threat-message-found-on-board-11794379871901.html",
+     "source": "Mint",
+     "sources": [
+      "Firstpost",
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T12:24+05:30",
+     "score": 7.21,
+     "summary": "The Air India flight was moved to an isolation bay on Wednesday morning.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/Air_India_1794379952744_HbLD_1794379956118_ZJOz_185fc733-dbb1-4d52-ae8d-af903720fe38_GWHY.png",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Air India Kolkata-Mumbai flight moved to isolation bay after hijack threat message found on board",
+       "link": "https://www.livemint.com/news/india/air-india-kolkata-mumbai-flight-moved-to-isolation-bay-after-hijack-threat-message-found-on-board-11794379871901.html",
+       "publishedAt": "2026-11-11T12:24+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Air India Flight Issues Hijack Alert Just Before Take-Off At Kolkata Airport",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1JnUllzZDlKWWhzOThTQjZ5UmVoZU4tVlg1aFotNXdxcGRRR2hsRFJpNzJuMVhOeDlGdFJDM1hqY082QlB2UnVSUmJBNGpwcElRM01vcU9KOWF4UzRRZmhFbVF4T1BMcVJIcXF6aGZvOUxVSFJhZE1pRkgzUGJMRlY1ME9CSlV0SVZ5Q0JIb0cwX2FQdF9leDFoZy1SX1hEV3g5VnIydnpHa3A1YnBoYXZISWFFUzBV?oc=5",
+       "publishedAt": "2026-11-11T12:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ex-Acting US Attorney To Probe Nvidia CEO's Affair With Alleged Chinese Spy",
+     "link": "https://www.ndtv.com/world-news/major-us-law-firm-to-probe-nvidia-ceos-affair-with-alleged-china-spy-12310500#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Hindu",
+      "The Times of India",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T10:30+05:30",
+     "score": 7.15,
+     "summary": "Kim, who focuses on high-stakes litigation and enforcement, was hired by New York Attorney General Letitia James in 2021 to help investigate accusations of sexual harassment and other questionable behaviour by former governor Andrew Cuomo, who eventually resigned.",
+     "image": "https://c.ndtvimg.com/2026-11/gnmdge24_jensen-huang-alice-meet-again-afp_625x300_10_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Ex-Acting US Attorney To Probe Nvidia CEO's Affair With Alleged Chinese Spy",
+       "link": "https://www.ndtv.com/world-news/major-us-law-firm-to-probe-nvidia-ceos-affair-with-alleged-china-spy-12310500#publisher=newsstand",
+       "publishedAt": "2026-11-11T10:30+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "US commerce secy was sent secret memo on Nvidia CEO’s affair with Chinese spy",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-commerce-secretary-was-sent-secret-memo-on-nvidia-ceos-affair-with-chinese-spy-report/articleshow/135724372.cms",
+       "publishedAt": "2026-11-11T08:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "US commerce secretary was sent secret memo on Nvidia CEO’s affair with Chinese spy: Report",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYlVrNTQ2NUVEMTJtR182ZXpJZ2wyQTdSYWgwTEpSVU1GcE5KVmdCZ1pCbzJYN3JaUnRKT2FpSUVmWDAyQ3dUeUQ1MDZraFVjcWxTV0luRXNVcEttdHJmM1dOa1NIRkRjRS10S04zNVdrRXllYXN3Y0p6NmkxSlB0OXpBd0dSSHg1dzlpT2IyaHppclJHdkZDbUlzU2VQRkZzc21GUWRFSkVwS3JIbHNLMm1kOGY5N2E2OWNnQ3kyM0dncV9xRDFVdFJjWDlobnk4bWR1NWhHTGtyWG4zSnZXM2hXcFRDUEc1aFg2TU11aGM?oc=5",
+       "publishedAt": "2026-11-11T08:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Share Market Today: Investors Earn Rs 6 Lakh Crore In An Hour. Why Is Dalal Street Rallying?",
+     "link": "https://www.ndtv.com/business-news/share-market-today-investors-earn-rs-6-lakh-crore-in-an-hour-why-is-dalal-street-rallying-12310980#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T10:15+05:30",
+     "score": 7.11,
+     "summary": "Stock Market News: Sensex, NIfty rally has created a strong start. But investors still need to track crude oil prices, FII inflows, and other factors.",
+     "image": "https://c.ndtvimg.com/2026-03/84je37d4_bse-sensex_625x300_16_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Share Market Today: Investors Earn Rs 6 Lakh Crore In An Hour. Why Is Dalal Street Rallying?",
+       "link": "https://www.ndtv.com/business-news/share-market-today-investors-earn-rs-6-lakh-crore-in-an-hour-why-is-dalal-street-rallying-12310980#publisher=newsstand",
+       "publishedAt": "2026-11-11T10:15+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T11:00+05:30",
    "generatedAt": "2026-11-11T11:26+05:30",
