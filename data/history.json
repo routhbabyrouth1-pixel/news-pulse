@@ -1,6 +1,207 @@
 {
- "updated": "2026-11-11T17:23+05:30",
+ "updated": "2026-11-11T18:32+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T18:00+05:30",
+   "generatedAt": "2026-11-11T18:32+05:30",
+   "feeds": 16,
+   "headlines": 354,
+   "stories": [
+    {
+     "title": "J&K attack: Three injured after terrorists open fire on CRPF personnel in Kulgam",
+     "link": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Rediff",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T16:06+05:30",
+     "score": 9.09,
+     "summary": "Unidentified motorcycle-borne assailants opened fire on security personnel deployed at a naka in Kulgam district of Jammu and Kashmir",
+     "image": "https://th-i.thgim.com/public/incoming/l0h7n1/article71689174.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-11%20at%2015.27.36.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "J&K attack: Three injured after terrorists open fire on CRPF personnel in Kulgam",
+       "link": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece",
+       "publishedAt": "2026-11-11T16:06+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Terrorists Fire At Security Personnel In J&K's Kulgam. CRPF's Full Statement",
+       "link": "https://www.ndtv.com/india-news/jammu-and-kashmir-firing-terrorists-fire-at-security-personnel-in-jammu-and-kashmis-kulgam-crpfs-full-statement-12312211#publisher=newsstand",
+       "publishedAt": "2026-11-11T15:18+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "J&K terror attack: Three CRPF personnel shot at checkpost in Kulgam, one critically injured; manhunt underway",
+       "link": "https://www.livemint.com/news/india/kulgam-terror-attack-at-least-3-crpf-personnel-injured-after-terrorists-open-fire-in-kashmir-valley-11794388849478.html",
+       "publishedAt": "2026-11-11T14:53+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Motorcycle-borne terrorists attack CRPF team in J-K’s Kulgam; 3 jawans injured",
+       "link": "https://www.hindustantimes.com/india-news/terrorists-attack-a-crpf-convoy-in-kulgam-one-jawan-injured-101794388555146.html",
+       "publishedAt": "2026-11-11T14:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cabinet approves ₹2,390 crore metro rail link from Noida Sector 51 to Greater Noida Sector 4",
+     "link": "https://www.thehindu.com/news/national/uttar-pradesh/cabinet-approves-2390-crore-metro-rail-link-from-noida-sector-51-to-greater-noida-sector-4/article71689686.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Metro Rail News",
+      "NDTV",
+      "PM India",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T18:10+05:30",
+     "score": 8.31,
+     "summary": "The project, approved by the Cabinet chaired by Prime Minister Narendra Modi, represents a significant advancement in the city's infrastructure development, an official statement said",
+     "image": "https://th-i.thgim.com/public/incoming/7uko1a/article71689768.ece/alternates/LANDSCAPE_1200/AFP_1CJ0Z4.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Cabinet approves ₹2,390 crore metro rail link from Noida Sector 51 to Greater Noida Sector 4",
+       "link": "https://www.thehindu.com/news/national/uttar-pradesh/cabinet-approves-2390-crore-metro-rail-link-from-noida-sector-51-to-greater-noida-sector-4/article71689686.ece",
+       "publishedAt": "2026-11-11T18:10+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Cabinet clears  ₹2,390-crore Noida Metro extension; Blue, Aqua lines get new link",
+       "link": "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html",
+       "publishedAt": "2026-11-11T16:28+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Noida-Greater Noida Metro gets ₹2,390 crore boost",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/noida-to-greater-noida-west-metro-gets-rs-2390-crore-boost-8-5-km-aqua-line-extension-to-have-five-new-stations-check-route-interchange-completion-timeline/articleshow/135732651.cms",
+       "publishedAt": "2026-11-11T15:20+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Noida Metro extension to Rs 3,230 crore national museum project: Cabinet approves key 5 decisions",
+       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaVVyWi1sb2ZOTmNhR3dmUzc5RjhZVUxUcXRvZFhkRUR4a3VtRnZmNmlzQnZOdERSZ0NqVWRpTUR2VlNOR0dEZ1cwS1ZKaEtWR0Q3X09UU2xseDNwaU5LVVJWOFBRcWFzV0FWWXJyLW85V2hmM3Q0ZHhOdkFSRE5EX2JNTk9HYTdsWWVxLTF5M1dkc0h3X19aZVBsMHp4U1RDSlBMc0t3eVNsY056ZGlBcU5QSmtaSm9ZU1YyUVpNNkhpZjZ1bzRsTjdYQXVWaS1QQlhSclMxX3FPYnhHMHBXdUl1VzlDWlUwQ0lhaW1waDYwdzZFclhyUjlSMGN3ZlpTamVaTmY5dDducS1vQkHSAZMCQVVfeXFMT3RvVkVnWEVUaTVMR3ZONTlCRDNGSlpkTFoyY2VVUVdnQ1dRd0tZSHdRSHphZWo1a2tyeTd3QjJtckZZUzZFTlNQbjh3VGNpbVRMUFpoVUVJcEcyd2ZxZUJGZHhfTW1fSDFyeGFxQUhvMl94cW92ak43SXlheXRRWHpfdC1rckJoZkhUb3NIS21EdExiVlQ1a3kzRkpKSFVPckRVWHVhMy1IVC1oUWpmcGFyXzE4dW04cENxMEJUNUE0VnZwSk5VcXZHeVpkdS1vQnJocGpZUnFBR2Q0eElMVkJnME5FV0QtOE5seUlrcjFIbmtkMy16cWRsM0dsNG0zcnZDTFlBR1FhMTRMd0pDLWtHRm8?oc=5",
+       "publishedAt": "2026-11-11T15:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Putin is not ready to make peace in Abu Dhabi",
+     "link": "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "Euronews.com",
+      "Reuters",
+      "The Guardian"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T16:35+05:30",
+     "score": 8.18,
+     "summary": "The Russian leader still believes he can outlast Western support for Ukraine.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Putin is not ready to make peace in Abu Dhabi",
+       "link": "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss",
+       "publishedAt": "2026-11-11T14:07+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Russia, Ukraine and US start second day of Abu Dhabi peace talks",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
+       "publishedAt": "2026-11-11T16:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ladakh bans protests ahead of polls: Wangchuk warns of fresh agitation against elections",
+     "link": "https://timesofindia.indiatimes.com/india/ladakh-bans-protests-ahead-of-polls-sonam-wangchuk-warns-of-fresh-agitation-against-elections/articleshow/135734705.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T16:42+05:30",
+     "score": 7.83,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135735086,imgsize-98462.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Ladakh bans protests ahead of polls: Wangchuk warns of fresh agitation against elections",
+       "link": "https://timesofindia.indiatimes.com/india/ladakh-bans-protests-ahead-of-polls-sonam-wangchuk-warns-of-fresh-agitation-against-elections/articleshow/135734705.cms",
+       "publishedAt": "2026-11-11T16:42+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Ladakh bans protest ahead of polls",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/elections-authorities-ban-dharnas-protests-in-leh-kargil-ahead-of-polls/articleshow/135734552.cms",
+       "publishedAt": "2026-11-11T16:31+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Ladakh bans protests ahead of polls: Sonam Wangchuk warns of fresh agitation against elections",
+       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd3RObHBZa2xKMFVldmRYRHdWdnNjSnFsT2V5V0ZqMC1kLUlmeUF0Wnp1WjFUal91RmxXNEl3VXdaUHg3cTZKWkZOSUhOWVNianc4elQ1cnJ6VHl4akhNbW9aMTFKZ2w1YnZlVU1PVnBrT1BSTXhySWZXV0dlRUpUQkpkU1h3RzEzZTFHSVg3Q1V4WlpiczNqRkFsYzNLQzc0b0VCdndfYzBqR3A4R1Q2M1pGZ2hiSDM0N3ItR3FyVDVWTWdWb2kzMF8zRl9ldG0xdEtDNmludVAxQkRETTZoLVU2ZlZCOTl4R25jQk5BTU1qd00?oc=5",
+       "publishedAt": "2026-11-11T16:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pak court indicts 8, including grandson of deputy PM Ishaq Dar, in gang rape case",
+     "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-court-frames-charges-against-8-including-grandson-of-deputy-pm-ishaq-dar-in-gang-rape-case/articleshow/135732760.cms",
+     "source": "Times of India",
+     "sources": [
+      "Dawn",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T18:21+05:30",
+     "score": 7.72,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135733372,imgsize-56544.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Pak court indicts 8, including grandson of deputy PM Ishaq Dar, in gang rape case",
+       "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-court-frames-charges-against-8-including-grandson-of-deputy-pm-ishaq-dar-in-gang-rape-case/articleshow/135732760.cms",
+       "publishedAt": "2026-11-11T15:43+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "World News Today Live Updates: Pakistan Deputy PM Ishaq Dar’s grandson among 8 indicted in gang rape case",
+       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZ1Z6dVExWHBsdENoSzE4dWJiWWpTbGZyVE9PR0VqX1FDNHFVa3NlNUkzdThqbzQ2NHJjTS04a0JpZUxJcUdqaVF3a2RrNjNfUzlRc2hVLWYwWjlnNjZNMnJ5SklGUXBCRU14cEJjbnkyZnNGWF9ZbmhzbUJSYkNWMWZsclYtZGl0NXNFeHBEN2s3eUFhTHotTUVBWW1JYzBWQ2MyOTFxcEpIZmlZVTJhWldnYTJ0TnVfWUhtcFlqQjNSWl9TR1NHZDJkejg0OUN1NTZOdzFtUGUzeWpHaThKQ3J0RHQwUjJVc3lOUWFWV202dUNQSC00bHFtT0pzTVA5Ny1NZnRn0gGMAkFVX3lxTFBKalVONjdNU0J3M0hVZ3ZEX3BQWVVTUS1RSTZ5XzJwYkQyY09Cc211bUtMeTJtVnBNMXVYWGcydmtIWmw3YkxJelBudlo5dzBPd0Nib3MwcjgzZUt0SGM2LXExZWh3NjItcGk3RmxUTVhqRmE4RzU5ejRIUV85cm12QVp4OUdOWTlWVjBfNHZkT29kNkpsZnlRREcwLU1pNzYzXzNiMlloYmZWbkx6bnd6emFERHh0VzRvaWZzcnZpY3lUNFZQQ2JMZlo2QjZsSlQ2TjhhZkxmOFFTU216NmZzRTZiMHFFcUpnWVpaOW80V0QxTHRSUUNLNTJrZlY4Wm5CN0RKY01kVmNGWlU?oc=5",
+       "publishedAt": "2026-11-11T18:21+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T17:00+05:30",
    "generatedAt": "2026-11-11T17:23+05:30",
