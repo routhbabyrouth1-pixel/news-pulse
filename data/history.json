@@ -1,6 +1,188 @@
 {
- "updated": "2026-11-11T23:23+05:30",
+ "updated": "2026-11-12T00:23+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T00:00+05:30",
+   "generatedAt": "2026-11-12T00:23+05:30",
+   "feeds": 16,
+   "headlines": 278,
+   "stories": [
+    {
+     "title": "Tata Power appoints Sanjay Banga as CEO & MD-designate; approves ₹11,871-cr pumped storage project",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOWJwZDhKSFE2VnZOcE1ucjJKS0JfS2xxZExfdG9rRHlVLU9ENy15VldQdGxHdmxoWGdCdGNINEtkQktJVWtfQVJYLUZObFlmM1NjNXVPbXcwWXJCSTdmUjNwWnBPaThVQWg3WXBQZGVYUk9SQXQ1SVEzV2NPNERQLVdFdnotU3pKQ216c25hekhkMXM3aVR4MjdibGpVZmRKUTB2SjZpdzVncjFRMzhheGtrSVZLWkFSLUZ3VDlXV2pOZkZ3OHFId2x0TTMyUkk5aU15elZGWEJtSG5jdjB4MDZGSV9rU01STWhlMzVUYmp2d9IB-AFBVV95cUxOTXNlNk9WTmhqX1RaV3RZaDlLWTRiWktpTkM4eHAyNnFZNHdoaVdZbWhkX2tMd1NHZUcwQmMwc0pKUjRyS1FJemFxMk51Z1BjUmg0Y2FTdjFtWV8xQ25hQ2tDczZkMzJPVXh1WmFOQ1JMRTZpbUt4Tk03SlFselkwTEJ2dWtoYnA0cFBmY0ZldFJibHZNWVdyYlF4NlNKbnVPakRPOTdkaWxLbUthSVdwM09acEtXdU9jTnNPS1Rvdll0cERnUW03WHgtUTl4eXVWV2ZSSHZTX1czOUlXblE0d3h4RlkzV1BoTnBnblVwYmIyemlmOWdtOQ?oc=5",
+     "source": "BusinessLine",
+     "sources": [
+      "BusinessLine",
+      "ET EnergyWorld",
+      "Investing.com India",
+      "Livemint",
+      "Moneycontrol.com",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu",
+      "TradingView"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-11T19:46+05:30",
+     "score": 9.4,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BusinessLine",
+       "title": "Tata Power appoints Sanjay Banga as CEO & MD-designate; approves ₹11,871-cr pumped storage project",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOWJwZDhKSFE2VnZOcE1ucjJKS0JfS2xxZExfdG9rRHlVLU9ENy15VldQdGxHdmxoWGdCdGNINEtkQktJVWtfQVJYLUZObFlmM1NjNXVPbXcwWXJCSTdmUjNwWnBPaThVQWg3WXBQZGVYUk9SQXQ1SVEzV2NPNERQLVdFdnotU3pKQ216c25hekhkMXM3aVR4MjdibGpVZmRKUTB2SjZpdzVncjFRMzhheGtrSVZLWkFSLUZ3VDlXV2pOZkZ3OHFId2x0TTMyUkk5aU15elZGWEJtSG5jdjB4MDZGSV9rU01STWhlMzVUYmp2d9IB-AFBVV95cUxOTXNlNk9WTmhqX1RaV3RZaDlLWTRiWktpTkM4eHAyNnFZNHdoaVdZbWhkX2tMd1NHZUcwQmMwc0pKUjRyS1FJemFxMk51Z1BjUmg0Y2FTdjFtWV8xQ25hQ2tDczZkMzJPVXh1WmFOQ1JMRTZpbUt4Tk03SlFselkwTEJ2dWtoYnA0cFBmY0ZldFJibHZNWVdyYlF4NlNKbnVPakRPOTdkaWxLbUthSVdwM09acEtXdU9jTnNPS1Rvdll0cERnUW03WHgtUTl4eXVWV2ZSSHZTX1czOUlXblE0d3h4RlkzV1BoTnBnblVwYmIyemlmOWdtOQ?oc=5",
+       "publishedAt": "2026-11-11T19:46+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "India's Tata Power names Sanjay Banga as CEO, posts Q2 profit jump",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEluQVg2T19WenBnMFNsbzc1bmRESVZCWlZwb3F3Tk9HT3lScFVOQmZkeTB1TVdKY1drYklnX1B6RkdURFpHQlBCTzBrTEhtY0NOXzR1cmFYbU85c2xJYjRoblIxbENsU2RXZk92ejhDTVBWT3JmcTR3Q2YweWN1OEFpSm1QOVZsOGpFWUpOVm9hQUdrOVFHU0t0cHNSV0FsZnpnMkJCeUxzRWJWRFhzY3lzRXBhd21EV0hBUmtQMkp0UQ?oc=5",
+       "publishedAt": "2026-11-11T19:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India simplifies visa norms; categories cut, forms to be 70% leaner",
+     "link": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Bloomberg.com",
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T21:52+05:30",
+     "score": 8.08,
+     "summary": "Tourist visa renamed ‘visitor visa ’, which will have two sub-categories, V-1 and V-2, so that applicants can select a visa suited to the nature and duration of their proposed visit; special provision for subject-matter experts introduced",
+     "image": "https://th-i.thgim.com/public/news/national/565njc/article71690688.ece/alternates/LANDSCAPE_1200/iStock-486918368.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "India simplifies visa norms; categories cut, forms to be 70% leaner",
+       "link": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
+       "publishedAt": "2026-11-11T21:52+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Centre simplifies visa regime: Paperwork cut by 70%, categories reduced from 13 to 9",
+       "link": "https://timesofindia.indiatimes.com/india/centre-simplifies-visa-regime-paperwork-cut-by-70-categories-reduced-from-13-to-9/articleshow/135741142.cms",
+       "publishedAt": "2026-11-11T20:40+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "India simplifies its visa processing facilities",
+       "link": "https://economictimes.indiatimes.com/industry/services/travel/centre-cuts-visa-categories-from-13-to-9-reduces-application-form-fields-by-up-to-70/articleshow/135740791.cms",
+       "publishedAt": "2026-11-11T20:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
+     "link": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "CNN",
+      "NDTV",
+      "News18",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T23:43+05:30",
+     "score": 7.39,
+     "summary": "Moscow announces the veteran diplomat's sudden passing without further details.",
+     "image": "https://c.ndtvimg.com/2025-02/7rvafbc8_alexander-darchiev_625x300_28_February_25.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
+       "link": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
+       "publishedAt": "2026-11-11T23:43+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Russia's Ambassador To US Alexander Darchiev Dies \"Suddenly\" At 66: Moscow",
+       "link": "https://www.ndtv.com/world-news/russias-ambassador-to-us-alexander-darchiev-dies-at-66-12314333#publisher=newsstand",
+       "publishedAt": "2026-11-11T23:31+05:30"
+      },
+      {
+       "source": "News18",
+       "title": "Alexander Darchiev, Russia's Ambassador To US, Dies 'Suddenly' At 66",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTQ3VjV2U3NGV1ZYdWdGVXoxTXJuRVdodm5HallxQXVSYUhFcHZaTV9uVDdZS0ZobVdyRHBJbUc4dVRpV2hHa0ROdHVITFNuOUU3VGwtR1lBenJmTkJfSTF5NlMybWJBZVhCQktQVE5KRWdwSE9SU0ZYdEhmVUduc1R6N2FiX09zOFJYSDFOMFlhWHRwbmExa2dVWDVUSnRYTzdz0gGoAUFVX3lxTE5zbXpta2RZWGttenYtcExjSnVPbFQ2R1hId0d4NUFFWlhnZGFhc0dhM2Y0R1Q0eXhsUkJQeGI1bTBMeVQza0o1bDJNZE1oclRxR0hBWVZBdG9yeE1yUllOSVgwSDJXczZ5Tk9DWGRVWnRySzZiSXFYSU1uaFBGYmpNWUU4anluTTdQYUhmUUpVdF9BVmIwS3ZreVdva2VaOEhGZEtaX1BBcg?oc=5",
+       "publishedAt": "2026-11-11T22:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "2 J&K Special Police Officers On Patrolling Duty Go Missing, Search On",
+     "link": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-on-patrolling-duty-go-missing-search-on-12314416#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "The Indian Express",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T23:42+05:30",
+     "score": 7.39,
+     "summary": "A joint search operation was launched by police and security forces in the area to look for them.",
+     "image": "https://c.ndtvimg.com/2026-11/0k3t90io_rashpal-kumar-jk-spo_625x300_11_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "2 J&K Special Police Officers On Patrolling Duty Go Missing, Search On",
+       "link": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-on-patrolling-duty-go-missing-search-on-12314416#publisher=newsstand",
+       "publishedAt": "2026-11-11T23:42+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Two spl police officers reported missing in J&K's Kishtwar; search op launched",
+       "link": "https://timesofindia.indiatimes.com/india/two-police-officers-reported-missing-in-jks-kishtwar-search-op-launched/articleshow/135744807.cms",
+       "publishedAt": "2026-11-11T22:40+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Two Special Police Officers reported missing in J&K's Kishtwar; search op launched",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdEFibXFoQjZ2R2RMT2w4Mk50RXZSeUFybkxlb3p4UnREUzllUzQzNjdVR05DaUtocm13QXk4bndWYUt2bVJDYWNsN1FPWVBSa0lrQ1JxUVdKS00wU09yNkNtNG1lNllrYUVYMmNUbWIwN2pFX2xjNmdIbE5vMVVyRmpYdE1icnZWNG4yMFUwSVFEMU9RYW9CbHhNVnhBUENUczRYVkR6a3RSWENXbmJNSFVmWlBTc0MydlNWU052d2ZQa2tvN3hkQ1F2OWVkY3lTVWdKNDJR?oc=5",
+       "publishedAt": "2026-11-11T22:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Definitely long term': Ness Wadia on Hardik Pandya's PBKS move",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTFHN09NTElTX3FXd1MzVGNRUnMxalUycE5DNF80ZTVOTkpBUzNLTDRKSkxHM0RtY0Z4TWxFTDVjY1N4SVozQ2dPNDRza0FmaG5UeWJWYnpKazJPcXJuN1lRdWFGMFI0V2tLdUJWRjIwMTVxSEtzZm1jNUVhc1JjOVhHcm1Bd2UwSjU5Mk1JZnRobUJGdzV5VUlnYzA4aU5mNVhwcVk5OA?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "IPL",
+      "Mumbai Indians | Official website",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-11T23:32+05:30",
+     "score": 7.36,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "'Definitely long term': Ness Wadia on Hardik Pandya's PBKS move",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTFHN09NTElTX3FXd1MzVGNRUnMxalUycE5DNF80ZTVOTkpBUzNLTDRKSkxHM0RtY0Z4TWxFTDVjY1N4SVozQ2dPNDRza0FmaG5UeWJWYnpKazJPcXJuN1lRdWFGMFI0V2tLdUJWRjIwMTVxSEtzZm1jNUVhc1JjOVhHcm1Bd2UwSjU5Mk1JZnRobUJGdzV5VUlnYzA4aU5mNVhwcVk5OA?oc=5",
+       "publishedAt": "2026-11-11T23:32+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T23:00+05:30",
    "generatedAt": "2026-11-11T23:23+05:30",
