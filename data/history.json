@@ -1,6 +1,169 @@
 {
- "updated": "2026-11-12T01:26+05:30",
+ "updated": "2026-11-12T03:01+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T03:00+05:30",
+   "generatedAt": "2026-11-12T03:01+05:30",
+   "feeds": 16,
+   "headlines": 217,
+   "stories": [
+    {
+     "title": "Ramayana Box Office Collection Day 8",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkpCM0pJNVBwR2cwdUZMUFJxbUpKTXlfVWM4VkZXdll3N1hKNmw2MUlaVmVwOXNiU3BBNElSOEE1azNqTFd3S014ZHRudVFpajA4ZTV5WUFYRmlwNXRLUmxIYlRuZ3FnWkRZdktJVy05Wk5CTGVIWFZFb0hzdkJpOERDbW81T0hQdHc?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "IMDb",
+      "NDTV",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Indian Express",
+      "The Times of India",
+      "Zee Business"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-12T01:33+05:30",
+     "score": 9.0,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Ramayana Box Office Collection Day 8",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkpCM0pJNVBwR2cwdUZMUFJxbUpKTXlfVWM4VkZXdll3N1hKNmw2MUlaVmVwOXNiU3BBNElSOEE1azNqTFd3S014ZHRudVFpajA4ZTV5WUFYRmlwNXRLUmxIYlRuZ3FnWkRZdktJVy05Wk5CTGVIWFZFb0hzdkJpOERDbW81T0hQdHc?oc=5",
+       "publishedAt": "2026-11-12T01:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
+     "link": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "CNN",
+      "India Today",
+      "NDTV",
+      "News18",
+      "The Daily Beast",
+      "Yahoo"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T23:43+05:30",
+     "score": 7.95,
+     "summary": "Moscow announces the veteran diplomat's sudden passing without further details.",
+     "image": "https://c.ndtvimg.com/2025-02/7rvafbc8_alexander-darchiev_625x300_28_February_25.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
+       "link": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
+       "publishedAt": "2026-11-11T23:43+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Russia's Ambassador To US Alexander Darchiev Dies \"Suddenly\" At 66: Moscow",
+       "link": "https://www.ndtv.com/world-news/russias-ambassador-to-us-alexander-darchiev-dies-at-66-12314333#publisher=newsstand",
+       "publishedAt": "2026-11-11T23:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "2 J&K Special Police Officers On Patrolling Duty Go Missing, Search On",
+     "link": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-on-patrolling-duty-go-missing-search-on-12314416#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "The Earth News",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T23:42+05:30",
+     "score": 6.82,
+     "summary": "A joint search operation was launched by police and security forces in the area to look for them.",
+     "image": "https://c.ndtvimg.com/2026-11/0k3t90io_rashpal-kumar-jk-spo_625x300_11_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "2 J&K Special Police Officers On Patrolling Duty Go Missing, Search On",
+       "link": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-on-patrolling-duty-go-missing-search-on-12314416#publisher=newsstand",
+       "publishedAt": "2026-11-11T23:42+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Two spl police officers reported missing in J&K's Kishtwar; search op launched",
+       "link": "https://timesofindia.indiatimes.com/india/two-police-officers-reported-missing-in-jks-kishtwar-search-op-launched/articleshow/135744807.cms",
+       "publishedAt": "2026-11-11T22:40+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Two Special Police Officers reported missing in J&K's Kishtwar; search op launched",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdEFibXFoQjZ2R2RMT2w4Mk50RXZSeUFybkxlb3p4UnREUzllUzQzNjdVR05DaUtocm13QXk4bndWYUt2bVJDYWNsN1FPWVBSa0lrQ1JxUVdKS00wU09yNkNtNG1lNllrYUVYMmNUbWIwN2pFX2xjNmdIbE5vMVVyRmpYdE1icnZWNG4yMFUwSVFEMU9RYW9CbHhNVnhBUENUczRYVkR6a3RSWENXbmJNSFVmWlBTc0MydlNWU052d2ZQa2tvN3hkQ1F2OWVkY3lTVWdKNDJR?oc=5",
+       "publishedAt": "2026-11-11T22:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'I wasn't in that dressing room': Root reacts to Khawaja's Sandpapergate revelations",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-wasnt-in-that-dressing-room-joe-root-reacts-to-usman-khawajas-fresh-sandpapergate-revelations/articleshow/135742606.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "Cricinfo",
+      "ESPN India",
+      "Sky Sports",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T21:34+05:30",
+     "score": 6.59,
+     "summary": "England captain Joe Root has refused to comment on fresh Sandpapergate allegations raised by Usman Khawaja in his autobiography. Khawaja claims Australia's wider team was involved in the 2018 ball-tampering scandal. Root said he did not know what happened inside the Australian dressing room, while Peter Handscomb also declined to discuss the revelations.",
+     "image": "https://static.toiimg.com/photo/msid-135742870,imgsize-88126.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'I wasn't in that dressing room': Root reacts to Khawaja's Sandpapergate revelations",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-wasnt-in-that-dressing-room-joe-root-reacts-to-usman-khawajas-fresh-sandpapergate-revelations/articleshow/135742606.cms",
+       "publishedAt": "2026-11-11T21:34+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'I wasn't in that dressing room': Joe Root reacts to Usman Khawaja's fresh Sandpapergate revelations",
+       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOam5XejBTNUJmclJtdERHZ2VzQVJnZ1dWX3N2SEZna1ZYVldtdl9BUlkzVDBoVWJwbEVNb0h0MHM0YlkweGJCSFdhQTVuOVY2VnFDU1cxSmZvSTZtclpyMnF4bnJHQ2hDaV8yTk5OMHp4NVp4NmpfWDJiMy1xaWlSVG9NbDNJZWlHazg3RWh2TzBPSG9zSFVvYU5vUGM5WXJma3NQUHZjcWQyUmk2OUVKbktZYmE2ZC12SDF4Z3RXYWZJODhFOXZhZ012eDhwVl9KdkFFWU1ndW1hR0Nxc29GV000M2U0MmcwNkV2V0Y1SThDZWZTVElDLXZHTGJoRXFyX0JUNXBHdzXSAY4CQVVfeXFMTmFoYUJ0VWx4TVJrVGU2Sm1Oa01nV2lKcjJ3LWZyZVhvX3BYVnBFV0wyNzh4a2EtNG5wOTNITzh2QzM2SUVIVURYZzlZYU9SelJ1YXRTLVYxdHB0Z3U4Z3UycjhCVUlwMnBvemRPSEotR2xkZVhiRDBJQl9PaDBnME1QQ1BoQjBBLVYyN19JZHlOTExhTTM2TUtLekR1VlpwQWY0LXFfc2dGZmx5bWNyWnItSzFWYm1OTHUzVXVpSVYyb3RQTnVVMjdvR1kxbFpRZHlzbDdib1doMkdLb1NOSFVBSnhrM21WdFgyRGdFbFdKTmdKdkpzMVYzSEJzUl9CMkVZUVBNUUdjekZxc0JB?oc=5",
+       "publishedAt": "2026-11-11T21:34+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "CGTN",
+      "NDTV",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 4,
+     "publishedAt": "2026-11-12T01:20+05:30",
+     "score": 6.22,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
+       "publishedAt": "2026-11-12T01:20+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T01:00+05:30",
    "generatedAt": "2026-11-12T01:26+05:30",
