@@ -1,6 +1,207 @@
 {
- "updated": "2026-11-11T10:26+05:30",
+ "updated": "2026-11-11T11:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T11:00+05:30",
+   "generatedAt": "2026-11-11T11:26+05:30",
+   "feeds": 16,
+   "headlines": 252,
+   "stories": [
+    {
+     "title": "Today's NYT Strands Hints (and Answer) for Wednesday, November 11, 2026",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzdHM0EwTWJpUEZtdXhIWWZibFVfUkJJdHFQZ2tObUxmbnI5T0pRajN4T0R5YkhPZFViVl9rMVNTdTF1QzBCOUFFTFBIUXB4QVFmaDE5M0ZvMG82LVB2c1A0T1gyenRoUVJ6V29HclZKTDlZRVFmaEJzdXBXQXY0UjFzV1V2bkN6VXFjQzYyZE1IUQ?oc=5",
+     "source": "Lifehacker",
+     "sources": [
+      "Analytics Insight",
+      "Deccan Herald",
+      "Gadget Bridge",
+      "Hindustan Times",
+      "India Today",
+      "Lifehacker",
+      "News18",
+      "Odisha TV",
+      "Parade Magazine",
+      "Syracuse.com",
+      "The Economic Times",
+      "The New York Times"
+     ],
+     "sourceCount": 15,
+     "publishedAt": "2026-11-11T10:30+05:30",
+     "score": 16.03,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Lifehacker",
+       "title": "Today's NYT Strands Hints (and Answer) for Wednesday, November 11, 2026",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzdHM0EwTWJpUEZtdXhIWWZibFVfUkJJdHFQZ2tObUxmbnI5T0pRajN4T0R5YkhPZFViVl9rMVNTdTF1QzBCOUFFTFBIUXB4QVFmaDE5M0ZvMG82LVB2c1A0T1gyenRoUVJ6V29HclZKTDlZRVFmaEJzdXBXQXY0UjFzV1V2bkN6VXFjQzYyZE1IUQ?oc=5",
+       "publishedAt": "2026-11-11T10:30+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 11, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jekg4S1BZeE0wODZMN1hRSmQ4SU9MMWhYaDhULXFJbF9HWTBSSlYxVmZpY3p1TEF3M2NuVjQzdHp2MnhVSlhyREJkSGp3Y2JVWndvTlhqVkEwV0ZGcjd4ZkoxcTVLZ1h0aURLNVNn?oc=5",
+       "publishedAt": "2026-11-11T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Several coaches of Sairang-Kolkata Express train derail at Digaru in Assam",
+     "link": "https://www.thehindu.com/news/national/assam/assam-several-coaches-of-sairang-kolkata-express-train-derails-updates-november-11-2026/article71688223.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "India Today",
+      "Mint",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-11T11:15+05:30",
+     "score": 10.47,
+     "summary": "No injuries reported so far; loco pilot failed to control train’s speed while giving precedence to another train, authorities said",
+     "image": "https://th-i.thgim.com/public/incoming/s7ipyx/article71688240.ece/alternates/LANDSCAPE_1200/assam%20tain%20derailment.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Several coaches of Sairang-Kolkata Express train derail at Digaru in Assam",
+       "link": "https://www.thehindu.com/news/national/assam/assam-several-coaches-of-sairang-kolkata-express-train-derails-updates-november-11-2026/article71688223.ece",
+       "publishedAt": "2026-11-11T11:15+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "5 Coaches, Engine Of Kolkata-Sairang Express Derail In Assam, Rescue Ops On",
+       "link": "https://www.ndtv.com/india-news/several-injured-after-6-coaches-of-kolkata-sairang-express-derail-in-assam-12310632#publisher=newsstand",
+       "publishedAt": "2026-11-11T09:05+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Six coaches of Kolkata-Sairang express derail in Assam; several injured, rescue underway",
+       "link": "https://www.livemint.com/news/india/six-coaches-of-kolkata-sairang-express-derails-in-assam-several-injured-rescue-underway-11794366343133.html",
+       "publishedAt": "2026-11-11T08:42+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Assam: 6 coaches of Kolkata-Sairang Express derail",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/kolkata-sairang-express-derailment-in-assam-six-coaches-go-off-tracks-at-digaru-station-several-passengers-injured/articleshow/135723921.cms",
+       "publishedAt": "2026-11-11T08:37+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Six coaches of Kolkata-Sairang Express derail at Digaru railway station in Assam; rescue ops on",
+       "link": "https://www.hindustantimes.com/india-news/passenger-train-coaches-derailed-at-digaru-railway-station-in-assams-kamrup-injured-death-toll-compensation-101794365637385.html",
+       "publishedAt": "2026-11-11T08:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US' Scott Bessent Moves To Military Base After Iranian Threats: Report",
+     "link": "https://www.ndtv.com/world-news/us-treasury-head-scott-bessent-moves-to-military-base-after-iranian-threats-report-nyt-12311008#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "CNBC",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The Times of India",
+      "The Times of Israel",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T10:10+05:30",
+     "score": 8.09,
+     "summary": "The newspaper reported that US officials have noted that Iran's ability to carry out large-scale attacks in the US and other territories overseas is limited.",
+     "image": "https://c.ndtvimg.com/2026-11/k4hoh2mo_scott-bessent-reuters_625x300_11_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "US' Scott Bessent Moves To Military Base After Iranian Threats: Report",
+       "link": "https://www.ndtv.com/world-news/us-treasury-head-scott-bessent-moves-to-military-base-after-iranian-threats-report-nyt-12311008#publisher=newsstand",
+       "publishedAt": "2026-11-11T10:10+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "US treasury secy Scott Bessent moves to military base after alleged Iranian threats",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-treasury-secretary-scott-bessent-moves-to-military-base-after-alleged-iranian-threats/articleshow/135724620.cms",
+       "publishedAt": "2026-11-11T10:01+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "US Treasury chief Bessent moved to military base after Iranian threats, NYT reports",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5",
+       "publishedAt": "2026-11-11T06:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GTA 6 will technically be playable on Xbox One at launch",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSGVROUVwbzRkandoNlo1Qmh4cmg4Rk56aDNVcGxOZlRhaTVlSFdRVy03YWotNlhhQ1lVU1ZackxQUFZpWXppaEl3Z3N4MjNEUGs4R0RZRWV2X0R5U0NrRzhFVWZjakFRcm1pQWxwcTg5cTlG?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "Digital Foundry",
+      "Mashable",
+      "PlayStation.Blog",
+      "The Economic Times",
+      "The Times of India",
+      "XBOX Wire"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T06:06+05:30",
+     "score": 7.61,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "GTA 6 will technically be playable on Xbox One at launch",
+       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSGVROUVwbzRkandoNlo1Qmh4cmg4Rk56aDNVcGxOZlRhaTVlSFdRVy03YWotNlhhQ1lVU1ZackxQUFZpWXppaEl3Z3N4MjNEUGs4R0RZRWV2X0R5U0NrRzhFVWZjakFRcm1pQWxwcTg5cTlG?oc=5",
+       "publishedAt": "2026-11-11T06:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ex-Acting US Attorney To Probe Nvidia CEO's Affair With Alleged Chinese Spy",
+     "link": "https://www.ndtv.com/world-news/major-us-law-firm-to-probe-nvidia-ceos-affair-with-alleged-china-spy-12310500#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "CNBC",
+      "NDTV",
+      "The Times of India",
+      "Times of India",
+      "WSJ",
+      "Yahoo"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T10:30+05:30",
+     "score": 7.59,
+     "summary": "Kim, who focuses on high-stakes litigation and enforcement, was hired by New York Attorney General Letitia James in 2021 to help investigate accusations of sexual harassment and other questionable behaviour by former governor Andrew Cuomo, who eventually resigned.",
+     "image": "https://c.ndtvimg.com/2026-11/gnmdge24_jensen-huang-alice-meet-again-afp_625x300_10_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Ex-Acting US Attorney To Probe Nvidia CEO's Affair With Alleged Chinese Spy",
+       "link": "https://www.ndtv.com/world-news/major-us-law-firm-to-probe-nvidia-ceos-affair-with-alleged-china-spy-12310500#publisher=newsstand",
+       "publishedAt": "2026-11-11T10:30+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "US commerce secy was sent secret memo on Nvidia CEO’s affair with Chinese spy",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-commerce-secretary-was-sent-secret-memo-on-nvidia-ceos-affair-with-chinese-spy-report/articleshow/135724372.cms",
+       "publishedAt": "2026-11-11T08:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "US commerce secretary was sent secret memo on Nvidia CEO’s affair with Chinese spy: Report",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYlVrNTQ2NUVEMTJtR182ZXpJZ2wyQTdSYWgwTEpSVU1GcE5KVmdCZ1pCbzJYN3JaUnRKT2FpSUVmWDAyQ3dUeUQ1MDZraFVjcWxTV0luRXNVcEttdHJmM1dOa1NIRkRjRS10S04zNVdrRXllYXN3Y0p6NmkxSlB0OXpBd0dSSHg1dzlpT2IyaHppclJHdkZDbUlzU2VQRkZzc21GUWRFSkVwS3JIbHNLMm1kOGY5N2E2OWNnQ3kyM0dncV9xRDFVdFJjWDlobnk4bWR1NWhHTGtyWG4zSnZXM2hXcFRDUEc1aFg2TU11aGM?oc=5",
+       "publishedAt": "2026-11-11T08:56+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T10:00+05:30",
    "generatedAt": "2026-11-11T10:26+05:30",
