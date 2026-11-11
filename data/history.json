@@ -1,6 +1,243 @@
 {
- "updated": "2026-11-11T12:36+05:30",
+ "updated": "2026-11-11T13:50+05:30",
  "hours": [
+  {
+   "hour": "2026-11-11T13:00+05:30",
+   "generatedAt": "2026-11-11T13:50+05:30",
+   "feeds": 16,
+   "headlines": 284,
+   "stories": [
+    {
+     "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
+     "link": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "Mint",
+      "NDTV",
+      "Rediff",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-11T13:10+05:30",
+     "score": 10.64,
+     "summary": "All the passengers who had boarded the aircraft were deboarded, and it was taken to the isolation bay",
+     "image": "https://th-i.thgim.com/public/news/national/3fdnli/article71688703.ece/alternates/LANDSCAPE_1200/Kolkataairport.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
+       "link": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece",
+       "publishedAt": "2026-11-11T13:10+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Hijack threat note found on Air India flight in Kolkata; moved to isolation bay",
+       "link": "https://timesofindia.indiatimes.com/city/kolkata/hijack-threat-note-found-on-air-india-flight-in-kolkata-passengers-deboarded-plane-moved-to-isolation-bay/articleshow/135728515.cms",
+       "publishedAt": "2026-11-11T12:28+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Air India flight to Mumbai moved to isolation bay after hijack threat at Kolkata airport: What we know",
+       "link": "https://www.livemint.com/news/india/air-india-kolkata-mumbai-flight-moved-to-isolation-bay-after-hijack-threat-message-found-on-board-11794379871901.html",
+       "publishedAt": "2026-11-11T12:24+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay",
+       "link": "https://www.hindustantimes.com/india-news/hijack-scare-on-air-india-vistara-flight-to-mumbai-before-takeoff-plane-moved-to-isolation-bay-kolkata-airport-101794378656962.html",
+       "publishedAt": "2026-11-11T12:18+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Air India Flight Issues Hijack Alert Just Before Take-Off At Kolkata Airport",
+       "link": "https://www.ndtv.com/india-news/air-india-flight-issues-hijack-alert-just-before-take-off-at-kolkata-airport-12311460#publisher=newsstand",
+       "publishedAt": "2026-11-11T12:17+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Hijack threat note found on Air India flight in Kolkata; passengers deboarded, plane moved to isolation b",
+       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTGxHcnU0empHZG1wUkswSUVENW1JNVN1ZEJvYktmUjFNZ1pKNEczRktNd1lPRXJ1MXJ2aVQ2aW90czNsclE3c0NERUZWUURMcjd1bUlLZGNNc2o5RnM3b19CeWZnTFpqZy1JeXlOY2tzSlV1a05vZ0lfcWFLNkdrMHVxNDJqbHJLT0dVNmR5aWdrLUJxOE1kZ1dMRzc3ZEJ1WG4yeTZ4RTduVDlabjNiWUh4dlpzQkVRY2xGZ25oNVJ5TV9rQlJJV1VGQlF3cFFfaUNmV0dGb3lSNkVkSF85UU9EU3VqdXdGUHBUYW4wWGhFYmNBM3pyVy1xMlJoa3hmUUdsTFdmd3dmT2Rw?oc=5",
+       "publishedAt": "2026-11-11T12:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Mother Dairy hikes milk prices by  ₹2-4 per litre from November 12",
+     "link": "https://www.hindustantimes.com/india-news/mother-dairy-set-to-hike-prices-by-2-4-per-liter-from-november-12-milk-price-increase-101794379159051.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Inshorts",
+      "Jagran Josh",
+      "Moneycontrol.com",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-11T12:12+05:30",
+     "score": 10.03,
+     "summary": "New prices include ₹76 per litre for full cream, ₹62 for toned and ₹65 for cow milk, adding to household costs amid elevated food inflation.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/_b28354f2-1eeb-11ea-9a0d-a0e38c0c67e3_1794379272450_Vzs5_fc8b7896-9956-4cfd-8017-3b08ac343317_ud1T.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Mother Dairy hikes milk prices by  ₹2-4 per litre from November 12",
+       "link": "https://www.hindustantimes.com/india-news/mother-dairy-set-to-hike-prices-by-2-4-per-liter-from-november-12-milk-price-increase-101794379159051.html",
+       "publishedAt": "2026-11-11T12:12+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Mother Dairy raises milk prices by ₹2-4 per litre, effective November 12",
+       "link": "https://www.thehindu.com/business/mother-dairy-raises-milk-prices-by-2-4-per-litre-effective-november-12/article71688495.ece",
+       "publishedAt": "2026-11-11T11:50+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Mother Dairy To Raise Milk Prices By Rs 2-4 Per Litre From Tomorrow",
+       "link": "https://www.ndtv.com/india-news/mother-dairy-to-raise-milk-prices-by-rs-2-4-per-litre-from-tomorrow-12311357#publisher=newsstand",
+       "publishedAt": "2026-11-11T11:45+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Mother Dairy hikes rate by Rs 2-4 per litre from tomorrow; check prices",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/mother-dairy-milk-gets-costlier-dairy-giant-hikes-rate-by-rs-2-4-per-litre-from-thursday-check-prices/articleshow/135727078.cms",
+       "publishedAt": "2026-11-11T11:14+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Mother Dairy raises milk prices by Rs 2-4 per litre",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTNZY1NkY0tnWFJOcDhrbTBmalAyOU5nSVdNWjZCbkRzT2N5OXNPbmowZEhZdjhYalNkcF9fR1FVZ3Q4WlUwUWRPUzJqeF9icXNNSE9fbW05b3ZoLWt1T1hSNXRfZDlvSnNJQXlyc2E3bUYwR0J6VDgwU240X0hzM1NwVU9qbkZBZk5pUG9NUWlJMmRfVDB5dFBsV1hrcUpsZHVFM2Y1LXXSAa4BQVVfeXFMT1BONENPRXdkdzlGVkF1bGxpclRoV0E0VElDVXZnb1JRWFBiVVlUZGx4aUtuVmZnSkF4YVFrOUpld0U0ZVNTS20xbjB0a1dVOVJ0WUotRXIxdVd5WUpHQ1BHV2xMUUQ1dW9tM09GeXZTSThMWi1oTlNXSG41UFNRVVFyZDlkZzFZcjFWVjhBc2M1MmgyT3lDVG83R2RxRTNCUVB5clM4SjZsTXJYRnN3?oc=5",
+       "publishedAt": "2026-11-11T11:14+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Mother Dairy milk gets costlier: Dairy giant hikes rate by Rs 2-4 per litre from Thursday; check prices",
+       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSEZmdTV3R0Vhd0J6ZnoyRkI1WXprcXZlc29PMWYzNUUyYXhSQU1Tc3U1M1BMZXYyY2wtV2lpUlR6aTNUWTVQX0pDcFM3bG9rcEdPVnF2Y0dzRGpSeDNQc3lvMHdnY3ZmUk1HZUlYTHhQekVPWVR4N1FkSmVLMTlFZmlqWm5sZVR6SXFQZHhBV3VnVzI5Y0NnTjloeGNqNFhwNk1zbDk4X2NUbkRRZGpBRWtnbm95RFFwNHdVbUxZbnNNRnp5QUI5UTRNelpyT2hqcHZoeFpoc2t2N0FodmtHWmxJMUFvbEFqUUtSckdTbkZ4U2VscWRKdmVMc1I3NUNfNERXVk03MHZJYks1dlQ3WV9SUnFwQQ?oc=5",
+       "publishedAt": "2026-11-11T11:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Assam train derailment LIVE updates: Six coaches of Sairang-Kolkata Express train derail",
+     "link": "https://www.thehindu.com/news/national/assam/assam-sairang-kolkata-express-train-coaches-derailment-accident-today-live-updates-november-11-2026/article71688339.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Rediff",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-11T11:54+05:30",
+     "score": 9.43,
+     "summary": "No injuries reported so far; alternate trains arranged to to help passengers reach their destinations",
+     "image": "https://th-i.thgim.com/public/incoming/s7ipyx/article71688240.ece/alternates/LANDSCAPE_1200/assam%20tain%20derailment.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Assam train derailment LIVE updates: Six coaches of Sairang-Kolkata Express train derail",
+       "link": "https://www.thehindu.com/news/national/assam/assam-sairang-kolkata-express-train-coaches-derailment-accident-today-live-updates-november-11-2026/article71688339.ece",
+       "publishedAt": "2026-11-11T11:54+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Six coaches of Kolkata-Sairang express derail in Assam; several injured, rescue underway",
+       "link": "https://www.livemint.com/news/india/six-coaches-of-kolkata-sairang-express-derails-in-assam-several-injured-rescue-underway-11794366343133.html",
+       "publishedAt": "2026-11-11T08:42+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Assam: 6 coaches of Kolkata-Sairang Express derail",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/kolkata-sairang-express-derailment-in-assam-six-coaches-go-off-tracks-at-digaru-station-several-passengers-injured/articleshow/135723921.cms",
+       "publishedAt": "2026-11-11T08:37+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Six coaches of Kolkata-Sairang Express derail at Digaru railway station in Assam; rescue ops on",
+       "link": "https://www.hindustantimes.com/india-news/passenger-train-coaches-derailed-at-digaru-railway-station-in-assams-kamrup-injured-death-toll-compensation-101794365637385.html",
+       "publishedAt": "2026-11-11T08:26+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "5 Coaches, Engine Of Kolkata-Sairang Express Derail In Assam, Rescue Ops On",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDQ5MllaZnZDV19QVUFyN0s1cEwxUzZBRjZ4MS01X1l2Zkt2WTgwaGt6eEQ1MWtTSzFhemlwNTViNUNXNUplOFVCX2ZTbFdZZElKRWI5cTNmMjlQTUJ0Y3ptaFRWQUI5QWdmMm11ZmMwR0ZFUlFJMVRlNGx4c3Y4Wl9wMmN4QzY1c2RFRzZhQkFsR1AybzlvSXp5UHY4cDUxbFVyRVp2YWFwSVJhMXFwOWRGX3ItUQ?oc=5",
+       "publishedAt": "2026-11-11T08:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "80% Of Post-Diwali Pollution In Delhi Caused By Firecrackers: Study",
+     "link": "https://www.ndtv.com/delhi-news/80-of-post-diwali-pollution-in-delhi-caused-by-firecrackers-study-12311381#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Reuters",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-11T12:13+05:30",
+     "score": 8.23,
+     "summary": "Interestingly, vehicular emissions accounted for only 6.9% of PM2.5 during the November 9 assessment window. Secondary inorganic aerosols contributed 5%, while secondary organic aerosols accounted for 4.5%.",
+     "image": "https://c.ndtvimg.com/2026-11/c3i1k06_delhi-pollution-pti_625x300_10_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "80% Of Post-Diwali Pollution In Delhi Caused By Firecrackers: Study",
+       "link": "https://www.ndtv.com/delhi-news/80-of-post-diwali-pollution-in-delhi-caused-by-firecrackers-study-12311381#publisher=newsstand",
+       "publishedAt": "2026-11-11T12:13+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Firecrackers were responsible for 71% of air pollution on Diwali night in Delhi: Study",
+       "link": "https://www.hindustantimes.com/india-news/firecrackers-were-responsible-for-71-of-air-pollution-on-diwali-night-in-delhi-study-101794369666825.html",
+       "publishedAt": "2026-11-11T10:25+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Man who confessed to cutting up his wife with saw in US found guilty of murder",
+     "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMmQzc0RTY1RCSi14SE5ibWtBX0syMDBVZFlKbHBUdXk1Y1dfQ20yZWR6NFN6MkpYY0ZzZWhKTkJzdWg1THBOQWNoSm5KS3FlREFpUDZJT014V3loaDVtdnloNWpEemh5M0pPLXZ6N2h3cmJFTUIzaThrMWVnWVVWb0N0UW9GNlJVcVFzTHgzT2ZhdWxFR2NkSmJIbWhSamwwX1l4QS1HbUNJVm9aY2hydlhNM0RPd0dJYS1PUmdnVzRBZEVzeE9yT3JfbVNWRFJtTFFJdUxad3lVZElsSktOa19sMjg5aUZiOEVrV01JS3VyYTN6VWVsY3RFTDRyNGU1TG5LTnU2N2w5U2kzRERnSGd5QUhPM3PSAZwCQVVfeXFMUGVVZ0xPQWw3STEzYUV5Z2tFdjVCdEVmTm9BTlNndExDdU93NjlSVEtrekZKMGd1c2tXMjd5eWpZYl9DVmxudkcxcUFrQjZnT3dOZjMtaFNMVUJRcThybU1iR1Y4MkpUc2FlWVVTUkNtRkdSc2loYWZqQ2gwUzhWazQ0bGoyUFpYb1FnN1VzdmxuV3BNMjFiSm5QYWZHOEc0RUdEMWttQW9VZE8zd182bHhCYld2ODZ2UDZnN3g2ejhKTzVxQkZMQjJMQTd0TW1MNnNzNDI0N3NObnp0WE9BaGtUV0V3eG4zWk9wM1pJc0gtQ3hIRVFlTjVoNFNkRS1RTVFlN2FTVWVfSFNrb0pacXdyYVBTMDU4VUVkT3I?oc=5",
+     "source": "India Today",
+     "sources": [
+      "CNN",
+      "Courthouse News",
+      "Firstpost",
+      "India Today",
+      "The Indian Express",
+      "ThePrint",
+      "WUSA9"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-11T10:50+05:30",
+     "score": 8.0,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "India Today",
+       "title": "Man who confessed to cutting up his wife with saw in US found guilty of murder",
+       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMmQzc0RTY1RCSi14SE5ibWtBX0syMDBVZFlKbHBUdXk1Y1dfQ20yZWR6NFN6MkpYY0ZzZWhKTkJzdWg1THBOQWNoSm5KS3FlREFpUDZJT014V3loaDVtdnloNWpEemh5M0pPLXZ6N2h3cmJFTUIzaThrMWVnWVVWb0N0UW9GNlJVcVFzTHgzT2ZhdWxFR2NkSmJIbWhSamwwX1l4QS1HbUNJVm9aY2hydlhNM0RPd0dJYS1PUmdnVzRBZEVzeE9yT3JfbVNWRFJtTFFJdUxad3lVZElsSktOa19sMjg5aUZiOEVrV01JS3VyYTN6VWVsY3RFTDRyNGU1TG5LTnU2N2w5U2kzRERnSGd5QUhPM3PSAZwCQVVfeXFMUGVVZ0xPQWw3STEzYUV5Z2tFdjVCdEVmTm9BTlNndExDdU93NjlSVEtrekZKMGd1c2tXMjd5eWpZYl9DVmxudkcxcUFrQjZnT3dOZjMtaFNMVUJRcThybU1iR1Y4MkpUc2FlWVVTUkNtRkdSc2loYWZqQ2gwUzhWazQ0bGoyUFpYb1FnN1VzdmxuV3BNMjFiSm5QYWZHOEc0RUdEMWttQW9VZE8zd182bHhCYld2ODZ2UDZnN3g2ejhKTzVxQkZMQjJMQTd0TW1MNnNzNDI0N3NObnp0WE9BaGtUV0V3eG4zWk9wM1pJc0gtQ3hIRVFlTjVoNFNkRS1RTVFlN2FTVWVfSFNrb0pacXdyYVBTMDU4VUVkT3I?oc=5",
+       "publishedAt": "2026-11-11T10:50+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-11T12:00+05:30",
    "generatedAt": "2026-11-11T12:36+05:30",
