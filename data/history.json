@@ -1,6 +1,216 @@
 {
- "updated": "2026-11-12T21:27+05:30",
+ "updated": "2026-11-12T22:28+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T22:00+05:30",
+   "generatedAt": "2026-11-12T22:28+05:30",
+   "feeds": 16,
+   "headlines": 298,
+   "stories": [
+    {
+     "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Bloomberg.com",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "WSJ"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-12T22:11+05:30",
+     "score": 12.45,
+     "summary": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time…",
+     "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+       "publishedAt": "2026-11-12T22:11+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Colette Kress' 1st message as CEO to Nvidia employees",
+       "link": "https://economictimes.indiatimes.com/tech/technology/lets-will-move-forward-together-colette-kress-first-message-as-ceo-to-nvidia-employees/articleshow/135777046.cms",
+       "publishedAt": "2026-11-12T22:05+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+       "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-12T20:40+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Who Is Colette Kress? Nvidia Finance Chief Is Stand-In For Jensen Huang",
+       "link": "https://www.ndtv.com/world-news/nvidia-interim-ceo-who-is-colette-kress-nvidia-cfo-is-stand-in-for-jensen-huang-12318564#publisher=newsstand",
+       "publishedAt": "2026-11-12T20:23+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
+       "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
+       "publishedAt": "2026-11-12T20:14+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Nvidia CEO Jensen Huang resigns in big blow to AI boom",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVBCdnZvcnN2bm0yWVhLd0Z0WnFjRTVVbkxmYkZhaWQ4RXUwWEhTa1RJUzl5RzdxblpxajdySFdFdnZ4b1o5Vjk5WWRobUlab3R4VUEwUjcyRDZpd1hnemFMUGhnV1BwU21xTElsSTZiOFBCUjhLb1BHNnRKNlVnZ1EyeFNpcTJHN0g5M2wyekxzT252NHlOZzA4MHZyMTRGMkxUTUFEZmF2eGFX0gGzAUFVX3lxTE9Dd2lpQ3hEN1RrRElJaDZpOWNxQVF5UmRMTGQ4YXk4YTkxeVpyWnhILVFBSlo2Y05pNFZWMlU2NjdnanN6SjZmQWtEV0N5YWxoOThiSHJ0NHROemR0VUcwdUJ0ZEVDdmEwV3VmT2JxekZJUXVkYllBQkRfS3N6WUd3QXlzOEZ6OF84ZlB3N19OYi1rSEtpaUZOUktSYWlRdktWVFhZNkYtVVlMbXBwdVBNd01F?oc=5",
+       "publishedAt": "2026-11-12T21:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "Axios",
+      "Bloomberg.com",
+      "CNBC",
+      "FXStreet",
+      "Kitco",
+      "Reuters",
+      "Saxo",
+      "The Times of Israel",
+      "TradingView",
+      "WSJ"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-12T21:58+05:30",
+     "score": 11.1,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
+       "publishedAt": "2026-11-12T21:58+05:30"
+      },
+      {
+       "source": "FXStreet",
+       "title": "Gold drops over 2% as Trump plays down the need for an Iran deal",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMk5yWGFheUh4WUxxYmFaUFUyd29YSnB5SnJvQUd1dnNiNXdyMmRxa3pEOFFydkxlT0RQMUdRUjRacF9hd2lCZzhiYzdwQWNiZ3dMUVJIWUx5Y1JnTThIQjgwLS1JbS03ZE5MODVaSnVyOWY0dnJiSEpSb2h5OVBnOURLWHJSVW5TcWYyRDBTWVJNUnQtZTh4SDByNVY5Mnd2b1VObWVwa2dxN3U4LWc?oc=5",
+       "publishedAt": "2026-11-12T20:55+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Q2 Results 12th Nov Live: HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
+     "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSk1Wd3ZLbWZVd1pXUWczWldsTkp1UUdaNEhCdi1sWUE3NWw0WmpDMHc4MUdDQWZDQzBKLUs0MVZGbW1vckJQWmV5Y1VWVjVrVFEtTGllcTFSdkJvbWx5U3FGZDFJZ1BzYzJiQ1BMb3hMRUtIUUlDbXBqNmcwbFdpX25jUVkybFpWT0xURWNybmZBLUtHcnJUcUp1ZzA2Q2lVWFpZa0xqdlNLek02Y3RqRXJjeGNlNmJMd0ZFeVBzempUejBacEtnZERJWFNfaVpjRmhZNGxqUjZRMkUzWGczaml3LWo4LXV4S0NmX19SQUtUcVZkU21hWVYxa1p2NWRpdkFfSWZ6WVU1MkZKYXhhOWRHc3ZabGF6S0EydlNDalhkYUJZYW5YcG54eUFOaTZkWm9Nak9Eb0N2SWRDRXVkVDJpNmpMMHhxWEZqenkxdXVVNGhvTjhJNVVwMU9yMDRwZTE2LThyWGRsdnPSAfICQVVfeXFMTTUxQTVpS3NvWnlBY2M3eWROYVVxXzBRRWtadzVoYUg5UU5CVUNULWU1SWwxUzRxMzB2bVZFdnBLcXBDR2VaYklMczdGV3Z3R2lBMFJzX0RkRjAwajlLSkJMMmE1SU1Nc0dkQ0xjeHVsVF9YQUhBZlZjT1lScUx4MEctREo4NGkxQlM5dU1GN3NRc3RkUEotS2MwbEQyVDcyeGlFekpaUzVhZzI4UzNJdERya09SbzZXODVGbE1qdU93aUp6TkZTS2VzcVFTcFZwZXkwalFXRFhTVHJLZlF1UV9JRWlaejZuWHRmYnU3VjVZQ3FNbi1EbERkb1lSN3JBUUNwRUdjRVFOMFZOX2VHbEZZRGNLeWVGX0l6bzR1anh2eEJFMnRyYmVwT2JSTUs0MTlKeG0tdERnMjJ0SEFnNGxqSFlNQjRUX0Z4TTZhRnF5ZmFXNXhZOWxRX25pVVVpWVZCd21GdlVkd2FKZThTc3hUZw?oc=5",
+     "source": "BusinessLine",
+     "sources": [
+      "Business Standard",
+      "BusinessLine",
+      "CNBC TV18",
+      "ET EnergyWorld",
+      "Reuters",
+      "Sahi",
+      "The Economic Times",
+      "The Hindu",
+      "Upstox"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-12T19:26+05:30",
+     "score": 9.87,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BusinessLine",
+       "title": "Q2 Results 12th Nov Live: HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
+       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSk1Wd3ZLbWZVd1pXUWczWldsTkp1UUdaNEhCdi1sWUE3NWw0WmpDMHc4MUdDQWZDQzBKLUs0MVZGbW1vckJQWmV5Y1VWVjVrVFEtTGllcTFSdkJvbWx5U3FGZDFJZ1BzYzJiQ1BMb3hMRUtIUUlDbXBqNmcwbFdpX25jUVkybFpWT0xURWNybmZBLUtHcnJUcUp1ZzA2Q2lVWFpZa0xqdlNLek02Y3RqRXJjeGNlNmJMd0ZFeVBzempUejBacEtnZERJWFNfaVpjRmhZNGxqUjZRMkUzWGczaml3LWo4LXV4S0NmX19SQUtUcVZkU21hWVYxa1p2NWRpdkFfSWZ6WVU1MkZKYXhhOWRHc3ZabGF6S0EydlNDalhkYUJZYW5YcG54eUFOaTZkWm9Nak9Eb0N2SWRDRXVkVDJpNmpMMHhxWEZqenkxdXVVNGhvTjhJNVVwMU9yMDRwZTE2LThyWGRsdnPSAfICQVVfeXFMTTUxQTVpS3NvWnlBY2M3eWROYVVxXzBRRWtadzVoYUg5UU5CVUNULWU1SWwxUzRxMzB2bVZFdnBLcXBDR2VaYklMczdGV3Z3R2lBMFJzX0RkRjAwajlLSkJMMmE1SU1Nc0dkQ0xjeHVsVF9YQUhBZlZjT1lScUx4MEctREo4NGkxQlM5dU1GN3NRc3RkUEotS2MwbEQyVDcyeGlFekpaUzVhZzI4UzNJdERya09SbzZXODVGbE1qdU93aUp6TkZTS2VzcVFTcFZwZXkwalFXRFhTVHJLZlF1UV9JRWlaejZuWHRmYnU3VjVZQ3FNbi1EbERkb1lSN3JBUUNwRUdjRVFOMFZOX2VHbEZZRGNLeWVGX0l6bzR1anh2eEJFMnRyYmVwT2JSTUs0MTlKeG0tdERnMjJ0SEFnNGxqSFlNQjRUX0Z4TTZhRnF5ZmFXNXhZOWxRX25pVVVpWVZCd21GdlVkd2FKZThTc3hUZw?oc=5",
+       "publishedAt": "2026-11-12T19:26+05:30"
+      },
+      {
+       "source": "CNBC TV18",
+       "title": "Stocks to Watch for November 13: IRCTC, Oil India, M&M, Ola Electric, Hitachi Energy and more",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEh5cElTLVFfZ1RfZDk2bnFCMGJYR3VST1MxUmYzRkR4NUJXQm9ha3pqbFBoa0VIaWlNVDczb0F2dUNLNTU0QjdXTE1kZnBMTjBMd2tpdms2a3loc2RJc0N3ZXptalIycGNPUks4WmZQdERKV3pTNHQzejRmZ3dRanFhNGNTeExiTTZNQTM2Y2ZnT2d4T09xVHl5b3JkYkU1SFZQbGRQWFI0N0tsdWxNYkFON3N4YkVTSDVaeGNZdnd6RlZwbTdSLTZQbXhfZHYxeVFCVDVR0gHbAUFVX3lxTE9HYWtaWllnbmJxcnZ6MExQUGlOSjE3VzNGcE83Y3lsUWFtM0llcnhBajdEbERpamdpS2dMeExXRVNUX2hLVElOYUhveGxRN2xHLVhMZGY2ek9XNTRudzQwejRQNmI3cXBUQXY5ZThhOG01Z00yZ2NNb0dvNjlfUTZLeHNUaEppNDFsMVZKeDNmYmRiRGFrSWhlc0pJdVl0Z0dNWXJYSHN5RWQwQ0lYS3hLTHc2Q2l4ZWNpTXBPbFktUHZadEVPLVhYVW14RlUwaXRRTU1JeElQdnJJZw?oc=5",
+       "publishedAt": "2026-11-12T17:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump endorses former Apple CEO Tim Cook to replace Jensen Huang as Nvidia CEO: ‘A legend replaces a legend’",
+     "link": "https://www.livemint.com/news/trump-endorses-former-apple-ceo-tim-cook-to-replace-jensen-huang-as-nvidia-ceo-a-legend-replaces-a-legend-11794498668369.html",
+     "source": "Mint",
+     "sources": [
+      "Benzinga",
+      "BigGo Finance",
+      "Fox Business",
+      "Mint",
+      "NDTV",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-12T21:25+05:30",
+     "score": 8.13,
+     "summary": "US President Donald Trump has endorsed former Apple Inc. chief executive Tim Cook as the CEO of Nvidia.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/Untitled_design_-_2026-11-12T213333.784_1794499444795_DCjC_1794499451422_WYhv_32c47056-c746-42ca-96ef-a9186fd54262_2YFR.png",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Trump endorses former Apple CEO Tim Cook to replace Jensen Huang as Nvidia CEO: ‘A legend replaces a legend’",
+       "link": "https://www.livemint.com/news/trump-endorses-former-apple-ceo-tim-cook-to-replace-jensen-huang-as-nvidia-ceo-a-legend-replaces-a-legend-11794498668369.html",
+       "publishedAt": "2026-11-12T21:25+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Legend replaces a legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/legend-replaces-a-legend-trump-wants-tim-cook-to-replace-nvidia-ceo-jensen-huang/articleshow/135775422.cms",
+       "publishedAt": "2026-11-12T21:20+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Legend replaces a Legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang",
+       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOFJ4cTB2X3lGTmhNcGc0enNBUmFhMVdWRGFMTW1oT3RlR2FGdGlLcXExUEw0YVVPYVBoOGN4MHBoTllEZjY4TS1BRUtzOWZPQnJPSkNjdW5GT1Y1TGVQS1JDNlJhVWVadGt4NFdHbzEzRzVfWVZ0Q1pjRnM4WU9zY2RneWhEaExzOGpwSGhkRk5TVlNpZ1ZPdTZaOXo4WVBwZlFBOFhFZHFTYk05ek5aUFlLSGU5NnBqcklKekltNmFZMng4blFZV2JUYmx6Si1qTDFrTjNYT0sxX1VpVEd4YWxIanpWUWFYVlB4Y1lJVTFXWnRoMndfQ0Y1b3ZWMVAxLXB2Vg?oc=5",
+       "publishedAt": "2026-11-12T21:20+05:30"
+      }
+     ]
+    },
+    {
+     "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+     "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Khaleej Times",
+      "NDTV",
+      "Reuters",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T21:53+05:30",
+     "score": 7.65,
+     "summary": "Ministry says a driver lost control of his truck, causing a collision and fire involving 18 vehicles.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+       "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+       "publishedAt": "2026-11-12T21:53+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2R6ZmJGZHpIRGdEbWw3aDBtU0VaemhmSlljY0UzSmtKNjdaVlhHTHRGU2VYUWI5eWUtYmFUakgyX28taFlOR3RIRUFMNnNodHI1VU9NUjlNV09IM3ZPUXhxcUlNS0p6dFg5MnBJMEdEUnQxNXNHS1Yxa2pnVjdkbmhYM1MwS0NTbkp6S1B1bzRaeDMtaHU1TTVyYm9ZOU13WWRDYVdXLW14c1BocXc?oc=5",
+       "publishedAt": "2026-11-12T21:31+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T21:00+05:30",
    "generatedAt": "2026-11-12T21:27+05:30",
