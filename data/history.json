@@ -1,6 +1,211 @@
 {
- "updated": "2026-11-13T03:14+05:30",
+ "updated": "2026-11-13T04:15+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T04:00+05:30",
+   "generatedAt": "2026-11-13T04:15+05:30",
+   "feeds": 16,
+   "headlines": 210,
+   "stories": [
+    {
+     "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+     "link": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "Axios",
+      "BBC News",
+      "Bloomberg.com",
+      "CNBC",
+      "Financial Times",
+      "GSMArena.com",
+      "MarketWatch",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "Reuters",
+      "The Guardian"
+     ],
+     "sourceCount": 14,
+     "publishedAt": "2026-11-13T03:35+05:30",
+     "score": 16.39,
+     "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and two company employees. He will be replaced on an interim basis by Nvidia’s chief financial…",
+     "image": "https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=0bffdc317e7389b79d2db7be06881297",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+       "link": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+       "publishedAt": "2026-11-13T03:35+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Nvidia Ex-CEO Jensen Huang Had Affair With One More Employee: Report",
+       "link": "https://www.ndtv.com/world-news/exclusive-former-nvidia-ceo-huang-had-a-relationship-with-a-second-employee-sources-say-12319696#publisher=newsstand",
+       "publishedAt": "2026-11-13T01:42+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+       "link": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
+       "publishedAt": "2026-11-13T01:15+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Jensen Huang has resigned, what's next for Nvidia?",
+       "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T01:03+05:30"
+      },
+      {
+       "source": "GSMArena.com",
+       "title": "Jensen Huang steps down as Nvidia CEO following reports of two affairs - GSMArena.com news",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmhHNGQzTk1PSy1zR2pmcElOOFVXTUpDMFptY0xBa1pyNXRQbjNXUFpiT2ZQRTVTWEhOWmVyVk81ck5FSGtfZDMyQVdJbWltOVRjX1VXTENqLWM1dzQyWm5aa05Ub0N2OUVMNUMwN0hYYXMwVmctNkx1TkE4ejVQN3ZGWGRKMjNWQS1icGgySTdxc0ViTFpPUnNFM3IxRHNuajEzY2FqcGFBa1pwcFHSAaoBQVVfeXFMTVMweTJObjJlYzVSaGlzRllOUzBNRTNXR2s5emZ2RkxDU3VvdlliazVaX2xVbm5vQlFvQ1BqVTFuQ0hwcmdVMjdGZ0UxdGZha1Y5VFRXRi1RVnJtR1ZMaUVYWWJRTWFYRnE2RGVJTW53Ykg0X3pJVFlLWllzNWRKRGtsQ0tmcTMyUHZWZll6NnZCS21wNTBYOXlhRnJQbkZvRUFRbFpiNm9hQ2c?oc=5",
+       "publishedAt": "2026-11-13T00:19+05:30"
+      },
+      {
+       "source": "MarketWatch",
+       "title": "Stock Market on Nov. 12, 2026: Dow, S&P 500 and Nasdaq end lower after Jensen Huang resigns from Nvidia and bond yields jump",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGNYLThrNnhscF9EMGJ3RmNPb0JGaEhHZkRvZnMyTWJ6NzdyalFOZGJZclFENVktUDNCZ3hLRmNUdmNfank3cm1BeGtYVVlZMXlBZE94aE9pdVk1dmMwd0VwQWNGR20xaG5VWU9CU2JXUlVZQ2lPWGJoQ1NFbmRFZFJzQnpDdi1ZSjlvSnJGblRyU3M2ZWVqODVXbXRYY0RnRi1meXhOX21SSWk3ZDk1SktKU3VLS21tNmc?oc=5",
+       "publishedAt": "2026-11-13T00:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft Outlook outage hits thousands globally, nearly 1.3L users report email issues",
+     "link": "https://timesofindia.indiatimes.com/world/us/microsoft-outlook-outage-hits-thousands-globally-nearly-1-3l-users-report-email-issues/articleshow/135782745.cms",
+     "source": "Times of India",
+     "sources": [
+      "ABC News - Breaking News, Latest News and Videos",
+      "Al Jazeera",
+      "BBC",
+      "Gulf Coast News and Weather",
+      "Hindustan Times",
+      "Mashable",
+      "The Economic Times",
+      "Times of India",
+      "qz.com"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-13T03:38+05:30",
+     "score": 11.4,
+     "summary": "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.",
+     "image": "https://static.toiimg.com/photo/msid-135782749,imgsize-422735.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Microsoft Outlook outage hits thousands globally, nearly 1.3L users report email issues",
+       "link": "https://timesofindia.indiatimes.com/world/us/microsoft-outlook-outage-hits-thousands-globally-nearly-1-3l-users-report-email-issues/articleshow/135782745.cms",
+       "publishedAt": "2026-11-13T03:38+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Microsoft outage hits tens of thousands of users",
+       "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
+       "publishedAt": "2026-11-13T02:33+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft Outlook down today?",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
+       "publishedAt": "2026-11-13T00:37+05:30"
+      },
+      {
+       "source": "Gulf Coast News and Weather",
+       "title": "Microsoft confirms Outlook outage affecting users worldwide",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakR0OVE0MnhhaTR3SXcxZzhNQjIxcldKc1ZKNy1ibVRfd29HdWQ2VXFiOHFCVktLU3d2WlVjSzgtUGJmZUVXTEtxRXhnUkZDWjNwZDNadnNYTlRBVjVKamduanhxNGlfNW5icGI2V3hUSlRTOFo4bUU5RWxudTQ1My0wYWRJQQ?oc=5",
+       "publishedAt": "2026-11-13T00:54+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Microsoft outage: Users report issues with Outlook, Microsoft 365, Store and other apps | Hindustan Times",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd2FObkRuQjFGdTBKVmZfWGRwQlZ5R2R4VVRFaU9uSFgxb3I5Nzd5TG92WWZOSUdiNTE1Ylo5Rzk3NmNCUHV0OWJvNGozVU55bFBkNkdWUmI1TEVtaTdKMEJnc2laaVBOS2JjRzlRV1E1M2ZyNmxOQW9oQ0RkZUJYZFlQOUV1QmZVbHUyTEZhVzRIcmc1QXhYRDJucGZVQ3dzd2pzSVpUbU0xRWxqVUdwcHp6YUY1TzFzbE9UTkZycjVGTE8tNUpOalBtNUZiMnB6TmdQWWlvS2VtbGszZ2llZGFuelFTc2RSRGpv0gHwAUFVX3lxTFBMa1RYbG9RX0hpaklHUGx3dlhCdllpVUVrSklMX2lMSmhUNWtOeGVIY3RRTXBBM1N6ek9DcGNDZW1pUWFlck5LYldhTzNUM1E0QnJSd21kTmsxampOSGg2Z2otT1RfOXZYeE5SOXVkREpYNWk0OHhpbGpaaF9UYVZCcDc1dHFHcmFnVzR3UGNMdHR4Y3VCOG5yT0dDN3llQjhkcHBubTF0VUI3WTFKcVh6UkozNnBkVHNjcS0wamdqLVV0TXJZRTFMRzNpVDhraFAzY2FnenY5WnFKNVY2emdmRGxFM1FSYkUxNkc4Z19ROQ?oc=5",
+       "publishedAt": "2026-11-12T23:49+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India records 38% drop in TB mortality since 2015: WHO report",
+     "link": "https://www.thehindu.com/news/national/india-records-38-drop-in-tb-mortality-since-2015-who-report/article71695039.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Devdiscourse",
+      "Mint",
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express",
+      "World Health Organization (WHO)"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T23:20+05:30",
+     "score": 6.22,
+     "summary": "World Health Organization’s Global Tuberculosis Report 2026 showed a total of 1.13 million people died from tuberculosis last year",
+     "image": "https://th-i.thgim.com/public/incoming/llwelu/article71695179.ece/alternates/LANDSCAPE_1200/iStock-955514488.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "India records 38% drop in TB mortality since 2015: WHO report",
+       "link": "https://www.thehindu.com/news/national/india-records-38-drop-in-tb-mortality-since-2015-who-report/article71695039.ece",
+       "publishedAt": "2026-11-12T23:20+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "India’s TB deaths fall 38% since 2015, outpacing global decline: WHO report",
+       "link": "https://www.livemint.com/news/india/tb-deaths-fall-patients-treatment-drug-health-testing-vulnerable-populations-11794499787524.html",
+       "publishedAt": "2026-11-12T22:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘I can have dinner with Modi and laugh’: Congress’s Sam Pitroda praises PM",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFVTbl9OYzdNWk4wTEpGSXJLd0hvYmhFLS0ycFM1X2dUUjhycmdtakktZlhrNnUwcU53Ym5RZTNOS2JDa2RtNzhOcmFHdFQ2MzJWQS1ndVZpQWt6Yjh1enFSQkxMX29jNkNNRWxTMXd3U0IyMTROTVp0eW1kOU1hdlJxZ1Z3OE1IOTQ0cUdyazdjUlc0QzRqNGtpdzZyMVQ5NVhR0gGqAUFVX3lxTE5IVF9iTThrQ040LXE2MTcyWEtEMFVzWjRvNkRwWlo4Ul80SGd2Q2FBcE1DbXlyamRaTTFvNEdYTnZCeDhmY1lZRlU5Z3ExNnQ0QTktak9Fd0lENnVnNWdsQm12bEQxUFJWLUx4UnIyMDg1VEtxTGNOYVo0QnRFOG5LaW5pVjZTMXY0d1ZHaHpCeC1WZEE1dGplUVJjeWg4eWFSMm5PSmRibkp3?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "ThePrint",
+      "tennews.in"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T03:20+05:30",
+     "score": 5.91,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "‘I can have dinner with Modi and laugh’: Congress’s Sam Pitroda praises PM",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFVTbl9OYzdNWk4wTEpGSXJLd0hvYmhFLS0ycFM1X2dUUjhycmdtakktZlhrNnUwcU53Ym5RZTNOS2JDa2RtNzhOcmFHdFQ2MzJWQS1ndVZpQWt6Yjh1enFSQkxMX29jNkNNRWxTMXd3U0IyMTROTVp0eW1kOU1hdlJxZ1Z3OE1IOTQ0cUdyazdjUlc0QzRqNGtpdzZyMVQ5NVhR0gGqAUFVX3lxTE5IVF9iTThrQ040LXE2MTcyWEtEMFVzWjRvNkRwWlo4Ul80SGd2Q2FBcE1DbXlyamRaTTFvNEdYTnZCeDhmY1lZRlU5Z3ExNnQ0QTktak9Fd0lENnVnNWdsQm12bEQxUFJWLUx4UnIyMDg1VEtxTGNOYVo0QnRFOG5LaW5pVjZTMXY0d1ZHaHpCeC1WZEE1dGplUVJjeWg4eWFSMm5PSmRibkp3?oc=5",
+       "publishedAt": "2026-11-13T03:20+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Today’s NYT Strands Hints, Spangram and Answers for Friday, Nov. 13, #985",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVdNTU1IYkZYSlgwWlJ1czg4SVM3MjlfazduLVRXWk5FTzE5VUpQNEo4SzIxcFM0dUdCMVNsQzc5c3lJRkdqaUY5NUV4NUgtQkdGenVNT0ptd012NWdpMEZWVlBINWVTSUl5Z0lYSy11cFVUR212b1BfVnRrUk5IWkpMNG5FdEthV0ZVN1BJT0xDbV9ybVE?oc=5",
+     "source": "CNET",
+     "sources": [
+      "CNET",
+      "Insider Gaming",
+      "Parade Magazine",
+      "TechRadar",
+      "The New York Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T02:30+05:30",
+     "score": 5.9,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "CNET",
+       "title": "Today’s NYT Strands Hints, Spangram and Answers for Friday, Nov. 13, #985",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVdNTU1IYkZYSlgwWlJ1czg4SVM3MjlfazduLVRXWk5FTzE5VUpQNEo4SzIxcFM0dUdCMVNsQzc5c3lJRkdqaUY5NUV4NUgtQkdGenVNT0ptd012NWdpMEZWVlBINWVTSUl5Z0lYSy11cFVUR212b1BfVnRrUk5IWkpMNG5FdEthV0ZVN1BJT0xDbV9ybVE?oc=5",
+       "publishedAt": "2026-11-13T02:30+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T03:00+05:30",
    "generatedAt": "2026-11-13T03:14+05:30",
