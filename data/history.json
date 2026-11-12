@@ -1,6 +1,209 @@
 {
- "updated": "2026-11-13T01:22+05:30",
+ "updated": "2026-11-13T02:18+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T02:00+05:30",
+   "generatedAt": "2026-11-13T02:18+05:30",
+   "feeds": 16,
+   "headlines": 231,
+   "stories": [
+    {
+     "title": "Nvidia Ex-CEO Jensen Huang Had Affair With One More Employee: Report",
+     "link": "https://www.ndtv.com/world-news/exclusive-former-nvidia-ceo-huang-had-a-relationship-with-a-second-employee-sources-say-12319696#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC News",
+      "Bloomberg.com",
+      "CNBC",
+      "Inc.com",
+      "Investing.com",
+      "MarketWatch",
+      "NDTV",
+      "Reuters",
+      "The Economic Times",
+      "WSJ",
+      "Yahoo Finance"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-13T02:06+05:30",
+     "score": 12.72,
+     "summary": "Ousted Nvidia CEO Jensen Huang had an intimate relationship with a second employee, according to two people familiar with the matter, Reuters has learned.",
+     "image": "https://c.ndtvimg.com/2026-11/5f45ka8o_jensen-huang-photo-appti_625x300_10_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Nvidia Ex-CEO Jensen Huang Had Affair With One More Employee: Report",
+       "link": "https://www.ndtv.com/world-news/exclusive-former-nvidia-ceo-huang-had-a-relationship-with-a-second-employee-sources-say-12319696#publisher=newsstand",
+       "publishedAt": "2026-11-13T01:42+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Jensen Huang has resigned, what's next for Nvidia?",
+       "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T01:03+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Nvidia stock after Jensen exit: Crash or rally?",
+       "link": "https://economictimes.indiatimes.com/news/international/us/nvidia-stock-falls-after-jensen-huang-resigns-will-nvda-crash-further-or-rebound-heres-what-happened-to-intel-hp-mcdonalds-and-wynn-after-their-ceos-left/articleshow/135773534.cms",
+       "publishedAt": "2026-11-12T20:46+05:30"
+      },
+      {
+       "source": "MarketWatch",
+       "title": "Stock Market Today: Dow, S&P 500 and Nasdaq turn lower; bond yields jump; Jensen Huang resigns from Nvidia — live updates",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGNYLThrNnhscF9EMGJ3RmNPb0JGaEhHZkRvZnMyTWJ6NzdyalFOZGJZclFENVktUDNCZ3hLRmNUdmNfank3cm1BeGtYVVlZMXlBZE94aE9pdVk1dmMwd0VwQWNGR20xaG5VWU9CU2JXUlVZQ2lPWGJoQ1NFbmRFZFJzQnpDdi1ZSjlvSnJGblRyU3M2ZWVqODVXbXRYY0RnRi1meXhOX21SSWk3ZDk1SktKU3VLS21tNmc?oc=5",
+       "publishedAt": "2026-11-13T02:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Mookuthi Amman 2 Box Office Collection Day 7",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Bollywood Bubble",
+      "Business Standard",
+      "Deccan Chronicle",
+      "NDTV",
+      "Outlook Luxe",
+      "Rediff",
+      "Sacnilk",
+      "Telegraph India",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-12T22:34+05:30",
+     "score": 11.88,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Mookuthi Amman 2 Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
+       "publishedAt": "2026-11-12T22:34+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 Box Office Collection Day 7 LIVE: Ranbir Kapoor film crosses Rs 1000 cr worldwide, inches away from surpassing Dhurandhar 2",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz0gH7AUFVX3lxTE1jak13ODctTWJQNEd6VFdHam9PWFh0WjFwalJaazhiOS1qUmF1UXZOd0MzTXRSbldnOFpTMUowSk9zRlZha01LV0pqWFR2cDNRQWczeHdpZ285elFhYVJLejZsSkhWbGNOVGtrQklFYnhFUGdPSWhmQmt3SFROU2xWaW1PYy16SXNHeFNFdmpoV1Vyc3ZLb2pDa2Jmd0pKbFdmNjh2eTZ5YXpnVThFU21lcW1EYUV3TnhLT2xFQ1M4OGg5WE91QzBSZ2hGb2I5d2NOd2VvVkJ2VEdoT2l5aFh3bkNDeElSTG9FVlB4aEYyRUNoRTNYX2xnQ0Zz?oc=5",
+       "publishedAt": "2026-11-12T22:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft Outlook down today?",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "9News",
+      "ABC10",
+      "Breakingthenews.net",
+      "GV Wire",
+      "Mashable",
+      "The Economic Times",
+      "Variety"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T00:37+05:30",
+     "score": 9.22,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft Outlook down today?",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
+       "publishedAt": "2026-11-13T00:37+05:30"
+      },
+      {
+       "source": "9News",
+       "title": "Is Microsoft Outlook down? Thousands report issues with platform",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM3YwQ1RxQWRkUjZ1VF9CZ0VmTkxnXzhhMFdJaHlCQ2ZzeThYYXVOdW5ZWC1HeUpTUXp4R3ZnVnY4bHFfb3pGVWRESEhqYU9zTnUyQ1ZNdU1faVBJVl9obUhZa3BaTVFaQU5rbDE4a3F2NG1USEM0c0NfQTFYQmdxYy1WQUYyRGcxZkpWUXFUSmpNdWh5SHFiNnc2TzlkdHBxOExqWFVja21scEhqMHdKM3RnZ3J1dkwyaDA5bU9TWV91X0VIaHJCOERjbnRLSzd6QnRqUUdn?oc=5",
+       "publishedAt": "2026-11-12T23:50+05:30"
+      },
+      {
+       "source": "Breakingthenews.net",
+       "title": "Microsoft users experiencing Outlook outage",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWhwSjJ0UE9hTThmeDJzb0RZVjlnbmszay10a1Nfb2ZEWm9BWmtuZWRpVk1EcHVQTk5FUnY0d3RkNjE0SVVMRkRjdWNZWTFCaFZjVTh0OElnSTFPZEFWb0RIWGpUN01tbjVMYzdsRmg1XzRZLXd5Z3YteXJ3WVhNWGZTS2FRNFE2VnBOZU5YS2dvUQ?oc=5",
+       "publishedAt": "2026-11-12T23:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Indian nationals among 14 killed in deadly multi-vehicle crash in UAE's Fujairah",
+     "link": "https://timesofindia.indiatimes.com/world/middle-east/indian-nationals-among-14-killed-in-deadly-multi-vehicle-crash-in-uaes-fujairah/articleshow/135780631.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "Gulf News",
+      "Reuters",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T00:00+05:30",
+     "score": 8.12,
+     "summary": "Officials say a driver lost control of his truck, causing a collision and fire involving 23 vehicles.",
+     "image": "https://static.toiimg.com/photo/msid-135780728,imgsize-619250.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Indian nationals among 14 killed in deadly multi-vehicle crash in UAE's Fujairah",
+       "link": "https://timesofindia.indiatimes.com/world/middle-east/indian-nationals-among-14-killed-in-deadly-multi-vehicle-crash-in-uaes-fujairah/articleshow/135780631.cms",
+       "publishedAt": "2026-11-13T00:00+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+       "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+       "publishedAt": "2026-11-12T21:53+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Indian nationals among 14 killed in deadly multi-vehicle crash in UAE's Fujairah",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSC1vVVQzbERPQzBpMkRJeWM2SVNvZGFPZFE1RTdPVU5WcnJYV1psaFVsVHRiaVE3dmRMRWh0RHFtTXltdkdZdU83QlJjaExDYXRacWlydnI1cUUwY1BsdHdpaDdIa1JBVWdBVWF0aWdzaGkySGhHSmk3dFJYUG5Wd0xraFdrYUc1TUYtQ0Q3b1RwSkxqdmM3Z0VXSFpnSmFWY3hhOWxkY29SanJCR1JlRnZpcE83cTFwYXVqOE5tY3FZSFM5ZkZ5dFQ2SWw1YlVuaU93MmZtQ2h3OVBLa2xnV1VOeldTSW5RTFVtZ2gzV1E?oc=5",
+       "publishedAt": "2026-11-13T00:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Foreign troops in Ukraine unacceptable': Putin's blunt message to Trump's envoys",
+     "link": "https://timesofindia.indiatimes.com/world/europe/foreign-troops-in-ukraine-unacceptable-putins-blunt-message-during-meeting-with-trumps-envoys/articleshow/135776301.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "DW.com",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T21:41+05:30",
+     "score": 7.73,
+     "summary": "Russian President Vladimir Putin declared that foreign military presence in Ukraine poses a direct threat to Russia's security, making them legitimate targets. His remarks were made during discussions with US officials like Steve Witkoff and Jared Kushner. He raised alarms about possible European troop involvement following a peace settlement in Ukraine.",
+     "image": "https://static.toiimg.com/photo/msid-135776358,imgsize-75490.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Foreign troops in Ukraine unacceptable': Putin's blunt message to Trump's envoys",
+       "link": "https://timesofindia.indiatimes.com/world/europe/foreign-troops-in-ukraine-unacceptable-putins-blunt-message-during-meeting-with-trumps-envoys/articleshow/135776301.cms",
+       "publishedAt": "2026-11-12T21:41+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Foreign troops in Ukraine unacceptable': Putin's blunt message during meeting with Trump's envoys",
+       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMUM4QTBSNGNhZ2lNN0hjS2Q0Z0E3bkNRNWNvUWVRZ3F0WWdvdHlQMU5mNTVhREVBNjE5RVEwMDhpdkN5Nl9acmpEeWZ0dG5VRVdfUnMzUWR4anFKb2tCWS1QcjVVdklSbWx5ckE5QU56cV91WFRmOTRFSXB1SmxRLVhyZWhNdGxLREt4OFRwczFrTEhqY2h6ZHpvNkdOY0l6aktpNHlEOExWTFlrb1k4TmZTUFl0YV9XZmM3OWxnN1Zla18tbWRpLUZvV2ozSmM0MWkxcTJJcGtjelE4T05zbGhUdjFuWXl0WDdSYU5td3hzalEwMHNYT0doVmw?oc=5",
+       "publishedAt": "2026-11-12T21:41+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T01:00+05:30",
    "generatedAt": "2026-11-13T01:22+05:30",
