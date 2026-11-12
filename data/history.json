@@ -1,6 +1,193 @@
 {
- "updated": "2026-11-12T10:27+05:30",
+ "updated": "2026-11-12T11:28+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T11:00+05:30",
+   "generatedAt": "2026-11-12T11:28+05:30",
+   "feeds": 16,
+   "headlines": 225,
+   "stories": [
+    {
+     "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "Bloomberg.com",
+      "CNBC",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The New York Times",
+      "Times of India"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-12T11:13+05:30",
+     "score": 12.46,
+     "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time…",
+     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+       "publishedAt": "2026-11-12T11:13+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Who Is Kimberly Powell, Nvidia Executive Who Had Affair With CEO Jensen Huang?",
+       "link": "https://www.ndtv.com/world-news/who-is-kimberly-powell-nvidia-executive-who-had-affair-with-ceo-jensen-huang-12314956#publisher=newsstand",
+       "publishedAt": "2026-11-12T10:34+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Who Is Kimberly Powell, the Nvidia executive linked to CEO Jensen Huang",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/who-is-kimberly-powell-the-nvidia-executive-that-ceo-jensen-huang-is-reported-to-be-having-another-affair-with/articleshow/135755198.cms",
+       "publishedAt": "2026-11-12T09:55+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Elon Musk offers to hire Nvidia CEO Jensen Huang",
+       "link": "https://economictimes.indiatimes.com/news/new-updates/musk-wants-to-hire-jensen-huang-elon-musk-says-he-would-be-honoured-to-recruit-nvidia-ceo-if-board-decides-to-replace-him/articleshow/135753303.cms",
+       "publishedAt": "2026-11-12T08:50+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+       "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
+       "publishedAt": "2026-11-12T06:13+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Nvidia preparing to oust CEO Jensen Huang: U.S. media",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXdFOU1qZ1djZTNTVjVxZWxCVVM5Y2FQNVpMQVdKQmhnUTZybGRUSTAtdTF0eHZPSXh5cVZJTzZPZE16SlN0aktKNURmYkZ0LUo3aEYxS2FkWXZWM2owNGZKUU9ud3NkTl93cXBPaDE0ZzZhUGZTS240TGlPTmFYNENwanhuTmNUQW5LN0JkUUhUek1TTDZlXzdkaGdjT1FXLXVBM0JBWC1mTWNnNmRBdTZOczTSAbsBQVVfeXFMUFBWbnRRbmJKZC1tTXM3UENiUXdyQ2hBRW9qYnBOU3JGUk5NQkJDTjBxR2ZVVlMwMENHY18tTjIxbkE1cVgwYUM3ZnpLbm82THFaLTlNSGEtZFNiZWRZbmk5bXZEOTdLLXdfeVJTRjFsNl9SUDQ4R0o3eUwtZV9BTnAtSWZDenIzQVlnTVhIQkxPTWJfM29RcDhGNmxQOHFCaUpJQmU3OGNmWGM0NWNfR1VjVWxLZXRHMlB4aw?oc=5",
+       "publishedAt": "2026-11-12T06:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Taurus Horoscope Today: November 12, 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NOEhWVTJpc3Bhc3FCVGxtYUFMUVBYUlJqeUR4enNoMjQyVXVsXzJYS0RNaVMxdk5ZVFcxNFFPeFpoSFIzTVZfU1I1SlZ1eVk3dHZKeFJlcXRRWUVhZlNMQkY4cWdkRHlKYU9PX1dkT3ZESDkwUnU4?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "AOL.com",
+      "Deccan Herald",
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Syracuse.com",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "Yahoo"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-12T05:50+05:30",
+     "score": 10.25,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Taurus Horoscope Today: November 12, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NOEhWVTJpc3Bhc3FCVGxtYUFMUVBYUlJqeUR4enNoMjQyVXVsXzJYS0RNaVMxdk5ZVFcxNFFPeFpoSFIzTVZfU1I1SlZ1eVk3dHZKeFJlcXRRWUVhZlNMQkY4cWdkRHlKYU9PX1dkT3ZESDkwUnU4?oc=5",
+       "publishedAt": "2026-11-12T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Two missing policemen found dead in J&K’s Kishtwar",
+     "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-spos-go-missing-in-jks-kishtwar-massive-search-operation-launched/article71692139.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Herald",
+      "India Today",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T09:54+05:30",
+     "score": 8.24,
+     "summary": "The deaths of two missing SPOs came a day after terrorists opened fire on CRPF in south Kashmir’s Kulgam and left three personnel injured",
+     "image": "https://th-i.thgim.com/public/incoming/olmrd6/article71692265.ece/alternates/LANDSCAPE_1200/iStock-1224339813.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Two missing policemen found dead in J&K’s Kishtwar",
+       "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-spos-go-missing-in-jks-kishtwar-massive-search-operation-launched/article71692139.ece",
+       "publishedAt": "2026-11-12T09:54+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Bullet-riddled bodies of 2 missing cops found in J&K's Kishtwar",
+       "link": "https://timesofindia.indiatimes.com/india/jk-bullet-riddled-bodies-of-2-missing-spos-found-in-kishtwar-weapons-missing/articleshow/135754703.cms",
+       "publishedAt": "2026-11-12T09:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "\"An Honour\": Elon Musk On Hiring Jensen Huang As His Future At Nvidia Hangs In Limbo",
+     "link": "https://www.ndtv.com/world-news/an-honour-elon-musk-on-hiring-jensen-huang-as-his-future-at-nvidia-hangs-in-limbo-12315256#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Bloomberg.com",
+      "Business Insider",
+      "CNBC",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The New York Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T09:51+05:30",
+     "score": 7.48,
+     "summary": "Nvidia's board is reportedly preparing to oust Huang, as the chip giant's chief faces new accusations of infidelity after revelations that he had an affair with a woman accused of spying for China.",
+     "image": "https://c.ndtvimg.com/2026-11/med4guuc_elon-musk-jensen-hunag_625x300_12_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "\"An Honour\": Elon Musk On Hiring Jensen Huang As His Future At Nvidia Hangs In Limbo",
+       "link": "https://www.ndtv.com/world-news/an-honour-elon-musk-on-hiring-jensen-huang-as-his-future-at-nvidia-hangs-in-limbo-12315256#publisher=newsstand",
+       "publishedAt": "2026-11-12T09:51+05:30"
+      },
+      {
+       "source": "Business Insider",
+       "title": "Elon Musk says he would hire Jensen Huang",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWlwd0MtRlZrZkpjTGdqVDItLW5RNTVDMGsxOGFRc3dtaUFpd0tTZlB1bTZkUzFEeXZTX1ljVjQwNHVpdE5PT1dkSk53VHUwbmFzMms3eGZGWnV6SDhoNjUyWEJ0N25aMUVPRjhpN3p4eUcybjNwTnBTNDdPVXpRR2RxeEJRcHhVRVk0Y0xmZ1hWT2wtRU9VTw?oc=5",
+       "publishedAt": "2026-11-12T07:58+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Definitely long term': Ness Wadia on Hardik Pandya's acquisition",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUEpQWkZoYlVleDhUUkhndkJCVnp0NkpNR3hjTngteHRZdHhTZ01sMzJYM3RKSy1pTXladzZoU3lmN05YMzVaVWJrMTdEWUFHeGRseVRpemN6aEQ1Zk9ZVjhSOGNCSlRYTkJMeHNLZTBJbmJMZW43VldNMUF4UGpvV2pmcEl1TGE0QXlkeGdoVXRpWmVxSTJ2NmhaUnRvZXF1T2lXWmFISHJCemh1WldNSnFBN1BPX2NOWmd0OVBWaW1qUXQ3X19RZkRyYnhjcmlON1NiZzR1VkNVQQ?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "IPL",
+      "Rediff",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-12T09:37+05:30",
+     "score": 7.19,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "'Definitely long term': Ness Wadia on Hardik Pandya's acquisition",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUEpQWkZoYlVleDhUUkhndkJCVnp0NkpNR3hjTngteHRZdHhTZ01sMzJYM3RKSy1pTXladzZoU3lmN05YMzVaVWJrMTdEWUFHeGRseVRpemN6aEQ1Zk9ZVjhSOGNCSlRYTkJMeHNLZTBJbmJMZW43VldNMUF4UGpvV2pmcEl1TGE0QXlkeGdoVXRpWmVxSTJ2NmhaUnRvZXF1T2lXWmFISHJCemh1WldNSnFBN1BPX2NOWmd0OVBWaW1qUXQ3X19RZkRyYnhjcmlON1NiZzR1VkNVQQ?oc=5",
+       "publishedAt": "2026-11-12T09:37+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T10:00+05:30",
    "generatedAt": "2026-11-12T10:27+05:30",
