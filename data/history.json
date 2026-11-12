@@ -1,6 +1,181 @@
 {
- "updated": "2026-11-12T05:16+05:30",
+ "updated": "2026-11-12T06:35+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T06:00+05:30",
+   "generatedAt": "2026-11-12T06:35+05:30",
+   "feeds": 16,
+   "headlines": 122,
+   "stories": [
+    {
+     "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
+     "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrat-scott-colom-becomes-mississippis-first-black-senator-since-1874/articleshow/135751018.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "CNBC",
+      "CNN",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T04:56+05:30",
+     "score": 8.23,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135751047,imgsize-177548.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrat-scott-colom-becomes-mississippis-first-black-senator-since-1874/articleshow/135751018.cms",
+       "publishedAt": "2026-11-12T04:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
+       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORTRJVklDeGxDT3drLU5BTkNrelBSMERQZkFqejFNVVNRQ2RiRC1rZWlsR05WeEpKZmpScnc2RlRRTzI1S1Y3Q3NxamhVeFpIQzU0aVo0M3NaV0FTbkh0ZHpjejNud3BfN01OVGFDZlFiZTh0dlV5YXU2WkMzQm9sNE0tRlRqb1lqd2NwSnROaGY0RGJhQ1JaVDBBaHB0TC1tUHdWSHV5TW01Uml0aFh4dEhzTzVkZUdfeHczYVBaYXprZUZFdVZZSmxxSXhlVDRZRmMwamo3bFRkSTZtbnhIR053M2FIRV9udkU3elVwNlNXZUVBaXQ3aHFnX1p5MzQ?oc=5",
+       "publishedAt": "2026-11-12T04:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'America did not start this': Trump defends war with Iran",
+     "link": "https://timesofindia.indiatimes.com/world/us/america-did-not-start-this-trump-defends-war-with-iran/articleshow/135748401.cms",
+     "source": "Times of India",
+     "sources": [
+      "CBS News",
+      "NDTV",
+      "The Hill",
+      "The Times of India",
+      "The Times of Israel",
+      "Times of India",
+      "Yahoo"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-12T02:17+05:30",
+     "score": 7.33,
+     "summary": "Speaking during the 2026 National Veterans Day Ceremony at Arlington National Cemetery, Trump said the United States had fought back against Iran and claimed that American military operations had significantly damaged the country's capabilities.",
+     "image": "https://static.toiimg.com/photo/msid-135748407,imgsize-57416.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'America did not start this': Trump defends war with Iran",
+       "link": "https://timesofindia.indiatimes.com/world/us/america-did-not-start-this-trump-defends-war-with-iran/articleshow/135748401.cms",
+       "publishedAt": "2026-11-12T02:17+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"America Did Not Start Iran War\": Trump Says Wants To Have \"Total Victory\"",
+       "link": "https://www.ndtv.com/world-news/america-did-not-start-iran-war-donald-trump-says-wants-to-have-total-victory-12314610#publisher=newsstand",
+       "publishedAt": "2026-11-12T01:58+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'America did not start this': Trump defends war with Iran",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRDhyUnZHQWFxNWpWTnRDb0h1U08tOEcxYkx5UF9FUHJMemxENmd6bGpXdDQ0MzM4QTFSR2xNNUN4QW43NzExaVVrb1NrTFZyWGFpNmNENzIxLXIyQTdydHRJWUZMM1VyVzNzMVJ4NlNQRDZwZUlaV2s5V0JnbDFhU0FxQUs0emttczJZZmhLSzB1UTN3VjBWN20tQjZsalBkb0hzZmY1YmE1djBQckdnSTM5a29wSmZ0Wkc4ZHRtUnVxaGs?oc=5",
+       "publishedAt": "2026-11-12T02:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Saudi Intercepts Houthi Missiles, Drones, Group Denies Targeting Mecca",
+     "link": "https://www.ndtv.com/world-news/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca-12314643#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "CGTN",
+      "India Today",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The Times of Israel"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T02:30+05:30",
+     "score": 6.82,
+     "summary": "The Saudi-led military coalition fighting the Yemeni group said it had intercepted and destroyed three cruise missiles headed to the Riyadh region, two drones aimed at Mecca and southern areas and two missiles pointed towards the west.",
+     "image": "https://c.ndtvimg.com/2026-11/is0pl1tk_saudi-intercepts-houthi-missile_625x300_12_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Saudi Intercepts Houthi Missiles, Drones, Group Denies Targeting Mecca",
+       "link": "https://www.ndtv.com/world-news/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca-12314643#publisher=newsstand",
+       "publishedAt": "2026-11-12T02:30+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
+       "publishedAt": "2026-11-12T02:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Confident of trade pact ahead of PM Modi's trip: Canada envoy",
+     "link": "https://timesofindia.indiatimes.com/india/confident-of-trade-pact-ahead-of-pm-modis-trip-canada-envoy/articleshow/135747731.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "NewsBytes",
+      "South Asian Herald",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T00:44+05:30",
+     "score": 6.19,
+     "summary": "Christopher Cooter, Canada’s high commissioner to India, expressed hope for the imminent finalization of the Comprehensive Economic Partnership Agreement. This agreement aims to bolster trade relations ahead of Prime Minister Narendra Modi's scheduled visit next month. Cooter emphasized that new international student policies focus on eliminating fraudulent schools while still welcoming legitimate Indian student…",
+     "image": "https://static.toiimg.com/photo/msid-135747730,imgsize-89998.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Confident of trade pact ahead of PM Modi's trip: Canada envoy",
+       "link": "https://timesofindia.indiatimes.com/india/confident-of-trade-pact-ahead-of-pm-modis-trip-canada-envoy/articleshow/135747731.cms",
+       "publishedAt": "2026-11-12T00:44+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Confident of trade pact ahead of PM Modi's trip: Canada envoy",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcHNWSXBxMUhiemV0TkpMMkJTYnZUTUFiT3hWUGw4cHE4X0lpbmloaWd3ejQwSmw4Q04tYmVwNEJma0M4eDZZelliRVpXN1dOVkFUbjZWWDBBeUx1Y05JU3pHUGZuRlEzOHJkRnIxSGtFRnVVWTNpMVJqek84Wlp1ZkxmOFJEUlNrTFUtQVplQUtVX1kyUkZHT2Rtd3hIMmVLSzBqY1pnQ3JwRFVEaWhuN0RKNjk5Nk90SkF4c0pRTURyXzBwbmc?oc=5",
+       "publishedAt": "2026-11-12T00:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Green energy push helped India save $100bn over last 15 yrs: IEA",
+     "link": "https://timesofindia.indiatimes.com/india/green-energy-push-helped-india-save-100bn-over-last-15-yrs-iea/articleshow/135747628.cms",
+     "source": "Times of India",
+     "sources": [
+      "Business Standard",
+      "Construction World",
+      "ET EnergyWorld",
+      "The Economic Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T00:37+05:30",
+     "score": 6.08,
+     "summary": "India's remarkable leap in renewable energy capacity has led to over $100 billion in reduced costs for coal and natural gas imports. With 300GW of renewable power, the nation stands as the second-fastest-growing market worldwide. The International Energy Agency estimates that by 2030, cumulative savings could soar to $240 billion.",
+     "image": "https://static.toiimg.com/photo/msid-135747663,imgsize-76182.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Green energy push helped India save $100bn over last 15 yrs: IEA",
+       "link": "https://timesofindia.indiatimes.com/india/green-energy-push-helped-india-save-100bn-over-last-15-yrs-iea/articleshow/135747628.cms",
+       "publishedAt": "2026-11-12T00:37+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Green energy push helped India save $100bn over last 15 yrs: IEA",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdXJCQk5sM2RXbTZTQ0lMR2c5VTI1YmJ2aG1mcmNyX0JVeVplWDdQSmxabVkydDBXRWVaN2pmNUZ0Z19QTk56Si1rVFp6aFNaTU5nNV9VZ2g4TFZ4QXdpRFQtVnNxZDYzdTlHNk9UWGdIenhiVGJEbFR1Nl9WUGhvRjRiTHJfek9oM0dRb3FrY1p0NGVZQ2I4QVFHWlpnUzliRmNGTHlFblNUVm1fa0wxWXlfaDdUZkp3MXJvcm56T0E4aHQ2bWs4MUJ3?oc=5",
+       "publishedAt": "2026-11-12T00:37+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T05:00+05:30",
    "generatedAt": "2026-11-12T05:16+05:30",
