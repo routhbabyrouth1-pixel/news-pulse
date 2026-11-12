@@ -1,6 +1,231 @@
 {
- "updated": "2026-11-12T22:28+05:30",
+ "updated": "2026-11-12T23:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T23:00+05:30",
+   "generatedAt": "2026-11-12T23:21+05:30",
+   "feeds": 16,
+   "headlines": 289,
+   "stories": [
+    {
+     "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "Bloomberg.com",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The New York Times",
+      "WSJ",
+      "qz.com"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-12T22:35+05:30",
+     "score": 12.37,
+     "summary": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time…",
+     "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+       "publishedAt": "2026-11-12T22:35+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Kress' 1st message as CEO to Nvidia employees",
+       "link": "https://economictimes.indiatimes.com/tech/technology/lets-will-move-forward-together-colette-kress-first-message-as-ceo-to-nvidia-employees/articleshow/135777046.cms",
+       "publishedAt": "2026-11-12T22:05+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Nvidia Shares Slump 13% After Jensen Huang Resigns As CEO",
+       "link": "https://www.ndtv.com/world-news/nvidia-shares-slump-13-after-jensen-huang-resigns-as-ceo-12319133#publisher=newsstand",
+       "publishedAt": "2026-11-12T21:54+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
+       "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
+       "publishedAt": "2026-11-12T20:14+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Nvidia CEO Jensen Huang resigns amid spy scandal",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVBCdnZvcnN2bm0yWVhLd0Z0WnFjRTVVbkxmYkZhaWQ4RXUwWEhTa1RJUzl5RzdxblpxajdySFdFdnZ4b1o5Vjk5WWRobUlab3R4VUEwUjcyRDZpd1hnemFMUGhnV1BwU21xTElsSTZiOFBCUjhLb1BHNnRKNlVnZ1EyeFNpcTJHN0g5M2wyekxzT252NHlOZzA4MHZyMTRGMkxUTUFEZmF2eGFX0gGzAUFVX3lxTE9Dd2lpQ3hEN1RrRElJaDZpOWNxQVF5UmRMTGQ4YXk4YTkxeVpyWnhILVFBSlo2Y05pNFZWMlU2NjdnanN6SjZmQWtEV0N5YWxoOThiSHJ0NHROemR0VUcwdUJ0ZEVDdmEwV3VmT2JxekZJUXVkYllBQkRfS3N6WUd3QXlzOEZ6OF84ZlB3N19OYi1rSEtpaUZOUktSYWlRdktWVFhZNkYtVVlMbXBwdVBNd01F?oc=5",
+       "publishedAt": "2026-11-12T19:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Mookuthi Amman 2 Box Office Collection Day 7",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "IMDb",
+      "Lensmen Reviews",
+      "Outlook Luxe",
+      "Pinkvilla",
+      "Sacnilk",
+      "Telegraph India",
+      "The Economist",
+      "The Indian Express",
+      "The Times of India",
+      "Variety"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-12T22:34+05:30",
+     "score": 12.37,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Mookuthi Amman 2 Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
+       "publishedAt": "2026-11-12T22:34+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 Box Office Collection Day 7 LIVE: Ranbir Kapoor film crosses Rs 1000 cr worldwide, inches away from surpassing Dhurandhar 2",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz?oc=5",
+       "publishedAt": "2026-11-12T22:00+05:30"
+      },
+      {
+       "source": "Pinkvilla",
+       "title": "Pinkvilla Predicts: First day box office forecast for Salman Khan's Maatrubhumi, Eetha and Gunmaaster G9",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTkotWGhvNVJCOUJGdG53LTBOQkVIUjcwMzdqYWZwYXBiZF90ZDlhaGNnWTVzZFBRb2NYVVJBNHFhWjBHbzFKSnZyc09uTkhuTVVEQi0zWG9KRFhQNmh2THdqVEFKQ0VmQUpCZV9ibk1RRVh4N2dSSGVtMnZHRVhtMFZRQkFpWFNub0pOSDZUT0ZoWHZIY3YwTDZ3RGFDYWt0ZjdxQWRRV1Q3d2x6aVNTd2NlX2VOVlVqYS1CY2lDeldqWXhuOHlDTHExdmtUem54YlNORHlyQnE1NTBpY0c3WnhLMVM4OFA4RUIxazh0V3FId9IB9wFBVV95cUxPdkFSM1hTdDVFMkpja0RQSjZ2eHNpbmxNRm9zZ3NfNHFtN1RJYnIyZXUxdzhOOUZ0SUI2NWRRdGM2QnU2VktJc3B5WEtxTng1M2VZZjdvODFlQTRHTFV4d01sdmdpdXF4U0I1VGhrNDgwbVVEVXAta2RfeTBTb2NCQTEtRExzYVNJMG5LNTBLOHoyQUgtempGWEh3Tm1ldllNdGpRT2pzQjBGOG1rcTh0OFhtNWRsbWVzZmd5ODRIaFhlYklOTmNILXJiQlUyYnZmWTV4NzZxWGxJbWhuU1hzMmtzWTNSU3ZuTFBzbm5EUjR1a2lMQ0JN?oc=5",
+       "publishedAt": "2026-11-12T17:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Q2 Results 12th Nov Live: HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
+     "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSk1Wd3ZLbWZVd1pXUWczWldsTkp1UUdaNEhCdi1sWUE3NWw0WmpDMHc4MUdDQWZDQzBKLUs0MVZGbW1vckJQWmV5Y1VWVjVrVFEtTGllcTFSdkJvbWx5U3FGZDFJZ1BzYzJiQ1BMb3hMRUtIUUlDbXBqNmcwbFdpX25jUVkybFpWT0xURWNybmZBLUtHcnJUcUp1ZzA2Q2lVWFpZa0xqdlNLek02Y3RqRXJjeGNlNmJMd0ZFeVBzempUejBacEtnZERJWFNfaVpjRmhZNGxqUjZRMkUzWGczaml3LWo4LXV4S0NmX19SQUtUcVZkU21hWVYxa1p2NWRpdkFfSWZ6WVU1MkZKYXhhOWRHc3ZabGF6S0EydlNDalhkYUJZYW5YcG54eUFOaTZkWm9Nak9Eb0N2SWRDRXVkVDJpNmpMMHhxWEZqenkxdXVVNGhvTjhJNVVwMU9yMDRwZTE2LThyWGRsdnPSAfICQVVfeXFMTTUxQTVpS3NvWnlBY2M3eWROYVVxXzBRRWtadzVoYUg5UU5CVUNULWU1SWwxUzRxMzB2bVZFdnBLcXBDR2VaYklMczdGV3Z3R2lBMFJzX0RkRjAwajlLSkJMMmE1SU1Nc0dkQ0xjeHVsVF9YQUhBZlZjT1lScUx4MEctREo4NGkxQlM5dU1GN3NRc3RkUEotS2MwbEQyVDcyeGlFekpaUzVhZzI4UzNJdERya09SbzZXODVGbE1qdU93aUp6TkZTS2VzcVFTcFZwZXkwalFXRFhTVHJLZlF1UV9JRWlaejZuWHRmYnU3VjVZQ3FNbi1EbERkb1lSN3JBUUNwRUdjRVFOMFZOX2VHbEZZRGNLeWVGX0l6bzR1anh2eEJFMnRyYmVwT2JSTUs0MTlKeG0tdERnMjJ0SEFnNGxqSFlNQjRUX0Z4TTZhRnF5ZmFXNXhZOWxRX25pVVVpWVZCd21GdlVkd2FKZThTc3hUZw?oc=5",
+     "source": "BusinessLine",
+     "sources": [
+      "Business Standard",
+      "BusinessLine",
+      "CNBC TV18",
+      "ET EnergyWorld",
+      "LinkedIn",
+      "Reuters",
+      "Sahi",
+      "The Economic Times",
+      "The Hindu",
+      "Upstox"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-12T21:09+05:30",
+     "score": 11.01,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BusinessLine",
+       "title": "Q2 Results 12th Nov Live: HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
+       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSk1Wd3ZLbWZVd1pXUWczWldsTkp1UUdaNEhCdi1sWUE3NWw0WmpDMHc4MUdDQWZDQzBKLUs0MVZGbW1vckJQWmV5Y1VWVjVrVFEtTGllcTFSdkJvbWx5U3FGZDFJZ1BzYzJiQ1BMb3hMRUtIUUlDbXBqNmcwbFdpX25jUVkybFpWT0xURWNybmZBLUtHcnJUcUp1ZzA2Q2lVWFpZa0xqdlNLek02Y3RqRXJjeGNlNmJMd0ZFeVBzempUejBacEtnZERJWFNfaVpjRmhZNGxqUjZRMkUzWGczaml3LWo4LXV4S0NmX19SQUtUcVZkU21hWVYxa1p2NWRpdkFfSWZ6WVU1MkZKYXhhOWRHc3ZabGF6S0EydlNDalhkYUJZYW5YcG54eUFOaTZkWm9Nak9Eb0N2SWRDRXVkVDJpNmpMMHhxWEZqenkxdXVVNGhvTjhJNVVwMU9yMDRwZTE2LThyWGRsdnPSAfICQVVfeXFMTTUxQTVpS3NvWnlBY2M3eWROYVVxXzBRRWtadzVoYUg5UU5CVUNULWU1SWwxUzRxMzB2bVZFdnBLcXBDR2VaYklMczdGV3Z3R2lBMFJzX0RkRjAwajlLSkJMMmE1SU1Nc0dkQ0xjeHVsVF9YQUhBZlZjT1lScUx4MEctREo4NGkxQlM5dU1GN3NRc3RkUEotS2MwbEQyVDcyeGlFekpaUzVhZzI4UzNJdERya09SbzZXODVGbE1qdU93aUp6TkZTS2VzcVFTcFZwZXkwalFXRFhTVHJLZlF1UV9JRWlaejZuWHRmYnU3VjVZQ3FNbi1EbERkb1lSN3JBUUNwRUdjRVFOMFZOX2VHbEZZRGNLeWVGX0l6bzR1anh2eEJFMnRyYmVwT2JSTUs0MTlKeG0tdERnMjJ0SEFnNGxqSFlNQjRUX0Z4TTZhRnF5ZmFXNXhZOWxRX25pVVVpWVZCd21GdlVkd2FKZThTc3hUZw?oc=5",
+       "publishedAt": "2026-11-12T21:09+05:30"
+      },
+      {
+       "source": "CNBC TV18",
+       "title": "Stocks to Watch for November 13: IRCTC, Oil India, M&M, Ola Electric, Hitachi Energy and more",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEh5cElTLVFfZ1RfZDk2bnFCMGJYR3VST1MxUmYzRkR4NUJXQm9ha3pqbFBoa0VIaWlNVDczb0F2dUNLNTU0QjdXTE1kZnBMTjBMd2tpdms2a3loc2RJc0N3ZXptalIycGNPUks4WmZQdERKV3pTNHQzejRmZ3dRanFhNGNTeExiTTZNQTM2Y2ZnT2d4T09xVHl5b3JkYkU1SFZQbGRQWFI0N0tsdWxNYkFON3N4YkVTSDVaeGNZdnd6RlZwbTdSLTZQbXhfZHYxeVFCVDVR0gHbAUFVX3lxTE9HYWtaWllnbmJxcnZ6MExQUGlOSjE3VzNGcE83Y3lsUWFtM0llcnhBajdEbERpamdpS2dMeExXRVNUX2hLVElOYUhveGxRN2xHLVhMZGY2ek9XNTRudzQwejRQNmI3cXBUQXY5ZThhOG01Z00yZ2NNb0dvNjlfUTZLeHNUaEppNDFsMVZKeDNmYmRiRGFrSWhlc0pJdVl0Z0dNWXJYSHN5RWQwQ0lYS3hLTHc2Q2l4ZWNpTXBPbFktUHZadEVPLVhYVW14RlUwaXRRTU1JeElQdnJJZw?oc=5",
+       "publishedAt": "2026-11-12T17:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Washington DC shooting: Five people shot near White House, 1 killed; police hunt suspect",
+     "link": "https://www.livemint.com/news/us-news/washington-dc-shooting-five-people-shot-near-white-house-1-killed-police-hunt-suspect-11794496486832.html",
+     "source": "Mint",
+     "sources": [
+      "AP News",
+      "Al Jazeera",
+      "BBC",
+      "Mint",
+      "NBC News",
+      "NDTV",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-12T20:51+05:30",
+     "score": 10.08,
+     "summary": "At least one of the victims was shot inside a gym and died at the scene, according to a witness. Police were responding to multiple locations in the neighbourhood, while a suspect was reported to be barricaded near the site of the initial shooting.",
+     "image": "https://i.ytimg.com/vi/QCUePlJPGTc/maxresdefault.jpg?v=6af5d996",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Washington DC shooting: Five people shot near White House, 1 killed; police hunt suspect",
+       "link": "https://www.livemint.com/news/us-news/washington-dc-shooting-five-people-shot-near-white-house-1-killed-police-hunt-suspect-11794496486832.html",
+       "publishedAt": "2026-11-12T20:51+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "At least five people shot, one killed, in central Washington, DC",
+       "link": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
+       "publishedAt": "2026-11-12T19:49+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "US shooting: 5 people shot in near White House; at least 1 dead, area cordoned off",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRFp4OXAxM2tkT25xbk9yYTRGUXF6V09teEJram9SR01CR2dVRE9RSDh5ZnJoQjVlNjQ1LXltZEJhYzB5OE1kRUY4NndPY1Z5bVowR3lqYUd5bXVxQllxVzQ4U2xMdVFxLTdtNkF0NVgwQ3NaOFoxV2llVDNWWmNoa0daTTVuQUFTakFla0dwckVqdm9Fd1dNbkhZNEVKQlBEbk9RcjlUZ0t4YUdZcXc2TGQ0ZGZPZERUa0kxTWVIYU9MTnd1cHJQMEFia0dLa2JNSm13VkxONkZHS2hCM2tyZXlR?oc=5",
+       "publishedAt": "2026-11-12T19:32+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "4 Shot At In Washington, Less Than 2 km From White House",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZG94SkI0eXU1RFlVRi1JYUk5NWlwdWFsd21McERQbGJrXzdlcGtSQ2F1LWgzZHEyR2FXYnFYRkNhQ1N5ajNDekktN0tpN1lpV01HOTQwUXZBZmNjMXJsNGVPRmFaQi1DcXN2YzFLaXItTFpKQjJvNGlHWVBGbnl0YllRZDEtZzRESG9FajgwbjcxY2hfT0FzNF94NUg?oc=5",
+       "publishedAt": "2026-11-12T19:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Shouting match from hell': Trump, Netanyahu clash in explosive phone call over Iran war",
+     "link": "https://timesofindia.indiatimes.com/world/middle-east/shouting-match-from-hell-trump-netanyahu-clash-in-explosive-phone-call-over-iran-war/articleshow/135770740.cms",
+     "source": "Times of India",
+     "sources": [
+      "ANI News",
+      "Hindustan Times",
+      "Mint",
+      "The New Arab",
+      "The Times of India",
+      "The Tribune",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-12T18:33+05:30",
+     "score": 7.95,
+     "summary": "US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu recently faced challenges regarding Iran's nuclear strategy. Trump prefers diplomatic solutions while Netanyahu advocates for military action and regime change in Tehran. Their disagreement highlights political tensions as Netanyahu's leadership faces increasing opposition at home. In Israel, opposition leader Gadi Eisenkot is working to form a…",
+     "image": "https://static.toiimg.com/photo/msid-135770790,imgsize-63456.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Shouting match from hell': Trump, Netanyahu clash in explosive phone call over Iran war",
+       "link": "https://timesofindia.indiatimes.com/world/middle-east/shouting-match-from-hell-trump-netanyahu-clash-in-explosive-phone-call-over-iran-war/articleshow/135770740.cms",
+       "publishedAt": "2026-11-12T18:33+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Did Trump and Netanyahu clash over Iran? Inside the alleged explosive ‘shouting match from hell’ phone conversation",
+       "link": "https://www.livemint.com/news/world/did-trump-and-netanyahu-clash-over-iran-inside-the-alleged-explosive-shouting-match-from-hell-phone-conversation-11794483666590.html",
+       "publishedAt": "2026-11-12T17:28+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Shouting match from hell': Trump, Netanyahu clash in explosive phone call over Iran war",
+       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbjg2bGl5d01HQ29yMktUOXVuNFVmREFCYlNwRzFhdHRLMTdrdVJUVEswMVZRcHZ1TUFvb1M0dzNBRDQ1dEc3aktaZ2FDR3ljYVJrTTNla2hlSlZYRzZMMXZQRWQ4ZnVnRm1tX2VicS1yQUVPbC01WGhGOFRTTHVWYzM2cUpSWEVaSWZvZF9YYmVZWXRPV1c2bjBLM1lKV3J1TnRFOXhpb2E2SjdSNGZpYnFTdk96Wkd4WnJxR2JZaktWOG9HSWNCdHZHT1hWU0NmNTVpX3NxUjNpVmZzcUQzOVJXTFpWVGpDNXRGb1U3V1l6Q2RsUTFj?oc=5",
+       "publishedAt": "2026-11-12T18:33+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T22:00+05:30",
    "generatedAt": "2026-11-12T22:28+05:30",
