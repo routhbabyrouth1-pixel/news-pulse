@@ -1,6 +1,226 @@
 {
- "updated": "2026-11-13T00:22+05:30",
+ "updated": "2026-11-13T01:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T01:00+05:30",
+   "generatedAt": "2026-11-13T01:22+05:30",
+   "feeds": 16,
+   "headlines": 238,
+   "stories": [
+    {
+     "title": "Jensen Huang has resigned, what's next for Nvidia?",
+     "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "Financial Times",
+      "Hindustan Times",
+      "MarketWatch",
+      "Mint",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 17,
+     "publishedAt": "2026-11-13T01:03+05:30",
+     "score": 19.45,
+     "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Jensen Huang has resigned, what's next for Nvidia?",
+       "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T01:03+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "What We Know After Jensen Huang Resigns As Nvidia's CEO",
+       "link": "https://www.ndtv.com/world-news/what-we-know-after-jensen-huang-resigns-as-nvidias-ceo-12319631#publisher=newsstand",
+       "publishedAt": "2026-11-13T00:37+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+       "publishedAt": "2026-11-13T00:31+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
+       "publishedAt": "2026-11-12T22:55+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Trump endorses former Apple CEO Tim Cook to replace Jensen Huang as Nvidia CEO: ‘A legend replaces a legend’",
+       "link": "https://www.livemint.com/news/trump-endorses-former-apple-ceo-tim-cook-to-replace-jensen-huang-as-nvidia-ceo-a-legend-replaces-a-legend-11794498668369.html",
+       "publishedAt": "2026-11-12T21:25+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Legend replaces a legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/legend-replaces-a-legend-trump-wants-tim-cook-to-replace-nvidia-ceo-jensen-huang/articleshow/135775422.cms",
+       "publishedAt": "2026-11-12T21:20+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Nvidia LIVE Updates: Jensen Huang agrees to testify before US Congress before Thanksgiving, says report",
+       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxORHhiY0lzbl91R3FVS25fdzMyaU1laDFkNDdvdG5FTk5HRV9ETEQzWElFTGxwMElUTGpCcEJYbG1lLWVwRWVxWU9LdS0ybzlGaW0zQkNQbG1qMm84NzZWZUpVMTdza3ljUWl5dVRDUnh5bHNuNzhYTzBXazAyWDN4Z29MN0owOHc1OWlkcXZsZTBqdUVkQnBGdGZLYk8zaERwNGVIYVpIZGdva2s4a3ZaeG1FVEd0S3phUzRfZ21QaHRjUE5DN1dJelN5Q2tUamVETjA3X0ZpRV95Y3VCaDhSd05sSldoN1lpc3hsZlYtaWFoUU9YNlpiSWZ2SjBPaVd4dmF6bGZpQlhhVFBnckRR?oc=5",
+       "publishedAt": "2026-11-13T00:58+05:30"
+      },
+      {
+       "source": "MarketWatch",
+       "title": "Stock Market Today: S&P 500 and Nasdaq rise as chip stocks recover from earlier losses seen after Jensen Huang's resignation from Nvidia; Dow advances despite renewed worries over Iran — live updates",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGNYLThrNnhscF9EMGJ3RmNPb0JGaEhHZkRvZnMyTWJ6NzdyalFOZGJZclFENVktUDNCZ3hLRmNUdmNfank3cm1BeGtYVVlZMXlBZE94aE9pdVk1dmMwd0VwQWNGR20xaG5VWU9CU2JXUlVZQ2lPWGJoQ1NFbmRFZFJzQnpDdi1ZSjlvSnJGblRyU3M2ZWVqODVXbXRYY0RnRi1meXhOX21SSWk3ZDk1SktKU3VLS21tNmc?oc=5",
+       "publishedAt": "2026-11-13T00:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Mookuthi Amman 2 Box Office Collection Day 7",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Bollywood Bubble",
+      "Deccan Chronicle",
+      "IMDb",
+      "Lensmen Reviews",
+      "Outlook Luxe",
+      "Sacnilk",
+      "Telegraph India",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-12T22:34+05:30",
+     "score": 11.03,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Mookuthi Amman 2 Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
+       "publishedAt": "2026-11-12T22:34+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 Box Office Collection Day 7 LIVE: Ranbir Kapoor film crosses Rs 1000 cr worldwide, inches away from surpassing Dhurandhar 2",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz0gH7AUFVX3lxTE1jak13ODctTWJQNEd6VFdHam9PWFh0WjFwalJaazhiOS1qUmF1UXZOd0MzTXRSbldnOFpTMUowSk9zRlZha01LV0pqWFR2cDNRQWczeHdpZ285elFhYVJLejZsSkhWbGNOVGtrQklFYnhFUGdPSWhmQmt3SFROU2xWaW1PYy16SXNHeFNFdmpoV1Vyc3ZLb2pDa2Jmd0pKbFdmNjh2eTZ5YXpnVThFU21lcW1EYUV3TnhLT2xFQ1M4OGg5WE91QzBSZ2hGb2I5d2NOd2VvVkJ2VEdoT2l5aFh3bkNDeElSTG9FVlB4aEYyRUNoRTNYX2xnQ0Zz?oc=5",
+       "publishedAt": "2026-11-12T22:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Four people shot in Washington DC",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "AP News",
+      "Al Jazeera",
+      "CNN",
+      "Mint",
+      "NDTV",
+      "The Guardian",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-12T21:12+05:30",
+     "score": 8.8,
+     "summary": "A major police operation is underway in Washington DC where four people have reportedly been shot",
+     "image": "https://i.ytimg.com/vi/QCUePlJPGTc/maxresdefault.jpg?v=6af5d996",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Four people shot in Washington DC",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
+       "publishedAt": "2026-11-12T21:12+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Washington DC shooting: Five people shot near White House, 1 killed; police hunt suspect",
+       "link": "https://www.livemint.com/news/us-news/washington-dc-shooting-five-people-shot-near-white-house-1-killed-police-hunt-suspect-11794496486832.html",
+       "publishedAt": "2026-11-12T20:51+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "US shooting: 5 people shot in near White House; at least 1 dead, area cordoned off",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRFp4OXAxM2tkT25xbk9yYTRGUXF6V09teEJram9SR01CR2dVRE9RSDh5ZnJoQjVlNjQ1LXltZEJhYzB5OE1kRUY4NndPY1Z5bVowR3lqYUd5bXVxQllxVzQ4U2xMdVFxLTdtNkF0NVgwQ3NaOFoxV2llVDNWWmNoa0daTTVuQUFTakFla0dwckVqdm9Fd1dNbkhZNEVKQlBEbk9RcjlUZ0t4YUdZcXc2TGQ0ZGZPZERUa0kxTWVIYU9MTnd1cHJQMEFia0dLa2JNSm13VkxONkZHS2hCM2tyZXlR?oc=5",
+       "publishedAt": "2026-11-12T19:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft Outlook down today?",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "ABC10",
+      "GV Wire",
+      "Gulf Coast News and Weather",
+      "Mashable",
+      "TechCrunch",
+      "The Economic Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T00:37+05:30",
+     "score": 8.37,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft Outlook down today?",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
+       "publishedAt": "2026-11-13T00:37+05:30"
+      },
+      {
+       "source": "Gulf Coast News and Weather",
+       "title": "Microsoft confirms Outlook outage affecting users worldwide",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakR0OVE0MnhhaTR3SXcxZzhNQjIxcldKc1ZKNy1ibVRfd29HdWQ2VXFiOHFCVktLU3d2WlVjSzgtUGJmZUVXTEtxRXhnUkZDWjNwZDNadnNYTlRBVjVKamduanhxNGlfNW5icGI2V3hUSlRTOFo4bUU5RWxudTQ1My0wYWRJQQ?oc=5",
+       "publishedAt": "2026-11-13T00:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+     "link": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+     "source": "The Guardian",
+     "sources": [
+      "Axios",
+      "CNBC",
+      "Reuters",
+      "The Guardian",
+      "The New York Times",
+      "WSJ"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T00:31+05:30",
+     "score": 7.61,
+     "summary": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’ US politics live – latest updates Donald Trump has said that the US is no longer seeking a deal to end the war with Iran and ordered JD Vance, who had spearheaded recent efforts to restart negotiations with Iran, to focus on domestic politics instead. In a post to his social media site…",
+     "image": "https://i.guim.co.uk/img/media/b6079a2bff857f65facec7ffe5790f80f7acf1cd/387_0_4197_3357/master/4197.jpg?width=140&quality=85&auto=format&fit=max&s=c969ed100492d7b0d98b83020b763bbe",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+       "link": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+       "publishedAt": "2026-11-13T00:31+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
+       "publishedAt": "2026-11-12T23:56+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T00:00+05:30",
    "generatedAt": "2026-11-13T00:22+05:30",
