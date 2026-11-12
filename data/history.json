@@ -1,6 +1,171 @@
 {
- "updated": "2026-11-12T06:35+05:30",
+ "updated": "2026-11-12T07:44+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T07:00+05:30",
+   "generatedAt": "2026-11-12T07:44+05:30",
+   "feeds": 16,
+   "headlines": 126,
+   "stories": [
+    {
+     "title": "Scene Box Office Collection Day 7",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11MUVScERwQURNWVBmUW9WZTFUb1AyVzNvS3E5ZnhTWjVXTFBOY2taMzlPdHJsQlprQ1pweDBWMllka25kbXlvTzZUaHNmallqaWhrbk9veENIWUhSTnYtQjBRdXI5djhZa2pFdzdrYXNQQ3VDdG1mVUpuUkw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "IMDb",
+      "NDTV",
+      "Outlook Luxe",
+      "Rediff",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-12T07:14+05:30",
+     "score": 9.17,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Scene Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11MUVScERwQURNWVBmUW9WZTFUb1AyVzNvS3E5ZnhTWjVXTFBOY2taMzlPdHJsQlprQ1pweDBWMllka25kbXlvTzZUaHNmallqaWhrbk9veENIWUhSTnYtQjBRdXI5djhZa2pFdzdrYXNQQ3VDdG1mVUpuUkw?oc=5",
+       "publishedAt": "2026-11-12T07:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "No One Perfect As Van Foreest, Martirosyan Hit Back In Total Chess Fast Classic",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmxaaFFDUHRwMndqZ29GVjY4NTBNeFFxUmh5ZTFLWXc3U0t0bDhuaVd3QXB6QUd2UUhJOTNVOE90UjVOZWFZR1lkVWQxTXpkQmlzNUNnT2NYTXZNWnhhbW0xM3hnNmltdzV1TndKcU5PNmh4RnJaWE5lU1JJZGUyUGtLTE5fSFFob2J6dw?oc=5",
+     "source": "Chess.com",
+     "sources": [
+      "Chess News | ChessBase",
+      "Chess.com",
+      "FIDE",
+      "The Hindu",
+      "The New Indian Express",
+      "sports.economictimes.indiatimes.com"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T02:54+05:30",
+     "score": 7.69,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Chess.com",
+       "title": "No One Perfect As Van Foreest, Martirosyan Hit Back In Total Chess Fast Classic",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmxaaFFDUHRwMndqZ29GVjY4NTBNeFFxUmh5ZTFLWXc3U0t0bDhuaVd3QXB6QUd2UUhJOTNVOE90UjVOZWFZR1lkVWQxTXpkQmlzNUNnT2NYTXZNWnhhbW0xM3hnNmltdzV1TndKcU5PNmh4RnJaWE5lU1JJZGUyUGtLTE5fSFFob2J6dw?oc=5",
+       "publishedAt": "2026-11-12T02:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
+     "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrat-scott-colom-becomes-mississippis-first-black-senator-since-1874/articleshow/135751018.cms",
+     "source": "Times of India",
+     "sources": [
+      "AP News",
+      "CNN",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T04:56+05:30",
+     "score": 7.28,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135751047,imgsize-177548.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrat-scott-colom-becomes-mississippis-first-black-senator-since-1874/articleshow/135751018.cms",
+       "publishedAt": "2026-11-12T04:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
+       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORTRJVklDeGxDT3drLU5BTkNrelBSMERQZkFqejFNVVNRQ2RiRC1rZWlsR05WeEpKZmpScnc2RlRRTzI1S1Y3Q3NxamhVeFpIQzU0aVo0M3NaV0FTbkh0ZHpjejNud3BfN01OVGFDZlFiZTh0dlV5YXU2WkMzQm9sNE0tRlRqb1lqd2NwSnROaGY0RGJhQ1JaVDBBaHB0TC1tUHdWSHV5TW01Uml0aFh4dEhzTzVkZUdfeHczYVBaYXprZUZFdVZZSmxxSXhlVDRZRmMwamo3bFRkSTZtbnhIR053M2FIRV9udkU3elVwNlNXZUVBaXQ3aHFnX1p5MzQ?oc=5",
+       "publishedAt": "2026-11-12T04:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'America did not start this': Trump defends war with Iran",
+     "link": "https://timesofindia.indiatimes.com/world/us/america-did-not-start-this-trump-defends-war-with-iran/articleshow/135748401.cms",
+     "source": "Times of India",
+     "sources": [
+      "CBS News",
+      "NDTV",
+      "The Hill",
+      "The Times of India",
+      "The Times of Israel",
+      "Times of India",
+      "Yahoo"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-12T02:17+05:30",
+     "score": 7.14,
+     "summary": "Speaking during the 2026 National Veterans Day Ceremony at Arlington National Cemetery, Trump said the United States had fought back against Iran and claimed that American military operations had significantly damaged the country's capabilities.",
+     "image": "https://static.toiimg.com/photo/msid-135748407,imgsize-57416.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'America did not start this': Trump defends war with Iran",
+       "link": "https://timesofindia.indiatimes.com/world/us/america-did-not-start-this-trump-defends-war-with-iran/articleshow/135748401.cms",
+       "publishedAt": "2026-11-12T02:17+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"America Did Not Start Iran War\": Trump Says Wants To Have \"Total Victory\"",
+       "link": "https://www.ndtv.com/world-news/america-did-not-start-iran-war-donald-trump-says-wants-to-have-total-victory-12314610#publisher=newsstand",
+       "publishedAt": "2026-11-12T01:58+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'America did not start this': Trump defends war with Iran",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRDhyUnZHQWFxNWpWTnRDb0h1U08tOEcxYkx5UF9FUHJMemxENmd6bGpXdDQ0MzM4QTFSR2xNNUN4QW43NzExaVVrb1NrTFZyWGFpNmNENzIxLXIyQTdydHRJWUZMM1VyVzNzMVJ4NlNQRDZwZUlaV2s5V0JnbDFhU0FxQUs0emttczJZZmhLSzB1UTN3VjBWN20tQjZsalBkb0hzZmY1YmE1djBQckdnSTM5a29wSmZ0Wkc4ZHRtUnVxaGs?oc=5",
+       "publishedAt": "2026-11-12T02:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pat Cummins spotted in heated conversation with wife Becky amid Sandpaper controversy",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-captain-pat-cummins-spotted-in-heated-conversation-with-wife-becky-in-first-public-appearance-since-khawajas-sandpaper-claims/articleshow/135744549.cms",
+     "source": "Times of India",
+     "sources": [
+      "India Today",
+      "News24",
+      "PerthNow",
+      "The Australian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T06:00+05:30",
+     "score": 6.78,
+     "summary": "Australian captain Pat Cummins was spotted having an animated conversation with wife Becky in Sydney, marking his first public appearance since Usman Khawaja reignited the 2018 Sandpaper-gate controversy. Khawaja claimed the entire dressing room knew about the ball-tampering plan, with David Warner backing him. Meanwhile, Khawaja has refused to reveal further details about the bowlers' involvement.",
+     "image": "https://static.toiimg.com/photo/msid-135745196,imgsize-98516.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Pat Cummins spotted in heated conversation with wife Becky amid Sandpaper controversy",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-captain-pat-cummins-spotted-in-heated-conversation-with-wife-becky-in-first-public-appearance-since-khawajas-sandpaper-claims/articleshow/135744549.cms",
+       "publishedAt": "2026-11-12T06:00+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Australia captain Pat Cummins spotted in heated conversation with wife Becky in first public appearance s",
+       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPZUhrdTU2ZEFIUmdyMktWSUlJdkJlS1Ryc0phR2k0YVFZbjM5SGxxWHVXS054Y25lTnd4RW5QOElCY3FCTXBXek5iVXAyRGs4TmFxQjhHVmRyVnA4b0FnLW01aVNzVWZBOS1TeTlPdVFWa3haMXBYeXEyU0RLVHRQNklWUzl0c01BNk5OdlVrczNTV1VPQ1hJdjBmYUs1aU9LeFpYX0hHODF1NEJYOG05X0kxQ0RaVWJrUkxjZHRBUWVUR1YwcmNXMktSbWdmZFZLVWhObTlVSFdxdG1iQ3dBNzRXaC1qUlNWRDk4WWNxVW8yTDVfN0FxY2t5Qk56SU9rLXhoOUgzdWJvODlPN2c3bFJRbzNJVFgxc1g3X1JDNzZiR21KUlJNd2ZmWk8xcWx3Q1lNaG16NDVLRkdtUnc?oc=5",
+       "publishedAt": "2026-11-12T06:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T06:00+05:30",
    "generatedAt": "2026-11-12T06:35+05:30",
