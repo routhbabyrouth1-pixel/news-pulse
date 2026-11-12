@@ -1,6 +1,182 @@
 {
- "updated": "2026-11-13T04:15+05:30",
+ "updated": "2026-11-13T05:11+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T05:00+05:30",
+   "generatedAt": "2026-11-13T05:11+05:30",
+   "feeds": 16,
+   "headlines": 168,
+   "stories": [
+    {
+     "title": "Is Outlook Down? Widespread Outage Hits Microsoft Apps",
+     "link": "https://www.ndtv.com/world-news/is-outlook-down-widespread-outage-hits-microsoft-apps-12319777#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "ABC News - Breaking News, Latest News and Videos",
+      "Al Jazeera",
+      "BBC",
+      "CNBC",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The National Scot",
+      "Times of India",
+      "XDA"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-13T03:51+05:30",
+     "score": 12.28,
+     "summary": "Thousands also reported issues with Microsoft's workplace messaging app Teams, as well as its AI assistant Copilot and wider Microsoft 365 services.",
+     "image": "https://c.ndtvimg.com/2026-10/oq64o1ig_microsoft-exit-offer-pexels_625x300_30_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Is Outlook Down? Widespread Outage Hits Microsoft Apps",
+       "link": "https://www.ndtv.com/world-news/is-outlook-down-widespread-outage-hits-microsoft-apps-12319777#publisher=newsstand",
+       "publishedAt": "2026-11-13T03:51+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Microsoft Outlook outage hits thousands globally, nearly 1.3L users report email issues",
+       "link": "https://timesofindia.indiatimes.com/world/us/microsoft-outlook-outage-hits-thousands-globally-nearly-1-3l-users-report-email-issues/articleshow/135782745.cms",
+       "publishedAt": "2026-11-13T03:38+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Microsoft outage hits tens of thousands of users",
+       "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
+       "publishedAt": "2026-11-13T02:33+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft Outlook down today?",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
+       "publishedAt": "2026-11-13T00:37+05:30"
+      },
+      {
+       "source": "XDA",
+       "title": "Microsoft is suffering a major outage, taking down Microsoft 365, Outlook, Teams, OneDrive, and more",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUF93MGE3SjNSdlZmdVBEbzR6SFZ2ZTFlRU9yZjVjWEw4Q2NCYkprekRoaV9wQjBpNndOZ09tQnFBQlJHeWhWTUs1ZXpIWUFQNHFKM1c1QmxrcXExSUI5QkdWMVVCLWo2TWtoM3ZSb19HYjJua0hEWWhCSnpsRWExYUdELW9qZFBsRjY1Y000NWw2VzlOVGV4dmtmMFotWnd1dGJFWkVYcHBTQmVGOU1MZ1pBaw?oc=5",
+       "publishedAt": "2026-11-13T00:56+05:30"
+      },
+      {
+       "source": "The National Scot",
+       "title": "Microsoft Outlook down as thousands of users report issues",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDlSWFEtNVc4XzFDMURqVXNGUkdpQVZFZkxEOGViTndpUVoyM19jWkRQLVU0bGE1a2lfdmttMVBqeU1qT3F0c3p6QmNTVWpmS0hXSUk5YU5jejNNV245anNKSzV2ZkptOFRTOG5fSFNXbjlvWndPd3JrWFVMM0FIR0E0QnZpOU0yVkFGYUF2by1TQXA4R2c?oc=5",
+       "publishedAt": "2026-11-13T00:15+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Jensen Huang steps down as Nvidia CEO following reports of two affairs - GSMArena.com news",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmhHNGQzTk1PSy1zR2pmcElOOFVXTUpDMFptY0xBa1pyNXRQbjNXUFpiT2ZQRTVTWEhOWmVyVk81ck5FSGtfZDMyQVdJbWltOVRjX1VXTENqLWM1dzQyWm5aa05Ub0N2OUVMNUMwN0hYYXMwVmctNkx1TkE4ejVQN3ZGWGRKMjNWQS1icGgySTdxc0ViTFpPUnNFM3IxRHNuajEzY2FqcGFBa1pwcFHSAaoBQVVfeXFMTVMweTJObjJlYzVSaGlzRllOUzBNRTNXR2s5emZ2RkxDU3VvdlliazVaX2xVbm5vQlFvQ1BqVTFuQ0hwcmdVMjdGZ0UxdGZha1Y5VFRXRi1RVnJtR1ZMaUVYWWJRTWFYRnE2RGVJTW53Ykg0X3pJVFlLWllzNWRKRGtsQ0tmcTMyUHZWZll6NnZCS21wNTBYOXlhRnJQbkZvRUFRbFpiNm9hQ2c?oc=5",
+     "source": "GSMArena.com",
+     "sources": [
+      "Al Jazeera",
+      "Bloomberg.com",
+      "GSMArena.com",
+      "NVIDIA Newsroom",
+      "Reuters"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T00:19+05:30",
+     "score": 6.69,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "GSMArena.com",
+       "title": "Jensen Huang steps down as Nvidia CEO following reports of two affairs - GSMArena.com news",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmhHNGQzTk1PSy1zR2pmcElOOFVXTUpDMFptY0xBa1pyNXRQbjNXUFpiT2ZQRTVTWEhOWmVyVk81ck5FSGtfZDMyQVdJbWltOVRjX1VXTENqLWM1dzQyWm5aa05Ub0N2OUVMNUMwN0hYYXMwVmctNkx1TkE4ejVQN3ZGWGRKMjNWQS1icGgySTdxc0ViTFpPUnNFM3IxRHNuajEzY2FqcGFBa1pwcFHSAaoBQVVfeXFMTVMweTJObjJlYzVSaGlzRllOUzBNRTNXR2s5emZ2RkxDU3VvdlliazVaX2xVbm5vQlFvQ1BqVTFuQ0hwcmdVMjdGZ0UxdGZha1Y5VFRXRi1RVnJtR1ZMaUVYWWJRTWFYRnE2RGVJTW53Ykg0X3pJVFlLWllzNWRKRGtsQ0tmcTMyUHZWZll6NnZCS21wNTBYOXlhRnJQbkZvRUFRbFpiNm9hQ2c?oc=5",
+       "publishedAt": "2026-11-13T00:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "CBS News",
+      "CNBC",
+      "Reuters",
+      "The Guardian",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-12T23:56+05:30",
+     "score": 6.63,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
+       "publishedAt": "2026-11-12T23:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GTA VI has already broken internet download records and it’s not even out yet",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0ZnMENjOE5iWFJCZzNEX0ptczA3cktadnNtRlRhZzN0RFFKWThtVDF4bC1nRm1LWjRfV3FiaXRNOGxicEdhRnJxWmtwdVJ2VE5yQzhaUFhBb2NtRWVrSl91UG5lYnREQUhJR2FraFBzQjFvLTByYklqQTVzTFJ3a2I2WGJoSk1xYmNXM0hvMTRGMWVxaHc5TVRCTUZRNXBqT1ZxRW5JU0NPYkVsYnc?oc=5",
+     "source": "SDxCentral",
+     "sources": [
+      "CNET",
+      "Mashable",
+      "NDTV",
+      "PlayStation.Blog",
+      "SDxCentral",
+      "XBOX Wire"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T23:13+05:30",
+     "score": 6.51,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "SDxCentral",
+       "title": "GTA VI has already broken internet download records and it’s not even out yet",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0ZnMENjOE5iWFJCZzNEX0ptczA3cktadnNtRlRhZzN0RFFKWThtVDF4bC1nRm1LWjRfV3FiaXRNOGxicEdhRnJxWmtwdVJ2VE5yQzhaUFhBb2NtRWVrSl91UG5lYnREQUhJR2FraFBzQjFvLTByYklqQTVzTFJ3a2I2WGJoSk1xYmNXM0hvMTRGMWVxaHc5TVRCTUZRNXBqT1ZxRW5JU0NPYkVsYnc?oc=5",
+       "publishedAt": "2026-11-12T23:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+     "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "CGTN",
+      "Reuters",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T01:23+05:30",
+     "score": 6.42,
+     "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+       "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T00:53+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Italian schools defy new wave of bomb threats to remain open",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFJJaFJoR2JHVWdTZmVzdkw2MDhTc29qU0pDRmdmaXpwWjN2Q3VyYjlFUWJkRmJHTmlaNFFYdWIxdTFHR3p5VGlTaGExYzFwZ3BTRjV6dTJuQWdibllJN1lwd3E1RThuUEU2ekpfbU1GSUJwU2tyMkd5a3daSEkwNm5YU19zUEIxLWpSNjNDS0lzT1NCd2ZQRG1COA?oc=5",
+       "publishedAt": "2026-11-13T01:23+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T04:00+05:30",
    "generatedAt": "2026-11-13T04:15+05:30",
