@@ -1,6 +1,161 @@
 {
- "updated": "2026-11-12T12:41+05:30",
+ "updated": "2026-11-12T14:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T14:00+05:30",
+   "generatedAt": "2026-11-12T14:27+05:30",
+   "feeds": 16,
+   "headlines": 292,
+   "stories": [
+    {
+     "title": "Woman Objects To \"Bad Touch\", Pushed Off Mumbai Local, Loses Arm",
+     "link": "https://www.ndtv.com/india-news/woman-objects-to-bad-touch-pushed-off-mumbai-local-loses-arm-12315753#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "NDTV Profit",
+      "News18",
+      "THE WEEK",
+      "The Indian Express",
+      "Times of India",
+      "Udayavani"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-12T11:22+05:30",
+     "score": 8.24,
+     "summary": "The young woman had boarded the local train traveling from Borivali to Virar. She was allegedly pushed off the train at Naigaon station.",
+     "image": "https://c.ndtvimg.com/2026-11/rrlompbs_mumbai-local-_625x300_12_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Woman Objects To \"Bad Touch\", Pushed Off Mumbai Local, Loses Arm",
+       "link": "https://www.ndtv.com/india-news/woman-objects-to-bad-touch-pushed-off-mumbai-local-loses-arm-12315753#publisher=newsstand",
+       "publishedAt": "2026-11-12T11:22+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Woman objects to molestation, gets pushed off Mumbai local train, loses left arm",
+       "link": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-local-horror-woman-objects-to-molestation-in-compartment-gets-pushed-off-train-loses-left-arm/articleshow/135756172.cms",
+       "publishedAt": "2026-11-12T10:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India contemplate releasing Gurnoor Brar early for Test preparations",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-contemplate-releasing-gurnoor-brar-early-for-test-preparations/articleshow/135760235.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricinfo",
+      "Deccan Herald",
+      "India Fantasy",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T13:07+05:30",
+     "score": 7.03,
+     "summary": "India are considering releasing Gurnoor Brar from the ODI squad after Friday's match to bolster their preparations for the upcoming Test series against New Zealand. Meanwhile, Ruturaj Gaikwad is likely to replace Shubman Gill as an opener for the fourth ODI, with Ishan Kishan expected to continue in the middle order.",
+     "image": "https://static.toiimg.com/photo/msid-135760311,imgsize-110130.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "India contemplate releasing Gurnoor Brar early for Test preparations",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-contemplate-releasing-gurnoor-brar-early-for-test-preparations/articleshow/135760235.cms",
+       "publishedAt": "2026-11-12T13:07+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "India contemplate releasing Gurnoor Brar early for Test preparations",
+       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMkxGeEVUX2YzQmktU2g2YTdJNjdKN2VaZUhQeHhWUnNjbkJpeUp3NFY4cjQ5NXBpSUxUOWItWjhsNVhia3NHclVqU1hpcnFtMVh4WTdMT2VMR05LMUt3MElheHNHa2VYaTk5OUM2NnNIME41YjYyVlRRUkg5QzBMT2w2eHdGc2RVNWM2TW9aRnhxelhZNUc1LW8tNi12cld2YlNQVjhIb01CbWpaOXluMnFuTTQ0bHl3QjVVazVfWEFmaXZpdVA5SVVqWWJLeEZYcFl6c25rbnpqRlpkUmlNOGxGa0d0UTZKbkM4bVlpbHVNVlZmTlVpR3Bn?oc=5",
+       "publishedAt": "2026-11-12T13:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Owaisi, Azad likely to announce alliance on November 12 for Uttar Pradesh elections",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjVNVHFvdFdnVGJ1MWxLLTJaYXZSZV9zMXpZTkR0SmVoM0hIRlFsZXQ0MFJ6TXhwMTFLSG4wMFJsT1hKdHpxU3VLaVkzb1l5N1g5V3RlVlNVa2tCdzhncWZZT3VZUzAzRk8xRDdUc0NsSWo5bXFqMmhFbDllNEtxclVKWGdMVnZ0aEw4RGtkYTlINm05Si1Xa0ZmSWJOTVNoV1ZncXRDcWViVjFWVmUwTHFLSDcyQ1c5VEpPUUln0gHEAUFVX3lxTE5saHRyWV9mWUV1R0NJMTA3d3o2NUtXaHc3Vl9VcHE3Nzl2Y19zRlNXVENfYnhHcjNIbGllNHd4bVlvWXJmcGxqSUdtcUptQnd5VXRyRXBTNWNXeE9pNW10dFFDbnJhcEpSTzQ5aTVVZVljVnlPcV9xOVpuZEhrQUV3T0R6RFVmZFBNVDJqd3NDWm1tekxhYk00M2dwN05EUnZUV2hfLUk1bWF5S0JlRThSYlBmY0JPcndfUkhNR1lPQWZENmc?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "NDTV",
+      "Scroll.in",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-12T10:36+05:30",
+     "score": 6.86,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Owaisi, Azad likely to announce alliance on November 12 for Uttar Pradesh elections",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjVNVHFvdFdnVGJ1MWxLLTJaYXZSZV9zMXpZTkR0SmVoM0hIRlFsZXQ0MFJ6TXhwMTFLSG4wMFJsT1hKdHpxU3VLaVkzb1l5N1g5V3RlVlNVa2tCdzhncWZZT3VZUzAzRk8xRDdUc0NsSWo5bXFqMmhFbDllNEtxclVKWGdMVnZ0aEw4RGtkYTlINm05Si1Xa0ZmSWJOTVNoV1ZncXRDcWViVjFWVmUwTHFLSDcyQ1c5VEpPUUln0gHEAUFVX3lxTE5saHRyWV9mWUV1R0NJMTA3d3o2NUtXaHc3Vl9VcHE3Nzl2Y19zRlNXVENfYnhHcjNIbGllNHd4bVlvWXJmcGxqSUdtcUptQnd5VXRyRXBTNWNXeE9pNW10dFFDbnJhcEpSTzQ5aTVVZVljVnlPcV9xOVpuZEhrQUV3T0R6RFVmZFBNVDJqd3NDWm1tekxhYk00M2dwN05EUnZUV2hfLUk1bWF5S0JlRThSYlBmY0JPcndfUkhNR1lPQWZENmc?oc=5",
+       "publishedAt": "2026-11-12T10:36+05:30"
+      }
+     ]
+    },
+    {
+     "title": "10 killed as passenger vehicle plunges 500 metres down slope in Nepal",
+     "link": "https://timesofindia.indiatimes.com/world/south-asia/10-killed-as-passenger-vehicle-plunges-500-metres-down-slope-in-nepal/articleshow/135758559.cms",
+     "source": "Times of India",
+     "sources": [
+      "Nepalnews.com",
+      "The Hindu",
+      "The Kathmandu Post",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T12:07+05:30",
+     "score": 6.65,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135758593,imgsize-1371678.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "10 killed as passenger vehicle plunges 500 metres down slope in Nepal",
+       "link": "https://timesofindia.indiatimes.com/world/south-asia/10-killed-as-passenger-vehicle-plunges-500-metres-down-slope-in-nepal/articleshow/135758559.cms",
+       "publishedAt": "2026-11-12T12:07+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "10 killed as passenger vehicle plunges 500 metres down slope in Nepal",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM2JySV81cGsyclVFMUhnbl9aUjZmQTR5QTJsVkxodVZkTmdBNW9YQlo4SFVNTnBGV1k5T1hwR3dYTU4wcUN4dlRHLV9IaWFnMXVRcUtPaG0xU0VyYW9QRF8tNjR1QTktWWtFY3ZvbDl6bGt1OFh2QkRZaC16ODktaFVzQU9TZ0J3THV4WjBFWjNPWnNOY2lYb0U3U2dnaGlISjJYQ3paUjdpM0l5VHlmYlE4TzFCUVBzTjIwTzBCSHRVMk0yQW9DTDhuS1JmNXdBMks2Y1ZRTnBaS09RSW45RW1B0gHnAUFVX3lxTE51RUliNEdKd0tmSGpSMGpBSjdrLW9fVzFjTkZlVWE0WEZROWNxSE9mSDAwbFcyekVVXzZQY1hWUndFVXo0VG1ITWVSNU5YMjhuNzE0Q05NS0tyX29tS0o5V0FBQjVLX0t3U0FQcGRhQnBncy1kbURmRmtZMDFvbnFNYXFvN0poLWdMbHM0TFNiSkUzaTlEcXduYkZSQkl6SlJONXA1dHNWS0IzUFhRQ0hURTY4c0g3ZmVFUjZnbHRxMlQtQnFVNWV1cWloc2NLU0pjbGxfYUwtbE1ieEItbFRaWW8wZE51SQ?oc=5",
+       "publishedAt": "2026-11-12T12:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "IND U19 vs AFG U19 Live Score, Under 19 Asia Cup: India trigger massive collapse",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGVlN3Z2YTNzM1NzZ3ItNXQtZlBnV2FmMXV6ZlU4T2V1SU9ZQkdXMzl2NU1RemYwd3ZYeDlzaERJY3JPVW9WZ2F3UWtnbkpLdlhOeTk2bDl5cjkwRzB6d2g5allkclpfcWtSRGQyU2ZLSEtycXl0SEN3a243RUhuNTFBcWI3V2lldnYwX2V1WWNaNWE5SVB0ZTZ5Y2tBZ01OZDlYWVBoaEZqTkZKLWZKZkoyS19LZ1RpcmM4SXhSUHZBUDlzbHpB0gHOAUFVX3lxTE5kMU9QdkdqS0tJRGx2SVlfNWpZMTd4eHIxWU5FZlNZQUNrbWswMnNvMFg0OHpybVB0X2kzMUw3SmRvVGgwQnJXZjBpb0o5UVVhU05LcXQ4STFoWjBjaDkzdElHdjNtX195NlYxcEM3c2RWR1NqOEplWE1PX2FST1lYLTdKSGt3RXRnT3c0TmpmQzk5QXFPSE1wNGI3cHY1VHppRktTTFYxZ2hobTFBMTZsbElPODdLOW1jSHJlLTR3Vkg2QnFjS2lmbmZUUzFn?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "NDTV Sports",
+      "Sportstar",
+      "The Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-12T14:21+05:30",
+     "score": 6.48,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "IND U19 vs AFG U19 Live Score, Under 19 Asia Cup: India trigger massive collapse",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGVlN3Z2YTNzM1NzZ3ItNXQtZlBnV2FmMXV6ZlU4T2V1SU9ZQkdXMzl2NU1RemYwd3ZYeDlzaERJY3JPVW9WZ2F3UWtnbkpLdlhOeTk2bDl5cjkwRzB6d2g5allkclpfcWtSRGQyU2ZLSEtycXl0SEN3a243RUhuNTFBcWI3V2lldnYwX2V1WWNaNWE5SVB0ZTZ5Y2tBZ01OZDlYWVBoaEZqTkZKLWZKZkoyS19LZ1RpcmM4SXhSUHZBUDlzbHpB0gHOAUFVX3lxTE5kMU9QdkdqS0tJRGx2SVlfNWpZMTd4eHIxWU5FZlNZQUNrbWswMnNvMFg0OHpybVB0X2kzMUw3SmRvVGgwQnJXZjBpb0o5UVVhU05LcXQ4STFoWjBjaDkzdElHdjNtX195NlYxcEM3c2RWR1NqOEplWE1PX2FST1lYLTdKSGt3RXRnT3c0TmpmQzk5QXFPSE1wNGI3cHY1VHppRktTTFYxZ2hobTFBMTZsbElPODdLOW1jSHJlLTR3Vkg2QnFjS2lmbmZUUzFn?oc=5",
+       "publishedAt": "2026-11-12T14:21+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T12:00+05:30",
    "generatedAt": "2026-11-12T12:41+05:30",
