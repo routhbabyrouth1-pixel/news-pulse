@@ -1,6 +1,183 @@
 {
- "updated": "2026-11-12T17:25+05:30",
+ "updated": "2026-11-12T18:34+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T18:00+05:30",
+   "generatedAt": "2026-11-12T18:34+05:30",
+   "feeds": 16,
+   "headlines": 319,
+   "stories": [
+    {
+     "title": "Ramayana Worldwide Box Office Collection Day 7 LIVE: Ranbir Kapoor-starrer breaks Dhurandhar 2’s record in Kerala; to enter Rs 1000 crore club on Thursday",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "IMDb",
+      "Koimoi",
+      "NDTV",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "Telugu Filmnagar",
+      "The Economist",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-12T18:20+05:30",
+     "score": 12.46,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Worldwide Box Office Collection Day 7 LIVE: Ranbir Kapoor-starrer breaks Dhurandhar 2’s record in Kerala; to enter Rs 1000 crore club on Thursday",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz?oc=5",
+       "publishedAt": "2026-11-12T18:20+05:30"
+      },
+      {
+       "source": "Sacnilk",
+       "title": "Jailer 2 Box Office Collection Day 29",
+       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLUlmM2l5UVdxbmNfQldmTkYtMmZpUXJKWms0c01QSmtKeFJpdUVnMnRYWXNzZFlWMzdjS0ZpX2N3YXZGQjRQbWdXaWtTYUhJVTZYVHFicEdmc1h1M0x1VVE0S3YzcnhNMjI3V1JQck5HTVRyTjZkNjhocFNET3BYM1h3?oc=5",
+       "publishedAt": "2026-11-12T12:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "NVIDIA",
+      "The Economist",
+      "The Guardian",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T18:09+05:30",
+     "score": 8.43,
+     "summary": "Nvidia shares fall in pre-market trading after report of Huang’s second affair Nvidia board reportedly deciding whether to oust CEO Jensen Huang Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about…",
+     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+       "publishedAt": "2026-11-12T18:09+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+       "link": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
+       "publishedAt": "2026-11-12T17:13+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+       "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-12T16:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "PM Modi To Attend ASEAN-India Summit In Phillipines From November 16 To 18",
+     "link": "https://www.ndtv.com/india-news/pm-modi-to-attend-asean-india-summit-in-phillipines-from-november-16-to-18-12317339#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "ANI News",
+      "Hindustan Times",
+      "NDTV",
+      "Reuters",
+      "The Jakarta Post",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T16:58+05:30",
+     "score": 7.48,
+     "summary": "The visit will take place from November 16 to 18, Rudrendra Tandon, Secretary (East) at the MEA, announced during a special media briefing in New Delhi on Thursday.",
+     "image": "https://c.ndtvimg.com/2025-09/psq7l5bg_pm-modi-birthday-_625x300_16_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "PM Modi To Attend ASEAN-India Summit In Phillipines From November 16 To 18",
+       "link": "https://www.ndtv.com/india-news/pm-modi-to-attend-asean-india-summit-in-phillipines-from-november-16-to-18-12317339#publisher=newsstand",
+       "publishedAt": "2026-11-12T16:58+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "PM Modi to visit Manila for ASEAN Summit from November 16 to 18",
+       "link": "https://timesofindia.indiatimes.com/india/pm-modi-to-visit-manila-for-asean-summit-from-november-16-to-18/articleshow/135766051.cms",
+       "publishedAt": "2026-11-12T16:23+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Indian PM Modi to attend ASEAN summit in Manila from November 16 to 18",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTd6ZmE1VGk5N3o2dUpJNG9Tbmh0U3o5MHlrWFRvdmxqcTFmSURtV3liZXlvWWJKZmFxczMwNWNFTGp0alYyZ25KTFJPOTlTZVNselhfY2lLWkl6dWlvSERDVmppeTFNWjV0aHZYdmNWS0d4T1BVSGtvLWNaY0I2Wm9kakNhRFBjOWdaUnh1eGl0UEIxblRPR2dpcXY4ZVI5NVdWU0hPQQ?oc=5",
+       "publishedAt": "2026-11-12T16:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "IND vs AFG, U19 Asia Cup Highlights: India defeats Afghanistan by eight wickets",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTzFEcHBIODlCU3ZsTlFncmRHbTdseGJ0MkZKY09vaDlKSnRQNXFkMGJ1dmtGS0hTbVhxTWVocWNwbUpZOU00ZEZaZ1dSSUdkXzdVYlEtblVyc3ZDYVJMOVVRa25GRFpqbWF1VFdkb1Y0M0x1ampuTW94enYxS09XQlV5MjR3VElkeVJmMmpBZGEzZnYzZ3liWnZJTExDMlFZSVdZVnRZbzRkZGhtSE9jLUEzMXhycno5NTdueXRTSWxEbWxEUTNLS0lSRWpDYXNfR3hB0gHaAUFVX3lxTFBMb3k3UG1RazRlbW94azcwQlBDT0NLaElqUUR0Nm9sUTF3TXloejYxNXF6TzVwclNfbDRkdG1NMUZtM0VSaTFsXy1rTWFfSkFRT0h4Y202WWQ5S2lPVGdkVXVsQzFsU0w0UHpTRERmZ2YwSm1rVmpjZmVzRC1RS3MyenFHNkhpMzVXWmFTSzBJSXl5WjNTeWxVaEJPOXJsOWVTc3pYeUtGZVpjSC1mcXdsOEhZX1N5MlJjOUViQmZiOUpXdzdhRm9EdU4zN0xnWVd5QUtZSFpQeWJB?oc=5",
+     "source": "Sportstar",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "Cricinfo",
+      "Rediff",
+      "Sportstar"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-12T17:06+05:30",
+     "score": 7.26,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sportstar",
+       "title": "IND vs AFG, U19 Asia Cup Highlights: India defeats Afghanistan by eight wickets",
+       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTzFEcHBIODlCU3ZsTlFncmRHbTdseGJ0MkZKY09vaDlKSnRQNXFkMGJ1dmtGS0hTbVhxTWVocWNwbUpZOU00ZEZaZ1dSSUdkXzdVYlEtblVyc3ZDYVJMOVVRa25GRFpqbWF1VFdkb1Y0M0x1ampuTW94enYxS09XQlV5MjR3VElkeVJmMmpBZGEzZnYzZ3liWnZJTExDMlFZSVdZVnRZbzRkZGhtSE9jLUEzMXhycno5NTdueXRTSWxEbWxEUTNLS0lSRWpDYXNfR3hB0gHaAUFVX3lxTFBMb3k3UG1RazRlbW94azcwQlBDT0NLaElqUUR0Nm9sUTF3TXloejYxNXF6TzVwclNfbDRkdG1NMUZtM0VSaTFsXy1rTWFfSkFRT0h4Y202WWQ5S2lPVGdkVXVsQzFsU0w0UHpTRERmZ2YwSm1rVmpjZmVzRC1RS3MyenFHNkhpMzVXWmFTSzBJSXl5WjNTeWxVaEJPOXJsOWVTc3pYeUtGZVpjSC1mcXdsOEhZX1N5MlJjOUViQmZiOUpXdzdhRm9EdU4zN0xnWVd5QUtZSFpQeWJB?oc=5",
+       "publishedAt": "2026-11-12T17:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Inflation At 2-Year High In October, Breaches RBI's Upper Limit",
+     "link": "https://www.ndtv.com/business-news/inflation-at-2-year-high-of-6-09-in-october-breaches-rbis-upper-limit-12317438#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "ET Retail",
+      "NDTV",
+      "Reuters",
+      "Telegraph India",
+      "The Economic Times",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T17:17+05:30",
+     "score": 7.16,
+     "summary": "Food inflation spiked to 8.94 per cent in October 2026 from 7.74 per cent in the previous month, according to the data released by the Ministry of Statistics & Programme Implementation.",
+     "image": "https://c.ndtvimg.com/2024-02/i315trfg_inflation_625x300_12_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Inflation At 2-Year High In October, Breaches RBI's Upper Limit",
+       "link": "https://www.ndtv.com/business-news/inflation-at-2-year-high-of-6-09-in-october-breaches-rbis-upper-limit-12317438#publisher=newsstand",
+       "publishedAt": "2026-11-12T17:17+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Retail inflation soars to 2-year high of 6.09%, crosses RBI’s upper limit",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/cpi-inflation-soars-to-2-year-high-of-6-09-crosses-rbis-upper-limit-raises-chances-of-another-rate-hike/articleshow/135766377.cms",
+       "publishedAt": "2026-11-12T16:30+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T17:00+05:30",
    "generatedAt": "2026-11-12T17:25+05:30",
