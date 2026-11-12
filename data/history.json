@@ -1,6 +1,200 @@
 {
- "updated": "2026-11-12T18:34+05:30",
+ "updated": "2026-11-12T19:49+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T19:00+05:30",
+   "generatedAt": "2026-11-12T19:49+05:30",
+   "feeds": 16,
+   "headlines": 321,
+   "stories": [
+    {
+     "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+     "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "Bloomberg.com",
+      "CNBC",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Economic Times",
+      "The Guardian",
+      "The New York Times"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-12T19:41+05:30",
+     "score": 11.48,
+     "summary": "As the boss of the AI resigns, some names have emerged as potential successors.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+       "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-12T19:41+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+       "publishedAt": "2026-11-12T19:37+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
+       "link": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
+       "publishedAt": "2026-11-12T19:25+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Nvidia board turned on Jensen Huang? What changed?",
+       "link": "https://economictimes.indiatimes.com/news/international/us/sunday-confidence-in-jensen-wednesday-preparing-to-oust-him-how-one-report-flipped-nvidias-board/articleshow/135769516.cms",
+       "publishedAt": "2026-11-12T17:59+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Nvidia CEO Jensen Huang Was Introduced To Alleged Chinese Spy By Her Husband: Report",
+       "link": "https://www.ndtv.com/world-news/nvidia-ceo-jensen-huang-was-introduced-to-alleged-chinese-spy-by-her-husband-report-12316699#publisher=newsstand",
+       "publishedAt": "2026-11-12T15:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Q2 Results 12th Nov Live: HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
+     "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSk1Wd3ZLbWZVd1pXUWczWldsTkp1UUdaNEhCdi1sWUE3NWw0WmpDMHc4MUdDQWZDQzBKLUs0MVZGbW1vckJQWmV5Y1VWVjVrVFEtTGllcTFSdkJvbWx5U3FGZDFJZ1BzYzJiQ1BMb3hMRUtIUUlDbXBqNmcwbFdpX25jUVkybFpWT0xURWNybmZBLUtHcnJUcUp1ZzA2Q2lVWFpZa0xqdlNLek02Y3RqRXJjeGNlNmJMd0ZFeVBzempUejBacEtnZERJWFNfaVpjRmhZNGxqUjZRMkUzWGczaml3LWo4LXV4S0NmX19SQUtUcVZkU21hWVYxa1p2NWRpdkFfSWZ6WVU1MkZKYXhhOWRHc3ZabGF6S0EydlNDalhkYUJZYW5YcG54eUFOaTZkWm9Nak9Eb0N2SWRDRXVkVDJpNmpMMHhxWEZqenkxdXVVNGhvTjhJNVVwMU9yMDRwZTE2LThyWGRsdnPSAfICQVVfeXFMTTUxQTVpS3NvWnlBY2M3eWROYVVxXzBRRWtadzVoYUg5UU5CVUNULWU1SWwxUzRxMzB2bVZFdnBLcXBDR2VaYklMczdGV3Z3R2lBMFJzX0RkRjAwajlLSkJMMmE1SU1Nc0dkQ0xjeHVsVF9YQUhBZlZjT1lScUx4MEctREo4NGkxQlM5dU1GN3NRc3RkUEotS2MwbEQyVDcyeGlFekpaUzVhZzI4UzNJdERya09SbzZXODVGbE1qdU93aUp6TkZTS2VzcVFTcFZwZXkwalFXRFhTVHJLZlF1UV9JRWlaejZuWHRmYnU3VjVZQ3FNbi1EbERkb1lSN3JBUUNwRUdjRVFOMFZOX2VHbEZZRGNLeWVGX0l6bzR1anh2eEJFMnRyYmVwT2JSTUs0MTlKeG0tdERnMjJ0SEFnNGxqSFlNQjRUX0Z4TTZhRnF5ZmFXNXhZOWxRX25pVVVpWVZCd21GdlVkd2FKZThTc3hUZw?oc=5",
+     "source": "BusinessLine",
+     "sources": [
+      "Business Standard",
+      "BusinessLine",
+      "CNBC TV18",
+      "Kalkine India",
+      "Moneycontrol.com",
+      "NDTV Profit",
+      "Sahi",
+      "TradingView",
+      "Upstox"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-12T19:26+05:30",
+     "score": 10.24,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BusinessLine",
+       "title": "Q2 Results 12th Nov Live: HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
+       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSk1Wd3ZLbWZVd1pXUWczWldsTkp1UUdaNEhCdi1sWUE3NWw0WmpDMHc4MUdDQWZDQzBKLUs0MVZGbW1vckJQWmV5Y1VWVjVrVFEtTGllcTFSdkJvbWx5U3FGZDFJZ1BzYzJiQ1BMb3hMRUtIUUlDbXBqNmcwbFdpX25jUVkybFpWT0xURWNybmZBLUtHcnJUcUp1ZzA2Q2lVWFpZa0xqdlNLek02Y3RqRXJjeGNlNmJMd0ZFeVBzempUejBacEtnZERJWFNfaVpjRmhZNGxqUjZRMkUzWGczaml3LWo4LXV4S0NmX19SQUtUcVZkU21hWVYxa1p2NWRpdkFfSWZ6WVU1MkZKYXhhOWRHc3ZabGF6S0EydlNDalhkYUJZYW5YcG54eUFOaTZkWm9Nak9Eb0N2SWRDRXVkVDJpNmpMMHhxWEZqenkxdXVVNGhvTjhJNVVwMU9yMDRwZTE2LThyWGRsdnPSAfICQVVfeXFMTTUxQTVpS3NvWnlBY2M3eWROYVVxXzBRRWtadzVoYUg5UU5CVUNULWU1SWwxUzRxMzB2bVZFdnBLcXBDR2VaYklMczdGV3Z3R2lBMFJzX0RkRjAwajlLSkJMMmE1SU1Nc0dkQ0xjeHVsVF9YQUhBZlZjT1lScUx4MEctREo4NGkxQlM5dU1GN3NRc3RkUEotS2MwbEQyVDcyeGlFekpaUzVhZzI4UzNJdERya09SbzZXODVGbE1qdU93aUp6TkZTS2VzcVFTcFZwZXkwalFXRFhTVHJLZlF1UV9JRWlaejZuWHRmYnU3VjVZQ3FNbi1EbERkb1lSN3JBUUNwRUdjRVFOMFZOX2VHbEZZRGNLeWVGX0l6bzR1anh2eEJFMnRyYmVwT2JSTUs0MTlKeG0tdERnMjJ0SEFnNGxqSFlNQjRUX0Z4TTZhRnF5ZmFXNXhZOWxRX25pVVVpWVZCd21GdlVkd2FKZThTc3hUZw?oc=5",
+       "publishedAt": "2026-11-12T19:26+05:30"
+      },
+      {
+       "source": "CNBC TV18",
+       "title": "Stocks to Watch for November 13: IRCTC, Oil India, M&M, Ola Electric, Hitachi Energy and more",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEh5cElTLVFfZ1RfZDk2bnFCMGJYR3VST1MxUmYzRkR4NUJXQm9ha3pqbFBoa0VIaWlNVDczb0F2dUNLNTU0QjdXTE1kZnBMTjBMd2tpdms2a3loc2RJc0N3ZXptalIycGNPUks4WmZQdERKV3pTNHQzejRmZ3dRanFhNGNTeExiTTZNQTM2Y2ZnT2d4T09xVHl5b3JkYkU1SFZQbGRQWFI0N0tsdWxNYkFON3N4YkVTSDVaeGNZdnd6RlZwbTdSLTZQbXhfZHYxeVFCVDVR0gHbAUFVX3lxTE9HYWtaWllnbmJxcnZ6MExQUGlOSjE3VzNGcE83Y3lsUWFtM0llcnhBajdEbERpamdpS2dMeExXRVNUX2hLVElOYUhveGxRN2xHLVhMZGY2ek9XNTRudzQwejRQNmI3cXBUQXY5ZThhOG01Z00yZ2NNb0dvNjlfUTZLeHNUaEppNDFsMVZKeDNmYmRiRGFrSWhlc0pJdVl0Z0dNWXJYSHN5RWQwQ0lYS3hLTHc2Q2l4ZWNpTXBPbFktUHZadEVPLVhYVW14RlUwaXRRTU1JeElQdnJJZw?oc=5",
+       "publishedAt": "2026-11-12T17:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "IIT Kharagpur to offer NMC-recognised postgraduate medical courses, with 12 MD seats",
+     "link": "https://www.hindustantimes.com/india-news/iit-kharagpur-to-offer-nmc-recognised-postgraduate-medical-courses-with-12-md-seats-101794491835790.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "ET HealthWorld",
+      "Hindustan Times",
+      "India Today",
+      "Medical Dialogues",
+      "Rediff",
+      "Telegraph India",
+      "The Economic Times"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-12T19:27+05:30",
+     "score": 8.11,
+     "summary": "IIT Kharagpur has become the first IIT to offer postgraduate medical courses recognised by the National Medical Commission (NMC), introducing 12 MD seats across six specialisations.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/12/1600x900/logo/IIT-Kharagpur-will-offer-12-MD-seats-across-six-sp_1794491825974_HV8t.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "IIT Kharagpur to offer NMC-recognised postgraduate medical courses, with 12 MD seats",
+       "link": "https://www.hindustantimes.com/india-news/iit-kharagpur-to-offer-nmc-recognised-postgraduate-medical-courses-with-12-md-seats-101794491835790.html",
+       "publishedAt": "2026-11-12T19:27+05:30"
+      },
+      {
+       "source": "India Today",
+       "title": "IIT Kharagpur becomes first IIT to introduce postgraduate medical courses",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOGhWOVRrM3FOekpaZ3QzUWxmeFMwTUoyZ05xbmZOWldScm5fdmk1aF95Y2ZvQ05XWG84ZFBsd1hPbV8xQnZ2U3dvSHlBWnFiTGJMLTctWnhRc2Fmd2QzYS15bk5IdHlKWUplTVRkZGV6bmg4MkpSVmtQSWV1SUVGZmNfdkRaRFRJTFg3YVkta1pKWTNtcWJ5Q09fcktlM1d4bmhMMERWQm5feUQ0OXJTdExvUnlBREk3Z09lSVV2NUNrSUtmSDFPVHlET29EUEhVYnFickpvRmZnLWZaOXJaaU9NV3M0WnV0YXZ30gHwAUFVX3lxTFA0eVBQSUc4aktubnpuQjJLbmJaVkIyUV9GMUs5WXFicUpwWkJ0RERUN3pHTUduTVJLaGVLOG44bHREVUd5WWlhdVlZaHFIT3Z2M3JwREhteTFqWEJyaE8xQndvSkNWZmhaelFSS3R5dGdJSjktZmx0c0Y2MkdldEZCWkcxaWtqSDlsUnZTVVExY0dzZHJUZXQ1enBSZTE4YmtmeDRFX1UzSUwzMVdaWEJfeGluUGx3dGh5Z0FfQjJyOXhzb0dVa2tXcWJSZlRJTnBBWE5semVLc3RHaTBFRXB5ME1UR29fUmpnR1lkRE44bA?oc=5",
+       "publishedAt": "2026-11-12T16:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Modi to visit Manila for ASEAN Summit; maritime security, trade on agenda",
+     "link": "https://www.thehindu.com/news/national/modi-to-visit-manila-for-asean-summit-maritime-security-trade-on-agenda/article71694308.ece",
+     "source": "The Hindu",
+     "sources": [
+      "ANI News",
+      "CGTN",
+      "NDTV",
+      "Reuters",
+      "Rising Kashmir",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-12T19:42+05:30",
+     "score": 8.02,
+     "summary": "Modi is also set to join Australian Prime Minister Anthony Albanese, U.S. President Donald Trump, and Japanese Prime Minister Sanae Takaichi for the annual Quad summit in Manila. There is, however, no official word on the Quad summit.",
+     "image": "https://th-i.thgim.com/public/incoming/cm9od4/article71694361.ece/alternates/LANDSCAPE_1200/PTI11_12_2026_000222B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Modi to visit Manila for ASEAN Summit; maritime security, trade on agenda",
+       "link": "https://www.thehindu.com/news/national/modi-to-visit-manila-for-asean-summit-maritime-security-trade-on-agenda/article71694308.ece",
+       "publishedAt": "2026-11-12T19:42+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "PM Modi to visit Manila for ASEAN Summit from November 16 to 18",
+       "link": "https://timesofindia.indiatimes.com/india/pm-modi-to-visit-manila-for-asean-summit-from-november-16-to-18/articleshow/135766051.cms",
+       "publishedAt": "2026-11-12T16:23+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Indian PM Modi to attend ASEAN summit in Manila from November 16 to 18",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTd6ZmE1VGk5N3o2dUpJNG9Tbmh0U3o5MHlrWFRvdmxqcTFmSURtV3liZXlvWWJKZmFxczMwNWNFTGp0alYyZ25KTFJPOTlTZVNselhfY2lLWkl6dWlvSERDVmppeTFNWjV0aHZYdmNWS0d4T1BVSGtvLWNaY0I2Wm9kakNhRFBjOWdaUnh1eGl0UEIxblRPR2dpcXY4ZVI5NVdWU0hPQQ?oc=5",
+       "publishedAt": "2026-11-12T16:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Mauricio Pochettino, Manchester United and a move 10 years in the making",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkdUclg0MXFFM1ZEdVV1LXNCMk9fSml1NmJfTGRtNjlRNUJOd2NUX1ItaGY3N0syQjZiOFlqaXdJaWhRclNKckljRUJvS3NXcC1raG9iOExWMmdaWWR2a1JUVjJ6SjJWa3plRzgyUW9ManJsX2hkZU9lZXNUWFhxUGdlVHFITWVXVGVxQzN2X0h0ZWd4NFdNZ0RBN0pxaExpVnVJWWI4UXE?oc=5",
+     "source": "The New York Times",
+     "sources": [
+      "Al Jazeera",
+      "CNN",
+      "ESPN India",
+      "Goal.com",
+      "Manchester United",
+      "The New York Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T15:55+05:30",
+     "score": 7.85,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The New York Times",
+       "title": "Mauricio Pochettino, Manchester United and a move 10 years in the making",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkdUclg0MXFFM1ZEdVV1LXNCMk9fSml1NmJfTGRtNjlRNUJOd2NUX1ItaGY3N0syQjZiOFlqaXdJaWhRclNKckljRUJvS3NXcC1raG9iOExWMmdaWWR2a1JUVjJ6SjJWa3plRzgyUW9ManJsX2hkZU9lZXNUWFhxUGdlVHFITWVXVGVxQzN2X0h0ZWd4NFdNZ0RBN0pxaExpVnVJWWI4UXE?oc=5",
+       "publishedAt": "2026-11-12T15:55+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T18:00+05:30",
    "generatedAt": "2026-11-12T18:34+05:30",
