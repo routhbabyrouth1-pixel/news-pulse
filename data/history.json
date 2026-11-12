@@ -1,6 +1,236 @@
 {
- "updated": "2026-11-12T19:49+05:30",
+ "updated": "2026-11-12T21:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T21:00+05:30",
+   "generatedAt": "2026-11-12T21:27+05:30",
+   "feeds": 16,
+   "headlines": 317,
+   "stories": [
+    {
+     "title": "Trump endorses former Apple CEO Tim Cook to replace Jensen Huang as Nvidia CEO: ‘A legend replaces a legend’",
+     "link": "https://www.livemint.com/news/trump-endorses-former-apple-ceo-tim-cook-to-replace-jensen-huang-as-nvidia-ceo-a-legend-replaces-a-legend-11794498668369.html",
+     "source": "Mint",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Bloomberg.com",
+      "Mint",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 12,
+     "publishedAt": "2026-11-12T21:25+05:30",
+     "score": 14.49,
+     "summary": "US President Donald Trump said, ‘A legend should replace a legend,’ and endorsed former Apple Inc. chief executive Tim Cook's name.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/im-09256963_1783904464243_1783904479306_4ed28173-21dd-45be-bb65-7582a4488e8a_1794498764694_00UN_cd9bae0e-1075-4bfe-b1f5-861bec16b034_6NH2.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Trump endorses former Apple CEO Tim Cook to replace Jensen Huang as Nvidia CEO: ‘A legend replaces a legend’",
+       "link": "https://www.livemint.com/news/trump-endorses-former-apple-ceo-tim-cook-to-replace-jensen-huang-as-nvidia-ceo-a-legend-replaces-a-legend-11794498668369.html",
+       "publishedAt": "2026-11-12T21:25+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Legend replaces a Legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/legend-replaces-a-legend-trump-wants-tim-cook-to-replace-nvidia-ceo-jensen-huang/articleshow/135775422.cms",
+       "publishedAt": "2026-11-12T21:20+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+       "link": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+       "publishedAt": "2026-11-12T21:01+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Nvidia after Huang: Who is interim CEO Kress?",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-after-huang-who-is-interim-ceo-colette-kress/articleshow/135774049.cms",
+       "publishedAt": "2026-11-12T20:27+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Jensen Huang Resignation Live Updates: Nvidia Shares Crash 13%",
+       "link": "https://www.ndtv.com/world-news/nvidia-jensen-huang-resignation-live-updates-colette-kress-chinese-spy-alice-huang-megaspeed-12318417#publisher=newsstand",
+       "publishedAt": "2026-11-12T20:11+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Nvidia CEO Jensen Huang resigns",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-resigns?traffic_source=rss",
+       "publishedAt": "2026-11-12T20:10+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Watch: The latest in the Jensen Huang Nvidia scandal",
+       "link": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-12T18:12+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Nvidia CEO Jensen Huang resigns in big blow to AI boom",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVBCdnZvcnN2bm0yWVhLd0Z0WnFjRTVVbkxmYkZhaWQ4RXUwWEhTa1RJUzl5RzdxblpxajdySFdFdnZ4b1o5Vjk5WWRobUlab3R4VUEwUjcyRDZpd1hnemFMUGhnV1BwU21xTElsSTZiOFBCUjhLb1BHNnRKNlVnZ1EyeFNpcTJHN0g5M2wyekxzT252NHlOZzA4MHZyMTRGMkxUTUFEZmF2eGFX0gGzAUFVX3lxTE9Dd2lpQ3hEN1RrRElJaDZpOWNxQVF5UmRMTGQ4YXk4YTkxeVpyWnhILVFBSlo2Y05pNFZWMlU2NjdnanN6SjZmQWtEV0N5YWxoOThiSHJ0NHROemR0VUcwdUJ0ZEVDdmEwV3VmT2JxekZJUXVkYllBQkRfS3N6WUd3QXlzOEZ6OF84ZlB3N19OYi1rSEtpaUZOUktSYWlRdktWVFhZNkYtVVlMbXBwdVBNd01F?oc=5",
+       "publishedAt": "2026-11-12T19:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Q2 Results 12th Nov Live: HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
+     "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSk1Wd3ZLbWZVd1pXUWczWldsTkp1UUdaNEhCdi1sWUE3NWw0WmpDMHc4MUdDQWZDQzBKLUs0MVZGbW1vckJQWmV5Y1VWVjVrVFEtTGllcTFSdkJvbWx5U3FGZDFJZ1BzYzJiQ1BMb3hMRUtIUUlDbXBqNmcwbFdpX25jUVkybFpWT0xURWNybmZBLUtHcnJUcUp1ZzA2Q2lVWFpZa0xqdlNLek02Y3RqRXJjeGNlNmJMd0ZFeVBzempUejBacEtnZERJWFNfaVpjRmhZNGxqUjZRMkUzWGczaml3LWo4LXV4S0NmX19SQUtUcVZkU21hWVYxa1p2NWRpdkFfSWZ6WVU1MkZKYXhhOWRHc3ZabGF6S0EydlNDalhkYUJZYW5YcG54eUFOaTZkWm9Nak9Eb0N2SWRDRXVkVDJpNmpMMHhxWEZqenkxdXVVNGhvTjhJNVVwMU9yMDRwZTE2LThyWGRsdnPSAfICQVVfeXFMTTUxQTVpS3NvWnlBY2M3eWROYVVxXzBRRWtadzVoYUg5UU5CVUNULWU1SWwxUzRxMzB2bVZFdnBLcXBDR2VaYklMczdGV3Z3R2lBMFJzX0RkRjAwajlLSkJMMmE1SU1Nc0dkQ0xjeHVsVF9YQUhBZlZjT1lScUx4MEctREo4NGkxQlM5dU1GN3NRc3RkUEotS2MwbEQyVDcyeGlFekpaUzVhZzI4UzNJdERya09SbzZXODVGbE1qdU93aUp6TkZTS2VzcVFTcFZwZXkwalFXRFhTVHJLZlF1UV9JRWlaejZuWHRmYnU3VjVZQ3FNbi1EbERkb1lSN3JBUUNwRUdjRVFOMFZOX2VHbEZZRGNLeWVGX0l6bzR1anh2eEJFMnRyYmVwT2JSTUs0MTlKeG0tdERnMjJ0SEFnNGxqSFlNQjRUX0Z4TTZhRnF5ZmFXNXhZOWxRX25pVVVpWVZCd21GdlVkd2FKZThTc3hUZw?oc=5",
+     "source": "BusinessLine",
+     "sources": [
+      "Business Today",
+      "BusinessLine",
+      "CNBC TV18",
+      "IndiaIPO",
+      "Kalkine India",
+      "Sarkaritel.com",
+      "The Economic Times",
+      "The Hindu",
+      "https://www.siam.in/",
+      "marketscreener.com"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-12T19:26+05:30",
+     "score": 10.96,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BusinessLine",
+       "title": "Q2 Results 12th Nov Live: HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
+       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSk1Wd3ZLbWZVd1pXUWczWldsTkp1UUdaNEhCdi1sWUE3NWw0WmpDMHc4MUdDQWZDQzBKLUs0MVZGbW1vckJQWmV5Y1VWVjVrVFEtTGllcTFSdkJvbWx5U3FGZDFJZ1BzYzJiQ1BMb3hMRUtIUUlDbXBqNmcwbFdpX25jUVkybFpWT0xURWNybmZBLUtHcnJUcUp1ZzA2Q2lVWFpZa0xqdlNLek02Y3RqRXJjeGNlNmJMd0ZFeVBzempUejBacEtnZERJWFNfaVpjRmhZNGxqUjZRMkUzWGczaml3LWo4LXV4S0NmX19SQUtUcVZkU21hWVYxa1p2NWRpdkFfSWZ6WVU1MkZKYXhhOWRHc3ZabGF6S0EydlNDalhkYUJZYW5YcG54eUFOaTZkWm9Nak9Eb0N2SWRDRXVkVDJpNmpMMHhxWEZqenkxdXVVNGhvTjhJNVVwMU9yMDRwZTE2LThyWGRsdnPSAfICQVVfeXFMTTUxQTVpS3NvWnlBY2M3eWROYVVxXzBRRWtadzVoYUg5UU5CVUNULWU1SWwxUzRxMzB2bVZFdnBLcXBDR2VaYklMczdGV3Z3R2lBMFJzX0RkRjAwajlLSkJMMmE1SU1Nc0dkQ0xjeHVsVF9YQUhBZlZjT1lScUx4MEctREo4NGkxQlM5dU1GN3NRc3RkUEotS2MwbEQyVDcyeGlFekpaUzVhZzI4UzNJdERya09SbzZXODVGbE1qdU93aUp6TkZTS2VzcVFTcFZwZXkwalFXRFhTVHJLZlF1UV9JRWlaejZuWHRmYnU3VjVZQ3FNbi1EbERkb1lSN3JBUUNwRUdjRVFOMFZOX2VHbEZZRGNLeWVGX0l6bzR1anh2eEJFMnRyYmVwT2JSTUs0MTlKeG0tdERnMjJ0SEFnNGxqSFlNQjRUX0Z4TTZhRnF5ZmFXNXhZOWxRX25pVVVpWVZCd21GdlVkd2FKZThTc3hUZw?oc=5",
+       "publishedAt": "2026-11-12T19:26+05:30"
+      },
+      {
+       "source": "CNBC TV18",
+       "title": "Stocks to Watch for November 13: IRCTC, Oil India, M&M, Ola Electric, Hitachi Energy and more",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEh5cElTLVFfZ1RfZDk2bnFCMGJYR3VST1MxUmYzRkR4NUJXQm9ha3pqbFBoa0VIaWlNVDczb0F2dUNLNTU0QjdXTE1kZnBMTjBMd2tpdms2a3loc2RJc0N3ZXptalIycGNPUks4WmZQdERKV3pTNHQzejRmZ3dRanFhNGNTeExiTTZNQTM2Y2ZnT2d4T09xVHl5b3JkYkU1SFZQbGRQWFI0N0tsdWxNYkFON3N4YkVTSDVaeGNZdnd6RlZwbTdSLTZQbXhfZHYxeVFCVDVR0gHbAUFVX3lxTE9HYWtaWllnbmJxcnZ6MExQUGlOSjE3VzNGcE83Y3lsUWFtM0llcnhBajdEbERpamdpS2dMeExXRVNUX2hLVElOYUhveGxRN2xHLVhMZGY2ek9XNTRudzQwejRQNmI3cXBUQXY5ZThhOG01Z00yZ2NNb0dvNjlfUTZLeHNUaEppNDFsMVZKeDNmYmRiRGFrSWhlc0pJdVl0Z0dNWXJYSHN5RWQwQ0lYS3hLTHc2Q2l4ZWNpTXBPbFktUHZadEVPLVhYVW14RlUwaXRRTU1JeElQdnJJZw?oc=5",
+       "publishedAt": "2026-11-12T17:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Bloomberg.com",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Guardian",
+      "WSJ"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-12T21:13+05:30",
+     "score": 10.46,
+     "summary": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time…",
+     "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+       "publishedAt": "2026-11-12T21:13+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+       "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-12T20:40+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Who Is Colette Kress? Nvidia Finance Chief Is Stand-In For Jensen Huang",
+       "link": "https://www.ndtv.com/world-news/nvidia-interim-ceo-who-is-colette-kress-nvidia-cfo-is-stand-in-for-jensen-huang-12318564#publisher=newsstand",
+       "publishedAt": "2026-11-12T20:23+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
+       "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
+       "publishedAt": "2026-11-12T20:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Inflation At 2-Year High In October, Breaches RBI's Upper Limit",
+     "link": "https://www.ndtv.com/business-news/inflation-at-2-year-high-of-6-09-in-october-breaches-rbis-upper-limit-12317438#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Bloomberg.com",
+      "ET Government",
+      "NDTV",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu",
+      "ThePrint",
+      "Times of India",
+      "United News of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-12T17:17+05:30",
+     "score": 9.81,
+     "summary": "Food inflation spiked to 8.94 per cent in October 2026 from 7.74 per cent in the previous month, according to the data released by the Ministry of Statistics & Programme Implementation.",
+     "image": "https://c.ndtvimg.com/2024-02/i315trfg_inflation_625x300_12_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Inflation At 2-Year High In October, Breaches RBI's Upper Limit",
+       "link": "https://www.ndtv.com/business-news/inflation-at-2-year-high-of-6-09-in-october-breaches-rbis-upper-limit-12317438#publisher=newsstand",
+       "publishedAt": "2026-11-12T17:17+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Retail inflation soars to 2-year high of 6.09%, crosses RBI’s upper limit",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/cpi-inflation-soars-to-2-year-high-of-6-09-crosses-rbis-upper-limit-raises-chances-of-another-rate-hike/articleshow/135766377.cms",
+       "publishedAt": "2026-11-12T16:30+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "India's inflation breaches RBI's red line in October",
+       "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-october-retail-inflation-quickens-to-6-09-to-breach-rbis-tolerance-ceiling-food-fuel-cost/articleshow/135763003.cms",
+       "publishedAt": "2026-11-12T16:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ramayana Part 1 Box Office Collection Day 7 LIVE: Ranbir Kapoor film crosses Rs 1000 cr worldwide, inches away from surpassing Dhurandhar 2",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz0gH7AUFVX3lxTE1jak13ODctTWJQNEd6VFdHam9PWFh0WjFwalJaazhiOS1qUmF1UXZOd0MzTXRSbldnOFpTMUowSk9zRlZha01LV0pqWFR2cDNRQWczeHdpZ285elFhYVJLejZsSkhWbGNOVGtrQklFYnhFUGdPSWhmQmt3SFROU2xWaW1PYy16SXNHeFNFdmpoV1Vyc3ZLb2pDa2Jmd0pKbFdmNjh2eTZ5YXpnVThFU21lcW1EYUV3TnhLT2xFQ1M4OGg5WE91QzBSZ2hGb2I5d2NOd2VvVkJ2VEdoT2l5aFh3bkNDeElSTG9FVlB4aEYyRUNoRTNYX2xnQ0Zz?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "NDTV",
+      "Rediff",
+      "Telegraph India",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-12T21:00+05:30",
+     "score": 7.42,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 Box Office Collection Day 7 LIVE: Ranbir Kapoor film crosses Rs 1000 cr worldwide, inches away from surpassing Dhurandhar 2",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz0gH7AUFVX3lxTE1jak13ODctTWJQNEd6VFdHam9PWFh0WjFwalJaazhiOS1qUmF1UXZOd0MzTXRSbldnOFpTMUowSk9zRlZha01LV0pqWFR2cDNRQWczeHdpZ285elFhYVJLejZsSkhWbGNOVGtrQklFYnhFUGdPSWhmQmt3SFROU2xWaW1PYy16SXNHeFNFdmpoV1Vyc3ZLb2pDa2Jmd0pKbFdmNjh2eTZ5YXpnVThFU21lcW1EYUV3TnhLT2xFQ1M4OGg5WE91QzBSZ2hGb2I5d2NOd2VvVkJ2VEdoT2l5aFh3bkNDeElSTG9FVlB4aEYyRUNoRTNYX2xnQ0Zz?oc=5",
+       "publishedAt": "2026-11-12T21:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T19:00+05:30",
    "generatedAt": "2026-11-12T19:49+05:30",
