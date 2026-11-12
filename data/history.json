@@ -1,6 +1,205 @@
 {
- "updated": "2026-11-12T07:44+05:30",
+ "updated": "2026-11-12T09:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-12T09:00+05:30",
+   "generatedAt": "2026-11-12T09:22+05:30",
+   "feeds": 16,
+   "headlines": 165,
+   "stories": [
+    {
+     "title": "Nvidia Board Prepares To Fire CEO Jensen Huang Over 2 Affairs: Report",
+     "link": "https://www.ndtv.com/world-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-over-spy-affair-row-report-12314761#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The New York Times",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-12T08:35+05:30",
+     "score": 11.37,
+     "summary": "Nvidia's board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, including one with a suspected Chinese spy, the Wall Street Journal reported on Wednesday, citing people familiar with the matter.",
+     "image": "https://c.ndtvimg.com/2026-11/psf2lj4_kimberly-powell-jensen-huang-alice-huang_625x300_12_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Nvidia Board Prepares To Fire CEO Jensen Huang Over 2 Affairs: Report",
+       "link": "https://www.ndtv.com/world-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-over-spy-affair-row-report-12314761#publisher=newsstand",
+       "publishedAt": "2026-11-12T08:35+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+       "publishedAt": "2026-11-12T08:28+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "As board weighs CEO Jensen Huang's 'exit', Nvidia shares fall 8%",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-shares-fall-8-after-hours-as-board-reportedly-weighs-jensen-huangs-exit/articleshow/135751718.cms",
+       "publishedAt": "2026-11-12T06:29+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Nvidia board meets to decide CEO's future",
+       "link": "https://economictimes.indiatimes.com/news/international/business/nvidia-board-meets-to-decide-ceo-jensen-huangs-future-source-says/articleshow/135751716.cms",
+       "publishedAt": "2026-11-12T06:25+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+       "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
+       "publishedAt": "2026-11-12T06:13+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Nvidia preparing to oust CEO Jensen Huang: U.S. media",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXdFOU1qZ1djZTNTVjVxZWxCVVM5Y2FQNVpMQVdKQmhnUTZybGRUSTAtdTF0eHZPSXh5cVZJTzZPZE16SlN0aktKNURmYkZ0LUo3aEYxS2FkWXZWM2owNGZKUU9ud3NkTl93cXBPaDE0ZzZhUGZTS240TGlPTmFYNENwanhuTmNUQW5LN0JkUUhUek1TTDZlXzdkaGdjT1FXLXVBM0JBWC1mTWNnNmRBdTZOczTSAbsBQVVfeXFMUFBWbnRRbmJKZC1tTXM3UENiUXdyQ2hBRW9qYnBOU3JGUk5NQkJDTjBxR2ZVVlMwMENHY18tTjIxbkE1cVgwYUM3ZnpLbm82THFaLTlNSGEtZFNiZWRZbmk5bXZEOTdLLXdfeVJTRjFsNl9SUDQ4R0o3eUwtZV9BTnAtSWZDenIzQVlnTVhIQkxPTWJfM29RcDhGNmxQOHFCaUpJQmU3OGNmWGM0NWNfR1VjVWxLZXRHMlB4aw?oc=5",
+       "publishedAt": "2026-11-12T06:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Taurus Horoscope Today: November 12, 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NOEhWVTJpc3Bhc3FCVGxtYUFMUVBYUlJqeUR4enNoMjQyVXVsXzJYS0RNaVMxdk5ZVFcxNFFPeFpoSFIzTVZfU1I1SlZ1eVk3dHZKeFJlcXRRWUVhZlNMQkY4cWdkRHlKYU9PX1dkT3ZESDkwUnU4?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "Deccan Herald",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "Syracuse.com",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "Yahoo"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-12T05:50+05:30",
+     "score": 9.6,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Taurus Horoscope Today: November 12, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NOEhWVTJpc3Bhc3FCVGxtYUFMUVBYUlJqeUR4enNoMjQyVXVsXzJYS0RNaVMxdk5ZVFcxNFFPeFpoSFIzTVZfU1I1SlZ1eVk3dHZKeFJlcXRRWUVhZlNMQkY4cWdkRHlKYU9PX1dkT3ZESDkwUnU4?oc=5",
+       "publishedAt": "2026-11-12T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "\"Sabko Maar Ke Jaunga\": Chilling CCTV Of Ex-Tech Mahindra Executive's Murder In Faridabad",
+     "link": "https://www.ndtv.com/india-news/faridabad-ex-tech-mahindra-executives-murder-cctv-gun-loaded-sabko-mar-ke-jaunga-12315210#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "Inshorts",
+      "NDTV",
+      "NDTV Profit",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-12T08:52+05:30",
+     "score": 8.13,
+     "summary": "The shocking CCTV video shows the victim going out of the building and closing the gate as Monu Sharma, who has now been arrested, follows.",
+     "image": "https://c.ndtvimg.com/2026-11/a8jft0hs_faridabad-ndtv_625x300_12_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "\"Sabko Maar Ke Jaunga\": Chilling CCTV Of Ex-Tech Mahindra Executive's Murder In Faridabad",
+       "link": "https://www.ndtv.com/india-news/faridabad-ex-tech-mahindra-executives-murder-cctv-gun-loaded-sabko-mar-ke-jaunga-12315210#publisher=newsstand",
+       "publishedAt": "2026-11-12T08:52+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Chased & then shot: Chilling CCTV video of ex-Tech Mahindra regional head's murder",
+       "link": "https://timesofindia.indiatimes.com/city/faridabad/chased-shot-even-after-falling-cctv-captures-chilling-murder-of-ex-tech-mahindra-regional-head-paramjeet-dhankar/articleshow/135746535.cms",
+       "publishedAt": "2026-11-12T06:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Chased, shot even after falling: CCTV captures chilling murder of ex-Tech Mahindra regional head Paramjee",
+       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQaG5NandBdGZKNThGLTZlRjc4NHhfZ1AzMmJTaTRXVXU2WjFXLWE0VkdUOHlLOENiZkhJRmN4OFRQWHdGTi1fd3N4VDA4R2ppUG4xNWo4RmtucEVVR0tJYjRTYkl3NFR3RVJnaTZ1Y2k1RVczamk0ZDlhOVZzV2dGMy10VUZNLUUyTXF6NzVSdVhJb1BiclhZMUhMdjJpTWRuWW1QS0lubGRNaXpuNDBPanktNkg2Um1zRk16YnlLc25YMVVYdDFMQVBNMXhPYmtzTGhnWENOVGt4dW9VSFpQTlg5VUpxQmJrY2tqNnVMWnJ4UzZySW42WVlhRUNIaWxaOHduR1JQLU9DVXBpTDlSRHJxdmp0TWpX?oc=5",
+       "publishedAt": "2026-11-12T06:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
+     "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrat-scott-colom-becomes-mississippis-first-black-senator-since-1874/articleshow/135751018.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "CNN",
+      "The Guardian",
+      "The New York Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T04:56+05:30",
+     "score": 7.76,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135751047,imgsize-177548.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrat-scott-colom-becomes-mississippis-first-black-senator-since-1874/articleshow/135751018.cms",
+       "publishedAt": "2026-11-12T04:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
+       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORTRJVklDeGxDT3drLU5BTkNrelBSMERQZkFqejFNVVNRQ2RiRC1rZWlsR05WeEpKZmpScnc2RlRRTzI1S1Y3Q3NxamhVeFpIQzU0aVo0M3NaV0FTbkh0ZHpjejNud3BfN01OVGFDZlFiZTh0dlV5YXU2WkMzQm9sNE0tRlRqb1lqd2NwSnROaGY0RGJhQ1JaVDBBaHB0TC1tUHdWSHV5TW01Uml0aFh4dEhzTzVkZUdfeHczYVBaYXprZUZFdVZZSmxxSXhlVDRZRmMwamo3bFRkSTZtbnhIR053M2FIRV9udkU3elVwNlNXZUVBaXQ3aHFnX1p5MzQ?oc=5",
+       "publishedAt": "2026-11-12T04:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Record FPI buying in November sends sensex to near 9-month high",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/record-fpi-buying-in-november-sends-sensex-to-near-9-month-high/articleshow/135750919.cms",
+     "source": "Times of India",
+     "sources": [
+      "ET Enterprise AI",
+      "Telegraph India",
+      "The Economic Times",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-12T04:32+05:30",
+     "score": 6.41,
+     "summary": "November witnessed a remarkable resurgence of foreign portfolio investors in Indian equities, injecting more than Rs 73,200 crore into the market. This significant influx has driven indices like Sensex and Nifty to new heights. Factors such as declining crude prices and encouraging corporate earnings have rejuvenated investor confidence, leading to a total market capitalization that has exceeded Rs 510 lakh crore.…",
+     "image": "https://static.toiimg.com/photo/msid-135750939,imgsize-123724.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Record FPI buying in November sends sensex to near 9-month high",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/record-fpi-buying-in-november-sends-sensex-to-near-9-month-high/articleshow/135750919.cms",
+       "publishedAt": "2026-11-12T04:32+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Record FPI buying in November sends sensex to near 9-month high",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY2xuZkRQcXRWMUhvcjhKc1RXMkI1d1FMWHoxNE1SVm0yQVYycEVsZUFaYlJmcHVCQ1kza1JUNUM4dExfdGRRUG54ZEpDVUpoSXl5Q2JXZUNpTVVaX2lLbGdiS1Vqd0VWUFRzM29KUkpONVpCdUJ2QklzWTJCSnR6MHBMd3hhYjFiRkJUN2FDRWZVbzFQaXlhdVFqQ2tZOE54VllrcmNCcjFQNEpIWjFVeG5jNTBJeW5mdWZIVnRWM0lDOVh6UC1NSFdteWVPd0NnNElsMDBGMjBlZnNrd1V5eUxUMA?oc=5",
+       "publishedAt": "2026-11-12T04:32+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-12T07:00+05:30",
    "generatedAt": "2026-11-12T07:44+05:30",
