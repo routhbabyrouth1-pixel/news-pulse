@@ -1,6 +1,177 @@
 {
- "updated": "2026-11-13T11:27+05:30",
+ "updated": "2026-11-13T12:39+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T12:00+05:30",
+   "generatedAt": "2026-11-13T12:39+05:30",
+   "feeds": 16,
+   "headlines": 271,
+   "stories": [
+    {
+     "title": "Microsoft struggles to fix huge outage affecting Outlook and Teams",
+     "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+     "source": "The Guardian",
+     "sources": [
+      "ABC News & Headlines – Australian Broadcasting Corporation",
+      "Firstpost",
+      "Hindustan Times",
+      "NDTV",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-13T12:29+05:30",
+     "score": 10.47,
+     "summary": "Company has ruled out a cyber attack but says fixes to help thousands of affected users have not been successful Microsoft outage – live updates Microsoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more than nine hours on Thursday and Friday, with Microsoft scrambling to find a solution after initial fixes failed to bring services back online. A Microsoft spokesperson said the…",
+     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Microsoft struggles to fix huge outage affecting Outlook and Teams",
+       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+       "publishedAt": "2026-11-13T09:54+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft Outlook outage: When will it resume?",
+       "link": "https://economictimes.indiatimes.com/news/new-updates/microsoft-outlook-outage-status-is-email-working-again-whats-down-whats-working-and-when-will-services-resume/articleshow/135788863.cms",
+       "publishedAt": "2026-11-13T09:40+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft says steps to fix Outlook outage not going 'as expected'",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR0gHyAUFVX3lxTE9mR1d1UjQ0Mm1HT3g3MFF0QnJmRktoTmhEaEhmbTRSOC1rVkV5LWtTS1NoWVk0UkI1aUlvQ1pPd0xpcE5sYTNIbXVKeU9vanI4LXZlVVBUR0JtYUIwaEg0X2JCako1ZUczY1JmRGctaHUzX2VxTUtSRFliWV84bUJqNzBvQjQ0UjFySElESGRnMWs2Tm5uN2NIWjJ0ZFNMNU5WWi1KMEhaUWVlcXdqQTFGNVNOTEJPOXhRdVluSWdMRDh5SURWS3hnd215VHlGWTN0bU1fOXFIY1Zsd19ydWtHSnZ3MEdMNzVKc3h2cEhxTHhR?oc=5",
+       "publishedAt": "2026-11-13T12:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Kohli plays peacemaker after Brar's animated send-off to Seifert, video goes viral",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-plays-peacemaker-after-gurnoor-brars-animated-send-off-to-seifert-video-goes-viral-watch/articleshow/135790745.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "Firstpost",
+      "India Today",
+      "Moneycontrol.com",
+      "NDTV Sports",
+      "NewsBytes",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-13T11:16+05:30",
+     "score": 9.14,
+     "summary": "Seifert attempted to pull Brar off the sixth ball of the 12th over but failed to make proper contact. The ball went high in the air and wicketkeeper Ishan Kishan completed the catch.",
+     "image": "https://static.toiimg.com/photo/msid-135791060,imgsize-120095.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Kohli plays peacemaker after Brar's animated send-off to Seifert, video goes viral",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-plays-peacemaker-after-gurnoor-brars-animated-send-off-to-seifert-video-goes-viral-watch/articleshow/135790745.cms",
+       "publishedAt": "2026-11-13T11:16+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Virat Kohli plays peacemaker after Gurnoor Brar's animated send-off to Seifert, video goes viral - Watch",
+       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOSlVOX0dxZXg5eFN2NV9ndFNFaDBmVDF3MG93ZDZBUUVaWW5qclp6eWhOOWplTzJWMU43LWVVLTdkVU1aMEVxRHZFN0RUME5JY2VRdFJXWlF3UmhheXcwTkdILWVDRlZGNTZoZV96LXZSNWRvMkZVcUpSWlpoeEhYYm93MURFelZGZm9DdlFKQ3A3WUtCUDJFQXlIQnp6X2p6bXpCNlZqc3JadUtmNm8xODh4UVlnamI5cGJJTEpRZDY5SjVJUHNMZy12SG5MMVhvQUNOUGJ1V19RRVRidnFqZHFIQjdfXzhsWjBDMFM3bGJqQlNCSWNTTUxoY1hoaHk4R0lEaW1uTU43cDFFamRNZjZXLW5fUlhtWHh0c2l2dXNKYVV60gGqAkFVX3lxTE5jQ0dkX0l0bE1va282M1FKTWpqSXRNMUdNLWNuOEViaEJvZmxiR09lYVpadUNKVWlXdHVFWlRncnJqUjJOZVNycG80YTZ5Q2ZGdU1tU29kbE1BcUR4eGNFNUxxS2dFR3hzTHB1UER3MlJfamp2bHoxdnI5XzFYS1VIQUVYN0ZQOFpkWlJRZmZqOVpZYlJuN3JQNEtRb0RNb1d4SlBzSmpXczRRUFRRVmxjQW85aFlYRVpSZUpPeE51RWFKS0dYU2ZRVnhpVnkzTGxYeTdfdGtVN1BXaEFmRWdlbDhESlM1WXdIM1NIbmJSZ0lMbW1BOV9taVB1Q2M2RGtQdDVWRV9TMUlIUWNWN1JVLUZQdVJDRzZuNmJuckt5aGdBSkhJa1k3bFE?oc=5",
+       "publishedAt": "2026-11-13T11:16+05:30"
+      }
+     ]
+    },
+    {
+     "title": "New Zealand: 258/5(37.3) | IND vs NZ 4th ODI Match - Live Cricket Score, Full Scorecard, Bay Oval, Mount Maunganui",
+     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOOE5KbExSYmRLWTd2MkVnUWlHMFNVOWZTUDdwb191NkJmNENzU3VqeDJCMDBmT053ZmpweUUwXzRQbmI1WGxFVy1idkFVUXc2cU44bndVTjhsS0lkYnQwR2ZZY3BkMzV3aEtMNm84aXQtV0QyVk1ERWFlTlhiYS1KY2k1cXRaTTJrRlo1M1pvQ1IyX1JoMlFFZF9CZzZ0S05JYzNkSDloYm5EV2RneFBIQ1Z1VW81RF9SakNoZVl4ZnJ5dnJBQnJycWdGY3FJdk50VGtZNTFWalo1QXpORXo0RWI4ZElISElQa3RNeDBCMDdTdFI2VUlVaUhBVTBRY2UtMlI5dERXS0lFcDFuY2YtNnJB?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "BCCI",
+      "Cricinfo",
+      "Rediff",
+      "Sportstar",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T12:22+05:30",
+     "score": 7.45,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "New Zealand: 258/5(37.3) | IND vs NZ 4th ODI Match - Live Cricket Score, Full Scorecard, Bay Oval, Mount Maunganui",
+       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOOE5KbExSYmRLWTd2MkVnUWlHMFNVOWZTUDdwb191NkJmNENzU3VqeDJCMDBmT053ZmpweUUwXzRQbmI1WGxFVy1idkFVUXc2cU44bndVTjhsS0lkYnQwR2ZZY3BkMzV3aEtMNm84aXQtV0QyVk1ERWFlTlhiYS1KY2k1cXRaTTJrRlo1M1pvQ1IyX1JoMlFFZF9CZzZ0S05JYzNkSDloYm5EV2RneFBIQ1Z1VW81RF9SakNoZVl4ZnJ5dnJBQnJycWdGY3FJdk50VGtZNTFWalo1QXpORXo0RWI4ZElISElQa3RNeDBCMDdTdFI2VUlVaUhBVTBRY2UtMlI5dERXS0lFcDFuY2YtNnJB?oc=5",
+       "publishedAt": "2026-11-13T12:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Modi in Bengaluru: PM participates in Prashanti Kutiram celebrations, to inaugurate Namma Metro Pink Line | LIVE",
+     "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Herald",
+      "News On AIR",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T12:14+05:30",
+     "score": 7.43,
+     "summary": "PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m. today. He will flag off the metro service and take a ride on the newly inaugurated stretch",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Modi in Bengaluru: PM participates in Prashanti Kutiram celebrations, to inaugurate Namma Metro Pink Line | LIVE",
+       "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
+       "publishedAt": "2026-11-13T12:14+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Bengaluru Metro Pink Line launches today",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/100-km-of-namma-metro-bengaluru-becomes-home-to-indias-second-largest-metro-network-as-pink-line-opens-iimb-jp-nagar-tavarekere-get-new-names/articleshow/135789490.cms",
+       "publishedAt": "2026-11-13T10:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US Senator Chris Van Hollen announces bid to replace Schumer as Democratic leader",
+     "link": "https://timesofindia.indiatimes.com/world/us/us-senator-chris-van-hollen-announces-bid-to-replace-chuck-schumer-as-democratic-leader/articleshow/135789973.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "CGTN",
+      "IAM Union",
+      "The Guardian",
+      "The Hill",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T10:46+05:30",
+     "score": 7.19,
+     "summary": "Chris Van Hollen has declared his intention to run for the Senate Majority Leader position against Chuck Schumer. He argues that the Democratic Party needs new leadership to better address voter desires for change. Support for Van Hollen's bid has come from influential figures like Bernie Sanders and Abdul El-Sayed. Meanwhile, Schumer maintains his confidence in retaining his leadership role amid ongoing discussions.",
+     "image": "https://static.toiimg.com/photo/msid-135790338,imgsize-1342348.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "US Senator Chris Van Hollen announces bid to replace Schumer as Democratic leader",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-senator-chris-van-hollen-announces-bid-to-replace-chuck-schumer-as-democratic-leader/articleshow/135789973.cms",
+       "publishedAt": "2026-11-13T10:40+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "US Senator Chris Van Hollen seeks to lead Democrats: Who is he?",
+       "link": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
+       "publishedAt": "2026-11-13T09:58+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T11:00+05:30",
    "generatedAt": "2026-11-13T11:27+05:30",
