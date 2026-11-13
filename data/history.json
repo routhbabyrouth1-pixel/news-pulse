@@ -1,6 +1,201 @@
 {
- "updated": "2026-11-13T16:27+05:30",
+ "updated": "2026-11-13T17:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T17:00+05:30",
+   "generatedAt": "2026-11-13T17:22+05:30",
+   "feeds": 16,
+   "headlines": 315,
+   "stories": [
+    {
+     "title": "Gujarat BJP MLA’s nephew arrested, released on bail in hit-and-run case that killed 1",
+     "link": "https://www.hindustantimes.com/india-news/gujarat-bjp-mla-s-nephew-arrested-released-on-bail-in-hit-and-run-case-that-killed-1-101794569690434.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Deccan Chronicle",
+      "Gujarat Samachar",
+      "Hindustan Times",
+      "NDTV",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T17:04+05:30",
+     "score": 8.45,
+     "summary": "Police identified the suspect as Raghavendra Kushwaha, the nephew of BJP legislator from Ahmedabad’s Bapunagar constituency, Dineshsinh Kushwaha",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/The-accident-took-place-around-6-45am-on-Wednesday_1794569680850_HjSg.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Gujarat BJP MLA’s nephew arrested, released on bail in hit-and-run case that killed 1",
+       "link": "https://www.hindustantimes.com/india-news/gujarat-bjp-mla-s-nephew-arrested-released-on-bail-in-hit-and-run-case-that-killed-1-101794569690434.html",
+       "publishedAt": "2026-11-13T17:04+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Ahmedabad hit-and-run: BJP MLA's nephew arrested after Range Rover kills man",
+       "link": "https://timesofindia.indiatimes.com/city/ahmedabad/speeding-range-rover-kills-young-man-in-ahmedabad-mlas-nephew-arrested-later-gets-bail/articleshow/135797277.cms",
+       "publishedAt": "2026-11-13T15:21+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Ahmedabad hit-and-run: BJP MLA's nephew arrested after Range Rover kills man",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZDFDdTB2dEVnMlVENDFkRVhncXg3ZVIxTUo2YzU4a1JCTmFRTFdQZFpvc29RWU1ROERHUmdHdzdJTmwzSHVVUXRUQmhqZ2N0RlJkU3lXeXY1d0ZYRkFkTlhZNU5fWGZScVMyTk85V19QSGp6dHNSTnBQSnVRWWhmTnZhS1puc0lpRVNSQ3piR1E1TV93ZFNBRHYzU29QVmtWdU9kWUNTWVJodXRYR1VvMERxcnJLWXBrd0RkazFQTUFCaG00MXJVemtneXFIWU8wRkpzdkZZVHpsSmpzWHJvMHhlR1VDc2F3UmhwLW1hR2ItcFl0NXc?oc=5",
+       "publishedAt": "2026-11-13T15:21+05:30"
+      }
+     ]
+    },
+    {
+     "title": "What we know about the global Microsoft outage",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T16:48+05:30",
+     "score": 8.4,
+     "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "What we know about the global Microsoft outage",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T16:23+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+       "publishedAt": "2026-11-13T16:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Four killed as suspected militants fire at two cars in Manipur's Ukhrul",
+     "link": "https://www.thehindu.com/news/national/manipur/four-killed-as-suspected-militants-fire-at-two-cars-in-manipurs-ukhrul/article71697437.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Cricbuzz",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express",
+      "The New Indian Express",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T17:12+05:30",
+     "score": 8.14,
+     "summary": "The incident occurred in the New Heaven area on the Imphal-Ukhrul road when the armed rebels fired at two four-wheelers, a senior officer said",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Four killed as suspected militants fire at two cars in Manipur's Ukhrul",
+       "link": "https://www.thehindu.com/news/national/manipur/four-killed-as-suspected-militants-fire-at-two-cars-in-manipurs-ukhrul/article71697437.ece",
+       "publishedAt": "2026-11-13T16:20+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "India news Live Updates, 13 November 2026: Four killed as suspected militants open fire at vehicles in Manipur’s Ukhrul",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMVc1akhOU1BhWU5qcXdRcUZMYU1iS2kwYmZLb3VUNXdmVzMxbDFUVE5rU0F3Z2JlQjk0elpPMXFHQ0F4RmpYekxrbUZRMUJWODc5ZmpGbkw1aXpYMlgzR0xCWWRDT1Z0Mm55cjlBdVVGdUNySjVXZm9iR0hWUDduMkhfN1k0cjRDVURlX0tIM1ZwM0t5bGxxUFMtbktlbjk2S2tDMEt4cmRzOFhLbjNvc052eWwyczNjZFdVZjBBeXZmNGVKYXNjeDlmcDY5V2lJQms2MUtPTGI4TnF1bDZrUXd5R3F6SDFRTEc1bUlzTFNwWnQ1VXc?oc=5",
+       "publishedAt": "2026-11-13T17:12+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "News Digest - November 2026",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkRxNThnOERsUzlDbDMyWWVxZFdCU2FlUGpaTW8xVFEwS3dUdmZjdllMWTVWRzNFMl9fOWVqbW81MlpRbmtSY040c2FvWGl2MTVNLW5oT1g5U3NubmtqdjVxMk5hWUhTV2J5WlNkczVRbEx4anlRdE5oUnNvMzI4Mjl2b041NVZ5b2c?oc=5",
+       "publishedAt": "2026-11-13T11:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India's exports jump 29.9% to $89.99 billion in October, trade deficit narrows",
+     "link": "https://www.hindustantimes.com/india-news/indias-exports-jump-29-9-to-89-99-billion-in-october-trade-deficit-narrows-101794562510983.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Business Standard",
+      "Hindustan Times",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T15:08+05:30",
+     "score": 7.84,
+     "summary": "The country's exports stood at USD 69.27 billion in the same month last year.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/export_1794562610876_FNIy_1794562610999_blG4_ebf1de18-45c6-4734-8f5a-4a1bb46deb88_05SC.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "India's exports jump 29.9% to $89.99 billion in October, trade deficit narrows",
+       "link": "https://www.hindustantimes.com/india-news/indias-exports-jump-29-9-to-89-99-billion-in-october-trade-deficit-narrows-101794562510983.html",
+       "publishedAt": "2026-11-13T15:08+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "India's exports jump 29.9% to $89.99 billion in October; overall trade deficit narrows",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-jump-29-9-to-89-99-billion-in-october-overall-trade-deficit-narrows/articleshow/135797333.cms",
+       "publishedAt": "2026-11-13T15:04+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "India's exports jump 29.9% to $89.99 billion in October; overall trade deficit narrows",
+       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORlQ4eEFNUWktZ1RzLUYyY2RiXzVpT2hkZ1ZRNjhzVGk1Tl91c1Z3Y3ZHekxDZWJLSU9fcW56TTNTNVNBWGpCS2V0VUxJVXFXM0hLQ3dkUlgyLTdVVUYyWnZqZmp1SHlXdlBPTWlCUk9CZkRsX2NjaXZlTnZEaFlvNnRIWXlUblZKYUxSdE1iczQ3bGtzbkNzQ3p3SkM1S3Z1Z19XZWh6T0RQMWxlNTYyb25tU2d6dGtOX1I0Q1RuNzZBdGxJZGlTTzlYcTU4RmtBbXI5eGpUT1VPTHBOS0gtVjZoRjdQcGo3TTNvMXIxUWhuc0t2azl6RklSRFg?oc=5",
+       "publishedAt": "2026-11-13T15:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "The PM’s political career will be over if we were to debate: Rahul Gandhi",
+     "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T17:11+05:30",
+     "score": 7.72,
+     "summary": "The Prime Minister taps my phone, the Opposition leader says; he is no longer attacking me, Congress leader adds, as there is ‘a little fear’ in his mind",
+     "image": "https://th-i.thgim.com/public/incoming/5xhd41/article71696709.ece/alternates/LANDSCAPE_1200/PTI11_04_2026_000324B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "The PM’s political career will be over if we were to debate: Rahul Gandhi",
+       "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
+       "publishedAt": "2026-11-13T17:11+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘The proof is in the phone’: Rahul Gandhi dares PM Modi to debate on anti-national charge",
+       "link": "https://www.hindustantimes.com/india-news/the-proof-is-in-the-phone-rahul-gandhi-dares-pm-modi-to-debate-on-anti-national-charge-101794562663742.html",
+       "publishedAt": "2026-11-13T15:07+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'No long speeches': Rahul Gandhi renews debate challenge to PM Modi with a 'guarantee'",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRFdNSllRdldQbG9wNERsaDZldkxSblBqaDJrOU14LXFWRzFFNC1ES0phQmc1V0VnSXYtd1pFb0xxMGk4NVpCUzVuOWdiWXE5YzBnY3hKY2VYMzVPUVJmN1U4SmRjS0ZhbDF1emZlN3hOdDZfc2tKanpyUkg4RnIxUGRJX2RTTFJPbGhJTlNoMVdydmpFM01XcnhVUGFiVC1jay1ZX3FxWVJVaTBzOTJEQWhpb3g0N3V4UUh4bEppcXZzVGlBX09kR3NOSDI0M05JZXNyX3dfR3FfUEd6b0NHd3k5NA?oc=5",
+       "publishedAt": "2026-11-13T13:27+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T16:00+05:30",
    "generatedAt": "2026-11-13T16:27+05:30",
