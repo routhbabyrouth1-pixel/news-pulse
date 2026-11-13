@@ -1,6 +1,200 @@
 {
- "updated": "2026-11-13T10:26+05:30",
+ "updated": "2026-11-13T11:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T11:00+05:30",
+   "generatedAt": "2026-11-13T11:27+05:30",
+   "feeds": 16,
+   "headlines": 253,
+   "stories": [
+    {
+     "title": "Your Love Horoscope For November 13: A Relationship Rebuilding Phase Begins As Mercury Goes Direct",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fUktXRkNRWE05ODBvcGlOZmxsRDBCc3owTVR6bVBDcVB2eUtIM1hUVGFFZjNZMjkzclhablJLdjdrcWgxSXFGSS0xWDBPWnRkOWZXOUJFbm81SVR5eDEyR05lYUZXb3hRY3Z1alBNQk5BZHlpcS1pbmZIOA?oc=5",
+     "source": "YourTango",
+     "sources": [
+      "Cosmopolitan",
+      "ETV Bharat",
+      "Femina",
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "Yahoo",
+      "YourTango"
+     ],
+     "sourceCount": 12,
+     "publishedAt": "2026-11-13T07:37+05:30",
+     "score": 12.66,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "YourTango",
+       "title": "Your Love Horoscope For November 13: A Relationship Rebuilding Phase Begins As Mercury Goes Direct",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fUktXRkNRWE05ODBvcGlOZmxsRDBCc3owTVR6bVBDcVB2eUtIM1hUVGFFZjNZMjkzclhablJLdjdrcWgxSXFGSS0xWDBPWnRkOWZXOUJFbm81SVR5eDEyR05lYUZXb3hRY3Z1alBNQk5BZHlpcS1pbmZIOA?oc=5",
+       "publishedAt": "2026-11-13T07:37+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 13, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRR0lsSHNuQXJlSjNZczVkdUxRWmE5Y0xWUzlycEtFbUtoVVlQenY1c0hyZzJZQzZOanNWNmxGaEpqX08tNVNTcl9XX0dnRU5fRWtTcFZ3QlBUbXRhRDZXNVpOX1JFZXdzNTN3UVBR?oc=5",
+       "publishedAt": "2026-11-13T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'I'm A Piece Of Sh*t': Inside Jensen Huang's Final Hours As Nvidia CEO",
+     "link": "https://www.ndtv.com/world-news/inside-jensen-huangs-final-hours-as-nvidia-ceo-im-a-piece-of-sh-t-12320357#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC News",
+      "GuruFocus",
+      "MLex",
+      "NDTV",
+      "Qazinform",
+      "TechCrunch",
+      "The Economic Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-13T09:34+05:30",
+     "score": 9.72,
+     "summary": "For the decades Jensen Huang spent building Nvidia into a multitrillion-dollar AI chip behemoth.",
+     "image": "https://c.ndtvimg.com/2026-11/62c74dhs_jensen-huang-bloomberg_625x300_13_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "'I'm A Piece Of Sh*t': Inside Jensen Huang's Final Hours As Nvidia CEO",
+       "link": "https://www.ndtv.com/world-news/inside-jensen-huangs-final-hours-as-nvidia-ceo-im-a-piece-of-sh-t-12320357#publisher=newsstand",
+       "publishedAt": "2026-11-13T09:34+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "‘I don’t care’: How Jensen Huang’s last hours as Nvidia CEO unfolded",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/i-dont-care-how-jensen-huangs-last-hours-as-nvidia-ceo-unfolded/articleshow/135788716.cms",
+       "publishedAt": "2026-11-13T09:32+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T09:27+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "‘I’m a piece of sh-’: Huang’s last hours as CEO",
+       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/im-a-piece-of-sh-jensen-huangs-last-hours-as-nvidia-ceo/articleshow/135786445.cms",
+       "publishedAt": "2026-11-13T07:42+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "CEO of world's largest AI models repository, Hugging Face, calls Jensen Huang's resignation as Nvidia CEO",
+       "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQV3NjdThzeDUxQWV4MUxQZ0VRNmROYzdnNFIweGNWU3NpMzFEZnVJMmlBeGdId3lMWW1SWnFVTWlsQTlHOEg5SDZFVnFad3p3NWwzeXNRYjNSWVNOUjQ2eGh2YVVINzVXVXRvNllDTmkxZjJrbWNOZjAtZFJsMVZ3amtTVlRIdmdsS2NUUW1tLWhIaU14dHJCSzBGaGlSZU1RcEFvNG5jNWpaZlFKLUN4RFhqSDlyUUp2eFpocjJfNE10UnZIcXdEWGFBUEJIZVIyTHNfdGFEbHFmdG9UNjluTDBZSEFsaTlPSnU2ZElITWNuckZtTlJCVlJ5dGkzTF85UVVCUzh4dEVuYVZONjAxWGVsS2xscElBRGt1dGdEdEpLNUVHN3ljMlNUZWNvdTZhS0Y2QU5SZkN0cXVFQ3lMSXcxVmliZmN1YzdlYnZJN3pkaDFMbi1PWGpGTHNBWVVvejVhOGJ1R3ZrSFNhbjdENjlB0gH3AkFVX3lxTE9LelVwYjRPOUxDM01KcVE2clN4TFJMT1VJUkRBbHZCZWVqejZvRFoxbW84bU5jNDdMemVWZ0hpTzdMempsYlpsZHFhWlVVQWxrRWJsTmpuY0hEbDhGS09RNVF3cmRJTllQdzZjU2xKUkVCVWMwVWRMUXJ0WEJralVkMFMyM20xenI3NXRHS2YwSEZPRmt5SVhKTTdOZjVRRVlPSjZnbldudzIzcklqSkFQYV80ak9OTnh4U0FpOXRqTFlsU0xVRjlJMlBDZjR2WUhObXp1c0JabmNZUEdmazNfQmhxWVZUUGVyeGJCX0pPRGlheW1HTXpRa1ZiWjNVOEZHOFNJWXd4WDFCVmpVOFI0ZVlGQWNwcnh1UmdHTjl0Sl8wTmFOekFJcFJxek42N3NUdm8zRlNKNC0zenRiNVlfNTNLOVBhaXpKMDQ3RVZvOWlmbmU2bVhsbWxpaXB0bkZJYmNjeld4Ynl3RzJtbllNd082RV9RQQ?oc=5",
+       "publishedAt": "2026-11-13T07:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cummins: Khawaja's allegations 'complete and utter nonsense'",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE5GSTBWcDlLZ1lnQk5CU1BtdlEzUVM4cGNNZkpMWkhNTGRhQjNZVEJOSHU1Y3dXc3B2cFBmckVnR2x3bmEtVTIxaUQxRlg0WElqVWhjcVBkd18xYk1aVEZobG9URTJBMWVSeGhHS180bWpFY0NydURmNEVadGtiMUhBejYxRzBvOV9xcE15SlFrZlpVYXBrM2xsX03SAa4BQVVfeXFMTmkxVHRjenV0QmJBLVZBbng5UW5sLVVlTGZlNTdVS0RsTW5BMzdRanZXYTdmOWlDemRMeTlrdTNZTnFjSnJaaFpLSXpsY3plS2FTTUVNYWpFVWdrR3hJNkpON2ZQdnBENEtYTHQxaUJFRjVaTWF3UVNUeUxYendqMk93b2ZQX3B3SDlFTllKTEhqdXJGTlNWWjV2czJmRV9oYVMyelkybTdSdnFpY2pB?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Inshorts",
+      "Rediff",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T07:41+05:30",
+     "score": 7.87,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "Cummins: Khawaja's allegations 'complete and utter nonsense'",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE5GSTBWcDlLZ1lnQk5CU1BtdlEzUVM4cGNNZkpMWkhNTGRhQjNZVEJOSHU1Y3dXc3B2cFBmckVnR2x3bmEtVTIxaUQxRlg0WElqVWhjcVBkd18xYk1aVEZobG9URTJBMWVSeGhHS180bWpFY0NydURmNEVadGtiMUhBejYxRzBvOV9xcE15SlFrZlpVYXBrM2xsX03SAa4BQVVfeXFMTmkxVHRjenV0QmJBLVZBbng5UW5sLVVlTGZlNTdVS0RsTW5BMzdRanZXYTdmOWlDemRMeTlrdTNZTnFjSnJaaFpLSXpsY3plS2FTTUVNYWpFVWdrR3hJNkpON2ZQdnBENEtYTHQxaUJFRjVaTWF3UVNUeUxYendqMk93b2ZQX3B3SDlFTllKTEhqdXJGTlNWWjV2czJmRV9oYVMyelkybTdSdnFpY2pB?oc=5",
+       "publishedAt": "2026-11-13T07:41+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Australia cricket captain describes Khawaja’s Sandpapergate claim as ’utter nonsense’",
+       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEViQWpmOElDRDVWd2cwM3pmbjZaUngyV01Fcl9tdF91aGFhd19VMFdTSUJWY3NSNjhXd3RCSEZpZGJCREhOaUgwLUR4ZGJtSzUwbURqZFFENF9KRXNTSy11QlpqeHBYelh1Um14VFhyTVNGTFIzY1A1YUV5ZXBKN0MtQndSNWRwWDBZTUJhSVRVZmNMQ0w1TG03R2xlclJ3eUh2Y0pFcnpZejRBN1ZLYzdScHZQOEIzd29rYzIwZVlhYWVwY1poV3IzWF8xODVlWTVnVGpTWkjSAd8BQVVfeXFMTmNtMThiS09DU3F3c1BpZm01dDBocUxaU3hqVGw2QWt6NEh6NmZqbnZlRkJYSjExTFl0SWdUeEhWUDVmQllXcjJscTVrRENiNm1YTjVLUkZ3dTQyWFZvblctZmRQUTZBUEd1eW1OdEdMSmF1VnBhUU9jMkQtbkFLRGdST19BLXBQTklRNUx4Z2o2T0cySzBndVhoQlJ6X2tXbmZobXJxQi15c1lSQVhZaERsWk51TlMzM3YyYlhqUk1TUWwxbDBsYUhxMkJWdnlYUEd1a1RHakdmdGpqOUFsUQ?oc=5",
+       "publishedAt": "2026-11-13T07:01+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Delhi govt alleges plot to dump dead fish in Yamuna ahead of Chhath Puja",
+     "link": "https://timesofindia.indiatimes.com/india/delhi-govt-alleges-plot-to-dump-dead-fish-in-yamuna-ahead-of-chhath-puja-seeks-fir/articleshow/135790914.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India",
+      "Urban Acres"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T11:01+05:30",
+     "score": 7.3,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135790992,imgsize-1633128.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Delhi govt alleges plot to dump dead fish in Yamuna ahead of Chhath Puja",
+       "link": "https://timesofindia.indiatimes.com/india/delhi-govt-alleges-plot-to-dump-dead-fish-in-yamuna-ahead-of-chhath-puja-seeks-fir/articleshow/135790914.cms",
+       "publishedAt": "2026-11-13T11:01+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Delhi govt alleges plot to dump dead fish in Yamuna ahead of Chhath Puja, seeks FIR",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZHhfdkRZY1RIZlFpUlh4bVNRSWtiQmJtbWZ1VVptWFU3R3Bud3RuTmszQ0FYcmp5NUp6WUhZQm1iWTNNaGxldnQxUUZQZHlOUmQta25oX1FMUGZXT20yVDBfRXdFM19zdXRleVNYSzlxNU1ldTdXTUVqSTdyQzZwWm5kZHB1dW1ONThtQmpjZ2h2dG1UVW5NMzAwWFBTQTh3bDJQSmNOaDlLZFF1UThmQlVZdUk0eUdhYVFyWS1HbGUwWDRDcFp3ZkY2Zi1EaHJkQUUxQ3AzcXhRQVZMZFZzcmRiWXo?oc=5",
+       "publishedAt": "2026-11-13T11:01+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft Outlook outage: When will it resume?",
+     "link": "https://economictimes.indiatimes.com/news/new-updates/microsoft-outlook-outage-status-is-email-working-again-whats-down-whats-working-and-when-will-services-resume/articleshow/135788863.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "ABC News & Headlines – Australian Broadcasting Corporation",
+      "ET BrandEquity",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T10:13+05:30",
+     "score": 7.29,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft Outlook outage: When will it resume?",
+       "link": "https://economictimes.indiatimes.com/news/new-updates/microsoft-outlook-outage-status-is-email-working-again-whats-down-whats-working-and-when-will-services-resume/articleshow/135788863.cms",
+       "publishedAt": "2026-11-13T09:40+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft 365 outage drags on as company observes ‘limited recovery’",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcWRLNmRuZ01hRE5RUHJYTl90UWZLSzZkaVUyd0hRUkVVQ3BFS0FUZkpHdnFLTExETkg5ZE00dEdoNDNsZ242TzlKSGEwOXNoMDI0bFFQellXUE5pcGRXMW0wR2RBbGNRdThPTC1SSjlmLW9Ka2YtRGY0b3FGLUJWbDBraU1iVDdwZ283VXQ3VEI4dVU1TE9rVlZfckpMV0NjRE9wVlhtSjFTZG9OdkNNblk1ZFJjSldacGpkalVubVhDU1ZHZWJSaThiUdIB0gFBVV95cUxNdFZrWExEbXRoR1I4dHlSaHJ3MHgySWN6OEtyZUNDUEVFZFJPOFhjWjlPWDg1d1oxSm9XNVhIUndpZTh1TVVHRTFGNGNuZThRem9DZGZUT05WMEpwd0dKUkVDbkhqRWVndVIyTk8xVjg2aURtaDVrbU9XWVRHTFpTN2xWNllkZ2xLZFdxYnIzd0NlcXNkOVJGVTNKT1l1dXdjRTdoX3ppN2RCTUVHVF9UU0xuTkFrOUZpR1EyZkdiZUhXa1otajBncEpPS2FJaEF0N3c?oc=5",
+       "publishedAt": "2026-11-13T10:13+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T10:00+05:30",
    "generatedAt": "2026-11-13T10:26+05:30",
