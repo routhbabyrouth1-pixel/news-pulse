@@ -1,6 +1,200 @@
 {
- "updated": "2026-11-13T09:21+05:30",
+ "updated": "2026-11-13T10:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T10:00+05:30",
+   "generatedAt": "2026-11-13T10:26+05:30",
+   "feeds": 16,
+   "headlines": 220,
+   "stories": [
+    {
+     "title": "Your Love Horoscope For November 13: A Relationship Rebuilding Phase Begins As Mercury Goes Direct",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fUktXRkNRWE05ODBvcGlOZmxsRDBCc3owTVR6bVBDcVB2eUtIM1hUVGFFZjNZMjkzclhablJLdjdrcWgxSXFGSS0xWDBPWnRkOWZXOUJFbm81SVR5eDEyR05lYUZXb3hRY3Z1alBNQk5BZHlpcS1pbmZIOA?oc=5",
+     "source": "YourTango",
+     "sources": [
+      "Cosmopolitan",
+      "ETV Bharat",
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "Yahoo",
+      "YourTango"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-13T07:37+05:30",
+     "score": 11.75,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "YourTango",
+       "title": "Your Love Horoscope For November 13: A Relationship Rebuilding Phase Begins As Mercury Goes Direct",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fUktXRkNRWE05ODBvcGlOZmxsRDBCc3owTVR6bVBDcVB2eUtIM1hUVGFFZjNZMjkzclhablJLdjdrcWgxSXFGSS0xWDBPWnRkOWZXOUJFbm81SVR5eDEyR05lYUZXb3hRY3Z1alBNQk5BZHlpcS1pbmZIOA?oc=5",
+       "publishedAt": "2026-11-13T07:37+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 13, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRR0lsSHNuQXJlSjNZczVkdUxRWmE5Y0xWUzlycEtFbUtoVVlQenY1c0hyZzJZQzZOanNWNmxGaEpqX08tNVNTcl9XX0dnRU5fRWtTcFZ3QlBUbXRhRDZXNVpOX1JFZXdzNTN3UVBR?oc=5",
+       "publishedAt": "2026-11-13T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'I'm A Piece Of Sh*t': Inside Jensen Huang's Final Hours As Nvidia CEO",
+     "link": "https://www.ndtv.com/world-news/inside-jensen-huangs-final-hours-as-nvidia-ceo-im-a-piece-of-sh-t-12320357#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC News",
+      "GuruFocus",
+      "MLex",
+      "NDTV",
+      "Qazinform",
+      "TechCrunch",
+      "The Economic Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-13T09:34+05:30",
+     "score": 9.9,
+     "summary": "For the decades Jensen Huang spent building Nvidia into a multitrillion-dollar AI chip behemoth.",
+     "image": "https://c.ndtvimg.com/2026-11/62c74dhs_jensen-huang-bloomberg_625x300_13_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "'I'm A Piece Of Sh*t': Inside Jensen Huang's Final Hours As Nvidia CEO",
+       "link": "https://www.ndtv.com/world-news/inside-jensen-huangs-final-hours-as-nvidia-ceo-im-a-piece-of-sh-t-12320357#publisher=newsstand",
+       "publishedAt": "2026-11-13T09:34+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "‘I don’t care’: How Jensen Huang’s last hours as Nvidia CEO unfolded",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/i-dont-care-how-jensen-huangs-last-hours-as-nvidia-ceo-unfolded/articleshow/135788716.cms",
+       "publishedAt": "2026-11-13T09:32+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T09:27+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "‘I’m a piece of sh-’: Huang’s last hours as CEO",
+       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/im-a-piece-of-sh-jensen-huangs-last-hours-as-nvidia-ceo/articleshow/135786445.cms",
+       "publishedAt": "2026-11-13T07:42+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "CEO of world's largest AI models repository, Hugging Face, calls Jensen Huang's resignation as Nvidia CEO",
+       "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQV3NjdThzeDUxQWV4MUxQZ0VRNmROYzdnNFIweGNWU3NpMzFEZnVJMmlBeGdId3lMWW1SWnFVTWlsQTlHOEg5SDZFVnFad3p3NWwzeXNRYjNSWVNOUjQ2eGh2YVVINzVXVXRvNllDTmkxZjJrbWNOZjAtZFJsMVZ3amtTVlRIdmdsS2NUUW1tLWhIaU14dHJCSzBGaGlSZU1RcEFvNG5jNWpaZlFKLUN4RFhqSDlyUUp2eFpocjJfNE10UnZIcXdEWGFBUEJIZVIyTHNfdGFEbHFmdG9UNjluTDBZSEFsaTlPSnU2ZElITWNuckZtTlJCVlJ5dGkzTF85UVVCUzh4dEVuYVZONjAxWGVsS2xscElBRGt1dGdEdEpLNUVHN3ljMlNUZWNvdTZhS0Y2QU5SZkN0cXVFQ3lMSXcxVmliZmN1YzdlYnZJN3pkaDFMbi1PWGpGTHNBWVVvejVhOGJ1R3ZrSFNhbjdENjlB0gH3AkFVX3lxTE9LelVwYjRPOUxDM01KcVE2clN4TFJMT1VJUkRBbHZCZWVqejZvRFoxbW84bU5jNDdMemVWZ0hpTzdMempsYlpsZHFhWlVVQWxrRWJsTmpuY0hEbDhGS09RNVF3cmRJTllQdzZjU2xKUkVCVWMwVWRMUXJ0WEJralVkMFMyM20xenI3NXRHS2YwSEZPRmt5SVhKTTdOZjVRRVlPSjZnbldudzIzcklqSkFQYV80ak9OTnh4U0FpOXRqTFlsU0xVRjlJMlBDZjR2WUhObXp1c0JabmNZUEdmazNfQmhxWVZUUGVyeGJCX0pPRGlheW1HTXpRa1ZiWjNVOEZHOFNJWXd4WDFCVmpVOFI0ZVlGQWNwcnh1UmdHTjl0Sl8wTmFOekFJcFJxek42N3NUdm8zRlNKNC0zenRiNVlfNTNLOVBhaXpKMDQ3RVZvOWlmbmU2bVhsbWxpaXB0bkZJYmNjeld4Ynl3RzJtbllNd082RV9RQQ?oc=5",
+       "publishedAt": "2026-11-13T07:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Utter nonsense': Cummins breaks silence on Khawaja's sandpaper scandal claims",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/utter-nonsense-pat-cummins-breaks-silence-on-usman-khawajas-2018-sandpaper-scandal-claims/articleshow/135785693.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "Cricbuzz",
+      "Cricinfo",
+      "Rediff",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T07:41+05:30",
+     "score": 8.04,
+     "summary": "Australia captain Pat Cummins has strongly denied claims made by Usman Khawaja regarding the 2018 ball-tampering scandal. Cummins asserted that he did not know about the plan and has consistently maintained that stance over the years. Khawaja's autobiography brought renewed attention to the incident, prompting severe reactions from Cummins. Despite the allegations, Cummins has decided against taking legal action and…",
+     "image": "https://static.toiimg.com/photo/msid-135785721,imgsize-37852.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Utter nonsense': Cummins breaks silence on Khawaja's sandpaper scandal claims",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/utter-nonsense-pat-cummins-breaks-silence-on-usman-khawajas-2018-sandpaper-scandal-claims/articleshow/135785693.cms",
+       "publishedAt": "2026-11-13T06:26+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Cummins: Khawaja's allegations 'complete and utter nonsense'",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE5GSTBWcDlLZ1lnQk5CU1BtdlEzUVM4cGNNZkpMWkhNTGRhQjNZVEJOSHU1Y3dXc3B2cFBmckVnR2x3bmEtVTIxaUQxRlg0WElqVWhjcVBkd18xYk1aVEZobG9URTJBMWVSeGhHS180bWpFY0NydURmNEVadGtiMUhBejYxRzBvOV9xcE15SlFrZlpVYXBrM2xsX03SAa4BQVVfeXFMTmkxVHRjenV0QmJBLVZBbng5UW5sLVVlTGZlNTdVS0RsTW5BMzdRanZXYTdmOWlDemRMeTlrdTNZTnFjSnJaaFpLSXpsY3plS2FTTUVNYWpFVWdrR3hJNkpON2ZQdnBENEtYTHQxaUJFRjVaTWF3UVNUeUxYendqMk93b2ZQX3B3SDlFTllKTEhqdXJGTlNWWjV2czJmRV9oYVMyelkybTdSdnFpY2pB?oc=5",
+       "publishedAt": "2026-11-13T07:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+     "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T07:31+05:30",
+     "score": 7.26,
+     "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+       "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T07:31+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yM3NJUTZ5WV9rdTBqcjJOdGhwakZkUnVFWHhpcExGMnFmYWluVWU2Y3l0ekIwYU9iamVZYTM2cU50aUo5dzM1VXloSGJPUFRtNUpBeXE0UmNkQ28?oc=5",
+       "publishedAt": "2026-11-13T07:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'I'd rather die in Bangladesh': Hasina's defiant message on returning to Dhaka",
+     "link": "https://timesofindia.indiatimes.com/world/south-asia/i-may-be-jailed-they-may-try-to-kill-me-sheikh-hasinas-defiant-message-on-returning-to-bangladesh/articleshow/135788446.cms",
+     "source": "Times of India",
+     "sources": [
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T09:15+05:30",
+     "score": 6.86,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135788560,imgsize-1218394.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'I'd rather die in Bangladesh': Hasina's defiant message on returning to Dhaka",
+       "link": "https://timesofindia.indiatimes.com/world/south-asia/i-may-be-jailed-they-may-try-to-kill-me-sheikh-hasinas-defiant-message-on-returning-to-bangladesh/articleshow/135788446.cms",
+       "publishedAt": "2026-11-13T09:15+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'I may be jailed, they may try to kill me': Sheikh Hasina's defiant message on returning to Bangladesh",
+       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVnRRUnVtczQ2WjRwV0o2RGl2TGpVNldtcDRFUEZnbWEyYjlseU9OWVhGOVhscjVxZ2FLMnQ4X3gteDR0RFVNTnhaRmQzNkczVkQ1UTV4bHVIZDhIbVNJREtoTVQ4bk4wSXF3UllVQU51a1psMDlRQWlfbUlsUElDcmZRRk5IOHpjYWVnUlJBSlVjaV9yUXlfU2lwdUJ4TWl3UnI4WngwQ0poS0xvTVprMWwtdTV6d3J2ZzRyeXBESFhFUVNxQnRXVGNhdW9pWEpBOVU2VmJzY2RXVC11MW5DUW4xXzIxV2M1SXFsTTlLWW5GazltWDJob0k0U1hoZEE0ck1icTl4MA?oc=5",
+       "publishedAt": "2026-11-13T09:15+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T09:00+05:30",
    "generatedAt": "2026-11-13T09:21+05:30",
