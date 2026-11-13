@@ -1,6 +1,164 @@
 {
- "updated": "2026-11-13T22:21+05:30",
+ "updated": "2026-11-13T23:18+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T23:00+05:30",
+   "generatedAt": "2026-11-13T23:18+05:30",
+   "feeds": 16,
+   "headlines": 288,
+   "stories": [
+    {
+     "title": "Turkey, Qatar sign mutual defence pact: Presidency",
+     "link": "https://economictimes.indiatimes.com/news/defence/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says/articleshow/135809416.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Al Jazeera",
+      "Arab News",
+      "Daily Sabah",
+      "Firstpost",
+      "Hürriyet Daily News",
+      "Middle East Monitor",
+      "The Economic Times"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T22:02+05:30",
+     "score": 8.17,
+     "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌bin Hamad ​Al Thani in Istanbul on ⁠Friday.",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Turkey, Qatar sign mutual defence pact: Presidency",
+       "link": "https://economictimes.indiatimes.com/news/defence/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says/articleshow/135809416.cms",
+       "publishedAt": "2026-11-13T21:41+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Turkiye and Qatar sign mutual defence agreement",
+       "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+       "publishedAt": "2026-11-13T21:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Air India, Air India Express suspend flights to Riyadh, Dammam till Nov 30 amid crisis",
+     "link": "https://timesofindia.indiatimes.com/india/air-india-air-india-express-suspend-flights-to-riyadh-dammam-till-nov-30-jeddah-till-nov-21-amid-threat/articleshow/135805478.cms",
+     "source": "Times of India",
+     "sources": [
+      "Avi-Go",
+      "Gulf News",
+      "Telegraph India",
+      "The Economic Times",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T19:27+05:30",
+     "score": 8.11,
+     "summary": "Air India and Air India Express have announced an extension of their flight suspensions to Riyadh and Dammam until November 30, with Jeddah flights suspended until November 21. This decision, impacting also IndiGo and Akasa Air, arises from the increased instability in the region due to threats from Yemen's Houthi militia. Affected passengers may reschedule or obtain refunds for their bookings.",
+     "image": "https://static.toiimg.com/photo/msid-135805970,imgsize-38252.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Air India, Air India Express suspend flights to Riyadh, Dammam till Nov 30 amid crisis",
+       "link": "https://timesofindia.indiatimes.com/india/air-india-air-india-express-suspend-flights-to-riyadh-dammam-till-nov-30-jeddah-till-nov-21-amid-threat/articleshow/135805478.cms",
+       "publishedAt": "2026-11-13T19:27+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Air India suspends flights to Riyadh and Jeddah",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-air-india-express-suspend-riyadh-dammam-flights-till-nov-30-jeddah-till-nov-21/articleshow/135805266.cms",
+       "publishedAt": "2026-11-13T19:03+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Air India, Air India Express suspend flights to Riyadh, Dammam till Nov 30; Jeddah till Nov 21 amid threa",
+       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMkxkcHAwQXNxYmtZS1pmUDRrNkFKLTNRUjRvRFZ6SU5EYzBMREY2ZEtzWDUyQmhzdy1LS3IwdTdXdG1jRTJySGZjN2R6X0hhY0NtVHQ5VXpzRkRmRC1RNDkwVzktSWJGQlNkdE1NUUw1a3pwbUNOZUtubHljQlpYZzFiOGJaRi1tNzh3Y2V3dGZwWWJxUzdFTko3c1NPcVplT0dNVHNYSzZLNE1xUlZmSUJXeHFXQkI4NXQ1UWZ6ZVkzSml5UlhyOUtfUHBZaWdwdGtvQk9DMnNQMDBWNWdZcVYzb3Nhd1FCRXhVOGU0cmhHbnJDVmZHbjZDZC1IZ3Z0?oc=5",
+       "publishedAt": "2026-11-13T19:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "At least 26 die in bus-truck collision in Assam’s Kaziranga; 20 others injured",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG80MC1mSVlBVUJjaTdGMFNWMTFYQWdSSzEydkNySndTTW4yY2xaalBYajU0T1Rya2N4dkdjcjF2RjJwNmZ2V1AtVjVyUExqRnV0Q3pxTG1DT1JwdHlnMFZRZW5aVVk4enlvTzVmZ3BBMjM2OTllSlgtb2ZQLUphZ0xSb3pzdUNaQkM2YkpzTzEtbldtVV8tZVBYeWdid0JfdEROSDdHTXZ4ME8xVWRrNnF4TzRMSVQ0UUN2V1FB0gHEAUFVX3lxTE5jNlNDWEZ0ZzF4WDl1NGNraTJqR08yb1hFTEJ4cTFkREFfQVZ3VFc3ODkwSldWU1NNaGU2dlJzUEMxQTRuT2hhQ1lrTzEzWHhaUVYxZEJEcUpjYUJWMkJpdjl3U3lER1BRcDBMSkQweHpXUUdiakRCZzJ0SkgxeEdBTUQ2N19welI5RDUyTUxWakR3R1hIOGFlWHEydFJIR1V5bDdxSGQ2RUplS0VNWnk5RUNlZVVVdUxFb0MycHdPeDdSZ24?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "NDTV",
+      "Rediff",
+      "Reuters",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T20:47+05:30",
+     "score": 8.08,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "At least 26 die in bus-truck collision in Assam’s Kaziranga; 20 others injured",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG80MC1mSVlBVUJjaTdGMFNWMTFYQWdSSzEydkNySndTTW4yY2xaalBYajU0T1Rya2N4dkdjcjF2RjJwNmZ2V1AtVjVyUExqRnV0Q3pxTG1DT1JwdHlnMFZRZW5aVVk4enlvTzVmZ3BBMjM2OTllSlgtb2ZQLUphZ0xSb3pzdUNaQkM2YkpzTzEtbldtVV8tZVBYeWdid0JfdEROSDdHTXZ4ME8xVWRrNnF4TzRMSVQ0UUN2V1FB0gHEAUFVX3lxTE5jNlNDWEZ0ZzF4WDl1NGNraTJqR08yb1hFTEJ4cTFkREFfQVZ3VFc3ODkwSldWU1NNaGU2dlJzUEMxQTRuT2hhQ1lrTzEzWHhaUVYxZEJEcUpjYUJWMkJpdjl3U3lER1BRcDBMSkQweHpXUUdiakRCZzJ0SkgxeEdBTUQ2N19welI5RDUyTUxWakR3R1hIOGFlWHEydFJIR1V5bDdxSGQ2RUplS0VNWnk5RUNlZVVVdUxFb0MycHdPeDdSZ24?oc=5",
+       "publishedAt": "2026-11-13T20:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GTA VI coming to XBOX One, Series X & S through cloud gaming on Nov 19",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFZxT0NneHRSbWZFRWhmUFdtRlZ6M01lLUlGMmwyZ0tpaWhCMUlYSTZnQXVZVkJmU1FCTU12aGE2ZmVyY0YwWE9LM0NHRnU1Q3R1dUpnWmxOSXVsS0w2NUtEVXJCTkJPVHpXdkpIcGtuS1I0NVdUMFRRNm9sMDhHX0pFbzRYcV9BbGdCS2o4VEt0ZXRvVWfSAZsBQVVfeXFMUHNZQlJTTWtMNHdlcDZDeERFcXpiQi1lcGtNV3pLN1I1SHRCMzFHWUxOOVhFQ0hkUVU3MS1PNXN4WlNNWjZOVUNtcFVseUFfWExMa2tVWU5QT3FMMlQxTnZJeWNURS1rX1k1bFpuZldxMjYzX2RMVjh3ODg1R2taT2twNU8xZFJ1ZFZ3WEhxMTFPLS1sVTBEbU05U1k?oc=5",
+     "source": "Team-BHP",
+     "sources": [
+      "CNET",
+      "NDTV",
+      "Notebookcheck",
+      "PlayStation.Blog",
+      "Polygon.com",
+      "Rockstar Games",
+      "Team-BHP"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T19:31+05:30",
+     "score": 7.74,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Team-BHP",
+       "title": "GTA VI coming to XBOX One, Series X & S through cloud gaming on Nov 19",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFZxT0NneHRSbWZFRWhmUFdtRlZ6M01lLUlGMmwyZ0tpaWhCMUlYSTZnQXVZVkJmU1FCTU12aGE2ZmVyY0YwWE9LM0NHRnU1Q3R1dUpnWmxOSXVsS0w2NUtEVXJCTkJPVHpXdkpIcGtuS1I0NVdUMFRRNm9sMDhHX0pFbzRYcV9BbGdCS2o4VEt0ZXRvVWfSAZsBQVVfeXFMUHNZQlJTTWtMNHdlcDZDeERFcXpiQi1lcGtNV3pLN1I1SHRCMzFHWUxOOVhFQ0hkUVU3MS1PNXN4WlNNWjZOVUNtcFVseUFfWExMa2tVWU5QT3FMMlQxTnZJeWNURS1rX1k1bFpuZldxMjYzX2RMVjh3ODg1R2taT2twNU8xZFJ1ZFZ3WEhxMTFPLS1sVTBEbU05U1k?oc=5",
+       "publishedAt": "2026-11-13T19:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "AP News",
+      "BBC",
+      "Forbes",
+      "TechCrunch",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T22:32+05:30",
+     "score": 7.37,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+       "publishedAt": "2026-11-13T22:32+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T22:00+05:30",
    "generatedAt": "2026-11-13T22:21+05:30",
