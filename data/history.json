@@ -1,6 +1,234 @@
 {
- "updated": "2026-11-13T17:22+05:30",
+ "updated": "2026-11-13T18:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T18:00+05:30",
+   "generatedAt": "2026-11-13T18:30+05:30",
+   "feeds": 16,
+   "headlines": 306,
+   "stories": [
+    {
+     "title": "What we know about the global Microsoft outage",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Hindustan Times",
+      "NDTV",
+      "NPR",
+      "Reuters",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-13T18:01+05:30",
+     "score": 13.42,
+     "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "What we know about the global Microsoft outage",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T18:01+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+       "publishedAt": "2026-11-13T17:59+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft outage: Is Outlook fixed? US cities hit",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outage-today-is-it-fixed-outlook-teams-disruptions-enter-second-day-as-detroit-miami-austin-and-baltimore-hi/articleshow/135802449.cms",
+       "publishedAt": "2026-11-13T17:38+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "'Recovery Underway, Some May Face Issues': Microsoft Update On Global Outage",
+       "link": "https://www.ndtv.com/world-news/recovery-being-done-some-users-may-still-face-issues-microsoft-on-global-outage-12322286#publisher=newsstand",
+       "publishedAt": "2026-11-13T17:15+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Live: Microsoft struggles to restore services as outage hits global users",
+       "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
+       "publishedAt": "2026-11-13T16:48+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Microsoft 365 outage: What happens to emails you send & receive while Outlook is down",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-365-outage-crosses-16-hours-what-happens-to-emails-you-send-and-receive-while-outlook-is-down-as-microsoft-extends-email-timeout-window-to-48-hours/articleshow/135800555.cms",
+       "publishedAt": "2026-11-13T16:41+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft outage impacts IndiGo and Air India’s email support services",
+       "link": "https://www.thehindu.com/news/national/microsoft-outage-impacts-indigo-and-air-indias-email-support-services/article71697196.ece",
+       "publishedAt": "2026-11-13T15:10+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Microsoft outage affects communication channels of, Akasa, IndiGo airlines; advisories issued",
+       "link": "https://www.hindustantimes.com/india-news/microsoft-outage-affects-communication-channels-several-indian-airlines-indigo-air-india-advisory-issued-101794551225027.html",
+       "publishedAt": "2026-11-13T13:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "23 killed in minibus-truck collision near Kaziranga National Park in Assam; several college students among dead",
+     "link": "https://www.livemint.com/news/india/23-killed-in-minibus-truck-collision-near-kaziranga-national-park-in-assam-several-college-students-among-dead-11794572817667.html",
+     "source": "Mint",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Rediff",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T18:01+05:30",
+     "score": 9.42,
+     "summary": "The accident occurred at Rangajan, near Hathikuli Tea Estate in Kohora range, on National Highway-715, when the passenger vehicle collided with the truck.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/Untitled_design_-_2026-11-13T180316.858_1794573206857_zfxy_1794573213627_UoJK_df4a58a8-b45b-4682-af37-98fbcbcbf838_CWQk.png",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "23 killed in minibus-truck collision near Kaziranga National Park in Assam; several college students among dead",
+       "link": "https://www.livemint.com/news/india/23-killed-in-minibus-truck-collision-near-kaziranga-national-park-in-assam-several-college-students-among-dead-11794572817667.html",
+       "publishedAt": "2026-11-13T18:01+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "23 Feared Dead, Several Injured In Truck-Bus Collision In Assam's Kaziranga",
+       "link": "https://www.ndtv.com/india-news/16-feared-dead-several-injured-in-truck-bus-collision-in-assam-s-kaziranga-12322234#publisher=newsstand",
+       "publishedAt": "2026-11-13T17:13+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "23 dead as minibus collides with trailer truck near Assam's Kaziranga",
+       "link": "https://timesofindia.indiatimes.com/city/guwahati/7-killed-in-bus-truck-collision-in-assams-kaziranga/articleshow/135799470.cms",
+       "publishedAt": "2026-11-13T16:08+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "At least 20 feared dead as minibus collides head-on with trailer truck near Assam's Kaziranga",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNksyWjJ6Vk9CWUdzU3U2d2ZlQ3p5YXZOM1VMXzhydXFaR1BZLWQxcFVSNWtsc25sTFVWRncxcUM2VkNJM2MtRHhCTmJSOFlObVlhV0JnYnB2VjdfSWdERG12UElnUEZOVml4R2NwcEFlQXNaZDRjRlpfSy1GU1VJVENadGluU0I0WEJBMGplXy1ZaElieXp5V2VJbVhBWjU3cVB6NEZxUU04MXVqc2dEcjFRc0hhMHJYNF8zTlVZUXNnR1NCd2c?oc=5",
+       "publishedAt": "2026-11-13T16:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India's exports jump 29.9% to $89.99 billion in October, trade deficit narrows",
+     "link": "https://www.hindustantimes.com/india-news/indias-exports-jump-29-9-to-89-99-billion-in-october-trade-deficit-narrows-101794562510983.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Business Standard",
+      "BusinessLine",
+      "Hindustan Times",
+      "Reuters",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T15:08+05:30",
+     "score": 7.69,
+     "summary": "The country's exports stood at USD 69.27 billion in the same month last year.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/export_1794562610876_FNIy_1794562610999_blG4_ebf1de18-45c6-4734-8f5a-4a1bb46deb88_05SC.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "India's exports jump 29.9% to $89.99 billion in October, trade deficit narrows",
+       "link": "https://www.hindustantimes.com/india-news/indias-exports-jump-29-9-to-89-99-billion-in-october-trade-deficit-narrows-101794562510983.html",
+       "publishedAt": "2026-11-13T15:08+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "India's exports jump 29.9% to $89.99 billion in October; overall trade deficit narrows",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-jump-29-9-to-89-99-billion-in-october-overall-trade-deficit-narrows/articleshow/135797333.cms",
+       "publishedAt": "2026-11-13T15:04+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "India's exports jump 29.9% to $89.99 billion in October; overall trade deficit narrows",
+       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORlQ4eEFNUWktZ1RzLUYyY2RiXzVpT2hkZ1ZRNjhzVGk1Tl91c1Z3Y3ZHekxDZWJLSU9fcW56TTNTNVNBWGpCS2V0VUxJVXFXM0hLQ3dkUlgyLTdVVUYyWnZqZmp1SHlXdlBPTWlCUk9CZkRsX2NjaXZlTnZEaFlvNnRIWXlUblZKYUxSdE1iczQ3bGtzbkNzQ3p3SkM1S3Z1Z19XZWh6T0RQMWxlNTYyb25tU2d6dGtOX1I0Q1RuNzZBdGxJZGlTTzlYcTU4RmtBbXI5eGpUT1VPTHBOS0gtVjZoRjdQcGo3TTNvMXIxUWhuc0t2azl6RklSRFg?oc=5",
+       "publishedAt": "2026-11-13T15:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "The PM’s political career will be over if we were to debate: Rahul Gandhi",
+     "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Scroll.in",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T17:11+05:30",
+     "score": 7.53,
+     "summary": "The Prime Minister taps my phone, the Opposition leader says; he is no longer attacking me, Congress leader adds, as there is ‘a little fear’ in his mind",
+     "image": "https://th-i.thgim.com/public/incoming/5xhd41/article71696709.ece/alternates/LANDSCAPE_1200/PTI11_04_2026_000324B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "The PM’s political career will be over if we were to debate: Rahul Gandhi",
+       "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
+       "publishedAt": "2026-11-13T17:11+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘The proof is in the phone’: Rahul Gandhi dares PM Modi to debate on anti-national charge",
+       "link": "https://www.hindustantimes.com/india-news/the-proof-is-in-the-phone-rahul-gandhi-dares-pm-modi-to-debate-on-anti-national-charge-101794562663742.html",
+       "publishedAt": "2026-11-13T15:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gambhir concerned over India's batting collapse",
+     "link": "https://economictimes.indiatimes.com/news/sports/cricket/gambhir-concerned-over-indias-batting-collapse-ahead-of-2027-world-cup/articleshow/135799401.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "ICC",
+      "Rediff",
+      "The Economic Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T16:49+05:30",
+     "score": 7.22,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Gambhir concerned over India's batting collapse",
+       "link": "https://economictimes.indiatimes.com/news/sports/cricket/gambhir-concerned-over-indias-batting-collapse-ahead-of-2027-world-cup/articleshow/135799401.cms",
+       "publishedAt": "2026-11-13T16:06+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Gambhir 'concerned' with India's frequent ODI batting collapses",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWVJDc19FRzR6ak5lcnlOdDlCc2FTWkY4NXYwMk1VRERsekxYN0lHbWw2VWxQaUlTTlprZ2hnNVM1ODcxZmp4WHJfRTF0cjJYLVJLWjBwdllOenA2Q1NYUmg1SE9hNjMydTdCZHlMR0tCdkRSNmFNR2VERXMzZmFQWkNuU1E4WDV1T3NoLVluVFhMSW5ZWFN3dWRxbjcwTm9jNU5UdTFXTHFGMkFVZXBRVXBadUNVTFZaZWpkSG5vbUo5RTTSAdQBQVVfeXFMT1NBajBWYnlvck5acy1tN1NQenhQVWNvRkJUTmF4ZEJRLWtBOWNRSUh3QW5fSWVmNkJNRWdpaldwc0NFTVpzV0xWODZEUUFnbzk4WWU5X1N3RVRFemtPZThGNU5HS3YxUTFLQ2Zaa0lZd0tUaUhUM05WUElHbHQxWEE2MURhY2FqLW9McklKMllkNjdscmlWTnd5RTZrV3NaTmUtc09MZEd0NUg0c2lnMGxhQ2k1WWpMQ3pKTXM1UkhzYWpqdFlLci1EQjRJMFJyeE1lckE?oc=5",
+       "publishedAt": "2026-11-13T16:49+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T17:00+05:30",
    "generatedAt": "2026-11-13T17:22+05:30",
