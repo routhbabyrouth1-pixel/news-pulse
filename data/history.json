@@ -1,6 +1,234 @@
 {
- "updated": "2026-11-13T18:30+05:30",
+ "updated": "2026-11-13T19:42+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T19:00+05:30",
+   "generatedAt": "2026-11-13T19:42+05:30",
+   "feeds": 16,
+   "headlines": 315,
+   "stories": [
+    {
+     "title": "What we know about the global Microsoft outage",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "CX Today",
+      "DW.com",
+      "Hindustan Times",
+      "NDTV",
+      "Reuters",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The Verge",
+      "Times of India"
+     ],
+     "sourceCount": 12,
+     "publishedAt": "2026-11-13T19:04+05:30",
+     "score": 14.4,
+     "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "What we know about the global Microsoft outage",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T19:04+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft suffers outage after dethroning Nvidia",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-dethrones-jensen-huangs-nvidia-then-faces-18-hour-global-outage-entering-second-day-what-went-wrong/articleshow/135804007.cms",
+       "publishedAt": "2026-11-13T18:22+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "You haven’t got mail: Global Microsoft outage disrupts services",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
+       "publishedAt": "2026-11-13T18:10+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "'Recovery Underway, Some May Face Issues': Microsoft Update On Global Outage",
+       "link": "https://www.ndtv.com/world-news/recovery-being-done-some-users-may-still-face-issues-microsoft-on-global-outage-12322286#publisher=newsstand",
+       "publishedAt": "2026-11-13T18:03+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+       "publishedAt": "2026-11-13T17:59+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "More than 16 hours after global outage, Microsoft still struggling to fix issue",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-365-outage-outlook-and-teams-see-incremental-improvement-but-company-says-issues-are-not-fully-fixed-yet/articleshow/135799684.cms",
+       "publishedAt": "2026-11-13T16:16+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Microsoft outage affects communication channels of, Akasa, IndiGo airlines; advisories issued",
+       "link": "https://www.hindustantimes.com/india-news/microsoft-outage-affects-communication-channels-several-indian-airlines-indigo-air-india-advisory-issued-101794551225027.html",
+       "publishedAt": "2026-11-13T13:44+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+       "publishedAt": "2026-11-13T19:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'I'm A Piece Of Sh*t': Inside Jensen Huang's Final Hours As Nvidia CEO",
+     "link": "https://www.ndtv.com/world-news/inside-jensen-huangs-final-hours-as-nvidia-ceo-im-a-piece-of-sh-t-12320357#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Bloomberg.com",
+      "China Daily",
+      "Firstpost",
+      "GeekWire",
+      "Global Times",
+      "NDTV",
+      "TechCrunch",
+      "The Economist",
+      "The Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-13T18:09+05:30",
+     "score": 10.82,
+     "summary": "For the decades he spent building Nvidia into a multitrillion-dollar AI chip behemoth, Huang was famous for his attention to the tiniest of details",
+     "image": "https://c.ndtvimg.com/2026-11/62c74dhs_jensen-huang-bloomberg_625x300_13_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "'I'm A Piece Of Sh*t': Inside Jensen Huang's Final Hours As Nvidia CEO",
+       "link": "https://www.ndtv.com/world-news/inside-jensen-huangs-final-hours-as-nvidia-ceo-im-a-piece-of-sh-t-12320357#publisher=newsstand",
+       "publishedAt": "2026-11-13T18:09+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "China warns US on Nvidia ex-CEO Jensen Huang's romantic relationship; says: Stop making excuses for ...",
+       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZFM1REY3d3JuR3lZR3puTF9HN1dZWVVJOWNrbWQtSWt3ZUd6VnlfS21Ic3pFVkdXV29pSXRMNTRob2pnbUpDbUt3Smp4Ym93SzRoaUNsdEthaTBJajBHcTliLTBWMHdHNFlLbzFkZUdYZU1VSzI4RmJ6amlMX2JrOTRvT3M4OXNYMVpKc1ZkbjFJajJFUTF3dmVXMndCSEEyb21GczF5X0trbjdvYWx3cVZ0YkpXTDZHei1FVTlhYS1TWldydmRYZDhqdF9TbVFnVzI0ZGVxUmFRTEZIZDRKREU1S0VoaGhzWXNncjdMSGRYSHl2SDcwLU93azVrc3VFamc3dUFrbnBwU2E30gGSAkFVX3lxTFBaZkhvcGc3dXpSYk0wRndBa2xfNmNUQVhXeHJnakd0ZTFibUpIMlpBaTR5RVV0RWtPemkyeERNY1BDczd3UGZtWnN0Sk9NX09wZU1aaVZRRFNmbi14ekZzRy1xR1F5V1BpeERsbldzOW12TVpndDhfazh0NDNTUEpoMTR0Um5WYUxxM1V5X082TWtvTDZSTG0xZzV1V3RQbkNHNkw0VmZZdVVUNk5vc1M4cG9hZUFZYzFyVHlKTEJxV3hMVUprUFM0OWRHakVTc2c4cWh1ejRPU0xQclJzQVVyNjJpeFR0blhyQUxJSjgxQ09HZmZKeERzVlRXY0o5N2hxcVFRVy1hZVh3Z1ZIdm9jQWc?oc=5",
+       "publishedAt": "2026-11-13T15:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "23 killed in minibus-truck collision near Kaziranga National Park in Assam; several college students among dead",
+     "link": "https://www.livemint.com/news/india/23-killed-in-minibus-truck-collision-near-kaziranga-national-park-in-assam-several-college-students-among-dead-11794572817667.html",
+     "source": "Mint",
+     "sources": [
+      "Mint",
+      "NDTV",
+      "Rediff",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T18:01+05:30",
+     "score": 9.22,
+     "summary": "The accident occurred at Rangajan, near Hathikuli Tea Estate in Kohora range, on National Highway-715, when the passenger vehicle collided with the truck.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/Untitled_design_-_2026-11-13T182302.551_1794574394929_mBwF_1794574402952_Qaxp_b1ccd8f7-9319-46e1-b237-1c3669acb106_itt0.png",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "23 killed in minibus-truck collision near Kaziranga National Park in Assam; several college students among dead",
+       "link": "https://www.livemint.com/news/india/23-killed-in-minibus-truck-collision-near-kaziranga-national-park-in-assam-several-college-students-among-dead-11794572817667.html",
+       "publishedAt": "2026-11-13T18:01+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "23 dead as minibus collides with trailer truck near Assam's Kaziranga",
+       "link": "https://timesofindia.indiatimes.com/city/guwahati/7-killed-in-bus-truck-collision-in-assams-kaziranga/articleshow/135799470.cms",
+       "publishedAt": "2026-11-13T16:08+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "7 dead as speeding minibus rams into truck in Assam’s Kaziranga",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNksyWjJ6Vk9CWUdzU3U2d2ZlQ3p5YXZOM1VMXzhydXFaR1BZLWQxcFVSNWtsc25sTFVWRncxcUM2VkNJM2MtRHhCTmJSOFlObVlhV0JnYnB2VjdfSWdERG12UElnUEZOVml4R2NwcEFlQXNaZDRjRlpfSy1GU1VJVENadGluU0I0WEJBMGplXy1ZaElieXp5V2VJbVhBWjU3cVB6NEZxUU04MXVqc2dEcjFRc0hhMHJYNF8zTlVZUXNnR1NCd2c?oc=5",
+       "publishedAt": "2026-11-13T16:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "CCPA fines Ola  ₹10 lakh for pre-ride tips, calls feature an unfair trade practice",
+     "link": "https://www.hindustantimes.com/india-news/ccpa-fines-ola-10-lakh-for-pre-ride-tips-calls-feature-an-unfair-trade-practice-101794577376485.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "LawBeat",
+      "Scroll.in",
+      "Telegraph India",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T19:12+05:30",
+     "score": 8.22,
+     "summary": "The consumer watchdog has ordered Ola to discontinue its pre-ride tip feature, which suggested extra payments could help passengers secure rides faster.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/The--10-lakh-penalty-follows-the-CCPA-s-finding-th_1794577364427_Om5a.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "CCPA fines Ola  ₹10 lakh for pre-ride tips, calls feature an unfair trade practice",
+       "link": "https://www.hindustantimes.com/india-news/ccpa-fines-ola-10-lakh-for-pre-ride-tips-calls-feature-an-unfair-trade-practice-101794577376485.html",
+       "publishedAt": "2026-11-13T19:12+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Dark pattern': Ola fined Rs 10 lakh for misleading pre-ride tip feature",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/dark-pattern-ola-fined-rs-10-lakh-for-misleading-pre-ride-tip-feature/articleshow/135800633.cms",
+       "publishedAt": "2026-11-13T16:43+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Dark pattern': Ola fined Rs 10 lakh for misleading pre-ride tip feature",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS25jUjNJYzRiU1ZvMkM2eUx2ekdQZTRQQ3lROVNYWnhSeTBSOGdQeE54UDBSM2lzMFBJSGdRM3N2eWh5YlRGZEl2X051dXlBVHJHcVpFcDJlMHdXekN2RlFUclMydEQzTWFicG5MN19MUEtPX1NQWjVRemp6OFlqaWNVT2t5STU1bC04aU5RUDBqVC1nS2RBQWR3SVl0QWE3YnVyaFhYUVE5eFA1eUNnVFhlbE0tbzBIdFlfUmpmX2dsVS12UnhsdGRCTFl1ci1xem9KUm1mYXpCS1E1eHZXeEhnSEZxOEt5VE5j?oc=5",
+       "publishedAt": "2026-11-13T16:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gambhir concerned over India's batting collapse",
+     "link": "https://economictimes.indiatimes.com/news/sports/cricket/gambhir-concerned-over-indias-batting-collapse-ahead-of-2027-world-cup/articleshow/135799401.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Cricinfo",
+      "ICC",
+      "Rediff",
+      "Telegraph India",
+      "The Economic Times",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T16:49+05:30",
+     "score": 8.02,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Gambhir concerned over India's batting collapse",
+       "link": "https://economictimes.indiatimes.com/news/sports/cricket/gambhir-concerned-over-indias-batting-collapse-ahead-of-2027-world-cup/articleshow/135799401.cms",
+       "publishedAt": "2026-11-13T16:06+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Gambhir 'concerned' with India's frequent ODI batting collapses",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWVJDc19FRzR6ak5lcnlOdDlCc2FTWkY4NXYwMk1VRERsekxYN0lHbWw2VWxQaUlTTlprZ2hnNVM1ODcxZmp4WHJfRTF0cjJYLVJLWjBwdllOenA2Q1NYUmg1SE9hNjMydTdCZHlMR0tCdkRSNmFNR2VERXMzZmFQWkNuU1E4WDV1T3NoLVluVFhMSW5ZWFN3dWRxbjcwTm9jNU5UdTFXTHFGMkFVZXBRVXBadUNVTFZaZWpkSG5vbUo5RTTSAdQBQVVfeXFMT1NBajBWYnlvck5acy1tN1NQenhQVWNvRkJUTmF4ZEJRLWtBOWNRSUh3QW5fSWVmNkJNRWdpaldwc0NFTVpzV0xWODZEUUFnbzk4WWU5X1N3RVRFemtPZThGNU5HS3YxUTFLQ2Zaa0lZd0tUaUhUM05WUElHbHQxWEE2MURhY2FqLW9McklKMllkNjdscmlWTnd5RTZrV3NaTmUtc09MZEd0NUg0c2lnMGxhQ2k1WWpMQ3pKTXM1UkhzYWpqdFlLci1EQjRJMFJyeE1lckE?oc=5",
+       "publishedAt": "2026-11-13T16:49+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T18:00+05:30",
    "generatedAt": "2026-11-13T18:30+05:30",
