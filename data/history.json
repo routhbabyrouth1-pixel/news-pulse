@@ -1,6 +1,201 @@
 {
- "updated": "2026-11-13T23:18+05:30",
+ "updated": "2026-11-14T00:20+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T00:00+05:30",
+   "generatedAt": "2026-11-14T00:20+05:30",
+   "feeds": 16,
+   "headlines": 264,
+   "stories": [
+    {
+     "title": "Microsoft apologises and explains what is causing Outlook, Teams outage",
+     "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-apologises-and-explains-what-is-causing-outlook-teams-outage-says-not-related-to-cyber-or-ai/articleshow/135813059.cms",
+     "source": "Times of India",
+     "sources": [
+      "Reuters",
+      "TechCrunch",
+      "The Guardian",
+      "The Hindu",
+      "The Japan Times",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T23:30+05:30",
+     "score": 8.36,
+     "summary": "Microsoft has apologised for the global Microsoft 365 outage that left millions unable to use Outlook, Teams and Copilot for nearly 24 hours. The company says the disruption was a technical issue \"not related to cyber or AI.\" It was caused by a flaw from an earlier network capacity upgrade that surfaced after a recent network change. Outlook and Teams are now recovering worldwide, and a full post-incident report…",
+     "image": "https://static.toiimg.com/photo/msid-135813123,imgsize-42602.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Microsoft apologises and explains what is causing Outlook, Teams outage",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-apologises-and-explains-what-is-causing-outlook-teams-outage-says-not-related-to-cyber-or-ai/articleshow/135813059.cms",
+       "publishedAt": "2026-11-13T23:30+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+       "publishedAt": "2026-11-13T23:11+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+       "publishedAt": "2026-11-13T22:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Turkey And Qatar Sign Defence Agreement To Strengthen Ties",
+     "link": "https://www.ndtv.com/world-news/turkey-and-qatar-sign-defence-agreement-to-strengthen-ties-12324130#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "DW.com",
+      "Daily Sabah",
+      "Middle East Monitor",
+      "NDTV",
+      "The Economic Times",
+      "شبكة يافا الإخبارية"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T23:17+05:30",
+     "score": 8.33,
+     "summary": "The announcement came after Erdogan met Qatari Emir Sheikh Tamim bin Hamad Al Thani in Istanbul.",
+     "image": "https://c.ndtvimg.com/2026-11/l8ujq6f_qatar-turkey-afp_625x300_13_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Turkey And Qatar Sign Defence Agreement To Strengthen Ties",
+       "link": "https://www.ndtv.com/world-news/turkey-and-qatar-sign-defence-agreement-to-strengthen-ties-12324130#publisher=newsstand",
+       "publishedAt": "2026-11-13T23:17+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Turkey, Qatar sign mutual defence pact: Presidency",
+       "link": "https://economictimes.indiatimes.com/news/defence/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says/articleshow/135809416.cms",
+       "publishedAt": "2026-11-13T21:41+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Turkiye and Qatar sign mutual defence agreement",
+       "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+       "publishedAt": "2026-11-13T21:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Students among 24 dead in bus-truck collision in Assam’s Kaziranga",
+     "link": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T00:01+05:30",
+     "score": 7.7,
+     "summary": "Officials suspected that overspeeding by the minibus, travelling from Golaghat to central Assam’s Nagaon, caused the accident",
+     "image": "https://th-i.thgim.com/public/incoming/ocoxez/article71698157.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-13%20at%206.13.51%20PM.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Students among 24 dead in bus-truck collision in Assam’s Kaziranga",
+       "link": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
+       "publishedAt": "2026-11-14T00:01+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "24 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga",
+       "link": "https://www.ndtv.com/india-news/16-feared-dead-several-injured-in-truck-bus-collision-in-assam-s-kaziranga-12322234#publisher=newsstand",
+       "publishedAt": "2026-11-13T23:10+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘Vehicle overloaded, running at 100 km/h, crossed into wrong lane’: Survivors of deadly bus-truck collision in Assam",
+       "link": "https://www.hindustantimes.com/india-news/vehicle-overloaded-running-at-100-km-h-crossed-into-wrong-lane-survivors-of-deadly-bus-truck-collision-in-assam-101794587976981.html",
+       "publishedAt": "2026-11-13T23:07+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Truck and bus collision in India's Assam kills at least 23 people",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjllVmVCdTJhVUpRVDg3N09uYmhXLU40ZVozbHRLY1hRQkNpakZ4NVZjWVVObnEtcmpCbXZlYmIzdTV5dTlQN2Eyb0Y4UVM4RXZkc1BiU2hfY2FFVm1aTy1IVmtBRDZwTm1Eb2dvS3dEaDBvS0ZGcGY0TGNsYV9hZ1RMY19Ncy1zbWNyQ3NLVmdWMlN3cnBiQkI0cmJaZ3pkWUUxeA?oc=5",
+       "publishedAt": "2026-11-13T18:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+     "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Inshorts",
+      "Kashmir Life",
+      "NDTV",
+      "TRT World",
+      "The Times of India",
+      "The Times of Israel"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T19:51+05:30",
+     "score": 7.63,
+     "summary": "PM's caretaker government can legally go to war, though it would likely inflame domestic divisions.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+       "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+       "publishedAt": "2026-11-13T19:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Air India, Air India Express suspend flights to Riyadh, Dammam till Nov 30 amid crisis",
+     "link": "https://timesofindia.indiatimes.com/india/air-india-air-india-express-suspend-flights-to-riyadh-dammam-till-nov-30-jeddah-till-nov-21-amid-threat/articleshow/135805478.cms",
+     "source": "Times of India",
+     "sources": [
+      "Gulf News",
+      "Telegraph India",
+      "The Economic Times",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India",
+      "deeparrival.com"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T19:27+05:30",
+     "score": 7.35,
+     "summary": "Air India and Air India Express have announced an extension of their flight suspensions to Riyadh and Dammam until November 30, with Jeddah flights suspended until November 21. This decision, impacting also IndiGo and Akasa Air, arises from the increased instability in the region due to threats from Yemen's Houthi militia. Affected passengers may reschedule or obtain refunds for their bookings.",
+     "image": "https://static.toiimg.com/photo/msid-135805970,imgsize-38252.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Air India, Air India Express suspend flights to Riyadh, Dammam till Nov 30 amid crisis",
+       "link": "https://timesofindia.indiatimes.com/india/air-india-air-india-express-suspend-flights-to-riyadh-dammam-till-nov-30-jeddah-till-nov-21-amid-threat/articleshow/135805478.cms",
+       "publishedAt": "2026-11-13T19:27+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Air India suspends flights to Riyadh and Jeddah",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-air-india-express-suspend-riyadh-dammam-flights-till-nov-30-jeddah-till-nov-21/articleshow/135805266.cms",
+       "publishedAt": "2026-11-13T19:03+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Air India, Air India Express suspend flights to Riyadh, Dammam till Nov 30; Jeddah till Nov 21 amid threa",
+       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMkxkcHAwQXNxYmtZS1pmUDRrNkFKLTNRUjRvRFZ6SU5EYzBMREY2ZEtzWDUyQmhzdy1LS3IwdTdXdG1jRTJySGZjN2R6X0hhY0NtVHQ5VXpzRkRmRC1RNDkwVzktSWJGQlNkdE1NUUw1a3pwbUNOZUtubHljQlpYZzFiOGJaRi1tNzh3Y2V3dGZwWWJxUzdFTko3c1NPcVplT0dNVHNYSzZLNE1xUlZmSUJXeHFXQkI4NXQ1UWZ6ZVkzSml5UlhyOUtfUHBZaWdwdGtvQk9DMnNQMDBWNWdZcVYzb3Nhd1FCRXhVOGU0cmhHbnJDVmZHbjZDZC1IZ3Z0?oc=5",
+       "publishedAt": "2026-11-13T19:27+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T23:00+05:30",
    "generatedAt": "2026-11-13T23:18+05:30",
