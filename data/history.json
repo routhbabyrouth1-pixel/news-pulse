@@ -1,6 +1,207 @@
 {
- "updated": "2026-11-13T12:39+05:30",
+ "updated": "2026-11-13T14:24+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T14:00+05:30",
+   "generatedAt": "2026-11-13T14:24+05:30",
+   "feeds": 16,
+   "headlines": 301,
+   "stories": [
+    {
+     "title": "Modi in Bengaluru: PM flags off elevated stretch of Namma Metro Pink Line | LIVE",
+     "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The New Indian Express",
+      "The Shillong Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-13T14:08+05:30",
+     "score": 10.46,
+     "summary": "PM Modi is also scheduled to inaugurate the Yeshwantpur-Madgaon Vande Bharat Express",
+     "image": "https://c.ndtvimg.com/2026-11/ls1l6q1s_pm-modi-bengaluru-metro-pink-line_625x300_13_November_26.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Modi in Bengaluru: PM flags off elevated stretch of Namma Metro Pink Line | LIVE",
+       "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
+       "publishedAt": "2026-11-13T14:08+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "PM Modi Inaugurates Bengaluru Metro's Pink Line, Takes Ride With DK Shivakumar",
+       "link": "https://www.ndtv.com/bangalore-news/pm-modi-inaugurates-bengaluru-metros-pink-line-takes-ride-with-dk-shivakumar-12321314#publisher=newsstand",
+       "publishedAt": "2026-11-13T13:49+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "PM Modi inaugurates Bengaluru Metro Pink Line: Route, timings, cost",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-inaugurates-bengaluru-metro-pink-line-route-timings-cost-and-other-key-details/articleshow/135791819.cms",
+       "publishedAt": "2026-11-13T13:19+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "PM Modi flags off Bengaluru Pink Line stretch",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/bengaluru-metro-pink-line-opens-south-bengaluru-commuters-get-a-new-7-5-km-route-as-pm-modi-flags-off-stretch-check-stations-and-train-timings/articleshow/135794401.cms",
+       "publishedAt": "2026-11-13T13:17+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "PM Modi flags off Bengaluru Metro’s Pink Line, undertakes ride with CM Shivakumar",
+       "link": "https://www.hindustantimes.com/india-news/pm-modi-flags-bengaluru-metro-pink-line-from-kalena-agrahara-undertakes-ride-with-karnataka-cm-shivakumar-101794555754620.html",
+       "publishedAt": "2026-11-13T13:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Centre Extends Ban On Hate Preacher Zakir Naik's Islamic Research Foundation",
+     "link": "https://www.ndtv.com/india-news/centre-extends-ban-on-hate-preacher-zakir-naiks-islamic-research-foundation-12320897#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "ANI News",
+      "Hindustan Times",
+      "NDTV",
+      "Rediff",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T12:56+05:30",
+     "score": 8.01,
+     "summary": "The statements and speeches made by Naik are objectionable and subversive and he has been promoting enmity and hatred amongst different religious groups, the ministry said.",
+     "image": "https://c.ndtvimg.com/2026-10/18df8imo_zakir-naik-_625x300_31_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Centre Extends Ban On Hate Preacher Zakir Naik's Islamic Research Foundation",
+       "link": "https://www.ndtv.com/india-news/centre-extends-ban-on-hate-preacher-zakir-naiks-islamic-research-foundation-12320897#publisher=newsstand",
+       "publishedAt": "2026-11-13T12:56+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "MHA declares Zakir Naik’s Islamic Research Foundation unlawful for another five years",
+       "link": "https://www.thehindu.com/news/national/mha-declares-zakir-naiks-islamic-research-foundation-unlawful-for-another-five-years/article71696626.ece",
+       "publishedAt": "2026-11-13T12:55+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Centre extends ban on Zakir Naik's Islamic Research Foundation for 5 years",
+       "link": "https://timesofindia.indiatimes.com/india/centre-extends-ban-on-zakir-naiks-islamic-research-foundation-for-5-years/articleshow/135790746.cms",
+       "publishedAt": "2026-11-13T10:54+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Centre extends ban on Zakir Naik’s Islamic Research Foundation for 5 more years",
+       "link": "https://www.hindustantimes.com/india-news/centre-extends-ban-on-zakir-naik-s-islamic-research-foundation-for-5-more-years-101794545794165.html",
+       "publishedAt": "2026-11-13T10:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "3 Indian-origin CEOs in race to replace Jensen Huang as Nvidia chief",
+     "link": "https://timesofindia.indiatimes.com/business/international-business/3-indian-origin-ceos-in-race-to-replace-jensen-huang-as-nvidia-chief/articleshow/135794051.cms",
+     "source": "Times of India",
+     "sources": [
+      "Forbes India",
+      "Inshorts",
+      "Jagran Josh",
+      "NDTV",
+      "The Economic Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T13:06+05:30",
+     "score": 8.0,
+     "summary": "Tim Cook, the former Apple CEO, is US President Donald Trump's top choice for the job. Cook succeeded in the difficult task of leading Apple after co-founder Steve Jobs died in 2011, so picking up the reins from a legend is on his resume.",
+     "image": "https://static.toiimg.com/photo/msid-135794268,imgsize-100754.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "3 Indian-origin CEOs in race to replace Jensen Huang as Nvidia chief",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/3-indian-origin-ceos-in-race-to-replace-jensen-huang-as-nvidia-chief/articleshow/135794051.cms",
+       "publishedAt": "2026-11-13T13:06+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "3 Indian-Origin Faces Among 11 Names In Jensen Huang Succession Search At Nvidia",
+       "link": "https://www.ndtv.com/world-news/tim-cook-to-lisa-su-11-names-who-could-succeed-jensen-huang-as-nvidia-ceo-12320649#publisher=newsstand",
+       "publishedAt": "2026-11-13T11:05+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "3 Indian-origin CEOs in race to replace Jensen Huang as Nvidia chief",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS0k4U0h0a2tyYzNJWmxVaUo4VXdoRzFLTjRuUC1mWFM2ZDBnR3JpakF6TkxIc3FBMHdsSG5VMzZZNDBtdFRWQnh2ZXVlVHBpalNtUGUwczZlbXVjc2JQUU5sc2x2Tk1PR2g0VW12alRHcHVKZklvSzRCUGJiaTNFaDdOVURIMXN6ZGZCYS1yeld4Y3VsUlIyUHhjd3dnaVljVno5clBvU28xVmdBN0x5Nl9YLW5ieXpfR0xldThVMldGMkwwblFfUDB5WW82Vmk2c0VhM3VNTjdScXpHZ3hadFE1VExUUktpdkNnR1Ywei03Qkxo?oc=5",
+       "publishedAt": "2026-11-13T13:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft Outage LIVE: Microsoft outage enters second day; company says not aware of malicious activity",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR0gHyAUFVX3lxTE9mR1d1UjQ0Mm1HT3g3MFF0QnJmRktoTmhEaEhmbTRSOC1rVkV5LWtTS1NoWVk0UkI1aUlvQ1pPd0xpcE5sYTNIbXVKeU9vanI4LXZlVVBUR0JtYUIwaEg0X2JCako1ZUczY1JmRGctaHUzX2VxTUtSRFliWV84bUJqNzBvQjQ0UjFySElESGRnMWs2Tm5uN2NIWjJ0ZFNMNU5WWi1KMEhaUWVlcXdqQTFGNVNOTEJPOXhRdVluSWdMRDh5SURWS3hnd215VHlGWTN0bU1fOXFIY1Zsd19ydWtHSnZ3MEdMNzVKc3h2cEhxTHhR?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "Bloomberg.com",
+      "NDTV",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T13:57+05:30",
+     "score": 7.42,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft outage enters second day; company says not aware of malicious activity",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR0gHyAUFVX3lxTE9mR1d1UjQ0Mm1HT3g3MFF0QnJmRktoTmhEaEhmbTRSOC1rVkV5LWtTS1NoWVk0UkI1aUlvQ1pPd0xpcE5sYTNIbXVKeU9vanI4LXZlVVBUR0JtYUIwaEg0X2JCako1ZUczY1JmRGctaHUzX2VxTUtSRFliWV84bUJqNzBvQjQ0UjFySElESGRnMWs2Tm5uN2NIWjJ0ZFNMNU5WWi1KMEhaUWVlcXdqQTFGNVNOTEJPOXhRdVluSWdMRDh5SURWS3hnd215VHlGWTN0bU1fOXFIY1Zsd19ydWtHSnZ3MEdMNzVKc3h2cEhxTHhR?oc=5",
+       "publishedAt": "2026-11-13T13:57+05:30"
+      }
+     ]
+    },
+    {
+     "title": "C.S. Karnan, controversial former High Court judge, passes away in Chennai",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/cs-karnan-controversial-former-high-court-judge-passes-away-in-chennai/article71696842.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Bar and Bench",
+      "DT Next",
+      "Live Law",
+      "NewsBytes",
+      "The Hindu",
+      "The Indian Express"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T13:37+05:30",
+     "score": 7.37,
+     "summary": "He was sentenced to six months of imprisonment during his stint as a judge of Calcutta High Court in 2017 after he passed an “order” sentencing the then CJI and seven other Supreme Court judges to five years of imprisonment",
+     "image": "https://th-i.thgim.com/public/incoming/k7pc22/article71697075.ece/alternates/LANDSCAPE_1200/DSC_2803a.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "C.S. Karnan, controversial former High Court judge, passes away in Chennai",
+       "link": "https://www.thehindu.com/news/national/tamil-nadu/cs-karnan-controversial-former-high-court-judge-passes-away-in-chennai/article71696842.ece",
+       "publishedAt": "2026-11-13T13:37+05:30"
+      },
+      {
+       "source": "Bar and Bench",
+       "title": "Former Madras High Court Justice CS Karnan passes away",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOEVQeGMyeGlCVU9iRUYtUHdrS19sUVB3dlZ1Q3lsZ2szU0I5NS1NVWRCMXhoc19QZHFIWWVabVoyemlmUlZscjdlM2ZpRjZLcVR3Tmp3UHFfNXg2dWFvak40VjQ3N2JFV0dCY1pQdVhSMnMzZHBkNjM5clZDX0lfeVh4a3d4aFl6ZHhNQ3A3Q25sN2J3SUpXanlIS3p6cTDSAawBQVVfeXFMUFBSWVJMcWpSVWpPZWFfdW8tNFFDcXJ6QnhBZFNCTE9zNEpzMm9lXzlCeVN3NFV3TG01MWM1S1Q2eUYwMkpRbVVKTWd0M2VXNlpuT1g0S0dmSkxRcG1GTWpyRUFDLXNyLWs2MURhWlFuQlRLRDZTMXJLYnpTRF8yVXhnNTI0ZThGVTZVeS00V0ZtdkJ3ZXZiNFQ0LUVUTGVNOTk0SEp1Sm9TbzZtaQ?oc=5",
+       "publishedAt": "2026-11-13T12:28+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T12:00+05:30",
    "generatedAt": "2026-11-13T12:39+05:30",
