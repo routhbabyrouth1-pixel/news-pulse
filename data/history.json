@@ -1,6 +1,181 @@
 {
- "updated": "2026-11-14T04:11+05:30",
+ "updated": "2026-11-14T05:08+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T05:00+05:30",
+   "generatedAt": "2026-11-14T05:08+05:30",
+   "feeds": 16,
+   "headlines": 161,
+   "stories": [
+    {
+     "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+     "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "NDTV",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Times of India",
+      "WDSU"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-14T04:17+05:30",
+     "score": 9.61,
+     "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
+     "image": "https://static.toiimg.com/photo/msid-135816311,imgsize-1101964.cms",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+       "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+       "publishedAt": "2026-11-14T04:17+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "New Orleans river cruise boat partially sinks after tanker collision, 130 aboard",
+       "link": "https://timesofindia.indiatimes.com/world/us/new-orleans-river-cruise-boat-partially-sinks-after-tanker-collision-130-aboard/articleshow/135816281.cms",
+       "publishedAt": "2026-11-14T02:27+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Tanker Collides With Cruise Ship On Mississippi River In US, Rescue Ops On",
+       "link": "https://www.ndtv.com/world-news/tanker-collides-with-cruise-ship-on-mississippi-river-in-us-rescue-ops-on-12324453#publisher=newsstand",
+       "publishedAt": "2026-11-14T02:22+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "New Orleans river cruise boat partially sinks after tanker collision, 130 aboard",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWVIzczB0aDlXVnFVamNBbEoxRXBlLTRpa0oxd3JhYWlVakNzZWFnT0ZtNEJkd0Z3VVIxU0NUMDVEdXdEajJCNi03ak8yVTdQY2E1S2NxWXkxSmRieHNzay1rQnIxb3RtTTdnTHNBZW03SkFHaU50QmlGcnhabUpHUUUtY3pENko2QVBBeVcxY1NoZE14Q2FTdkUxS3JTd1NkNTkteUlyR2xSRmZEb2hoUURPanR2d2o3Ymh2aVBXSnlWcURUQlB3ckNTTnhkcWZlNjZGUktBa2dHMFlRRjg2Q1oxYm8?oc=5",
+       "publishedAt": "2026-11-14T02:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US Grounds All Departing Flights Due To Communication Breakdown",
+     "link": "https://www.ndtv.com/world-news/us-grounds-all-departing-flights-due-to-communication-issue-impacting-all-air-traffic-control-centres-12324537#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "NDTV",
+      "Reuters",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T03:52+05:30",
+     "score": 8.54,
+     "summary": "The Federal Aviation Administration grounded all flights nationwide Friday afternoon because of communications problems at regional air traffic control centers.",
+     "image": "https://c.ndtvimg.com/2026-09/irotk5ro_us-flights_625x300_22_September_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "US Grounds All Departing Flights Due To Communication Breakdown",
+       "link": "https://www.ndtv.com/world-news/us-grounds-all-departing-flights-due-to-communication-issue-impacting-all-air-traffic-control-centres-12324537#publisher=newsstand",
+       "publishedAt": "2026-11-14T03:43+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/extraordinary-circumstances-us-grounds-all-departing-flights-over-safety-concerns/articleshow/135816386.cms",
+       "publishedAt": "2026-11-14T02:37+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
+       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTVptMjJvOVhpWXRZVm5UVzdXM3V0blNNU3o4NzNhSjZTUDFyNHQzaWEyT3BvdUJjZ24yWG9lSnVmazNTWHQxZ1VZYkF6ZVNPV1NkS2U4ZDJlLWl6VEtwaXo1VXpuY2hJeUlyaHdLT1JRZkpVNWQwX0hURWRNaDBqNTNJazQ0bkJHMDFkeklISlZUYmxVREJvTXdzSEpUREttV2R5TmZaMXIxZzN2ZGpfb0RHSHRNVFlfUko1Nzh2d0FHcHY2WnJtN1hhTXk3cXVUVTZaTmxPLXZsLXlBVzFKTEZ3X0tsUFlJMFFydi12R2hyMWZvNFdkdDJNckNYVzdSVzU4X1dn?oc=5",
+       "publishedAt": "2026-11-14T03:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "Al Jazeera",
+      "Forbes",
+      "The Hindu",
+      "The Japan Times",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T02:13+05:30",
+     "score": 7.01,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+       "publishedAt": "2026-11-14T02:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pak 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
+     "link": "https://timesofindia.indiatimes.com/india/pakistan-80-years-old-cant-appropriate-indus-valley-civilisation-culture-minister/articleshow/135816035.cms",
+     "source": "Times of India",
+     "sources": [
+      "News On AIR",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T01:54+05:30",
+     "score": 6.96,
+     "summary": "Hopes Islamabad Will Join SCO Civilisational Dialogue Forum In Delhi",
+     "image": "https://static.toiimg.com/photo/msid-135816047,imgsize-94056.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Pak 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
+       "link": "https://timesofindia.indiatimes.com/india/pakistan-80-years-old-cant-appropriate-indus-valley-civilisation-culture-minister/articleshow/135816035.cms",
+       "publishedAt": "2026-11-14T01:54+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Pakistan 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGRnMjVTZzRLMlFmZi1pM1VUc29iSDBjRXo2REc0MXo5bVY3aEhjeFppbGRxRFNVRE91bDdqM2lBNXplTFJxWW5oR1F6UFNaLU5SWjB6RkdFUE1fM2FzTHNZUklKcWhrSXlHMUgtNERpTWR4d0hmVXFKUk1iV1gxTEJlNERYVlNMcFJfWnZMWlN5OUhLbVBrZ05haDlnODlJOWFnSDAxTnRMUmlJLUVTTVN6VXBGTzNiM1d1ZWZlQ1VIZ1VabGMwNFY2bUUtLVJQZW9VbmF2enBKdWo4Y1pqdHYtOA?oc=5",
+       "publishedAt": "2026-11-14T01:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 14, #986",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5",
+     "source": "CNET",
+     "sources": [
+      "CNET",
+      "Mashable",
+      "PC Guide",
+      "TechRadar",
+      "The New York Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T02:30+05:30",
+     "score": 5.86,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "CNET",
+       "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 14, #986",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5",
+       "publishedAt": "2026-11-14T02:30+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T04:00+05:30",
    "generatedAt": "2026-11-14T04:11+05:30",
