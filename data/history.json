@@ -1,6 +1,159 @@
 {
- "updated": "2026-11-13T08:17+05:30",
+ "updated": "2026-11-13T09:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T09:00+05:30",
+   "generatedAt": "2026-11-13T09:21+05:30",
+   "feeds": 16,
+   "headlines": 187,
+   "stories": [
+    {
+     "title": "Horoscope Today: November 13, 2026",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRR0lsSHNuQXJlSjNZczVkdUxRWmE5Y0xWUzlycEtFbUtoVVlQenY1c0hyZzJZQzZOanNWNmxGaEpqX08tNVNTcl9XX0dnRU5fRWtTcFZ3QlBUbXRhRDZXNVpOX1JFZXdzNTN3UVBR?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "ETV Bharat",
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "Yahoo"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-13T06:00+05:30",
+     "score": 9.74,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 13, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRR0lsSHNuQXJlSjNZczVkdUxRWmE5Y0xWUzlycEtFbUtoVVlQenY1c0hyZzJZQzZOanNWNmxGaEpqX08tNVNTcl9XX0dnRU5fRWtTcFZ3QlBUbXRhRDZXNVpOX1JFZXdzNTN3UVBR?oc=5",
+       "publishedAt": "2026-11-13T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Utter nonsense': Cummins breaks silence on Khawaja's sandpaper scandal claims",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/utter-nonsense-pat-cummins-breaks-silence-on-usman-khawajas-2018-sandpaper-scandal-claims/articleshow/135785693.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "Cricbuzz",
+      "Cricinfo",
+      "Sky Sports",
+      "The Guardian",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T07:41+05:30",
+     "score": 9.22,
+     "summary": "Australia captain Pat Cummins has strongly denied claims made by Usman Khawaja regarding the 2018 ball-tampering scandal. Cummins asserted that he did not know about the plan and has consistently maintained that stance over the years. Khawaja's autobiography brought renewed attention to the incident, prompting severe reactions from Cummins. Despite the allegations, Cummins has decided against taking legal action and…",
+     "image": "https://static.toiimg.com/photo/msid-135785721,imgsize-37852.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Utter nonsense': Cummins breaks silence on Khawaja's sandpaper scandal claims",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/utter-nonsense-pat-cummins-breaks-silence-on-usman-khawajas-2018-sandpaper-scandal-claims/articleshow/135785693.cms",
+       "publishedAt": "2026-11-13T06:26+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Cummins: Khawaja's allegations 'complete and utter nonsense'",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE5GSTBWcDlLZ1lnQk5CU1BtdlEzUVM4cGNNZkpMWkhNTGRhQjNZVEJOSHU1Y3dXc3B2cFBmckVnR2x3bmEtVTIxaUQxRlg0WElqVWhjcVBkd18xYk1aVEZobG9URTJBMWVSeGhHS180bWpFY0NydURmNEVadGtiMUhBejYxRzBvOV9xcE15SlFrZlpVYXBrM2xsX03SAa4BQVVfeXFMTmkxVHRjenV0QmJBLVZBbng5UW5sLVVlTGZlNTdVS0RsTW5BMzdRanZXYTdmOWlDemRMeTlrdTNZTnFjSnJaaFpLSXpsY3plS2FTTUVNYWpFVWdrR3hJNkpON2ZQdnBENEtYTHQxaUJFRjVaTWF3UVNUeUxYendqMk93b2ZQX3B3SDlFTllKTEhqdXJGTlNWWjV2czJmRV9oYVMyelkybTdSdnFpY2pB?oc=5",
+       "publishedAt": "2026-11-13T07:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Rockstar says GTA 6 PS5 Pro build ran at 60 fps with major performance compromises",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUERqNVh5MkdBTnp0enNfaTRCbEZTQWR1a0RwUm9NRVNmcmJka29MMlFQMUNrcEJHQjJlb0k0T0l6OFNIcUNmMFVtemdfUDREUUhEOXhpUXl6eDd1NEtQa19xMl93Y1ZHZmlxV1JFOHA0TG9EQlQ5NHRuWXY5X0VLUlRKUFdlSlRzaWJRTU0yU2VUSlN3SjlPdjk0a2VuNFBLQjlhZUZnRkQyNkhfUloyT1lBMG9hNGt6UlZwaUttUHpqNDV2UGc?oc=5",
+     "source": "Notebookcheck",
+     "sources": [
+      "CNET",
+      "Mashable",
+      "NDTV",
+      "Notebookcheck",
+      "PlayStation.Blog",
+      "XBOX Wire"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T07:28+05:30",
+     "score": 7.43,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Notebookcheck",
+       "title": "Rockstar says GTA 6 PS5 Pro build ran at 60 fps with major performance compromises",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUERqNVh5MkdBTnp0enNfaTRCbEZTQWR1a0RwUm9NRVNmcmJka29MMlFQMUNrcEJHQjJlb0k0T0l6OFNIcUNmMFVtemdfUDREUUhEOXhpUXl6eDd1NEtQa19xMl93Y1ZHZmlxV1JFOHA0TG9EQlQ5NHRuWXY5X0VLUlRKUFdlSlRzaWJRTU0yU2VUSlN3SjlPdjk0a2VuNFBLQjlhZUZnRkQyNkhfUloyT1lBMG9hNGt6UlZwaUttUHpqNDV2UGc?oc=5",
+       "publishedAt": "2026-11-13T07:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Outlook email outage affects users around the world",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWttRlZJYUo3ZHJnRTlhZHFBUTZYVGs2UWQxWFRwOFVuUHZFcUIxOWdJVnhkamFIREVtQ3U1ZDFrWFV2RlkxNkFxMW9MWG43Y1VlZFFmS2JCTUhPY1d4Rm51cDdEUkVsdlVkNFlkWEhJMzMtQ0dlel9QYnNoODYwODY5UmtPVE10YUlxNHdKbGpwUVpwY3VrSw?oc=5",
+     "source": "The National",
+     "sources": [
+      "BBC",
+      "The Guardian",
+      "The Hindu",
+      "The National",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T06:02+05:30",
+     "score": 6.95,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The National",
+       "title": "Outlook email outage affects users around the world",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWttRlZJYUo3ZHJnRTlhZHFBUTZYVGs2UWQxWFRwOFVuUHZFcUIxOWdJVnhkamFIREVtQ3U1ZDFrWFV2RlkxNkFxMW9MWG43Y1VlZFFmS2JCTUhPY1d4Rm51cDdEUkVsdlVkNFlkWEhJMzMtQ0dlel9QYnNoODYwODY5UmtPVE10YUlxNHdKbGpwUVpwY3VrSw?oc=5",
+       "publishedAt": "2026-11-13T06:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+     "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T07:31+05:30",
+     "score": 6.86,
+     "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+       "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T07:31+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yM3NJUTZ5WV9rdTBqcjJOdGhwakZkUnVFWHhpcExGMnFmYWluVWU2Y3l0ekIwYU9iamVZYTM2cU50aUo5dzM1VXloSGJPUFRtNUpBeXE0UmNkQ28?oc=5",
+       "publishedAt": "2026-11-13T07:31+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T08:00+05:30",
    "generatedAt": "2026-11-13T08:17+05:30",
