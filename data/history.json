@@ -1,6 +1,179 @@
 {
- "updated": "2026-11-14T01:22+05:30",
+ "updated": "2026-11-14T02:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T02:00+05:30",
+   "generatedAt": "2026-11-14T02:21+05:30",
+   "feeds": 16,
+   "headlines": 217,
+   "stories": [
+    {
+     "title": "To strengthen the Supreme Court, divide it",
+     "link": "https://www.thehindu.com/opinion/lead/to-strengthen-the-supreme-court-divide-it/article71698099.ece",
+     "source": "The Hindu",
+     "sources": [
+      "BusinessLine",
+      "ETLegalWorld.com",
+      "Finimize",
+      "Livemint",
+      "Moneycontrol.com",
+      "NDTV",
+      "The Hindu"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T00:54+05:30",
+     "score": 8.06,
+     "summary": "Adding judges without sorting the work risks enlarging the same overburdened court. The task is not to move the same work faster but to sort it",
+     "image": "https://th-i.thgim.com/public/incoming/4t327q/article70621377.ece/alternates/LANDSCAPE_1200/INDEX_SUPREME_COURT_02_08_7.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "To strengthen the Supreme Court, divide it",
+       "link": "https://www.thehindu.com/opinion/lead/to-strengthen-the-supreme-court-divide-it/article71698099.ece",
+       "publishedAt": "2026-11-14T00:54+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Supreme Court To Review Trump's Asylum Restrictions at US-Mexico Border",
+       "link": "https://www.ndtv.com/world-news/supreme-court-will-weigh-trumps-asylum-restrictions-at-us-mexico-border-12324334#publisher=newsstand",
+       "publishedAt": "2026-11-14T00:54+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Yes Bank files review petition in Supreme Court on AT-1 bonds case",
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1JtZEdjSko4Q2x3TVpxenJ2U1ByT2tzRkZqbl84T3pkRWtHbktZWlZjVGc5RGh5NHRBTjNwSWFmMWtfZzRSU0d5VGc0ZTRFS29HSmFWZVpPWnZ2Vk01YXBDYUVEWmxCelJ3RnYtNFJsTy1UUldockdXQmo2XzVkMVlHdUZHSzRpQ054elROY1hoZEhFTE54TC1OTDFkWXJtbDdOSUlhQnR3bFotaGpSdGpHRzg0TGpNamFVWEwtQ09pUGlaZU1pNtIBzgFBVV95cUxQbFBWWHRpTU9IeEgtSmFLdGptWTNlTlFwdHJQZnk0Sko4R2hJWHdOM2Vjbi1Vb2NPblBJOW81aG85YnN6MDVIblBIYncza0tLM051a1c4S2htTXN2bWo2d0JBQkVQSVo5ZlVORHdxRG4wYVNSaTJlbVVNWmtmOUxidk9STlV4RUwta2hOWmwzRkZXZzBrdkw1c1NHWkhnY3lZekNyVThidlltUGNlaHl4YWxMQVlUMUJPZzNoODhKZXlXR3hOVXE5aEpQdjJsZw?oc=5",
+       "publishedAt": "2026-11-13T21:58+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Huang's China affair may fix Howard Lutnick, the man who wanted to fix India",
+     "link": "https://timesofindia.indiatimes.com/business/international-business/huangs-china-affair-may-fix-howard-lutnick-the-man-who-wanted-to-fix-india/articleshow/135810703.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNBC",
+      "CNN",
+      "Forbes",
+      "The New York Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T22:29+05:30",
+     "score": 7.86,
+     "summary": "Howard Lutnick faces a precarious future as the US commerce secretary, as divergent policies surrounding AI chip sales come into play. With Treasury Secretary Scott Bessent pointing fingers at Lutnick for delays in sanctioning the China-affiliated Megaspeed, things heat up. Complicating matters further, President Trump had previously endorsed specific chip sales to China, raising national security alarms.",
+     "image": "https://static.toiimg.com/photo/msid-135810973,imgsize-145984.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Huang's China affair may fix Howard Lutnick, the man who wanted to fix India",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/huangs-china-affair-may-fix-howard-lutnick-the-man-who-wanted-to-fix-india/articleshow/135810703.cms",
+       "publishedAt": "2026-11-13T22:29+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Huang's China affair may fix Howard Lutnick, the man who wanted to fix India",
+       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZDdQQXdrci1QLTVUVzhVMU5ULXhvTFo5SnpreFBiZWE5QjIwUzl1Yi1oM1ZnTmdldzAyc0RaVmtJclJFNFFHcklhcUR0dGEzZ1cxejdiSUFXM3lUV25KaTI1dG52RFM5dml0a0RiZm9YaWZhWDVlZU0yaUNWRXBIcldBdWE4NDJ6WDllb0pTQ3JaTXNrXzhNQTJPTl9LS3M0aWJzTTZEYno4ek91eEw4OXdtRnVFcUJJV1hfMXVKM1k4S1VldDdmNlZ0cTFxbVFodDJRT3phX2xwWW1WWDMtclMzeWp3OE5oSDdVT2dOWUIydFQyU3FmdW1vNm8?oc=5",
+       "publishedAt": "2026-11-13T22:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Students among 24 dead in bus-truck collision in Assam’s Kaziranga",
+     "link": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "PGurus",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T00:01+05:30",
+     "score": 7.11,
+     "summary": "Officials suspected that overspeeding by the minibus, travelling from Golaghat to central Assam’s Nagaon, caused the accident",
+     "image": "https://th-i.thgim.com/public/incoming/ocoxez/article71698157.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-13%20at%206.13.51%20PM.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Students among 24 dead in bus-truck collision in Assam’s Kaziranga",
+       "link": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
+       "publishedAt": "2026-11-14T00:01+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "24 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga",
+       "link": "https://www.ndtv.com/india-news/16-feared-dead-several-injured-in-truck-bus-collision-in-assam-s-kaziranga-12322234#publisher=newsstand",
+       "publishedAt": "2026-11-13T23:10+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘Vehicle overloaded, running at 100 km/h, crossed into wrong lane’: Survivors of deadly bus-truck collision in Assam",
+       "link": "https://www.hindustantimes.com/india-news/vehicle-overloaded-running-at-100-km-h-crossed-into-wrong-lane-survivors-of-deadly-bus-truck-collision-in-assam-101794587976981.html",
+       "publishedAt": "2026-11-13T23:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "Al Jazeera",
+      "Reuters",
+      "TechCrunch",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T22:32+05:30",
+     "score": 6.87,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+       "publishedAt": "2026-11-13T22:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Watch: CCTV captures chilling moment Brooklyn apartment building collapses, killing 8",
+     "link": "https://timesofindia.indiatimes.com/world/us/watch-cctv-captures-chilling-moment-brooklyn-apartment-building-collapses-killing-8/articleshow/135810824.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "CNN",
+      "NDTV",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T22:38+05:30",
+     "score": 6.53,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135812312,imgsize-4008672.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Watch: CCTV captures chilling moment Brooklyn apartment building collapses, killing 8",
+       "link": "https://timesofindia.indiatimes.com/world/us/watch-cctv-captures-chilling-moment-brooklyn-apartment-building-collapses-killing-8/articleshow/135810824.cms",
+       "publishedAt": "2026-11-13T22:38+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Watch: CCTV captures chilling moment Brooklyn apartment building collapses, killing 8",
+       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV29mMFg1dWd1VEx1THU3SUZYVHpDYlE5TkVycmJTcGtubHRTT3B2bmpwTnVKT2VxOUdveEpLd0Z0ZWtrS3BGMlAtc29idUxoWVB1V09aaW1tclU5N0sxRE9EMzhCTHBFSV9qRnpZcWZUVzNyVDhnMVByQkFzV0tQdlRJZVlvZGtPcGJ3QWxIWFJGMDNMNENtTmNvbVlJM1lnZUdGMjRwaEx0TVZvMXJMdDVHbUlCZXNwck1mcEVHTHREQkN1VEZtazBHOFVnbGwwS2tZQU5xQlFQU2h0QkJpZ3hsVGNsSnVMU1HSAe8BQVVfeXFMTXU4T1FoRGg1ZUJpVVAyZU1WOGxOUVhiUVRXVWZqczRDNVZPajZrNVJYY0FSUU5FRDVsMkRXbUhJTi1WZm5uLW5hODJLNHJCaGFMMWlCVzVTYVR3UkFZRVhkejk1NER1WGpET2ZUdDJlTW1obG1kb3ZJWGNlR2psbkR6YndCMXlmS1p3MWxoU1ZlMW14LUw1aVByZnY5a1NOUXRYZDNEcUNTalk1VEEwaERYSXcyNHlkZlhfMkR5X2NFZkFYU2EzdXJ2ekhia2U2QTV5ZWdrcU11UXloc2hGclBkaVBkYm4yOXQ3LTJfbUk?oc=5",
+       "publishedAt": "2026-11-13T22:38+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T01:00+05:30",
    "generatedAt": "2026-11-14T01:22+05:30",
