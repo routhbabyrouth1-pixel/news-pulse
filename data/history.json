@@ -1,6 +1,213 @@
 {
- "updated": "2026-11-14T00:20+05:30",
+ "updated": "2026-11-14T01:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T01:00+05:30",
+   "generatedAt": "2026-11-14T01:22+05:30",
+   "feeds": 16,
+   "headlines": 235,
+   "stories": [
+    {
+     "title": "How will the US deal with Nvidia scandal?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "CNN",
+      "Engelsberg Ideas",
+      "Fortune",
+      "NDTV",
+      "NDTV Profit",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-14T00:27+05:30",
+     "score": 9.96,
+     "summary": "Tech giant CEO resigned and will testify before Congress.",
+     "image": "https://c.ndtvimg.com/2026-11/qfdrmovk_scott-bessent-howard-lutnick-afp_625x300_13_November_26.jpeg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "How will the US deal with Nvidia scandal?",
+       "link": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+       "publishedAt": "2026-11-14T00:27+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Who Is To Blame? Team Trump Turns On Each Other Over Nvidia 'Spy' Scandal",
+       "link": "https://www.ndtv.com/world-news/who-is-to-blame-team-trump-turns-on-each-other-over-nvidia-spy-scandal-jensen-huang-12324238#publisher=newsstand",
+       "publishedAt": "2026-11-13T23:54+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T21:10+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Nvidia scandal just the tip of the iceberg? How China's spy machine plays a bigger game",
+       "link": "https://timesofindia.indiatimes.com/world/us/nvidia-scandal-just-the-tip-of-the-iceberg-how-chinas-spy-machine-plays-a-bigger-game/articleshow/135806011.cms",
+       "publishedAt": "2026-11-13T19:37+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Nvidia scandal just the tip of the iceberg? How China's spy machine plays a bigger game",
+       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRklRelRkaEM4ZjhScDM5MFJZX3d4QVFhbjNLTDZKbFN2QzUtQWhGNkFmSnRlUE1OTnRHX3JRXzc2TmJfekN2YVNXczJaZnJrS2U5UWFKLWx0TjVkS0xESjFHLXM2UDlXWmxrTzNxcG1wejcwczFWcUxSMTZCSjFKalU3TXJjeVpYbE96Z3hwZ1pBZ2txUEYza2NpZllScm53ZFFkaks4Z1piRmRnQ3p5TWRxR2czUkFxeVJFbGVDZmI2T1dmRElkM0dpLWpHY2NpdXg5VmI4ZXEzel9BM2xpY0pzR3o4eUpRdXdjVA?oc=5",
+       "publishedAt": "2026-11-13T19:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "What Caused Global Microsoft Outage That Disrupted Outlook, Teams, Copilot",
+     "link": "https://www.ndtv.com/world-news/microsoft-says-global-outage-caused-during-network-upgrade-not-by-cyber-or-ai-agents-12324098#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "AP News",
+      "BBC",
+      "NDTV",
+      "TechCrunch",
+      "The Guardian",
+      "The Hindu",
+      "The Japan Times",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-13T23:46+05:30",
+     "score": 9.03,
+     "summary": "The IT company behind some of the world's most popular office software apologised for the disruption that impacted critical services in dozens of countries.",
+     "image": "https://c.ndtvimg.com/2026-11/g1g37ki8_microsoft-source-unsplash_625x300_13_November_26.jpg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "What Caused Global Microsoft Outage That Disrupted Outlook, Teams, Copilot",
+       "link": "https://www.ndtv.com/world-news/microsoft-says-global-outage-caused-during-network-upgrade-not-by-cyber-or-ai-agents-12324098#publisher=newsstand",
+       "publishedAt": "2026-11-13T23:46+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Microsoft apologises and explains what is causing Outlook, Teams outage",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-apologises-and-explains-what-is-causing-outlook-teams-outage-says-not-related-to-cyber-or-ai/articleshow/135813059.cms",
+       "publishedAt": "2026-11-13T23:30+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+       "publishedAt": "2026-11-13T23:11+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft begins restoring Outlook, Teams and other services after global outage",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+       "publishedAt": "2026-11-13T22:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Turkey And Qatar Sign Defence Agreement To Strengthen Ties",
+     "link": "https://www.ndtv.com/world-news/turkey-and-qatar-sign-defence-agreement-to-strengthen-ties-12324130#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "Daily Sabah",
+      "Fana News -",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T00:11+05:30",
+     "score": 7.3,
+     "summary": "The announcement came after Erdogan met Qatari Emir Sheikh Tamim bin Hamad Al Thani in Istanbul.",
+     "image": "https://c.ndtvimg.com/2026-11/l8ujq6f_qatar-turkey-afp_625x300_13_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Turkey And Qatar Sign Defence Agreement To Strengthen Ties",
+       "link": "https://www.ndtv.com/world-news/turkey-and-qatar-sign-defence-agreement-to-strengthen-ties-12324130#publisher=newsstand",
+       "publishedAt": "2026-11-13T23:17+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Turkey, Qatar sign mutual defence pact: Presidency",
+       "link": "https://economictimes.indiatimes.com/news/defence/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says/articleshow/135809416.cms",
+       "publishedAt": "2026-11-13T21:41+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Turkiye and Qatar sign mutual defence agreement",
+       "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+       "publishedAt": "2026-11-13T21:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Students among 24 dead in bus-truck collision in Assam’s Kaziranga",
+     "link": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The New Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T00:01+05:30",
+     "score": 7.27,
+     "summary": "Officials suspected that overspeeding by the minibus, travelling from Golaghat to central Assam’s Nagaon, caused the accident",
+     "image": "https://th-i.thgim.com/public/incoming/ocoxez/article71698157.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-13%20at%206.13.51%20PM.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Students among 24 dead in bus-truck collision in Assam’s Kaziranga",
+       "link": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
+       "publishedAt": "2026-11-14T00:01+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "24 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga",
+       "link": "https://www.ndtv.com/india-news/16-feared-dead-several-injured-in-truck-bus-collision-in-assam-s-kaziranga-12322234#publisher=newsstand",
+       "publishedAt": "2026-11-13T23:10+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘Vehicle overloaded, running at 100 km/h, crossed into wrong lane’: Survivors of deadly bus-truck collision in Assam",
+       "link": "https://www.hindustantimes.com/india-news/vehicle-overloaded-running-at-100-km-h-crossed-into-wrong-lane-survivors-of-deadly-bus-truck-collision-in-assam-101794587976981.html",
+       "publishedAt": "2026-11-13T23:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "AP News",
+      "BBC",
+      "TechCrunch",
+      "The Hindu",
+      "The Japan Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T22:32+05:30",
+     "score": 7.03,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+       "publishedAt": "2026-11-13T22:32+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T00:00+05:30",
    "generatedAt": "2026-11-14T00:20+05:30",
