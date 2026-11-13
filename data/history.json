@@ -1,6 +1,179 @@
 {
- "updated": "2026-11-13T05:11+05:30",
+ "updated": "2026-11-13T06:31+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T06:00+05:30",
+   "generatedAt": "2026-11-13T06:31+05:30",
+   "feeds": 16,
+   "headlines": 133,
+   "stories": [
+    {
+     "title": "Is Outlook Down? Widespread Outage Hits Microsoft Apps",
+     "link": "https://www.ndtv.com/world-news/is-outlook-down-widespread-outage-hits-microsoft-apps-12319777#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "CNBC",
+      "NDTV",
+      "TechRepublic",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The National",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-13T03:51+05:30",
+     "score": 9.86,
+     "summary": "Thousands also reported issues with Microsoft's workplace messaging app Teams, as well as its AI assistant Copilot and wider Microsoft 365 services.",
+     "image": "https://c.ndtvimg.com/2026-10/oq64o1ig_microsoft-exit-offer-pexels_625x300_30_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Is Outlook Down? Widespread Outage Hits Microsoft Apps",
+       "link": "https://www.ndtv.com/world-news/is-outlook-down-widespread-outage-hits-microsoft-apps-12319777#publisher=newsstand",
+       "publishedAt": "2026-11-13T03:51+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Microsoft Outlook outage hits thousands globally, nearly 1.3L users report email issues",
+       "link": "https://timesofindia.indiatimes.com/world/us/microsoft-outlook-outage-hits-thousands-globally-nearly-1-3l-users-report-email-issues/articleshow/135782745.cms",
+       "publishedAt": "2026-11-13T03:38+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Microsoft outage hits tens of thousands of users",
+       "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
+       "publishedAt": "2026-11-13T02:33+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft Outlook down today?",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
+       "publishedAt": "2026-11-13T00:37+05:30"
+      },
+      {
+       "source": "TechRepublic",
+       "title": "Microsoft Outlook Down: Over 130,000 Outage Reports as Email, Teams Disrupted",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRlZEQXhVcmxmQ0t3eWk2Q1VVUXM4RTdVRmc4UmNiZURSQnpMb0pMdkJ6VlFBVGt3NXRaZElTeDhsTkxuejVFRGpxVWhMNS0yY1NRWWNFZzhfWG9qeFdvQlBhOHFqWUF6c0ZnblRZcDU2MHRKUkl0T1B2bFFyc012MzFYRzVSVktyY1dqWU1XNVc?oc=5",
+       "publishedAt": "2026-11-13T03:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cummins: Khawaja's allegations 'complete and utter nonsense'",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE5GSTBWcDlLZ1lnQk5CU1BtdlEzUVM4cGNNZkpMWkhNTGRhQjNZVEJOSHU1Y3dXc3B2cFBmckVnR2x3bmEtVTIxaUQxRlg0WElqVWhjcVBkd18xYk1aVEZobG9URTJBMWVSeGhHS180bWpFY0NydURmNEVadGtiMUhBejYxRzBvOV9xcE15SlFrZlpVYXBrM2xsX03SAa4BQVVfeXFMTmkxVHRjenV0QmJBLVZBbng5UW5sLVVlTGZlNTdVS0RsTW5BMzdRanZXYTdmOWlDemRMeTlrdTNZTnFjSnJaaFpLSXpsY3plS2FTTUVNYWpFVWdrR3hJNkpON2ZQdnBENEtYTHQxaUJFRjVaTWF3UVNUeUxYendqMk93b2ZQX3B3SDlFTllKTEhqdXJGTlNWWjV2czJmRV9oYVMyelkybTdSdnFpY2pB?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "BBC",
+      "Cricinfo",
+      "ESPN India",
+      "The Guardian"
+     ],
+     "sourceCount": 4,
+     "publishedAt": "2026-11-13T04:56+05:30",
+     "score": 6.23,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "Cummins: Khawaja's allegations 'complete and utter nonsense'",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE5GSTBWcDlLZ1lnQk5CU1BtdlEzUVM4cGNNZkpMWkhNTGRhQjNZVEJOSHU1Y3dXc3B2cFBmckVnR2x3bmEtVTIxaUQxRlg0WElqVWhjcVBkd18xYk1aVEZobG9URTJBMWVSeGhHS180bWpFY0NydURmNEVadGtiMUhBejYxRzBvOV9xcE15SlFrZlpVYXBrM2xsX03SAa4BQVVfeXFMTmkxVHRjenV0QmJBLVZBbng5UW5sLVVlTGZlNTdVS0RsTW5BMzdRanZXYTdmOWlDemRMeTlrdTNZTnFjSnJaaFpLSXpsY3plS2FTTUVNYWpFVWdrR3hJNkpON2ZQdnBENEtYTHQxaUJFRjVaTWF3UVNUeUxYendqMk93b2ZQX3B3SDlFTllKTEhqdXJGTlNWWjV2czJmRV9oYVMyelkybTdSdnFpY2pB?oc=5",
+       "publishedAt": "2026-11-13T04:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
+     "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+     "source": "The Guardian",
+     "sources": [
+      "CNBC",
+      "Rural Radio Network",
+      "The Guardian",
+      "The Hindu",
+      "The National"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T03:21+05:30",
+     "score": 6.22,
+     "summary": "Streamlined recovery process under way, company says, after nearly 130,000 users worldwide reported access issues Microsoft outage – live updates Microsoft says a portion of servers are returning to service, and a streamlined recovery process is under way to end a global outage that has resulted in nearly 130,000 users worldwide reporting issues accessing its 365 suite of software, including Outlook and Teams.…",
+     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
+       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+       "publishedAt": "2026-11-13T03:21+05:30"
+      },
+      {
+       "source": "Rural Radio Network",
+       "title": "KTIC 840 AM/98.3 FM/98.7 FM - Outlook outage: Microsoft reports ‘issues’ with Teams and email",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3BZNVVqcjdTczc1Ri1iZXlNMHRsVEZ5bTh2WHRCZTloY0FlSW95eFVjSFcwZ19pMzNyQ0NXVHJPekJreTdDalE5aFM2QlJabjJ3V2YtRGNSb3ptMDdpWVhtY2xkVzcxQ2pUTzJzWnRQWVFVWnNGUTU5TDVFUm4xeFZBVENfMFhyRnhjeTgxNGl1QTNOUHI5UlNVVm5HaWdKV21DWkpDcGlNU2FVM0paQzVR?oc=5",
+       "publishedAt": "2026-11-13T01:16+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+     "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "CGTN",
+      "Reuters",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T01:23+05:30",
+     "score": 6.19,
+     "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+       "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T00:53+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Italian schools defy new wave of bomb threats to remain open",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFJJaFJoR2JHVWdTZmVzdkw2MDhTc29qU0pDRmdmaXpwWjN2Q3VyYjlFUWJkRmJHTmlaNFFYdWIxdTFHR3p5VGlTaGExYzFwZ3BTRjV6dTJuQWdibllJN1lwd3E1RThuUEU2ekpfbU1GSUJwU2tyMkd5a3daSEkwNm5YU19zUEIxLWpSNjNDS0lzT1NCd2ZQRG1COA?oc=5",
+       "publishedAt": "2026-11-13T01:23+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Global Tuberculosis Burden Declining, But Five Years Behind Schedule",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalg4bHlneDFNQS1idDE2RVJEWnMwV0JXZEZLQVBXenBmbnlpbGRlVUxmZ3hPZUt3Qlk1bWxubFRWeE1QRE5JMWVTbV9iMUVpQk93NUsyQWlwWjltVUpOR1BUcGlJX1lkX0RBUmMzY3hublAyMS1lUTVVY2hYTW1ja3Z3cE1GTEpjUVhJek5GQkt2UWdtX2Z5M0hrZ04yZUJkVWc?oc=5",
+     "source": "Health Policy Watch",
+     "sources": [
+      "CIDRAP",
+      "Health Policy Watch",
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T04:42+05:30",
+     "score": 5.74,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Health Policy Watch",
+       "title": "Global Tuberculosis Burden Declining, But Five Years Behind Schedule",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalg4bHlneDFNQS1idDE2RVJEWnMwV0JXZEZLQVBXenBmbnlpbGRlVUxmZ3hPZUt3Qlk1bWxubFRWeE1QRE5JMWVTbV9iMUVpQk93NUsyQWlwWjltVUpOR1BUcGlJX1lkX0RBUmMzY3hublAyMS1lUTVVY2hYTW1ja3Z3cE1GTEpjUVhJek5GQkt2UWdtX2Z5M0hrZ04yZUJkVWc?oc=5",
+       "publishedAt": "2026-11-13T04:42+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T05:00+05:30",
    "generatedAt": "2026-11-13T05:11+05:30",
