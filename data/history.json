@@ -1,6 +1,214 @@
 {
- "updated": "2026-11-13T21:16+05:30",
+ "updated": "2026-11-13T22:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T22:00+05:30",
+   "generatedAt": "2026-11-13T22:21+05:30",
+   "feeds": 16,
+   "headlines": 284,
+   "stories": [
+    {
+     "title": "The big Microsoft outage, AI and a comprehension debt",
+     "link": "https://www.hindustantimes.com/india-news/the-big-microsoft-outage-ai-and-a-comprehension-debt-101794582176775.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "CNN",
+      "Forbes",
+      "Hindustan Times",
+      "TechCrunch",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The New York Times",
+      "The Times of India"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-13T21:42+05:30",
+     "score": 13.39,
+     "summary": "AI agents are writing millions of lines of code, raising concerns that engineers cannot review the output fast enough or fully understand the systems they build",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/The-cause-officially-cited-was-that-something-in-t_1794582407031_zhdP.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "The big Microsoft outage, AI and a comprehension debt",
+       "link": "https://www.hindustantimes.com/india-news/the-big-microsoft-outage-ai-and-a-comprehension-debt-101794582176775.html",
+       "publishedAt": "2026-11-13T20:32+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+       "publishedAt": "2026-11-13T20:26+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Why is the Microsoft outage lasting so long?",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T19:51+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "You haven’t got mail: Global Microsoft outage disrupts services",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
+       "publishedAt": "2026-11-13T18:10+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft outage: What's up and what's still down?",
+       "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-says-services-being-gradually-restored-in-asia-pacific/articleshow/135803115.cms",
+       "publishedAt": "2026-11-13T17:51+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft begins restoring Outlook, Teams and other services after global outage",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+       "publishedAt": "2026-11-13T21:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Q2 Results Live: Eicher Motors Profit Rises 15%, Senco Gold Profit Jumps 78%",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbXl4OUVGVjJPWFpMMHU3cnFMS2g5eEJ4T0dvN1MtQVlIVl9rc3ZnSGFqVjVkNVBtMi1CTEgzRVh5eHZ6c0RHdVcyLUNpb21ZQ0tkSEtqRjFEWS1yZ3E3OWh4QTVyT1JoUm9RVmZKVm9fdm1tV1dRVFlBSWtCa1BObzhPSkxfemxpUkd6Z3BQRXNTNHVUdXRIMFhHZkYxZFRDZ0RaNktHTDE5RFEySG5OSXBuTE9KWGpRUkpWbWttWGV1elBia1JmS1lDdDh0Wlljb3QzRWlYSm1na0psX1RBX0hEZDNIMkhWa3MzTXY1YXZ4cG0zRWlfa3ByaEs2c05vNmRZNVNfdk_SAZACQVVfeXFMT2dmbHdtZ0pXUFR3dC1SU01KTjU5VmRBdzBocFJNNmI0RFVpUENOdnNRT3hvd1lvNWEyY2FucmoyMTJwZE85bVp6andMcEsxSEIzS2dIeEotMVhBZW5GcDB0R0c5cEpuXzVMS19BRTBHWGZGZ0NocjI1ZTRVNk9XVGRRT0wzYWlvZUd5NEY0UWVnbzRzRE9XVlpIaGVKdGdISmJyX0FxTzdIUlpka3UyTTRtWHU1YW4tbmNCbWhjRWtLTzcycTNacjF2QzBBeW1CS2RqbzRWSVZ1RHBOYWlxSUUwbXVzYVo4TTFtTjFELXBSREg0VElmRUtDZFl1NHlxUEtORy1HZzF6Z0lNOUJWS2U?oc=5",
+     "source": "NDTV Profit",
+     "sources": [
+      "Business Standard",
+      "BusinessLine",
+      "CNBC TV18",
+      "ET Auto",
+      "Finimize",
+      "LinkedIn",
+      "Moneycontrol.com",
+      "NDTV Profit",
+      "Upstox",
+      "https://www.siam.in/"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-13T21:00+05:30",
+     "score": 11.07,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV Profit",
+       "title": "Q2 Results Live: Eicher Motors Profit Rises 15%, Senco Gold Profit Jumps 78%",
+       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbXl4OUVGVjJPWFpMMHU3cnFMS2g5eEJ4T0dvN1MtQVlIVl9rc3ZnSGFqVjVkNVBtMi1CTEgzRVh5eHZ6c0RHdVcyLUNpb21ZQ0tkSEtqRjFEWS1yZ3E3OWh4QTVyT1JoUm9RVmZKVm9fdm1tV1dRVFlBSWtCa1BObzhPSkxfemxpUkd6Z3BQRXNTNHVUdXRIMFhHZkYxZFRDZ0RaNktHTDE5RFEySG5OSXBuTE9KWGpRUkpWbWttWGV1elBia1JmS1lDdDh0Wlljb3QzRWlYSm1na0psX1RBX0hEZDNIMkhWa3MzTXY1YXZ4cG0zRWlfa3ByaEs2c05vNmRZNVNfdk_SAZACQVVfeXFMT2dmbHdtZ0pXUFR3dC1SU01KTjU5VmRBdzBocFJNNmI0RFVpUENOdnNRT3hvd1lvNWEyY2FucmoyMTJwZE85bVp6andMcEsxSEIzS2dIeEotMVhBZW5GcDB0R0c5cEpuXzVMS19BRTBHWGZGZ0NocjI1ZTRVNk9XVGRRT0wzYWlvZUd5NEY0UWVnbzRzRE9XVlpIaGVKdGdISmJyX0FxTzdIUlpka3UyTTRtWHU1YW4tbmNCbWhjRWtLTzcycTNacjF2QzBBeW1CS2RqbzRWSVZ1RHBOYWlxSUUwbXVzYVo4TTFtTjFELXBSREg0VElmRUtDZFl1NHlxUEtORy1HZzF6Z0lNOUJWS2U?oc=5",
+       "publishedAt": "2026-11-13T21:00+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Eicher Motors Q2 results: Net profit rises 15% to Rs 1,573 crore, misses estimates",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2EtZ1BSa3pZTF94emVyVHFVbGNYRkxpaTJQTENpMGVLckxQLWJ3b0RVT3V6VDg0azRhWWt0LUpxUUxMM3RBWjM3X1kyME90U05iTUdQRVMxTVZLSzM1V1phT2Z2Rk8tcndpa3ZSektfS1QxY29GRlJhMmpfbmhCNmszSzZHTFFUZ2VkNUxNMXA2WlhBQUd1RkI3MkFJcWlWbVE3eUtyV21vbTVsOTZXOWFncldfbi1sampxNFFfRXNEUnNTT1VV0gHMAUFVX3lxTE9kbFNVT09zWWhwd2hoSWVOREViT19kQldNelBDZFZ5c241SmFsV2tfM3NHRmpkd1NvOU8ybHFpNTZUNGlpR3d6WGw5RjhvNDF6UkFrNHBzYjlNa0dfUHVvQ0ZtckE4bnlrelpTLUtRandEbk44UW5BbGg3UkQ3a3N1UG1PeWNIbDlXZzlHVFFzaVJuU1hoQU9TNG9DdzBuY1JvcmYzTUFhNUt5aFMzSEM4RWF2Qm1hNjdVTXltQ3VldHRIcU9xblJRTGpBWQ?oc=5",
+       "publishedAt": "2026-11-13T16:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Students among 24 dead in bus-truck collision in Assam’s Kaziranga",
+     "link": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Al Jazeera",
+      "Arunachal24",
+      "Mint",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The New Indian Express"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T21:32+05:30",
+     "score": 9.36,
+     "summary": "Officials suspected that overspeeding by the minibus, travelling from Golaghat to central Assam’s Nagaon, caused the accident",
+     "image": "https://th-i.thgim.com/public/incoming/ocoxez/article71698157.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-13%20at%206.13.51%20PM.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Students among 24 dead in bus-truck collision in Assam’s Kaziranga",
+       "link": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
+       "publishedAt": "2026-11-13T21:32+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "26 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga",
+       "link": "https://www.ndtv.com/india-news/16-feared-dead-several-injured-in-truck-bus-collision-in-assam-s-kaziranga-12322234#publisher=newsstand",
+       "publishedAt": "2026-11-13T21:24+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "23 killed in minibus-truck collision near Kaziranga National Park in Assam; several college students among dead",
+       "link": "https://www.livemint.com/news/india/23-killed-in-minibus-truck-collision-near-kaziranga-national-park-in-assam-several-college-students-among-dead-11794572817667.html",
+       "publishedAt": "2026-11-13T18:01+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trade deficit hits one-year high in October despite record exports",
+     "link": "https://www.livemint.com/news/trade-deficit-hits-one-year-high-in-october-despite-record-exports-11794578747412.html",
+     "source": "Mint",
+     "sources": [
+      "ET Government",
+      "LinkedIn",
+      "Mint",
+      "Reuters",
+      "Telegraph India",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T21:15+05:30",
+     "score": 7.19,
+     "summary": "The main drivers of export growth in October included petroleum products, electronics, gems and jewellery, chemicals, and engineering goods.&nbsp;",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/ga170b423b715ed6263184a4c5f868b5d8c0733dfe61a3bf8e_1692109346602_1794584535648_Wzu7_591fd749-a1e7-4a1c-b48d-e7905a9ff1d3_ucpJ.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Trade deficit hits one-year high in October despite record exports",
+       "link": "https://www.livemint.com/news/trade-deficit-hits-one-year-high-in-october-despite-record-exports-11794578747412.html",
+       "publishedAt": "2026-11-13T21:15+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "India's October trade deficit hits one-year high of $39.88 billion as gold imports jump",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVC1qbUMzMG9XdFpsRGZQQzNVa3d1R2hfem5KQUplcU1DZWd4amxfa0Z0cTQ0QkU2SkkybmlacTlaNFlNSlB0UkJ6OWJZTUxzZ19lbDlZcmt2RHFMeUF3UjhvRHpFWnVwYzU0RkN1WF9MWFFuOThuMHJUaTdPdDh4VWtQMm9pVEZDZFdjcmVicDZzVDlhSzdHUTBsNWF4VkV2Y1FtRlAyT0tYZmhCdWFyUERaQy1JNDJuVU0tSw?oc=5",
+       "publishedAt": "2026-11-13T19:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'I'm not gonna be cowered': Bessent confirms shift to military base amid Iran threats",
+     "link": "https://timesofindia.indiatimes.com/world/us/im-not-gonna-be-cowered-us-treasury-chief-on-moving-to-military-base-over-iran-threats/articleshow/135807530.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "CGTN",
+      "Foundation for Defense of Democracies",
+      "Fox News",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T20:24+05:30",
+     "score": 7.17,
+     "summary": "US Treasury Secretary Scott Bessent has relocated to a military base due to death threats from Iran. He believes these threats indicate that America's economic pressure on Tehran is effective. Bessent discussed his concerns during an interview, highlighting the urgency of the situation. Additionally, he accused a newspaper of endangering his security by revealing his home location. This ongoing pressure from the US…",
+     "image": "https://static.toiimg.com/photo/msid-135807592,imgsize-68658.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'I'm not gonna be cowered': Bessent confirms shift to military base amid Iran threats",
+       "link": "https://timesofindia.indiatimes.com/world/us/im-not-gonna-be-cowered-us-treasury-chief-on-moving-to-military-base-over-iran-threats/articleshow/135807530.cms",
+       "publishedAt": "2026-11-13T20:24+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'I'm not gonna be cowered': US Treasury chief on moving to military base over Iran threats",
+       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVnZ2dGM4RWxBVF80X2M1dHh2d3o4cUdqbktsanpCcG1aVnpHYUNneFBOTWpYTURXSWEyd1piSFRCaGZtRnlGeWpLZUtPRDhOeUw0bXhmaHZBXzBwakFlQ1VUZnJxYm9KdUdGMGd5ZXFVRkQ5RDVHY2V2Q0p5dlRaY1JHN2RKTWI0eW9qSnBWU2ZiSmh5a0haek1GWkQxV3Z4ZkdUbnpHZlBGNmw1Yk5kWWU1dDFudWNNOUVJY0RDNmJsWFY2VUMwWnl2RGFsNXhwNWdlaDNrZTJRWHRFZGdfaW53dklXRHRMcGliSjdn?oc=5",
+       "publishedAt": "2026-11-13T20:24+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T21:00+05:30",
    "generatedAt": "2026-11-13T21:16+05:30",
