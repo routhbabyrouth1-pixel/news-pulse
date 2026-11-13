@@ -1,6 +1,216 @@
 {
- "updated": "2026-11-13T15:26+05:30",
+ "updated": "2026-11-13T16:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T16:00+05:30",
+   "generatedAt": "2026-11-13T16:27+05:30",
+   "feeds": 16,
+   "headlines": 305,
+   "stories": [
+    {
+     "title": "What we know about the global Microsoft outage",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CGTN",
+      "CX Today",
+      "Forbes",
+      "Hindustan Times",
+      "NDTV",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 12,
+     "publishedAt": "2026-11-13T16:23+05:30",
+     "score": 14.49,
+     "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "What we know about the global Microsoft outage",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-13T16:23+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+       "publishedAt": "2026-11-13T15:45+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft outage impacts IndiGo and Air India’s email support services",
+       "link": "https://www.thehindu.com/news/national/microsoft-outage-impacts-indigo-and-air-indias-email-support-services/article71697196.ece",
+       "publishedAt": "2026-11-13T15:10+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"Not Aware Of Any Malicious Activity\": Microsoft On Global Outage",
+       "link": "https://www.ndtv.com/world-news/not-aware-of-any-malicious-activity-microsoft-on-global-outage-12321209#publisher=newsstand",
+       "publishedAt": "2026-11-13T15:05+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Microsoft hit by global outages: What happened and why?",
+       "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
+       "publishedAt": "2026-11-13T15:00+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Microsoft outage: Company issues update as services face global disruption",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-365-outage-status-update-company-reports-positive-results-in-fix-for-outlook-teams-and-other-365-services/articleshow/135796608.cms",
+       "publishedAt": "2026-11-13T14:34+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft outage disrupts global businesses",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outage-disrupts-global-businesses-government-services-as-recovery-efforts-falter/articleshow/135796128.cms",
+       "publishedAt": "2026-11-13T14:23+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Microsoft outage affects communication channels of, Akasa, IndiGo airlines; advisories issued",
+       "link": "https://www.hindustantimes.com/india-news/microsoft-outage-affects-communication-channels-several-indian-airlines-indigo-air-india-advisory-issued-101794551225027.html",
+       "publishedAt": "2026-11-13T13:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Proof of allegations against Modi on my phone, which PM taps: Rahul Gandhi",
+     "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T15:39+05:30",
+     "score": 8.37,
+     "summary": "Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”.",
+     "image": "https://th-i.thgim.com/public/incoming/5xhd41/article71696709.ece/alternates/LANDSCAPE_1200/PTI11_04_2026_000324B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Proof of allegations against Modi on my phone, which PM taps: Rahul Gandhi",
+       "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
+       "publishedAt": "2026-11-13T15:39+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘The proof is in the phone’: Rahul Gandhi dares PM Modi to debate on anti-national charge",
+       "link": "https://www.hindustantimes.com/india-news/the-proof-is-in-the-phone-rahul-gandhi-dares-pm-modi-to-debate-on-anti-national-charge-101794562663742.html",
+       "publishedAt": "2026-11-13T15:07+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "‘My phone is being tapped by PM Modi’: Rahul Gandhi’s Instagram video",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTldQTEZlUUtCX3phLWR2VXZVbDB5cHFVdFdUWjdMeVdGMnFobjRCblBQRU0xTl9QcHhra1BBYWx6ZGRGN0xxTlZLbVcyYTlCM1o4RjNYNmhJSlVNU216VEttU2dRTnBlbUFPbmp3Wi12TGRodzM5aE91TzVRZTJuWHRqU2E0QWNKWHlRVVZOVW04TWhOT2ZXTEROeG1tamZncVItNGZoQXNJcXB6eXhDcllIUk1MaFZqZTNwRUZRamdMTFNxMUZB0gHOAUFVX3lxTE9xMTNITTJ5d0xib3JsMzR6ZVlYR2JIWE5pSjNiWUtuaEh1TFFCZjRjV2I4YTdLTnFwRmE2bDBEekJOdTNGN2tWTGp3OVBIVWYyU012VldOSS1scFhBVEVqOU1Qd0dVWlRHckxjQm9hSXE2d3pBcHVmY21iMnZfZDd5cGpKb0xqWHYxSlBPbWRhbWxncjhhZmJsY1pXV21UaVRjQW5qa2ZvZ3RfZUVjXzZFTUJzN2ZDMU9lUF9zeHNWemI3MUdHa1NxVjRjaS13?oc=5",
+       "publishedAt": "2026-11-13T13:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ahmedabad hit-and-run: BJP MLA's nephew arrested after Range Rover kills man",
+     "link": "https://timesofindia.indiatimes.com/city/ahmedabad/speeding-range-rover-kills-young-man-in-ahmedabad-mlas-nephew-arrested-later-gets-bail/articleshow/135797277.cms",
+     "source": "Times of India",
+     "sources": [
+      "Gujarat Samachar",
+      "NDTV",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India",
+      "Urban Acres"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T15:21+05:30",
+     "score": 7.19,
+     "summary": "In a tragic incident in Ahmedabad, a young motorcyclist named Pradeep Darwal lost his life when a speeding Range Rover struck him near Shilaj Circle. Prompt action by law enforcement led to the arrest of Raghavendra Kushwaha, the driver related to a local MLA. Despite fleeing after the crash and the police recovering the vehicle, Kushwaha was released on bail.",
+     "image": "https://static.toiimg.com/photo/msid-135798208,imgsize-136433.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Ahmedabad hit-and-run: BJP MLA's nephew arrested after Range Rover kills man",
+       "link": "https://timesofindia.indiatimes.com/city/ahmedabad/speeding-range-rover-kills-young-man-in-ahmedabad-mlas-nephew-arrested-later-gets-bail/articleshow/135797277.cms",
+       "publishedAt": "2026-11-13T15:21+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Ahmedabad hit-and-run: BJP MLA's nephew arrested after Range Rover kills man",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZDFDdTB2dEVnMlVENDFkRVhncXg3ZVIxTUo2YzU4a1JCTmFRTFdQZFpvc29RWU1ROERHUmdHdzdJTmwzSHVVUXRUQmhqZ2N0RlJkU3lXeXY1d0ZYRkFkTlhZNU5fWGZScVMyTk85V19QSGp6dHNSTnBQSnVRWWhmTnZhS1puc0lpRVNSQ3piR1E1TV93ZFNBRHYzU29QVmtWdU9kWUNTWVJodXRYR1VvMERxcnJLWXBrd0RkazFQTUFCaG00MXJVemtneXFIWU8wRkpzdkZZVHpsSmpzWHJvMHhlR1VDc2F3UmhwLW1hR2ItcFl0NXc?oc=5",
+       "publishedAt": "2026-11-13T15:21+05:30"
+      }
+     ]
+    },
+    {
+     "title": "6/24 on debut! Mahli Beardman rips through England as Australia take 1-0 lead",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/6/24-on-debut-mahli-beardman-rips-through-england-as-australia-take-1-0-lead/articleshow/135797289.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Sky Sports",
+      "The Times of India",
+      "Times of India",
+      "cricket.com.au"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T15:15+05:30",
+     "score": 7.17,
+     "summary": "Mahli Beardman made a remarkable entry into One Day Internationals, claiming six wickets in his debut match against England in Perth. Australia effectively chased down England's target of 131 runs, thanks in part to a brisk fifty from captain Mitch Marsh. This triumph secured a 1-0 lead for Australia in the ODI series, with the second match awaited in Adelaide this coming Sunday.",
+     "image": "https://static.toiimg.com/photo/msid-135797414,imgsize-113784.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "6/24 on debut! Mahli Beardman rips through England as Australia take 1-0 lead",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/6/24-on-debut-mahli-beardman-rips-through-england-as-australia-take-1-0-lead/articleshow/135797289.cms",
+       "publishedAt": "2026-11-13T15:02+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Mahli Beardman leads rout of England with six-for on ODI debut",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUpZbHN6N25VRkhCeFJ0UjNJVVQwTVJybGRZcDJxZ0ZiLTROYTFYd1ZMQ2pkd3pOdldWSTA3SHBRcUVNdlZaRndqZjlZNWRoempjUFlFNS11ZzRKa1hiTklvYXNCcHV2ZFNNQ080bm90U3BlQjMwMkJXdElfZXNDTEtPbTZkZE5KOHNRekVWZy1QS2pQeGtIY3g0SGdUdENMN0tfT2ZEbVk0bXdlb1RLdy1SZ05qYmctdUE?oc=5",
+       "publishedAt": "2026-11-13T15:15+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Moushumi Chatterjee's husband Jayanta Mukherjee passes away; he was the son of legendary singer-composer",
+     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPMnVXUTljZ2JlXzMtUmJYLWhlTlUtYUpJS01tQXhmRktoa3d4MU1LV0psemdYaFdaVWpFMF9NcUhfQklRcVE1Q09nSGVMdGs1VXNMa0VBcFJ2N1c5aVVCbFdmdFhRb2lmRGdLVkY5ajhhTXJsOGRET1o5WG14OXhRWmZwc0pqN0cySFlvUm90OTdNU05fSGRoN0ljQnlkV3BLdS1vRi1PQ3ZmTXc2UzdXUy1WNGFnM3RSQ3JVeElIX3hLU3l3YWl5QTVLVWttUFJfdE9VNkhaTmVQaGw1dTJhNUZZMGJQNWFuMm9CNVRSTGdhUU83c2czUFJGRXo4VTJiZWREZmQtOEdEVndCZVpIZHNSdDVPRGpGdzMyX2JvTG9ZTW56UlVlZDl3SmdHZ3dwNy16Y2Jiaw?oc=5",
+     "source": "The Times of India",
+     "sources": [
+      "Film Information",
+      "Moneycontrol.com",
+      "NDTV",
+      "Rediff",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-13T12:54+05:30",
+     "score": 6.91,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Times of India",
+       "title": "Moushumi Chatterjee's husband Jayanta Mukherjee passes away; he was the son of legendary singer-composer",
+       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPMnVXUTljZ2JlXzMtUmJYLWhlTlUtYUpJS01tQXhmRktoa3d4MU1LV0psemdYaFdaVWpFMF9NcUhfQklRcVE1Q09nSGVMdGs1VXNMa0VBcFJ2N1c5aVVCbFdmdFhRb2lmRGdLVkY5ajhhTXJsOGRET1o5WG14OXhRWmZwc0pqN0cySFlvUm90OTdNU05fSGRoN0ljQnlkV3BLdS1vRi1PQ3ZmTXc2UzdXUy1WNGFnM3RSQ3JVeElIX3hLU3l3YWl5QTVLVWttUFJfdE9VNkhaTmVQaGw1dTJhNUZZMGJQNWFuMm9CNVRSTGdhUU83c2czUFJGRXo4VTJiZWREZmQtOEdEVndCZVpIZHNSdDVPRGpGdzMyX2JvTG9ZTW56UlVlZDl3SmdHZ3dwNy16Y2Jiaw?oc=5",
+       "publishedAt": "2026-11-13T12:54+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T15:00+05:30",
    "generatedAt": "2026-11-13T15:26+05:30",
