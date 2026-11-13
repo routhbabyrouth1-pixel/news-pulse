@@ -1,6 +1,221 @@
 {
- "updated": "2026-11-13T14:24+05:30",
+ "updated": "2026-11-13T15:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-13T15:00+05:30",
+   "generatedAt": "2026-11-13T15:26+05:30",
+   "feeds": 16,
+   "headlines": 304,
+   "stories": [
+    {
+     "title": "Microsoft Outlook outage: When will it resume?",
+     "link": "https://economictimes.indiatimes.com/news/new-updates/microsoft-outlook-outage-status-is-email-working-again-whats-down-whats-working-and-when-will-services-resume/articleshow/135788863.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "ABC News & Headlines – Australian Broadcasting Corporation",
+      "Al Jazeera",
+      "BBC",
+      "Forbes",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-13T15:11+05:30",
+     "score": 10.46,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Microsoft Outlook outage: When will it resume?",
+       "link": "https://economictimes.indiatimes.com/news/new-updates/microsoft-outlook-outage-status-is-email-working-again-whats-down-whats-working-and-when-will-services-resume/articleshow/135788863.cms",
+       "publishedAt": "2026-11-13T09:40+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+       "publishedAt": "2026-11-13T15:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Modi in Bengaluru: PM flags off elevated stretch of Namma Metro Pink Line, Yeshwantpur-Madgaon Vande Bharat Express | LIVE",
+     "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "NarendraModi.in",
+      "The Economic Times",
+      "The Hindu",
+      "The Shillong Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-13T15:07+05:30",
+     "score": 10.45,
+     "summary": "PM Modi will travel to Mysuru, where he will inaugurate COSMOS (Cosmology Education and Research Training Centre), the Mysuru Planetarium located at the foothills of Chamundi Hills.",
+     "image": "https://c.ndtvimg.com/2026-11/ls1l6q1s_pm-modi-bengaluru-metro-pink-line_625x300_13_November_26.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Modi in Bengaluru: PM flags off elevated stretch of Namma Metro Pink Line, Yeshwantpur-Madgaon Vande Bharat Express | LIVE",
+       "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
+       "publishedAt": "2026-11-13T15:07+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "PM Modi Inaugurates Bengaluru Metro's Pink Line, Takes Ride With DK Shivakumar",
+       "link": "https://www.ndtv.com/bangalore-news/pm-modi-inaugurates-bengaluru-metros-pink-line-takes-ride-with-dk-shivakumar-12321314#publisher=newsstand",
+       "publishedAt": "2026-11-13T13:49+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "PM Modi inaugurates Bengaluru Metro Pink Line: Route, timings, cost",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-inaugurates-bengaluru-metro-pink-line-route-timings-cost-and-other-key-details/articleshow/135791819.cms",
+       "publishedAt": "2026-11-13T13:19+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "PM Modi flags off Bengaluru Pink Line stretch",
+       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/bengaluru-metro-pink-line-opens-south-bengaluru-commuters-get-a-new-7-5-km-route-as-pm-modi-flags-off-stretch-check-stations-and-train-timings/articleshow/135794401.cms",
+       "publishedAt": "2026-11-13T13:17+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "PM Modi flags off Bengaluru Metro’s Pink Line, undertakes ride with CM Shivakumar",
+       "link": "https://www.hindustantimes.com/india-news/pm-modi-flags-bengaluru-metro-pink-line-from-kalena-agrahara-undertakes-ride-with-karnataka-cm-shivakumar-101794555754620.html",
+       "publishedAt": "2026-11-13T13:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Centre Extends Ban On Hate Preacher Zakir Naik's Islamic Research Foundation",
+     "link": "https://www.ndtv.com/india-news/centre-extends-ban-on-hate-preacher-zakir-naiks-islamic-research-foundation-12320897#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "NDTV",
+      "Scroll.in",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-13T12:56+05:30",
+     "score": 7.75,
+     "summary": "The statements and speeches made by Naik are objectionable and subversive and he has been promoting enmity and hatred amongst different religious groups, the ministry said.",
+     "image": "https://c.ndtvimg.com/2026-10/18df8imo_zakir-naik-_625x300_31_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Centre Extends Ban On Hate Preacher Zakir Naik's Islamic Research Foundation",
+       "link": "https://www.ndtv.com/india-news/centre-extends-ban-on-hate-preacher-zakir-naiks-islamic-research-foundation-12320897#publisher=newsstand",
+       "publishedAt": "2026-11-13T12:56+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "MHA declares Zakir Naik’s Islamic Research Foundation unlawful for another five years",
+       "link": "https://www.thehindu.com/news/national/mha-declares-zakir-naiks-islamic-research-foundation-unlawful-for-another-five-years/article71696626.ece",
+       "publishedAt": "2026-11-13T12:55+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Centre extends ban on Zakir Naik's Islamic Research Foundation for 5 years",
+       "link": "https://timesofindia.indiatimes.com/india/centre-extends-ban-on-zakir-naiks-islamic-research-foundation-for-5-years/articleshow/135790746.cms",
+       "publishedAt": "2026-11-13T10:54+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Centre extends ban on Zakir Naik’s Islamic Research Foundation for 5 more years",
+       "link": "https://www.hindustantimes.com/india-news/centre-extends-ban-on-zakir-naik-s-islamic-research-foundation-for-5-more-years-101794545794165.html",
+       "publishedAt": "2026-11-13T10:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Proof of allegations against Modi on my phone, which PM taps: Rahul Gandhi",
+     "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T15:18+05:30",
+     "score": 7.73,
+     "summary": "Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”.",
+     "image": "https://th-i.thgim.com/public/incoming/5xhd41/article71696709.ece/alternates/LANDSCAPE_1200/PTI11_04_2026_000324B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Proof of allegations against Modi on my phone, which PM taps: Rahul Gandhi",
+       "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
+       "publishedAt": "2026-11-13T15:18+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘The proof is in the phone’: Rahul Gandhi dares PM Modi to debate on anti-national charge",
+       "link": "https://www.hindustantimes.com/india-news/the-proof-is-in-the-phone-rahul-gandhi-dares-pm-modi-to-debate-on-anti-national-charge-101794562663742.html",
+       "publishedAt": "2026-11-13T15:07+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'My phone tapped': Rahul Gandhi makes big charge, doubles down on debate challenge to PM Modi",
+       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMmpFTEFQc0RUcklLM0RTOG9YVDBzZWRpRE1GdFg1U3JPdkFNZXdtZUZBM3B3cEVlRkFROHJFT0V2N05KT18waTJPeUtRb1lCRDItM2NuV3cySmNEdlZ5NVZxeWJYcjBGMndBekpPSFkxWm5FOFpDYUlXSjh2d2o4a0UyZmtfbmVZQ2J6dVdUSDdncHlqQjhmd2tlTnNoNHZNeDRZeGFjM01jVWNlSGhVZUFNMUI1bURuSEF2dzl2bUhzZlFVR3Z0N2ZGVXBqbHVjQ3VBSjVsN3dndEdoN0VIVTdMWHprc2pIVzllb21n?oc=5",
+       "publishedAt": "2026-11-13T14:26+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"Taps My Phone\": Rahul Gandhi's Big Charge Against PM Modi, Then Debate Dare",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjlUR1VlUDhRSWJQZ3lWUkwxQWJ6WU83V0tCRGxQZXdWVkVUNUIyUUg4cFFhSTJZcDdJaE1zWDhkejBwWFFfbVRyZkI4dEF1cE1TOFNYSXhtUC03S2tSY1RFQlFwMFhDVFduUW4teThlNHZBcFpUV19JWDdLZHdJTUU4cmVRS0IyODl2R3RZeWY2Mkl3MzVRZ05icmlpc0IyM3RKVTN6ZnEtVGtTRmFsQm1R?oc=5",
+       "publishedAt": "2026-11-13T13:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "6/24 on debut! Mahli Beardman rips through England as Australia take 1-0 lead",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/6/24-on-debut-mahli-beardman-rips-through-england-as-australia-take-1-0-lead/articleshow/135797289.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "Cricbuzz",
+      "Cricinfo",
+      "Sky Sports",
+      "The Guardian",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-13T15:02+05:30",
+     "score": 7.43,
+     "summary": "Mahli Beardman made a remarkable entry into One Day Internationals, claiming six wickets in his debut match against England in Perth. Australia effectively chased down England's target of 131 runs, thanks in part to a brisk fifty from captain Mitch Marsh. This triumph secured a 1-0 lead for Australia in the ODI series, with the second match awaited in Adelaide this coming Sunday.",
+     "image": "https://static.toiimg.com/photo/msid-135797414,imgsize-113784.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "6/24 on debut! Mahli Beardman rips through England as Australia take 1-0 lead",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/6/24-on-debut-mahli-beardman-rips-through-england-as-australia-take-1-0-lead/articleshow/135797289.cms",
+       "publishedAt": "2026-11-13T15:02+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "Mahli Beardman's dream debut powers Australia to crushing win over England in Perth",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbVR5T3cydmRIWFp1Ym13Y0RFa21VMTllQlhkcnJiT3hoc1V2aUhRaGdMR1BpRW11SUNDaUpBaU9TSDg3QV9fcTk5VzJoNHZ1OHNpVVkwcUx4R2VZa1EzRVUwUE5KRWpFbldqRmo1alhhS2xPNm92bXJtUVNaV0d4Y2V2SzlWbk5pelRsSmNTc1RjbGI1TGtIV1BXR1drWThWSG9oLXhKNEtUM3k1MnFKbi1B?oc=5",
+       "publishedAt": "2026-11-13T14:33+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-13T14:00+05:30",
    "generatedAt": "2026-11-13T14:24+05:30",
