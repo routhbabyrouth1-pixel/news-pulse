@@ -1,6 +1,160 @@
 {
- "updated": "2026-11-15T01:10+05:30",
+ "updated": "2026-11-15T02:06+05:30",
  "hours": [
+  {
+   "hour": "2026-11-15T02:00+05:30",
+   "generatedAt": "2026-11-15T02:06+05:30",
+   "feeds": 16,
+   "headlines": 200,
+   "stories": [
+    {
+     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T21:23+05:30",
+     "score": 6.97,
+     "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T21:23+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
+       "publishedAt": "2026-11-14T20:57+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Warriors vs Lions, Final, CSA T20 Challenge 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObTd3c01wTFJHamNhWGFkbU1vZU05enVLN0NUMGJ4dFNmbXlrZVFDZzJCbU1YTmUzMnAyOV9DUHN1aXcxUHA0V2F0X0tqRU4yWEdLRUphaWVSY2Z5MzEyV21URU1uUnUxMGZBZmlrTjZFVlBlSVppR251TFhFdXZjdFRvN2RRdmM3U0c3MHlhU0pnOG54M1FFYw?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "Cricket World",
+      "ESPN",
+      "India Today",
+      "SA Cricket Mag",
+      "SuperSport"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T00:48+05:30",
+     "score": 6.93,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "Warriors vs Lions, Final, CSA T20 Challenge 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObTd3c01wTFJHamNhWGFkbU1vZU05enVLN0NUMGJ4dFNmbXlrZVFDZzJCbU1YTmUzMnAyOV9DUHN1aXcxUHA0V2F0X0tqRU4yWEdLRUphaWVSY2Z5MzEyV21URU1uUnUxMGZBZmlrTjZFVlBlSVppR251TFhFdXZjdFRvN2RRdmM3U0c3MHlhU0pnOG54M1FFYw?oc=5",
+       "publishedAt": "2026-11-15T00:48+05:30"
+      },
+      {
+       "source": "Cricket World",
+       "title": "Latest cricket news, live scores and video",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWVSVTF1Q28tV3h1STRUanVRb3pBeVdpWUl6N0FsbDZQcnRFUm5XTEMzX1dzVzZrV1JDQzlDYUI1Q2RiN2FQV1E5LXR5N2xmTUVrOWEyY0NvaWxRUi1uYTVjZ3BlbEswZUlXSVZ4M2tDS0VNM25EYVYzT01zdnVldWdBbVFHTFluMGN4UUw5OC1KWEkyUFJrbHZlbmx1WnZicFdxcw?oc=5",
+       "publishedAt": "2026-11-14T23:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India is no longer functioning as a democracy, destroyed since 2014: Rahul Gandhi",
+     "link": "https://www.thehindu.com/news/national/india-no-longer-a-democracy-under-bjp-led-regime-rahul-gandhi/article71702053.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Herald",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T21:51+05:30",
+     "score": 6.79,
+     "summary": "At the Bharat Summit, the LoP says money power, institutional capture changed the political landscape, left Opposition in shock for a decade; cites anomalies in Maharashtra elections",
+     "image": "https://th-i.thgim.com/public/incoming/jtihsv/article71702281.ece/alternates/LANDSCAPE_1200/Bharat%20Summit%20%2011.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "India is no longer functioning as a democracy, destroyed since 2014: Rahul Gandhi",
+       "link": "https://www.thehindu.com/news/national/india-no-longer-a-democracy-under-bjp-led-regime-rahul-gandhi/article71702053.ece",
+       "publishedAt": "2026-11-14T21:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In Mumbai",
+     "link": "https://www.ndtv.com/india-news/mumbai-nariman-house-chabad-house-20-year-old-arrested-for-recce-of-26-11-target-nariman-house-in-mumbai-12327425#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "India TV News",
+      "Inshorts",
+      "NDTV",
+      "Rediff",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T21:28+05:30",
+     "score": 6.73,
+     "summary": "According to the police, the man identified as Yash Singh was working at the direction of foreign handlers and had been collecting photographs, vehicle details and precise location information about Jewish citizens.",
+     "image": "https://c.ndtvimg.com/2018-11/1gf86hcg_chabad-house-afp_625x300_23_November_18.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In Mumbai",
+       "link": "https://www.ndtv.com/india-news/mumbai-nariman-house-chabad-house-20-year-old-arrested-for-recce-of-26-11-target-nariman-house-in-mumbai-12327425#publisher=newsstand",
+       "publishedAt": "2026-11-14T21:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Australian PM caught making genital joke with climate minister at COP31 - watch",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/more-important-than-heart-australian-pm-caught-making-genital-joke-with-climate-minister-at-cop31-watch/articleshow/135836793.cms",
+     "source": "Times of India",
+     "sources": [
+      "ABC News & Headlines – Australian Broadcasting Corporation",
+      "NDTV",
+      "SBS",
+      "SMH.com.au",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T21:24+05:30",
+     "score": 6.28,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135836978,imgsize-61716.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Australian PM caught making genital joke with climate minister at COP31 - watch",
+       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/more-important-than-heart-australian-pm-caught-making-genital-joke-with-climate-minister-at-cop31-watch/articleshow/135836793.cms",
+       "publishedAt": "2026-11-14T21:24+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'More important than heart': Australian PM caught making genital joke with climate minister at COP31 - wa",
+       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb2szSjRyU0FySk5leUotV25WU0NreG5CLTBDYml3eEJnN0hKWTQyM1N0dmtydGZDaHJOR2dXcjZISXRRRlBERTdmNE5NUHRMcXdsYnp5ampjYmk2Zks0dzdDc2ZVb0lScThJeC1JQ2FLNWV1UHBXRjVhY29zU09xYTJNeXFhNWlhMUJudDFCOU5XUS1VYnQzRGF2VWxjelZqT0V2N1JBVDNxZWlwVzVvZGpzZndERFppNE85RVBHT2NhOXgwbFdPTUx2LUdERVZpeHJxR1NQTmpUTkdya0VZTl9FcmFXVERwQkRtYURiS0p0SVFtY3Z5UVFzRUJiNjBzazRWT1FPeDBRMllRZi1iaGJUWdIBmAJBVV95cUxNLXRsRDNKdUU0Y3p4eVRWbU5CeHVvaC1Nd3BhLUNmcmlPMnowSXJPSlRudFhmT0pXY2VLOFp4eVRNQngwYkNaNHVHMjk2WUM0QmpvVjU2bXV1SndDN0o4QWFDWFJIaHpJdnZVRWFMZDFudzhaTHktOXNOWm02UGlFdzJjcVZtczFVVGNFaWQtcThURGIwRjBCLUxTdkF5a3BueUF3ZU0zRHo1Z3dwSXMwdGk2T0Q0SHlRUDRtYUxrX2ItR2FPdVNNbmVKNmR1b09OVG9zZENxTXc4dVdZRmYwWGU4UmRLMkRSZENIZVZydWlIc3NVQUdZVDdFVzR3V2xOcHF6VzNSalh4d2FQdjdjRjV6UGxFdVNw?oc=5",
+       "publishedAt": "2026-11-14T21:24+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-15T01:00+05:30",
    "generatedAt": "2026-11-15T01:10+05:30",
