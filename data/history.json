@@ -1,6 +1,164 @@
 {
- "updated": "2026-11-14T10:20+05:30",
+ "updated": "2026-11-14T11:17+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T11:00+05:30",
+   "generatedAt": "2026-11-14T11:17+05:30",
+   "feeds": 16,
+   "headlines": 215,
+   "stories": [
+    {
+     "title": "Aries Horoscope Today: November 14, 2026",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JWEZ2T1p4LUhKU2ppY0hEX1pFWWQ5STE3STBOX2VKeG84VGVCa0daMmFMS1JFOTNOSTlyQ1U2SzlFZW41MDc1N3ZDNmNpRnVaZkJPYWhVWnc4cDZBSnNlM2xnM0FETnd5Szk2ZzdWaXhONjBqZnc?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "Yahoo",
+      "iDiva"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-14T05:50+05:30",
+     "score": 9.24,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Aries Horoscope Today: November 14, 2026",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JWEZ2T1p4LUhKU2ppY0hEX1pFWWQ5STE3STBOX2VKeG84VGVCa0daMmFMS1JFOTNOSTlyQ1U2SzlFZW41MDc1N3ZDNmNpRnVaZkJPYWhVWnc4cDZBSnNlM2xnM0FETnd5Szk2ZzdWaXhONjBqZnc?oc=5",
+       "publishedAt": "2026-11-14T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+     "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T11:05+05:30",
+     "score": 8.47,
+     "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+       "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+       "publishedAt": "2026-11-14T09:02+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. FAA ground stop LIVE updates: Flights resume as hours-long halt lifted; Trump admin. blames ‘overloaded' systems",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnN1WVpEek93bmZvMllzOGZrWGQxUVlIX2lxaHNqY0g1c0lHOTFDc1pwMUV1d0J2X2RuWFZjOWlxSnZ1R3ZGZDdZeGJSSWtDTHo2dm1VWVdTZXB3TzVzMy1TUUVnTW9UTG10NldQUlBHcTQ3VWRRSGFFOGxQVVZEaTFxM0dNcGVzRUp4b0hUZ28xdkRFVjd0dDlod1hLa3AyTG9kMWkzZHktZENQRkxFUFB2M0g0M1RxSU1tNzh1SGJ4X0tFQVV5eWUtUURzTXl1Tkl0RjdVZEZOVk1pTmfSAeQBQVVfeXFMTXRNQk5weURjMHQxNTBtYllXUlRueDlSMnY2elloZnE0VUU5a1ZYMWhMalFLT2FqV0tQX2huUVdPSXRrNkhqSVdoTmV0RFFOaktLamI1NHBOQUptcVE2NUVsdTkzYVhRRWk0YTJLMG9tWFUxaGpkLWUwWnR3Zk15YkhITUR1TFVXRUY1dVFNajdHeGVwTV9vQWJiX1dHTGd2YS1kMno2eVY5TGVfd2JNdFJCeXdZTmFnaktROTNnV3RwSTVVNGNTS25WYW9mOWMxWTVHV1VKcmNZWVh6M0l3X05HeG81?oc=5",
+       "publishedAt": "2026-11-14T11:05+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Kangana Ranaut booked over X post on Gandhis",
+     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/kangana-ranaut-booked-over-social-media-posts-on-gandhi-family-fir-registered/articleshow/135821383.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Deccan Herald",
+      "Moneycontrol.com",
+      "NDTV",
+      "Scroll.in",
+      "The Economic Times",
+      "The New Indian Express"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T09:05+05:30",
+     "score": 7.38,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Kangana Ranaut booked over X post on Gandhis",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/kangana-ranaut-booked-over-social-media-posts-on-gandhi-family-fir-registered/articleshow/135821383.cms",
+       "publishedAt": "2026-11-14T08:59+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Kangana Ranaut booked over 'mysterious foreigner' remark targeting Sonia Gandhi",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS204RDVDaEk0RTRnc2tUVzZ4Qnpnemd6NnFDb3VYVVRfOWExQ2hydE8wdk41X3VQeGh3TUMxeXJncUJzaXB2U0k3SWxRYS1jSXRIYW1kbW5JSUUySFUzZDAyZUlnOVNaQUJCV0o4T0s5d2lQV2tNbzZCZEJRWmc0QTNLTUswa3JadFhfU3l3X3JwZWUzMEdrMFFmYlNIUXFSNUxUMGh3SV9BMDRlcWNHa21BTWRjbmlURElxNllHcG9JcjYwOVN4ZmEzUdIB0AFBVV95cUxPT1BBcXlGMWN2ekhzWnZGTXdRaUg2UXh0M1d0RElCY3lfZXh5SEo0V1BpdWN3N1ZJc3FMQl80dlhFVnVhM0Z5ZXdEMVBPUzNhMHItUERSQll2OGlUaFJucXVSakhrdktwY2NrZzJPblNyUkFtTUQwNVRZX09ZZU51MFlCeDJlSGdRdkRMR29Bdkh0MW9ISWNmRGx3U2VVbGxZeE1Wc19ZUTdMWnFpR01QRXFucEpLcU0xUFAwVWp2ZkszeENabUVnN01vUWhoUTU1?oc=5",
+       "publishedAt": "2026-11-14T09:05+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Brar joins India’s Test squad for NZ series",
+     "link": "https://economictimes.indiatimes.com/news/sports/cricket/gurnoor-brar-joins-indias-test-squad-for-new-zealand-series-kuldeep-yadav-released-for-domestic-cricket/articleshow/135822571.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "ICC",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T10:33+05:30",
+     "score": 7.38,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Brar joins India’s Test squad for NZ series",
+       "link": "https://economictimes.indiatimes.com/news/sports/cricket/gurnoor-brar-joins-indias-test-squad-for-new-zealand-series-kuldeep-yadav-released-for-domestic-cricket/articleshow/135822571.cms",
+       "publishedAt": "2026-11-14T09:52+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "NZ vs IND, 2026: Kuldeep Yadav released from Test squad; Gurnoor Brar included",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSm1SYmp4VnhrXzY0RkhfN3V2ZEpueDNLNmVUeDZmOEpfRHdXcDVDdXlPaEo1dFFaOHpjWVNBdGVEM3l1WlZ6QjFzZ0ZRMDE2anc1SHJDVmNwTGFleVpLRkZqREFwNXNFS21uN0Jhd2NEQVdSYVZKMFZPSkJYN2tNVFNzSW1jOGdkV1NtU1BkcDI5Z1ZpMVNTZmJ0eVBIUHl4UXJaTmFiQks?oc=5",
+       "publishedAt": "2026-11-14T10:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Warner claims 2018 ball-tampering investigation 'stinks of a cover-up'",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnNjVXBHSnNXa2ViRklGOWpjN0pRaVNNUlItWjU5OGc2Sk1UUWE5MU5HNG93NThQZHZyWGFYMVhQbGgtSHJqWmFEWld5QUcxbVRROWg4VXByaHljZjdGN2liU3NQNFdzMm5MaDlGVWlZcGNlVDZZQTJJVHN4YnhyZWotV2E1ZTNzdHFmeV94M2NTcXllS1V4WTAtU19FemhOeWNwRVNDdk9oN2tIbDZYcGF6UdIBxAFBVV95cUxOS001Z0x6dFV2dmNaZ05HaEJ3TURSaWQxb3dvSWVMQTlEUTJOSWE2MDhDaXAwN2tNMjRVc0UxT0lIUjhXeGd5OHZlODNFVm1lalhxLTl4LUZ5eUQtRnJuRXBPT0MyLTRsbllwenFzNlVzMm5nVWUtVTVQZ2hIRWRPTmNYR0x1cWtVN0pWUjF2WU5iZk1ibFcyWHBLY0Z6NU1ZaDZFZHVNOWZGMmVPYVN4cFo1NUhMbzJVY19jRnBmdWFWOHJn?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Rediff",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T09:59+05:30",
+     "score": 7.28,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "Warner claims 2018 ball-tampering investigation 'stinks of a cover-up'",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnNjVXBHSnNXa2ViRklGOWpjN0pRaVNNUlItWjU5OGc2Sk1UUWE5MU5HNG93NThQZHZyWGFYMVhQbGgtSHJqWmFEWld5QUcxbVRROWg4VXByaHljZjdGN2liU3NQNFdzMm5MaDlGVWlZcGNlVDZZQTJJVHN4YnhyZWotV2E1ZTNzdHFmeV94M2NTcXllS1V4WTAtU19FemhOeWNwRVNDdk9oN2tIbDZYcGF6UdIBxAFBVV95cUxOS001Z0x6dFV2dmNaZ05HaEJ3TURSaWQxb3dvSWVMQTlEUTJOSWE2MDhDaXAwN2tNMjRVc0UxT0lIUjhXeGd5OHZlODNFVm1lalhxLTl4LUZ5eUQtRnJuRXBPT0MyLTRsbllwenFzNlVzMm5nVWUtVTVQZ2hIRWRPTmNYR0x1cWtVN0pWUjF2WU5iZk1ibFcyWHBLY0Z6NU1ZaDZFZHVNOWZGMmVPYVN4cFo1NUhMbzJVY19jRnBmdWFWOHJn?oc=5",
+       "publishedAt": "2026-11-14T09:59+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T10:00+05:30",
    "generatedAt": "2026-11-14T10:20+05:30",
