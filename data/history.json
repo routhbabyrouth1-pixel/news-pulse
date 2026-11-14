@@ -1,6 +1,174 @@
 {
- "updated": "2026-11-15T00:10+05:30",
+ "updated": "2026-11-15T01:10+05:30",
  "hours": [
+  {
+   "hour": "2026-11-15T01:00+05:30",
+   "generatedAt": "2026-11-15T01:10+05:30",
+   "feeds": 16,
+   "headlines": 234,
+   "stories": [
+    {
+     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T21:23+05:30",
+     "score": 7.87,
+     "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T21:23+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
+       "publishedAt": "2026-11-14T20:57+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Italy fines Meta €805m over accessing users' photos",
+     "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Reuters",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T23:58+05:30",
+     "score": 7.84,
+     "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Italy fines Meta €805m over accessing users' photos",
+       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T23:58+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Italy fines Meta $887 million; must disable feature by default in 60 days",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-fined-887-million-for-accessing-android-users-photos-italian-regulator-cites-lack-of-co-operation-gives-60-day-deadline-to-disable-the-feature/articleshow/135838931.cms",
+       "publishedAt": "2026-11-14T22:44+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Italy fines Meta $880m over photo privacy",
+       "link": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+       "publishedAt": "2026-11-14T21:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In Mumbai",
+     "link": "https://www.ndtv.com/india-news/mumbai-nariman-house-chabad-house-20-year-old-arrested-for-recce-of-26-11-target-nariman-house-in-mumbai-12327425#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "India TV News",
+      "Inshorts",
+      "NDTV",
+      "Rediff",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T21:28+05:30",
+     "score": 6.88,
+     "summary": "According to the police, the man identified as Yash Singh was working at the direction of foreign handlers and had been collecting photographs, vehicle details and precise location information about Jewish citizens.",
+     "image": "https://c.ndtvimg.com/2018-11/1gf86hcg_chabad-house-afp_625x300_23_November_18.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In Mumbai",
+       "link": "https://www.ndtv.com/india-news/mumbai-nariman-house-chabad-house-20-year-old-arrested-for-recce-of-26-11-target-nariman-house-in-mumbai-12327425#publisher=newsstand",
+       "publishedAt": "2026-11-14T21:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Australian PM caught making genital joke with climate minister at COP31 - watch",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/more-important-than-heart-australian-pm-caught-making-genital-joke-with-climate-minister-at-cop31-watch/articleshow/135836793.cms",
+     "source": "Times of India",
+     "sources": [
+      "ABC News & Headlines – Australian Broadcasting Corporation",
+      "NDTV",
+      "SBS",
+      "SMH.com.au",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T21:24+05:30",
+     "score": 6.42,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135836978,imgsize-61716.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Australian PM caught making genital joke with climate minister at COP31 - watch",
+       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/more-important-than-heart-australian-pm-caught-making-genital-joke-with-climate-minister-at-cop31-watch/articleshow/135836793.cms",
+       "publishedAt": "2026-11-14T21:24+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'More important than heart': Australian PM caught making genital joke with climate minister at COP31 - wa",
+       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb2szSjRyU0FySk5leUotV25WU0NreG5CLTBDYml3eEJnN0hKWTQyM1N0dmtydGZDaHJOR2dXcjZISXRRRlBERTdmNE5NUHRMcXdsYnp5ampjYmk2Zks0dzdDc2ZVb0lScThJeC1JQ2FLNWV1UHBXRjVhY29zU09xYTJNeXFhNWlhMUJudDFCOU5XUS1VYnQzRGF2VWxjelZqT0V2N1JBVDNxZWlwVzVvZGpzZndERFppNE85RVBHT2NhOXgwbFdPTUx2LUdERVZpeHJxR1NQTmpUTkdya0VZTl9FcmFXVERwQkRtYURiS0p0SVFtY3Z5UVFzRUJiNjBzazRWT1FPeDBRMllRZi1iaGJUWdIBmAJBVV95cUxNLXRsRDNKdUU0Y3p4eVRWbU5CeHVvaC1Nd3BhLUNmcmlPMnowSXJPSlRudFhmT0pXY2VLOFp4eVRNQngwYkNaNHVHMjk2WUM0QmpvVjU2bXV1SndDN0o4QWFDWFJIaHpJdnZVRWFMZDFudzhaTHktOXNOWm02UGlFdzJjcVZtczFVVGNFaWQtcThURGIwRjBCLUxTdkF5a3BueUF3ZU0zRHo1Z3dwSXMwdGk2T0Q0SHlRUDRtYUxrX2ItR2FPdVNNbmVKNmR1b09OVG9zZENxTXc4dVdZRmYwWGU4UmRLMkRSZENIZVZydWlIc3NVQUdZVDdFVzR3V2xOcHF6VzNSalh4d2FQdjdjRjV6UGxFdVNw?oc=5",
+       "publishedAt": "2026-11-14T21:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Introspect own prejudices, stop lecturing': India hits back at US panel over Sharjeel Imam post",
+     "link": "https://timesofindia.indiatimes.com/india/introspect-on-your-own-prejudices-india-hits-back-at-us-religious-freedom-panel-over-sharjeel-imam-post/articleshow/135836188.cms",
+     "source": "Times of India",
+     "sources": [
+      "PGurus",
+      "Scroll.in",
+      "The Hindu",
+      "The Pamphlet",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T20:54+05:30",
+     "score": 6.37,
+     "summary": "Vinay Mohan Kwatra, India's ambassador to the US, criticized the USCIRF for its remarks about religious freedom. He stated that the commission lacks the authority to judge the rights of Indian citizens. His remarks came after the commission described jailed activist Sharjeel Imam as a person detained in India for his religious freedom advocacy.",
+     "image": "https://static.toiimg.com/photo/msid-135836404,imgsize-99527.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Introspect own prejudices, stop lecturing': India hits back at US panel over Sharjeel Imam post",
+       "link": "https://timesofindia.indiatimes.com/india/introspect-on-your-own-prejudices-india-hits-back-at-us-religious-freedom-panel-over-sharjeel-imam-post/articleshow/135836188.cms",
+       "publishedAt": "2026-11-14T20:54+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Introspect on your own prejudices': India hits back at US religious freedom panel over Sharjeel Imam pos",
+       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbGc1UlM5UWc0M2M0ODM3T2hWVmV2VElmN2xEc0tKa1dQOC01X1J3em5wQkpiT01JeUdOOWIzVEVlMnpHQmY2N1ZOODhOZzNjcDhXcVcwWnhZcEk3N2swc1BiYW9UbWg0R2x6Ump2cnB1MWtHa25pbU8xcmloNXQxMm1hM3BqTldYVGJ0dVFobUFkQmtRRGJDZ3Jyd1VmRE5zTklIc1lTRDVpeVZRNlRuOXpNNHRTUlZxTkFMYzdzS1VvdHpkV1laVDIyM2Nadmx1MWxkY1FsZ1c1X21zMzA3STRTaDJtRXVoeGxCWlFoR3BkNnc3UzNWTGo0VFo4dzZZ?oc=5",
+       "publishedAt": "2026-11-14T20:54+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-15T00:00+05:30",
    "generatedAt": "2026-11-15T00:10+05:30",
