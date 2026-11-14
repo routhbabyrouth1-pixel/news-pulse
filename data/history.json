@@ -1,6 +1,195 @@
 {
- "updated": "2026-11-14T16:10+05:30",
+ "updated": "2026-11-14T17:06+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T17:00+05:30",
+   "generatedAt": "2026-11-14T17:06+05:30",
+   "feeds": 16,
+   "headlines": 309,
+   "stories": [
+    {
+     "title": "Microsoft says services fully restored after global outage",
+     "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+     "source": "The Guardian",
+     "sources": [
+      "BBC News",
+      "NDTV",
+      "Reuters",
+      "The Conversation",
+      "The Guardian",
+      "The Hindu",
+      "The Japan Times",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-14T16:37+05:30",
+     "score": 10.42,
+     "summary": "Tech company says services now restored to all customers and regions hit by one of worst IT failures in years Microsoft has said its service is fully restored after a massive outage that caused widespread disruption to governments, businesses and public services around the world . The tech company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT failures in…",
+     "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Microsoft says services fully restored after global outage",
+       "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+       "publishedAt": "2026-11-14T16:37+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Microsoft Says Most Services Back Online After Hours Of Global Disruption",
+       "link": "https://www.ndtv.com/world-news/microsoft-says-most-services-back-online-after-hours-of-global-disruption-12325651#publisher=newsstand",
+       "publishedAt": "2026-11-14T12:44+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Microsoft says services fully restored after day-long global outage",
+       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T12:12+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
+       "publishedAt": "2026-11-14T14:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Usman century and fifties from Qadir and Yousaf set India 338 to win Under-19 Asia Cup",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjdsTFVoWE9MRGtZSm8zMVNlc3o2VGhKenE0VGZmbFZJWlh1R01HNzM5aTFBX2Z4WThPaS00SUNNWDR3eDZVUlE5ejVzVEZXZm9sSml1V1RaSUhWZmg0anItWURZcjhFeGNGZF9iZTZoT1pXVE54ZmlUb1g4OFEzM1VCR191bVk3eWNFZTdMdFZ4cDBhaUZ0ZTMxVFV3T3huTlU4UVU5TjFoRGstVFdCbldteklfSXY3dTJIOXkzX2MzamZfQnZhZmUyRQ?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "Cricinfo",
+      "Inshorts",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T14:49+05:30",
+     "score": 8.12,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "Usman century and fifties from Qadir and Yousaf set India 338 to win Under-19 Asia Cup",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjdsTFVoWE9MRGtZSm8zMVNlc3o2VGhKenE0VGZmbFZJWlh1R01HNzM5aTFBX2Z4WThPaS00SUNNWDR3eDZVUlE5ejVzVEZXZm9sSml1V1RaSUhWZmg0anItWURZcjhFeGNGZF9iZTZoT1pXVE54ZmlUb1g4OFEzM1VCR191bVk3eWNFZTdMdFZ4cDBhaUZ0ZTMxVFV3T3huTlU4UVU5TjFoRGstVFdCbldteklfSXY3dTJIOXkzX2MzamZfQnZhZmUyRQ?oc=5",
+       "publishedAt": "2026-11-14T14:49+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sooryavanshi now youngest captain in men's T20",
+     "link": "https://economictimes.indiatimes.com/news/sports/cricket/15-year-old-vaibhav-sooryavanshi-becomes-youngest-captain-in-mens-t20-history/articleshow/135826312.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "BBC",
+      "Cricinfo",
+      "Rajasthan Royals",
+      "Reuters",
+      "Telegraph India",
+      "The Economic Times",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T13:06+05:30",
+     "score": 7.71,
+     "summary": "The Bihar Cricket Association (BCA) announced a 17-member squad last Friday, naming Sooryavanshi captain for the first two matches of the tournament. Suraj Kashyap was appointed vice-captain.",
+     "image": "https://static.toiimg.com/photo/msid-135824756,imgsize-26304.cms",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Sooryavanshi now youngest captain in men's T20",
+       "link": "https://economictimes.indiatimes.com/news/sports/cricket/15-year-old-vaibhav-sooryavanshi-becomes-youngest-captain-in-mens-t20-history/articleshow/135826312.cms",
+       "publishedAt": "2026-11-14T13:06+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Vaibhav Sooryavanshi breaks men's T20 world record at 15 years and 232 days",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-scripts-history-becomes-youngest-captain-in-mens-t20-cricket-history/articleshow/135824695.cms",
+       "publishedAt": "2026-11-14T11:47+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "India's Sooryavanshi becomes youngest captain in men's T20 history",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRV9YOGZqQ183c2N0U2phWWFPNGtQQVpweVo2OWRJQVVYWVl0WFltRVJ6YVpXZXlKX3BfVkZuUjQ5YnJFWDQtZldRNE9GWmxfWk93QVN1SXJHamNrOEkxa001cTh2V2lwcE5qTHlIWVJRaVlCd1pDV2tCSlR5bmxtUjlhSlNrSEpBdlV3SHJmWGN3Rll5ZENqSWJ4blprLXN0UFh1Qzd3WkljLWY2ckR5cW5B?oc=5",
+       "publishedAt": "2026-11-14T12:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Rahul Gandhi promises social security, insurance cover for gig workers in Telangana",
+     "link": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-promises-social-security-insurance-cover-for-gig-workers-in-telangana/article71701082.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express",
+      "The Shillong Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T16:54+05:30",
+     "score": 7.47,
+     "summary": "Mr Gandhi said every gig worker would receive ₹5 lakh in accident insurance and ₹10 lakh in health insurance. A social security contribution mechanism under which 1% of every transaction, including deliveries and cab rides, would be contributed towards the workers’ future security",
+     "image": "https://th-i.thgim.com/public/incoming/qwhsem/article71701259.ece/alternates/LANDSCAPE_1200/Rahul%20Gandhi%2008.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Rahul Gandhi promises social security, insurance cover for gig workers in Telangana",
+       "link": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-promises-social-security-insurance-cover-for-gig-workers-in-telangana/article71701082.ece",
+       "publishedAt": "2026-11-14T14:09+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Watch: Rahul Gandhi rides pillion with gig worker during Hyderabad rally",
+       "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-rides-pillion-with-gig-workers-during-bike-rally-in-hyderabad-video/articleshow/135825877.cms",
+       "publishedAt": "2026-11-14T12:54+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "India News Live Updates, 14 November 2026: Rahul Gandhi slams BJP-RSS over gig workers’ rights at Telangana rally",
+       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeXRzYkNndmFaaFh5cHBQZGl6bk1tYTRCWVUwT0FOOG9fTWF5VU1USlFrem54c3ZReHh6RHJFMDZKdXdsOXFDRDFxVWk1WGVhTDJMUTl1WUozNWxqZjA0ZURaX1JzRTBGeHBzckJSNUJCYmdYRHdtc0tlbjFZWXlXZHBhcnpkWFB6N0lQWXRHMFZRTEZQeVRlYy1ENHhOMEhKSmludnJCamRBbUZFQjB1S1ZtRTBMa2VaSHZjOWJJMmxudUtoME5CWFJHaEMwMUJDMGI2R1VRMFpQaDZuMVAzZm4temx1Q1V2YVRiSVpZR1NkV2xCbUlaaWdLdUFKOU1pZUN0ZlMwU1k1R2_SAZICQVVfeXFMTllDRnZzTDJqYjFZeXZXcUZmRzR1RjlvWjZQWkt6NDNjQzVRejcyc1E4ODBzVUZ6b29BeFdhN2Nhb0RsYXpxQWFXSDFUN1FJNjFsc1BrLUY4Y0ZMOTA1anl2ekVvYTQxSFVEVVhBYTBqNlNMUFlDUEtJREZ5Qld4bTM5QWhMYUxfMlE2MS1UdllxYjdqNC0tVXZDZ2V6U2RiOG1PQm1UQlpCZXJrRlEwamd3R0pGcWtBM2xPNmFpWXpXMTBwOTVDRllIb3g3bGVZVHhodzMzajROMGRMR1ZJeVNFR2tNUU9QbUFHUHU1elFoQWY5X1l1OVlYc0RYa0RwdktJQmIwY2o3OUtGTTNHWmRDUQ?oc=5",
+       "publishedAt": "2026-11-14T16:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Assam Class 9 student stabs mother with knife, writes about attack before jumping to death",
+     "link": "https://timesofindia.indiatimes.com/city/guwahati/assam-class-9-student-stabs-mother-with-knife-writes-about-attack-in-whatsapp-group-before-jumping-to-death/articleshow/135826295.cms",
+     "source": "Times of India",
+     "sources": [
+      "India Today NE",
+      "NDTV",
+      "Rediff",
+      "The Times of India",
+      "Times of India",
+      "guwahati Plus News"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T13:13+05:30",
+     "score": 7.1,
+     "summary": "On Friday night, a class nine student attacked his mother, injuring her seriously with a knife. The victim, Chandrani Kalita, is currently hospitalized in the Intensive Care Unit. Following the attack, the student jumped from a building, which resulted in his death. Police are investigating the incident but have not provided further details at this time. Updates will be shared as more information about the case…",
+     "image": "https://static.toiimg.com/photo/msid-135826436,imgsize-67304.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Assam Class 9 student stabs mother with knife, writes about attack before jumping to death",
+       "link": "https://timesofindia.indiatimes.com/city/guwahati/assam-class-9-student-stabs-mother-with-knife-writes-about-attack-in-whatsapp-group-before-jumping-to-death/articleshow/135826295.cms",
+       "publishedAt": "2026-11-14T13:13+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Assam Teen Stabs Mother, Then Falls To Death From Building",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTBHdU5qTUltLXJGQlcxUW5GSjZScjZMY0xycV9qSkwwckpfa2V3UlRKVUpSRE14enZqZWxxekF4SW9LRU1BUEdlUjhMSW9NRFJBbFo2YmIzY09Hd051NVgtT3lUdVFLNXRaWnp3RzEtQW1zYlhfc2xUd1hYRjhfdkdmNUM3aWRfc3lZQjRHVjdDNGtsWURKaGxmRjIwb3PSAacBQVVfeXFMTlU5d2Ytc1o0TG01OGg5S0tiVDVDQ0xSSFpnekNNc01tQ0JubzVTc0RmT1JlSDB6WC15WXFQV2xPdFh0VWRQdVkwUjZtaEZpblBFUG1vc2FxTHpQZEozOVhaMkJFYVJudXVYX3RDWjdQa1prVWVBZDd4blp3bG13WElrMkF3NzhyWEN5aWk5V2xCc1lqWWJ2d3FoTHhwaWctdThCNm1LOWM?oc=5",
+       "publishedAt": "2026-11-14T11:28+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T16:00+05:30",
    "generatedAt": "2026-11-14T16:10+05:30",
