@@ -1,6 +1,199 @@
 {
- "updated": "2026-11-14T17:06+05:30",
+ "updated": "2026-11-14T18:15+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T18:00+05:30",
+   "generatedAt": "2026-11-14T18:15+05:30",
+   "feeds": 16,
+   "headlines": 297,
+   "stories": [
+    {
+     "title": "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
+     "link": "https://www.thehindu.com/news/national/puri-resigns-from-uttar-pradesh-rajya-sabha-seat-after-being-re-elected-from-mp/article71701657.ece",
+     "source": "The Hindu",
+     "sources": [
+      "ETV Bharat",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T17:39+05:30",
+     "score": 8.65,
+     "summary": "Hardeep Singh Puri was elected unopposed for the Madhya Pradesh seat on November 5, with his tenure ending on April 2, 2030",
+     "image": "https://th-i.thgim.com/public/incoming/lajsn/article71701672.ece/alternates/LANDSCAPE_1200/20261031544L.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
+       "link": "https://www.thehindu.com/news/national/puri-resigns-from-uttar-pradesh-rajya-sabha-seat-after-being-re-elected-from-mp/article71701657.ece",
+       "publishedAt": "2026-11-14T17:39+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Hardeep Singh Puri resigns from UP Rajya Sabha seat",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/hardeep-singh-puri-resigns-from-up-rajya-sabha-seat-after-re-election-from-madhya-pradesh/articleshow/135829500.cms",
+       "publishedAt": "2026-11-14T15:36+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Hardeep Singh Puri resigns as Rajya Sabha member from Uttar Pradesh",
+       "link": "https://timesofindia.indiatimes.com/india/bjps-hardeep-singh-puri-resigns-as-rajya-sabha-member-from-uttar-pradesh/articleshow/135826645.cms",
+       "publishedAt": "2026-11-14T13:23+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "BJP's Hardeep Singh Puri resigns as Rajya Sabha member from Uttar Pradesh",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjJnSWJFVHphNzNUNWhIRGNpbm0wU3liWmVXdnRPVkk4YkhFSzF1eF8tWEFaWmRXek9uUzQ1cDhIUTRiSUN2akN2RDBsLTh1S29YMTVTWEliLVdKYkNmZEh3UjkxbVI1OEtELXhLWFBwa0pGcDdpamZSVmJCRG9aS2xSd05URTh6S2RTMFlUVjFyQ194TWNUTC1lY0hwVHpCS2JnZkF6c2oxSlltRjJPMHJSQU9nNUd2WmFPMDNUbGZIS3FwTENKQkdEZ2RQVEVyNEZxS2lvaw?oc=5",
+       "publishedAt": "2026-11-14T13:23+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Rediff",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T17:13+05:30",
+     "score": 8.33,
+     "summary": "Tata Trusts chairman says the group’s owner “cannot die, cannot be bought and cannot retire”, and the Trusts will work with regulators to keep it that way.",
+     "image": "https://static.toiimg.com/photo/msid-135831698,imgsize-30372.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
+       "publishedAt": "2026-11-14T17:13+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Noel Tata worries market listing will change the 'Tata way'",
+       "link": "https://www.hindustantimes.com/india-news/noel-tata-worries-market-listing-will-change-the-tata-way-hindustan-times-leadership-summit-101794645066605.html",
+       "publishedAt": "2026-11-14T14:19+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Charity Owns Commerce, Listing Will Change The Tata Way: Noel Tata",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmRyNTZPbjYxdnQzTWpRNXU2elZqdlVpXzlpOEZtd3A5a2JTUE1lcGJOTWNkM1ZIT1ZkMVVsUkFTcUlNdFdreEZCYWplcVhoZDZFd1JDMlhtaWtZdEhpZmI0OGxzMVhWV1NBNnJQX0tSdDdfUlB4ekQ5NnJoQTJOWU5TX3M5ejNTbWNTR3VfRVhRaEFWQm1mdUdVRC1qUjNMUHE3X01IaUd3X2lIZVVEcEkxVm9JcmRwSWFsb0dSam4tTm9aNlHSAc4BQVVfeXFMUFhnQ2l1S0JlQVBTd05YcU9HU08tZ1YwUFJMM0VDbHF1dEY4blRhTjhsNElQVl9hWTg0V3o2ZkxUMTZabzNJaUhUYWtlM2xfenN3X2xTNGtOSUZKNlNRbDB2bTBKRDVfUVV3QXdfN09Hb1oxMzJ5SHBmOEZSMTlRVUJ0LTY4ZnI3azVwcThUaFRsWWZZeGg0OUZzN2ppbEZzQ09UTnZpYlp4eXVpc2FIVlFHVXdOcEdTMHZRdHlPYUtfN1pEaVNWRDlyQkI5WVE?oc=5",
+       "publishedAt": "2026-11-14T16:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Massive fire breaks out at cloth godown in Gujarat's Surat, thick smoke engulfs area",
+     "link": "https://www.hindustantimes.com/india-news/massive-fire-breaks-out-at-cloth-godown-in-gujarats-surat-thick-smoke-engulfs-area-101794653254700.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Bhaskar English",
+      "CNBC TV18",
+      "Gujarat Samachar",
+      "Hindustan Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T16:22+05:30",
+     "score": 8.18,
+     "summary": "A massive fire broke out at a cloth storage godown in the Kharvasa area of Surat on Saturday.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/logo/Screenshot_2026-11-14_162038_1794653466977_drLb_1794653476169_q7Ie_6d2626db-5050-41e3-bf87-d5b93d3aa1c2_YuHi.png",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Massive fire breaks out at cloth godown in Gujarat's Surat, thick smoke engulfs area",
+       "link": "https://www.hindustantimes.com/india-news/massive-fire-breaks-out-at-cloth-godown-in-gujarats-surat-thick-smoke-engulfs-area-101794653254700.html",
+       "publishedAt": "2026-11-14T16:22+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Watch: Massive fire at Surat textile godown, thick smoke billows from site",
+       "link": "https://timesofindia.indiatimes.com/city/surat/video-thick-smoke-billows-from-textile-godown-as-massive-fire-breaks-out-in-surat/articleshow/135827894.cms",
+       "publishedAt": "2026-11-14T14:30+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Watch: Thick smoke billows from textile godown as massive fire breaks out in Surat",
+       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM29pbHZJU3ZrMFZvV3o2Rng5N1N2MGFIMlRtUVR3LTQ2X3NqQmwwUjBuOG90TlRTX2IzSXJRZVJzSHNpTU45R3duUUMtRlk4NHZ1emtvMXpHcERjdXczYUZMMmM3QlhabjkxNEVBbDJoV1lfa01EYkZQOHJzR2kyNUVDMWJNekZWbUdMMHNiQTRzb2hnbmJqNWgzdG9Td1VmTGMwYzZhWlM3TmtHLWhkUElaTndJQ0wxb1RsdlRQOXloZlV2bXlNZXlwWDJremg2ZFV5NDFpeFUtQ2RwSGhHcjVSZGxzeGVnQ2c?oc=5",
+       "publishedAt": "2026-11-14T14:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft says services fully restored after global outage hits governments",
+     "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+     "source": "The Guardian",
+     "sources": [
+      "ET Government",
+      "Reuters",
+      "The Guardian",
+      "The Hindu",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T17:24+05:30",
+     "score": 7.36,
+     "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT…",
+     "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Microsoft says services fully restored after global outage hits governments",
+       "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+       "publishedAt": "2026-11-14T17:24+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTQ?oc=5",
+       "publishedAt": "2026-11-14T14:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nikki Haley’s son backs her decision to skip 2028 race after Republican midterm losses",
+     "link": "https://timesofindia.indiatimes.com/world/us/nikki-haleys-son-backs-her-decision-to-skip-2028-race-after-republican-midterm-losses/articleshow/135831790.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNN",
+      "Forbes",
+      "The Atlantic",
+      "The Times of India",
+      "The Washington Post",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T17:37+05:30",
+     "score": 6.96,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135832204,imgsize-96492.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Nikki Haley’s son backs her decision to skip 2028 race after Republican midterm losses",
+       "link": "https://timesofindia.indiatimes.com/world/us/nikki-haleys-son-backs-her-decision-to-skip-2028-race-after-republican-midterm-losses/articleshow/135831790.cms",
+       "publishedAt": "2026-11-14T17:37+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "JD Vance weighs skipping 2028 presidential race after Republican midterm losses: Report",
+       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaGgwcF91R2p0OEhORkE1Y1o1RTB3UU9nMXpWaVZ5M1NsRllONXhkVnpSNFpqN3UwSXpLWEFpMkNXYzZ4cmRzcGZSNGVzOEpISDFKbXN6R2hMX3o5anpuOE1WcXA4aUU3QjBUai1COGZlcWVaaDJScU9lcEVkc19wcWJHYUF5cW11Vy1wZFI0TEJyOEVtRXEyZUhsaTZqLXk2V3NJaHpJQmZjYXVVcmZPUi1hSG8zUlZhaURyVkgzNDVOZklGb2ZweUVudXg5RlRqU0t6VWRFSWs4R3Jld3BjS1ladHhTNjE3V1paLUVB?oc=5",
+       "publishedAt": "2026-11-14T12:55+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T17:00+05:30",
    "generatedAt": "2026-11-14T17:06+05:30",
