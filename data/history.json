@@ -1,6 +1,195 @@
 {
- "updated": "2026-11-14T11:17+05:30",
+ "updated": "2026-11-14T12:25+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T12:00+05:30",
+   "generatedAt": "2026-11-14T12:25+05:30",
+   "feeds": 16,
+   "headlines": 255,
+   "stories": [
+    {
+     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "Arab News",
+      "BBC",
+      "BBC News",
+      "CNN",
+      "Mint",
+      "NDTV",
+      "The Hindu"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-14T11:22+05:30",
+     "score": 9.32,
+     "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T11:22+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Trump, Xi, Putin To Hold Historic Meeting In China Next Week",
+       "link": "https://www.ndtv.com/world-news/donald-trump-xi-jinping-vladimir-putin-to-meet-next-week-at-apec-summit-in-china-12324669#publisher=newsstand",
+       "publishedAt": "2026-11-14T08:02+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "In a first, Trump to hold historic trilateral meeting with Xi, Putin in China next week | All you need to know",
+       "link": "https://www.livemint.com/news/us-news/in-a-first-trump-to-hold-historic-trilateral-meeting-with-xi-putin-in-china-next-week-all-you-need-to-know-11794620781785.html",
+       "publishedAt": "2026-11-14T07:22+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEQ5Q1VoVkdRb01adXJnWXVmNG5oaFl4SjJobDdyVVFaUV9YN1NXSEE3RlhvV3FnMGU4SDR4cllQTEpBM3FUX1pqNUZUOHJOOVBVTWhDQzJUUkk3VllqdG5NVUlQeVB6VU9rT3FaSDRud2xFMUNpRjZSdHR1bUJPWDFPd3NXMmlWOUtyVVlmQWk2eTZueThxNGZ6OWZRTWR5TUx0b3NfcFhwVVduaHRoZWR6bk9uYlp6YzNkX19iOHBwMGhvcVJlTW1pT3VQc3lsNFHSAdgBQVVfeXFMUG5mTEtnOGtRVjBKZGhucERSQmdvdFVxd1hQR1JMVjlXd1lsN0gzdEhnbkdTTjExQVhpZUpQYkFxRkt6aWFkS051V2h3ZkFqMktidTAtTWQ0Z3lqWVF3d3gxZ25xZVZfcEZLbXp0VHZnaktNUWZoVGRlUnd6djhEOTMteW9sU2ZYY0tFeTl6TlRnV3VkUjU3b1A1S0hVVUtZTUxIMnM5OXJxLUl1UWRXRDZXMktOZlc4b05ON1RoVHVyWHQxRk4tSGNQUEo1aWVBd3dOcF9DUVEz?oc=5",
+       "publishedAt": "2026-11-14T07:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft says services fully restored after for day-long global outage",
+     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "Reuters",
+      "The Conversation",
+      "The Hindu",
+      "The Japan Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T12:12+05:30",
+     "score": 8.46,
+     "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Microsoft says services fully restored after for day-long global outage",
+       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T12:12+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Tech giant restores services across all affected systems after global outage",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
+       "publishedAt": "2026-11-14T12:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gurnoor Brar added to Test squad, Kuldeep released as India go heavier on pace",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-gurnoor-brar-added-to-test-squad-kuldeep-yadav-released-as-india-go-heavier-on-pace/articleshow/135823318.cms",
+     "source": "Times of India",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "ICC",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T10:46+05:30",
+     "score": 8.22,
+     "summary": "The two-Test series begins in Wellington on November 19. Gurnoor will join the Indian squad in Wellington and, as a result, will miss the fifth and final ODI against New Zealand on Sunday.",
+     "image": "https://static.toiimg.com/photo/msid-135823582,imgsize-104489.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Gurnoor Brar added to Test squad, Kuldeep released as India go heavier on pace",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-gurnoor-brar-added-to-test-squad-kuldeep-yadav-released-as-india-go-heavier-on-pace/articleshow/135823318.cms",
+       "publishedAt": "2026-11-14T10:46+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Brar joins India’s Test squad for NZ series",
+       "link": "https://economictimes.indiatimes.com/news/sports/cricket/gurnoor-brar-joins-indias-test-squad-for-new-zealand-series-kuldeep-yadav-released-for-domestic-cricket/articleshow/135822571.cms",
+       "publishedAt": "2026-11-14T09:52+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "NZ vs IND, 2026: Kuldeep Yadav released from Test squad; Gurnoor Brar included",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSm1SYmp4VnhrXzY0RkhfN3V2ZEpueDNLNmVUeDZmOEpfRHdXcDVDdXlPaEo1dFFaOHpjWVNBdGVEM3l1WlZ6QjFzZ0ZRMDE2anc1SHJDVmNwTGFleVpLRkZqREFwNXNFS21uN0Jhd2NEQVdSYVZKMFZPSkJYN2tNVFNzSW1jOGdkV1NtU1BkcDI5Z1ZpMVNTZmJ0eVBIUHl4UXJaTmFiQks?oc=5",
+       "publishedAt": "2026-11-14T10:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+     "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "The Economist",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T11:59+05:30",
+     "score": 7.68,
+     "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+       "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+       "publishedAt": "2026-11-14T09:02+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. FAA ground stop LIVE updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnN1WVpEek93bmZvMllzOGZrWGQxUVlIX2lxaHNqY0g1c0lHOTFDc1pwMUV1d0J2X2RuWFZjOWlxSnZ1R3ZGZDdZeGJSSWtDTHo2dm1VWVdTZXB3TzVzMy1TUUVnTW9UTG10NldQUlBHcTQ3VWRRSGFFOGxQVVZEaTFxM0dNcGVzRUp4b0hUZ28xdkRFVjd0dDlod1hLa3AyTG9kMWkzZHktZENQRkxFUFB2M0g0M1RxSU1tNzh1SGJ4X0tFQVV5eWUtUURzTXl1Tkl0RjdVZEZOVk1pTmfSAeQBQVVfeXFMTXRNQk5weURjMHQxNTBtYllXUlRueDlSMnY2elloZnE0VUU5a1ZYMWhMalFLT2FqV0tQX2huUVdPSXRrNkhqSVdoTmV0RFFOaktLamI1NHBOQUptcVE2NUVsdTkzYVhRRWk0YTJLMG9tWFUxaGpkLWUwWnR3Zk15YkhITUR1TFVXRUY1dVFNajdHeGVwTV9vQWJiX1dHTGd2YS1kMno2eVY5TGVfd2JNdFJCeXdZTmFnaktROTNnV3RwSTVVNGNTS25WYW9mOWMxWTVHV1VKcmNZWVh6M0l3X05HeG81?oc=5",
+       "publishedAt": "2026-11-14T11:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Kangana Ranaut booked over X post on Gandhis",
+     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/kangana-ranaut-booked-over-social-media-posts-on-gandhi-family-fir-registered/articleshow/135821383.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Deccan Herald",
+      "Moneycontrol.com",
+      "NDTV",
+      "Scroll.in",
+      "The Economic Times",
+      "The New Indian Express"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T09:05+05:30",
+     "score": 7.19,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Kangana Ranaut booked over X post on Gandhis",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/kangana-ranaut-booked-over-social-media-posts-on-gandhi-family-fir-registered/articleshow/135821383.cms",
+       "publishedAt": "2026-11-14T08:59+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Kangana Ranaut booked over 'mysterious foreigner' remark targeting Sonia Gandhi",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS204RDVDaEk0RTRnc2tUVzZ4Qnpnemd6NnFDb3VYVVRfOWExQ2hydE8wdk41X3VQeGh3TUMxeXJncUJzaXB2U0k3SWxRYS1jSXRIYW1kbW5JSUUySFUzZDAyZUlnOVNaQUJCV0o4T0s5d2lQV2tNbzZCZEJRWmc0QTNLTUswa3JadFhfU3l3X3JwZWUzMEdrMFFmYlNIUXFSNUxUMGh3SV9BMDRlcWNHa21BTWRjbmlURElxNllHcG9JcjYwOVN4ZmEzUdIB0AFBVV95cUxPT1BBcXlGMWN2ekhzWnZGTXdRaUg2UXh0M1d0RElCY3lfZXh5SEo0V1BpdWN3N1ZJc3FMQl80dlhFVnVhM0Z5ZXdEMVBPUzNhMHItUERSQll2OGlUaFJucXVSakhrdktwY2NrZzJPblNyUkFtTUQwNVRZX09ZZU51MFlCeDJlSGdRdkRMR29Bdkh0MW9ISWNmRGx3U2VVbGxZeE1Wc19ZUTdMWnFpR01QRXFucEpLcU0xUFAwVWp2ZkszeENabUVnN01vUWhoUTU1?oc=5",
+       "publishedAt": "2026-11-14T09:05+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T11:00+05:30",
    "generatedAt": "2026-11-14T11:17+05:30",
