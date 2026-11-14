@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-14T09:19+05:30",
+ "updated": "2026-11-14T10:20+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T10:00+05:30",
+   "generatedAt": "2026-11-14T10:20+05:30",
+   "feeds": 15,
+   "headlines": 173,
+   "stories": [
+    {
+     "title": "Trump, Xi, Putin To Hold Historic Meeting In China Next Week",
+     "link": "https://www.ndtv.com/world-news/donald-trump-xi-jinping-vladimir-putin-to-meet-next-week-at-apec-summit-in-china-12324669#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC",
+      "CNN",
+      "Mint",
+      "NDTV",
+      "Rediff",
+      "Reuters",
+      "The Hindu",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-14T08:02+05:30",
+     "score": 9.99,
+     "summary": "Plans for the three-way summit with Donald Trump, Xi Jinping and Vladimir Putin were confirmed on Friday by the White House.",
+     "image": "https://c.ndtvimg.com/2026-11/ts9rkno8_trump-putin-xi_625x300_14_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Trump, Xi, Putin To Hold Historic Meeting In China Next Week",
+       "link": "https://www.ndtv.com/world-news/donald-trump-xi-jinping-vladimir-putin-to-meet-next-week-at-apec-summit-in-china-12324669#publisher=newsstand",
+       "publishedAt": "2026-11-14T08:02+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "In a first, Trump to hold historic trilateral meeting with Xi, Putin in China next week | All you need to know",
+       "link": "https://www.livemint.com/news/us-news/in-a-first-trump-to-hold-historic-trilateral-meeting-with-xi-putin-in-china-next-week-all-you-need-to-know-11794620781785.html",
+       "publishedAt": "2026-11-14T07:22+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Trump, Xi and Putin set for unprecedented trilateral meeting in China",
+       "link": "https://timesofindia.indiatimes.com/world/us/trump-xi-and-putin-set-for-unprecedented-trilateral-meeting-in-china/articleshow/135819647.cms",
+       "publishedAt": "2026-11-14T05:56+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEQ5Q1VoVkdRb01adXJnWXVmNG5oaFl4SjJobDdyVVFaUV9YN1NXSEE3RlhvV3FnMGU4SDR4cllQTEpBM3FUX1pqNUZUOHJOOVBVTWhDQzJUUkk3VllqdG5NVUlQeVB6VU9rT3FaSDRud2xFMUNpRjZSdHR1bUJPWDFPd3NXMmlWOUtyVVlmQWk2eTZueThxNGZ6OWZRTWR5TUx0b3NfcFhwVVduaHRoZWR6bk9uYlp6YzNkX19iOHBwMGhvcVJlTW1pT3VQc3lsNFHSAdgBQVVfeXFMUG5mTEtnOGtRVjBKZGhucERSQmdvdFVxd1hQR1JMVjlXd1lsN0gzdEhnbkdTTjExQVhpZUpQYkFxRkt6aWFkS051V2h3ZkFqMktidTAtTWQ0Z3lqWVF3d3gxZ25xZVZfcEZLbXp0VHZnaktNUWZoVGRlUnd6djhEOTMteW9sU2ZYY0tFeTl6TlRnV3VkUjU3b1A1S0hVVUtZTUxIMnM5OXJxLUl1UWRXRDZXMktOZlc4b05ON1RoVHVyWHQxRk4tSGNQUEo1aWVBd3dOcF9DUVEz?oc=5",
+       "publishedAt": "2026-11-14T07:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Aries Horoscope Today: November 14, 2026",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JWEZ2T1p4LUhKU2ppY0hEX1pFWWQ5STE3STBOX2VKeG84VGVCa0daMmFMS1JFOTNOSTlyQ1U2SzlFZW41MDc1N3ZDNmNpRnVaZkJPYWhVWnc4cDZBSnNlM2xnM0FETnd5Szk2ZzdWaXhONjBqZnc?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "Yahoo",
+      "iDiva"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-14T05:50+05:30",
+     "score": 9.4,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Aries Horoscope Today: November 14, 2026",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JWEZ2T1p4LUhKU2ppY0hEX1pFWWQ5STE3STBOX2VKeG84VGVCa0daMmFMS1JFOTNOSTlyQ1U2SzlFZW41MDc1N3ZDNmNpRnVaZkJPYWhVWnc4cDZBSnNlM2xnM0FETnd5Szk2ZzdWaXhONjBqZnc?oc=5",
+       "publishedAt": "2026-11-14T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft services begin recovering after global outage",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CGTN",
+      "Forbes",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T10:03+05:30",
+     "score": 8.45,
+     "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Microsoft services begin recovering after global outage",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+       "publishedAt": "2026-11-14T05:47+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Microsoft restores services across all affected systems after global outage",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
+       "publishedAt": "2026-11-14T10:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+     "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "CNN",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Yahoo Finance"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T09:37+05:30",
+     "score": 7.63,
+     "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+       "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+       "publishedAt": "2026-11-14T09:02+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. FAA ground stop LIVE updates: Flights resume as hours-long halt lifted; Trump admin. blames ‘overloaded' systems",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnN1WVpEek93bmZvMllzOGZrWGQxUVlIX2lxaHNqY0g1c0lHOTFDc1pwMUV1d0J2X2RuWFZjOWlxSnZ1R3ZGZDdZeGJSSWtDTHo2dm1VWVdTZXB3TzVzMy1TUUVnTW9UTG10NldQUlBHcTQ3VWRRSGFFOGxQVVZEaTFxM0dNcGVzRUp4b0hUZ28xdkRFVjd0dDlod1hLa3AyTG9kMWkzZHktZENQRkxFUFB2M0g0M1RxSU1tNzh1SGJ4X0tFQVV5eWUtUURzTXl1Tkl0RjdVZEZOVk1pTmc?oc=5",
+       "publishedAt": "2026-11-14T09:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Jewel of India': PM Modi, Rahul Gandhi, Rajnath pay tribute to Nehru",
+     "link": "https://timesofindia.indiatimes.com/india/jewel-of-india-pm-modi-rahul-gandhi-rajnath-singh-pay-tribute-to-jawaharlal-nehru/articleshow/135822093.cms",
+     "source": "Times of India",
+     "sources": [
+      "Business Standard",
+      "Scroll.in",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T09:35+05:30",
+     "score": 7.17,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135822309,imgsize-524132.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Jewel of India': PM Modi, Rahul Gandhi, Rajnath pay tribute to Nehru",
+       "link": "https://timesofindia.indiatimes.com/india/jewel-of-india-pm-modi-rahul-gandhi-rajnath-singh-pay-tribute-to-jawaharlal-nehru/articleshow/135822093.cms",
+       "publishedAt": "2026-11-14T09:35+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Jewel of India': PM Modi, Rahul Gandhi, Rajnath Singh pay tribute to Jawaharlal Nehru",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaXpqY1JTME1PblVsWVZyRFpkVmlWRFBsWExfcHBIODdxTk1xcG1zZGhkUWl5Wms5RTVJa1I3dlFfWVdzaHUyWGNtWjV3T1BjTU5iXzhjSVJBS0JjRG9Hb3hUcEFmUXlvYjBQRERpTWhwNFZWTm9OQ25zaWZMeVdzZVM0VTl6c2Y0VFdrTGtCN0hWLWYwSWlMWk9Jd0pTV3N2bHl4aWNVMmdDWlhQSlpmY29ka2NQZ0NhZmZoSTc3UUhBUkFEWDJ1X2MtdmdyVzhmY1Q1QmFBdy0yamM4TTR6cERpQQ?oc=5",
+       "publishedAt": "2026-11-14T09:35+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T09:00+05:30",
    "generatedAt": "2026-11-14T09:19+05:30",
