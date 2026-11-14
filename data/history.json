@@ -1,6 +1,191 @@
 {
- "updated": "2026-11-14T08:18+05:30",
+ "updated": "2026-11-14T09:19+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T09:00+05:30",
+   "generatedAt": "2026-11-14T09:19+05:30",
+   "feeds": 16,
+   "headlines": 149,
+   "stories": [
+    {
+     "title": "Trump, Xi, Putin To Hold Historic Meeting In China Next Week",
+     "link": "https://www.ndtv.com/world-news/donald-trump-xi-jinping-vladimir-putin-to-meet-next-week-at-apec-summit-in-china-12324669#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC",
+      "CNN",
+      "Mint",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-14T08:02+05:30",
+     "score": 9.09,
+     "summary": "Plans for the three-way summit with Donald Trump, Xi Jinping and Vladimir Putin were confirmed on Friday by the White House.",
+     "image": "https://c.ndtvimg.com/2026-11/ts9rkno8_trump-putin-xi_625x300_14_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Trump, Xi, Putin To Hold Historic Meeting In China Next Week",
+       "link": "https://www.ndtv.com/world-news/donald-trump-xi-jinping-vladimir-putin-to-meet-next-week-at-apec-summit-in-china-12324669#publisher=newsstand",
+       "publishedAt": "2026-11-14T08:02+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "In a first, Trump to hold historic trilateral meeting with Xi, Putin in China next week | All you need to know",
+       "link": "https://www.livemint.com/news/us-news/in-a-first-trump-to-hold-historic-trilateral-meeting-with-xi-putin-in-china-next-week-all-you-need-to-know-11794620781785.html",
+       "publishedAt": "2026-11-14T07:22+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Trump, Xi and Putin set for unprecedented trilateral meeting in China",
+       "link": "https://timesofindia.indiatimes.com/world/us/trump-xi-and-putin-set-for-unprecedented-trilateral-meeting-in-china/articleshow/135819647.cms",
+       "publishedAt": "2026-11-14T05:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Trump, Xi and Putin set for unprecedented trilateral meeting in China",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0trbmtZaHhlcEx3LUlRSjFkeXJETGp2VUYtZnZtdC02TDdoZFA2NjFLdFF6NTBmTmcxU1k2M0F0WEZYZ0pLVGR0dms2aTgtY2RTZERXdV8yb1BQSFV4ZW5YTlFOWWZiWjVwRW5MazlVeW56aTY1LWFvay1XU2xKTzBrWFBPeUpLRlRORDRESzR4b3ZxcTJZd2FFVnV6RGI4ZkEzckk3dkI2MnVpZDI3ekZkWkpfTVczOUd5N0I5Z2tXOGFrQXlPY1MzcGtUbENXR21maldB0gHbAUFVX3lxTE12TG1DYk5SdUFWa3JESU9RaS00YmNtSUtIU2tOVTdJcEUwVmczVnRXSTBsZHpIYUc3NDZlcUcxZDlVQU5lOWxoOU84UUw2Zm01bzVUbXRKdklpbDc4OGI0OVdibVk1UWgtWGM1cHNJaW15dVNpbXZCV3JPRTZMRjh4cDlkYUozWENPc0w3WUs0RENkMUFLU3VMMnNTYlBXMjJSMXFndXFmWTVYZUsxZUsxS2N5Yk5ta3A3bm1rUENmekJTZnROREp1Nkx1dzZvNWVQdmJnUWVra0oxVQ?oc=5",
+       "publishedAt": "2026-11-14T05:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Aries Horoscope Today: November 14, 2026",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JWEZ2T1p4LUhKU2ppY0hEX1pFWWQ5STE3STBOX2VKeG84VGVCa0daMmFMS1JFOTNOSTlyQ1U2SzlFZW41MDc1N3ZDNmNpRnVaZkJPYWhVWnc4cDZBSnNlM2xnM0FETnd5Szk2ZzdWaXhONjBqZnc?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "YourTango"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-14T05:50+05:30",
+     "score": 8.59,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Aries Horoscope Today: November 14, 2026",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JWEZ2T1p4LUhKU2ppY0hEX1pFWWQ5STE3STBOX2VKeG84VGVCa0daMmFMS1JFOTNOSTlyQ1U2SzlFZW41MDc1N3ZDNmNpRnVaZkJPYWhVWnc4cDZBSnNlM2xnM0FETnd5Szk2ZzdWaXhONjBqZnc?oc=5",
+       "publishedAt": "2026-11-14T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Airlines issue advisories amid FAA ground stop",
+     "link": "https://economictimes.indiatimes.com/nri/latest-updates/airlines-issue-advisories-as-faa-ground-stop-disrupts-us-flights-air-canada-cancels-services/articleshow/135820052.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T09:14+05:30",
+     "score": 8.49,
+     "summary": "Airlines including Air Canada and American Airlines issued passenger advisories after a nationwide ground stop imposed by the Federal Aviation Administration (FAA) disrupted flight operations across the United States, triggering cancellations and departure delays.Air Canada cancelled all flights to and from the US for the remainder of the evening, warning that services between Canada, the Caribbean and South America…",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Airlines issue advisories amid FAA ground stop",
+       "link": "https://economictimes.indiatimes.com/nri/latest-updates/airlines-issue-advisories-as-faa-ground-stop-disrupts-us-flights-air-canada-cancels-services/articleshow/135820052.cms",
+       "publishedAt": "2026-11-14T07:00+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. FAA ground stop LIVE updates: Flights resume as hours-long halt lifted; Trump admin. blames ‘overloaded' systems",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnN1WVpEek93bmZvMllzOGZrWGQxUVlIX2lxaHNqY0g1c0lHOTFDc1pwMUV1d0J2X2RuWFZjOWlxSnZ1R3ZGZDdZeGJSSWtDTHo2dm1VWVdTZXB3TzVzMy1TUUVnTW9UTG10NldQUlBHcTQ3VWRRSGFFOGxQVVZEaTFxM0dNcGVzRUp4b0hUZ28xdkRFVjd0dDlod1hLa3AyTG9kMWkzZHktZENQRkxFUFB2M0g0M1RxSU1tNzh1SGJ4X0tFQVV5eWUtUURzTXl1Tkl0RjdVZEZOVk1pTmfSAeQBQVVfeXFMTXRNQk5weURjMHQxNTBtYllXUlRueDlSMnY2elloZnE0VUU5a1ZYMWhMalFLT2FqV0tQX2huUVdPSXRrNkhqSVdoTmV0RFFOaktLamI1NHBOQUptcVE2NUVsdTkzYVhRRWk0YTJLMG9tWFUxaGpkLWUwWnR3Zk15YkhITUR1TFVXRUY1dVFNajdHeGVwTV9vQWJiX1dHTGd2YS1kMno2eVY5TGVfd2JNdFJCeXdZTmFnaktROTNnV3RwSTVVNGNTS25WYW9mOWMxWTVHV1VKcmNZWVh6M0l3X05HeG81?oc=5",
+       "publishedAt": "2026-11-14T09:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+     "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "The Guardian",
+      "The Hindu",
+      "The New York Times",
+      "WDSU"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T08:41+05:30",
+     "score": 7.96,
+     "summary": "No passengers or crew killed or critically hurt after tanker collides with river cruise ship on Mississippi, officials say In what the city’s mayor declared a “miracle on the Mississippi”, all passengers were accounted for – with none killed or critically hurt – after a tanker collided with a river cruise ship docked on the Mississippi River in New Orleans on Friday afternoon. Thirty-two people were taken to local…",
+     "image": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+       "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+       "publishedAt": "2026-11-14T08:41+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+       "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T05:10+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "All passengers, crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTdFano3SW9GYUFlNmpkWnp2LVo2YkhiQUlLNVExbzlyU2VGVUtnR25MQ0Jqbi11R2VjOTM4V0lwLVZyOVZaeHhYMkFDRmJJb0xjM0Z3SUVmbkRRODFqSzI1NGRUblM4WlgwUDVycVB3UHJsOVFUdGszTC1lLThrMkhvcGxjYkJBbVFiWllKSFFEWGdPa25RMGtPbEQ4SmRvUmR3QTI4TnY5YW01a3Zld2xpQ2hWX1ZuUnfSAcABQVVfeXFMTnpUZ0l4NXkyU2JvTFdoUHJqSnhZNHlrWmJPTzhqV2c4Z2x4TXB6TnZUV3RGZEdXLS1zXzBSU1FzSXZ1R2dzQWJxVFI1bDlOQ1BENHFPSEJMUlJva2RPVHZab1JKbkVYeFpKcENJdTN1VlBRREpOZmxtcXpZbjcxamxzQU5hV1ZRS18yLU5oRUp4THZzQXNvS2hZa1I2ODZSdVZKTjNkY3hfS3hGa0pnTWRITUtOcUNvTDhmQzNIU0Zx?oc=5",
+       "publishedAt": "2026-11-14T07:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump not expected to raise Alice Huang with Xi",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-not-expected-to-raise-alice-huang-case-with-chinas-xi-us-officials-say/articleshow/135820240.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "CNBC",
+      "Devdiscourse",
+      "South China Morning Post",
+      "The Economic Times",
+      "The Times of India",
+      "kens5.com"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T08:04+05:30",
+     "score": 6.83,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Trump not expected to raise Alice Huang with Xi",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-not-expected-to-raise-alice-huang-case-with-chinas-xi-us-officials-say/articleshow/135820240.cms",
+       "publishedAt": "2026-11-14T07:36+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Nvidia chaos: Trump unlikely to raise Alice Huang allegations with Xi Jinping during China meeting",
+       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQeGZPREJYWnc3N2pxdy1yTHRmdzdRREhHQ2xLU25UWHdnX0NKTzRXM2hfQllhNG04QTRKYlNRY0pGVEZtRDV4aXFyemxZUG1fTTIzV1NDd19xcVg4WEVxVzA1Ny1ONWdHRVU0eXRKN2FGakxDTWtETFk2cHV5U0R6SVE3TmlwYk5tZ1R3WmgzeG5URVVKVndScjlBS1VRcE9qSHNybFlHQXFlQlRteE9QSVM1SndUcUVQREZYQUxWbVU4Z1hDcXhEM0xaSzVVc2M0VDdfQWk1ZFFMUHFRNkt1R3NQRjZ3LUo0M0daRnZKbzFuTGZhNkdJRmZURVBEMUNu?oc=5",
+       "publishedAt": "2026-11-14T08:04+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T08:00+05:30",
    "generatedAt": "2026-11-14T08:18+05:30",
