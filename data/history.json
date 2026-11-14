@@ -1,6 +1,208 @@
 {
- "updated": "2026-11-14T12:25+05:30",
+ "updated": "2026-11-14T13:28+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T13:00+05:30",
+   "generatedAt": "2026-11-14T13:28+05:30",
+   "feeds": 16,
+   "headlines": 265,
+   "stories": [
+    {
+     "title": "Gurnoor Brar added to Test squad, Kuldeep released as India go heavier on pace",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-gurnoor-brar-added-to-test-squad-kuldeep-yadav-released-as-india-go-heavier-on-pace/articleshow/135823318.cms",
+     "source": "Times of India",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "Cricinfo",
+      "ICC",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-14T10:46+05:30",
+     "score": 8.93,
+     "summary": "The two-Test series begins in Wellington on November 19. Gurnoor will join the Indian squad in Wellington and, as a result, will miss the fifth and final ODI against New Zealand on Sunday.",
+     "image": "https://static.toiimg.com/photo/msid-135823582,imgsize-104489.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Gurnoor Brar added to Test squad, Kuldeep released as India go heavier on pace",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-gurnoor-brar-added-to-test-squad-kuldeep-yadav-released-as-india-go-heavier-on-pace/articleshow/135823318.cms",
+       "publishedAt": "2026-11-14T10:46+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Brar joins India’s Test squad for NZ series",
+       "link": "https://economictimes.indiatimes.com/news/sports/cricket/gurnoor-brar-joins-indias-test-squad-for-new-zealand-series-kuldeep-yadav-released-for-domestic-cricket/articleshow/135822571.cms",
+       "publishedAt": "2026-11-14T09:52+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Gurnoor Brar replaces Kuldeep Yadav in India's Test squad",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQVg2eHF2SDRVTVd6UWxaeFV3Y01XZHFlb1o1cVBobEVCeVdmSXVnZXpYNFlJMmVzQkRaakhSQ2hPaEhVUnJhNE5NMHlXSTdWTl95Rk82dE43a2JVQmNQN2hYY251UkM3d1R5MGVOaWxoYVo4UFJ0WkYtOEQxWjViUjNLMmNOc3dQcTVWSFk2ZXp5QlM0LWRNUEZ0RUJxV0lUSzRSbmdFekVLbG5wTmJaQWo5a01UeFQ50gHKAUFVX3lxTFBHbnJubGJfUjBmczBac2hjZV8wR1lIUFo1QkcwUlVwWndSVFdZNDI1Qmk0cE9NU0JFUEJoRjNtREQwNE43Q2VhNkxsblc2dXdWRnJyd3Y2WVVqQjc5WVpYclVUR0o5TUxuaXFJdW1oMm0yY1Ryc0Vka2VWczd1OXRxODloMjNVdmdZSlRPZkZwZnVmWE04OXpkY1JhOWVCSzh1Q1p1MUo1WWlEMWhzYW1qZjNnZ01uTFFrYnZPdWJQZVctc2FZYzBiSVE?oc=5",
+       "publishedAt": "2026-11-14T10:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Deeply sorry': Microsoft services return after mega outage; tech giant reveals what happened",
+     "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-365-outage-ends-after-over-24-hours-outlook-teams-restored-as-company-says-underlying-issue-addressed/articleshow/135825217.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC News",
+      "TechCrunch",
+      "The Hindu",
+      "The Japan Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T12:33+05:30",
+     "score": 8.35,
+     "summary": "Microsoft 365 outage update: The company says it has completed efforts to address the underlying issue and restored service for Outlook, Teams and Copilot after a disruption lasting over 24 hours. The outage, which began on November 12, hit users in at least 74 countries, including India. Microsoft traced it to an earlier network capacity upgrade, ruled out a cyberattack and promised a full post-incident report.",
+     "image": "https://static.toiimg.com/photo/msid-135825496,imgsize-46034.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Deeply sorry': Microsoft services return after mega outage; tech giant reveals what happened",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-365-outage-ends-after-over-24-hours-outlook-teams-restored-as-company-says-underlying-issue-addressed/articleshow/135825217.cms",
+       "publishedAt": "2026-11-14T12:22+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Microsoft says services fully restored after day-long global outage",
+       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T12:12+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: Tech giant restores services across all affected systems after global outage",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
+       "publishedAt": "2026-11-14T12:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sooryavanshi now youngest captain in men's T20",
+     "link": "https://economictimes.indiatimes.com/news/sports/cricket/15-year-old-vaibhav-sooryavanshi-becomes-youngest-captain-in-mens-t20-history/articleshow/135826312.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "BCCI",
+      "Cricinfo",
+      "Rajasthan Royals",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T13:06+05:30",
+     "score": 8.1,
+     "summary": "The Bihar Cricket Association (BCA) announced a 17-member squad last Friday, naming Sooryavanshi captain for the first two matches of the tournament. Suraj Kashyap was appointed vice-captain.",
+     "image": "https://static.toiimg.com/photo/msid-135824756,imgsize-26304.cms",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Sooryavanshi now youngest captain in men's T20",
+       "link": "https://economictimes.indiatimes.com/news/sports/cricket/15-year-old-vaibhav-sooryavanshi-becomes-youngest-captain-in-mens-t20-history/articleshow/135826312.cms",
+       "publishedAt": "2026-11-14T13:06+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Vaibhav Sooryavanshi breaks men's T20 world record at 15 years and 232 days",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-scripts-history-becomes-youngest-captain-in-mens-t20-cricket-history/articleshow/135824695.cms",
+       "publishedAt": "2026-11-14T11:47+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Sooryavanshi becomes youngest captain in men's T20 history",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN0UySHVNQ1Q0alBkM0dlenBwLWZrSmtGamF5TThLQjhkSGpKdHphQXRTcmw1YlpLZWswZk85Z3VxOTNOYWFKSnJULTJpczZGdEpTNVJYR3QyUUVrcWIzd29sTHlfUWg5QWc5YnJXS3pjenhPUTNLdFJKTHJrR3FCdm5HTWdzV0NyQmUzcXRwY2dVa2syQjR4SnRQYXoxUElnRWprbEU3WGViZzRUeEZaVUI2OHByUjNlOGs5Um5NVkhTZFpJZEUxQWdWT2NXU3M0aGVCeGYySi1SQ3VKMjJWQjhjMNIB9AFBVV95cUxOeE15NWlQRjFSYzg0OWNaNF9tQktVNEMyQ2lUWmU2UWpHak9KaTU0ZGxYcWswRkFDWlhtUWNFN19nWDhwNi1nOHNvSGpNUTVjR1ZsQ1JNM0NjYWF5OEpuMEg4ZTd5dGpCRlJjMzl3bGhibDlYeUpGbUJqelNKWUwtSHhKWUJuSFZMQVFiV2JUblNVZklQTkJPLVh2Yk5KWlRkQXV1S0lUeWt0TzlBZ09GUnlKbUdJSFdDU2FNLUl2aWd3eTU0UEdjWEFESC1nZ2p1eEwwYjFqa09ZVmljQ1p0REtnZ3NYeGFVZ05XVmYtOHJ3VElG?oc=5",
+       "publishedAt": "2026-11-14T11:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Jewel': Congress pays tributes to Jawaharlal Nehru",
+     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/jewel-modern-indias-architect-congress-pays-tributes-to-jawaharlal-nehru-on-birth-anniversary/articleshow/135826219.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "DD News",
+      "ET Government",
+      "Hindustan Times",
+      "Scroll.in",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T13:06+05:30",
+     "score": 8.03,
+     "summary": "Union Defence Minister Rajnath Singh, Keralam CM V.D. Satheesan and his cabinet also paid tributes to Pandit Nehru",
+     "image": "https://th-i.thgim.com/public/incoming/khhffn/article71701014.ece/alternates/LANDSCAPE_1200/20261113366L.jpg",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "'Jewel': Congress pays tributes to Jawaharlal Nehru",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/jewel-modern-indias-architect-congress-pays-tributes-to-jawaharlal-nehru-on-birth-anniversary/articleshow/135826219.cms",
+       "publishedAt": "2026-11-14T13:06+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "PM Modi pays tributes to first Prime Minister Nehru on birth anniversary",
+       "link": "https://www.thehindu.com/news/national/pm-modi-pays-tributes-to-first-prime-minister-nehru-on-birth-anniversary/article71701002.ece",
+       "publishedAt": "2026-11-14T12:58+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "PM Modi pays tribute to Jawaharlal Nehru on his 137th birth anniversary",
+       "link": "https://www.hindustantimes.com/india-news/pm-modi-pays-tribute-to-jawaharlal-nehru-on-his-137th-birth-anniversary-101794628458414.html",
+       "publishedAt": "2026-11-14T10:20+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Jewel of India': PM Modi, Rahul Gandhi, Rajnath Singh pay tributes to Nehru on birth anniversary",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaXpqY1JTME1PblVsWVZyRFpkVmlWRFBsWExfcHBIODdxTk1xcG1zZGhkUWl5Wms5RTVJa1I3dlFfWVdzaHUyWGNtWjV3T1BjTU5iXzhjSVJBS0JjRG9Hb3hUcEFmUXlvYjBQRERpTWhwNFZWTm9OQ25zaWZMeVdzZVM0VTl6c2Y0VFdrTGtCN0hWLWYwSWlMWk9Jd0pTV3N2bHl4aWNVMmdDWlhQSlpmY29ka2NQZ0NhZmZoSTc3UUhBUkFEWDJ1X2MtdmdyVzhmY1Q1QmFBdy0yamM4TTR6cERpQQ?oc=5",
+       "publishedAt": "2026-11-14T09:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+     "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "NDTV",
+      "The Guardian",
+      "The Hindu",
+      "The New York Times",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T12:15+05:30",
+     "score": 7.55,
+     "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+       "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+       "publishedAt": "2026-11-14T09:02+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. FAA ground stop updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnN1WVpEek93bmZvMllzOGZrWGQxUVlIX2lxaHNqY0g1c0lHOTFDc1pwMUV1d0J2X2RuWFZjOWlxSnZ1R3ZGZDdZeGJSSWtDTHo2dm1VWVdTZXB3TzVzMy1TUUVnTW9UTG10NldQUlBHcTQ3VWRRSGFFOGxQVVZEaTFxM0dNcGVzRUp4b0hUZ28xdkRFVjd0dDlod1hLa3AyTG9kMWkzZHktZENQRkxFUFB2M0g0M1RxSU1tNzh1SGJ4X0tFQVV5eWUtUURzTXl1Tkl0RjdVZEZOVk1pTmfSAeQBQVVfeXFMTXRNQk5weURjMHQxNTBtYllXUlRueDlSMnY2elloZnE0VUU5a1ZYMWhMalFLT2FqV0tQX2huUVdPSXRrNkhqSVdoTmV0RFFOaktLamI1NHBOQUptcVE2NUVsdTkzYVhRRWk0YTJLMG9tWFUxaGpkLWUwWnR3Zk15YkhITUR1TFVXRUY1dVFNajdHeGVwTV9vQWJiX1dHTGd2YS1kMno2eVY5TGVfd2JNdFJCeXdZTmFnaktROTNnV3RwSTVVNGNTS25WYW9mOWMxWTVHV1VKcmNZWVh6M0l3X05HeG81?oc=5",
+       "publishedAt": "2026-11-14T11:59+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T12:00+05:30",
    "generatedAt": "2026-11-14T12:25+05:30",
