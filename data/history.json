@@ -1,6 +1,180 @@
 {
- "updated": "2026-11-14T19:19+05:30",
+ "updated": "2026-11-14T20:10+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T20:00+05:30",
+   "generatedAt": "2026-11-14T20:10+05:30",
+   "feeds": 16,
+   "headlines": 283,
+   "stories": [
+    {
+     "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
+     "source": "Times of India",
+     "sources": [
+      "Business Standard",
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T17:13+05:30",
+     "score": 8.26,
+     "summary": "Tata Trusts chairman says the group’s owner “cannot die, cannot be bought and cannot retire”, and the Trusts will work with regulators to keep it that way.",
+     "image": "https://static.toiimg.com/photo/msid-135831698,imgsize-30372.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
+       "publishedAt": "2026-11-14T17:13+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Noel Tata worries market listing will change the 'Tata way'",
+       "link": "https://www.hindustantimes.com/india-news/noel-tata-worries-market-listing-will-change-the-tata-way-hindustan-times-leadership-summit-101794645066605.html",
+       "publishedAt": "2026-11-14T14:19+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Charity Owns Commerce, Listing Will Change The Tata Way: Noel Tata",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmRyNTZPbjYxdnQzTWpRNXU2elZqdlVpXzlpOEZtd3A5a2JTUE1lcGJOTWNkM1ZIT1ZkMVVsUkFTcUlNdFdreEZCYWplcVhoZDZFd1JDMlhtaWtZdEhpZmI0OGxzMVhWV1NBNnJQX0tSdDdfUlB4ekQ5NnJoQTJOWU5TX3M5ejNTbWNTR3VfRVhRaEFWQm1mdUdVRC1qUjNMUHE3X01IaUd3X2lIZVVEcEkxVm9JcmRwSWFsb0dSam4tTm9aNlHSAc4BQVVfeXFMUFhnQ2l1S0JlQVBTd05YcU9HU08tZ1YwUFJMM0VDbHF1dEY4blRhTjhsNElQVl9hWTg0V3o2ZkxUMTZabzNJaUhUYWtlM2xfenN3X2xTNGtOSUZKNlNRbDB2bTBKRDVfUVV3QXdfN09Hb1oxMzJ5SHBmOEZSMTlRVUJ0LTY4ZnI3azVwcThUaFRsWWZZeGg0OUZzN2ppbEZzQ09UTnZpYlp4eXVpc2FIVlFHVXdOcEdTMHZRdHlPYUtfN1pEaVNWRDlyQkI5WVE?oc=5",
+       "publishedAt": "2026-11-14T16:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'How were 2024 polls legitimate?' Rahul accuses EC of declaring 140m who voted illegal",
+     "link": "https://timesofindia.indiatimes.com/india/how-were-2024-elections-legitimate-rahul-accuses-ec-of-declaring-140-million-who-voted-illegal/articleshow/135832504.cms",
+     "source": "Times of India",
+     "sources": [
+      "India Today",
+      "Telegraph India",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India",
+      "United News of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T17:48+05:30",
+     "score": 8.11,
+     "summary": "Congress leader Rahul Gandhi challenged the legitimacy of the 2024 Lok Sabha elections during the Bharat Summit in Hyderabad. He stated that 140 million voters were incorrectly labeled as non-existent or non-voters, raising concerns about election integrity. Gandhi highlighted the controversial influence of big business on politics, particularly criticizing Prime Minister Narendra Modi's connections with businessman…",
+     "image": "https://static.toiimg.com/photo/msid-135832658,imgsize-1185295.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'How were 2024 polls legitimate?' Rahul accuses EC of declaring 140m who voted illegal",
+       "link": "https://timesofindia.indiatimes.com/india/how-were-2024-elections-legitimate-rahul-accuses-ec-of-declaring-140-million-who-voted-illegal/articleshow/135832504.cms",
+       "publishedAt": "2026-11-14T17:48+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'How were 2024 elections legitimate?' Rahul accuses EC of declaring 140 million who voted illegal",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZkNRT2pMVF82WnVYZ09hRGRJdEZpS0ZJWG9LSXR3VWdkeW5kam83dXU3bWNMVWYydU13UzlVN0lQSTNkb1hVMlk0ZjBhNDVSZVNNVlN5SEI5T3dFX2h6MTVrZVRjTE1vb3dLNmJWOWYyMjNaU1NBMjY1eVNITE1UY1J4Tjh0VkdZWHlBaEhfdk1mOG10SHVmWlRudHlqT3hGZEpvWXg5SGw0Zy1DSXkxOGJqVkE0NzNobGZPWFpSSzhIakJnMzJKdUtpUS1NVU1fc1hwcVhUYU9zYmduM3k2bzdrQzk4UUNoWWdsODRQRmc1RHNt?oc=5",
+       "publishedAt": "2026-11-14T17:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pakistani Minister to visit India for the first time in three years, as SCO meets",
+     "link": "https://www.thehindu.com/news/international/pakistan-climate-minister-sco-summit-india-visit-new-delhi/article71701699.ece",
+     "source": "The Hindu",
+     "sources": [
+      "NDTV",
+      "News On AIR",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T19:30+05:30",
+     "score": 7.64,
+     "summary": "The last such high-level visit to India was by then Foreign Minister Bilawal ‌Bhutto Zardari, who ​travelled to Goa in ⁠May 2023 for a meeting of SCO Foreign Ministers",
+     "image": "https://th-i.thgim.com/public/incoming/t1hq19/article71701766.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-14%20at%2018.17.09.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Pakistani Minister to visit India for the first time in three years, as SCO meets",
+       "link": "https://www.thehindu.com/news/international/pakistan-climate-minister-sco-summit-india-visit-new-delhi/article71701699.ece",
+       "publishedAt": "2026-11-14T19:30+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Pakistani Minister To Make Rare India Visit, First Visit Since Op Sindoor",
+       "link": "https://www.ndtv.com/world-news/pakistani-minister-to-make-rare-india-visit-first-visit-since-op-sindoor-12326822#publisher=newsstand",
+       "publishedAt": "2026-11-14T18:05+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+     "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Bloomberg",
+      "NDTV",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T17:18+05:30",
+     "score": 7.27,
+     "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+       "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+       "publishedAt": "2026-11-14T17:13+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T17:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft says services fully restored after global outage hits governments",
+     "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+     "source": "The Guardian",
+     "sources": [
+      "BBC",
+      "ET Government",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T17:24+05:30",
+     "score": 7.04,
+     "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT…",
+     "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Microsoft says services fully restored after global outage hits governments",
+       "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+       "publishedAt": "2026-11-14T17:24+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
+       "publishedAt": "2026-11-14T14:11+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T19:00+05:30",
    "generatedAt": "2026-11-14T19:19+05:30",
