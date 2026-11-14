@@ -1,6 +1,153 @@
 {
- "updated": "2026-11-14T05:08+05:30",
+ "updated": "2026-11-14T06:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T06:00+05:30",
+   "generatedAt": "2026-11-14T06:26+05:30",
+   "feeds": 16,
+   "headlines": 122,
+   "stories": [
+    {
+     "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
+     "link": "https://timesofindia.indiatimes.com/business/international-business/extraordinary-circumstances-us-grounds-all-departing-flights-over-safety-concerns/articleshow/135816386.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNN",
+      "NDTV",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T03:52+05:30",
+     "score": 8.07,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135816400,imgsize-35092.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/extraordinary-circumstances-us-grounds-all-departing-flights-over-safety-concerns/articleshow/135816386.cms",
+       "publishedAt": "2026-11-14T02:37+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
+       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTVptMjJvOVhpWXRZVm5UVzdXM3V0blNNU3o4NzNhSjZTUDFyNHQzaWEyT3BvdUJjZ24yWG9lSnVmazNTWHQxZ1VZYkF6ZVNPV1NkS2U4ZDJlLWl6VEtwaXo1VXpuY2hJeUlyaHdLT1JRZkpVNWQwX0hURWRNaDBqNTNJazQ0bkJHMDFkeklISlZUYmxVREJvTXdzSEpUREttV2R5TmZaMXIxZzN2ZGpfb0RHSHRNVFlfUko1Nzh2d0FHcHY2WnJtN1hhTXk3cXVUVTZaTmxPLXZsLXlBVzFKTEZ3X0tsUFlJMFFydi12R2hyMWZvNFdkdDJNckNYVzdSVzU4X1dn?oc=5",
+       "publishedAt": "2026-11-14T03:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "BBC",
+      "Forbes",
+      "Reuters",
+      "The Hindu",
+      "The Japan Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T02:13+05:30",
+     "score": 6.8,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
+       "publishedAt": "2026-11-14T02:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pak 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
+     "link": "https://timesofindia.indiatimes.com/india/pakistan-80-years-old-cant-appropriate-indus-valley-civilisation-culture-minister/articleshow/135816035.cms",
+     "source": "Times of India",
+     "sources": [
+      "News On AIR",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T01:54+05:30",
+     "score": 6.54,
+     "summary": "Hopes Islamabad Will Join SCO Civilisational Dialogue Forum In Delhi",
+     "image": "https://static.toiimg.com/photo/msid-135816047,imgsize-94056.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Pak 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
+       "link": "https://timesofindia.indiatimes.com/india/pakistan-80-years-old-cant-appropriate-indus-valley-civilisation-culture-minister/articleshow/135816035.cms",
+       "publishedAt": "2026-11-14T01:54+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Pakistan 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGRnMjVTZzRLMlFmZi1pM1VUc29iSDBjRXo2REc0MXo5bVY3aEhjeFppbGRxRFNVRE91bDdqM2lBNXplTFJxWW5oR1F6UFNaLU5SWjB6RkdFUE1fM2FzTHNZUklKcWhrSXlHMUgtNERpTWR4d0hmVXFKUk1iV1gxTEJlNERYVlNMcFJfWnZMWlN5OUhLbVBrZ05haDlnODlJOWFnSDAxTnRMUmlJLUVTTVN6VXBGTzNiM1d1ZWZlQ1VIZ1VabGMwNFY2bUUtLVJQZW9VbmF2enBKdWo4Y1pqdHYtOA?oc=5",
+       "publishedAt": "2026-11-14T01:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Best Black Friday Laptop Deals: Up To 56% Off MacBooks, Chromebooks And More",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE8yQ29OYUtibEVITUNTa1o5aDRDNGRLa3gxVHV4Y3RkbWVReS02ZDJsRGtueGFoUTVoeFVmdEd2c1VXSGt2MjJhSFM0cUpLVndSNURWWHd1c2F4QkdCRzlxemRKeWtlb0FjcnoyVTdJQ3U3NU5OdmJEZWM3dzJoOXhYbUtjZE9zWTNGeGxRVDd6U2dE?oc=5",
+     "source": "Forbes",
+     "sources": [
+      "Forbes",
+      "Gizmodo",
+      "Mashable",
+      "PCWorld",
+      "Windows Central"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T05:13+05:30",
+     "score": 5.99,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Forbes",
+       "title": "Best Black Friday Laptop Deals: Up To 56% Off MacBooks, Chromebooks And More",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE8yQ29OYUtibEVITUNTa1o5aDRDNGRLa3gxVHV4Y3RkbWVReS02ZDJsRGtueGFoUTVoeFVmdEd2c1VXSGt2MjJhSFM0cUpLVndSNURWWHd1c2F4QkdCRzlxemRKeWtlb0FjcnoyVTdJQ3U3NU5OdmJEZWM3dzJoOXhYbUtjZE9zWTNGeGxRVDd6U2dE?oc=5",
+       "publishedAt": "2026-11-14T05:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 14, #986",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5",
+     "source": "CNET",
+     "sources": [
+      "CNET",
+      "Mashable",
+      "PC Guide",
+      "TechRadar",
+      "The New York Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T02:30+05:30",
+     "score": 5.84,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "CNET",
+       "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 14, #986",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5",
+       "publishedAt": "2026-11-14T02:30+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T05:00+05:30",
    "generatedAt": "2026-11-14T05:08+05:30",
