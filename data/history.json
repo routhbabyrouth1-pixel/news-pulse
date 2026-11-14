@@ -1,6 +1,201 @@
 {
- "updated": "2026-11-14T07:28+05:30",
+ "updated": "2026-11-14T08:18+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T08:00+05:30",
+   "generatedAt": "2026-11-14T08:18+05:30",
+   "feeds": 16,
+   "headlines": 131,
+   "stories": [
+    {
+     "title": "Trump, Xi, Putin To Hold Historic Meeting In China Next Week",
+     "link": "https://www.ndtv.com/world-news/donald-trump-xi-jinping-vladimir-putin-to-meet-next-week-at-apec-summit-in-china-12324669#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "AP News",
+      "Bloomberg.com",
+      "CNN",
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Reuters",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-14T08:02+05:30",
+     "score": 10.46,
+     "summary": "Plans for the three-way summit with Donald Trump, Xi Jinping and Vladimir Putin were confirmed on Friday by the White House.",
+     "image": "https://c.ndtvimg.com/2026-11/ts9rkno8_trump-putin-xi_625x300_14_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Trump, Xi, Putin To Hold Historic Meeting In China Next Week",
+       "link": "https://www.ndtv.com/world-news/donald-trump-xi-jinping-vladimir-putin-to-meet-next-week-at-apec-summit-in-china-12324669#publisher=newsstand",
+       "publishedAt": "2026-11-14T08:02+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "In a first, Trump to hold historic trilateral meeting with Xi, Putin in China next week | All you need to know",
+       "link": "https://www.livemint.com/news/us-news/in-a-first-trump-to-hold-historic-trilateral-meeting-with-xi-putin-in-china-next-week-all-you-need-to-know-11794620781785.html",
+       "publishedAt": "2026-11-14T07:22+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Trump, Xi and Putin set for unprecedented trilateral meeting in China",
+       "link": "https://timesofindia.indiatimes.com/world/us/trump-xi-and-putin-set-for-unprecedented-trilateral-meeting-in-china/articleshow/135819647.cms",
+       "publishedAt": "2026-11-14T05:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Trump, Xi and Putin set for unprecedented trilateral meeting in China",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0trbmtZaHhlcEx3LUlRSjFkeXJETGp2VUYtZnZtdC02TDdoZFA2NjFLdFF6NTBmTmcxU1k2M0F0WEZYZ0pLVGR0dms2aTgtY2RTZERXdV8yb1BQSFV4ZW5YTlFOWWZiWjVwRW5MazlVeW56aTY1LWFvay1XU2xKTzBrWFBPeUpLRlRORDRESzR4b3ZxcTJZd2FFVnV6RGI4ZkEzckk3dkI2MnVpZDI3ekZkWkpfTVczOUd5N0I5Z2tXOGFrQXlPY1MzcGtUbENXR21maldB0gHbAUFVX3lxTE12TG1DYk5SdUFWa3JESU9RaS00YmNtSUtIU2tOVTdJcEUwVmczVnRXSTBsZHpIYUc3NDZlcUcxZDlVQU5lOWxoOU84UUw2Zm01bzVUbXRKdklpbDc4OGI0OVdibVk1UWgtWGM1cHNJaW15dVNpbXZCV3JPRTZMRjh4cDlkYUozWENPc0w3WUs0RENkMUFLU3VMMnNTYlBXMjJSMXFndXFmWTVYZUsxZUsxS2N5Yk5ta3A3bm1rUENmekJTZnROREp1Nkx1dzZvNWVQdmJnUWVra0oxVQ?oc=5",
+       "publishedAt": "2026-11-14T05:56+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Trump to hold first-ever joint meeting with Xi and Putin on the sidelines of APEC in China | World News",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZVlaeVNxWlVxR3pEeERuR3Bjbzl4WXk2LWVTVUhvVE5qWk9aZTMwTU04bHZUS2NPVUFSWW5DN05iWnpzem02THR2UWs2WVVIaGxkYnZyQkxqQkxPNklYNHF6b04zal9zRnZlelFOX2hXU01GTkJXQ2FaYnVKdWFoRzRyRXE2ck90SVBNa0c4by1SVHVqYWxsVDVRcWgzS29JM2RhblotcDhySm8wdE9wemtxYlY2U3lCQUFidkpFeVRHaUIwLVlsUHpsN0dfT0Ftdm1adXZja1M4SWJqcVJPR1hkVmtuLTU40gHuAUFVX3lxTE5yQzQzdHU3bGxJV0t2MDFDT0xNeGRhb3VKTDFqeFU0RXZ2VXhyMmJqYlk0bVY0SXo2VENPLXV1cnRxcmZpQlZ0ak9LVmJFSTg2cUtYMDNibHVnT0VKRWtkUUN6VERiUFRRQ1RXMEZ2b2lUeTRjMkd1S2pndkdIMVBNYURFWlZVb1llOE13WVhYWnNLb2xUV2ZjX091aHlzem5WOVNrcnEzSHBZMTRGLW4wc3otRHdUSy01aGdyeHpJTWJSOWRNRHU1cU9JUlVVZG94SDBqcmtyTmVoZHRpX0ZubVpNbHA5aFhFWHJncGc?oc=5",
+       "publishedAt": "2026-11-14T05:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+     "source": "The Guardian",
+     "sources": [
+      "ESPN",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Times of India",
+      "Yahoo"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T07:59+05:30",
+     "score": 9.45,
+     "summary": "Sean Duffy says ‘it’s going to take us some time to unwind what’s happened’ but also points finger at Congress, claiming lack of funding for systems upgrades Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted…",
+     "image": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=b3473cf019d629ffa5a98aa182c75153",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
+       "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+       "publishedAt": "2026-11-14T07:50+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Airlines issue advisories amid FAA ground stop",
+       "link": "https://economictimes.indiatimes.com/nri/latest-updates/airlines-issue-advisories-as-faa-ground-stop-disrupts-us-flights-air-canada-cancels-services/articleshow/135820052.cms",
+       "publishedAt": "2026-11-14T07:00+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "US flight chaos: Thousands stranded as FAA halts take-offs nationwide; what we know so far",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-flight-chaos-nearly-500-journeys-disrupted-as-faa-halts-take-offs-nationwide-what-we-know-so-far/articleshow/135819594.cms",
+       "publishedAt": "2026-11-14T05:58+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. FAA ground stop LIVE updates: Nationwide ​halt ⁠to ‌flight ‌take-offs lifted, FAA says",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnN1WVpEek93bmZvMllzOGZrWGQxUVlIX2lxaHNqY0g1c0lHOTFDc1pwMUV1d0J2X2RuWFZjOWlxSnZ1R3ZGZDdZeGJSSWtDTHo2dm1VWVdTZXB3TzVzMy1TUUVnTW9UTG10NldQUlBHcTQ3VWRRSGFFOGxQVVZEaTFxM0dNcGVzRUp4b0hUZ28xdkRFVjd0dDlod1hLa3AyTG9kMWkzZHktZENQRkxFUFB2M0g0M1RxSU1tNzh1SGJ4X0tFQVV5eWUtUURzTXl1Tkl0RjdVZEZOVk1pTmfSAeQBQVVfeXFMTXRNQk5weURjMHQxNTBtYllXUlRueDlSMnY2elloZnE0VUU5a1ZYMWhMalFLT2FqV0tQX2huUVdPSXRrNkhqSVdoTmV0RFFOaktLamI1NHBOQUptcVE2NUVsdTkzYVhRRWk0YTJLMG9tWFUxaGpkLWUwWnR3Zk15YkhITUR1TFVXRUY1dVFNajdHeGVwTV9vQWJiX1dHTGd2YS1kMno2eVY5TGVfd2JNdFJCeXdZTmFnaktROTNnV3RwSTVVNGNTS25WYW9mOWMxWTVHV1VKcmNZWVh6M0l3X05HeG81?oc=5",
+       "publishedAt": "2026-11-14T07:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Khambata 'strategised' to oust Srinivasan, say Tata Trusts VCs",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/khambata-strategised-to-oust-srinivasan-say-tata-trusts-vcs/articleshow/135816792.cms",
+     "source": "Times of India",
+     "sources": [
+      "Business Standard",
+      "Fortune India",
+      "Livemint",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T03:40+05:30",
+     "score": 6.73,
+     "summary": "In a recent statement, Venu Srinivasan and Vijay Singh, two prominent trustees of Tata Trusts, reproached former trustee Darius Khambata for his earlier actions, which they argued compromised the Trusts' governance integrity. They countered Khambata's claims about the relevance of a Tata Sons listing, deeming them misguided and highlighting contradictions in his stance. The dispute has fostered deep rifts among…",
+     "image": "https://static.toiimg.com/photo/msid-135816832,imgsize-2182.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Khambata 'strategised' to oust Srinivasan, say Tata Trusts VCs",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/khambata-strategised-to-oust-srinivasan-say-tata-trusts-vcs/articleshow/135816792.cms",
+       "publishedAt": "2026-11-14T03:40+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Khambata 'strategised' to oust Srinivasan, say Tata Trusts VCs",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNblFwVksySkw1el9TY2ZOTUNpQXR1XzdqRzdNTkc2bzhScVFoYk04bktuTFYwUWdnRTEzeTdfcmU3V1hIeUxDeW11R3p1Z3hNNld4YnpWdnE5QXEwYlVKZkFfbE5XQ21IS0c1XzR0ZTJnQk55Q1JSdG4yY242R29QMjRsRThOekR0NjNHRUJRZm54N282SVcxSWJMOXBFZVZoM0lUaXRXYjdJa3V5djBsYkFBNEFtTGtLVThjZUZjazR1cHhFMDhtVVFvbjZ6cVk0TGtxLWJVU0NlTzdtWnfSAeMBQVVfeXFMUHVyeWRlbGhzVVAwSDJFaTcxSlMwUEF2a3MtZVBEanE1UmgyVi1oV3NfNk9pLV94eXg3eFpWMEpiN1llcXNJT1lrN0tRY2xRTTNKUDQ5TXNGWl94RjVVZDZLZmhYbkFQUkk1SndmRHZZUF9veEdSbE14MVBFSFhuRUNCR3poQXo0V1BVYTRWWGlOM0NZaW9nREpQNS1uWGt6djdmemNhMTk4aUExcmszMEJLRm5YVUpjQWtVUXA0Z0RjeDNZUHlGLWQ2SkVHQnhROW5fa0puSkpEMDZEM3BEbHlaYW8?oc=5",
+       "publishedAt": "2026-11-14T03:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+     "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "Countercurrents",
+      "The Indian Express",
+      "The McGill International Review",
+      "UA.NEWS"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T04:41+05:30",
+     "score": 6.5,
+     "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca7/live/511b1870-df1a-11f1-8440-dbadd0414f54.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+       "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T04:41+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "CJP: India’s protesters face government crackdown after summer victory",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pVk1LYzgzWGhoeW5Pa28xTi0xbHlfS2tJbmhzVVBXMHpZWldIYUdhelplUVQzZXY2SjRjTTZLNndFOUJreEk1STJlQmticG1uUFNWY2pFb283MjQ?oc=5",
+       "publishedAt": "2026-11-14T04:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Adani slashes Maharashtra power project cost by 99%, its forest dues plummet; Centre orders probe",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3k5SXVSejRIcHE5QU9LbThiTXI2elVPeTdnVHZSZ1lYTXQwcW01ejhNbmt1NDk0SzhjRGZ2U1hTVzVOeW1jNWk5MDkzaXYyc25TaFpEX2Z0OWVka01rVm45b0xVRzJSeThoamJ3ejlUbXlMX0tqclRCSXVVVXlYQ0podXZOMHRGN0Jwd1RCZm9yYmdrV0pzcGljNTluc19tWHpHRkZxd3kyVWZJNDdxa0l6MERuTGNpbHBiblc3bw?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "NDTV",
+      "National Herald",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T06:21+05:30",
+     "score": 6.43,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Adani slashes Maharashtra power project cost by 99%, its forest dues plummet; Centre orders probe",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3k5SXVSejRIcHE5QU9LbThiTXI2elVPeTdnVHZSZ1lYTXQwcW01ejhNbmt1NDk0SzhjRGZ2U1hTVzVOeW1jNWk5MDkzaXYyc25TaFpEX2Z0OWVka01rVm45b0xVRzJSeThoamJ3ejlUbXlMX0tqclRCSXVVVXlYQ0podXZOMHRGN0Jwd1RCZm9yYmdrV0pzcGljNTluc19tWHpHRkZxd3kyVWZJNDdxa0l6MERuTGNpbHBiblc3bw?oc=5",
+       "publishedAt": "2026-11-14T06:21+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T07:00+05:30",
    "generatedAt": "2026-11-14T07:28+05:30",
