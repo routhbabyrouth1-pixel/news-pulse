@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-14T18:15+05:30",
+ "updated": "2026-11-14T19:19+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T19:00+05:30",
+   "generatedAt": "2026-11-14T19:19+05:30",
+   "feeds": 16,
+   "headlines": 291,
+   "stories": [
+    {
+     "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Rediff",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T17:13+05:30",
+     "score": 8.4,
+     "summary": "Tata Trusts chairman says the group’s owner “cannot die, cannot be bought and cannot retire”, and the Trusts will work with regulators to keep it that way.",
+     "image": "https://static.toiimg.com/photo/msid-135831698,imgsize-30372.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
+       "publishedAt": "2026-11-14T17:13+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Noel Tata worries market listing will change the 'Tata way'",
+       "link": "https://www.hindustantimes.com/india-news/noel-tata-worries-market-listing-will-change-the-tata-way-hindustan-times-leadership-summit-101794645066605.html",
+       "publishedAt": "2026-11-14T14:19+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Charity Owns Commerce, Listing Will Change The Tata Way: Noel Tata",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmRyNTZPbjYxdnQzTWpRNXU2elZqdlVpXzlpOEZtd3A5a2JTUE1lcGJOTWNkM1ZIT1ZkMVVsUkFTcUlNdFdreEZCYWplcVhoZDZFd1JDMlhtaWtZdEhpZmI0OGxzMVhWV1NBNnJQX0tSdDdfUlB4ekQ5NnJoQTJOWU5TX3M5ejNTbWNTR3VfRVhRaEFWQm1mdUdVRC1qUjNMUHE3X01IaUd3X2lIZVVEcEkxVm9JcmRwSWFsb0dSam4tTm9aNlHSAc4BQVVfeXFMUFhnQ2l1S0JlQVBTd05YcU9HU08tZ1YwUFJMM0VDbHF1dEY4blRhTjhsNElQVl9hWTg0V3o2ZkxUMTZabzNJaUhUYWtlM2xfenN3X2xTNGtOSUZKNlNRbDB2bTBKRDVfUVV3QXdfN09Hb1oxMzJ5SHBmOEZSMTlRVUJ0LTY4ZnI3azVwcThUaFRsWWZZeGg0OUZzN2ppbEZzQ09UTnZpYlp4eXVpc2FIVlFHVXdOcEdTMHZRdHlPYUtfN1pEaVNWRDlyQkI5WVE?oc=5",
+       "publishedAt": "2026-11-14T16:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft says services fully restored after global outage hits governments",
+     "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+     "source": "The Guardian",
+     "sources": [
+      "BBC",
+      "ET Government",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T17:24+05:30",
+     "score": 7.18,
+     "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT…",
+     "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Microsoft says services fully restored after global outage hits governments",
+       "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+       "publishedAt": "2026-11-14T17:24+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTQ?oc=5",
+       "publishedAt": "2026-11-14T14:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+     "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T17:18+05:30",
+     "score": 7.16,
+     "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+       "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+       "publishedAt": "2026-11-14T17:13+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T17:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Voyager 1 nears one light-day from Earth",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/voyager-1-is-about-to-travel-one-light-day-from-earth-in-historic-milestone-its-26-billion-km-journey-equals-650000-trips-around-earth/articleshow/135834021.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "DJ Mag",
+      "Mashable",
+      "NASA (.gov)",
+      "Telegraph India",
+      "The Economic Times",
+      "TradingView"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T18:54+05:30",
+     "score": 6.98,
+     "summary": "Imagine sending a message to a spacecraft and having to wait an entire day just for it to arrive. Then imagine waiting another day for its reply. That is the extraordinary distance NASA's Voyager 1 is approaching, nearly half a century after it left Earth. The spacecraft is expected to cross the 16-billion-mile (26-billion-km) mark on Wednesday at 5:16 a.m. ET (10:16 GMT), according to NASA.Launched in September…",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Voyager 1 nears one light-day from Earth",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/voyager-1-is-about-to-travel-one-light-day-from-earth-in-historic-milestone-its-26-billion-km-journey-equals-650000-trips-around-earth/articleshow/135834021.cms",
+       "publishedAt": "2026-11-14T18:54+05:30"
+      },
+      {
+       "source": "Telegraph India",
+       "title": "Nasa’s Voyager 1 nears milestone 49 years after launch: One light-day from Earth",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUdCZlMteE9NbTRieWlOUGc4VG5uWTN6aXkzQlJvTUVMM25aSlF2ZmJ6SGtfTGZDUUFlOGNaQmZ2alI0S2F2WS1UeVhqYk5RQW1lNTFpQy16TXJxSF9STlpyU1VkR2psaDNxQXhQMlhXeVhreEF0WUhTRUVjYVItZVRqa29jemxYNGVIVHplZHlPLTdqdGVPSDg5RDhwTkw0eUZuNzRFWGE0ODhOY21MTWE1Y1ZWQzdjZ3VOYXN1WWlqX21SR3fSAcsBQVVfeXFMUENpU3VNR0ZJd3RvWVVkcEdNYVlKUloyT3lVX2JySjhhM3JJX2ZqeFgydzBpSHgzTzJjN3VlZm5zTFZQdEpuZnNFUEJqSWtHazJwNUp0ZVBwQkxRelVLWnA2MlBhbUJHcHFOZTZDY29nSWR4dWZhWGdoSldZV09WZFRZaEtyWWpMTlJMYWF0Xzk1bVJ0eHFINGdJLWZRRENNeTlYVlptRTViemRvS1NOTU16TEJWWklxRWhtN0RzNkRwT2NZNDBUOGNCR1k?oc=5",
+       "publishedAt": "2026-11-14T17:01+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
+     "link": "https://www.thehindu.com/news/national/puri-resigns-from-uttar-pradesh-rajya-sabha-seat-after-being-re-elected-from-mp/article71701657.ece",
+     "source": "The Hindu",
+     "sources": [
+      "ETV Bharat",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T17:39+05:30",
+     "score": 6.97,
+     "summary": "Hardeep Singh Puri was elected unopposed for the Madhya Pradesh seat on November 5, with his tenure ending on April 2, 2030",
+     "image": "https://th-i.thgim.com/public/incoming/lajsn/article71701672.ece/alternates/LANDSCAPE_1200/20261031544L.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
+       "link": "https://www.thehindu.com/news/national/puri-resigns-from-uttar-pradesh-rajya-sabha-seat-after-being-re-elected-from-mp/article71701657.ece",
+       "publishedAt": "2026-11-14T17:39+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Hardeep Singh Puri resigns from UP Rajya Sabha seat",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/hardeep-singh-puri-resigns-from-up-rajya-sabha-seat-after-re-election-from-madhya-pradesh/articleshow/135829500.cms",
+       "publishedAt": "2026-11-14T15:36+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "BJP's Hardeep Singh Puri resigns as Rajya Sabha member from Uttar Pradesh",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjJnSWJFVHphNzNUNWhIRGNpbm0wU3liWmVXdnRPVkk4YkhFSzF1eF8tWEFaWmRXek9uUzQ1cDhIUTRiSUN2akN2RDBsLTh1S29YMTVTWEliLVdKYkNmZEh3UjkxbVI1OEtELXhLWFBwa0pGcDdpamZSVmJCRG9aS2xSd05URTh6S2RTMFlUVjFyQ194TWNUTC1lY0hwVHpCS2JnZkF6c2oxSlltRjJPMHJSQU9nNUd2WmFPMDNUbGZIS3FwTENKQkdEZ2RQVEVyNEZxS2lvaw?oc=5",
+       "publishedAt": "2026-11-14T13:23+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T18:00+05:30",
    "generatedAt": "2026-11-14T18:15+05:30",
