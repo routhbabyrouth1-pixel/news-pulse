@@ -1,6 +1,174 @@
 {
- "updated": "2026-11-14T20:10+05:30",
+ "updated": "2026-11-14T21:06+05:30",
  "hours": [
+  {
+   "hour": "2026-11-14T21:00+05:30",
+   "generatedAt": "2026-11-14T21:06+05:30",
+   "feeds": 16,
+   "headlines": 287,
+   "stories": [
+    {
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CGTN",
+      "Financial Times",
+      "NDTV",
+      "Reuters"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-14T20:45+05:30",
+     "score": 8.44,
+     "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-14T20:45+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "US Floats Donbas-For-NATO Deal, Zelensky Says Ukraine Must Decide",
+       "link": "https://www.ndtv.com/world-news/nato-membership-at-the-cost-of-ceding-donbas-volodymyr-zelensky-reveals-us-proposal-vladimir-putin-12326436#publisher=newsstand",
+       "publishedAt": "2026-11-14T17:16+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+       "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+       "publishedAt": "2026-11-14T17:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'How were 2024 polls legitimate?' Rahul accuses EC of declaring 140m who voted illegal",
+     "link": "https://timesofindia.indiatimes.com/india/how-were-2024-elections-legitimate-rahul-accuses-ec-of-declaring-140-million-who-voted-illegal/articleshow/135832504.cms",
+     "source": "Times of India",
+     "sources": [
+      "India Today",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T17:48+05:30",
+     "score": 7.95,
+     "summary": "Congress leader Rahul Gandhi challenged the legitimacy of the 2024 Lok Sabha elections during the Bharat Summit in Hyderabad. He stated that 140 million voters were incorrectly labeled as non-existent or non-voters, raising concerns about election integrity. Gandhi highlighted the controversial influence of big business on politics, particularly criticizing Prime Minister Narendra Modi's connections with businessman…",
+     "image": "https://static.toiimg.com/photo/msid-135832658,imgsize-1185295.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'How were 2024 polls legitimate?' Rahul accuses EC of declaring 140m who voted illegal",
+       "link": "https://timesofindia.indiatimes.com/india/how-were-2024-elections-legitimate-rahul-accuses-ec-of-declaring-140-million-who-voted-illegal/articleshow/135832504.cms",
+       "publishedAt": "2026-11-14T17:48+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'How were 2024 elections legitimate?' Rahul accuses EC of declaring 140 million who voted illegal",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZkNRT2pMVF82WnVYZ09hRGRJdEZpS0ZJWG9LSXR3VWdkeW5kam83dXU3bWNMVWYydU13UzlVN0lQSTNkb1hVMlk0ZjBhNDVSZVNNVlN5SEI5T3dFX2h6MTVrZVRjTE1vb3dLNmJWOWYyMjNaU1NBMjY1eVNITE1UY1J4Tjh0VkdZWHlBaEhfdk1mOG10SHVmWlRudHlqT3hGZEpvWXg5SGw0Zy1DSXkxOGJqVkE0NzNobGZPWFpSSzhIakJnMzJKdUtpUS1NVU1fc1hwcVhUYU9zYmduM3k2bzdrQzk4UUNoWWdsODRQRmc1RHNt?oc=5",
+       "publishedAt": "2026-11-14T17:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pakistani Minister To Make Rare India Visit, First Visit Since Op Sindoor",
+     "link": "https://www.ndtv.com/world-news/pakistani-minister-to-make-rare-india-visit-first-visit-since-op-sindoor-12326822#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "News On AIR",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T19:30+05:30",
+     "score": 7.48,
+     "summary": "It will be the first trip to India by a Pakistani federal minister since former foreign minister Bilawal Bhutto Zardari attended an SCO meeting in Goa in May 2023.",
+     "image": "https://c.ndtvimg.com/2026-11/e2l6ir98_musadik-malik-_625x300_14_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Pakistani Minister To Make Rare India Visit, First Visit Since Op Sindoor",
+       "link": "https://www.ndtv.com/world-news/pakistani-minister-to-make-rare-india-visit-first-visit-since-op-sindoor-12326822#publisher=newsstand",
+       "publishedAt": "2026-11-14T18:05+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Pakistani Minister to visit India for the first time in three years, as SCO meets",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjJGU1hzUDJZZVVwM3JULUc2U1NCNVZCSVBZU0xtYVQwRm5TZGRxVGt1cTl3Z3BGelRieHlxWDB1eEEyN3RETVk5VGxVNWtBRHFnRTNGRW9qVGlxb3BYMFJlLThWMTE3SU5uazFBaGFKdzJLS1Bnek81S3RpWC1tT2dGd1JBRlJUZ3BrSmppdGdTMVYtTWVSY050UkU1MmxJb3gyZGxmY191emhpeXdUTDNMNTFaZzc5MF9vbl9uY9IBxgFBVV95cUxPQXQ3T0ZlS0dHRktiZVFjN3JNSk01Ui1ZWlpvZ1o0UWVGRFdqMnlVV09GUmJkcndQZk9fODE2YVdNelhqREU0YVdSZnBhRFAxX2oya2pieUJFLU1CWVpjeTdlOE11cWFoT1g3Q1I5RkZHYzBlMjNrTHpVemxkdHNYN0l6Q3lVMGJjUzlTUkdTYUxaRXBOWFlIbHViTmx2N1VZeWpJbWlCTWRwaG9VWEY0ZGdXbjFJb0p4LWQwZThXdEhpazVUWkE?oc=5",
+       "publishedAt": "2026-11-14T19:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ulva pulls off heist as India lift Under-19s Asia Cup after instant classic against Pakistan",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjdsTFVoWE9MRGtZSm8zMVNlc3o2VGhKenE0VGZmbFZJWlh1R01HNzM5aTFBX2Z4WThPaS00SUNNWDR3eDZVUlE5ejVzVEZXZm9sSml1V1RaSUhWZmg0anItWURZcjhFeGNGZF9iZTZoT1pXVE54ZmlUb1g4OFEzM1VCR191bVk3eWNFZTdMdFZ4cDBhaUZ0ZTMxVFV3T3huTlU4UVU5TjFoRGstVFdCbldteklfSXY3dTJIOXkzX2MzamZfQnZhZmUyRQ?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "AP7AM",
+      "Cricbuzz",
+      "Cricinfo",
+      "Rediff",
+      "Sportstar"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-14T20:41+05:30",
+     "score": 7.43,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "Ulva pulls off heist as India lift Under-19s Asia Cup after instant classic against Pakistan",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjdsTFVoWE9MRGtZSm8zMVNlc3o2VGhKenE0VGZmbFZJWlh1R01HNzM5aTFBX2Z4WThPaS00SUNNWDR3eDZVUlE5ejVzVEZXZm9sSml1V1RaSUhWZmg0anItWURZcjhFeGNGZF9iZTZoT1pXVE54ZmlUb1g4OFEzM1VCR191bVk3eWNFZTdMdFZ4cDBhaUZ0ZTMxVFV3T3huTlU4UVU5TjFoRGstVFdCbldteklfSXY3dTJIOXkzX2MzamZfQnZhZmUyRQ?oc=5",
+       "publishedAt": "2026-11-14T20:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-14T17:13+05:30",
+     "score": 7.1,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135831698,imgsize-30372.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
+       "publishedAt": "2026-11-14T17:13+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Charity Owns Commerce, Listing Will Change The Tata Way: Noel Tata",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmRyNTZPbjYxdnQzTWpRNXU2elZqdlVpXzlpOEZtd3A5a2JTUE1lcGJOTWNkM1ZIT1ZkMVVsUkFTcUlNdFdreEZCYWplcVhoZDZFd1JDMlhtaWtZdEhpZmI0OGxzMVhWV1NBNnJQX0tSdDdfUlB4ekQ5NnJoQTJOWU5TX3M5ejNTbWNTR3VfRVhRaEFWQm1mdUdVRC1qUjNMUHE3X01IaUd3X2lIZVVEcEkxVm9JcmRwSWFsb0dSam4tTm9aNlHSAc4BQVVfeXFMUFhnQ2l1S0JlQVBTd05YcU9HU08tZ1YwUFJMM0VDbHF1dEY4blRhTjhsNElQVl9hWTg0V3o2ZkxUMTZabzNJaUhUYWtlM2xfenN3X2xTNGtOSUZKNlNRbDB2bTBKRDVfUVV3QXdfN09Hb1oxMzJ5SHBmOEZSMTlRVUJ0LTY4ZnI3azVwcThUaFRsWWZZeGg0OUZzN2ppbEZzQ09UTnZpYlp4eXVpc2FIVlFHVXdOcEdTMHZRdHlPYUtfN1pEaVNWRDlyQkI5WVE?oc=5",
+       "publishedAt": "2026-11-14T16:24+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-14T20:00+05:30",
    "generatedAt": "2026-11-14T20:10+05:30",
