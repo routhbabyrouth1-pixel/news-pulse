@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-15T10:23+05:30",
+ "updated": "2026-11-15T11:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-15T11:00+05:30",
+   "generatedAt": "2026-11-15T11:21+05:30",
+   "feeds": 16,
+   "headlines": 198,
+   "stories": [
+    {
+     "title": "NYT Strands hints, answers for November 14, 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSW5mdkFXVGpkNW1tOXlYV0MyS0pFcUJ5UVYzMi1zV0p4bjUtTWVVcWJKUVdQamwwMXc2aU9rQ1gzR0stUE85TGowNU91OU9CQ09MMUl4dFRxWFFGQ1p0TE5neUZBTjZ5bXc0ajA1SnRKTGZyVElv?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "CNET",
+      "Deccan Herald",
+      "GMA Network",
+      "Hindustan Times",
+      "India Today",
+      "Mashable",
+      "News18",
+      "Odisha TV",
+      "TechRadar",
+      "The Economic Times",
+      "The Sun",
+      "The Times of India"
+     ],
+     "sourceCount": 14,
+     "publishedAt": "2026-11-15T09:05+05:30",
+     "score": 15.0,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "NYT Strands hints, answers for November 14, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSW5mdkFXVGpkNW1tOXlYV0MyS0pFcUJ5UVYzMi1zV0p4bjUtTWVVcWJKUVdQamwwMXc2aU9rQ1gzR0stUE85TGowNU91OU9CQ09MMUl4dFRxWFFGQ1p0TE5neUZBTjZ5bXc0ajA1SnRKTGZyVElv?oc=5",
+       "publishedAt": "2026-11-15T09:05+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Gemini Horoscope Today: November 15, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEcDFuSnNDWlNhMnRDY2k1NHdjRnlhY0tzUDU1R1A3S2Z3ZmwyMjBLSUFta0pRZ2oxcGdwbmRvUXZZcXJBQWRhYXFGSWhWYXByeVcwWmRTTFRVems4OFV5RjgxcnVtZ250Tkw4c3o1MHd0bU5Oanhj?oc=5",
+       "publishedAt": "2026-11-15T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sen-sational turnaround: Lakshya rallies from a game down to clinch Japan Open title",
+     "link": "https://timesofindia.indiatimes.com/sports/badminton/sen-sational-turnaround-lakshya-fights-back-from-one-game-down-to-lift-kumamoto-masters-japan-open-title/articleshow/135847415.cms",
+     "source": "Times of India",
+     "sources": [
+      "ESPN India",
+      "Inshorts",
+      "NDTV Sports",
+      "Sportstar",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T10:10+05:30",
+     "score": 8.3,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-47529300.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Sen-sational turnaround: Lakshya rallies from a game down to clinch Japan Open title",
+       "link": "https://timesofindia.indiatimes.com/sports/badminton/sen-sational-turnaround-lakshya-fights-back-from-one-game-down-to-lift-kumamoto-masters-japan-open-title/articleshow/135847415.cms",
+       "publishedAt": "2026-11-15T10:10+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Sen-sational turnaround: Lakshya fights back from one game down to lift Kumamoto Masters Japan Open title",
+       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQLThib2JKSjV6NFl2WUp3UzNkV1o3UnBQWEFoUkJxYm9hcjhPdy1zel9yUjBLOThmQXdzODhXM29QR2QwcDVyOXFGeEtZSEtnY2kyQUI5RVdMSzFKTllpRDBrOHNwV2NpVjRsbThIQmxOQlJkX1F0a2lXSXdOcm80SlZuV2N2Vy1VWWtlazRZbmZBRVN6LWFpNEVWRld0Q3pZakFnaktpT1dGRmpoeWVTYjB2MDU3amNGcWV5eGN5alVNZm9kMEZ5VUd5T2d5NTEtbW9CWEduT2NuNDBZRDFwUWhhRDlVUW9mSDltVGZ5UTd1VHNGZlVHd1pxdzNiSVhFU05lWDZyZnlwSlRPNEpIWQ?oc=5",
+       "publishedAt": "2026-11-15T10:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "2026 Earthshot Prize: Prince William, Kate Middleton to visit India, Taj Mahal, Kaziranga, Mumbai, Delhi on itinerary",
+     "link": "https://www.livemint.com/news/india/2026-earthshot-prize-prince-william-kate-middleton-to-visit-india-taj-mahal-kaziranga-mumbai-delhi-on-itinerary-11794714082243.html",
+     "source": "Mint",
+     "sources": [
+      "Mint",
+      "Rediff",
+      "Reuters",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "Vajiram & Ravi"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-15T09:20+05:30",
+     "score": 7.96,
+     "summary": "The Prince and Princess of Wales will travel to Mumbai for the 2026 Earthshot Prize ceremony, marking their first joint overseas engagement since Kate announced her cancer diagnosis in 2024.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Britain-Royal-Ascot_1794714424321_lUur_1794714424461_NydC_7fec7126-25ae-4281-8e71-0b003ea743f9_AwwB.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "2026 Earthshot Prize: Prince William, Kate Middleton to visit India, Taj Mahal, Kaziranga, Mumbai, Delhi on itinerary",
+       "link": "https://www.livemint.com/news/india/2026-earthshot-prize-prince-william-kate-middleton-to-visit-india-taj-mahal-kaziranga-mumbai-delhi-on-itinerary-11794714082243.html",
+       "publishedAt": "2026-11-15T09:20+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Prince William, Princess Kate to visit Mumbai for Earthshot Prize Awards; gully cricket, Metro ride, Bollywood on itinerary",
+       "link": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
+       "publishedAt": "2026-11-15T09:07+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Prince William, wife Kate to visit India this week",
+       "link": "https://economictimes.indiatimes.com/news/india/uks-prince-william-to-be-joined-by-wife-kate-for-india-visit-this-week/articleshow/135845054.cms",
+       "publishedAt": "2026-11-15T06:29+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "UK's Prince William to be joined by wife Kate for visit to India",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDgyMUVuNTE2MkFDVHhVaTJ6SnRsbmVIcHV2bVVkWVhwY1ZmaldUdTVwMXhmWW5HSktoUnA0NTByZzdubE1LbXYxSDItZ1VLeVozZjg1R3RkbGZ1eEJYSC1jTGtGQUFoc0JtQU1KU0t2Mkd0dnVndzRCRkgxS1ZFV2l4Ty1vNDBfLWZwYWVEYUtYaHNnNDNZX295ODAwSjJ3cjZWQ2w4N0FMbjM0ZEI0?oc=5",
+       "publishedAt": "2026-11-15T05:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Saudi Alliance Intercepts 2 Houthi Missiles, 3 Drones Targeting Riyadh",
+     "link": "https://www.ndtv.com/world-news/saudi-alliance-intercepts-2-houthi-missiles-3-drones-targeting-riyadh-12328633#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "CGTN",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "ThePrint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T09:34+05:30",
+     "score": 7.45,
+     "summary": "The Eastern Province, the economic powerhouse of Saudi Arabia, has been subject to multiple attacks by Houthis.",
+     "image": "https://c.ndtvimg.com/2026-11/ol64h1lk_houthi-missile-reuters_625x300_15_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Saudi Alliance Intercepts 2 Houthi Missiles, 3 Drones Targeting Riyadh",
+       "link": "https://www.ndtv.com/world-news/saudi-alliance-intercepts-2-houthi-missiles-3-drones-targeting-riyadh-12328633#publisher=newsstand",
+       "publishedAt": "2026-11-15T09:34+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
+       "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+       "publishedAt": "2026-11-15T08:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "2 With Pakistan Links Arrested In Punjab For Rajasthan Train Track Blast",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWW1aMWJwV1VmWTZ4bXNwZlJNdU9VRmgwMzRIREpyVmRIWDRMNE9wYWVudmtabDZNU0xrQ1dsVWtPLXNfSkh0NE9QWUZ1U09jbHFKY1ZaRzYyVmZOdFNNRURTYWRCc2VPbWlxdjRUT0pCNTRIdzh5UXRpNTUxNXpYNjJib045bEhuQkF6ZUx2Y2VmUUVDcjV6NWhHYWk2cUJ1cS13dDlBQktGbUhJeUZqWkNWSzRSa25FLUJRR1JUNHJZWEJ5RFNJ?oc=5",
+     "source": "NDTV",
+     "sources": [
+      "ANI News",
+      "Bhaskar English",
+      "NDTV",
+      "PGurus",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T10:22+05:30",
+     "score": 7.33,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "2 With Pakistan Links Arrested In Punjab For Rajasthan Train Track Blast",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWW1aMWJwV1VmWTZ4bXNwZlJNdU9VRmgwMzRIREpyVmRIWDRMNE9wYWVudmtabDZNU0xrQ1dsVWtPLXNfSkh0NE9QWUZ1U09jbHFKY1ZaRzYyVmZOdFNNRURTYWRCc2VPbWlxdjRUT0pCNTRIdzh5UXRpNTUxNXpYNjJib045bEhuQkF6ZUx2Y2VmUUVDcjV6NWhHYWk2cUJ1cS13dDlBQktGbUhJeUZqWkNWSzRSa25FLUJRR1JUNHJZWEJ5RFNJ?oc=5",
+       "publishedAt": "2026-11-15T10:22+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-15T10:00+05:30",
    "generatedAt": "2026-11-15T10:23+05:30",
