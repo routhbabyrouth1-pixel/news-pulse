@@ -1,6 +1,167 @@
 {
- "updated": "2026-11-15T07:31+05:30",
+ "updated": "2026-11-15T08:19+05:30",
  "hours": [
+  {
+   "hour": "2026-11-15T08:00+05:30",
+   "generatedAt": "2026-11-15T08:19+05:30",
+   "feeds": 16,
+   "headlines": 116,
+   "stories": [
+    {
+     "title": "Netanyahu sends plea to Eisenkot for unity government",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "CBS News",
+      "Reuters",
+      "The Hindu",
+      "The Times of Israel"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T07:03+05:30",
+     "score": 7.29,
+     "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Netanyahu sends plea to Eisenkot for unity government",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+       "publishedAt": "2026-11-15T07:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Prince William, Princess Kate to visit Mumbai for Earthshot Prize Awards; gully cricket, Metro ride, Bollywood on itinerary",
+     "link": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Reuters",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Vajiram & Ravi"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T08:05+05:30",
+     "score": 7.21,
+     "summary": "The three-day itinerary features engagements focused sixth annual Earthshot Prize Summit, environmental sustainability, gully cricket, public transport and India’s film industry",
+     "image": "https://th-i.thgim.com/public/incoming/krcrce/article71703994.ece/alternates/LANDSCAPE_1200/2026-11-15T000006Z_1483397742_RC28JOAOU75H_RTRMADP_3_BRITAIN-ROYALS-WILLIAM-KATE.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Prince William, Princess Kate to visit Mumbai for Earthshot Prize Awards; gully cricket, Metro ride, Bollywood on itinerary",
+       "link": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
+       "publishedAt": "2026-11-15T08:05+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Prince William, wife Kate to visit India this week",
+       "link": "https://economictimes.indiatimes.com/news/india/uks-prince-william-to-be-joined-by-wife-kate-for-india-visit-this-week/articleshow/135845054.cms",
+       "publishedAt": "2026-11-15T06:29+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "UK's Prince William to be joined by wife Kate for visit to India",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDgyMUVuNTE2MkFDVHhVaTJ6SnRsbmVIcHV2bVVkWVhwY1ZmaldUdTVwMXhmWW5HSktoUnA0NTByZzdubE1LbXYxSDItZ1VLeVozZjg1R3RkbGZ1eEJYSC1jTGtGQUFoc0JtQU1KU0t2Mkd0dnVndzRCRkgxS1ZFV2l4Ty1vNDBfLWZwYWVEYUtYaHNnNDNZX295ODAwSjJ3cjZWQ2w4N0FMbjM0ZEI0?oc=5",
+       "publishedAt": "2026-11-15T05:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Hamas confirms death of senior commander Samir Abu Younis in Israeli airstrike",
+     "link": "https://timesofindia.indiatimes.com/world/middle-east/hamas-confirms-death-of-senior-commander-samir-abu-younis-in-israeli-airstrike/articleshow/135845432.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "Reuters",
+      "The Jerusalem Post",
+      "The Times of India",
+      "The Times of Israel",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T07:24+05:30",
+     "score": 6.9,
+     "summary": "In a recent Israeli airstrike, senior Hamas commander Samir Abu Younis was killed in the Mawasi area of Khan Younis, an incident that also left many injured. Known for his involvement in the planning of the deadly October 7 assault on Israel, his funeral is set for Sunday. The ongoing conflict continues to claim significant casualties on both sides since the ceasefire in October 2025.",
+     "image": "https://static.toiimg.com/photo/msid-47529300.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Hamas confirms death of senior commander Samir Abu Younis in Israeli airstrike",
+       "link": "https://timesofindia.indiatimes.com/world/middle-east/hamas-confirms-death-of-senior-commander-samir-abu-younis-in-israeli-airstrike/articleshow/135845432.cms",
+       "publishedAt": "2026-11-15T07:24+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Israeli air strike kills senior Hamas commander in Gaza",
+       "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+       "publishedAt": "2026-11-15T06:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "Al Arabiya English",
+      "Reuters",
+      "The Hindu",
+      "ThePrint",
+      "Xinhua",
+      "تسنیم"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T04:24+05:30",
+     "score": 6.72,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+       "publishedAt": "2026-11-15T04:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Indian student in UK jailed for 30 years for grooming 70 girls online",
+     "link": "https://timesofindia.indiatimes.com/world/uk/indian-student-in-uk-jailed-for-30-years-for-grooming-70-girls-online/articleshow/135844557.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "Cheshire Constabulary",
+      "NDTV",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T05:25+05:30",
+     "score": 6.58,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135844620,imgsize-47018.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Indian student in UK jailed for 30 years for grooming 70 girls online",
+       "link": "https://timesofindia.indiatimes.com/world/uk/indian-student-in-uk-jailed-for-30-years-for-grooming-70-girls-online/articleshow/135844557.cms",
+       "publishedAt": "2026-11-15T05:25+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Indian student in UK jailed for 30 years for grooming 70 girls online",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUF0YWd2aGEzUTIzQ0Nad0tMT3NtNzZzT09Hd2hzOUcwOWR0WXNHMHhUYnJRSDFIUVphVjk5a19yd3lRYlRuQ3laMERWZFpiNlVOb3lnUkhFVk5yVjI2ZHRnd0RzTjE1SEFEbE5qcGRkUlVYbllmNzl3OTdFTzVDOWNtdWN3cnNVbFEzdnJfMVhIYVk3cVNQX2NYYXNxN0wxMzlOUC1XRThtT1hqNmR6VkRXRE1DOEpVT2pnc2lUZTFqVVlnR3RKbnpPSHhWTlJ3REZFT1JBb9IB3AFBVV95cUxPRTdRdmdZUTFoaDM1SV8wbWRlZHRpM3lXVjJWQXNqRzNXN0RldmIzck1OTzJvelZIOE0yWERZNG40QTRjcFVIVmhoRkg1ZElSRFFOSlZUSFozb25ENkhLQnNKYnVObzQ2MU9QM3RLWmZTU3dWMWZ3WkRtSDFVRi13bnNoTVM1djdoYnhhVW1Zb05QODNmSTBzRm5iMXg3YzU3enJDck53NUQyUXhQNWsxYVNBMW04bE1pejhDNU1yMHhYcXBnOWRLSmZ0SkE0YXU4dFBfeTZMbmd0THRL?oc=5",
+       "publishedAt": "2026-11-15T05:25+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-15T07:00+05:30",
    "generatedAt": "2026-11-15T07:31+05:30",
