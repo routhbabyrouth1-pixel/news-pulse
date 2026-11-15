@@ -1,6 +1,194 @@
 {
- "updated": "2026-11-15T14:21+05:30",
+ "updated": "2026-11-15T15:15+05:30",
  "hours": [
+  {
+   "hour": "2026-11-15T15:00+05:30",
+   "generatedAt": "2026-11-15T15:15+05:30",
+   "feeds": 16,
+   "headlines": 260,
+   "stories": [
+    {
+     "title": "Guwahati-bound IndiGo flight returns to Pune due to technical snag; all passengers safe — Here's all you need to know",
+     "link": "https://www.livemint.com/news/india/guwahatibound-indigo-flight-returns-to-pune-due-to-technical-snag-all-passengers-safe-heres-all-you-need-to-know-11794729353995.html",
+     "source": "Mint",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Nagpur Today",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-15T14:17+05:30",
+     "score": 8.34,
+     "summary": "IndiGo reportedly arranged an alternate aircraft from Bengaluru to Pune to facilitate the affected passengers' onward journey to Guwahati.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/INDIGO-ORDER--0_1794730895253_37Er_1794730921125_aHCk_acd135e2-ec04-42ab-ada9-763005cccac4_xE9X.JPG",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Guwahati-bound IndiGo flight returns to Pune due to technical snag; all passengers safe — Here's all you need to know",
+       "link": "https://www.livemint.com/news/india/guwahatibound-indigo-flight-returns-to-pune-due-to-technical-snag-all-passengers-safe-heres-all-you-need-to-know-11794729353995.html",
+       "publishedAt": "2026-11-15T14:17+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Guwahati-bound IndiGo flight returns to Pune due to technical issue; all 192 persons onboard safe",
+       "link": "https://www.thehindu.com/news/national/guwahati-bound-indigo-flight-returns-to-pune-due-to-technical-issue-all-192-persons-onboard-safe/article71704295.ece",
+       "publishedAt": "2026-11-15T12:40+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Guwahati-bound IndiGo flight carrying 193 passengers returns to Pune after landing gear malfunction",
+       "link": "https://www.hindustantimes.com/india-news/guwahatibound-indigo-flight-carrying-193-passengers-returns-to-pune-after-landing-gear-malfunction-101794723897032.html",
+       "publishedAt": "2026-11-15T11:58+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Guwahati-Bound IndiGo Flight Returns To Pune As Landing Gear Fails To Retract",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUFRaHI1TEN5LUg1V2tyMTVyZEctc3lmM0dPMXVST29HT2FxekRGVXY0clNmODRmdk1hdGNaMF9Bd1ozUHdxLXYwbXRtOGw4YlBCQ050NzJ5UEZNVkZDMm1lbEZVSGtndUhwcGgzdzZORThocHk4Q0ZvUG5KZVkzN01Sc0Y5UkxzREJGZGVid0N4QWRqQ1VtOTBRYTdCTmtpX3V2eUxPR0xHRDEwZUFnTHA5S3d0d0hXd2fSAcIBQVVfeXFMUDlfNHNOY2RiX2h3bmFlWXoyQkRjR3ctY2ZNNU5Ga0g3d3FaMm1UN3VmQW5aM3lLMXR2LUtEVjRuNHJId1A5Mm5PT2lJdlJPYWtYZEh2UTZuVURLdVIwOG1KSWdzNFIwMHJXWTJ5VWU3TW9XUnhrRjM2OWJvaFpWWnc2SklLS2hPTEd6OEpqR3RSdWlialJuR2VIcXVvQi1nNThQWV9za2lyTXktZzQwMVRTdmdIeUc1bW8zMGR5Ykxsbmc?oc=5",
+       "publishedAt": "2026-11-15T12:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sonakshi Sinha morphed photos case: Mumbai court holds Delhi arrest illegal",
+     "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-morphed-photos-case-mumbai-court-holds-delhi-arrest-illegal-says-the-record-does-not-disclose-satisfactory-compliance/articleshow/135850004.cms",
+     "source": "Times of India",
+     "sources": [
+      "India Today",
+      "Inshorts",
+      "Minute Mirror",
+      "Telegraph India",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T13:00+05:30",
+     "score": 7.38,
+     "summary": "Aryan Deepak Jain found himself in legal trouble after being detained in Delhi for purportedly sharing altered photographs of Sonakshi Sinha. However, after being sent to Mumbai, a local magistrate released him, citing procedural errors during his arrest. The court pointed out that mandatory legal protections must be ensured for all arrests, as investigators aimed for a three-day custody to delve deeper into the…",
+     "image": "https://static.toiimg.com/photo/msid-135850123,imgsize-493693.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Sonakshi Sinha morphed photos case: Mumbai court holds Delhi arrest illegal",
+       "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-morphed-photos-case-mumbai-court-holds-delhi-arrest-illegal-says-the-record-does-not-disclose-satisfactory-compliance/articleshow/135850004.cms",
+       "publishedAt": "2026-11-15T13:00+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Sonakshi Sinha morphed photos case: Mumbai court holds Delhi arrest illegal, says, 'The record does not d",
+       "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNODFEVlBfQ2taSUZIV3VnazY3dkx2Y2tYRkNFR25sUTN5d1F4ZmtUYjFCMUJ3bG9IQTdSMjg2NXZlNVJvN0c1TkVGRjlqeXZJbDFoLXE5NUhOZnA5Szc2SERPeHFkVDJYczRmczZDYXExY1BfNnVaN2VBekZTLUlZMVBFQ21kSFFKcEI0VEItYmVqTHEwRjdFV0lPNG8tdkVXZ1VmUk1pRGd6T0lQTHNvZVZ4N2RaZWVqWUh2dGktNlAyQzA2RkFjbkVQTG1jOGpkMFphVXBaaU1TT0U5Y002R0hkalYzYlRHend5UFFwcUgya3JYNWE4RmhnY2VZZHN2eXlRY3FWdG1kc0xRa09Gc3dZRi10RU1ZeU5MNUplYjV0UE14emlUU0J4X3VTYmtJLVhCS0lDNlN1S09KdkRFTHpGc3hXQXJCTEM4dmhR?oc=5",
+       "publishedAt": "2026-11-15T13:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'My home for many years': Lalit Modi gets UK citizenship 16 years after leaving India",
+     "link": "https://timesofindia.indiatimes.com/world/uk/my-home-for-many-years-lalit-modi-gets-british-citizenship-16-years-after-leaving-india/articleshow/135847166.cms",
+     "source": "Times of India",
+     "sources": [
+      "Deccan Herald",
+      "Gulf News",
+      "Hindustan Times",
+      "Rediff",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-15T10:03+05:30",
+     "score": 7.21,
+     "summary": "Lalit Modi announced his acquisition of British citizenship at the Oxford Union in the UK. He celebrated this milestone with friends and family after residing there for years. Modi has faced allegations of financial irregularities since leaving India in 2010. He has consistently denied being a fugitive and claims to be available for investigation. Despite ongoing scrutiny, he expresses a desire to contribute to the…",
+     "image": "https://static.toiimg.com/photo/msid-135847320,imgsize-162676.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'My home for many years': Lalit Modi gets UK citizenship 16 years after leaving India",
+       "link": "https://timesofindia.indiatimes.com/world/uk/my-home-for-many-years-lalit-modi-gets-british-citizenship-16-years-after-leaving-india/articleshow/135847166.cms",
+       "publishedAt": "2026-11-15T09:51+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "IPL founder Lalit Modi announces British citizenship over a decade after fleeing India: ‘A new chapter’",
+       "link": "https://www.hindustantimes.com/india-news/ipl-founder-lalit-modi-announces-british-citizenship-over-a-decade-after-leaving-india-a-new-chapter-101794715770118.html",
+       "publishedAt": "2026-11-15T09:42+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "‘God Save The King’: Lalit Modi announces British citizenship, 16 years after he fled India",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb2x3emZkY3NReFd6VkZwa3JoeUFrQjRyWUttdUtueGJfNGhmZHpZaDFBV0Q5aTNTRTBKa2J4SVBhWGxrR3BWbWwyb3hSRTVlb3d1RmFnSWVTWnpCY2djQUtqdkdndFlfLWJyaFJMOU5ZMWp4ZEtOYTZLMkRsY1BqUUh6NERpZnpOb2JYNllyemY2NXR3c3c2b2hXMUl6YVNnOWJYWm1UMkppalRCd3hxS3ExMGpUME9QTnlPR19oc205dFVNRlYwbE5tRDNKT2ROR0x2RGxXcmk3NVJZaUHSAeQBQVVfeXFMUHZ5Z0liOGl0TllKZi1oZnZzUWViZnFBM2QyU0N1X1B4V3ZsUWVNYldQOG5LYkRnMGNLQkZBLVZ1OVJOc3J2RkQzd2FucVdiM3ZPQ3JNWmFhejBXSWZSNmZ5X0pIQTJ6N1F6cGRzeWJaWDZhWTBqQ0RzNV9Nbm1nMl9CVnhPLTc0MUtpeFN4VktwZVRicjZxU0F6YXpHQkE2NVk2UVZuZ1RaaFZfTlRqeXBWdEcyalI0UFl3TktGRzJDOC1HRldtaXBBQkxreUlCa055cnp2N2dPWERYUFVWMUFOWnBS?oc=5",
+       "publishedAt": "2026-11-15T10:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Aaryavir Sehwag earns special two-word praise from Vaibhav Sooryavanshi",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/aaryavir-sehwag-earns-special-two-word-praise-from-vaibhav-sooryavanshi/articleshow/135851099.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Rediff",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T14:06+05:30",
+     "score": 7.18,
+     "summary": "Aaryavir Sehwag was named Player of the Tournament after scoring 361 runs in India's victorious Under-19 Asia Cup campaign. He scored 58 in the thrilling final against Pakistan, which India won by one wicket. Fellow youngster Vaibhav Sooryavanshi congratulated him on Instagram with the message, \"Star boiiiiii @aaryavirsehwag\", celebrating his impressive performances.",
+     "image": "https://static.toiimg.com/photo/msid-135851317,imgsize-105794.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Aaryavir Sehwag earns special two-word praise from Vaibhav Sooryavanshi",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/aaryavir-sehwag-earns-special-two-word-praise-from-vaibhav-sooryavanshi/articleshow/135851099.cms",
+       "publishedAt": "2026-11-15T14:06+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Aaryavir Sehwag earns special two-word praise from Vaibhav Sooryavanshi",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUXI5S21FZVdzWl9SRkhvTXozQnRELU5hTzAyME8wOEhCV3BUUUdoUl9VRi0wdHVEVk5OVk9BSkphbzRqWGZDa3JwWXA0cVRZRnhMQ01wRGUxcEdxQjNSX0Y5bExqd2J5ZFlXcVNMNVEyeWxaWkJselhjaEp4WmhCMDhvU2E4VUJ1dUlUSEY1LVNEZGpJRmtwaHNKRmdsdHdhX2JTWEgwb29CYzJTcnVkTE96OFA3YzFPR0YwTDlucVdLdnVzaVNwd1dZTENoWEdWQW5vT0hxVUw0S01wWWlWZGE4cWNaVzd20gHuAUFVX3lxTFBfV29JX0d4QXRJRWJaWURUeERXcVdMRHBvZUpyT0J5OFpvak5TbUZNVUVIOFBiTUc1WUZDbnZvV05aQzNya2dXOGxVQmgtY05wOV9rWXZ6MVVrbDZROElYajZxVzA2RWtZY2VoZ0lHSVQ0bmVTX2lmMnlwQXAyRzN6SjRkODVrYXBweVBIUnJXZVZuU25EU3NzSlgtZ241RGNGYXZxQ2hhM1FrMlVSdnhES052by1wYjJGSGEzUWlnTnBOUWRNblFkdmo1WHdqelQxOExpZU5XSDAweUJ3emY5ZGdSOWFvRU53blhsOVE?oc=5",
+       "publishedAt": "2026-11-15T14:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "From kidneys to body tissues: Desperate Iranians put organs up for sale as war drags on",
+     "link": "https://timesofindia.indiatimes.com/world/middle-east/from-kidneys-to-body-tissues-desperate-iranians-put-organs-up-for-sale-as-war-drags-on/articleshow/135850867.cms",
+     "source": "Times of India",
+     "sources": [
+      "Binance",
+      "Inshorts",
+      "Iran International",
+      "The Times of India",
+      "Times of India",
+      "WION"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T14:00+05:30",
+     "score": 7.17,
+     "summary": "Iran's deepening economic crisis has driven residents to advertise organs, including kidneys, bone marrow and liver, to pay debts and meet basic expenses. An Iran International investigation of over 600 Telegram listings found widespread multiple-organ offers, highlighting growing financial desperation. The crisis is worsening amid US sanctions, a naval blockade and regional conflict. Economists warn prolonged…",
+     "image": "https://static.toiimg.com/photo/msid-135850943,imgsize-127468.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "From kidneys to body tissues: Desperate Iranians put organs up for sale as war drags on",
+       "link": "https://timesofindia.indiatimes.com/world/middle-east/from-kidneys-to-body-tissues-desperate-iranians-put-organs-up-for-sale-as-war-drags-on/articleshow/135850867.cms",
+       "publishedAt": "2026-11-15T14:00+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "From kidneys to body tissues: Desperate Iranians put organs up for sale as war drags on, claims report",
+       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONkpWTEY2cUo1dXNzV3MyRHZqQjdWOW5QeC1sT0NVbk53MDJBc3A2YUc3VV9ZMXR5UGFmY2NLQklvTkN0RlZmcmhJSm1YRkxSUXgycDZndUtfQ3h1R0VZUTZuV2JmWHJxb0JMUjFaQ2NjTTZqVi0xYTB6WEl4eE8zczg5WTgwQ2doYXB2OEJENFJTRWk5djRLbnR6WmhuV2FuTjh6QlBfaFQ3UVhIb2NYbjhBOXdmVHZScmJrX1Y2OUhxbVVQS0ctVTFTa3kzN25PR1JaV3BTRWVjSnhrVGhoXzBLV0RxNWNDY010eWNKY01TbEF4aGRqcXp3?oc=5",
+       "publishedAt": "2026-11-15T14:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-15T14:00+05:30",
    "generatedAt": "2026-11-15T14:21+05:30",
