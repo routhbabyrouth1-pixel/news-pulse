@@ -1,6 +1,160 @@
 {
- "updated": "2026-11-15T13:33+05:30",
+ "updated": "2026-11-15T14:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-15T14:00+05:30",
+   "generatedAt": "2026-11-15T14:21+05:30",
+   "feeds": 16,
+   "headlines": 245,
+   "stories": [
+    {
+     "title": "IndiGo flight returns to Pune after take-off as landing gear fails to retract",
+     "link": "https://timesofindia.indiatimes.com/india/indigo-flights-landing-gear-fails-to-retract-after-take-off-makes-safe-emergency-landing-in-pune/articleshow/135849085.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Pune Mirror",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T11:56+05:30",
+     "score": 7.35,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135849118,imgsize-75572.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "IndiGo flight returns to Pune after take-off as landing gear fails to retract",
+       "link": "https://timesofindia.indiatimes.com/india/indigo-flights-landing-gear-fails-to-retract-after-take-off-makes-safe-emergency-landing-in-pune/articleshow/135849085.cms",
+       "publishedAt": "2026-11-15T11:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "IndiGo flight’s landing gear fails to retract after take-off, makes safe emergency landing in Pune",
+       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS0RnM3ktQWZhM0xOSGdQZGt6YTBnMnJrN2dDVVg5VGo5MndkQmJWZjR2YzhRRUpDVnFCQm1LeHM2Z1pHNXhJMmxMRFN5cmxzMENGV20zNVRSdXo1UkkyMHZpMWU5Nzc4eFo3MVo1SnlvRUdHUTQ1cGNxREo4UmIzaHlJc2wxZnZsLXdXaF94VElfT09vZnpJYzRqQk5fUFB4cTBxSUFKSG5JT1A4ZDBfM1BySFpFZjcxdVV6LTZIeGlXU3BRdkdxT19lUFhYVEp4c0Fkb3R2U2lMUVNFZmpiZGhNV2ZmOTJFWnNBb3R0dlVNQzNUdFdz?oc=5",
+       "publishedAt": "2026-11-15T11:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Congress wants to contest 181 seats in 2027 UP polls, indicates Akhilesh",
+     "link": "https://www.thehindu.com/news/national/uttar-pradesh/congress-wants-to-contest-181-seats-in-2027-up-polls-indicates-akhilesh/article71704171.ece",
+     "source": "The Hindu",
+     "sources": [
+      "ANI News",
+      "Hindustan Times",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T12:25+05:30",
+     "score": 7.18,
+     "summary": "Asked if the demand was of 200 seats, he replied, \"A little less than that.\" When the interviewer suggested 180 seats, Mr. Yadav said, \"Add one more,\" indicating that the Congress has sought 181 seats from the SP",
+     "image": "https://th-i.thgim.com/public/incoming/21rkjl/article71704188.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiG0TGPV5Q5.3.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Congress wants to contest 181 seats in 2027 UP polls, indicates Akhilesh",
+       "link": "https://www.thehindu.com/news/national/uttar-pradesh/congress-wants-to-contest-181-seats-in-2027-up-polls-indicates-akhilesh/article71704171.ece",
+       "publishedAt": "2026-11-15T12:25+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 70 Cr on 2nd Saturday",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU2UxTjI3THR4NGFWLUZ6VG9uYjZIYUlHTk1LenU0dkZOQ3lfUjdIYk92WXJpeW5jdWVJX1l0Ty1PRDc2RXRKbS1WUnktcFFJQnZNMndoMHRQSF9PUWd1VzlLZjdrTWNMcS1tTU9LdlI0QUNDSlJKU0p0dlRSbjEzM1VPZ1VaT2x3ZDFQdWc2R1NaZVptVGcwZ1dFbldOcW9RODlNU0l1dkFGRUg2WEJZVzcyVEVmdnh5WUVxU2VVYVdiVWtxVVlLVVBKbWpIanJUSExHMTl1N0twY2FVTVJYOUFlMXFwX2w3enFyM25QT1ZMZ9IB9wFBVV95cUxOZkpiRnppWDRQdGFRUFdpbVpVVzdUejY1dlRTZmFhS3ZGdUR0dFJyenJsZWc4WVAtbVY5aDNlcGhWcjRKVHNmZlJHeE9RLWg5Mzl3RTZoY1NsZnpKVFd2eTlzTXV2cVVLS3cycWN4NWc4RWRiZVVSdGtVVWRCQVhxNHV5bVowTU9Eal8yU3lWY0R6eHpiV0V1Zk0tVlRwUUY1WVdfZlFBb09xLXBxS2M1Nm1hV2tFQ3F5XzAtWVUyaEE3OEFFdl9kMlFPTUgtRG1tOUh2aTZSNkcwaG5mcDBFaDE5YzdqZmY0MjMyUDRPOHF3M3FrSFc4?oc=5",
+     "source": "Pinkvilla",
+     "sources": [
+      "IMDb",
+      "Pinkvilla",
+      "Telegraph India",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T11:44+05:30",
+     "score": 7.06,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Pinkvilla",
+       "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 70 Cr on 2nd Saturday",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU2UxTjI3THR4NGFWLUZ6VG9uYjZIYUlHTk1LenU0dkZOQ3lfUjdIYk92WXJpeW5jdWVJX1l0Ty1PRDc2RXRKbS1WUnktcFFJQnZNMndoMHRQSF9PUWd1VzlLZjdrTWNMcS1tTU9LdlI0QUNDSlJKU0p0dlRSbjEzM1VPZ1VaT2x3ZDFQdWc2R1NaZVptVGcwZ1dFbldOcW9RODlNU0l1dkFGRUg2WEJZVzcyVEVmdnh5WUVxU2VVYVdiVWtxVVlLVVBKbWpIanJUSExHMTl1N0twY2FVTVJYOUFlMXFwX2w3enFyM25QT1ZMZ9IB9wFBVV95cUxOZkpiRnppWDRQdGFRUFdpbVpVVzdUejY1dlRTZmFhS3ZGdUR0dFJyenJsZWc4WVAtbVY5aDNlcGhWcjRKVHNmZlJHeE9RLWg5Mzl3RTZoY1NsZnpKVFd2eTlzTXV2cVVLS3cycWN4NWc4RWRiZVVSdGtVVWRCQVhxNHV5bVowTU9Eal8yU3lWY0R6eHpiV0V1Zk0tVlRwUUY1WVdfZlFBb09xLXBxS2M1Nm1hV2tFQ3F5XzAtWVUyaEE3OEFFdl9kMlFPTUgtRG1tOUh2aTZSNkcwaG5mcDBFaDE5YzdqZmY0MjMyUDRPOHF3M3FrSFc4?oc=5",
+       "publishedAt": "2026-11-15T11:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "2 planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
+     "link": "https://timesofindia.indiatimes.com/world/us/two-planes-collide-at-miami-airport-passenger-shares-footage-of-crushed-aircraft-nose/articleshow/135847604.cms",
+     "source": "Times of India",
+     "sources": [
+      "CBS News",
+      "CNN",
+      "Gulf Coast News and Weather",
+      "NDTV",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T10:22+05:30",
+     "score": 6.84,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135847706,imgsize-48190.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "2 planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
+       "link": "https://timesofindia.indiatimes.com/world/us/two-planes-collide-at-miami-airport-passenger-shares-footage-of-crushed-aircraft-nose/articleshow/135847604.cms",
+       "publishedAt": "2026-11-15T10:22+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Two planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
+       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONmN4VkNPZmpmUFJWcXVtaU5kS3FZM1plODgybXN4X3VVekJXeVM1aE9VMDdDMER0VHl6YUNqOXU5WnFIR2QxQ0VZYU1OSFVCd1ZLcU9qRjJlcGo0QWJJQ1ZvbWI4LTlaWHBPZmRWbERNNngyeDV3YnhSSWoxV0lmMktBOHp6eW1ldXpqaW5ZcWlSbWwtTlVJcmYwQ3hkcHF3a1Bjb3FtUDJSaGhjQTlQVldKYTd6RlZQOHJodlBzelZRX0xaTC1RRWozRXZVM1BtSEpkYkpCUTVNN2NKcWRKc1RScTB3UVgxR0ZKLQ?oc=5",
+       "publishedAt": "2026-11-15T10:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Four swordsmen: How China is reshaping its fighter jet fleet",
+     "link": "https://timesofindia.indiatimes.com/defence/international/four-swordsmen-how-china-is-reshaping-its-fighter-jet-fleet-with-j-35a-stealth-aircraft/articleshow/135849754.cms",
+     "source": "Times of India",
+     "sources": [
+      "China Military Online",
+      "EurAsian Times",
+      "Global Times",
+      "Military Watch Magazine",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T12:44+05:30",
+     "score": 6.77,
+     "summary": "China has expanded its PLAAF’s ‘three swordsmen’ fighter formation into four, adding the J-35A stealth fighter alongside the J-20, J-16 and J-10C. The development strengthens its network-centric warfare strategy, combining stealth, advanced sensors and firepower. China is now the second country, after the US, to operate two fifth-generation stealth fighters. The integrated formation also reflects growing competition…",
+     "image": "https://static.toiimg.com/photo/msid-135849888,imgsize-17202.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Four swordsmen: How China is reshaping its fighter jet fleet",
+       "link": "https://timesofindia.indiatimes.com/defence/international/four-swordsmen-how-china-is-reshaping-its-fighter-jet-fleet-with-j-35a-stealth-aircraft/articleshow/135849754.cms",
+       "publishedAt": "2026-11-15T12:44+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Four Swordsmen: How China is reshaping its fighter jet fleet with J-35A stealth aircraft",
+       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSml5dXY1WnpKclZwcjVaZWxNWEJLTXJNY1luVS1CV2o2N0JkMEJwUHNaNlMyTFdRQVlFLURfVkE3N3MzNlVlekpHMElaSnd6RGQ2MnkzWE94WGs2S3dMSkJGeW5mM1NWNWtvMHV3YU9UWmJSU3RGVmdDUmVSLXhqVjd3Uk1ESVVVUFJlWlpMb194bnFrQkROUTQ2VjZxZndBbkN5UjA3aW9uVU50UVBKdzY0R1VHZ1JQTV9RZ2JXZUl3b0VQZk1HUTk1N3lPdElhbjNoZlNnOERjWnVCVGU5THFwMjZvNFZVZ2NCTy1GOW5rVHlkSHNUejFEQTFJWFJs?oc=5",
+       "publishedAt": "2026-11-15T12:44+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-15T13:00+05:30",
    "generatedAt": "2026-11-15T13:33+05:30",
