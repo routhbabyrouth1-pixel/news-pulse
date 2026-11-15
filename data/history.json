@@ -1,6 +1,180 @@
 {
- "updated": "2026-11-15T17:08+05:30",
+ "updated": "2026-11-15T18:16+05:30",
  "hours": [
+  {
+   "hour": "2026-11-15T18:00+05:30",
+   "generatedAt": "2026-11-15T18:16+05:30",
+   "feeds": 16,
+   "headlines": 276,
+   "stories": [
+    {
+     "title": "Arshdeep Singh & Co. swing it India's way to secure 3-1 series win vs New Zealand",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-co-swing-it-indias-way-to-secure-3-1-series-win/articleshow/135852572.cms",
+     "source": "Times of India",
+     "sources": [
+      "BCCI",
+      "Cricinfo",
+      "ICC",
+      "Rediff",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T15:46+05:30",
+     "score": 8.08,
+     "summary": "India achieved a 22-run victory against New Zealand in the final ODI match. The match saw a fierce bowling effort, leading to crucial wickets at important moments. Mohammed Siraj, Yash Thakur, and Axar Patel played significant roles in the victory. This win allowed India to win the series 3-1, strengthening their position in white-ball cricket. The team's relentless approach was evident throughout the match…",
+     "image": "https://static.toiimg.com/photo/msid-135852599,imgsize-151070.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Arshdeep Singh & Co. swing it India's way to secure 3-1 series win vs New Zealand",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-co-swing-it-indias-way-to-secure-3-1-series-win/articleshow/135852572.cms",
+       "publishedAt": "2026-11-15T15:26+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Arshdeep and Co help India defend 209 for 3-1 series win",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVBNU3RYTWw3LWd1MnhlSVpTbUxlMDAzMk9MSFZJQUMwQWpUZ1p4Q2xCendUX3RBTkFsZC0yMUowNl90VUx4NGtXRC1kdGczX19md2YtSzZzaGF4U09OWjRBYmVvYmdrQlB0WU9QWExNWjlwRDdaTEhJR3U5Z2VrUFpWXzBueVlLTnBvbEc2RHE1cTlfMW1kdG5BdW1ZMHFPZEdZYVBUTndGamJEN2N3NFpWd2hiZmNBclE?oc=5",
+       "publishedAt": "2026-11-15T15:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Will India get preferential US market access, lower tariffs than rivals? Here's what Piyush Goyal said",
+     "link": "https://www.livemint.com/news/will-india-get-preferential-us-market-access-lower-tariffs-than-rivals-heres-what-piyush-goyal-said-11794739193904.html",
+     "source": "Mint",
+     "sources": [
+      "Deccan Herald",
+      "Mint",
+      "Moneycontrol.com",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-15T16:26+05:30",
+     "score": 7.99,
+     "summary": "India will get preferential access to the US market, with lower tariffs than competing countries under the proposed bilateral trade agreement, Commerce Minister Piyush Goyal said.&nbsp;",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/goyal_1782207220783_1782207229237_6cabb77e-aab7-42ba-9156-fad9da48b672_1794739432319_nMjP_c0153060-3d24-4104-8a22-8e878e8c471d_2jbi.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Will India get preferential US market access, lower tariffs than rivals? Here's what Piyush Goyal said",
+       "link": "https://www.livemint.com/news/will-india-get-preferential-us-market-access-lower-tariffs-than-rivals-heres-what-piyush-goyal-said-11794739193904.html",
+       "publishedAt": "2026-11-15T16:26+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Preferential access already agreed': Goyal's big update on India-US trade deal",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/preferential-trade-access-already-agreed-piyush-goyals-big-update-on-india-us-trade-deal/articleshow/135851339.cms",
+       "publishedAt": "2026-11-15T14:05+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "India-US trade deal: Lower tariffs than rival nations 'already agreed', says Piyush Goyal",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0dybEw0N0ZjWnloYTZqLUcyTDlORmpwZmVidWN3WFZ1VjdObHE5aTY5VG9SZmdNR21KdU1RZlNhc1hVYTZKNERMOC1QR19uaXhQUVNWNktDdzJ0WVRMNEFIN0F2Y0ZuMGJWaTZvMXJtZzJhTzh4Zmkwd2tUWXdRcFVOeUZkVENiNFpPRmJZaUs5emozUnE1RHRRZkxyR1c1MFJxb1JFc2NVQmx0UzBabmFoc2NkUXljN2lqbWpOMjNGcHB2UmI3RTFwOE9ybF8xYVZTdmhB0gHbAUFVX3lxTFA1aXBuQTg4R2Fsd0lpSmw3SXN0YXdFZno1UWpROTVlTHJULUw3dlBfaV9iYW9DXzFxWjZjVkNLYnVpQkdiODQ1cFhoN0xuLVRQU0xpZkdUR1RzbjF0WXV0OEpKNC1wTW9iZV9MdXdBbk9kRnl0bHJ3WVA0NzVKWXdOWml4djRwb0lqQzRJVHFwLUE3OWtKazdlcW12YTd0MXZqeTN5VEVUcnNUeUF5TG03UjU2Vm5EMlZzc1Fuc0Vmb0hyQVRtbkJyZERCX1pBSkRQMmNpeDJKSjdibw?oc=5",
+       "publishedAt": "2026-11-15T13:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Major accident averted as empty Vande Bharat travels 463 km with faulty brakes",
+     "link": "https://timesofindia.indiatimes.com/india/major-accident-averted-as-empty-vande-bharat-travels-463-km-with-faulty-brakes/articleshow/135852471.cms",
+     "source": "Times of India",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "Telegraph India",
+      "The New Indian Express",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-15T15:20+05:30",
+     "score": 7.56,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135852536,imgsize-120380.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Major accident averted as empty Vande Bharat travels 463 km with faulty brakes",
+       "link": "https://timesofindia.indiatimes.com/india/major-accident-averted-as-empty-vande-bharat-travels-463-km-with-faulty-brakes/articleshow/135852471.cms",
+       "publishedAt": "2026-11-15T15:20+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Ranchi division allows empty Vande Bharat to travel 463 km with faulty brakes; probe on",
+       "link": "https://www.hindustantimes.com/india-news/ranchi-division-allows-empty-vande-bharat-to-travel-463-km-with-faulty-brakes-probe-on-101794730606291.html",
+       "publishedAt": "2026-11-15T13:46+05:30"
+      },
+      {
+       "source": "Deccan Herald",
+       "title": "Empty Vande Bharat travels 463 km with faulty brakes; probe on",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFFRMGVQeDhRMVpMeC03aGl1Mkw3MThzMFRMU1h2enVJbjZETnNjWmNYbE1pMGFabE9BN3NWaG5pU2EtQmxJV0pIb3VqU01XcDMzMnpkYkpOTF9pcmplVkhYQU1BWC0xSTlqeno1OXNZbDhZQ3I4OG42d2FDYzhKSFY4dl9yYzBjQWR0ODZZV3N3cUxSRFdFR0liUUN2dVVocHJnSmd5SQ?oc=5",
+       "publishedAt": "2026-11-15T14:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+     "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "CNBC",
+      "CNN",
+      "The Guardian",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T17:51+05:30",
+     "score": 7.43,
+     "summary": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet Iranian media are reporting that their Foreign Minister Abbas Araqchi will be in Oman on Tuesday for talks with his Omani counterpart. Oman, along with Qatar, has been one of the key negotiators in ceasefire and peace talks between Tehran and Washington. The Southern Armed Forces announce the implementation of a redeployment…",
+     "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+       "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+       "publishedAt": "2026-11-15T17:51+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
+       "publishedAt": "2026-11-15T17:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review - GSMArena.com news",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5",
+     "source": "GSMArena.com",
+     "sources": [
+      "Android Police",
+      "Forbes",
+      "GSMArena.com",
+      "SammyGuru",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T15:31+05:30",
+     "score": 7.04,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "GSMArena.com",
+       "title": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review - GSMArena.com news",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5",
+       "publishedAt": "2026-11-15T15:31+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-15T17:00+05:30",
    "generatedAt": "2026-11-15T17:08+05:30",
