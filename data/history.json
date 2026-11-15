@@ -1,6 +1,180 @@
 {
- "updated": "2026-11-16T01:12+05:30",
+ "updated": "2026-11-16T02:07+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T02:00+05:30",
+   "generatedAt": "2026-11-16T02:07+05:30",
+   "feeds": 16,
+   "headlines": 235,
+   "stories": [
+    {
+     "title": "Itllu Arjuna Box Office Collection Day 3",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Cinema Express",
+      "Deccan Chronicle",
+      "IMDb",
+      "NDTV Profit",
+      "Sacnilk",
+      "Telegraph India",
+      "Telugu Filmnagar",
+      "The Economic Times",
+      "The Economist",
+      "The Hindu",
+      "The Indian Express",
+      "The News Minute"
+     ],
+     "sourceCount": 14,
+     "publishedAt": "2026-11-16T01:32+05:30",
+     "score": 16.4,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Itllu Arjuna Box Office Collection Day 3",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
+       "publishedAt": "2026-11-16T01:32+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 box office collection Day 10 Live Updates: Ranbir Kapoor’s film crosses Rs 1,228 cr globally; reaches Rs 75 cr mark in India on Sunday",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZjhEMjA4bnp2WFVaM05SbHZoYVR4Q2x1VzVnblJOVFIyWVNLYUt1Y3ptdlFtUkhBRTN5d25id1h6dGo3czhLeTBLaGJKbHRtUWZFenk4UXdTYmtRVVdZbzJ1LThfQ3lYZkhGNkRKTlR5MGhqa0FyaHBmVjl6MVYzNFRGOVczQ3ozSEVZcVBBeTZfdjNvRzhIcGZYYmVyYnluMmxoM1UxNC1SaTNoaW1ST3laenNQYVZVS0gxcFhwX3QxMFFVZFpxdEFrT0J6VmlLTWd0S3ZDUl8tc2hkLTNvVmZJeHlWejJLamdPR1Z2LTY4d9IB-AFBVV95cUxNQ0g4NVpmSU1wYzk2V1dQUkN6bGZGcVIxNWhGbmNSOFZGb3dPbWZZRlA3Z3NlRDM2Y09GVE9iQlA0UHVGT2ZxTlVwckoxMjZ6ejBFbUNVWGE2WnlfVUl3S012b202bjF4cXdXNVY1ZXZDMlliNXMySHBZeWxUZGM1bXBQMGpXcmpwUk5RblB5dWZZa2VUMldMSlpaNDV2Tk50QmdkY3l4R0JLdVlWa2swbTEySnF6RDFPaGZvQ3NPd3lSUjlPN1pGUXNxb2loWVJEMENxa3llY0s2c1E5bm1hMFJTWGJidWxGcWp2M3R6cndlQl9na3VibA?oc=5",
+       "publishedAt": "2026-11-15T22:23+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'They need dramatic shakeup': Bessent urges Nvidia to look outside firm for new CEO",
+     "link": "https://timesofindia.indiatimes.com/world/us/they-need-dramatic-shakeup-trump-aide-bessent-urges-nvidia-to-look-outside-company-for-new-ceo/articleshow/135861178.cms",
+     "source": "Times of India",
+     "sources": [
+      "Bloomberg.com",
+      "CNBC",
+      "ETHRWorld.com",
+      "Global Times",
+      "Reuters",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T22:40+05:30",
+     "score": 7.18,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135861340,imgsize-60704.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'They need dramatic shakeup': Bessent urges Nvidia to look outside firm for new CEO",
+       "link": "https://timesofindia.indiatimes.com/world/us/they-need-dramatic-shakeup-trump-aide-bessent-urges-nvidia-to-look-outside-company-for-new-ceo/articleshow/135861178.cms",
+       "publishedAt": "2026-11-15T22:40+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Bessent says Nvidia must 'go outside the company' to find new CEO",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5",
+       "publishedAt": "2026-11-15T21:55+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+     "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "Prothom Alo English",
+      "Telegraph India",
+      "The Daily Star",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T21:45+05:30",
+     "score": 6.33,
+     "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+       "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-15T21:45+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13WjJDOU1rc2cxSGd2NkIwN1VxbUZJSXRSUFJmVzVzU3VmOVlheTRqd0JPb2tZYzZlTTcyT3Bhb2lmN1BvclI1V1JYYW02emFZTG9Xcno5cmc5S1U?oc=5",
+       "publishedAt": "2026-11-15T21:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Delhi showroom murder: CCTV shows victim's final struggle with 'ex-friend'",
+     "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-showroom-murder-cctv-shows-victims-final-struggle-with-ex-friend-before-killing/articleshow/135859084.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T21:02+05:30",
+     "score": 6.25,
+     "summary": "A CCTV footage captured the final moments of an 18-year-old girl named Shabnam at a clothing showroom. She was allegedly attacked by a 29-year-old man named Suraj, who subsequently dragged her into a trial room. Police discovered Shabnam's body later that evening with injury marks and a knife nearby. Initial investigations suggest a fallout from their prior friendly relationship could be the motive.",
+     "image": "https://static.toiimg.com/photo/msid-135859259,imgsize-10436189.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Delhi showroom murder: CCTV shows victim's final struggle with 'ex-friend'",
+       "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-showroom-murder-cctv-shows-victims-final-struggle-with-ex-friend-before-killing/articleshow/135859084.cms",
+       "publishedAt": "2026-11-15T21:02+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Delhi showroom murder: CCTV shows victim's final struggle with 'ex-friend' before killing",
+       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNM2dwWGNaOFk4MDVmNHRMb2NZeERjV3hyM3l2WGlQYVAzQjYwQ1lDX1BoWDhqT01wb194UzJyTjVxYkUyZEt0UU9QUTY0a2RJRldTTVJEdkhjNzdkMm5oR1c4SFJqYUhqNU5TLXN1LWtiN3RtLWpHckt6Q2NhMG9HQU5aamdyY0JpMkRyQU9Rd25KaDhIOVdZZnZRQXNtVVNEcFZxNGhwY2dQWlBObVM3ZlB4WXRxNURUaHExUFJ5ZVl1cmZNN1UyQ0xpTWN6cUJLOE1KWWNqeG5RS1JwRHkyNktPcl9XZmhmT1NkdnZYbw?oc=5",
+       "publishedAt": "2026-11-15T21:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Watch: Forest staff chase lion on motorcycles at Gujarat safari park",
+     "link": "https://timesofindia.indiatimes.com/city/rajkot/watch-forest-staff-chase-lion-on-motorcycles-at-gujarat-safari-park-3-relieved-of-duty/articleshow/135858608.cms",
+     "source": "Times of India",
+     "sources": [
+      "Asianet Newsable",
+      "Deccan Herald",
+      "Gujarat Samachar",
+      "India Today",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T20:43+05:30",
+     "score": 6.18,
+     "summary": "Three outsourced forest personnel were dismissed after a video showed them chasing a lion on a motorcycle. The incident occurred at Ambardi Safari Park during the Diwali festival holiday period. According to officials, the lion was being directed back to its enclosure when it strayed. An inquiry was launched, but no harassment was confirmed regarding the lion's treatment.",
+     "image": "https://static.toiimg.com/photo/msid-135858910,imgsize-16493900.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Watch: Forest staff chase lion on motorcycles at Gujarat safari park",
+       "link": "https://timesofindia.indiatimes.com/city/rajkot/watch-forest-staff-chase-lion-on-motorcycles-at-gujarat-safari-park-3-relieved-of-duty/articleshow/135858608.cms",
+       "publishedAt": "2026-11-15T20:43+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Watch: Forest staff chase lion on motorcycles at Gujarat safari park, 3 relieved of duty",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcFhJQU9FcER2bENTSXRQWnp1cmFDcXZDMUNnMEZ4dk80NHkybGJkRHJLX2xoZ0hmTHFFUTBzMU9ybG5tV2lPVEJybkQ5VHNNU2JBci1HcFFCbGxELUlvM2o3b1hyUElKeDctazViSlVvbHhxV0hPbHVVcnZNUDh4ZUU4LWhhZTBJMzFEbXZhVHh6NGpXc3dzNFlsSS02OU1wZmJkSkcxbTI2YmExeDB2VEJTMURqQjNyeVNsOVdEUWdSeE44UFlQMUo5SUhmeEtUWFBIN2t1Sk9mS2FPeTc4bDhHa1VpMEV0MFBYOEVSY3JRdw?oc=5",
+       "publishedAt": "2026-11-15T20:43+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T01:00+05:30",
    "generatedAt": "2026-11-16T01:12+05:30",
