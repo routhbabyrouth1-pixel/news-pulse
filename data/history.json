@@ -1,6 +1,164 @@
 {
- "updated": "2026-11-16T03:06+05:30",
+ "updated": "2026-11-16T04:07+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T04:00+05:30",
+   "generatedAt": "2026-11-16T04:07+05:30",
+   "feeds": 16,
+   "headlines": 162,
+   "stories": [
+    {
+     "title": "Itllu Arjuna Box Office Collection Day 3",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "IMDb",
+      "NDTV Profit",
+      "Sacnilk",
+      "Telegraph India",
+      "The Economic Times",
+      "The Economist",
+      "The Hindu",
+      "The Indian Express",
+      "The News Minute",
+      "The Times of India",
+      "Tupaki English"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-16T01:32+05:30",
+     "score": 13.07,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Itllu Arjuna Box Office Collection Day 3",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
+       "publishedAt": "2026-11-16T01:32+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 box office collection Day 10 Live Updates: Ranbir Kapoor’s film crosses Rs 1,228 cr globally; reaches Rs 75 cr mark in India on Sunday",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZjhEMjA4bnp2WFVaM05SbHZoYVR4Q2x1VzVnblJOVFIyWVNLYUt1Y3ptdlFtUkhBRTN5d25id1h6dGo3czhLeTBLaGJKbHRtUWZFenk4UXdTYmtRVVdZbzJ1LThfQ3lYZkhGNkRKTlR5MGhqa0FyaHBmVjl6MVYzNFRGOVczQ3ozSEVZcVBBeTZfdjNvRzhIcGZYYmVyYnluMmxoM1UxNC1SaTNoaW1ST3laenNQYVZVS0gxcFhwX3QxMFFVZFpxdEFrT0J6VmlLTWd0S3ZDUl8tc2hkLTNvVmZJeHlWejJLamdPR1Z2LTY4d9IB-AFBVV95cUxNQ0g4NVpmSU1wYzk2V1dQUkN6bGZGcVIxNWhGbmNSOFZGb3dPbWZZRlA3Z3NlRDM2Y09GVE9iQlA0UHVGT2ZxTlVwckoxMjZ6ejBFbUNVWGE2WnlfVUl3S012b202bjF4cXdXNVY1ZXZDMlliNXMySHBZeWxUZGM1bXBQMGpXcmpwUk5RblB5dWZZa2VUMldMSlpaNDV2Tk50QmdkY3l4R0JLdVlWa2swbTEySnF6RDFPaGZvQ3NPd3lSUjlPN1pGUXNxb2loWVJEMENxa3llY0s2c1E5bm1hMFJTWGJidWxGcWp2M3R6cndlQl9na3VibA?oc=5",
+       "publishedAt": "2026-11-15T22:23+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'They need dramatic shakeup': Bessent urges Nvidia to look outside firm for new CEO",
+     "link": "https://timesofindia.indiatimes.com/world/us/they-need-dramatic-shakeup-trump-aide-bessent-urges-nvidia-to-look-outside-company-for-new-ceo/articleshow/135861178.cms",
+     "source": "Times of India",
+     "sources": [
+      "Bloomberg.com",
+      "CNBC",
+      "Financial Times",
+      "Global Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T22:40+05:30",
+     "score": 7.59,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135861340,imgsize-60704.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'They need dramatic shakeup': Bessent urges Nvidia to look outside firm for new CEO",
+       "link": "https://timesofindia.indiatimes.com/world/us/they-need-dramatic-shakeup-trump-aide-bessent-urges-nvidia-to-look-outside-company-for-new-ceo/articleshow/135861178.cms",
+       "publishedAt": "2026-11-15T22:40+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'They need dramatic shakeup': Trump aide Bessent urges Nvidia to look outside company for new CEO",
+       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU2tfYU1xM3M3YnNJSGd2aXRhd0oybzZxS0FMZjNjYUlBS1N1cXN2V0FGcEo1TkZXZDBMalNzYWNQa2NwOU51aVp3RGIxaGk5aFBpVVhiQ2Mxd0tBUmk2MFZoVEY5Y2RXSzlWcGpBbW8wc3l6YkpkZEZBTzJtdm03LUdUaElPcVFtWmstQ0VsMGw0ZXpuTldvWnhCSENEYWx4QUNLb2RPbmdNODBQckh0d2ktVFhnWDVIcVJKeGpUa0VRZGg5d0FpYktyVlA1UkNUWGIzUWVQNnNlRUNQcTgtbkVKeGswemk4MW05ckkwdnkzTElBSzNoV9IB_gFBVV95cUxORnVwbWczR29kVmQ4a0pHWGUyalJicHFmbEIyYmJpWlJ3ZGJEY3ZLRFBzN2hicV84cTdXdTlMeTdBVFJTTjI5UjR2ZmM0Tm1tR3hBZFlLZU5tN1dDU3BZRms4Y3RfeDlfcDZEZmQ5dDhEakVIa0hNbUt5UWhsc1RtQ0pJY0c4Yi1KV2tOMHF1X0k0SS1fOFV0WnVWQkNod1Y3LUk5Nk4wQWl5dGdtSi1obmdsZEI3SkU4VEZ5MlNyU04wLThnY3hxWjRLMFpUR2pLZEhYajZpNU9hbHZfVzlqamprWm54QzFEdW1TN1BZaDRpbjREV1VMSDBHcUpxZw?oc=5",
+       "publishedAt": "2026-11-15T22:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ICC rolls out roadmap and qualification pathways for marquee events until 2035",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1ktWXZGT1lpaWhoQmpwc0hSeVRrSDlSNkJvb1NaTU54VnROa3JDcEUwQnNCaXp4ajdHanJBdU9nN3dPUzR4Nl9qVTlTRnlVeUhiQ3cxLUNWUGNVaGt0aGJMUmpCamZSQWhNdkQ1OUJtNkluLVZCc2k0TnRGSDl0VDl3N2tPMFpJLVpfbGFkNjgzVHFnRHNlcG5xejdiaEJSNjdZWG5LeGl0ZHVrakNYTjdMODkyVW81T3hTd0laM2Y?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "ICC",
+      "Telegraph India",
+      "The New Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T22:41+05:30",
+     "score": 6.59,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "ICC rolls out roadmap and qualification pathways for marquee events until 2035",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1ktWXZGT1lpaWhoQmpwc0hSeVRrSDlSNkJvb1NaTU54VnROa3JDcEUwQnNCaXp4ajdHanJBdU9nN3dPUzR4Nl9qVTlTRnlVeUhiQ3cxLUNWUGNVaGt0aGJMUmpCamZSQWhNdkQ1OUJtNkluLVZCc2k0TnRGSDl0VDl3N2tPMFpJLVpfbGFkNjgzVHFnRHNlcG5xejdiaEJSNjdZWG5LeGl0ZHVrakNYTjdMODkyVW81T3hTd0laM2Y?oc=5",
+       "publishedAt": "2026-11-15T22:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Apple Puts Siri AI at the Center of the Home With HomeView",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeU9Pa2RuOWozMERYODNoaEoycV85dWZ1QmNWYmdtbk1aWXJ3Yng1QmtoZThQSnZ6d3dKYUtseHRDRmdSZ25PVE1XdndBRHhjR1N5R3lBZEhkZTZvNUYyQmRxOXdvYmZNMWxnd1ZOaV9DNTlET01pYVhKb0I3cm42c1hnZmlXOGl4WHpBMVZMbUhwaWlMSC1EWnJaZFN3UUs2cnQtb0pGZEZHTFdFaW9kTThhYS1mLTA?oc=5",
+     "source": "PYMNTS.com",
+     "sources": [
+      "Apple",
+      "CNET",
+      "Mezha.net",
+      "PYMNTS.com",
+      "The Verge"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T03:34+05:30",
+     "score": 6.0,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "PYMNTS.com",
+       "title": "Apple Puts Siri AI at the Center of the Home With HomeView",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeU9Pa2RuOWozMERYODNoaEoycV85dWZ1QmNWYmdtbk1aWXJ3Yng1QmtoZThQSnZ6d3dKYUtseHRDRmdSZ25PVE1XdndBRHhjR1N5R3lBZEhkZTZvNUYyQmRxOXdvYmZNMWxnd1ZOaV9DNTlET01pYVhKb0I3cm42c1hnZmlXOGl4WHpBMVZMbUhwaWlMSC1EWnJaZFN3UUs2cnQtb0pGZEZHTFdFaW9kTThhYS1mLTA?oc=5",
+       "publishedAt": "2026-11-16T03:34+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Diljit says attempts made to stop his Indore concert, recites ‘kisi ke baap ka Hindostan thodi hai’",
+     "link": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece",
+     "source": "The Hindu",
+     "sources": [
+      "India Today",
+      "Telegraph India",
+      "The Hindu",
+      "The Statesman",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T00:57+05:30",
+     "score": 5.97,
+     "summary": "In an aggressive tone, the Punjabi artist appeared to take a dig at the political opposition to his Aura India Tour 2026",
+     "image": "https://th-i.thgim.com/public/incoming/dxu2q2/article71705791.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-19%20135303.png",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Diljit says attempts made to stop his Indore concert, recites ‘kisi ke baap ka Hindostan thodi hai’",
+       "link": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece",
+       "publishedAt": "2026-11-16T00:57+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "‘Agar khilaaf hain hone do, kisi ke baap ka Hindustan thodi hai’: Diljit Dosanjh takes stage in Indore de",
+       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQaUNPZk41Qloxdm9Sd2lqbi1NWVU5cm4zM0NOWTRjc1Y2YnZJZlZ1TkMyTkhzS01qRU4xUjIwYUFoQ2g4V2NfYWxrZHZzVjg4UlhKMWhsM0V2ckxpaVhDLWVldUk5eG1PeXZaQkkzMjFQY2EtODdmSDhqQUVDMzU2eFU5UXFuclZ4dk15aTlscGxDT01tdzdha3drLVI4VWxQUFRPXzRweXFIek5xejBVQVBIVWVsb1o3eDJaX3U2clI1b2hlMjZzeHJDYlZfSVM5QndnRGNOVnF6TndIYnNtNXpJZmh4ZzBmZVRaSTRrRWdTRlprOVppX0FVTTlqdUFZR1ZTRFB5bzFMUldIVUFFOG8td2Qya3FsOE80S2xicm1faGdrb2c?oc=5",
+       "publishedAt": "2026-11-15T22:32+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T03:00+05:30",
    "generatedAt": "2026-11-16T03:06+05:30",
