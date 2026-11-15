@@ -1,6 +1,179 @@
 {
- "updated": "2026-11-16T00:12+05:30",
+ "updated": "2026-11-16T01:12+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T01:00+05:30",
+   "generatedAt": "2026-11-16T01:12+05:30",
+   "feeds": 16,
+   "headlines": 256,
+   "stories": [
+    {
+     "title": "Itllu Arjuna Box Office Collection Day 3",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Cinema Express",
+      "Deccan Chronicle",
+      "Gulte",
+      "Sacnilk",
+      "Telegraph India",
+      "The Economist",
+      "The Hindu",
+      "The Indian Express",
+      "The News Minute",
+      "The Times of India",
+      "Tupaki English"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-15T22:45+05:30",
+     "score": 13.09,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Itllu Arjuna Box Office Collection Day 3",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
+       "publishedAt": "2026-11-15T22:45+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 box office collection Day 10 Live Updates: Ranbir Kapoor’s film crosses Rs 1,228 cr globally; reaches Rs 75 cr mark in India on Sunday",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZjhEMjA4bnp2WFVaM05SbHZoYVR4Q2x1VzVnblJOVFIyWVNLYUt1Y3ptdlFtUkhBRTN5d25id1h6dGo3czhLeTBLaGJKbHRtUWZFenk4UXdTYmtRVVdZbzJ1LThfQ3lYZkhGNkRKTlR5MGhqa0FyaHBmVjl6MVYzNFRGOVczQ3ozSEVZcVBBeTZfdjNvRzhIcGZYYmVyYnluMmxoM1UxNC1SaTNoaW1ST3laenNQYVZVS0gxcFhwX3QxMFFVZFpxdEFrT0J6VmlLTWd0S3ZDUl8tc2hkLTNvVmZJeHlWejJLamdPR1Z2LTY4d9IB-AFBVV95cUxNQ0g4NVpmSU1wYzk2V1dQUkN6bGZGcVIxNWhGbmNSOFZGb3dPbWZZRlA3Z3NlRDM2Y09GVE9iQlA0UHVGT2ZxTlVwckoxMjZ6ejBFbUNVWGE2WnlfVUl3S012b202bjF4cXdXNVY1ZXZDMlliNXMySHBZeWxUZGM1bXBQMGpXcmpwUk5RblB5dWZZa2VUMldMSlpaNDV2Tk50QmdkY3l4R0JLdVlWa2swbTEySnF6RDFPaGZvQ3NPd3lSUjlPN1pGUXNxb2loWVJEMENxa3llY0s2c1E5bm1hMFJTWGJidWxGcWp2M3R6cndlQl9na3VibA?oc=5",
+       "publishedAt": "2026-11-15T22:23+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Man Accused Of Shooting Cop Killed In Bengal. 5th Encounter In 6 Months",
+     "link": "https://www.ndtv.com/india-news/man-accused-of-shooting-cop-killed-in-bengal-5th-encounter-in-6-months-12331041#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T23:55+05:30",
+     "score": 8.29,
+     "summary": "Ratan Sheikh was killed after he opened fire at a police team while trying to evade arrest at a brick kiln in Nanoor in the same district.",
+     "image": "https://c.ndtvimg.com/2023-04/h680v34g_bengal-police-generic-ani_625x300_08_April_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Man Accused Of Shooting Cop Killed In Bengal. 5th Encounter In 6 Months",
+       "link": "https://www.ndtv.com/india-news/man-accused-of-shooting-cop-killed-in-bengal-5th-encounter-in-6-months-12331041#publisher=newsstand",
+       "publishedAt": "2026-11-15T23:55+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "In latest ‘encounter’, West Bengal police kill a man accused of shooting at a constable two days ago",
+       "link": "https://www.thehindu.com/news/national/west-bengal/man-accused-of-opening-fire-at-cop-in-bengals-santiniketan-killed-in-police-encounter/article71705045.ece",
+       "publishedAt": "2026-11-15T22:07+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "5th encounter since BJP came to power in West Bengal: Man accused of firing at cop killed",
+       "link": "https://timesofindia.indiatimes.com/city/kolkata/5th-encounter-since-bjp-came-to-power-in-west-bengal-man-accused-of-firing-at-cop-killed/articleshow/135857386.cms",
+       "publishedAt": "2026-11-15T19:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Yash Thakur joins Sachin, Dhoni in unwanted list after ODI debut against NZ",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/yash-thakur-joins-sachin-tendulkar-ms-dhoni-in-unwanted-list-after-odi-debut-against-new-zealand/articleshow/135859364.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricinfo",
+      "ICC",
+      "Telegraph India",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T21:10+05:30",
+     "score": 7.83,
+     "summary": "Yash Thakur made his ODI debut against New Zealand but was dismissed for a duck on Sunday. He joined the list of 18 Indian players who have scored ducks in their debut matches. While India struggled with bat early on, they managed to secure a 22-run victory in the fifth ODI. The win allowed India to clinch the series 3-1 following New Zealand's consecutive home series victories.",
+     "image": "https://static.toiimg.com/photo/msid-135859374,imgsize-116682.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Yash Thakur joins Sachin, Dhoni in unwanted list after ODI debut against NZ",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/yash-thakur-joins-sachin-tendulkar-ms-dhoni-in-unwanted-list-after-odi-debut-against-new-zealand/articleshow/135859364.cms",
+       "publishedAt": "2026-11-15T21:10+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Yash Thakur joins Sachin Tendulkar, MS Dhoni in unwanted list after ODI debut against New Zealand",
+       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVXIzTjBjaXp1ek9kZkNtSmF4eTY1ZFRnR21IN2JERmtEMWo0ekJpNl8tNGJuQWp3dURXM1JlcW1wRXN2NGJFQ0RmRVFQdTFwcEsybm15bjZJWGowUHJYY3RNYlp1Nl96OWlkQjlJaVcyR2xaZnd4RlpiNmRXckdDMzhQSm4yc0lKUF9yc3pWa2VMcDJVR2lvZnM0SjBJOTQxSlkyMjVYNUZGUXV4THlZRy00MkVidXB6bHhqd2Q5Y01TeXZBay1JVFZjLWdxTHJ4eWMtamtMNHAzeWNncXlJbWxpd0FJMXNUTVdzamNRWE5jNmVOZlBYVEpOeHhoRVltVE9ZY0lmRnJwUHdVZ0sxc1Z0ZUNkNEVVa3V4dE1rcw?oc=5",
+       "publishedAt": "2026-11-15T21:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ICC rolls out roadmap and qualification pathways for marquee events until 2035",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1ktWXZGT1lpaWhoQmpwc0hSeVRrSDlSNkJvb1NaTU54VnROa3JDcEUwQnNCaXp4ajdHanJBdU9nN3dPUzR4Nl9qVTlTRnlVeUhiQ3cxLUNWUGNVaGt0aGJMUmpCamZSQWhNdkQ1OUJtNkluLVZCc2k0TnRGSDl0VDl3N2tPMFpJLVpfbGFkNjgzVHFnRHNlcG5xejdiaEJSNjdZWG5LeGl0ZHVrakNYTjdMODkyVW81T3hTd0laM2Y?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "ICC",
+      "Rediff",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T22:41+05:30",
+     "score": 7.33,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "ICC rolls out roadmap and qualification pathways for marquee events until 2035",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1ktWXZGT1lpaWhoQmpwc0hSeVRrSDlSNkJvb1NaTU54VnROa3JDcEUwQnNCaXp4ajdHanJBdU9nN3dPUzR4Nl9qVTlTRnlVeUhiQ3cxLUNWUGNVaGt0aGJMUmpCamZSQWhNdkQ1OUJtNkluLVZCc2k0TnRGSDl0VDl3N2tPMFpJLVpfbGFkNjgzVHFnRHNlcG5xejdiaEJSNjdZWG5LeGl0ZHVrakNYTjdMODkyVW81T3hTd0laM2Y?oc=5",
+       "publishedAt": "2026-11-15T22:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'They need dramatic shakeup': Bessent urges Nvidia to look outside firm for new CEO",
+     "link": "https://timesofindia.indiatimes.com/world/us/they-need-dramatic-shakeup-trump-aide-bessent-urges-nvidia-to-look-outside-company-for-new-ceo/articleshow/135861178.cms",
+     "source": "Times of India",
+     "sources": [
+      "Global Times",
+      "NDTV",
+      "Reuters",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T22:40+05:30",
+     "score": 7.33,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135861340,imgsize-60704.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'They need dramatic shakeup': Bessent urges Nvidia to look outside firm for new CEO",
+       "link": "https://timesofindia.indiatimes.com/world/us/they-need-dramatic-shakeup-trump-aide-bessent-urges-nvidia-to-look-outside-company-for-new-ceo/articleshow/135861178.cms",
+       "publishedAt": "2026-11-15T22:40+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Bessent says Nvidia must 'go outside the company' to find new CEO",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5",
+       "publishedAt": "2026-11-15T21:55+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T00:00+05:30",
    "generatedAt": "2026-11-16T00:12+05:30",
