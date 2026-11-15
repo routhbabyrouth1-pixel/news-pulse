@@ -1,6 +1,176 @@
 {
- "updated": "2026-11-15T23:04+05:30",
+ "updated": "2026-11-16T00:12+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T00:00+05:30",
+   "generatedAt": "2026-11-16T00:12+05:30",
+   "feeds": 16,
+   "headlines": 253,
+   "stories": [
+    {
+     "title": "Itllu Arjuna Box Office Collection Day 3",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Cinema Express",
+      "Deccan Chronicle",
+      "Gulte",
+      "Sacnilk",
+      "Telegraph India",
+      "The Economist",
+      "The Hindu",
+      "The Indian Express",
+      "The News Minute",
+      "The Times of India",
+      "Tupaki English"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-15T22:45+05:30",
+     "score": 13.26,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Itllu Arjuna Box Office Collection Day 3",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
+       "publishedAt": "2026-11-15T22:45+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 box office collection Day 10 Live Updates: Ranbir Kapoor’s film crosses Rs 1,228 cr globally; reaches Rs 75 cr mark in India on Sunday",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZjhEMjA4bnp2WFVaM05SbHZoYVR4Q2x1VzVnblJOVFIyWVNLYUt1Y3ptdlFtUkhBRTN5d25id1h6dGo3czhLeTBLaGJKbHRtUWZFenk4UXdTYmtRVVdZbzJ1LThfQ3lYZkhGNkRKTlR5MGhqa0FyaHBmVjl6MVYzNFRGOVczQ3ozSEVZcVBBeTZfdjNvRzhIcGZYYmVyYnluMmxoM1UxNC1SaTNoaW1ST3laenNQYVZVS0gxcFhwX3QxMFFVZFpxdEFrT0J6VmlLTWd0S3ZDUl8tc2hkLTNvVmZJeHlWejJLamdPR1Z2LTY4d9IB-AFBVV95cUxNQ0g4NVpmSU1wYzk2V1dQUkN6bGZGcVIxNWhGbmNSOFZGb3dPbWZZRlA3Z3NlRDM2Y09GVE9iQlA0UHVGT2ZxTlVwckoxMjZ6ejBFbUNVWGE2WnlfVUl3S012b202bjF4cXdXNVY1ZXZDMlliNXMySHBZeWxUZGM1bXBQMGpXcmpwUk5RblB5dWZZa2VUMldMSlpaNDV2Tk50QmdkY3l4R0JLdVlWa2swbTEySnF6RDFPaGZvQ3NPd3lSUjlPN1pGUXNxb2loWVJEMENxa3llY0s2c1E5bm1hMFJTWGJidWxGcWp2M3R6cndlQl9na3VibA?oc=5",
+       "publishedAt": "2026-11-15T22:23+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gold, Silver Prices This Week: Inflation Data, West Asia Tensions To Keep Bullion Markets Volatile",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeG5TemhWTm11cmF6TmRpdmxtQ1NneFFJRVlORl9hU3ZpT3ViZWRqcldvalZJSlA2SGJLZVRCR29XaTlYZFlsR01JNy1WNUk5a0JpQlhFaWJuTjFKUmQxODB2eDdlWUFQZHJMR19hTk1aZVZva1F2UmhPTGdhejdZMXFlVGF5WG9Fcm5nd3UwOEU0NjM1TDVuMVp4SG5tSjA1WnExdUtJb2JTOTlYbU5CTDg0eHZwa2htekFSTUJkZXFQSkRwTDc0SFliSWxoWHFXUHFkRTZZXzZXcEZad3I4SFZBcDZpS0llWXhHcG9Tc3RWQk85dlRQVG9UNzlYZ3M?oc=5",
+     "source": "NDTV Profit",
+     "sources": [
+      "BusinessLine",
+      "FXEmpire",
+      "Inshorts",
+      "Kitco",
+      "Livemint",
+      "NDTV Profit",
+      "Rediff MoneyWiz",
+      "Reuters",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-15T20:41+05:30",
+     "score": 10.47,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV Profit",
+       "title": "Gold, Silver Prices This Week: Inflation Data, West Asia Tensions To Keep Bullion Markets Volatile",
+       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeG5TemhWTm11cmF6TmRpdmxtQ1NneFFJRVlORl9hU3ZpT3ViZWRqcldvalZJSlA2SGJLZVRCR29XaTlYZFlsR01JNy1WNUk5a0JpQlhFaWJuTjFKUmQxODB2eDdlWUFQZHJMR19hTk1aZVZva1F2UmhPTGdhejdZMXFlVGF5WG9Fcm5nd3UwOEU0NjM1TDVuMVp4SG5tSjA1WnExdUtJb2JTOTlYbU5CTDg0eHZwa2htekFSTUJkZXFQSkRwTDc0SFliSWxoWHFXUHFkRTZZXzZXcEZad3I4SFZBcDZpS0llWXhHcG9Tc3RWQk85dlRQVG9UNzlYZ3M?oc=5",
+       "publishedAt": "2026-11-15T20:41+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Gold prices drop 4.1% to Rs 1.36 lakh, silver slides nearly 5% to Rs 1.76 lakh on MCX; inflation data, Fe",
+       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxObm1CaXhjRzFVN0tFVVljWURZem96bXo4MDJlVi1TNHU3WU1rWFhZb2ZqLW5hN2FkSTIzcE9qRVA1Wm14ZzdSaFZFWF9rVFNCNzJVNVpfMVBENkl1SGZ5bms0YlJvaFhBR2o2WlhjbmNlS0k0VktmYkxvQ0QtM3NzaUl5c1Z2OWNNX0o3YkRDUVB4ZFg5S1Z3S2hibHhiOHJWQzZUb2tzSE1FTS1vSk1XVjNaS0Vyc3B4VU9QRW5oWVpZdTBHZllMY1FPcjZYakxSaTU2NnFfd1JQcGtpcml3SW5hbG1KWVZNRk1oU2VEWDJmNllZYU52MEZVQ1JPR3BmUXNOWmxvcUctQVFCUVQ2ZTN1ekNXRGFSamRBaVU4VTJzLVFNOVp6bmplc3V2bEVLdWM5eDdBNWJPdnpERkRUMXN6VTJtdFhXd1RPSzZzT21SRk1TY2l3RHNJREdBa1pheXJUNDlhUHhORm8?oc=5",
+       "publishedAt": "2026-11-15T19:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Delhi showroom murder: CCTV shows victim's final struggle with 'ex-friend'",
+     "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-showroom-murder-cctv-shows-victims-final-struggle-with-ex-friend-before-killing/articleshow/135859084.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T21:02+05:30",
+     "score": 7.97,
+     "summary": "A CCTV footage captured the final moments of an 18-year-old girl named Shabnam at a clothing showroom. She was allegedly attacked by a 29-year-old man named Suraj, who subsequently dragged her into a trial room. Police discovered Shabnam's body later that evening with injury marks and a knife nearby. Initial investigations suggest a fallout from their prior friendly relationship could be the motive.",
+     "image": "https://static.toiimg.com/photo/msid-135859259,imgsize-10436189.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Delhi showroom murder: CCTV shows victim's final struggle with 'ex-friend'",
+       "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-showroom-murder-cctv-shows-victims-final-struggle-with-ex-friend-before-killing/articleshow/135859084.cms",
+       "publishedAt": "2026-11-15T21:02+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Delhi showroom murder: CCTV shows victim's final struggle with 'ex-friend' before killing",
+       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNM2dwWGNaOFk4MDVmNHRMb2NZeERjV3hyM3l2WGlQYVAzQjYwQ1lDX1BoWDhqT01wb194UzJyTjVxYkUyZEt0UU9QUTY0a2RJRldTTVJEdkhjNzdkMm5oR1c4SFJqYUhqNU5TLXN1LWtiN3RtLWpHckt6Q2NhMG9HQU5aamdyY0JpMkRyQU9Rd25KaDhIOVdZZnZRQXNtVVNEcFZxNGhwY2dQWlBObVM3ZlB4WXRxNURUaHExUFJ5ZVl1cmZNN1UyQ0xpTWN6cUJLOE1KWWNqeG5RS1JwRHkyNktPcl9XZmhmT1NkdnZYbw?oc=5",
+       "publishedAt": "2026-11-15T21:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ICC rolls out roadmap and qualification pathways for marquee events until 2035",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1ktWXZGT1lpaWhoQmpwc0hSeVRrSDlSNkJvb1NaTU54VnROa3JDcEUwQnNCaXp4ajdHanJBdU9nN3dPUzR4Nl9qVTlTRnlVeUhiQ3cxLUNWUGNVaGt0aGJMUmpCamZSQWhNdkQ1OUJtNkluLVZCc2k0TnRGSDl0VDl3N2tPMFpJLVpfbGFkNjgzVHFnRHNlcG5xejdiaEJSNjdZWG5LeGl0ZHVrakNYTjdMODkyVW81T3hTd0laM2Y?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "ICC",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T22:38+05:30",
+     "score": 7.24,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "ICC rolls out roadmap and qualification pathways for marquee events until 2035",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1ktWXZGT1lpaWhoQmpwc0hSeVRrSDlSNkJvb1NaTU54VnROa3JDcEUwQnNCaXp4ajdHanJBdU9nN3dPUzR4Nl9qVTlTRnlVeUhiQ3cxLUNWUGNVaGt0aGJMUmpCamZSQWhNdkQ1OUJtNkluLVZCc2k0TnRGSDl0VDl3N2tPMFpJLVpfbGFkNjgzVHFnRHNlcG5xejdiaEJSNjdZWG5LeGl0ZHVrakNYTjdMODkyVW81T3hTd0laM2Y?oc=5",
+       "publishedAt": "2026-11-15T22:38+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Kisi ke baap ka Hindustan thodi hai’: Diljit Dosanjh takes stage despite threats",
+     "link": "https://timesofindia.indiatimes.com/city/indore/agar-khilaaf-hain-hone-do-kisi-ke-baap-ka-hindustan-thodi-hai-diljit-dosanjh-takes-stage-in-indore-despite-threats-opposition/articleshow/135860821.cms",
+     "source": "Times of India",
+     "sources": [
+      "Inshorts",
+      "News18",
+      "Telegraph India",
+      "The Statesman",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-15T22:32+05:30",
+     "score": 7.1,
+     "summary": "Despite facing threats and considerable opposition, Diljit Dosanjh took the stage in Indore to celebrate culture with his loyal fans. His performance included powerful couplets that highlighted resilience and strength, emphasizing that nothing would deter them from their cherished traditions. Although some emails threatened bomb blasts, authorities later confirmed them as hoaxes. Dosanjh's unwavering dedication…",
+     "image": "https://static.toiimg.com/photo/msid-135861113,imgsize-101879.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Kisi ke baap ka Hindustan thodi hai’: Diljit Dosanjh takes stage despite threats",
+       "link": "https://timesofindia.indiatimes.com/city/indore/agar-khilaaf-hain-hone-do-kisi-ke-baap-ka-hindustan-thodi-hai-diljit-dosanjh-takes-stage-in-indore-despite-threats-opposition/articleshow/135860821.cms",
+       "publishedAt": "2026-11-15T22:32+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "‘Agar khilaaf hain hone do, kisi ke baap ka Hindustan thodi hai’: Diljit Dosanjh takes stage in Indore de",
+       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQaUNPZk41Qloxdm9Sd2lqbi1NWVU5cm4zM0NOWTRjc1Y2YnZJZlZ1TkMyTkhzS01qRU4xUjIwYUFoQ2g4V2NfYWxrZHZzVjg4UlhKMWhsM0V2ckxpaVhDLWVldUk5eG1PeXZaQkkzMjFQY2EtODdmSDhqQUVDMzU2eFU5UXFuclZ4dk15aTlscGxDT01tdzdha3drLVI4VWxQUFRPXzRweXFIek5xejBVQVBIVWVsb1o3eDJaX3U2clI1b2hlMjZzeHJDYlZfSVM5QndnRGNOVnF6TndIYnNtNXpJZmh4ZzBmZVRaSTRrRWdTRlprOVppX0FVTTlqdUFZR1ZTRFB5bzFMUldIVUFFOG8td2Qya3FsOE80S2xicm1faGdrb2c?oc=5",
+       "publishedAt": "2026-11-15T22:32+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-15T23:00+05:30",
    "generatedAt": "2026-11-15T23:04+05:30",
