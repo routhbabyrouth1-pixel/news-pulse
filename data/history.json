@@ -1,6 +1,139 @@
 {
- "updated": "2026-11-15T05:04+05:30",
+ "updated": "2026-11-15T06:28+05:30",
  "hours": [
+  {
+   "hour": "2026-11-15T06:00+05:30",
+   "generatedAt": "2026-11-15T06:28+05:30",
+   "feeds": 16,
+   "headlines": 94,
+   "stories": [
+    {
+     "title": "Galaxy S27 Release Date: Samsung Bets Big On New 'Pro' Phone",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWNicEx4T21sSVEzYjJXQmNFSzdCYjNXdGVFdkpXYXJBNi1vel9kSkNTMjJpTlVENHhVY3dsTHFRUkhmQi04WDFlRU5YeEhNOV9qVk1KRXNaYW1TdXBvbkZrclM0OXdtQndqQTFlM01FS1drYVZOYi00NDRmWEhObmRTR3ZRZEVvN1hmMFFiMXRHdkljb01zRmhJMU9WZzhvT0JKQURXVDYyN3VXUmpLQUE5cVJ4MkZVX1UzQndzcw?oc=5",
+     "source": "Forbes",
+     "sources": [
+      "91Mobiles",
+      "Forbes",
+      "GSMArena.com",
+      "SammyGuru",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T01:58+05:30",
+     "score": 6.0,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Forbes",
+       "title": "Galaxy S27 Release Date: Samsung Bets Big On New 'Pro' Phone",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWNicEx4T21sSVEzYjJXQmNFSzdCYjNXdGVFdkpXYXJBNi1vel9kSkNTMjJpTlVENHhVY3dsTHFRUkhmQi04WDFlRU5YeEhNOV9qVk1KRXNaYW1TdXBvbkZrclM0OXdtQndqQTFlM01FS1drYVZOYi00NDRmWEhObmRTR3ZRZEVvN1hmMFFiMXRHdkljb01zRmhJMU9WZzhvT0JKQURXVDYyN3VXUmpLQUE5cVJ4MkZVX1UzQndzcw?oc=5",
+       "publishedAt": "2026-11-15T01:58+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Today’s NYT Strands Hints, Spangram and Answers for Sunday, Nov. 15, #987",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0V5a3FfTE5FME1zV2JkWXVKck1RWkJlcV8wQWctZXFfcFA4VnBqUlNCd1paMlhpQWc4bDNVZng5RDJ1emoxdW1iSy12YzB4a292X1plRmNUQUV5NHlPNURPZ0tSdDBBczA1U2VWVXRHNzRhMWRTNjhEVTZnSzl4dXFLcWliN2pucDlRWXM0M0Z0RV9UaHc?oc=5",
+     "source": "CNET",
+     "sources": [
+      "CNET",
+      "Insider Gaming",
+      "TechRadar",
+      "The New York Times",
+      "Yahoo Tech"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T02:30+05:30",
+     "score": 5.71,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "CNET",
+       "title": "Today’s NYT Strands Hints, Spangram and Answers for Sunday, Nov. 15, #987",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0V5a3FfTE5FME1zV2JkWXVKck1RWkJlcV8wQWctZXFfcFA4VnBqUlNCd1paMlhpQWc4bDNVZng5RDJ1emoxdW1iSy12YzB4a292X1plRmNUQUV5NHlPNURPZ0tSdDBBczA1U2VWVXRHNzRhMWRTNjhEVTZnSzl4dXFLcWliN2pucDlRWXM0M0Z0RV9UaHc?oc=5",
+       "publishedAt": "2026-11-15T02:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Three things Jürgen Klopp changed to make Germany DOMINATE Serbia",
+     "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLWpqRGRVODhMdU5qZnAyQW9CTnVmSHRiMXBfMEVSd2xTNE5WLVVmdExrN25YS0p1Z2pEV0pzZzA2QldIWm9DaXcwZmFubFBaOXBQWEJpSUExdmFNdGpTNWVCcnNyYnJuVVcwYzJRVUZ2MVBjd3g1b2JiZk5RdkdWTG1OZGJRX1lva2hEWEViYVc3MDhqVDJHME1zcC1WV0Q0MVRqTFpwNlBPU05Ma3RLenhKV2dNc3N0eDg1WUoyNmxzRE1GNzdSS2ktYmhqQWhOQmxGR0liODNxNU1mdWNrdG9WSEZhQ3hPd2dPXzZWU0RxcGhXRGtNZFA3THljMXhjMkZILXRmYkhENUZjTXR2Z2xvdW5qS0E?oc=5",
+     "source": "Bavarian Football Works",
+     "sources": [
+      "Bavarian Football Works",
+      "Goal.com",
+      "Liverpool FC",
+      "Liverpool.com",
+      "This Is Anfield"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T03:45+05:30",
+     "score": 5.57,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Bavarian Football Works",
+       "title": "Three things Jürgen Klopp changed to make Germany DOMINATE Serbia",
+       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLWpqRGRVODhMdU5qZnAyQW9CTnVmSHRiMXBfMEVSd2xTNE5WLVVmdExrN25YS0p1Z2pEV0pzZzA2QldIWm9DaXcwZmFubFBaOXBQWEJpSUExdmFNdGpTNWVCcnNyYnJuVVcwYzJRVUZ2MVBjd3g1b2JiZk5RdkdWTG1OZGJRX1lva2hEWEViYVc3MDhqVDJHME1zcC1WV0Q0MVRqTFpwNlBPU05Ma3RLenhKV2dNc3N0eDg1WUoyNmxzRE1GNzdSS2ktYmhqQWhOQmxGR0liODNxNU1mdWNrdG9WSEZhQ3hPd2dPXzZWU0RxcGhXRGtNZFA3THljMXhjMkZILXRmYkhENUZjTXR2Z2xvdW5qS0E?oc=5",
+       "publishedAt": "2026-11-15T03:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Germany remain third in Group B behind Netherlands and Greece despite Nations League victory over Serbia",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQTBxX2NYcXlRV1VaUHg0Vl8wbTUzakJlQ0ZFOERLWTY3eFNURkZqOTF1cnpuWkk5WmN2S1V3ejVVd3dhS1hsMkE4Uk95eWxwUE4wRmZZRmZkS3plbXo1Zk52UVVMLUpMRUZnejlibjhtRHVVRnNNbFZ1ZUFISk9vYkswOWNXOHd3N2dLNFNSdGFad2Z4ZGNRbzU5SFpZVzYwYkVVZVVWVWJGeTRQaHRUNnJOSW9ObXFnSWNZUUFFbFg4cmJmU0lObm54RUdHQXQzZ2xPRE00bw?oc=5",
+     "source": "Bavarian Football Works",
+     "sources": [
+      "BBC",
+      "Bavarian Football Works",
+      "ESPN India",
+      "Sportstar",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T02:45+05:30",
+     "score": 5.42,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Bavarian Football Works",
+       "title": "Germany remain third in Group B behind Netherlands and Greece despite Nations League victory over Serbia",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQTBxX2NYcXlRV1VaUHg0Vl8wbTUzakJlQ0ZFOERLWTY3eFNURkZqOTF1cnpuWkk5WmN2S1V3ejVVd3dhS1hsMkE4Uk95eWxwUE4wRmZZRmZkS3plbXo1Zk52UVVMLUpMRUZnejlibjhtRHVVRnNNbFZ1ZUFISk9vYkswOWNXOHd3N2dLNFNSdGFad2Z4ZGNRbzU5SFpZVzYwYkVVZVVWVWJGeTRQaHRUNnJOSW9ObXFnSWNZUUFFbFg4cmJmU0lObm54RUdHQXQzZ2xPRE00bw?oc=5",
+       "publishedAt": "2026-11-15T02:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Itllu Arjuna Box Office Collection Day 2",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0FudlZoaXdkdUhFLUx2RGlyblpDSmMxMlNURmtvZ3hVemdPM215UE16c0lTNmliZjZGckZMcWhiMTY4NFZaSUxDOFkzUWxLOHYzeW1FRTROSXE5TzgxMF9DZTFTX1YwYXlDWTItNGlyVnRoa1JYTWlYbWM0SUJqS2pRT1pyUQ?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Gulte",
+      "Sacnilk",
+      "The Hindu",
+      "The Times of India",
+      "Tupaki English"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-15T01:33+05:30",
+     "score": 5.33,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Itllu Arjuna Box Office Collection Day 2",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0FudlZoaXdkdUhFLUx2RGlyblpDSmMxMlNURmtvZ3hVemdPM215UE16c0lTNmliZjZGckZMcWhiMTY4NFZaSUxDOFkzUWxLOHYzeW1FRTROSXE5TzgxMF9DZTFTX1YwYXlDWTItNGlyVnRoa1JYTWlYbWM0SUJqS2pRT1pyUQ?oc=5",
+       "publishedAt": "2026-11-15T01:33+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-15T05:00+05:30",
    "generatedAt": "2026-11-15T05:04+05:30",
