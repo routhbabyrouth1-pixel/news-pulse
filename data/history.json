@@ -1,6 +1,147 @@
 {
- "updated": "2026-11-16T08:24+05:30",
+ "updated": "2026-11-16T09:38+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T09:00+05:30",
+   "generatedAt": "2026-11-16T09:38+05:30",
+   "feeds": 16,
+   "headlines": 182,
+   "stories": [
+    {
+     "title": "Horoscope Today: November 16, 2026",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zZThpaDRVOHU1bmpaNUFZWEwxMk96Unp4WmgyMXFUVlA0X2UxV2wtTkRVeFNVNjNVdlZXc182Rlg3dzUyR19XN3czX3RzSjVJZ0JNUjF3YUE5YVp3M1d2NU1DZVgzVnJ4RjRzU3dn?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "Dainik Jagran MP CG",
+      "Deccan Herald",
+      "ETV Bharat",
+      "Grazia",
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Toronto Star",
+      "Vogue India"
+     ],
+     "sourceCount": 14,
+     "publishedAt": "2026-11-16T06:00+05:30",
+     "score": 14.58,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 16, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zZThpaDRVOHU1bmpaNUFZWEwxMk96Unp4WmgyMXFUVlA0X2UxV2wtTkRVeFNVNjNVdlZXc182Rlg3dzUyR19XN3czX3RzSjVJZ0JNUjF3YUE5YVp3M1d2NU1DZVgzVnJ4RjRzU3dn?oc=5",
+       "publishedAt": "2026-11-16T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "PM Modi to attend Asean, East Asia summits in Manila; what's on agenda",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSXA0aEpEUGljSHZYSGZ4RUxkOVV5OHVuTTVuWndwdDZ0TlRJY3pMU1ZtVkJnQkZZUElRbFIydzlHcXVYN1puOWxPNEktWl80SnNpaExtU1ZaOFpZS2x5dGFNc3pBaVVQTktDblZTNFhjMl9WRXZmeDM5LUJrNVdvNGpTdlJkaGR2WjdCeUVUbG9UZXJGeEY2OTI5NTNGN2ZvdDlkV2xnV3lGRl9RNkZKb0c5VDlzZGhSU3B1SkxobHpPREFyVy11TmlGRFVxcURI?oc=5",
+     "source": "The Times of India",
+     "sources": [
+      "Hindustan Times",
+      "Jagran Josh",
+      "PM India",
+      "The Hindu",
+      "The Times of India",
+      "The Tribune"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T07:00+05:30",
+     "score": 8.06,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Times of India",
+       "title": "PM Modi to attend Asean, East Asia summits in Manila; what's on agenda",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSXA0aEpEUGljSHZYSGZ4RUxkOVV5OHVuTTVuWndwdDZ0TlRJY3pMU1ZtVkJnQkZZUElRbFIydzlHcXVYN1puOWxPNEktWl80SnNpaExtU1ZaOFpZS2x5dGFNc3pBaVVQTktDblZTNFhjMl9WRXZmeDM5LUJrNVdvNGpTdlJkaGR2WjdCeUVUbG9UZXJGeEY2OTI5NTNGN2ZvdDlkV2xnV3lGRl9RNkZKb0c5VDlzZGhSU3B1SkxobHpPREFyVy11TmlGRFVxcURI?oc=5",
+       "publishedAt": "2026-11-16T07:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Jensen Huang Eyes Comeback As Nvidia CEO, Allies Form 'War Room': Report",
+     "link": "https://www.ndtv.com/world-news/jensen-huang-eyes-comeback-as-nvidia-ceo-allies-form-war-room-report-12331461#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "CNBC",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Guardian",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T08:20+05:30",
+     "score": 7.28,
+     "summary": "The report comes days after the FT reported that Nvidia's board had approached British chipmaker Arm Holdings CEO Rene Haas to find new CEO.",
+     "image": "https://c.ndtvimg.com/2026-11/s0l519uk_jensen-huang-reuters_625x300_16_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Jensen Huang Eyes Comeback As Nvidia CEO, Allies Form 'War Room': Report",
+       "link": "https://www.ndtv.com/world-news/jensen-huang-eyes-comeback-as-nvidia-ceo-allies-form-war-room-report-12331461#publisher=newsstand",
+       "publishedAt": "2026-11-16T08:20+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Apple launches an AI health tool as part of a research study",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRENhOV9sbFBJdS1ZM1ZCRU1HOXAwcVhZdEkwOXphREo4dU1IdnBmeHVnaTIzQW1KYjMwN1VRV3RfUXh5SzBoT19xVV9RdnFVWk9fTnd1WFhyVjVWMkNzN1ZBa2xNVFYzbm9Kc0VzallGVFYybnNodjAzRTRWSmQ5RjVnc3ppRzJEaWpZdmQtTkVnY3RMUWswUDVR0gGfAUFVX3lxTE1ySlpWclhiWV9zQnc2dUxfcG9xeHZQMGZWRnhsSTc2dG1qMXJnSjNPeDg4TE9WaVk2aGoxVEFWX2ttamhyRnYxMlZrS0xyRkthSjRDdzRVRG1RZTRVOXp1Y1FVbEJEQ0xHQzV3SkhXX0d3SF9VQUxKNGxFNzNCLXNmUng2TkUzRjhVLUVJYXpNTWNPbVlVeVRQOThnQ2dWVQ?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "sources": [
+      "ABC News - Breaking News, Latest News and Videos",
+      "Apple",
+      "Fierce Healthcare",
+      "STAT",
+      "TechCrunch"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T07:14+05:30",
+     "score": 7.1,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "ABC News - Breaking News, Latest News and Videos",
+       "title": "Apple launches an AI health tool as part of a research study",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRENhOV9sbFBJdS1ZM1ZCRU1HOXAwcVhZdEkwOXphREo4dU1IdnBmeHVnaTIzQW1KYjMwN1VRV3RfUXh5SzBoT19xVV9RdnFVWk9fTnd1WFhyVjVWMkNzN1ZBa2xNVFYzbm9Kc0VzallGVFYybnNodjAzRTRWSmQ5RjVnc3ppRzJEaWpZdmQtTkVnY3RMUWswUDVR0gGfAUFVX3lxTE1ySlpWclhiWV9zQnc2dUxfcG9xeHZQMGZWRnhsSTc2dG1qMXJnSjNPeDg4TE9WaVk2aGoxVEFWX2ttamhyRnYxMlZrS0xyRkthSjRDdzRVRG1RZTRVOXp1Y1FVbEJEQ0xHQzV3SkhXX0d3SF9VQUxKNGxFNzNCLXNmUng2TkUzRjhVLUVJYXpNTWNPbVlVeVRQOThnQ2dWVQ?oc=5",
+       "publishedAt": "2026-11-16T07:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1RucjZ4VXNEU1dsQXR0QVJlTXlwM2dVSmM3d0VxdjFsZU8tbE9hT01qVXVjVHlWWWV3Rk9jblZlczBwU2NaY2djZ0o4dkxzdkxyN0FnTjk2MEt4X0Y4WktXU2VjaDhDbzdkazVQM044RDhEZlJUaWVQVklyT2xCcVpSdlU?oc=5",
+     "source": "Financial Times",
+     "sources": [
+      "Al Jazeera",
+      "CGTN",
+      "Financial Times",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T07:11+05:30",
+     "score": 7.09,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Financial Times",
+       "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1RucjZ4VXNEU1dsQXR0QVJlTXlwM2dVSmM3d0VxdjFsZU8tbE9hT01qVXVjVHlWWWV3Rk9jblZlczBwU2NaY2djZ0o4dkxzdkxyN0FnTjk2MEt4X0Y4WktXU2VjaDhDbzdkazVQM044RDhEZlJUaWVQVklyT2xCcVpSdlU?oc=5",
+       "publishedAt": "2026-11-16T07:11+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T08:00+05:30",
    "generatedAt": "2026-11-16T08:24+05:30",
