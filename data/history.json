@@ -1,6 +1,208 @@
 {
- "updated": "2026-11-16T17:33+05:30",
+ "updated": "2026-11-16T20:32+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T20:00+05:30",
+   "generatedAt": "2026-11-16T20:32+05:30",
+   "feeds": 17,
+   "headlines": 429,
+   "stories": [
+    {
+     "title": "Belgium’s Romelu Lukaku retires from international football",
+     "link": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "ESPN India",
+      "Sofascore",
+      "Sportstar",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-16T20:05+05:30",
+     "score": 9.67,
+     "summary": "Lukaku is Belgium's all-time leading goalscorer with 94 goals in 135 games and is fifth on men's all-time scoring list.",
+     "image": "https://images.indianexpress.com/2026/11/Lukaku-retires.jpg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Belgium’s Romelu Lukaku retires from international football",
+       "link": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
+       "publishedAt": "2026-11-16T20:05+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Belgium’s Romelu Lukaku retires from international football",
+       "link": "https://indianexpress.com/article/sports/football/belgiums-romelu-lukaku-retires-from-international-football-10965455/",
+       "publishedAt": "2026-11-16T17:18+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Lukaku retires as Belgium's highest goalscorer with 94 goals in 135 appearances",
+       "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/its-been-a-wonderful-ride-belgiums-highest-goalscorer-romelu-lukaku-retires-from-international-duty-at-33/articleshow/135884114.cms",
+       "publishedAt": "2026-11-16T17:02+05:30"
+      },
+      {
+       "source": "Sofascore",
+       "title": "Romelu Lukaku Retires: 94 Goals and a Bitter Belgium Farewell",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjQ1T0FBR0JMX3BWX1NWdk51dGdMdXQ5eGdyX08zbFFpYmUtbHk5RHVwanZBdDFITUVSNFBzSVdNaUtod2pydnRFZVpLU2V4V1ZHdE5FaVRwU2U3MXptRFFCbGxrUDVPb1FndmRtTjB5MDQ4TEZqN0N0bFFaYjYybl9NZlFpdWRoWXJmZEhQUmJCMmxlWHFpRA?oc=5",
+       "publishedAt": "2026-11-16T17:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Today News Headlines for School Assembly, November 17, 2026: Russia, US and China to hold trilateral summit, Jay Shah reelected ICC chair",
+     "link": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-november-17-2026-china-us-russia-to-hold-their-first-trilateral-summit-on-november-19-10965249/",
+     "source": "The Indian Express",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "ESPN India",
+      "ICC",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-16T17:18+05:30",
+     "score": 8.96,
+     "summary": "In a unanimous decision, Jay Shah has been reappointed as ICC Chair for a second term at the helm of world cricket. His new tenure will coincide with cricket's return to the Olympics at Los Angeles 2028. The BCCI hailed his contributions to the game, including the landmark launch of the Women's Premier League. Shah's second term comes at a crucial time as cricket looks to expand its footprint in emerging markets and…",
+     "image": "https://images.indianexpress.com/2026/11/Today-News-Headlines-for-School-Assembly-November-17-2026.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Today News Headlines for School Assembly, November 17, 2026: Russia, US and China to hold trilateral summit, Jay Shah reelected ICC chair",
+       "link": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-november-17-2026-china-us-russia-to-hold-their-first-trilateral-summit-on-november-19-10965249/",
+       "publishedAt": "2026-11-16T17:00+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Jay Shah reappointed as ICC Chair; BCCI hails leadership ahead of cricket's Oly return",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/jay-shah-gets-second-term-as-icc-chair-bcci-hails-leadership-as-cricket-prepares-for-olympic-return/articleshow/135886162.cms",
+       "publishedAt": "2026-11-16T16:54+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "Jay Shah re-elected as ICC Chair",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVdRSDlWRnZxMENNNXBQcHlaZXhwVGpmLXVrRVhWeFNjWnVFcDZrTmVoWnExZzFCWnR6NjhsRXdIWHJjeGxudUVkMGpEMTN5T3JJUWxtZE1DelZnMVRya3VDTWk4YXhSejl2ODM5ZlE4TkFjSndwN3VGMWpkOTMxcktYVjlXRVdIM05yc09oWEZ5aFNvRkhpVFpSNGJUNzY4R0M1SDYtemR3QUFyOGc?oc=5",
+       "publishedAt": "2026-11-16T17:18+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Teja Sajja gets engaged to US-based Mourya in Hyderabad; Chiranjeevi, Nani attend",
+     "link": "https://indianexpress.com/article/entertainment/telugu/teja-sajja-gets-engaged-to-us-based-mourya-in-hyderabad-chiranjeevi-nani-attend-10965469/",
+     "source": "The Indian Express",
+     "sources": [
+      "Deccan Chronicle",
+      "Filmfare",
+      "Hindustan Times",
+      "NDTV",
+      "The Economic Times",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-16T18:47+05:30",
+     "score": 8.21,
+     "summary": "",
+     "image": "https://images.indianexpress.com/2026/11/Teja-Sajja-engagement-wedding.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Teja Sajja gets engaged to US-based Mourya in Hyderabad; Chiranjeevi, Nani attend",
+       "link": "https://indianexpress.com/article/entertainment/telugu/teja-sajja-gets-engaged-to-us-based-mourya-in-hyderabad-chiranjeevi-nani-attend-10965469/",
+       "publishedAt": "2026-11-16T18:47+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "HanuMan Actor Teja Sajja Gets Engaged In Intimate Ceremony In Hyderabad, See Pics",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeDNvNzRKQlJXY2FsRFY4anNpSV9CRHl2QnFKTTB2ZndBV3ZDMmtRUHBuTEREUTNFSkpyTkpKeXR1eU96ZGhmVHJDT2tlcWF3Q1paaFVzdFFBdlBoMThWS2dweVBQeWJZVGxTNU45TzlxWlZwVWs4OFF6ckNENmx1S3BPVFAxRExvcVlkcUZOX1BaSTlya0hHU3RfdzNsMzh0TmFwX25SbjhwSmVFLTBYckZGZ3lZcEFsaVJ6emtxcmlGZ9IBygFBVV95cUxPT2pDRE9aVXA0MjI3MkVVekJ2c195Nzc2Zml1YTdtZDAwZHhTaU5pamtEdUJrMEJsNGZDNnVkbjcwMnRjZDJxNnlpb01RaW5oY01TQ1h3VDdmNjdXcVB6NUgydzJ4aWhJc0dKLUdHbU9kbDRJMWg2cDRjcFU3Uy0zNHBmZnhOZUJHOWw1Q2Jzbk1oX2tZLUxYSWs2djBmYlBFeC1oWnpac29TSGFuWXpDdHJfY0ZvcmFxazlJbFZQbGplbmhiR2R6VUlR?oc=5",
+       "publishedAt": "2026-11-16T17:39+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Teja Sajja engaged to US-based fiancée: Chiranjeevi, Rana Daggubati, Ravi Teja, Nani attend grand ceremony in Hyderabad | Hindustan Times",
+       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZEJQZC14QlpfY2cwRVdsMHFFQ0lyTnM3cHpVR2ozdTdjbVpubTNzQWpXTTJCdDZOV1BUTy1SQ0h0TVpOZXFaeWtBR1lOb0RNYldUS3pOcG1Zb2hsYUhyTWZ3VVhjZWt6SVhUdzJCdGFVemZCMnAzMDc3VUhCUDFwbW0xNDlLdlJEdFQzLUdMQ3hKYjdGazNDLWE3bDdpZG5UTVBzcFM1UEdHTkx5RGdCX2gzWjRyVlA3bVcxOHN5Y3ZITGF1S2dxb3djN3BYOExXb2hDeUlXbnNDWkUxNTJ5UTZyLTMwWFNTVFYzeDdkeVhkYTBsbkFRNm5wcDdldUlUdXhDcDZtOU93dDhldTEydGxUMTZmZmt5aVJwVF9RbDHSAaYCQVVfeXFMT1JvckpKd3pHOU9YallzcnVwcWdmTHI2bnUxdlRjTXV4M0tjUFoxVU5CZElqRVRNUTl5RXB5MF9kYU5VMHktSnc2bjh4NFN1SkowMzNUSDNCRDJfck96ZEdUSklFUDRzck1GYldDQVk0Mzc1eEFtZGRqRnN2UEpCQnhfSUhDTlp1WFp1X2NBMzdPdkUxa3VfMU83NXM3dmtMWW9lZWJGZFQtaHFVa2ktdG1YZGF2dFhzWnlDZDNERnFVNFRkcnlNMF9vWWs0OGxMUmt2WTd1RjVYWGJfdVI3WFBHRU9BdG5FVmlmRHRVa0d0UEZtWmlJcEptSFFFTkJhazRVdVVRc0hJT1NNUXc3QVJZQTk3VkdDVVpHUmNKeUljdnlSQUpB?oc=5",
+       "publishedAt": "2026-11-16T17:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sonu Sood meets Josh actor Sharad Kapoor after his appeal for work, watch video",
+     "link": "https://indianexpress.com/article/entertainment/bollywood/sonu-sood-meets-shah-rukh-khans-josh-co-star-sharad-kapoor-after-his-appeal-for-work-10965092/",
+     "source": "The Indian Express",
+     "sources": [
+      "NDTV",
+      "Rediff",
+      "Telegraph India",
+      "The Economic Times",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T16:52+05:30",
+     "score": 7.89,
+     "summary": "",
+     "image": "https://images.indianexpress.com/2026/11/sonu-sood.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Sonu Sood meets Josh actor Sharad Kapoor after his appeal for work, watch video",
+       "link": "https://indianexpress.com/article/entertainment/bollywood/sonu-sood-meets-shah-rukh-khans-josh-co-star-sharad-kapoor-after-his-appeal-for-work-10965092/",
+       "publishedAt": "2026-11-16T14:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Sonu Sood meets 'Josh' actor Sharad Kapoor amid his health struggles a day after he said, 'Money is not t",
+       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQS0VNd0ptaDQtbTBISmV5ZHRKaWxPXzFveExPV29tWkJZVnhJZ3lQMHFJTkxOOUtOMzlpS0J2b2toeGZFZklRZTJqTFVXNmN5bldfX0JlMnRKUEl6QnZkVGhPWjUyWW82Y3N1VTdVdjJSZzdNNTBkZy1ndktPVnZpZ1lta1plX1gyRTk5S0FiY2puOUl1dzlJbmNrNGIxcXlMMkZxbTVwZG94bTJsNmRIRmhjMkNMSGl3MWdoTDktSzhhR1h5cUdmcXUxdGRXUTlCR1VBdDdhekRfdmkwb1dhaEhkNDBudThTLXItVW16M1c4bHVUWkFhR3FsSGlkRzNRaUV3WjdhbVdjYjJEaVhQcUZfaEhKelBBZnlsOXYxT2FOcFRvM2JzeEJsYno1SE1rQzgyc0pWLS0zLWNIZ0xOWDlPTm1rQWtacXRMTW1BNjZGOFlieVE?oc=5",
+       "publishedAt": "2026-11-16T16:52+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Sonu Sood Meets Sharad Kapoor After Josh Actor Appeals For Financial Help In Viral Video",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTUdtZS1LLUhzNHlzeU5oUm5TSFpqclRPMmx3TTN0d1dFLUpxeVdEZ0E2akZLZElzbzVCbVhsNExpWnNSdDFNV3FtWE93LWpOeENDUWJGWVZQUGhEN1VzMXN3NU5DMHZmM1IweEg2cDJYakFxWWxlMktLcV81dURWUVMzeFVLMDI4cXhDTUI5WGVTSkJ3WTRFSU0tX3BJTmVnbkMxMTdwS25SMjBYaHd2d2xXYno4YUtKX3UzVThtaDA5UE3SAcsBQVVfeXFMUEtSTjFkRDJrbzRveUJxVUcyWkYwR01yRTNUVlFOdUdQbzQ2cENfanRVQmNhYkFlUGtYR3QxWmVKS1lsVHN3cUdDSUhkSHZvMGFfMTJ5NC1GNE9DaF9vSldua1JueDg0YldCS2xLUW0tWWpBQ2plRXIyOWQxbkdHbW8xRkZVYlpVN0NKWmF5ZHU5UkZnd0NRNTYxSnVqXzE3d0hFTU9zM2VnUjRxZ2NqVE91X3B3WEZ5QURPUE1sQ0dGd2I1SFR5bkwxbnM?oc=5",
+       "publishedAt": "2026-11-16T14:57+05:30"
+      }
+     ]
+    },
+    {
+     "title": "IPL 2027: LSG likely to trade Mohammed Shami to Rajasthan Royals for Sam Curran",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-lsg-likely-to-trade-mohammed-shami-to-rajasthan-royals-for-sam-curran/articleshow/135892599.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricinfo",
+      "Inshorts",
+      "Telangana Today",
+      "The News Mill",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T19:54+05:30",
+     "score": 7.4,
+     "summary": "Lucknow Super Giants are in advanced discussions to trade Mohammed Shami to Rajasthan Royals for Sam Curran. Rajasthan Royals paid Rs 2.4 crore for Curran last season, but he did not play due to injury. Shami was previously acquired by LSG for Rs 10 crore from Sunrisers Hyderabad. Additionally, RR has requested left-arm spinner M Siddharth from LSG during negotiations.",
+     "image": "https://static.toiimg.com/photo/msid-135892696,imgsize-92328.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "IPL 2027: LSG likely to trade Mohammed Shami to Rajasthan Royals for Sam Curran",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-lsg-likely-to-trade-mohammed-shami-to-rajasthan-royals-for-sam-curran/articleshow/135892599.cms",
+       "publishedAt": "2026-11-16T19:54+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "LSG set to trade Shami to RR for Sam Curran",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0UxRVROcUNlSHFiWDFNZEpoWTRDMk85Nm1vWXVnVU1WMzRnMHEtdXFINFRHNVhtVWRqYklrUGhnSEpJM2tQQlp4Y3NMY2ZZSi1INW5jSDNWMWdTMUFydG95cU9Ca3dRbFVORVZPbHEtcUJ4ZmdwNU5PdmEzQTBXQ1lDSGxycnpIb2I2aU5KelNhYXJhSVHSAacBQVVfeXFMUDdkdnQ0YzNhV2U2ajRvV1dRbjdVUS1MdkpsejJjd3c5QmtuUmx2UDdGUkRrQTFHUW0wSDYteWtTcXR5dk90LXNBV2hxSmt2aEJieWYzb2FuUzlyRGlCd3JyZ0NhRHhDZ0tza3Q1Uk1jSzFJemtKS1NEN0JFdF91WjNlSFloT3ktZjlpUU1qdEFqc2tGN29zMTdpclVnc3BxbFFDU2djTDA?oc=5",
+       "publishedAt": "2026-11-16T18:50+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T17:00+05:30",
    "generatedAt": "2026-11-16T17:33+05:30",
