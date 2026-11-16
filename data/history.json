@@ -1,6 +1,175 @@
 {
- "updated": "2026-11-16T16:09+05:30",
+ "updated": "2026-11-16T17:33+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T17:00+05:30",
+   "generatedAt": "2026-11-16T17:33+05:30",
+   "feeds": 10,
+   "headlines": 331,
+   "stories": [
+    {
+     "title": "Bilkis Bano case: Supreme Court suspends sentence, grants bail to two convicts",
+     "link": "https://www.thehindu.com/news/national/bilkis-bano-case-supreme-court-suspends-sentence-grants-bail-to-two-convicts/article71707334.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T15:49+05:30",
+     "score": 5.71,
+     "summary": "\"Having heard the parties, it suffices to state that the appellants have been incarcerated for a period of more than 17 years, and also the fact remains that one of the appellants has a severe handicap. Certainly, there are issues to be decided in the appeal, both on fact and law,\" says Supreme Court",
+     "image": "https://th-i.thgim.com/public/incoming/p53xtx/article71707346.ece/alternates/LANDSCAPE_1200/PTI01_08_2024_000059B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Bilkis Bano case: Supreme Court suspends sentence, grants bail to two convicts",
+       "link": "https://www.thehindu.com/news/national/bilkis-bano-case-supreme-court-suspends-sentence-grants-bail-to-two-convicts/article71707334.ece",
+       "publishedAt": "2026-11-16T15:49+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Supreme Court suspends life sentences of Bilkis Bano convicts, grants them bail",
+       "link": "https://indianexpress.com/article/legal-news/bilkis-bano-gangrape-gujarat-riots-2002-bail-2-convicts-10965164/",
+       "publishedAt": "2026-11-16T14:27+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Bilkis Bano case: SC suspends sentence, grants bail to 2 convicts",
+       "link": "https://www.hindustantimes.com/india-news/bilkis-bano-case-sc-suspends-sentence-grants-bail-to-2-convicts-101794819237766.html",
+       "publishedAt": "2026-11-16T14:23+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "2 Convicts In Bilkis Bano Case Get Bail From Supreme Court After 17 Years In Jail",
+       "link": "https://www.ndtv.com/india-news/2-convicts-in-bilkis-bano-case-get-bail-from-supreme-court-after-17-year-jail-12332722#publisher=newsstand",
+       "publishedAt": "2026-11-16T13:55+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Bilkis Bano gang-rape case: SC grants bail, suspends life sentence of two convicts",
+       "link": "https://timesofindia.indiatimes.com/india/bilkis-bano-gangrape-case-sc-suspends-life-sentence-of-two-convicts-grants-bail/articleshow/135878052.cms",
+       "publishedAt": "2026-11-16T13:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Lakshmi Venu challenges TVS family settlement, seeks partition of father's assets",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/lakshmi-venu-challenges-tvs-family-settlement-seeks-partition-of-fathers-assets/articleshow/135887382.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "Times of India"
+     ],
+     "sourceCount": 2,
+     "publishedAt": "2026-11-16T17:22+05:30",
+     "score": 2.97,
+     "summary": "TVS Family Dispute: In a partition notice addressed to her father, Lakshmi has asked him to ensure a fair and lawful division of the assets.",
+     "image": "https://static.toiimg.com/photo/msid-135888137,imgsize-88440.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Lakshmi Venu challenges TVS family settlement, seeks partition of father's assets",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/lakshmi-venu-challenges-tvs-family-settlement-seeks-partition-of-fathers-assets/articleshow/135887382.cms",
+       "publishedAt": "2026-11-16T17:22+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "TVS Family Feud Deepens: Lakshmi Venu Seeks Equal Share In Father's Assets",
+       "link": "https://www.ndtv.com/business-news/tvs-family-feud-deepens-lakshmi-venu-seeks-equal-share-in-father-venu-srinivasan-assets-12333132#publisher=newsstand",
+       "publishedAt": "2026-11-16T15:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Belgium’s Romelu Lukaku retires from international football",
+     "link": "https://indianexpress.com/article/sports/football/belgiums-romelu-lukaku-retires-from-international-football-10965455/",
+     "source": "The Indian Express",
+     "sources": [
+      "The Indian Express",
+      "Times of India"
+     ],
+     "sourceCount": 2,
+     "publishedAt": "2026-11-16T17:18+05:30",
+     "score": 2.96,
+     "summary": "Romelu Lukaku has retired from international football at 33, ending a 16-year Belgium career as the country's all-time leading goalscorer with 94 goals in 135 appearances. The Fenerbahçe striker represented Belgium at four World Cups and three European Championships, including their historic third-place finish in 2018. His departure marks the end of an era for Belgium's golden generation.",
+     "image": "https://images.indianexpress.com/2026/11/Lukaku-retires.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Belgium’s Romelu Lukaku retires from international football",
+       "link": "https://indianexpress.com/article/sports/football/belgiums-romelu-lukaku-retires-from-international-football-10965455/",
+       "publishedAt": "2026-11-16T17:18+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Lukaku retires as Belgium's highest goalscorer with 94 goals in 135 appearances",
+       "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/its-been-a-wonderful-ride-belgiums-highest-goalscorer-romelu-lukaku-retires-from-international-duty-at-33/articleshow/135884114.cms",
+       "publishedAt": "2026-11-16T17:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India wants to become the world’s No.1 nation to ensure nobody can dictate terms to us: V-P Radhakrishnan",
+     "link": "https://www.thehindu.com/news/national/india-wants-to-become-worlds-no1-nation-to-ensure-nobody-can-dictate-terms-to-us-vice-president/article71707566.ece",
+     "source": "The Hindu",
+     "sources": [
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 2,
+     "publishedAt": "2026-11-16T16:45+05:30",
+     "score": 2.86,
+     "summary": "C.P. Radhakrishnan said this while addressing a function after inaugurating the new Iconic Tower academic building at the Sri Sri University campus",
+     "image": "https://th-i.thgim.com/public/incoming/mwja8a/article71707591.ece/alternates/LANDSCAPE_1200/PTI09_09_2026_RPT064B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "India wants to become the world’s No.1 nation to ensure nobody can dictate terms to us: V-P Radhakrishnan",
+       "link": "https://www.thehindu.com/news/national/india-wants-to-become-worlds-no1-nation-to-ensure-nobody-can-dictate-terms-to-us-vice-president/article71707566.ece",
+       "publishedAt": "2026-11-16T16:45+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "India aims to be world's No. 1 nation: VP",
+       "link": "https://economictimes.indiatimes.com/news/india/india-wants-to-become-worlds-no-1-nation-to-ensure-nobody-can-dictate-terms-to-us-vice-president/articleshow/135884642.cms",
+       "publishedAt": "2026-11-16T16:15+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Two mass shootings in South Africa leave 17 dead",
+     "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC News",
+      "Times of India"
+     ],
+     "sourceCount": 2,
+     "publishedAt": "2026-11-16T16:27+05:30",
+     "score": 2.82,
+     "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Two mass shootings in South Africa leave 17 dead",
+       "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-16T16:27+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "17 dead as 2 mass shootings rock South Africa within 24 hours",
+       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/17-dead-as-2-mass-shootings-rock-south-africa-within-24-hours/articleshow/135884485.cms",
+       "publishedAt": "2026-11-16T16:20+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T16:00+05:30",
    "generatedAt": "2026-11-16T16:09+05:30",
