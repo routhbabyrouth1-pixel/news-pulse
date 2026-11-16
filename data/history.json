@@ -1,6 +1,181 @@
 {
- "updated": "2026-11-16T22:10+05:30",
+ "updated": "2026-11-16T23:28+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T23:00+05:30",
+   "generatedAt": "2026-11-16T23:28+05:30",
+   "feeds": 16,
+   "headlines": 285,
+   "stories": [
+    {
+     "title": "Robert Pattinson named the new James Bond; actor to take 007 legacy into new era",
+     "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-named-the-new-james-bond-the-batman-star-to-take-the-007-legacy-into-a-new-era-dream-come-true-is-an-understatement/articleshow/135894427.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "Puck",
+      "Rolling Stone",
+      "The Economic Times",
+      "The Guardian",
+      "Times of India",
+      "Variety"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-16T21:06+05:30",
+     "score": 9.1,
+     "summary": "Confirmed at last! Robert Pattinson will embody the legendary role of James Bond, following in Daniel Craig's footsteps. After much speculation, the news comes as the franchise gears up for its 26th film, directed by the acclaimed Denis Villeneuve. Producers express confidence that this new chapter will soar to remarkable heights, leaving audiences thrilled to see how Pattinson will navigate the complex world of 007.",
+     "image": "https://static.toiimg.com/photo/msid-135894636,imgsize-390184.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Robert Pattinson named the new James Bond; actor to take 007 legacy into new era",
+       "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-named-the-new-james-bond-the-batman-star-to-take-the-007-legacy-into-a-new-era-dream-come-true-is-an-understatement/articleshow/135894427.cms",
+       "publishedAt": "2026-11-16T21:06+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Robert Pattinson is the new James Bond",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/robert-pattinson-becomes-seventh-james-bond-from-twilight-heartthrob-to-007-how-he-landed-iconic-role/articleshow/135894440.cms",
+       "publishedAt": "2026-11-16T20:59+05:30"
+      },
+      {
+       "source": "Rolling Stone",
+       "title": "Robert Pattinson Is the Next James Bond",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmhrUFRKY3JhcktiZGdBNFduTUt0Q0N0ZXdQdXJGSWNKcFIxWmRFaGZJLXZfT0JiRkxlcFVKYXpYQXkyNnUta2FuSXRYTjZ5THIxVGVyNGJEZlpIdEFqV0lRXzc1MHNmY0ZaZHh1RUdOR2prNkE3Qm5oM1dWaTJZWjRGU3Q2VXczVmtPYlJZa0VENDM1bFRpMExCNHpGUQ?oc=5",
+       "publishedAt": "2026-11-16T21:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
+     "link": "https://www.thehindu.com/books/sonia-gandhi-memoir-belonging-a-journey-of-love-launch-event/article71708274.ece",
+     "source": "The Hindu",
+     "sources": [
+      "BBC",
+      "Hindustan Times",
+      "Telegraph India",
+      "The Hindu",
+      "The Quint",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-16T22:59+05:30",
+     "score": 8.07,
+     "summary": "Several INDIA bloc leaders, including Samajwadi Party chief Akhilesh Yadav and TMC’s Abhishek Banerjee, Tamil Nadu Chief Minister C. Joseph Vijay and BJP leader Amarinder Singh attended the launch of Sonia Gandhi’s memoir on Monday, November 16",
+     "image": "https://th-i.thgim.com/public/incoming/dbwpbh/article71708539.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%207.37.40%20PM.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
+       "link": "https://www.thehindu.com/books/sonia-gandhi-memoir-belonging-a-journey-of-love-launch-event/article71708274.ece",
+       "publishedAt": "2026-11-16T22:59+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "‘Papa would be proud of you’: Son Rahul Gandhi gets emotional at Sonia’s memoir launch",
+       "link": "https://timesofindia.indiatimes.com/india/papa-would-be-proud-of-you-son-rahul-gandhi-gets-emotional-at-sonias-memoir-launch/articleshow/135895746.cms",
+       "publishedAt": "2026-11-16T22:06+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘My father belonged to her’: Rahul Gandhi’s heartfelt tribute to Sonia Gandhi at memoir launch",
+       "link": "https://www.hindustantimes.com/india-news/rahul-gandhi-tribute-to-sonia-gandhi-at-memoir-launch-rajiv-gandhi-belonged-to-her-101794846053444.html",
+       "publishedAt": "2026-11-16T22:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'I may not return alive': Ex-Pakistan PM Imran Khan seeks urgent medical help",
+     "link": "https://timesofindia.indiatimes.com/world/pakistan/i-may-not-return-alive-imran-khan-asks-courts-for-treatment-says-22-hour-isolation-is-killing-him/articleshow/135893352.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T20:20+05:30",
+     "score": 7.23,
+     "summary": "Imran Khan has appealed to Pakistan's top courts for urgent medical care for himself and his wife. He claims that his health has deteriorated significantly during solitary confinement, where he is held for up to 22 hours daily. Khan alleges that authorities neglected previous court orders regarding his medical treatment and communication with family. He expressed concern for his wife's rapidly declining vision and…",
+     "image": "https://static.toiimg.com/photo/msid-135893397,imgsize-52558.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'I may not return alive': Ex-Pakistan PM Imran Khan seeks urgent medical help",
+       "link": "https://timesofindia.indiatimes.com/world/pakistan/i-may-not-return-alive-imran-khan-asks-courts-for-treatment-says-22-hour-isolation-is-killing-him/articleshow/135893352.cms",
+       "publishedAt": "2026-11-16T20:20+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
+       "link": "https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care?traffic_source=rss",
+       "publishedAt": "2026-11-16T19:15+05:30"
+      }
+     ]
+    },
+    {
+     "title": "From childhood tales to reality: Raichandani lives his India-Pakistan dream",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd19zcWI5MXdwanZxd3RDUUpyWFVMc194NV9YM1Rlc2IyTEpBMF83N00wZ0tXT0xkQmpYOXFCV3FiLVRleFVBZ1BRQlhkTVFxSHd2LVkzOXZnalQ2ajEwc3hLdWlEX2lRS25yZVlLMC1kOGh5RENxc3d3Vy1DWEs0MzdkWnNUbHFiQklDS2FMQnAzUHQtdWZnOVZqT2hRbUJzWHR5Wm9wbm14aU9LMW1DOVNqckhsVmpjR1pwU0l30gHPAUFVX3lxTFBMU3Rha3prR3lueUo1X3Z5alpSSVpGLUpCLW91SUtuS3lDZHRBNlRJUHpvRnBfRjB0OWtlYjdIVXNoWjVkellzNUJLbHB3WUZxNWRUdmpWOTRWRVlXZm0tQS1XY1g1d3U3SzFHLXc5bkUwbDdDNEdGRDNZc0RlNGY4aW13TEd1ZGdkVU0xYW5fSmEwY0pxa3ZOdHY3ekVpS21ySUhldlUzSE9uWGtLa0czYzNHQVpFN05DUzZvenE3Qk8taC1nLVA2ZlhUTks5MA?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "BCCI",
+      "Cricinfo",
+      "Rediff",
+      "Sportstar",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T20:29+05:30",
+     "score": 7.0,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "From childhood tales to reality: Raichandani lives his India-Pakistan dream",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd19zcWI5MXdwanZxd3RDUUpyWFVMc194NV9YM1Rlc2IyTEpBMF83N00wZ0tXT0xkQmpYOXFCV3FiLVRleFVBZ1BRQlhkTVFxSHd2LVkzOXZnalQ2ajEwc3hLdWlEX2lRS25yZVlLMC1kOGh5RENxc3d3Vy1DWEs0MzdkWnNUbHFiQklDS2FMQnAzUHQtdWZnOVZqT2hRbUJzWHR5Wm9wbm14aU9LMW1DOVNqckhsVmpjR1pwU0l30gHPAUFVX3lxTFBMU3Rha3prR3lueUo1X3Z5alpSSVpGLUpCLW91SUtuS3lDZHRBNlRJUHpvRnBfRjB0OWtlYjdIVXNoWjVkellzNUJLbHB3WUZxNWRUdmpWOTRWRVlXZm0tQS1XY1g1d3U3SzFHLXc5bkUwbDdDNEdGRDNZc0RlNGY4aW13TEd1ZGdkVU0xYW5fSmEwY0pxa3ZOdHY3ekVpS21ySUhldlUzSE9uWGtLa0czYzNHQVpFN05DUzZvenE3Qk8taC1nLVA2ZlhUTks5MA?oc=5",
+       "publishedAt": "2026-11-16T20:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Need the Day Off to Play ‘GTA 6’? Xbox and DJ Khaled’s ‘Dr. Xbox’ Have a PTO Excuse Note for You",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMEFVYzN2NWp3aXV4Y1l3czRlNDVmZEh3QzBYU3B6UGZ5X0hzYzVzRUI3U2xhaEFPYXM5NWF0dTRPY2RnVm1HU1kwYXR2OHlzVFJFS3FFVDZYX1lsMWhHMC0ycGRhWl95V0pkd1Q5X2xaZFY5UGFqV051YmVvWC04cjg2eUFvWlppVWc?oc=5",
+     "source": "Variety",
+     "sources": [
+      "Around Prague",
+      "Notebookcheck",
+      "The Guardian",
+      "The Times of India",
+      "TweakTown",
+      "Variety"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T22:05+05:30",
+     "score": 6.82,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Variety",
+       "title": "Need the Day Off to Play ‘GTA 6’? Xbox and DJ Khaled’s ‘Dr. Xbox’ Have a PTO Excuse Note for You",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMEFVYzN2NWp3aXV4Y1l3czRlNDVmZEh3QzBYU3B6UGZ5X0hzYzVzRUI3U2xhaEFPYXM5NWF0dTRPY2RnVm1HU1kwYXR2OHlzVFJFS3FFVDZYX1lsMWhHMC0ycGRhWl95V0pkd1Q5X2xaZFY5UGFqV051YmVvWC04cjg2eUFvWlppVWc?oc=5",
+       "publishedAt": "2026-11-16T22:05+05:30"
+      },
+      {
+       "source": "Notebookcheck",
+       "title": "Xbox is encouraging gamers to take a day off from work to play GTA 6",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnVEeHRyclp1ZXJmSE5kZ29VbVBxNEtXc1FnbUF5cWd2QXFnTFVvODB6azNTbzZNdF9URFdXOFRZazlEZ0YxU2d3WkJVcndGa2VYSUcxSzdaaHlTNTA0XzlxNmxmNkVCd0dIOW9wOVBTV1l5RzF3UEliU3EtN2hqWFJHZEUtTmw2d1ZyRERTQzdjV0VMN0U2a2hwRU12dlFxOEFoQTdaRTlhSk5qNzZvalAwOA?oc=5",
+       "publishedAt": "2026-11-16T19:55+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T22:00+05:30",
    "generatedAt": "2026-11-16T22:10+05:30",
