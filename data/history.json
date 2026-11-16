@@ -1,6 +1,139 @@
 {
- "updated": "2026-11-17T04:15+05:30",
+ "updated": "2026-11-17T05:12+05:30",
  "hours": [
+  {
+   "hour": "2026-11-17T05:00+05:30",
+   "generatedAt": "2026-11-17T05:12+05:30",
+   "feeds": 13,
+   "headlines": 130,
+   "stories": [
+    {
+     "title": "LIVE: Cyclone Akvan to develop into severe storm by November 17 evening; heavy rain to batter Andhra, Tamil Nadu, Bengal",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjI?oc=5",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Rediff",
+      "Telegraph India",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T03:36+05:30",
+     "score": 7.23,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "LIVE: Cyclone Akvan to develop into severe storm by November 17 evening; heavy rain to batter Andhra, Tamil Nadu, Bengal",
+       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjI?oc=5",
+       "publishedAt": "2026-11-17T03:36+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Exclusive | Cyber Startup Corma Raises $125 Million for Defensive AI Agents",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2ZsNi15QXlUaXlMV3VCQzR3aTRlRmc5OEJSTW1fYkpaek92VFhUT2k1UGFfOGIwOEJmRlBSbGI0bktSTXAtUVdCcDBpZmVfbFlseVdOdWhxT21kU09iRDV3bjJjSmo4ZENaUElycXhsZ1ZOZ29PYmpLOHdaS21mRlhaQXlMemhXVHVIZmlhMllYVjdKWDFuRFVpOEhrdVU1RTZodWZrV0o3NzdQSFE?oc=5",
+     "source": "WSJ",
+     "sources": [
+      "Business Wire",
+      "CTech",
+      "PYMNTS.com",
+      "Unite.AI",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T04:45+05:30",
+     "score": 5.95,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "WSJ",
+       "title": "Exclusive | Cyber Startup Corma Raises $125 Million for Defensive AI Agents",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2ZsNi15QXlUaXlMV3VCQzR3aTRlRmc5OEJSTW1fYkpaek92VFhUT2k1UGFfOGIwOEJmRlBSbGI0bktSTXAtUVdCcDBpZmVfbFlseVdOdWhxT21kU09iRDV3bjJjSmo4ZENaUElycXhsZ1ZOZ29PYmpLOHdaS21mRlhaQXlMemhXVHVIZmlhMllYVjdKWDFuRFVpOEhrdVU1RTZodWZrV0o3NzdQSFE?oc=5",
+       "publishedAt": "2026-11-17T04:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Adani project stopped after Rs 227 crore wildlife fee cut to Rs 2.27 crore",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU180ejFxZUxPb1RTTTRwZi05MGtkR2x1MTRiQi1weDdMTU45UzUxYXh6OFBzdXhOSXFpZXo4UEhzcHJrVFdaTWdKazAwUVZ1cVBXMFI2TDAtUDN6dTZVOGZvZS1BWWY5VEhUUUZnc2twSGZmMWdCUkhJQ3VXbGY0YlBheDNLOUthWjBMcGx2Sm1mWS1fQ3FvMXhnUG9Eamx5V2dLaXFzQ2wtcllZdWZXb19sSXpnVVljdWZjeF9sONIBxgFBVV95cUxNdEQ2VUZZVXhDems5M3BEWUZab2M4RHdfQzZ6NjJFWGQ2MWNId0V4d01CSUMxYVo5ZVVmdXlObDZRbU5QeU14dUZhY3lUaUhvcExRbTRCd2hlTC1kVU1kSy1YNnd5VEo2bE16UW9rQ1lTTGRaaUo5QzF2eVUtZURhT1lVWENTNmlXV0RNbk1VNXlDQ3dNeWRGNU1BTlJxeGQ0VllDNEtiT1FFNlNSVElsX192WkxOcmJ0aEZmX3U4REdiRFZtUGc?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "BusinessLine",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T02:52+05:30",
+     "score": 5.65,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Adani project stopped after Rs 227 crore wildlife fee cut to Rs 2.27 crore",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU180ejFxZUxPb1RTTTRwZi05MGtkR2x1MTRiQi1weDdMTU45UzUxYXh6OFBzdXhOSXFpZXo4UEhzcHJrVFdaTWdKazAwUVZ1cVBXMFI2TDAtUDN6dTZVOGZvZS1BWWY5VEhUUUZnc2twSGZmMWdCUkhJQ3VXbGY0YlBheDNLOUthWjBMcGx2Sm1mWS1fQ3FvMXhnUG9Eamx5V2dLaXFzQ2wtcllZdWZXb19sSXpnVVljdWZjeF9sONIBxgFBVV95cUxNdEQ2VUZZVXhDems5M3BEWUZab2M4RHdfQzZ6NjJFWGQ2MWNId0V4d01CSUMxYVo5ZVVmdXlObDZRbU5QeU14dUZhY3lUaUhvcExRbTRCd2hlTC1kVU1kSy1YNnd5VEo2bE16UW9rQ1lTTGRaaUo5QzF2eVUtZURhT1lVWENTNmlXV0RNbk1VNXlDQ3dNeWRGNU1BTlJxeGQ0VllDNEtiT1FFNlNSVElsX192WkxOcmJ0aEZmX3U4REdiRFZtUGc?oc=5",
+       "publishedAt": "2026-11-17T02:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "UNICEF: Children make up 35% of Ebola deaths in DR Congo outbreak",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW1takkzV1p6RG9GbUVieTBQcDRGemhyTG96TXpCS2lDdG85d0xDRWJnLU02RGxDX0VVbXlXOWdGV3JIdWQwXzN2ZzM4Y1VfYW5CWjJBcXN5SURuOTFzRTVxNlJoUkY2UVlQTEc3OEJTZTFwMDFKVVdwU1N5TXI0QzVlQ0FKeHRZNTg0MGxSZTE?oc=5",
+     "source": "CIDRAP",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CIDRAP",
+      "The Hindu",
+      "Unicef"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T02:35+05:30",
+     "score": 5.6,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "CIDRAP",
+       "title": "UNICEF: Children make up 35% of Ebola deaths in DR Congo outbreak",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW1takkzV1p6RG9GbUVieTBQcDRGemhyTG96TXpCS2lDdG85d0xDRWJnLU02RGxDX0VVbXlXOWdGV3JIdWQwXzN2ZzM4Y1VfYW5CWjJBcXN5SURuOTFzRTVxNlJoUkY2UVlQTEc3OEJTZTFwMDFKVVdwU1N5TXI0QzVlQ0FKeHRZNTg0MGxSZTE?oc=5",
+       "publishedAt": "2026-11-17T02:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+     "source": "WSJ",
+     "sources": [
+      "CNBC",
+      "Investing.com South Africa",
+      "TradingView",
+      "WSJ",
+      "kalkine.ca"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T02:14+05:30",
+     "score": 5.54,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "WSJ",
+       "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+       "publishedAt": "2026-11-17T02:14+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-17T04:00+05:30",
    "generatedAt": "2026-11-17T04:15+05:30",
