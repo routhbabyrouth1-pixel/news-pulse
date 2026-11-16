@@ -1,6 +1,205 @@
 {
- "updated": "2026-11-16T23:28+05:30",
+ "updated": "2026-11-17T00:23+05:30",
  "hours": [
+  {
+   "hour": "2026-11-17T00:00+05:30",
+   "generatedAt": "2026-11-17T00:23+05:30",
+   "feeds": 16,
+   "headlines": 294,
+   "stories": [
+    {
+     "title": "Robert Pattinson named the new James Bond; actor to take 007 legacy into new era",
+     "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-named-the-new-james-bond-the-batman-star-to-take-the-007-legacy-into-a-new-era-dream-come-true-is-an-understatement/articleshow/135894427.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "Rolling Stone",
+      "The Economic Times",
+      "The Guardian",
+      "Times of India",
+      "Variety",
+      "www.007.com"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-16T21:06+05:30",
+     "score": 8.95,
+     "summary": "Confirmed at last! Robert Pattinson will embody the legendary role of James Bond, following in Daniel Craig's footsteps. After much speculation, the news comes as the franchise gears up for its 26th film, directed by the acclaimed Denis Villeneuve. Producers express confidence that this new chapter will soar to remarkable heights, leaving audiences thrilled to see how Pattinson will navigate the complex world of 007.",
+     "image": "https://static.toiimg.com/photo/msid-135894636,imgsize-390184.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Robert Pattinson named the new James Bond; actor to take 007 legacy into new era",
+       "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-named-the-new-james-bond-the-batman-star-to-take-the-007-legacy-into-a-new-era-dream-come-true-is-an-understatement/articleshow/135894427.cms",
+       "publishedAt": "2026-11-16T21:06+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Robert Pattinson is the new James Bond",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/robert-pattinson-becomes-seventh-james-bond-from-twilight-heartthrob-to-007-how-he-landed-iconic-role/articleshow/135894440.cms",
+       "publishedAt": "2026-11-16T20:59+05:30"
+      },
+      {
+       "source": "Rolling Stone",
+       "title": "Robert Pattinson Is the Next James Bond",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmhrUFRKY3JhcktiZGdBNFduTUt0Q0N0ZXdQdXJGSWNKcFIxWmRFaGZJLXZfT0JiRkxlcFVKYXpYQXkyNnUta2FuSXRYTjZ5THIxVGVyNGJEZlpIdEFqV0lRXzc1MHNmY0ZaZHh1RUdOR2prNkE3Qm5oM1dWaTJZWjRGU3Q2VXczVmtPYlJZa0VENDM1bFRpMExCNHpGUQ?oc=5",
+       "publishedAt": "2026-11-16T21:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump hints at meeting Kim Jong Un in China, says Xi could play role",
+     "link": "https://timesofindia.indiatimes.com/world/us/trump-hints-at-meeting-kim-jong-un-in-china-says-xi-could-play-role/articleshow/135896438.cms",
+     "source": "Times of India",
+     "sources": [
+      "Bloomberg.com",
+      "NDTV",
+      "Reuters",
+      "The Independent",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-16T22:45+05:30",
+     "score": 7.8,
+     "summary": "Donald Trump said he plans to talk about Russia's war in Ukraine during the highly anticipated meeting with Xi and Putin in China.",
+     "image": "https://static.toiimg.com/photo/msid-135896576,imgsize-1179027.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Trump hints at meeting Kim Jong Un in China, says Xi could play role",
+       "link": "https://timesofindia.indiatimes.com/world/us/trump-hints-at-meeting-kim-jong-un-in-china-says-xi-could-play-role/articleshow/135896438.cms",
+       "publishedAt": "2026-11-16T22:21+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Nuclear Talks With Russia, China, Meet With Kim Jong Un: Trump's Asia Agenda",
+       "link": "https://www.ndtv.com/world-news/nuclear-talks-with-russia-china-meet-with-kim-jong-un-trumps-asia-agenda-12335036#publisher=newsstand",
+       "publishedAt": "2026-11-16T20:59+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Trump says he might meet with North Korea's Kim Jong Un in China",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb29EcDdndEN4TW9IeVFRVnVQTV9YVzNZVHUyT0F3aElTeTFQMFU2X05QUXR3c01hVVlrTEotZjVhU3YwNFZuTlUyZDVfM2pTTjNGTHR1Q25GalEtUFByZTFKLUd4TV84UU9vUngxd245SktvQ00tbWNOMDZ0WkRoVDV3OXh6UWxMZ0t3aWVuSC01U2VYclVHX2k1ZnpnTHFTSTh3bw?oc=5",
+       "publishedAt": "2026-11-16T22:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "41-year wait, just 2 series wins: India's difficult Test history in NZ by numbers",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/41-year-wait-just-2-series-wins-indias-difficult-test-history-in-new-zealand-by-numbers/articleshow/135895423.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "Rediff",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T22:00+05:30",
+     "score": 7.35,
+     "summary": "India gears up for an exciting two-match Test series against New Zealand at the picturesque Basin Reserve in Wellington, set to kick off on November 19. With New Zealand’s recent dominance over India, winning their last three encounters, the challenge is steep. India's players, with minimal experience in local conditions, must focus on acclimatization to improve their chances in this revived cricket rivalry.",
+     "image": "https://static.toiimg.com/photo/msid-135895529,imgsize-1445171.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "41-year wait, just 2 series wins: India's difficult Test history in NZ by numbers",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/41-year-wait-just-2-series-wins-indias-difficult-test-history-in-new-zealand-by-numbers/articleshow/135895423.cms",
+       "publishedAt": "2026-11-16T22:00+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "41-year wait, just 2 series wins: India's difficult Test history in New Zealand by numbers",
+       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNT2ZrVTEyYXRJZHR2YlNHemN2c1hueDJpck5uRjNYb1UwcGw1ZU5sbzBCdl9POVZpNDJYSlFrS1ZXTll2dFVVNk9Ib2poRVlucmVLSWxNVGttLU1ZbFJZWWJKQUozZUJneUp4OHdXQWVSMkxPOE5MOHZ4Yk91dGZpVG5LampaOWVpeXZSMFJDdGxtTkdFa2FGTUt3blFzOUt1c2ppaGowM1BjYXpvX2l1S3VqOFVsa0sxbE1tMEVVdzdLYTlDSEl2MkVnaFp5OWJUcnpKYjNhbm1zX2d4TlpobkEwZDNhQ3dVU2poeHhzc2YzUnc5b0g1MDZ1eWc4VU9SQzlIdFU5SzZqSXFrWWtCTUI1aw?oc=5",
+       "publishedAt": "2026-11-16T22:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
+     "link": "https://www.thehindu.com/books/sonia-gandhi-memoir-belonging-a-journey-of-love-launch-event/article71708274.ece",
+     "source": "The Hindu",
+     "sources": [
+      "BBC",
+      "Telegraph India",
+      "The Hindu",
+      "The Quint",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T22:59+05:30",
+     "score": 7.27,
+     "summary": "Several INDIA bloc leaders, including Samajwadi Party chief Akhilesh Yadav and TMC’s Abhishek Banerjee, Tamil Nadu Chief Minister C. Joseph Vijay and BJP leader Amarinder Singh attended the launch of Sonia Gandhi’s memoir on Monday, November 16",
+     "image": "https://th-i.thgim.com/public/incoming/dbwpbh/article71708539.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%207.37.40%20PM.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
+       "link": "https://www.thehindu.com/books/sonia-gandhi-memoir-belonging-a-journey-of-love-launch-event/article71708274.ece",
+       "publishedAt": "2026-11-16T22:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+     "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "Mint",
+      "NDTV",
+      "The Guardian",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T00:00+05:30",
+     "score": 6.94,
+     "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining Silicon Valley heavyweights in backing the reinstatement of the AI figurehead. The US president referred to a tech industry campaign for Huang’s rehabilitation, saying a “big group” of people would like him back.…",
+     "image": "https://i.guim.co.uk/img/media/7f67412f0366dc2ae41bf00eadde0fe0b8e1c6d0/817_89_6141_4914/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=f383d71329a6f68ee1d040041748f913",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+       "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+       "publishedAt": "2026-11-17T00:00+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+       "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-16T23:36+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
+       "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
+       "publishedAt": "2026-11-16T22:54+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "‘Jensen Huang was much more than CEO’: China-based Nvidia engineer says he quit after CEO exit- here is why",
+       "link": "https://www.livemint.com/news/trends/jensen-huang-was-much-more-than-ceo-china-based-nvidia-engineer-says-he-quit-after-ceo-exit-11794848559310.html",
+       "publishedAt": "2026-11-16T22:51+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Trump's \"Beautiful Woman From China\" Remark As He Backs Huang's Nvidia Return",
+       "link": "https://www.ndtv.com/world-news/not-a-bad-idea-donald-trump-on-jensen-huangs-return-to-nvidia-12334873#publisher=newsstand",
+       "publishedAt": "2026-11-16T22:37+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'He learnt a big lesson': Trump 'wouldn't mind' Huang's return as Nvidia CEO",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/he-learnt-a-big-lesson-trump-says-he-wouldnt-mind-if-jensen-huang-gets-reinstated-as-nvidia-ceo/articleshow/135893526.cms",
+       "publishedAt": "2026-11-16T20:37+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T23:00+05:30",
    "generatedAt": "2026-11-16T23:28+05:30",
