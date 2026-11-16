@@ -1,6 +1,174 @@
 {
- "updated": "2026-11-16T20:32+05:30",
+ "updated": "2026-11-16T22:10+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T22:00+05:30",
+   "generatedAt": "2026-11-16T22:10+05:30",
+   "feeds": 16,
+   "headlines": 298,
+   "stories": [
+    {
+     "title": "Robert Pattinson named the new James Bond; actor to take 007 legacy into new era",
+     "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-named-the-new-james-bond-the-batman-star-to-take-the-007-legacy-into-a-new-era-dream-come-true-is-an-understatement/articleshow/135894427.cms",
+     "source": "Times of India",
+     "sources": [
+      "About Amazon",
+      "BBC",
+      "IMDb",
+      "The Economic Times",
+      "The Guardian",
+      "Times of India",
+      "Variety"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-16T21:06+05:30",
+     "score": 9.32,
+     "summary": "Confirmed at last! Robert Pattinson will embody the legendary role of James Bond, following in Daniel Craig's footsteps. After much speculation, the news comes as the franchise gears up for its 26th film, directed by the acclaimed Denis Villeneuve. Producers express confidence that this new chapter will soar to remarkable heights, leaving audiences thrilled to see how Pattinson will navigate the complex world of 007.",
+     "image": "https://static.toiimg.com/photo/msid-135894636,imgsize-390184.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Robert Pattinson named the new James Bond; actor to take 007 legacy into new era",
+       "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-named-the-new-james-bond-the-batman-star-to-take-the-007-legacy-into-a-new-era-dream-come-true-is-an-understatement/articleshow/135894427.cms",
+       "publishedAt": "2026-11-16T21:06+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Robert Pattinson is the new James Bond",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/robert-pattinson-becomes-seventh-james-bond-from-twilight-heartthrob-to-007-how-he-landed-iconic-role/articleshow/135894440.cms",
+       "publishedAt": "2026-11-16T20:59+05:30"
+      },
+      {
+       "source": "About Amazon",
+       "title": "Robert Pattinson is the new James Bond",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazZEWWpXTnBPUTZ6cHZrUjlQQjRJQm41R0Z2M05UaWxPMlBJZi01cDlBVy1ySVJESmZMNjRINWhyQkVwbUxvZExDcE9LNm43THlsZm9jUENHb3EtZFhYQ2ZlS2dFaGJkY3BEUVNBczN1LUdFOEg4dUdsMy0wSFZ3S3RQSlVaYnBNTWxWQ2c2emJrVXN6dW5JNlp2OA?oc=5",
+       "publishedAt": "2026-11-16T20:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘My father belonged to her’: Rahul Gandhi’s heartfelt tribute to Sonia Gandhi at memoir launch",
+     "link": "https://www.hindustantimes.com/india-news/rahul-gandhi-tribute-to-sonia-gandhi-at-memoir-launch-rajiv-gandhi-belonged-to-her-101794846053444.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "BBC",
+      "Deccan Herald",
+      "Hindustan Times",
+      "Telegraph India",
+      "The Hindu",
+      "The Quint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T22:02+05:30",
+     "score": 8.48,
+     "summary": "Rahul Gandhi also narrated how the love story of his parents started at the Varsity restaurant in Cambridge, recalling visiting the same eatery.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/16/1600x900/logo/rahul_1794846161084_VDFI_1794846161345_q7ZD_2f536779-a8ae-45ff-8c21-d42c000d6220_PZA9.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "‘My father belonged to her’: Rahul Gandhi’s heartfelt tribute to Sonia Gandhi at memoir launch",
+       "link": "https://www.hindustantimes.com/india-news/rahul-gandhi-tribute-to-sonia-gandhi-at-memoir-launch-rajiv-gandhi-belonged-to-her-101794846053444.html",
+       "publishedAt": "2026-11-16T22:02+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "‘I was in awe of Indira Gandhi; she was formidable,’ says Sonia Gandhi at launch of her memoir Belonging",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVndpdmtFQkRGLWE5WmFWN3BBT1h6elJDWWRMUklUZ1VQUXdpeW1oX1N4X3JuY0pYTDVmaFJKN2x6UGZEcU1RNzFGWW5WWW1ZQTVNb1p1Q1RHWGRibzdHNnVHVy1uQXJ2V1NBcGpYSXlXLVdNZlZJZnRRWExwcHhrTFdIazdKampJWlJ0OG1zUGUwQ2hDRXFzcHZjQ1JNNGlQUnpPdlRLeFNhUEthVUFVdtIBtwFBVV95cUxQUkhmaElEZFVwQkNUR0llZ1NTNFhqVl9hTmlnY29QbnVJVlRTak13eEtMcTZ0VkVsbDdZd3g0cGVLZnhhMmxITUxSLXB1NXlLVWpBUjMyaGN4SkpSMkV5S2Z2NHZxVS1iUzlmQUxSa2JhQ2NNQV9LTHNfZllxRnpyTmFwVlFlb1R4RHlkdWxCR2h4UnFNOXdpSDczdUJSRTRKTjg1M2JMZDNjSGEwRk00SmxYdWZzMGs?oc=5",
+       "publishedAt": "2026-11-16T19:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'I may not return alive': Ex-Pakistan PM Imran Khan seeks urgent medical help",
+     "link": "https://timesofindia.indiatimes.com/world/pakistan/i-may-not-return-alive-imran-khan-asks-courts-for-treatment-says-22-hour-isolation-is-killing-him/articleshow/135893352.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T20:20+05:30",
+     "score": 7.44,
+     "summary": "Imran Khan has appealed to Pakistan's top courts for urgent medical care for himself and his wife. He claims that his health has deteriorated significantly during solitary confinement, where he is held for up to 22 hours daily. Khan alleges that authorities neglected previous court orders regarding his medical treatment and communication with family. He expressed concern for his wife's rapidly declining vision and…",
+     "image": "https://static.toiimg.com/photo/msid-135893397,imgsize-52558.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'I may not return alive': Ex-Pakistan PM Imran Khan seeks urgent medical help",
+       "link": "https://timesofindia.indiatimes.com/world/pakistan/i-may-not-return-alive-imran-khan-asks-courts-for-treatment-says-22-hour-isolation-is-killing-him/articleshow/135893352.cms",
+       "publishedAt": "2026-11-16T20:20+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
+       "link": "https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care?traffic_source=rss",
+       "publishedAt": "2026-11-16T19:15+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Jay Shah re-elected unopposed as ICC chair after board clears way for bigger IPL",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnJGaVpNaVN5cUJQMV9RTTMtdjdyTEVGTF9wdVlTSEs0YWFSc1poZDA3ekFLbHhpV3FadmtmUUFJcTU5c2hlaks5N0QyWF9fUkY0WkNBczBMWUZrMVI1eTM1Y2lTWHFjOFFxMjhrcmxqZlBJNVQ2N2NWQU81TmVLYUFYV1g5b1dHZnlR?oc=5",
+     "source": "The Guardian",
+     "sources": [
+      "BCCI",
+      "ESPN",
+      "ICC",
+      "The Guardian",
+      "The Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T21:47+05:30",
+     "score": 7.44,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Jay Shah re-elected unopposed as ICC chair after board clears way for bigger IPL",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnJGaVpNaVN5cUJQMV9RTTMtdjdyTEVGTF9wdVlTSEs0YWFSc1poZDA3ekFLbHhpV3FadmtmUUFJcTU5c2hlaks5N0QyWF9fUkY0WkNBczBMWUZrMVI1eTM1Y2lTWHFjOFFxMjhrcmxqZlBJNVQ2N2NWQU81TmVLYUFYV1g5b1dHZnlR?oc=5",
+       "publishedAt": "2026-11-16T21:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Rahul Gandhi, INDIA bloc seek Supreme Court nod to question Election Commission on 48 SIR-related questions",
+     "link": "https://www.hindustantimes.com/india-news/rahul-gandhi-india-bloc-seek-supreme-court-nod-to-question-election-commission-on-48-sir-related-questions-101794837525252.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Bar and Bench",
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T20:57+05:30",
+     "score": 7.3,
+     "summary": "A list of 48 questions submitted by the petitioners seeks details about who ordered the nationwide revision, how key decisions were taken.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/16/1600x900/logo/ANI-20261114178-0_1794839235891_gXFL_1794839249086_Ya5D_7dd25cab-c123-487a-bc51-a2289dde58d5_HLBH.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Rahul Gandhi, INDIA bloc seek Supreme Court nod to question Election Commission on 48 SIR-related questions",
+       "link": "https://www.hindustantimes.com/india-news/rahul-gandhi-india-bloc-seek-supreme-court-nod-to-question-election-commission-on-48-sir-related-questions-101794837525252.html",
+       "publishedAt": "2026-11-16T20:57+05:30"
+      },
+      {
+       "source": "Bar and Bench",
+       "title": "Rahul Gandhi moves Supreme Court to serve 48 interrogatories on Election Commission over SIR",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNczNuUXV0Y0JESnFnVkZfRlg4bzJwMXQ2b3BJUVlpamZPSVdLOGFHay1PdWpLWkJ0eHN2TDRJQWE1WFFNTmpqSHllTnB3QjhxQlBJV1V6U3V2WHg4T3RxbS04UzYtUWVlV0ZHYU1xV0drYXpaX29KMTF3VW14cklaenY0NjVrcUNsVkVTemZLR2NpWHFtWmVFbG1raF9Wb3JHbnk1ck5XUkdhYk1NM3NqWmRON29LX25pNHE4WnJueFVEQ0FMaHFoMGxMWXpPS0s2VUHSAd8BQVVfeXFMTjdGMElrQjR2UGZqQ2N4TEtRcjF2eGgzN04tYWcwU0FENmgtbGlrZXZoU0ZkTndHTEZ0MVZtek9qV0JfbEVMOU9xNThZS0c4Wk9ZWTB6VUR0SEVkM0Q5T2ZIUUVTWHZEQTNyc2owVlJDMmxQLXFzS3Zhb0F2dzFCWTBheVRQei1JUHlwUllQZ3JyNWxvVmtaUGVCakdNUVNycUltaWxXb01uVXVuNEtsREluNkFiZ1pHNGw1dGtGREJfUWdmclJ0MjdKcTQ2M1lyZ09ENWljRDB0MGF1eG1Haw?oc=5",
+       "publishedAt": "2026-11-16T16:13+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T20:00+05:30",
    "generatedAt": "2026-11-16T20:32+05:30",
