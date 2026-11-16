@@ -1,6 +1,221 @@
 {
- "updated": "2026-11-16T09:38+05:30",
+ "updated": "2026-11-16T11:34+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T11:00+05:30",
+   "generatedAt": "2026-11-16T11:34+05:30",
+   "feeds": 17,
+   "headlines": 338,
+   "stories": [
+    {
+     "title": "Jay Shah reappointed ICC Chairman, unopposed",
+     "link": "https://economictimes.indiatimes.com/news/sports/cricket/jay-shah-gets-second-term-as-icc-chairman-without-a-contest/articleshow/135874082.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Cricbuzz",
+      "ESPN",
+      "ICC",
+      "Rediff",
+      "The Economic Times",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-16T10:54+05:30",
+     "score": 10.39,
+     "summary": "The reappointment reflects the Board's confidence in Jay Shah's leadership and ensures continuity at a crucial juncture for the sport, with global expansion, growing fan engagement and commercial development among the key priorities on the ICC's strategic roadmap.",
+     "image": "https://images.indianexpress.com/2026/11/jay-shah-icc_20261116052230.jpg",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Jay Shah reappointed ICC Chairman, unopposed",
+       "link": "https://economictimes.indiatimes.com/news/sports/cricket/jay-shah-gets-second-term-as-icc-chairman-without-a-contest/articleshow/135874082.cms",
+       "publishedAt": "2026-11-16T10:54+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Jay Shah gets second term as ICC chairman, elected unopposed",
+       "link": "https://indianexpress.com/article/sports/cricket/jay-shah-reappointed-icc-chairman-second-term-10964836/",
+       "publishedAt": "2026-11-16T10:53+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Jay Shah reappointed unopposed as ICC chairman for second term",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/jay-shah-reappointed-unopposed-as-icc-chairman-for-second-term/articleshow/135873860.cms",
+       "publishedAt": "2026-11-16T10:42+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "Jay Shah reappointed as ICC's chair for a second term",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2lRc204VXJXcFl0cjcwR0NZMjEyNmdYWG9TX0RUMm5MbmNNb3loYW1CbTFWbzQ0Q3ZkbTROTUFKUTNtdDU5VlppREdhZFVHbjZYNzFzMzQtZHk0c3luSHAzWmFrejZ0YmsyM0JfU2NEVUtJLVlnclduTVJiMnFDWDI4bnpGbUdBaUpCd2JSMEtLaEt2cVpXU1ltWl8yUQ?oc=5",
+       "publishedAt": "2026-11-16T10:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Did Nvidia row led to anti-China stance? US, India sign pact to protect AI supply chain",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/did-nvidia-row-push-for-a-united-anti-china-stance-us-india-sign-accord-to-protect-ai-supply-chain-report/articleshow/135874055.cms",
+     "source": "Times of India",
+     "sources": [
+      "Bloomberg.com",
+      "Business Standard",
+      "Financial Times",
+      "Inshorts",
+      "NDTV",
+      "The Economic Times",
+      "The Times of India",
+      "Times of India",
+      "www.tokenpost.com"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-16T11:19+05:30",
+     "score": 10.26,
+     "summary": "India has officially joined the San Francisco Declaration, aimed at bolstering critical technologies worldwide. With a focus on enhancing AI supply chains amid escalating global tensions, particularly with China, this agreement has gathered support from nations including South Korea and the UAE. The US is also stepping up by providing financial backing for infrastructure and critical mineral recycling, highlighting…",
+     "image": "https://static.toiimg.com/photo/msid-135874515,imgsize-47870.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Did Nvidia row led to anti-China stance? US, India sign pact to protect AI supply chain",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/did-nvidia-row-push-for-a-united-anti-china-stance-us-india-sign-accord-to-protect-ai-supply-chain-report/articleshow/135874055.cms",
+       "publishedAt": "2026-11-16T11:19+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Amid Nvidia Row, India Joins US Push To Secure AI Supply Chains From China: Report",
+       "link": "https://www.ndtv.com/business-news/nvidia-jensen-huang-row-india-joins-us-pact-to-secure-ai-supply-chains-from-china-12331960#publisher=newsstand",
+       "publishedAt": "2026-11-16T10:51+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "India joins US-led pact to secure AI supply chains",
+       "link": "https://economictimes.indiatimes.com/news/india/india-joins-us-led-pact-to-secure-ai-supply-chains-critical-technologies-amid-china-rivalry-report/articleshow/135869598.cms",
+       "publishedAt": "2026-11-16T07:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "The inaugural edition of the Moto Summit Kochi 2026 will take place on November 21 and 22",
+     "link": "https://www.thehindu.com/society/the-inaugural-edition-of-the-moto-summit-kochi-2026-will-take-place-on-november-21-and-22/article71692605.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Vogue India",
+      "YourTango"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-16T10:42+05:30",
+     "score": 10.04,
+     "summary": "Touted as Keralam’s first ultimate motorsports and lifestyle festival, Moto Summit Kochi, will be held at Chakola Mill, Kalamassery",
+     "image": "https://th-i.thgim.com/public/incoming/hm0b2q/article71706827.ece/alternates/LANDSCAPE_1200/Moto%20Summit.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "The inaugural edition of the Moto Summit Kochi 2026 will take place on November 21 and 22",
+       "link": "https://www.thehindu.com/society/the-inaugural-edition-of-the-moto-summit-kochi-2026-will-take-place-on-november-21-and-22/article71692605.ece",
+       "publishedAt": "2026-11-16T10:42+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 16, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zZThpaDRVOHU1bmpaNUFZWEwxMk96Unp4WmgyMXFUVlA0X2UxV2wtTkRVeFNVNjNVdlZXc182Rlg3dzUyR19XN3czX3RzSjVJZ0JNUjF3YUE5YVp3M1d2NU1DZVgzVnJ4RjRzU3dn?oc=5",
+       "publishedAt": "2026-11-16T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thailand: Fire in Phuket building kills 11, videos show massive blaze",
+     "link": "https://indianexpress.com/article/world/thailand-phuket-commercial-shophouse-fire-blaze-patong-beach-dead-injured-10964807/",
+     "source": "The Indian Express",
+     "sources": [
+      "Al Jazeera",
+      "CGTN",
+      "NDTV",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-16T10:24+05:30",
+     "score": 10.02,
+     "summary": "Fire engulfed buildings in Thailand’s popular tourist town of Patong, killing several people and injuring many others.",
+     "image": "https://images.indianexpress.com/2026/11/Thailand-fire-1.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Thailand: Fire in Phuket building kills 11, videos show massive blaze",
+       "link": "https://indianexpress.com/article/world/thailand-phuket-commercial-shophouse-fire-blaze-patong-beach-dead-injured-10964807/",
+       "publishedAt": "2026-11-16T10:24+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Thailand fire: Massive blaze in shophouse kills 11",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/thailands-phuket-shophouse-fire-kills-11-injures-16/articleshow/135873222.cms",
+       "publishedAt": "2026-11-16T10:22+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Video: Massive blaze rips through resort in Thailand's Phuket; 11 killed",
+       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/video-massive-blaze-rips-through-resort-in-thailands-phuket-11-killed/articleshow/135872878.cms",
+       "publishedAt": "2026-11-16T10:05+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Shophouse fire kills at least 11 in Phuket",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss",
+       "publishedAt": "2026-11-16T09:21+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Fire in Phuket shophouse kills 11 injures 16, police say",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmFrVGM0Zk5GUlV1akd3YXZucWd0YUlpem1zQkRVbUtYMGRmZkcwN0hvVlpmX3UxenJhZnBVdGZmTGtKZzhvZFU5cUhabTc0OGVHMVVjbGsxa1pCcnR5YzFqUHVlaDBtcmF1MWtaM3BTV3hCa1hYNTdQRTBkNXQ3LTk3eXhySGtoeDVVV3FDNDBfMTd4b0hOeHFFeWw5YXhZeDR4M1lRcnpxLUU?oc=5",
+       "publishedAt": "2026-11-16T08:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "China confirms first Xi-Trump-Putin summit",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/historic-xi-trump-putin-trilateral-summit-scheduled-for-november-19-in-shenzhen-china/articleshow/135871473.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Al Jazeera",
+      "CNBC",
+      "Financial Times",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T09:04+05:30",
+     "score": 8.08,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "China confirms first Xi-Trump-Putin summit",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/historic-xi-trump-putin-trilateral-summit-scheduled-for-november-19-in-shenzhen-china/articleshow/135871473.cms",
+       "publishedAt": "2026-11-16T09:04+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "China confirms first Xi-Trump-Putin summit on November 19",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTHhNa2J6WGdIWUVjT01BR3ZyOThPX0VIQVAzcmJ5Y2Exb1plT1ZNb0JWT0lrajd1MDZFRE9kbVpiVTNOam9BcEhOeUVFSEQ3RHR1YjRqcTk5SEpOa0VZVVpnSFhUYkpoSDBLRmtzLWhFcnEwY05ka1RzUHhpWGwyV1ZKUHVka1dTcnMtVmdrQ1ZsVUVnMVVHRW5qYk81cEw0RTAwaGtIYVl6WWxGY2IzUDdQblZ5Wm9waDZoYndR0gHEAUFVX3lxTE9YOTNYNDlQYkdoZjJrSE1HUWRFeDMwVmw1Z1JRTjN4eGpQZXhPYjVNNDdXQmVTS015S1AybkhDY1QwWlJlX04wcHBFUmRjRERBVHVReVJTZWZmQ29sWnA0dE1tdk1FWkhpc0o0Y3NoSG5rTlowbV93dTJaZ2lQWWcwMjZmMjhmODhUd2REZUQ3N3RCdF9DNVlGZU1pUU1NVWxjekY0Z3RlRVlTTU9UajRCTlZKQnRYTmo4dl9oSXVUOFdRc0E?oc=5",
+       "publishedAt": "2026-11-16T07:27+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T09:00+05:30",
    "generatedAt": "2026-11-16T09:38+05:30",
