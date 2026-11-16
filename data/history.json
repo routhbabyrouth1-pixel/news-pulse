@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-17T03:17+05:30",
+ "updated": "2026-11-17T04:15+05:30",
  "hours": [
+  {
+   "hour": "2026-11-17T04:00+05:30",
+   "generatedAt": "2026-11-17T04:15+05:30",
+   "feeds": 12,
+   "headlines": 177,
+   "stories": [
+    {
+     "title": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Rediff",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T02:35+05:30",
+     "score": 8.22,
+     "summary": "Andhra fishermen, still awaiting compensation for Cyclone Arnab’s losses, are told to stay ashore till November 20",
+     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/4dag1z/article71707041.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%2012.15.06%20PM.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
+       "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
+       "publishedAt": "2026-11-16T22:34+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "LIVE: Cyclone Akvan to develop into severe storm by November 17 evening; heavy rain to batter Andhra, Tamil Nadu, Bengal",
+       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjI?oc=5",
+       "publishedAt": "2026-11-17T02:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Threat actor use of AI becoming routine, warns Google",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzAxcmw3ZTFnemoxX2Zkb0R4XzhkY25YR19fNDVGZzlQSzJWdVlxSmlnWjdjbTNNVGQ5ZkFwbEp0OG5QVmpjX3VBZDBRTm5NVE90enZfcGE2U1g0MExQTHM3UmFUSXVWeW5TTlJaSEZUOU1fdGsxWkt6YWtxbDlRVGxtSUk2T3J5MURRd0prcnQ5NXFDWm9mUHdlWTFJdTQ?oc=5",
+     "source": "Computer Weekly",
+     "sources": [
+      "Computer Weekly",
+      "Google Cloud",
+      "The Hacker News",
+      "The Next Web",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T02:30+05:30",
+     "score": 5.85,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Computer Weekly",
+       "title": "Threat actor use of AI becoming routine, warns Google",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzAxcmw3ZTFnemoxX2Zkb0R4XzhkY25YR19fNDVGZzlQSzJWdVlxSmlnWjdjbTNNVGQ5ZkFwbEp0OG5QVmpjX3VBZDBRTm5NVE90enZfcGE2U1g0MExQTHM3UmFUSXVWeW5TTlJaSEZUOU1fdGsxWkt6YWtxbDlRVGxtSUk2T3J5MURRd0prcnQ5NXFDWm9mUHdlWTFJdTQ?oc=5",
+       "publishedAt": "2026-11-17T02:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US set to lose measles-free certification",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KUzBfU0tPSFd4emx0bHI1MThnYkItbktrcl8xMmt3bklNcXUxSVhVOWNaSFpJUEdyT2pOT0swcFRRU3hLQmFRUlpmdUtPa2pGQXp1MjlDNzg5Wm9adUhvSndWZVBZdUNyX3RuVkRJNy1WM0w5OF9VMWl3?oc=5",
+     "source": "Medical Xpress",
+     "sources": [
+      "CNN",
+      "Medical Xpress",
+      "Reuters",
+      "The New York Times",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T02:50+05:30",
+     "score": 5.8,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Medical Xpress",
+       "title": "US set to lose measles-free certification",
+       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KUzBfU0tPSFd4emx0bHI1MThnYkItbktrcl8xMmt3bklNcXUxSVhVOWNaSFpJUEdyT2pOT0swcFRRU3hLQmFRUlpmdUtPa2pGQXp1MjlDNzg5Wm9adUhvSndWZVBZdUNyX3RuVkRJNy1WM0w5OF9VMWl3?oc=5",
+       "publishedAt": "2026-11-17T02:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Jay Shah re-elected unopposed as ICC chair after board clears way for bigger IPL",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnJGaVpNaVN5cUJQMV9RTTMtdjdyTEVGTF9wdVlTSEs0YWFSc1poZDA3ekFLbHhpV3FadmtmUUFJcTU5c2hlaks5N0QyWF9fUkY0WkNBczBMWUZrMVI1eTM1Y2lTWHFjOFFxMjhrcmxqZlBJNVQ2N2NWQU81TmVLYUFYV1g5b1dHZnlR?oc=5",
+     "source": "The Guardian",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "ESPN",
+      "ICC",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T23:49+05:30",
+     "score": 5.51,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Jay Shah re-elected unopposed as ICC chair after board clears way for bigger IPL",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnJGaVpNaVN5cUJQMV9RTTMtdjdyTEVGTF9wdVlTSEs0YWFSc1poZDA3ekFLbHhpV3FadmtmUUFJcTU5c2hlaks5N0QyWF9fUkY0WkNBczBMWUZrMVI1eTM1Y2lTWHFjOFFxMjhrcmxqZlBJNVQ2N2NWQU81TmVLYUFYV1g5b1dHZnlR?oc=5",
+       "publishedAt": "2026-11-16T23:49+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Oppo Reno17 launched with 8,000 mAh battery, Snapdragon chipset, and four 50 MP cameras",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXhPUWdMZG8zRElKTHVWbTFzNkJYZGZJeFk2cHlUNFhMYTdpZW1VX1F2cjh2ckNlMnNvUmNFX1puZmVseFBjQkhUTzlnZGE3MWlQS0JsdmdzQVl0bjF5NkVWeExpb25Idms0dXRnTURxNVZWQXNmZWsxaURaNkV2VHAyQWdzNHg3LXdtMXpRZ3lVZEdKTS1oYkd3THpaSG96SjFCTHY4R05SYnRfRzlQV1lQckxPaFp1dGdKb3BDYmtyemhJUDJsb2dB?oc=5",
+     "source": "Notebookcheck",
+     "sources": [
+      "91Mobiles",
+      "FoneArena.com",
+      "GSMArena.com",
+      "India Today",
+      "Notebookcheck"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T23:02+05:30",
+     "score": 5.5,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Notebookcheck",
+       "title": "Oppo Reno17 launched with 8,000 mAh battery, Snapdragon chipset, and four 50 MP cameras",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXhPUWdMZG8zRElKTHVWbTFzNkJYZGZJeFk2cHlUNFhMYTdpZW1VX1F2cjh2ckNlMnNvUmNFX1puZmVseFBjQkhUTzlnZGE3MWlQS0JsdmdzQVl0bjF5NkVWeExpb25Idms0dXRnTURxNVZWQXNmZWsxaURaNkV2VHAyQWdzNHg3LXdtMXpRZ3lVZEdKTS1oYkd3THpaSG96SjFCTHY4R05SYnRfRzlQV1lQckxPaFp1dGdKb3BDYmtyemhJUDJsb2dB?oc=5",
+       "publishedAt": "2026-11-16T23:02+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-17T03:00+05:30",
    "generatedAt": "2026-11-17T03:17+05:30",
