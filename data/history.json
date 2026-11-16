@@ -1,6 +1,148 @@
 {
- "updated": "2026-11-16T05:14+05:30",
+ "updated": "2026-11-16T06:47+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T06:00+05:30",
+   "generatedAt": "2026-11-16T06:47+05:30",
+   "feeds": 16,
+   "headlines": 85,
+   "stories": [
+    {
+     "title": "Those using Form 6 to re-enroll won't be prosecuted: EC to SC",
+     "link": "https://timesofindia.indiatimes.com/india/those-using-form-6-to-re-enroll-wont-be-prosecuted-ec-to-sc/articleshow/135867900.cms",
+     "source": "Times of India",
+     "sources": [
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T04:12+05:30",
+     "score": 8.07,
+     "summary": "The Election Commission has committed to include every eligible citizen in the electoral rolls during the current process. No legal action will be taken against individuals for re-registering to vote through Form 6. Voters are advised to ensure their names are not listed in other constituencies before applying. Additionally, those previously removed erroneously can submit fresh forms for their names to be reinstated.",
+     "image": "https://static.toiimg.com/photo/msid-135867915,imgsize-240300.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Those using Form 6 to re-enroll won't be prosecuted: EC to SC",
+       "link": "https://timesofindia.indiatimes.com/india/those-using-form-6-to-re-enroll-wont-be-prosecuted-ec-to-sc/articleshow/135867900.cms",
+       "publishedAt": "2026-11-16T04:12+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Those using Form 6 to re-enroll won't be prosecuted: EC to SC",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmtBVGlJWl9pSWk3WF91ZGNoUTJXbU9KUzdQa2xCLWFYbndJdTlKbW5YOEdHOWdhUnNUYTJ2ZUNfbnFpQ1lmLWZlNVE3VjlFMk1rdjZhMXAtOGhBdHJ6R0lNZ29WUlFNcWlKc01UZHR6UXM3TzN6X0JFZURIMzVIUEl0bDRpaWhTNlVIckNTUHF3R2o5cWdCckFqLUdTVzEtWmp5Vnp5QVA5WElNRDNPOGh6dS1tY3lEQV9wNTFjTlBVTTVuclE?oc=5",
+       "publishedAt": "2026-11-16T04:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Itllu Arjuna Box Office Collection Day 3",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "IMDb",
+      "NDTV Profit",
+      "Sacnilk",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Tupaki English"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-16T01:32+05:30",
+     "score": 7.19,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Itllu Arjuna Box Office Collection Day 3",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
+       "publishedAt": "2026-11-16T01:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
+     "source": "WSJ",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "The Guardian",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T05:55+05:30",
+     "score": 6.23,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "WSJ",
+       "title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
+       "publishedAt": "2026-11-16T05:55+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFBHRGhFVUVMRGtZTjJ0dXRaZE9JLWY0cEVhMUhMdDRmNzczeVpEaTFKVjVJMjR6RjlidUc1SGJNcWYtNjF2c0M3SE1HY1ZSc1NzeWR5VDRpdUJ4dHBYb2xWSEZKdXdUakdudjRGWC1TYWFTWlE0UW1NQ3JqY1FjOGNvMmlCZlFISGx0Vmg0cWhWYjIwTF9VMFdNSWF0cWV1UWswZS1HWERVVFFoUE5qYVBYNUpIazN5TGtQeG5zbWVMMktUcUZyWXNR?oc=5",
+     "source": "Bloomberg.com",
+     "sources": [
+      "Bloomberg.com",
+      "Forbes",
+      "PhoneArena",
+      "The Mac Observer",
+      "The Verge"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T06:17+05:30",
+     "score": 6.13,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Bloomberg.com",
+       "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFBHRGhFVUVMRGtZTjJ0dXRaZE9JLWY0cEVhMUhMdDRmNzczeVpEaTFKVjVJMjR6RjlidUc1SGJNcWYtNjF2c0M3SE1HY1ZSc1NzeWR5VDRpdUJ4dHBYb2xWSEZKdXdUakdudjRGWC1TYWFTWlE0UW1NQ3JqY1FjOGNvMmlCZlFISGx0Vmg0cWhWYjIwTF9VMFdNSWF0cWV1UWswZS1HWERVVFFoUE5qYVBYNUpIazN5TGtQeG5zbWVMMktUcUZyWXNR?oc=5",
+       "publishedAt": "2026-11-16T06:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUwwOU9GSGNFQi1LQUVnamwzUmNsdGU3SlIzSHVZTVRCQ3phT1NOdWRoZmxGaElGRkRsd0wzb1NPMWZWN21qLTZVcVVKaE90TXJjeUVmb0p6YTF2aE5qeVBteWxaQ3pnbVlWU29nbWh5UlcwNk5Oa09CVGhmRG9vV25fX0xMUmhwbm1FbHQxM19Yb05uRWV5dVo4WDlqdW4xdm9XeC1zTVpjSDZnVWVnZU5MRHFvekVJWkplQUtqQlJSeEZsN2dFTlZYbVhpeVhVMlRYa0s3aw?oc=5",
+     "source": "90.5 WESA",
+     "sources": [
+      "90.5 WESA",
+      "NASA (.gov)",
+      "Phys.org",
+      "Reuters",
+      "www.theweek.in"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T04:11+05:30",
+     "score": 5.61,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "90.5 WESA",
+       "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUwwOU9GSGNFQi1LQUVnamwzUmNsdGU3SlIzSHVZTVRCQ3phT1NOdWRoZmxGaElGRkRsd0wzb1NPMWZWN21qLTZVcVVKaE90TXJjeUVmb0p6YTF2aE5qeVBteWxaQ3pnbVlWU29nbWh5UlcwNk5Oa09CVGhmRG9vV25fX0xMUmhwbm1FbHQxM19Yb05uRWV5dVo4WDlqdW4xdm9XeC1zTVpjSDZnVWVnZU5MRHFvekVJWkplQUtqQlJSeEZsN2dFTlZYbVhpeVhVMlRYa0s3aw?oc=5",
+       "publishedAt": "2026-11-16T04:11+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T05:00+05:30",
    "generatedAt": "2026-11-16T05:14+05:30",
