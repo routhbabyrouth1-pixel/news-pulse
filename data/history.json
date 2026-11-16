@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-17T02:18+05:30",
+ "updated": "2026-11-17T03:17+05:30",
  "hours": [
+  {
+   "hour": "2026-11-17T03:00+05:30",
+   "generatedAt": "2026-11-17T03:17+05:30",
+   "feeds": 12,
+   "headlines": 171,
+   "stories": [
+    {
+     "title": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
+     "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Rediff",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T02:35+05:30",
+     "score": 8.38,
+     "summary": "Andhra fishermen, still awaiting compensation for Cyclone Arnab’s losses, are told to stay ashore till November 20",
+     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/4dag1z/article71707041.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%2012.15.06%20PM.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
+       "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
+       "publishedAt": "2026-11-16T22:34+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "LIVE: Cyclone Akvan to develop into severe storm by November 17 evening; heavy rain to batter Andhra, Tamil Nadu, Bengal",
+       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjI?oc=5",
+       "publishedAt": "2026-11-17T02:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "41-year wait, just 2 series wins: India's difficult Test history in NZ by numbers",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/41-year-wait-just-2-series-wins-indias-difficult-test-history-in-new-zealand-by-numbers/articleshow/135895423.cms",
+     "source": "Times of India",
+     "sources": [
+      "Rediff",
+      "Revsportz",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T22:00+05:30",
+     "score": 6.17,
+     "summary": "India gears up for an exciting two-match Test series against New Zealand at the picturesque Basin Reserve in Wellington, set to kick off on November 19. With New Zealand’s recent dominance over India, winning their last three encounters, the challenge is steep. India's players, with minimal experience in local conditions, must focus on acclimatization to improve their chances in this revived cricket rivalry.",
+     "image": "https://static.toiimg.com/photo/msid-135895529,imgsize-1445171.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "41-year wait, just 2 series wins: India's difficult Test history in NZ by numbers",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/41-year-wait-just-2-series-wins-indias-difficult-test-history-in-new-zealand-by-numbers/articleshow/135895423.cms",
+       "publishedAt": "2026-11-16T22:00+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "41-year wait, just 2 series wins: India's difficult Test history in New Zealand by numbers",
+       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNT2ZrVTEyYXRJZHR2YlNHemN2c1hueDJpck5uRjNYb1UwcGw1ZU5sbzBCdl9POVZpNDJYSlFrS1ZXTll2dFVVNk9Ib2poRVlucmVLSWxNVGttLU1ZbFJZWWJKQUozZUJneUp4OHdXQWVSMkxPOE5MOHZ4Yk91dGZpVG5LampaOWVpeXZSMFJDdGxtTkdFa2FGTUt3blFzOUt1c2ppaGowM1BjYXpvX2l1S3VqOFVsa0sxbE1tMEVVdzdLYTlDSEl2MkVnaFp5OWJUcnpKYjNhbm1zX2d4TlpobkEwZDNhQ3dVU2poeHhzc2YzUnc5b0g1MDZ1eWc4VU9SQzlIdFU5SzZqSXFrWWtCTUI1aw?oc=5",
+       "publishedAt": "2026-11-16T22:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bouma Box Office Collection Day 5",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aOGxNNGJiUGhBVjJrSVJraW1KZFpzUTg2UHBpdmN5dVR0b255R2VEdUxzLVVOTFl5a0xCb0JqTURVQzNUdGU5OGMyam1rbWlJdzNNSzVUX09ZbXVWVXo3WlFVbDV5d1dFcmVEa2luYTZlVXhwUklEZnVwR2w?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "IMDb",
+      "Onmanorama",
+      "Sacnilk",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T00:03+05:30",
+     "score": 5.5,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Bouma Box Office Collection Day 5",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aOGxNNGJiUGhBVjJrSVJraW1KZFpzUTg2UHBpdmN5dVR0b255R2VEdUxzLVVOTFl5a0xCb0JqTURVQzNUdGU5OGMyam1rbWlJdzNNSzVUX09ZbXVWVXo3WlFVbDV5d1dFcmVEa2luYTZlVXhwUklEZnVwR2w?oc=5",
+       "publishedAt": "2026-11-17T00:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Oppo Reno17 launched with 8,000 mAh battery, Snapdragon chipset, and four 50 MP cameras",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXhPUWdMZG8zRElKTHVWbTFzNkJYZGZJeFk2cHlUNFhMYTdpZW1VX1F2cjh2ckNlMnNvUmNFX1puZmVseFBjQkhUTzlnZGE3MWlQS0JsdmdzQVl0bjF5NkVWeExpb25Idms0dXRnTURxNVZWQXNmZWsxaURaNkV2VHAyQWdzNHg3LXdtMXpRZ3lVZEdKTS1oYkd3THpaSG96SjFCTHY4R05SYnRfRzlQV1lQckxPaFp1dGdKb3BDYmtyemhJUDJsb2dB?oc=5",
+     "source": "Notebookcheck",
+     "sources": [
+      "91Mobiles",
+      "FoneArena.com",
+      "GSMArena.com",
+      "India Today",
+      "Notebookcheck"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T23:02+05:30",
+     "score": 5.36,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Notebookcheck",
+       "title": "Oppo Reno17 launched with 8,000 mAh battery, Snapdragon chipset, and four 50 MP cameras",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXhPUWdMZG8zRElKTHVWbTFzNkJYZGZJeFk2cHlUNFhMYTdpZW1VX1F2cjh2ckNlMnNvUmNFX1puZmVseFBjQkhUTzlnZGE3MWlQS0JsdmdzQVl0bjF5NkVWeExpb25Idms0dXRnTURxNVZWQXNmZWsxaURaNkV2VHAyQWdzNHg3LXdtMXpRZ3lVZEdKTS1oYkd3THpaSG96SjFCTHY4R05SYnRfRzlQV1lQckxPaFp1dGdKb3BDYmtyemhJUDJsb2dB?oc=5",
+       "publishedAt": "2026-11-16T23:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+     "link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+     "source": "The Guardian",
+     "sources": [
+      "NDTV",
+      "The Guardian"
+     ],
+     "sourceCount": 2,
+     "publishedAt": "2026-11-17T02:43+05:30",
+     "score": 2.9,
+     "summary": "The US president oscillates between strike threats on Iran and insisting the war ‘militarily is effectively over’ A third US aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a dramatic show of military might as Donald Trump keeps his options open for next steps in the Iran war. The USS Theodore Roosevelt brings thousands of additional troops to the…",
+     "image": "https://i.guim.co.uk/img/media/f8920d7c62e46771a24c52857d1e30a2b7a5ef2d/494_0_4935_3948/master/4935.jpg?width=140&quality=85&auto=format&fit=max&s=e5f5afca13cfe9bfc8bbfadae70fd1db",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+       "link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+       "publishedAt": "2026-11-17T02:43+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "3 US Aircraft Carriers Operating In Middle East",
+       "link": "https://www.ndtv.com/world-news/3-us-aircraft-carriers-operating-in-middle-east-12335914#publisher=newsstand",
+       "publishedAt": "2026-11-17T01:41+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-17T02:00+05:30",
    "generatedAt": "2026-11-17T02:18+05:30",
