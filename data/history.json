@@ -1,6 +1,160 @@
 {
- "updated": "2026-11-16T06:47+05:30",
+ "updated": "2026-11-16T08:24+05:30",
  "hours": [
+  {
+   "hour": "2026-11-16T08:00+05:30",
+   "generatedAt": "2026-11-16T08:24+05:30",
+   "feeds": 16,
+   "headlines": 118,
+   "stories": [
+    {
+     "title": "Trade, Indo-Pacific in focus as PM Modi heads to Manila for Asean, Quad summits",
+     "link": "https://www.hindustantimes.com/india-news/trade-indo-pacific-in-focus-as-pm-modi-heads-to-manila-for-asean-quad-summits-101794793365384.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Inshorts",
+      "News On AIR",
+      "PM India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-16T07:12+05:30",
+     "score": 9.3,
+     "summary": "PM Modi’s meetings with Asean and other world leaders in Manila are expected to focus on boosting trade, investment, strengthening maritime security cooperation",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/16/1600x900/logo/PM-Narendra-Modi-is-also-expected-to-join-the-lead_1794793417376_B7dn.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Trade, Indo-Pacific in focus as PM Modi heads to Manila for Asean, Quad summits",
+       "link": "https://www.hindustantimes.com/india-news/trade-indo-pacific-in-focus-as-pm-modi-heads-to-manila-for-asean-quad-summits-101794793365384.html",
+       "publishedAt": "2026-11-16T07:12+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "PM Modi to attend Asean summit in Manila today; what's on agenda",
+       "link": "https://timesofindia.indiatimes.com/india/pm-modi-to-attend-asean-east-asia-summits-in-manila-whats-on-agenda/articleshow/135869305.cms",
+       "publishedAt": "2026-11-16T07:00+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "PM Modi to attend Asean, East Asia summits in Manila; what's on agenda",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSXA0aEpEUGljSHZYSGZ4RUxkOVV5OHVuTTVuWndwdDZ0TlRJY3pMU1ZtVkJnQkZZUElRbFIydzlHcXVYN1puOWxPNEktWl80SnNpaExtU1ZaOFpZS2x5dGFNc3pBaVVQTktDblZTNFhjMl9WRXZmeDM5LUJrNVdvNGpTdlJkaGR2WjdCeUVUbG9UZXJGeEY2OTI5NTNGN2ZvdDlkV2xnV3lGRl9RNkZKb0c5VDlzZGhSU3B1SkxobHpPREFyVy11TmlGRFVxcURI?oc=5",
+       "publishedAt": "2026-11-16T07:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1RucjZ4VXNEU1dsQXR0QVJlTXlwM2dVSmM3d0VxdjFsZU8tbE9hT01qVXVjVHlWWWV3Rk9jblZlczBwU2NaY2djZ0o4dkxzdkxyN0FnTjk2MEt4X0Y4WktXU2VjaDhDbzdkazVQM044RDhEZlJUaWVQVklyT2xCcVpSdlU?oc=5",
+     "source": "Financial Times",
+     "sources": [
+      "CGTN",
+      "CNN",
+      "Financial Times",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T07:12+05:30",
+     "score": 7.3,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Financial Times",
+       "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1RucjZ4VXNEU1dsQXR0QVJlTXlwM2dVSmM3d0VxdjFsZU8tbE9hT01qVXVjVHlWWWV3Rk9jblZlczBwU2NaY2djZ0o4dkxzdkxyN0FnTjk2MEt4X0Y4WktXU2VjaDhDbzdkazVQM044RDhEZlJUaWVQVklyT2xCcVpSdlU?oc=5",
+       "publishedAt": "2026-11-16T07:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pannun case: US govt seeks 24-year jail, Nikhil Gupta pleads for 12",
+     "link": "https://timesofindia.indiatimes.com/world/us/us-govt-seeks-24-year-jail-nikhil-gupta-pleads-for-12/articleshow/135868221.cms",
+     "source": "Times of India",
+     "sources": [
+      "Daily Pioneer",
+      "PGurus",
+      "THE WEEK",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-16T04:53+05:30",
+     "score": 6.51,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135868225,imgsize-59992.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Pannun case: US govt seeks 24-year jail, Nikhil Gupta pleads for 12",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-govt-seeks-24-year-jail-nikhil-gupta-pleads-for-12/articleshow/135868221.cms",
+       "publishedAt": "2026-11-16T04:53+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "US govt seeks 24-year jail, Nikhil Gupta pleads for 12",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUVscG9ucFFhdFFFeGZIVnA2OUZBbGJINjFsUURZczVNdXFtQUE4eUNFNEVnM2E1WEROMW5Ja3VTaDkyWFpMM25NN290SXJZSDRWVHVWVEZrX0k0bVhJeU42dlZiNU5Da0FxOHRsS0k3RHFwMEpidjBVaTdvZHNId2wzdlVub1ZtS2Izai1GdTVWdU9pZVZNdjEySWlucUQ0Mk9rNnZDRl93bkl2Q1B5dkdJWnFwdEhLZDQ2bTV3aHpGZw?oc=5",
+       "publishedAt": "2026-11-16T04:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFBHRGhFVUVMRGtZTjJ0dXRaZE9JLWY0cEVhMUhMdDRmNzczeVpEaTFKVjVJMjR6RjlidUc1SGJNcWYtNjF2c0M3SE1HY1ZSc1NzeWR5VDRpdUJ4dHBYb2xWSEZKdXdUakdudjRGWC1TYWFTWlE0UW1NQ3JqY1FjOGNvMmlCZlFISGx0Vmg0cWhWYjIwTF9VMFdNSWF0cWV1UWswZS1HWERVVFFoUE5qYVBYNUpIazN5TGtQeG5zbWVMMktUcUZyWXNR?oc=5",
+     "source": "Bloomberg",
+     "sources": [
+      "Bloomberg",
+      "Forbes",
+      "MLQ.ai",
+      "PhoneArena",
+      "The Verge"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T07:01+05:30",
+     "score": 5.96,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Bloomberg",
+       "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFBHRGhFVUVMRGtZTjJ0dXRaZE9JLWY0cEVhMUhMdDRmNzczeVpEaTFKVjVJMjR6RjlidUc1SGJNcWYtNjF2c0M3SE1HY1ZSc1NzeWR5VDRpdUJ4dHBYb2xWSEZKdXdUakdudjRGWC1TYWFTWlE0UW1NQ3JqY1FjOGNvMmlCZlFISGx0Vmg0cWhWYjIwTF9VMFdNSWF0cWV1UWswZS1HWERVVFFoUE5qYVBYNUpIazN5TGtQeG5zbWVMMktUcUZyWXNR?oc=5",
+       "publishedAt": "2026-11-16T07:01+05:30"
+      }
+     ]
+    },
+    {
+     "title": "RBI may raise interest rates to 6.25%, but this time the pain could be greater for India",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLWJYVE4xNzJQbTFpTXNUYXpkT2VpM0Ffc3BGM09KUF95RDVQbFZ0NU5YTXdTeUJ3dlc2MUozaGZBNjNnb3FVeEVjY25Gamoxb0I1MVF1U1E1eGxaZ2JsaGNUUHhuZFVaNGFfdVdMQVFDZ2xMZ1JzZWx0NTQ3N0xhRFRMeDlmRHBYekxWelNLZXVhdTN1YnAzQzNsOUpwUmppS3JtYm9kZU5BVk9WYUU3TUJfQ1p0M3BuRk0zLTZzZVFic2hKSGw4YXhldUZ4N2tvUzh0YnQ4N2VHUHM?oc=5",
+     "source": "Moneycontrol.com",
+     "sources": [
+      "Business Standard",
+      "Inshorts",
+      "Moneycontrol.com",
+      "The Economic Times",
+      "rajasthan.economictimes.indiatimes.com"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-16T07:29+05:30",
+     "score": 5.93,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Moneycontrol.com",
+       "title": "RBI may raise interest rates to 6.25%, but this time the pain could be greater for India",
+       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLWJYVE4xNzJQbTFpTXNUYXpkT2VpM0Ffc3BGM09KUF95RDVQbFZ0NU5YTXdTeUJ3dlc2MUozaGZBNjNnb3FVeEVjY25Gamoxb0I1MVF1U1E1eGxaZ2JsaGNUUHhuZFVaNGFfdVdMQVFDZ2xMZ1JzZWx0NTQ3N0xhRFRMeDlmRHBYekxWelNLZXVhdTN1YnAzQzNsOUpwUmppS3JtYm9kZU5BVk9WYUU3TUJfQ1p0M3BuRk0zLTZzZVFic2hKSGw4YXhldUZ4N2tvUzh0YnQ4N2VHUHM?oc=5",
+       "publishedAt": "2026-11-16T07:29+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-16T06:00+05:30",
    "generatedAt": "2026-11-16T06:47+05:30",
