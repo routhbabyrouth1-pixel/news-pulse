@@ -1,6 +1,205 @@
 {
- "updated": "2026-11-17T18:30+05:30",
+ "updated": "2026-11-17T19:46+05:30",
  "hours": [
+  {
+   "hour": "2026-11-17T19:00+05:30",
+   "generatedAt": "2026-11-17T19:46+05:30",
+   "feeds": 16,
+   "headlines": 333,
+   "stories": [
+    {
+     "title": "BSF jawan detained by Bangladesh’s BGB after crossing unfenced border released: Officials",
+     "link": "https://www.hindustantimes.com/india-news/bsf-jawan-detained-by-bangladesh-s-bgb-after-crossing-unfenced-border-released-officials-101794923016356.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "ANI News",
+      "Hindustan Times",
+      "The Business Standard",
+      "The Daily Star",
+      "The Economic Times",
+      "The Times of India",
+      "ThePrint",
+      "Times of India",
+      "www.daily-sun.com"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-17T19:13+05:30",
+     "score": 10.1,
+     "summary": "The incident took place around noon when locals caught the jawan and handed him over to the Bangladesh’s BGB",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/Meghalaya-shares-around-443-km-of-border-with-Bang_1794923008003_DMtf.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "BSF jawan detained by Bangladesh’s BGB after crossing unfenced border released: Officials",
+       "link": "https://www.hindustantimes.com/india-news/bsf-jawan-detained-by-bangladesh-s-bgb-after-crossing-unfenced-border-released-officials-101794923016356.html",
+       "publishedAt": "2026-11-17T19:13+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Bangladesh border force takes BSF jawan into custody",
+       "link": "https://economictimes.indiatimes.com/news/defence/bangladesh-border-force-takes-bsf-jawan-into-custody/articleshow/135924008.cms",
+       "publishedAt": "2026-11-17T17:28+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "BSF jawan detained by BGB after inadvertently crossing into Bangladesh",
+       "link": "https://timesofindia.indiatimes.com/india/bsf-jawan-detained-by-bgb-after-inadvertently-crossing-into-bangladesh/articleshow/135923445.cms",
+       "publishedAt": "2026-11-17T16:58+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "BSF jawan detained by BGB after inadvertently crossing into Bangladesh",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa0lJQ0FwQkNnRGdWV21hbG5zSU9QdFo4eXp0WVc1bUVfMVBEQm8wMGVQN09zN3lSMU5acTh1bnd1bC1iYmxjM3VQYzNJV2xoZDRQU00yTjJoYnA2V21hVXRFWndmNDdOeE53NFJsbmhJbml2UzVRalZKalRVY2VGY0I3Q2Nqb0Q1a0F4Qk5CNWh3LTVQQWlxMnptQk1PeS1ZcXMxdnZScThVX29wUURzU2lDcklMTHVQTWt6d3BtR01Ra01URmU1UkNkSnFENVZTTExJSw?oc=5",
+       "publishedAt": "2026-11-17T16:58+05:30"
+      }
+     ]
+    },
+    {
+     "title": "IPL 2027 retention LIVE: Dhoni retires, teams announce lists of released and retained players as deadline ends",
+     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxON1ExaEFVU243dkVDRmxGc09TWks1bVFYWE5Fbm5VZ3dMZjRxbk0wUVFBaHNqbUs5VnkzNGdCckV4U01KV2c0cDM5NDAtVmVrRFpiRnZIVGRMT0ViQU5qTV9VMlpvdEN1NDZENERsN2VzVGlma3pUbF90LTBTOFdYajhpWU5vUXA2MGY1d2xBSzUyREg2QnFwM3ZIOFg3R2sxR3R4RFhVdWZtVVNKbnBPYWpBXzdPMTdoVFBZZ29COTVuUjhvTE9obi1rWnI4RlRteVN3NjNhSnJtZzg2UllWVVhrRERObjAzdUZ1MlNxazlZSFVadzJTSzhTQUpRYWVWU2k2OUUzMNIBjgJBVV95cUxQeUl5VGVjWVVJSUJQcThsRlk4Y2JGTDh6X0pDenhxcjE2RUFGYmVtR2g3NVJOd1NSVWpRMU5EaUNMbHBHZ21XU0k2bWpaNE9jOEFmOW5KYklwQWxXUTVscGxZT2FXNjdEYmoxdmpDOGs4S3djZTF0RjVDZmRGWV9SdVh1eDctQmdDUFV1ZmFEemMxQmt4N2hKc0VNcXhjN2FPaGxCZzZkVzBmWmVYcGJTYjBNckRHZUx0YU1zMkl2dlRlU3ExYkFaQzNVUm14ekZTWVdPWVhwMlBfXzVmU1AtWER4YlpVd3hXUmRpV3VNQ1NOY3MxSE1HVFZMVFA2R2ZyWWVfOGxZbk12M2Jva1E?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "Business Standard",
+      "CricTracker",
+      "Cricbuzz",
+      "Hindustan Times",
+      "Jagran Josh",
+      "NDTV Sports",
+      "Sportstar",
+      "The Hindu"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-17T19:38+05:30",
+     "score": 9.73,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "IPL 2027 retention LIVE: Dhoni retires, teams announce lists of released and retained players as deadline ends",
+       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxON1ExaEFVU243dkVDRmxGc09TWks1bVFYWE5Fbm5VZ3dMZjRxbk0wUVFBaHNqbUs5VnkzNGdCckV4U01KV2c0cDM5NDAtVmVrRFpiRnZIVGRMT0ViQU5qTV9VMlpvdEN1NDZENERsN2VzVGlma3pUbF90LTBTOFdYajhpWU5vUXA2MGY1d2xBSzUyREg2QnFwM3ZIOFg3R2sxR3R4RFhVdWZtVVNKbnBPYWpBXzdPMTdoVFBZZ29COTVuUjhvTE9obi1rWnI4RlRteVN3NjNhSnJtZzg2UllWVVhrRERObjAzdUZ1MlNxazlZSFVadzJTSzhTQUpRYWVWU2k2OUUzMNIBjgJBVV95cUxQeUl5VGVjWVVJSUJQcThsRlk4Y2JGTDh6X0pDenhxcjE2RUFGYmVtR2g3NVJOd1NSVWpRMU5EaUNMbHBHZ21XU0k2bWpaNE9jOEFmOW5KYklwQWxXUTVscGxZT2FXNjdEYmoxdmpDOGs4S3djZTF0RjVDZmRGWV9SdVh1eDctQmdDUFV1ZmFEemMxQmt4N2hKc0VNcXhjN2FPaGxCZzZkVzBmWmVYcGJTYjBNckRHZUx0YU1zMkl2dlRlU3ExYkFaQzNVUm14ekZTWVdPWVhwMlBfXzVmU1AtWER4YlpVd3hXUmRpV3VNQ1NOY3MxSE1HVFZMVFA2R2ZyWWVfOGxZbk12M2Jva1E?oc=5",
+       "publishedAt": "2026-11-17T19:38+05:30"
+      },
+      {
+       "source": "CricTracker",
+       "title": "MI 2027 Retentions: Released, Retained & Trade Players List Ahead of IPL 2027 Auction",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVI3SFNHX1RYWjZjMEVWZ3JlY29ETEZDR2hvODJIYmNFZ0lUMnZ4T0N2QmEyMGNWUHdyYkNEREVIRExray1BWDQ4ZGU5d25ycE56cUV4WGVJbThWZDRYYnBacFl6c25BcUhrUWhLeDgxYWs1V1FBbk9EalQyZzJPUXkzTmZTaEhXNlJoamxRSW91Ri1MRDdaN2o4X2pPb3JhaFVUQk1WY3FaTkVHZVdBeTFnVE9CVFZJYTFFalNvNTDSAcgBQVVfeXFMTktxcURYTWFBTFEtQWloUVJkbWxDT1RDTFZjVl96WHM2THV0X08xVWZXQUR2S3Fudmt2alh2Yi1zazA0OTFlVXFXeFdWOHRZbFhZMWxHeWtPcVhHZVZFbWluT3FSUDFhdlNKOFZkeXlKTmE4TVBDNm5CN1NZRzBhQ1NIWE9ad2VHdUZzMmMzMHZqSFoweXJSMmRaTkFhenVsWkNZLTFrcFNrY09Od3c5S2RydmFoYmkySmxkREJkTmVvQS02clFZTXU?oc=5",
+       "publishedAt": "2026-11-17T19:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ASEAN Summit LIVE updates: Quad announces Indo-Pacific Maritime Surveillance Collaboration",
+     "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
+     "source": "The Hindu",
+     "sources": [
+      "NDTV",
+      "NarendraModi.in",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T19:42+05:30",
+     "score": 8.49,
+     "summary": "Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "ASEAN Summit LIVE updates: Quad announces Indo-Pacific Maritime Surveillance Collaboration",
+       "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
+       "publishedAt": "2026-11-17T19:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GRAP III Curbs Revoked In Delhi-NCR As Air Quality Improves",
+     "link": "https://www.ndtv.com/india-news/grap-iii-curbs-revoked-in-delhi-ncr-as-air-quality-improves-12338804#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-17T19:31+05:30",
+     "score": 8.03,
+     "summary": "The GRAP III was invoked on November 7, a day before Diwali, as the air quality across Delhi and the National Capital Region had plummeted.",
+     "image": "https://c.ndtvimg.com/2023-11/44eh4798_delhi-pollution_625x300_04_November_23.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "GRAP III Curbs Revoked In Delhi-NCR As Air Quality Improves",
+       "link": "https://www.ndtv.com/india-news/grap-iii-curbs-revoked-in-delhi-ncr-as-air-quality-improves-12338804#publisher=newsstand",
+       "publishedAt": "2026-11-17T17:59+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "GRAP-3 revoked across Delhi-NCR as AQI falls to 204; stage 1 and 2 curbs stay",
+       "link": "https://timesofindia.indiatimes.com/city/delhi/grap-3-revoked-across-delhi-ncr-as-aqi-falls-to-204-stage-1-and-2-curbs-stay/articleshow/135924769.cms",
+       "publishedAt": "2026-11-17T17:41+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "GRAP Stage III restrictions revoked in Delhi-NCR as AQI improves to 204",
+       "link": "https://www.hindustantimes.com/india-news/grap-stage-iii-restrictions-revoked-in-delhi-ncr-as-aqi-improves-to-204-101794914664244.html",
+       "publishedAt": "2026-11-17T17:08+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "India News Live Updates, 17 November 2026: GRAP 3 curbs revoked in Delhi as AQI improves",
+       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOeHl0ck9ReFQtYi04Q3dEVWxMTWZla2VsczhOb1BWZ3dCY0lDUmZPT3BOUTlKNmNRZ3lienVEdHpFX3VrR1hKOW5oWFhITm1KYzQ4eHhXMmJBYkp6c2FMNk45emluby1GMU8zcWdycXpHdXltVnhvNkRfRTNON3ZyOVpEMG1fMWNubkZFVWd5cmV1MDZpLWVLMXJtNlZfNU9IU0ZCQTJQRkxJNW1QQzhBMkc4djVfcVdEamVKX25WemdBUzBXVTFfaWh5Z0dlcmNXS2Y5bVh1ZjVxWVVweC1rQjc4ZlZPT2paWDNHRWo2SnRuLUFBbU1KMnpQSGlKbWRxUWVDcXhVeUlicUxuZWlranBpdVTSAZsCQVVfeXFMTmZ2MlcxNWNpOElWTW9semVkNmRidUtyZUstc09PLUpEVGtOcEhGWkR1d0dWejBwclcyWkpyd3RhSTFmdFgxdTNPa0RVckVBbWd6Vmk1TzJlTE1OdE9qMllOWm0xODljT2pSV3BodzB1OC16YjYxdVk2TE1zMndHUmJfak4zUnBhbG9wRTFhTE91bllxNHlkbnppbjdza1VjbHhxVE51aWZiVTlmTWQzM3psSVNpOXh2SmFCWE5RWklaRFFReU1qWjBEVDNrNDFwdmx6Q2NXMjRtQUhWcmxPRU5YRWFvMjJ0cUdsTVFlalpmZXJJOVBKYi1lYWVDZUN4bDlLWmI1TFowbkc0RVdNd3E3akF2Z3RTa1lfOA?oc=5",
+       "publishedAt": "2026-11-17T19:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘No religion, caste data’: UP poll officer amid Yogi's claim of 1.27 crore Hindu voters missing from electoral roll",
+     "link": "https://www.hindustantimes.com/india-news/no-data-regarding-religion-caste-up-chief-electoral-officer-on-yogi-adityanaths-1-27-crore-missing-hindu-voters-claim-101794917145740.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-17T18:34+05:30",
+     "score": 7.86,
+     "summary": "Navdeep Rinwa said the EC's database contained details such as a voter's name, age, gender, house number and the name and relationship of a relative.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/MixCollage-17-Nov-2026-05-59-PM-1874_1794918590232_CWQj_1794918601867_kRLM_c5e52132-c915-405c-8322-d677fe0d8411_2vsU.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "‘No religion, caste data’: UP poll officer amid Yogi's claim of 1.27 crore Hindu voters missing from electoral roll",
+       "link": "https://www.hindustantimes.com/india-news/no-data-regarding-religion-caste-up-chief-electoral-officer-on-yogi-adityanaths-1-27-crore-missing-hindu-voters-claim-101794917145740.html",
+       "publishedAt": "2026-11-17T18:34+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Don't have data based on religion': UP CEO on claim 'Hindu voters' deleted in SIR",
+       "link": "https://timesofindia.indiatimes.com/india/we-dont-have-data-based-on-religion-up-ceo-on-yogi-adityanaths-claim-that-1-27-cr-hindu-voters-were-deleted-in-sir/articleshow/135918905.cms",
+       "publishedAt": "2026-11-17T14:57+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'We don't have data based on religion': UP CEO on claim 'Hindu voters' were deleted in SIR",
+       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYUY1MXFKMDRMd0NxcnppSVJ0M2NxcWFwemxDdjg4X3JCYllWYlZGMmpFM3pUeFdLMjM0cFEySkV0d09OTnQxTm1vTEZFZkNmcl85dXlQdXBCU3FwTGRsM2c3QVNzNGhETnZoYXhycXBlSjNJV19aTzNJOXFnUkswU1ZaRzAwVThsVG1pS2Zzcnd4XzByUzM4TEtNRmMyWndyZjFIU2NfR1hfREdSYzh0SklUZFUxUUpqNWNqUjlCbjdqOXF5c29ESVotVUJMNmlpenlWX29CcTVmUzFLdlJDZVNCUkR3bDZKX0hDeWRia2pOdEI0Z1NCNkJ5YnZwcVRIdG1yNnVvSnVfM2h6S3pN?oc=5",
+       "publishedAt": "2026-11-17T14:57+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-17T18:00+05:30",
    "generatedAt": "2026-11-17T18:30+05:30",
