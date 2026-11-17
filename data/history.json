@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-18T04:22+05:30",
+ "updated": "2026-11-18T05:18+05:30",
  "hours": [
+  {
+   "hour": "2026-11-18T05:00+05:30",
+   "generatedAt": "2026-11-18T05:18+05:30",
+   "feeds": 16,
+   "headlines": 170,
+   "stories": [
+    {
+     "title": "'Many systems back up and running': Apple rules out cyberattack after outage",
+     "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-google-outage-app-store-gmail-search-and-other-services-down/articleshow/135937196.cms",
+     "source": "Times of India",
+     "sources": [
+      "Bloomberg.com",
+      "NDTV",
+      "The Guardian",
+      "The Times of India",
+      "Times of India",
+      "USA Today"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T23:48+05:30",
+     "score": 6.58,
+     "summary": "iCloud and Apple Pay were the most disrupted services. People reported widespread problems in logging in, messaging, emails, payments and fund transfers.",
+     "image": "https://static.toiimg.com/photo/msid-135940304,imgsize-40830.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Many systems back up and running': Apple rules out cyberattack after outage",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-google-outage-app-store-gmail-search-and-other-services-down/articleshow/135937196.cms",
+       "publishedAt": "2026-11-17T23:48+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Many systems back up and running': Apple rules out cyberattack after outage",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQWVQbDloZU9HQlRfNmg3S19FdG54N3Rma2E5TnZiUXZOSDhPMXh2dXFRSU5pdVlvTVFtUXFqZUZNcmxucVBERVdncWNYbFBCM1ROSWlUVWtGbFl0R01vTGV3cTZIN2tGU282U2c5UFFha2VzYkgyc2NXVlB5cm45R3RUa3hNSnpKOUNBR00yTHFrVzB1ak9XbmVwdkJ5OXB2OXhOc2MzWmJFRG1IWncwbVBGUGZJeDVYcmxZNHVXSlZGUDRhdDNKTllfbUlwajBfYXdZNllYSkNHdWJrbE1VVDV2Yw?oc=5",
+       "publishedAt": "2026-11-17T23:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "The long wait is almost over. Here's what to know about the upcoming release of 'Grand Theft Auto VI'",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSlRHVzNMNU9iVDJPZXc4aTk3NVA4LThTX0JxbHF3RDdqRVpKdk43dlc4Y21xaXBfQ1NZNlVpRUNPTTFkZTZUaS1MYWRSTHNUWS10SGM2dFRTdm5pdGtLV09pWW5kemZkZUVaTWFIeDFYS3dSZ3F2N2RJZlc1cDFwMU5ia3RZOEhtRHRRT1V0SWZHRVRndGZPVXY2djlLbUtWZXRCVlhiY0FsdkxrV3pOWXR2a3U4Y0NUNzNlZEdBVUdNdERURW9pN29zMA?oc=5",
+     "source": "PBS",
+     "sources": [
+      "CNN",
+      "PBS",
+      "Reuters",
+      "The Guardian",
+      "The New York Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-18T02:52+05:30",
+     "score": 6.09,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "PBS",
+       "title": "The long wait is almost over. Here's what to know about the upcoming release of 'Grand Theft Auto VI'",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSlRHVzNMNU9iVDJPZXc4aTk3NVA4LThTX0JxbHF3RDdqRVpKdk43dlc4Y21xaXBfQ1NZNlVpRUNPTTFkZTZUaS1MYWRSTHNUWS10SGM2dFRTdm5pdGtLV09pWW5kemZkZUVaTWFIeDFYS3dSZ3F2N2RJZlc1cDFwMU5ia3RZOEhtRHRRT1V0SWZHRVRndGZPVXY2djlLbUtWZXRCVlhiY0FsdkxrV3pOWXR2a3U4Y0NUNzNlZEdBVUdNdERURW9pN29zMA?oc=5",
+       "publishedAt": "2026-11-18T02:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GTA 6 Isn't Just For Gamers—Creators And Brands Want In",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1djMkpfUXdIWW9lc2QzMmdoVVVLSkFuUVJvcmp2eF9wQW5RLW05c09HWk41X3Z5bUIzM2pMZTRrdnE5U3RVblBhbGxGRHIzaXFzQkZNa0Q3NFNONGxhUnRPSlpycDQ0c05EZ3AxMjdvRVJvaXVlS0ZIdE5xSWVFSjk0bVhQQzVNQ3g1QThxcHFHWkFXanJYQ1FmMDVHZGRtS0s2Q084SjVVZHRkS2dLNA?oc=5",
+     "source": "Forbes",
+     "sources": [
+      "Forbes",
+      "Insider Gaming",
+      "Mezha.net",
+      "The Times of India",
+      "blog.youtube"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-18T04:36+05:30",
+     "score": 6.05,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Forbes",
+       "title": "GTA 6 Isn't Just For Gamers—Creators And Brands Want In",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1djMkpfUXdIWW9lc2QzMmdoVVVLSkFuUVJvcmp2eF9wQW5RLW05c09HWk41X3Z5bUIzM2pMZTRrdnE5U3RVblBhbGxGRHIzaXFzQkZNa0Q3NFNONGxhUnRPSlpycDQ0c05EZ3AxMjdvRVJvaXVlS0ZIdE5xSWVFSjk0bVhQQzVNQ3g1QThxcHFHWkFXanJYQ1FmMDVHZGRtS0s2Q084SjVVZHRkS2dLNA?oc=5",
+       "publishedAt": "2026-11-18T04:36+05:30"
+      }
+     ]
+    },
+    {
+     "title": "What's the weather forecast for 'GTA 6'? The Weather Channel has a preview.",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93ZU1Lb3NlSTNGcnBjV0dpWExUbjRFUWFQT3hVZFhXYnRqV0RMLVNOVzU2Yl8ySXVGdUl3Q2pSQTdFcnRsUm1JLTFMWkM4VW1pNFdhTDhMREllUWg1cGd1bjBQTmUwZw?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "Mashable",
+      "Push Square",
+      "RockstarINTEL",
+      "The Northern Virginia Daily",
+      "The Verge"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-18T04:14+05:30",
+     "score": 5.89,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "What's the weather forecast for 'GTA 6'? The Weather Channel has a preview.",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93ZU1Lb3NlSTNGcnBjV0dpWExUbjRFUWFQT3hVZFhXYnRqV0RMLVNOVzU2Yl8ySXVGdUl3Q2pSQTdFcnRsUm1JLTFMWkM4VW1pNFdhTDhMREllUWg1cGd1bjBQTmUwZw?oc=5",
+       "publishedAt": "2026-11-18T04:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Wall Street ends lower ahead of Nvidia results, focus turns to Anthropic debut",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "CNBC",
+      "CNN",
+      "Reuters",
+      "WSJ",
+      "Yahoo Finance"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-18T03:22+05:30",
+     "score": 5.77,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Wall Street ends lower ahead of Nvidia results, focus turns to Anthropic debut",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
+       "publishedAt": "2026-11-18T03:22+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-18T04:00+05:30",
    "generatedAt": "2026-11-18T04:22+05:30",
@@ -30383,183 +30523,6 @@
        "title": "Ramayana Box Office Collection Day 5 LIVE Updates: Ranbir Kapoor film records biggest Monday haul; earns over Rs 663 cr worldwide",
        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbTMyWlctV1Z1eDNMNGRVaEtuc2VlRnQwWV9rWEJYby02aWFGN3Y1by1ZQW96R3kyMl84TjBhbWxJMkZQT3Eyek5NZ1FNYmhkdHVkb3otOEFURmpydU9obGhEclliN1pnMFZyNk54WnY2SDQ5NG1vM3dJaVk1czNVNXFZTkZMWF85eTAwZEEzLVFyV2oybkNRNXU4blFvN213YVhjdmUwUEZPUXpOVlBJaTd6OGlWWmlXUXRqMHJWb1Q1S3RmVG5waFEzNV9mSkJacEFYUGdyYnJPS0poT3psdlFaR2tiYWxHZ2h1Q2dKSFdYSDU50gH7AUFVX3lxTE9STW1xd2p5bWFPRFliSzlBUXdZcEltUnpibHhaLVpCWW9lYnhqOW1Jc0ZGWGRDTmotSHAwMC1ZUzU4Z1JHekctakpESjRSY2xoQ09QVldraTVqX3hwSS1neHJaRWtNdkdISjJSaVMtc3JjRi11eGkxR19MZ3JCVGpyQVhyaEVhOHo1ZVpiOHhLaTcxTV9kYzV4N2xPWkFVaXgxZloyQzBveFhjWXJPem1rN1hVN2tRNVVmalpmVzM4TnNOREl0elBXT0NKSEc4MXl5THlnbG5JUHMtQ2V1OE5nZ3FkV0YxWmtmYV9xWjVTMFh5Nm5BQ3RUXzJr?oc=5",
        "publishedAt": "2026-11-10T09:00+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-10T08:00+05:30",
-   "generatedAt": "2026-11-10T08:17+05:30",
-   "feeds": 16,
-   "headlines": 146,
-   "stories": [
-    {
-     "title": "Cancer Horoscope Today: November 10, 2026",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
-     "source": "Vogue India",
-     "sources": [
-      "Hindustan Times",
-      "India Today",
-      "News18",
-      "Odisha TV",
-      "Susan Miller Astrology Zone",
-      "The Economic Times",
-      "The Times of India",
-      "Vogue India",
-      "iDiva"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-10T05:50+05:30",
-     "score": 9.73,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Vogue India",
-       "title": "Cancer Horoscope Today: November 10, 2026",
-       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
-       "publishedAt": "2026-11-10T05:50+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "NDTV",
-      "NVIDIA Newsroom",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T07:14+05:30",
-     "score": 8.32,
-     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-10T07:14+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
-       "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-       "publishedAt": "2026-11-10T06:14+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Trump Says FBI Investigating Nvidia CEO's Affair With Alleged Chinese Spy",
-       "link": "https://www.ndtv.com/world-news/donald-trump-says-fbi-investigating-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-12305672#publisher=newsstand",
-       "publishedAt": "2026-11-10T04:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "‘Zero political aspirations’: UFC chief Dana White responds to Trump’s White House job offer",
-     "link": "https://timesofindia.indiatimes.com/world/us/zero-political-aspirations-ufc-chief-dana-white-responds-to-trumps-white-house-job-offer/articleshow/135696483.cms",
-     "source": "Times of India",
-     "sources": [
-      "BBC News",
-      "Fox News",
-      "NDTV",
-      "The Guardian",
-      "The New York Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T07:28+05:30",
-     "score": 8.01,
-     "summary": "Dana White made it clear he is not interested in the role of White House press secretary following a playful comment from President Trump. Trump had quipped about White taking on the position while showcasing UFC fighters. This humorous suggestion sparked some online chatter and confusion regarding the identities involved. The press secretary role has been open since October when Katie Zacharia was let go.",
-     "image": "https://static.toiimg.com/photo/msid-135696524,imgsize-76168.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "‘Zero political aspirations’: UFC chief Dana White responds to Trump’s White House job offer",
-       "link": "https://timesofindia.indiatimes.com/world/us/zero-political-aspirations-ufc-chief-dana-white-responds-to-trumps-white-house-job-offer/articleshow/135696483.cms",
-       "publishedAt": "2026-11-10T07:16+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Dana White declines Trump’s offer to be White House press secretary",
-       "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-10T04:16+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "\"Don't Want To Be In Politics\": UFC Chief Dana White Turns Down Trump's Offer",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTTlkRXFfamxMU3RVQU0tb0U2YktWWnFJYlc4S3JZSlVFd1BHZGlXRlRCQXlDa3hGSzJZSWVRbDFYWnhpS1VEOHhxd0RrM0JtRk1ndXlRTDRUS0xOVWwtdFlEUk1RM0VpUzdRU0VCdzQyZHE1NTUwbnpYUVZqeEFoZ3FTSE9sUjlDaXJsZnVvY0dJX0xVODBJR2ZJRzRqUDM0UmItRG5qME1ybnYyUUx5U0FRVzlPVEl5LU83RndtaHAtSmZBUUFpWDZlY0czUXNETXljS3FsdkNhN3c?oc=5",
-       "publishedAt": "2026-11-10T07:28+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Deputy CM Pawan Kalyan to part ways with wife, Anna Lezhneva",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-cm-pawan-kalyan-to-part-ways-with-wife-anna-lezhneva/article71684784.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Deccan Herald",
-      "NDTV",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T07:59+05:30",
-     "score": 7.45,
-     "summary": "In a joint statement, the couple said that, after sharing a significant part of their lives together, they had decided to separate",
-     "image": "https://th-i.thgim.com/public/news/national/sgpkjs/article71684840.ece/alternates/LANDSCAPE_1200/pawan%20kalyan%20anna%20lezhneva.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Deputy CM Pawan Kalyan to part ways with wife, Anna Lezhneva",
-       "link": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-cm-pawan-kalyan-to-part-ways-with-wife-anna-lezhneva/article71684784.ece",
-       "publishedAt": "2026-11-10T07:59+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Pawan Kalyan, Wife Anna Konidala Announce Separation After 13 Years Of Marriage",
-       "link": "https://www.ndtv.com/india-news/pawan-kalyan-wife-anna-konidala-announce-separation-after-13-years-of-marriage-andhra-pradesh-deputy-chief-minister-12305738#publisher=newsstand",
-       "publishedAt": "2026-11-10T07:05+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Qatar, Saudi Want Peaceful Iran Deal, US Ready For Strikes If Needed: Trump",
-     "link": "https://www.ndtv.com/world-news/qatar-saudi-want-peaceful-iran-deal-us-ready-for-strikes-if-needed-donald-trump-12305498#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "AP News",
-      "Al Jazeera",
-      "BBC",
-      "NDTV",
-      "Reuters",
-      "www.israelhayom.com"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T04:37+05:30",
-     "score": 7.14,
-     "summary": "Trump, who met Qatar's prime minister earlier on Monday, said \"Qatar would rather see a peaceful solution\" and \"Saudi Arabia would rather see a peaceful solution\" but \"we're ready to go anytime we want\" with strikes.",
-     "image": "https://c.ndtvimg.com/2026-11/al90ni34_donald-trump_625x300_10_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Qatar, Saudi Want Peaceful Iran Deal, US Ready For Strikes If Needed: Trump",
-       "link": "https://www.ndtv.com/world-news/qatar-saudi-want-peaceful-iran-deal-us-ready-for-strikes-if-needed-donald-trump-12305498#publisher=newsstand",
-       "publishedAt": "2026-11-10T02:39+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Trump says Qatar, Saudi prefer peace in Iran conflict",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
-       "publishedAt": "2026-11-10T04:37+05:30"
       }
      ]
     }
