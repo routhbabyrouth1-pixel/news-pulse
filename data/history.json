@@ -1,6 +1,185 @@
 {
- "updated": "2026-11-17T14:27+05:30",
+ "updated": "2026-11-17T15:29+05:30",
  "hours": [
+  {
+   "hour": "2026-11-17T15:00+05:30",
+   "generatedAt": "2026-11-17T15:29+05:30",
+   "feeds": 14,
+   "headlines": 383,
+   "stories": [
+    {
+     "title": "MS Dhoni retires from IPL ahead of 2027 season; to be CSK mentor",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-retires-from-ipl-ahead-of-2027-season-to-be-csk-mentor/articleshow/135918991.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricinfo",
+      "India Today",
+      "Jagran Josh",
+      "NDTV Sports",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India",
+      "Yahoo Sports"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-17T15:00+05:30",
+     "score": 12.42,
+     "summary": "CSK announced that the former skipper will take the role of 'mentor'.",
+     "image": "https://static.toiimg.com/photo/msid-135919880,imgsize-90645.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "MS Dhoni retires from IPL ahead of 2027 season; to be CSK mentor",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-retires-from-ipl-ahead-of-2027-season-to-be-csk-mentor/articleshow/135918991.cms",
+       "publishedAt": "2026-11-17T15:00+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "MS Dhoni retires from IPL, named CSK mentor for 2027 season",
+       "link": "https://indianexpress.com/article/sports/cricket/ms-dhoni-retirement-csk-ipl-2027-retention-announcement-team-mentor-9926079/",
+       "publishedAt": "2026-11-17T14:55+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "MS Dhoni retires from IPL ahead of 2027 season, takes up mentor role at CSK",
+       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQTFQTUVSY1FaZ3V3cVRBRXA0bUJaV0Yxdk9RWUhfQldRaUY2RldNNGJMQzRSOVU4UENRWDMyaUdVbnRCQlh3Y0xQR2hwbXRudEdHR3pqMG9maHNFa3Z3YlprQ1RRbGxDUzE4WkV0a1BjYjRtSmpsQ29vUXdoZG5OcXRrbGowYjktQ0RBN1Z1R1NpdHVoSHNKd1VrNGtJYUtQMHUybHQ4VmVwYW5sbXh1RTBpRmYyNzdMZ3ZUbmw1ZnJYamlfdzl6YTR3U3JMZHd2d1JkdDhDOTc5VXQyUnRHZGhaNW00d09jMWc0dA?oc=5",
+       "publishedAt": "2026-11-17T15:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Shubman Gill on India’s XI for 1st Test vs NZ: ‘We will play four fast bowlers’",
+     "link": "https://indianexpress.com/article/sports/cricket/shubman-gill-ind-vs-nz-1st-test-playing-11-four-pacers-wellington-10966267/",
+     "source": "The Indian Express",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "ICC",
+      "Rediff",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-17T13:22+05:30",
+     "score": 9.15,
+     "summary": "",
+     "image": "https://images.indianexpress.com/2026/11/ind-vs-nz-1st-test.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Shubman Gill on India’s XI for 1st Test vs NZ: ‘We will play four fast bowlers’",
+       "link": "https://indianexpress.com/article/sports/cricket/shubman-gill-ind-vs-nz-1st-test-playing-11-four-pacers-wellington-10966267/",
+       "publishedAt": "2026-11-17T11:18+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "We'll be playing four fast bowlers for sure: Shubman Gill ahead of Wellington Test against New Zealand",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS281cFdwSGpnUlNlYlZXRmk5MUxCWURZaTN4T1ZVVHhGdHF3R014Y1ZWZTB3OGV6TlhLeGY2T3oxZVlwa1lVVkZTT0R6LWdBX2JUNV9KMnRyeXJMUlVvLTVYeVlmaE1Wd2ZhaFE4WWdmLVBubnlEcVY0SkVCUXVucDNqVVozTjB1NUlpTlBDUHJGTTZLVGNrZ3BfdElGcVBOUXc?oc=5",
+       "publishedAt": "2026-11-17T13:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Supreme Court stays conviction of SP leader Azam Khan in fake birth certificate case",
+     "link": "https://indianexpress.com/article/legal-news/azam-khan-fake-birth-certificate-case-supreme-court-order-10966392/",
+     "source": "The Indian Express",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "Live Law",
+      "The Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Verdictum"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-17T12:30+05:30",
+     "score": 7.65,
+     "summary": "A bench of justices Dipankar Datta and Sheel Nagu also stayed the conviction of Khan’s son and wife in the same case.",
+     "image": "https://images.indianexpress.com/2026/10/azam.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Supreme Court stays conviction of SP leader Azam Khan in fake birth certificate case",
+       "link": "https://indianexpress.com/article/legal-news/azam-khan-fake-birth-certificate-case-supreme-court-order-10966392/",
+       "publishedAt": "2026-11-17T12:30+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Supreme Court junks UP's plea against HC stay on Azam Khan's conviction in fake birth certificate case",
+       "link": "https://www.hindustantimes.com/india-news/supreme-court-junks-uttar-pradesh-plea-against-hc-stay-on-azam-khans-conviction-in-fake-birth-certificate-case-101794896341509.html",
+       "publishedAt": "2026-11-17T11:58+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Supreme Court Upholds Stay On Azam Khan's Conviction In Forged Birth Certificate Case, Gives Same Relief...",
+       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQmJhRVBHS0FxcmlYdGx0YXdaTFA0TTJ0MkRSaHZFWnVmbXdTeGxNYmIwTUFkell6VWpqeUZEeENReVpsdW50OXcxdnRObUJXcGVnbjBDalM3MTBKbUk0VF9XcEMxWWFLOWR3YXVfQjlOSXVsSHVMNXRDR3llUFJEVmxDaThGVUh1alA1cXJMRDZwdmVhUmZiVHlZSUJDcUdEMGdtU2QxSUhfZDVpZW1fcW5iR19lNkk5MGZpNjY2dTgzbHd3bWc1dXVjM1d6bjlNcTRtaVc5SkpNdUhSZ2g3Y1drTkhDejFwNUZzONIB8gFBVV95cUxORVlZTU44RFlYYlQ0RmVzeUlzblZuNkx0UjBCZHZEdS1zMVhDMGVrcWtsVDc5S1VxUU43NWZhWXY0X1dRd2plT0hubzZxUXZ1c09QbEpuMER5UmFCVjQwTDR1WjM5QW40Sy1zWEJIMk9xYzRSemU2R01Zb3ZUQk1ZOTJpYXJqTFJDN1dBb0pJYkpZNDEyQkpKaW5Ia1lTMGZGVlRTZXVTWWlMdmV1RVdKVHpKQ1UybFpHdVlzMHNZZDAxcFE2UDUwazM2OW1LekVFV21DWDJDdE1wQ0ozUUxHMUhtV3ZtM0JnREdUYkZwRWNqdw?oc=5",
+       "publishedAt": "2026-11-17T10:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bilkis Bano says Supreme Court did not inform or hear her before granting bail to two convicts; vows to fight order",
+     "link": "https://www.thehindu.com/news/national/bilkis-bano-says-supreme-court-did-not-inform-or-hear-her-before-granting-bail-to-two-convicts-vows-to-fight-order/article71710839.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T14:22+05:30",
+     "score": 7.31,
+     "summary": "The short order, published recently on the court website, had reasoned that the two men had already undergone more than 17 years in prison and one of them suffered a severe handicap",
+     "image": "https://th-i.thgim.com/public/incoming/jic9dz/article71710844.ece/alternates/LANDSCAPE_1200/bilkis_banoo_06.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Bilkis Bano says Supreme Court did not inform or hear her before granting bail to two convicts; vows to fight order",
+       "link": "https://www.thehindu.com/news/national/bilkis-bano-says-supreme-court-did-not-inform-or-hear-her-before-granting-bail-to-two-convicts-vows-to-fight-order/article71710839.ece",
+       "publishedAt": "2026-11-17T14:22+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "‘I am scared once again’: Bilkis Bano on Supreme Court granting bail to 2 convicts",
+       "link": "https://indianexpress.com/article/india/bilkis-bano-supreme-court-bail-2-convicts-gangrape-2002-gujarat-riots-10966456/",
+       "publishedAt": "2026-11-17T12:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India to host 2029 Champions Trophy & co-host ODI World Cup in 2031",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnZOZzJYckNXNlU4eWZObFRhcFZxLUtCT2pIRnoxdnZCNGg0MTBONEx6STd5ajNhanBBa0FYSzRGS0lOVlN1bV9fTldoclJtUnJMMzQ5bHdzNjhlR1pqUkRFbnhJc3Myc2lHWlVvZXVYUjYtdncta2VvWGlzZEozd3ItUC11elM5eF9IcFE5M1N0Z05iZFE?oc=5",
+     "source": "News On AIR",
+     "sources": [
+      "Cricbuzz",
+      "ICC",
+      "News On AIR",
+      "The New Indian Express",
+      "The Shillong Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T15:10+05:30",
+     "score": 6.04,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "News On AIR",
+       "title": "India to host 2029 Champions Trophy & co-host ODI World Cup in 2031",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnZOZzJYckNXNlU4eWZObFRhcFZxLUtCT2pIRnoxdnZCNGg0MTBONEx6STd5ajNhanBBa0FYSzRGS0lOVlN1bV9fTldoclJtUnJMMzQ5bHdzNjhlR1pqUkRFbnhJc3Myc2lHWlVvZXVYUjYtdncta2VvWGlzZEozd3ItUC11elM5eF9IcFE5M1N0Z05iZFE?oc=5",
+       "publishedAt": "2026-11-17T15:10+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-17T14:00+05:30",
    "generatedAt": "2026-11-17T14:27+05:30",
