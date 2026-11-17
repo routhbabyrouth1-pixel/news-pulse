@@ -1,6 +1,216 @@
 {
- "updated": "2026-11-18T01:31+05:30",
+ "updated": "2026-11-18T02:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-18T02:00+05:30",
+   "generatedAt": "2026-11-18T02:22+05:30",
+   "feeds": 16,
+   "headlines": 238,
+   "stories": [
+    {
+     "title": "Jensen Huang Ready To Return As Nvidia CEO, Says \"Own My Mistakes\"",
+     "link": "https://www.ndtv.com/world-news/would-be-honoured-to-return-as-ceo-jensen-huangs-first-statement-since-resignation-12340480#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC News",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "Reuters",
+      "The Economist",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-18T00:01+05:30",
+     "score": 9.11,
+     "summary": "Jensen Huang said he has seen calls from the firm's employees, investors, and customers for him to return as the CEO and he would be honoured to do so.",
+     "image": "https://c.ndtvimg.com/2024-10/44tv9so8_jensen-huang_625x300_24_October_24.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Jensen Huang Ready To Return As Nvidia CEO, Says \"Own My Mistakes\"",
+       "link": "https://www.ndtv.com/world-news/would-be-honoured-to-return-as-ceo-jensen-huangs-first-statement-since-resignation-12340480#publisher=newsstand",
+       "publishedAt": "2026-11-18T00:01+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+       "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-17T23:54+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'I own my mistakes': Jensen Huang breaks silence on return as CEO after Nvidia scandal",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-speaks-for-the-first-time-after-his-resignation-says-willing-to-return-as-nvidia-ceo-if/articleshow/135933093.cms",
+       "publishedAt": "2026-11-17T21:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "National Security Agency network for internal communications goes down",
+     "link": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
+     "source": "The Guardian",
+     "sources": [
+      "CNN",
+      "Forex Factory",
+      "NDTV",
+      "National Security Agency (NSA) (.gov)",
+      "Reuters",
+      "The Guardian",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-18T00:30+05:30",
+     "score": 8.75,
+     "summary": "NSA issues ‘code yellow’ as NSANet, used by staff to share classified material, including top-secret intelligence, fails The National Security Agency said on Tuesday that it had experienced “temporary degradation” during scheduled routine maintenance, after reports that its classified internal communications network had gone down. In a statement, the agency said some internal systems were affected but that…",
+     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "National Security Agency network for internal communications goes down",
+       "link": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
+       "publishedAt": "2026-11-18T00:30+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Highly Classified US National Security Communications Network Down: Report",
+       "link": "https://www.ndtv.com/world-news/highly-classified-us-national-security-communications-network-down-report-12340389#publisher=newsstand",
+       "publishedAt": "2026-11-17T22:40+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Top secret US national security communications network goes down: Report",
+       "link": "https://timesofindia.indiatimes.com/world/us/americas-spy-agency-goes-dark-nsas-classified-internal-network-goes-down-no-cyberattack-evidence-yet-report/articleshow/135932100.cms",
+       "publishedAt": "2026-11-17T21:21+05:30"
+      },
+      {
+       "source": "Forex Factory",
+       "title": "CNN Reports US National Security Communications Network Has Gone Down",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmNhWWNYcEJiRWktOWVTOUYyU3FDWTdkSDRUT09rdWFWRzBuNjRab1hXYlJTOW9ySXJtT19SS2xMaDFTYzh4ZWNGYlp5dl90bEFtTGxja2FWV2piSUtPUVl1OWgtcHhibVhiQ0hNV1ZTRW12UTgyQWRYVHA2U3JHS0IzcldpQmNUVllFeE1UWWd5RzBlQldpUHhVLTVXNnppQUdZ0gGoAUFVX3lxTE5fenhBbVBRZXFpaGdJZk51bXhqMlVBeE5hRTMwajRrc2xmd0stdmRJeThyVEczNUR6UDJVamV2RDdVRk1OeTB4RDBjeE5WWVRxUXZjYTZ6bzJaWHA2X1dVVkVtN1RIMVlKTnNLYV9PWnMzczRERHVoY2I1QTNfdmYtdXo2LUdMd0Ywb0I4X3hQM0puTmdCaEVhZDA0VTRhOEROWjc1OURIMQ?oc=5",
+       "publishedAt": "2026-11-17T21:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India’s footballers celebrate SAFF final win against Pakistan",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indias-footballers-celebrate-saff-final-win-against-pakistan?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "AIFF",
+      "Al Jazeera",
+      "ESPN India",
+      "News On AIR",
+      "Sportstar",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-18T01:26+05:30",
+     "score": 8.14,
+     "summary": "The Indian men’s football team has been celebrating after winning the 2026 SAFF Championship.",
+     "image": "https://static.toiimg.com/photo/msid-135933541,imgsize-133624.cms",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "India’s footballers celebrate SAFF final win against Pakistan",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indias-footballers-celebrate-saff-final-win-against-pakistan?traffic_source=rss",
+       "publishedAt": "2026-11-18T01:26+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "2026 SAFF Championship Final: India beat Pakistan 2–1; secures record 10th title",
+       "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-beat-10-man-pakistan-21-in-dhaka-final-to-complete-three-peat-and-lift-record-10th-saff-crown/articleshow/135932517.cms",
+       "publishedAt": "2026-11-17T22:07+05:30"
+      },
+      {
+       "source": "Sportstar",
+       "title": "India vs Pakistan Highlights, SAFF Championship 2026 final: IND 2-1 PAK; Blue Tigers win 10th title",
+       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZF9VUjg0SmlrckxiX0UtcjVreU5QZ1UzLVVTRjdnUGdHTS1pdUo4TnQ3UVJ3YnVwa2t3MEc2c181SUx5bDdZZ1FXMFZCOWlDb2xtNDZNM3VENi1Pd1ZfWmhRVEU5bzRnSDU5TWV6aVBGS3UzN1hYNGd5VE80VVVYcU1oR3RJOEZTc1VBTGprYlVhZjBoSDV2NlJ3b1V6Qjl2Yk1KTmNKNnVoS3RGczI5RHo3bGNFVm5ILVNpWTlCZ0hvc1pUS1pPQXdiTUpfakdra2YzcWpfV0JzQWFn0gHjAUFVX3lxTFBDeUM0MzVRRHExTm02ZGgwRzJGOWZfclNyRXNhRTVMMXFNUU9qeEJlWXpOTVdoeW1JMUlpNFFqZGg3dW9IS2ZqTkJvMW4yRmd3T0IxOGt6clNtdDNZeFc4eVBIa1pCZ3dSdlY0RzhkcjJzMkt2b1ptNUMyMlRybGVsV3ZwaWtIeUZYTG5YeVVaYUkwSUo1QzNzODl1SklWc2QwMlA4YXhaNXVCV044emc1bktxRU5pbkFUNVItbm5CQnI2T0J2cDFINUxaMXlfbXNXTktUM3JWMVBIbkh5Z3llNnFr?oc=5",
+       "publishedAt": "2026-11-17T21:55+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Apple Services, Including iCloud And App Store, Down For Thousands Of Users",
+     "link": "https://www.ndtv.com/world-news/apple-services-including-icloud-and-app-store-down-for-thousands-of-users-12340975#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Bloomberg.com",
+      "Mashable",
+      "NDTV",
+      "The Times of India",
+      "Times of India",
+      "USA Today",
+      "Yahoo Tech"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-18T00:15+05:30",
+     "score": 7.95,
+     "summary": "Multiple users complained that they were unexpectedly signed out of iCloud on their Apple devices and faced verification failures while trying to sign in again.",
+     "image": "https://c.ndtvimg.com/2024-03/2h1d5o2g_apple-reuter_625x300_04_March_24.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Apple Services, Including iCloud And App Store, Down For Thousands Of Users",
+       "link": "https://www.ndtv.com/world-news/apple-services-including-icloud-and-app-store-down-for-thousands-of-users-12340975#publisher=newsstand",
+       "publishedAt": "2026-11-18T00:15+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Apple, Google outage: App Store, Gmail, Search and other services down",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-google-outage-app-store-gmail-search-and-other-services-down/articleshow/135937196.cms",
+       "publishedAt": "2026-11-17T23:48+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Apple, Google outage: App Store, Gmail, Search and other services down",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQWVQbDloZU9HQlRfNmg3S19FdG54N3Rma2E5TnZiUXZOSDhPMXh2dXFRSU5pdVlvTVFtUXFqZUZNcmxucVBERVdncWNYbFBCM1ROSWlUVWtGbFl0R01vTGV3cTZIN2tGU282U2c5UFFha2VzYkgyc2NXVlB5cm45R3RUa3hNSnpKOUNBR00yTHFrVzB1ak9XbmVwdkJ5OXB2OXhOc2MzWmJFRG1IWncwbVBGUGZJeDVYcmxZNHVXSlZGUDRhdDNKTllfbUlwajBfYXdZNllYSkNHdWJrbE1VVDV2Yw?oc=5",
+       "publishedAt": "2026-11-17T23:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gujarat Titans retained players list IPL 2027",
+     "link": "https://economictimes.indiatimes.com/news/sports/gujarat-titans-retained-players-list-ipl-2027-shubman-gill-sai-sudharsan-rashid-khan-among-22-players-check-full-squad/articleshow/135932410.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Home of Gujarat Titans",
+      "Jagran Josh",
+      "Sportstar",
+      "The Economic Times",
+      "The Times of India",
+      "Times of India",
+      "Yahoo Sports"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-17T21:46+05:30",
+     "score": 7.48,
+     "summary": "All ten IPL franchises have completed the process of retaining and releasing players before the IPL 2027 auction. Focus will now shift towards the upcoming auction where teams strategize to fill squad gaps. Each franchise's remaining purse will significantly influence their auction strategies. The complete breakdown of retained, released players, and financial resources remains available. IPL fans can look forward…",
+     "image": "https://static.toiimg.com/photo/msid-135926421,imgsize-61814.cms",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Gujarat Titans retained players list IPL 2027",
+       "link": "https://economictimes.indiatimes.com/news/sports/gujarat-titans-retained-players-list-ipl-2027-shubman-gill-sai-sudharsan-rashid-khan-among-22-players-check-full-squad/articleshow/135932410.cms",
+       "publishedAt": "2026-11-17T21:46+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "IPL 2027 retention: Full list of retained and released players, remaining purse",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-retention-list-full-list-of-retained-and-released-players-remaining-purse-of-all-10-teams/articleshow/135926264.cms",
+       "publishedAt": "2026-11-17T21:06+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "IPL 2027: Gujarat Titans retention list, released players and remaining purse",
+       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOY1NWVDhjRVlwdWprb254V1hWUV9vRWFYVmZKWkJWaFZsZDlPOTV0clhvSmFvNjlaYzViNU1rYjhBMWNGVnNtUFFKaWU4YWRtS0N3cDMyb3FtT1RieXFDaXgzQlB4WFplN3U1eUIwY1RpWE9oY1hKaHk4OGFUTV9EQ3pyeVJWYkNmVXh6Q185NEZid0VTT29KZ3pST25xaUFQWVhIR2ZSRWRpa0ZoUGJFRk5Cb1owSmFtZzVRR3pqVlJGQ0FRQjJnU05ibXdWWW5NTWN6NXI0U051U0tVaFBRczNuT2F5RkRnbHVoajU2a19kbnRRVVREWE1kT1jSAYICQVVfeXFMTm9OSFBtOGV2dEVjNHJQcFNtMHVWMWpQUVlKSFZ5djhMZTdRTVhUSFY3LVBHUEtrTUZKV2p3bU4wREpOVDV2TFRVakNQT1l5ZHB4eHE1RVQyb2RGa0JJT2V3MjBCSmlCR1dDa01wbHNaY1NORC1WZjExRWpsMWdVTERGXzJncG13Z1lEdHJQa3pZSmNwdzd4b2tDLWVTc3NIanFwMWt6RzlmbEVyaERFc1JJVkNSZzNweUJjcWxfMHJDNW1kQ1VSUkxvakJUMmtUMmZUcDZ2Tzg2SFFZLTZmYXNYRGIxbnNFN2VxU053LXcwaGhjUGJtZ1ROOEE1RkI5S2NB?oc=5",
+       "publishedAt": "2026-11-17T21:24+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-18T01:00+05:30",
    "generatedAt": "2026-11-18T01:31+05:30",
@@ -30351,193 +30561,6 @@
        "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWFV6NE1INllrcTlGZmFtTnVVeVFJcWVvRzhJY3dIbUZ1RFBQUWlTZWtDSy1GMVg2ZTZWTENFZFNpYWZ6ZS1EVHFvcDhHeEpqUFdSejJXZE84am1jSXV3YjN0akhHa3ZuRU9pSzNB?oc=5",
        "publishedAt": "2026-11-10T06:14+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-10T05:00+05:30",
-   "generatedAt": "2026-11-10T05:08+05:30",
-   "feeds": 16,
-   "headlines": 166,
-   "stories": [
-    {
-     "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "NVIDIA Newsroom",
-      "The Economic Times",
-      "The New York Times",
-      "The Times of India",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-10T04:43+05:30",
-     "score": 9.03,
-     "summary": "Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.",
-     "image": "https://static.toiimg.com/photo/msid-135695206,imgsize-95022.cms",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
-       "publishedAt": "2026-11-10T04:43+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'He had no idea she was a spy': Trump backs Nvidia CEO Jensen Huang",
-       "link": "https://timesofindia.indiatimes.com/world/us/he-had-no-idea-she-was-a-spy-trump-backs-nvidia-ceo-jensen-huang/articleshow/135695196.cms",
-       "publishedAt": "2026-11-10T04:03+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Trump's close ties to Nvidia's Huang scrutinized",
-       "link": "https://economictimes.indiatimes.com/tech/technology/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns/articleshow/135691644.cms",
-       "publishedAt": "2026-11-10T00:17+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'He had no idea she was a spy': Trump backs Nvidia CEO Jensen Huang",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOTZHWTU3c0l1OWEwUElVMmozcTZCWjRkc2JrcW1oblFSRDJDZHRVbUtkaFo1SnUyd3pNcnRSdDl0M2h2MGl0N0E5dHJVN3QwVG45bXdEYTRiZ0w1ZXBrUkRraWdQSFJDYzI3bzJ5WGg4cHhVNV9vUTJiS0pZaFNsUWM3YzBjWjZRei1vNHhVMS1wSUVSTjR5QnNsc2ZLRjRTSVlNd1JPWU1zMm1TMFcwNHhWdWFacWJPUy1OUnp2cThaQzhZaFNjOFZYbXdMMW1z?oc=5",
-       "publishedAt": "2026-11-10T04:03+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
-     "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
-     "source": "Times of India",
-     "sources": [
-      "NDTV",
-      "Reuters",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T00:51+05:30",
-     "score": 7.79,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135692217,imgsize-150770.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
-       "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
-       "publishedAt": "2026-11-10T00:51+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmJuZjgzYW5hamNYeWNpNGdzaXdTNnBSc0l2ZTlfc1FNQjV1c3lCdjJuamhCZjRaRnktTlhkZEF3SjdtdjlXYjcxbG9GaU9saDRBdmMzRXVLb1h2QWNObXF1aGZ1TUJhRW5FSWY4RkJpRUVTYzQwYVBmelFITFRVUHQ0RWdsMlpUOV8xT2pRM1FXQ2hpdmsyLVFOQnpVYThRSGFYUnNyN0IwXzFwRWtWZHlzMkdvbHJsdHRUdHMzaGI0UkdQbHVzNkJIeUhOZjdKQkxadlpYYUZkVWNQTGZTSFg3OA?oc=5",
-       "publishedAt": "2026-11-10T00:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
-     "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
-     "source": "Times of India",
-     "sources": [
-      "CNBC",
-      "Mashable",
-      "NDTV",
-      "TechCrunch",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T02:48+05:30",
-     "score": 6.99,
-     "summary": "The new models, Fable 5.2 and Mythos 5.2, can perform up to 30 percent faster than previous versions, particularly for complex tasks like coding, while costing 20 percent less, the company said.",
-     "image": "https://static.toiimg.com/photo/msid-135693108,imgsize-87908.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
-       "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
-       "publishedAt": "2026-11-10T02:48+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Anthropic Launches New Models Ahead Of IPO: Claude Fable 5.2, Mythos 5.2",
-       "link": "https://www.ndtv.com/world-news/anthropic-launches-powerful-new-models-claude-fable-5-2-and-mythos-5-2-ahead-of-ipo-12305314#publisher=newsstand",
-       "publishedAt": "2026-11-10T00:39+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdWlmTTQwWUlGdUthcE1uVkdINGN4ZVU5RGVMSmRjNzBBNGZYdzQwYkxWZWVzbUJDUW5Db1ZMZmFUS0dhS2NoZ09lNnpUR2VQelZJd29DMFFldlhuRWhHU244VEdTVVZia283d3FheGhnSm90eWlrYmxjTFRhd0dxNjNBVWQ3RWVzN3YwTGhyR0JaZWhJa2lfblVpdFZQSjRGajRRV0R6TFFlbk9CeDhxb1VPOWlmYUpMNzR5amNKV1FtR1NobUUwV0dzemxKbW5kaFhTYmlMZmpQdzhzRklTSU91bDBwZjdULTVZUU1tcGVYZ9IB9wFBVV95cUxOenZpa2paNlNLRUJwVEtKc0o0SkVzcjRPejd1RjIyeFBGVEZSQXV4MENHejhRRmNNano5OEpPekdvLVBFcGxuT1JIclc3dW15RVJxMlllSUM2WXFsN04yVHYwMDlYdWI5bVNXdG9ZVjNjcTZPTjlwYWRsVlZxTXNnemRzZnB2TEh6MXNNRDNlYWZ0STJzUkUyZGRibWNLNkJMOXFGbUJVV3dHREc1bnVHeVRtajdaa0RFb3ZWeW05Ykp4ekx4VWNLTVNibGRPQXVheDBGQjB4VzNEWVRIQWRVM0Q1R29iSUlYS2t2YjBBRkV2aHFGTU5j?oc=5",
-       "publishedAt": "2026-11-10T02:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Diwali is 'Eid of joy', says Kharge; Cong insulting Sanatan culture: BJP",
-     "link": "https://timesofindia.indiatimes.com/india/diwali-is-eid-of-joy-says-kharge-cong-insulting-sanatan-culture-bjp/articleshow/135691615.cms",
-     "source": "Times of India",
-     "sources": [
-      "Rediff",
-      "Telegraph India",
-      "The Economic Times",
-      "The Times of India",
-      "ThePrint",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T00:17+05:30",
-     "score": 6.28,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135691679,imgsize-69492.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Diwali is 'Eid of joy', says Kharge; Cong insulting Sanatan culture: BJP",
-       "link": "https://timesofindia.indiatimes.com/india/diwali-is-eid-of-joy-says-kharge-cong-insulting-sanatan-culture-bjp/articleshow/135691615.cms",
-       "publishedAt": "2026-11-10T00:17+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Diwali is 'Eid of joy', says Kharge; Congress insulting Sanatan culture: BJP",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjFkM1IxSXlEMW11UDk2amFJOFBvVkNfMVg0U05zU2hhSzdldHhRbE9EM3lsWGRLZ2FFdkpwbmFlOHMxa3FmeFM2WmJNaUtoVTlZakxCSUpOTTZmRERvVXVjVzc3SlFPOFViUnJrak1CRmVTRzhOUEJEejVCamowMXhoS2hWWGhlbDhuVm9nTWtqZEtaaTZubXV0c3p3ZllZcFFvb05TUmZ1NlhQWnNGYjJFRE9NMUwwQVpsSzhFRzUwU1FtaFZnMWtoMlRPNEYy?oc=5",
-       "publishedAt": "2026-11-10T00:17+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Qatar, Saudi Want Peaceful Iran Deal, US Ready For Strikes If Needed: Trump",
-     "link": "https://www.ndtv.com/world-news/qatar-saudi-want-peaceful-iran-deal-us-ready-for-strikes-if-needed-donald-trump-12305498#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "Iran International",
-      "NDTV",
-      "Reuters",
-      "The Hindu"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T04:37+05:30",
-     "score": 6.21,
-     "summary": "Trump, who met Qatar's prime minister earlier on Monday, said \"Qatar would rather see a peaceful solution\" and \"Saudi Arabia would rather see a peaceful solution\" but \"we're ready to go anytime we want\" with strikes.",
-     "image": "https://c.ndtvimg.com/2026-11/al90ni34_donald-trump_625x300_10_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Qatar, Saudi Want Peaceful Iran Deal, US Ready For Strikes If Needed: Trump",
-       "link": "https://www.ndtv.com/world-news/qatar-saudi-want-peaceful-iran-deal-us-ready-for-strikes-if-needed-donald-trump-12305498#publisher=newsstand",
-       "publishedAt": "2026-11-10T02:39+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Trump says Qatar, Saudi prefer peace in Iran conflict",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
-       "publishedAt": "2026-11-10T04:37+05:30"
       }
      ]
     }
