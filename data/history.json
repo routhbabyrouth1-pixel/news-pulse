@@ -1,6 +1,145 @@
 {
- "updated": "2026-11-18T03:22+05:30",
+ "updated": "2026-11-18T04:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-18T04:00+05:30",
+   "generatedAt": "2026-11-18T04:22+05:30",
+   "feeds": 16,
+   "headlines": 204,
+   "stories": [
+    {
+     "title": "Apple Services, Including iCloud And App Store, Down For Thousands Of Users",
+     "link": "https://www.ndtv.com/world-news/apple-services-including-icloud-and-app-store-down-for-thousands-of-users-12340975#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Bloomberg.com",
+      "NDTV",
+      "The Guardian",
+      "The Times of India",
+      "USA Today"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-18T00:15+05:30",
+     "score": 6.06,
+     "summary": "Multiple users complained that they were unexpectedly signed out of iCloud on their Apple devices and faced verification failures while trying to sign in again.",
+     "image": "https://c.ndtvimg.com/2024-03/2h1d5o2g_apple-reuter_625x300_04_March_24.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Apple Services, Including iCloud And App Store, Down For Thousands Of Users",
+       "link": "https://www.ndtv.com/world-news/apple-services-including-icloud-and-app-store-down-for-thousands-of-users-12340975#publisher=newsstand",
+       "publishedAt": "2026-11-18T00:15+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Apple, Google outage: App Store, Gmail, Search and other services down",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQWVQbDloZU9HQlRfNmg3S19FdG54N3Rma2E5TnZiUXZOSDhPMXh2dXFRSU5pdVlvTVFtUXFqZUZNcmxucVBERVdncWNYbFBCM1ROSWlUVWtGbFl0R01vTGV3cTZIN2tGU282U2c5UFFha2VzYkgyc2NXVlB5cm45R3RUa3hNSnpKOUNBR00yTHFrVzB1ak9XbmVwdkJ5OXB2OXhOc2MzWmJFRG1IWncwbVBGUGZJeDVYcmxZNHVXSlZGUDRhdDNKTllfbUlwajBfYXdZNllYSkNHdWJrbE1VVDV2Yw?oc=5",
+       "publishedAt": "2026-11-17T23:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Wall Street ends lower ahead of Nvidia earnings, Anthropic debut",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "CNBC",
+      "MarketWatch",
+      "Reuters",
+      "WSJ",
+      "Yahoo Finance"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-18T02:31+05:30",
+     "score": 5.79,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Wall Street ends lower ahead of Nvidia earnings, Anthropic debut",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
+       "publishedAt": "2026-11-18T02:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Here's how far a light-day really is, as NASA's Voyager 1 probe nears milestone",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3l3MHE4X0RJZzczcFE2enVhT05Cc3FwN0xtbzRoN0sxNWl1NDNuRjVfMUZMeEpaNVh2cDlkUDVXTFUzbWtBY3RfWkRJRmpDV1JidTlXdTk4OFJpZzB2S3VrNUxzbXB4VktmTXcwV1BPbE5yOFJJUDlkZXZHeUQyOG9FekZ4R3c?oc=5",
+     "source": "Gulf Coast News and Weather",
+     "sources": [
+      "Down To Earth",
+      "Gulf Coast News and Weather",
+      "Scientific American",
+      "Sky & Telescope",
+      "Telegraph India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-18T02:30+05:30",
+     "score": 5.73,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Gulf Coast News and Weather",
+       "title": "Here's how far a light-day really is, as NASA's Voyager 1 probe nears milestone",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3l3MHE4X0RJZzczcFE2enVhT05Cc3FwN0xtbzRoN0sxNWl1NDNuRjVfMUZMeEpaNVh2cDlkUDVXTFUzbWtBY3RfWkRJRmpDV1JidTlXdTk4OFJpZzB2S3VrNUxzbXB4VktmTXcwV1BPbE5yOFJJUDlkZXZHeUQyOG9FekZ4R3c?oc=5",
+       "publishedAt": "2026-11-18T02:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "What's the weather forecast for 'GTA 6'? The Weather Channel has a preview.",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93ZU1Lb3NlSTNGcnBjV0dpWExUbjRFUWFQT3hVZFhXYnRqV0RMLVNOVzU2Yl8ySXVGdUl3Q2pSQTdFcnRsUm1JLTFMWkM4VW1pNFdhTDhMREllUWg1cGd1bjBQTmUwZw?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "Mashable",
+      "Push Square",
+      "RockstarINTEL",
+      "The Northern Virginia Daily",
+      "The Verge"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-18T01:59+05:30",
+     "score": 5.67,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "What's the weather forecast for 'GTA 6'? The Weather Channel has a preview.",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93ZU1Lb3NlSTNGcnBjV0dpWExUbjRFUWFQT3hVZFhXYnRqV0RMLVNOVzU2Yl8ySXVGdUl3Q2pSQTdFcnRsUm1JLTFMWkM4VW1pNFdhTDhMREllUWg1cGd1bjBQTmUwZw?oc=5",
+       "publishedAt": "2026-11-18T01:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Three Observations from Germany’s 5-0 demolition of Xavi’s Netherlands",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1QyNHVsbG5VeXpYeUpSUnlsYkRSQlVBekk4ZFRCdE10T1BucGdaQzhqS19YNmZyOVBsSUVudW1VTkJ5WlEzQ1pqTGVhRkpmYlYtRTVKaU5aa0FZajN6N3lOZHY1ZEpESnJQYU5QRF9fbmxjRXVaNDhBdUZxN25NLXJSX2tmZzY3ZXNwY2FpT3IwTlpLUWs1dWpxejhsYktvMVZmN0ZYeWp0aWVLajFweTJTQ1g5TC1kQUE5X2tRbmhXbkdSbWJXa3hYaFFDWlBfMV9qemRFbmlfUQ?oc=5",
+     "source": "Bavarian Football Works",
+     "sources": [
+      "Al Jazeera",
+      "Bavarian Football Works",
+      "ESPN India",
+      "The Guardian",
+      "UEFA.com"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-18T01:52+05:30",
+     "score": 5.62,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Bavarian Football Works",
+       "title": "Three Observations from Germany’s 5-0 demolition of Xavi’s Netherlands",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1QyNHVsbG5VeXpYeUpSUnlsYkRSQlVBekk4ZFRCdE10T1BucGdaQzhqS19YNmZyOVBsSUVudW1VTkJ5WlEzQ1pqTGVhRkpmYlYtRTVKaU5aa0FZajN6N3lOZHY1ZEpESnJQYU5QRF9fbmxjRXVaNDhBdUZxN25NLXJSX2tmZzY3ZXNwY2FpT3IwTlpLUWs1dWpxejhsYktvMVZmN0ZYeWp0aWVLajFweTJTQ1g5TC1kQUE5X2tRbmhXbkdSbWJXa3hYaFFDWlBfMV9qemRFbmlfUQ?oc=5",
+       "publishedAt": "2026-11-18T01:52+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-18T03:00+05:30",
    "generatedAt": "2026-11-18T03:22+05:30",
@@ -30421,180 +30560,6 @@
        "title": "Trump says Qatar, Saudi prefer peace in Iran conflict",
        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
        "publishedAt": "2026-11-10T04:37+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-10T07:00+05:30",
-   "generatedAt": "2026-11-10T07:29+05:30",
-   "feeds": 16,
-   "headlines": 124,
-   "stories": [
-    {
-     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CNBC",
-      "NDTV",
-      "NVIDIA Newsroom",
-      "The Guardian",
-      "The Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-10T07:14+05:30",
-     "score": 10.46,
-     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-10T07:14+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
-       "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-       "publishedAt": "2026-11-10T06:14+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-       "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
-       "publishedAt": "2026-11-10T05:00+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Trump Says FBI Investigating Nvidia CEO's Affair With Alleged Chinese Spy",
-       "link": "https://www.ndtv.com/world-news/donald-trump-says-fbi-investigating-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-12305672#publisher=newsstand",
-       "publishedAt": "2026-11-10T04:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "NDTV",
-      "The Hindu",
-      "The Times of Israel",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T06:30+05:30",
-     "score": 7.33,
-     "summary": "Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
-     "image": "https://c.ndtvimg.com/2026-11/5n8p9aro_donald-trump_625x300_10_November_26.jpeg",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
-       "publishedAt": "2026-11-10T06:30+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "War On Iran Is \"Effectively Over\", Says Trump After Meeting With Qatari PM",
-       "link": "https://www.ndtv.com/world-news/iran-war-war-on-iran-is-effectively-over-says-donald-trump-after-meeting-with-qatari-pm-12305624#publisher=newsstand",
-       "publishedAt": "2026-11-10T04:03+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-     "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC News",
-      "CNN",
-      "NDTV",
-      "The Hindu",
-      "The New York Times"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T07:08+05:30",
-     "score": 7.24,
-     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-       "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-10T07:08+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
-       "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
-       "publishedAt": "2026-11-10T05:23+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
-     "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
-     "source": "Times of India",
-     "sources": [
-      "CNBC",
-      "NDTV",
-      "The GitHub Blog",
-      "The Times of India",
-      "The Verge",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T02:48+05:30",
-     "score": 6.72,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135693108,imgsize-87908.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
-       "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
-       "publishedAt": "2026-11-10T02:48+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdWlmTTQwWUlGdUthcE1uVkdINGN4ZVU5RGVMSmRjNzBBNGZYdzQwYkxWZWVzbUJDUW5Db1ZMZmFUS0dhS2NoZ09lNnpUR2VQelZJd29DMFFldlhuRWhHU244VEdTVVZia283d3FheGhnSm90eWlrYmxjTFRhd0dxNjNBVWQ3RWVzN3YwTGhyR0JaZWhJa2lfblVpdFZQSjRGajRRV0R6TFFlbk9CeDhxb1VPOWlmYUpMNzR5amNKV1FtR1NobUUwV0dzemxKbW5kaFhTYmlMZmpQdzhzRklTSU91bDBwZjdULTVZUU1tcGVYZ9IB9wFBVV95cUxOenZpa2paNlNLRUJwVEtKc0o0SkVzcjRPejd1RjIyeFBGVEZSQXV4MENHejhRRmNNano5OEpPekdvLVBFcGxuT1JIclc3dW15RVJxMlllSUM2WXFsN04yVHYwMDlYdWI5bVNXdG9ZVjNjcTZPTjlwYWRsVlZxTXNnemRzZnB2TEh6MXNNRDNlYWZ0STJzUkUyZGRibWNLNkJMOXFGbUJVV3dHREc1bnVHeVRtajdaa0RFb3ZWeW05Ykp4ekx4VWNLTVNibGRPQXVheDBGQjB4VzNEWVRIQWRVM0Q1R29iSUlYS2t2YjBBRkV2aHFGTU5j?oc=5",
-       "publishedAt": "2026-11-10T02:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Pawan Kalyan, Wife Anna Konidala Announce Separation After 13 Years Of Marriage",
-     "link": "https://www.ndtv.com/india-news/pawan-kalyan-wife-anna-konidala-announce-separation-after-13-years-of-marriage-andhra-pradesh-deputy-chief-minister-12305738#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Deccan Herald",
-      "NDTV",
-      "The Indian Express",
-      "The New Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T07:05+05:30",
-     "score": 6.68,
-     "summary": "In a joint statement posted late last night on Kalyan's Instagram page, they said they made the decision with \"mutual understanding and respect\".",
-     "image": "https://c.ndtvimg.com/2026-11/m9h9k4c8_pawan-kalyan_625x300_10_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Pawan Kalyan, Wife Anna Konidala Announce Separation After 13 Years Of Marriage",
-       "link": "https://www.ndtv.com/india-news/pawan-kalyan-wife-anna-konidala-announce-separation-after-13-years-of-marriage-andhra-pradesh-deputy-chief-minister-12305738#publisher=newsstand",
-       "publishedAt": "2026-11-10T07:05+05:30"
       }
      ]
     }
