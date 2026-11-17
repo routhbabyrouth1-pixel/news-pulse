@@ -1,6 +1,167 @@
 {
- "updated": "2026-11-17T06:30+05:30",
+ "updated": "2026-11-17T07:40+05:30",
  "hours": [
+  {
+   "hour": "2026-11-17T07:00+05:30",
+   "generatedAt": "2026-11-17T07:40+05:30",
+   "feeds": 13,
+   "headlines": 132,
+   "stories": [
+    {
+     "title": "United Airlines faces outage; 21 flights cancelled",
+     "link": "https://economictimes.indiatimes.com/nri/latest-updates/united-airlines-faces-tech-outage-days-after-faa-disruption-418-flights-delayed-21-cancelled/articleshow/135906553.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "AP News",
+      "CNN",
+      "Firstpost",
+      "NDTV",
+      "The Economic Times",
+      "The Guardian",
+      "The New York Times",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-17T06:18+05:30",
+     "score": 8.82,
+     "summary": "Chicago-based United said in a statement that while some flights were delayed because of the issue Monday afternoon, flights that were in the air and flights on its United Express regional network were not impacted.",
+     "image": "https://static.toiimg.com/photo/msid-135906119,imgsize-39498.cms",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "United Airlines faces outage; 21 flights cancelled",
+       "link": "https://economictimes.indiatimes.com/nri/latest-updates/united-airlines-faces-tech-outage-days-after-faa-disruption-418-flights-delayed-21-cancelled/articleshow/135906553.cms",
+       "publishedAt": "2026-11-17T06:18+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "United Airlines tech outage: What happened during 2-hour flight disruption",
+       "link": "https://timesofindia.indiatimes.com/world/us/united-airlines-hit-by-system-outage-days-after-nationwide-ground-stop-issue-resolved-within-hours/articleshow/135906026.cms",
+       "publishedAt": "2026-11-17T05:38+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "United Airlines Resolves Technology Issue After Widespread Outage",
+       "link": "https://www.ndtv.com/world-news/united-airlines-resolves-technology-issue-after-widespread-outage-12336157#publisher=newsstand",
+       "publishedAt": "2026-11-17T05:20+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "United Airlines says ‘widespread’ system outage resolved",
+       "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+       "publishedAt": "2026-11-17T04:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "LIVE: Cyclone Akvan set to get stronger on Nov 17; Odisha deploys 74 rescue teams, Chennai likely to get heavy rain | Hindustan Times",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjLSAY4CQVVfeXFMTkZ1R1g5ckZEWm4zQ3ZCRFlrUEtrM2NEODBEazhNQnFiNUdHN0RVdWlQUFJoUHo3N2pSQS0yOWtkT1RNSXJvRTVybGhVMWVDOHlHR3c1UElNVTVoTEVwaVd6dE9sem5mWGxPYl9mT08wdTQtRV9IdzUycHRNSnJGSWloQ3FrNFYzNEtUVk9nNE5CSkZBRUgzQXpMS19rRHA0MF9TcEs0eTBNWlVNOE5sY25sS0JPRkFUWXVfWW9pS283em9vamFVRjlSQklIdGFIdkUyckJKc2NZXzdCaVB0REpWYlBYMFo3NTl4OEtkVTlpaXhaU2lLX2ZLSC10OElwdDUwX1NoYjY3U3I5Z3hR?oc=5",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T07:13+05:30",
+     "score": 7.42,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "LIVE: Cyclone Akvan set to get stronger on Nov 17; Odisha deploys 74 rescue teams, Chennai likely to get heavy rain | Hindustan Times",
+       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjLSAY4CQVVfeXFMTkZ1R1g5ckZEWm4zQ3ZCRFlrUEtrM2NEODBEazhNQnFiNUdHN0RVdWlQUFJoUHo3N2pSQS0yOWtkT1RNSXJvRTVybGhVMWVDOHlHR3c1UElNVTVoTEVwaVd6dE9sem5mWGxPYl9mT08wdTQtRV9IdzUycHRNSnJGSWloQ3FrNFYzNEtUVk9nNE5CSkZBRUgzQXpMS19rRHA0MF9TcEs0eTBNWlVNOE5sY25sS0JPRkFUWXVfWW9pS283em9vamFVRjlSQklIdGFIdkUyckJKc2NZXzdCaVB0REpWYlBYMFo3NTl4OEtkVTlpaXhaU2lLX2ZLSC10OElwdDUwX1NoYjY3U3I5Z3hR?oc=5",
+       "publishedAt": "2026-11-17T07:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Santner out of India Tests with fractured hand; Foxcroft called up",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdU5paEVHekVtWXJ1QmlBaTBkcEpWVGtsOEdpRkNFRXFTU0dSUmxIcTBXU0xvZmlVa0NfX2xfd0ZVNUFTSnIxTWQxX3hYM2dLd0xBWmtoRXJFUlFXalRWZDhRdXdyS0t2ZE1wY0V5cmh6Y3NSR2hZMVA5VlQ5T1NjOE45aFZYT1JobHUySEpESmg4UjE4cjhNaHdMMnpUVGtsbFoxVU5KZkNzN3NXZUVJ?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "ICC",
+      "Rediff",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T06:19+05:30",
+     "score": 7.27,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "Santner out of India Tests with fractured hand; Foxcroft called up",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdU5paEVHekVtWXJ1QmlBaTBkcEpWVGtsOEdpRkNFRXFTU0dSUmxIcTBXU0xvZmlVa0NfX2xfd0ZVNUFTSnIxTWQxX3hYM2dLd0xBWmtoRXJFUlFXalRWZDhRdXdyS0t2ZE1wY0V5cmh6Y3NSR2hZMVA5VlQ5T1NjOE45aFZYT1JobHUySEpESmg4UjE4cjhNaHdMMnpUVGtsbFoxVU5KZkNzN3NXZUVJ?oc=5",
+       "publishedAt": "2026-11-17T06:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Quordle hints and answers for Tuesday, November 17 (game #1758)",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGpSOGlBVUtaRkFyR3JsS3BSODRUQ2x1U0Z2ekNPWXB6aDJQWGhrS2Y3b01yWWpOMXUwbjNoaGtXTlEyZXc5TS1CWG10ZTFLRmhyUDlLVi11TF9DU1pHOUQwejVicmNtVUxNSjhobFExTksyVUdOQ3VYeWlvVU5BYVBONUFWUWRteVRQMTBkTk0tbURRU3BIdXJn?oc=5",
+     "source": "TechRadar",
+     "sources": [
+      "Analytics Insight",
+      "Forbes",
+      "India News Network",
+      "TechRadar",
+      "Technobezz"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T05:30+05:30",
+     "score": 7.14,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "TechRadar",
+       "title": "Quordle hints and answers for Tuesday, November 17 (game #1758)",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGpSOGlBVUtaRkFyR3JsS3BSODRUQ2x1U0Z2ekNPWXB6aDJQWGhrS2Y3b01yWWpOMXUwbjNoaGtXTlEyZXc5TS1CWG10ZTFLRmhyUDlLVi11TF9DU1pHOUQwejVicmNtVUxNSjhobFExTksyVUdOQ3VYeWlvVU5BYVBONUFWUWRteVRQMTBkTk0tbURRU3BIdXJn?oc=5",
+       "publishedAt": "2026-11-17T05:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ties with Asean crucial for India's Act East Policy: PM",
+     "link": "https://timesofindia.indiatimes.com/india/ties-with-asean-crucial-for-indias-act-east-policy-pm/articleshow/135905979.cms",
+     "source": "Times of India",
+     "sources": [
+      "BusinessLine",
+      "Deccan Herald",
+      "NDTV",
+      "The Shillong Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T05:38+05:30",
+     "score": 6.87,
+     "summary": "The meeting that will likely draw maximum attention in India and possibly Japan is the Quad leaders' summit - the first such meeting since Trump returned to the White House.",
+     "image": "https://static.toiimg.com/photo/msid-135907413,imgsize-150062.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Ties with Asean crucial for India's Act East Policy: PM",
+       "link": "https://timesofindia.indiatimes.com/india/ties-with-asean-crucial-for-indias-act-east-policy-pm/articleshow/135905979.cms",
+       "publishedAt": "2026-11-17T05:38+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Ties with Asean crucial for India's Act East Policy: PM",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVRzT3ZSR1ZaeVg3OXdheXNQWWNvMER4QWVMcXNZWDgzeU5XdXVoMjBtWTdTLW9VYXNfLWRKSTYwMXpZZmFQWkMzaFhpVWlyQlg2c0pkd3NWQVBnUm05SnB5WmwxakFvTlRhY3BFaXJaQXZUeFJTZnB0LWNIN3o4X21JRHhWdEZWbGZId1A1X0t0clY1ZG9nS1dqM09NbWV6THRUV3QteEFJQm9ZZjJ0TmZ5OHZ3U1ZycUFBVk5B?oc=5",
+       "publishedAt": "2026-11-17T05:38+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-17T06:00+05:30",
    "generatedAt": "2026-11-17T06:30+05:30",
