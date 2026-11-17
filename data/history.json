@@ -1,6 +1,194 @@
 {
- "updated": "2026-11-17T12:43+05:30",
+ "updated": "2026-11-17T14:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-17T14:00+05:30",
+   "generatedAt": "2026-11-17T14:27+05:30",
+   "feeds": 16,
+   "headlines": 324,
+   "stories": [
+    {
+     "title": "‘World needs peace, stability and predictability’, says PM Modi at Asean-India summit in Philippines",
+     "link": "https://www.hindustantimes.com/india-news/world-needs-peace-stability-and-predictability-says-pm-modi-at-asean-india-summit-in-philippines-101794900656291.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "ET Government",
+      "Hindustan Times",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-17T13:11+05:30",
+     "score": 9.29,
+     "summary": "Prime Minister Narendra Modi arrived in the Philippines on Monday to attend the summit and the 21st East Asia Summit, which is also being held in the country.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/PTI11-17-2026-000063B-0_1794900739468_38Ju_1794900771830_6rs6_988e3264-48cb-4fa7-bf8a-d64190fe6a5d_9cSZ.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "‘World needs peace, stability and predictability’, says PM Modi at Asean-India summit in Philippines",
+       "link": "https://www.hindustantimes.com/india-news/world-needs-peace-stability-and-predictability-says-pm-modi-at-asean-india-summit-in-philippines-101794900656291.html",
+       "publishedAt": "2026-11-17T13:11+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "‘World needs peace, stability’: PM Modi in Manila",
+       "link": "https://economictimes.indiatimes.com/news/india/world-needs-peace-stability-and-predictability-pm-modi-at-asean-summit-in-manila/articleshow/135913983.cms",
+       "publishedAt": "2026-11-17T12:19+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'World needs peace, stability and predictability': PM Modi at India-Asean summit",
+       "link": "https://timesofindia.indiatimes.com/india/today-world-needs-peace-stability-more-than-ever-top-quotes-from-pm-modis-address-at-asean-summit/articleshow/135913582.cms",
+       "publishedAt": "2026-11-17T11:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Supreme Court junks UP's plea against HC stay on Azam Khan's conviction in fake birth certificate case",
+     "link": "https://www.hindustantimes.com/india-news/supreme-court-junks-uttar-pradesh-plea-against-hc-stay-on-azam-khans-conviction-in-fake-birth-certificate-case-101794896341509.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "Live Law",
+      "Mid-Day",
+      "ThePrint",
+      "Times of India",
+      "Verdictum"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-17T11:58+05:30",
+     "score": 7.8,
+     "summary": "A bench of justices Dipankar Datta and Sheel Nagu also stayed the conviction of Khan’s son and wife in the same case.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/azam_khan_1794896381765_Uk27_1794896381868_rTcG_f93c5ed4-4d01-4671-9dc2-9e39057c0823_SGDd.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Supreme Court junks UP's plea against HC stay on Azam Khan's conviction in fake birth certificate case",
+       "link": "https://www.hindustantimes.com/india-news/supreme-court-junks-uttar-pradesh-plea-against-hc-stay-on-azam-khans-conviction-in-fake-birth-certificate-case-101794896341509.html",
+       "publishedAt": "2026-11-17T11:58+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "SC rejects UP govt's plea against stay on Azam Khan's conviction",
+       "link": "https://timesofindia.indiatimes.com/india/forged-birth-certificate-case-sc-rejects-up-govts-plea-against-stay-on-azam-khans-conviction/articleshow/135911846.cms",
+       "publishedAt": "2026-11-17T10:55+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Supreme Court Upholds Stay On Azam Khan's Conviction In Forged Birth Certificate Case, Gives Same Relief...",
+       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQmJhRVBHS0FxcmlYdGx0YXdaTFA0TTJ0MkRSaHZFWnVmbXdTeGxNYmIwTUFkell6VWpqeUZEeENReVpsdW50OXcxdnRObUJXcGVnbjBDalM3MTBKbUk0VF9XcEMxWWFLOWR3YXVfQjlOSXVsSHVMNXRDR3llUFJEVmxDaThGVUh1alA1cXJMRDZwdmVhUmZiVHlZSUJDcUdEMGdtU2QxSUhfZDVpZW1fcW5iR19lNkk5MGZpNjY2dTgzbHd3bWc1dXVjM1d6bjlNcTRtaVc5SkpNdUhSZ2g3Y1drTkhDejFwNUZzONIB8gFBVV95cUxORVlZTU44RFlYYlQ0RmVzeUlzblZuNkx0UjBCZHZEdS1zMVhDMGVrcWtsVDc5S1VxUU43NWZhWXY0X1dRd2plT0hubzZxUXZ1c09QbEpuMER5UmFCVjQwTDR1WjM5QW40Sy1zWEJIMk9xYzRSemU2R01Zb3ZUQk1ZOTJpYXJqTFJDN1dBb0pJYkpZNDEyQkpKaW5Ia1lTMGZGVlRTZXVTWWlMdmV1RVdKVHpKQ1UybFpHdVlzMHNZZDAxcFE2UDUwazM2OW1LekVFV21DWDJDdE1wQ0ozUUxHMUhtV3ZtM0JnREdUYkZwRWNqdw?oc=5",
+       "publishedAt": "2026-11-17T10:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Delhi HC pulls up Kejriwal, 5 AAP leaders; gives them last opportunity to file responses in contempt case",
+     "link": "https://www.hindustantimes.com/india-news/hc-pulls-up-kejriwal-5-aap-leaders-gives-them-last-opportunity-to-file-responses-in-contempt-case-101794899406706.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Bar and Bench",
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-17T12:40+05:30",
+     "score": 7.79,
+     "summary": "Justice Swarana Kanta Sharma initiated the contempt case over allegedly defamatory social media posts against her.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/Former-Delhi-chief-minister-Arvind-Kejriwal---HT-P_1794899398733_cAO1.jpeg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Delhi HC pulls up Kejriwal, 5 AAP leaders; gives them last opportunity to file responses in contempt case",
+       "link": "https://www.hindustantimes.com/india-news/hc-pulls-up-kejriwal-5-aap-leaders-gives-them-last-opportunity-to-file-responses-in-contempt-case-101794899406706.html",
+       "publishedAt": "2026-11-17T12:40+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Taking us for a ride': HC pulls up Kejriwal, AAP leaders over posts against Delhi judge",
+       "link": "https://timesofindia.indiatimes.com/india/taking-us-for-a-ride-hc-pulls-up-kejriwal-aap-leaders-over-posts-against-delhi-judge-with-a-warning/articleshow/135914260.cms",
+       "publishedAt": "2026-11-17T12:19+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"Taking Us For A Ride\": Delhi High Court Pulls Up Arvind Kejriwal, Other AAP Leaders In Contempt Case",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDBuRnVpU292X01wWWNrdXpsNkM4OEMwQW1SeUprMWQ3bGNsRDhXOWZwQ0pVMmtyMFg3dXVVU0ROcDFQYWttLWVFZUNSSjFHdGNyZ0s2eWxNenk5WjJWV2tGZjZzM0dtdnV2VDdZUXg4X3ZyMXBlZEx6N1NQYmV2Y3U1QVMwXy1oUVZhdFpTWVBKdHlrRld1T19fRHpuVjlPcktteUlMYXRzZUxzRFl4eEpRbzktSlo1dEVSQl9YcnItZy1kbmJNd3plY3FJZXFhSXFLXw?oc=5",
+       "publishedAt": "2026-11-17T12:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bilkis Bano expresses shock, disbelief at SC order suspending sentences of 2 convicts",
+     "link": "https://www.hindustantimes.com/india-news/bilkis-bano-expresses-shock-disbelief-at-sc-order-suspending-sentences-of-2-convicts-101794901752700.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T13:19+05:30",
+     "score": 7.56,
+     "summary": "",
+     "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_india3_1751287297962_1751287304722.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Bilkis Bano expresses shock, disbelief at SC order suspending sentences of 2 convicts",
+       "link": "https://www.hindustantimes.com/india-news/bilkis-bano-expresses-shock-disbelief-at-sc-order-suspending-sentences-of-2-convicts-101794901752700.html",
+       "publishedAt": "2026-11-17T13:19+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Fresh tears of pain, shock, disbelief': Bilkis Bano after SC grants bail to convicts",
+       "link": "https://timesofindia.indiatimes.com/india/i-am-scared-once-again-bilkis-bano-releases-statement-after-sc-grants-bail-to-two-convicts/articleshow/135914851.cms",
+       "publishedAt": "2026-11-17T12:38+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Bilkis Bano Expresses Shock Over Supreme Court Order Suspending Sentences Of Men Convicted For Gang-Rape...",
+       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTnNWMnE2WVBrSnRyQXRUbnlSZnFhWnZ3REFaVE5xRzc2d3QyWGpuSmRrWXZWZ2t5VUdmUHE1SDJOaWlETjZWclQxRDdJQ2VKWmpCODZSM1pnNk0xSUdJWk42U2JBZHcyUE1ybVgxc1JoTHZWU2NoeUw1TDVKNWRfNkdrYVEzOU96MEJmWVI1bDRjQ1lSNmZoZGo4eWx4WXp1ZVNOd1E0RGRtb0JJdGtEc3dBR0puU0Vyd0x1MlpDRndmZEk4R1BaTFhWN0FSZTlmTktTTi1hR0NuZWI1LTZXZVprb2E4YVhnVldqZDBlaXlrejNwYjRDcGxzTHVDZUpiOGF4etIBigJBVV95cUxPRDkwNzVvR1BLTU9sVGJ6NE13Yk1LTHVkenJOakJCdFlTZEpQSnd6YmpEM3BGcUJlUVJsT3liczgwa3BVRmlLN3R2TTAxczN2ZnlmS2x1dk9IRGpWTGRLNk5WRTB6anRJc3lVYXdiY1QydzFDNWRjb2dCS2xMQm85ZGNFT1NHTW9LbTRqT1dhS2Jjb21jUzBrTXc1bFVXYnZDWXVudTVTYzNvVkhwak9sUzAwT1VhR3lmc3FvbVVmSXRQdVM3aDZlQk5hbDE5Z0JYdkZ1aGh0N0NEdnRZbHVONkdPeGhmYVotcURKM3ZXRmh3N2E0SlFRdUV2aTNaZFFKcWswaEJ4SVQxUQ?oc=5",
+       "publishedAt": "2026-11-17T12:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
+     "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
+     "source": "The Hindu",
+     "sources": [
+      "ET Government",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "TheWire.in"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T14:18+05:30",
+     "score": 7.47,
+     "summary": "In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
+       "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
+       "publishedAt": "2026-11-17T14:11+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-17T12:00+05:30",
    "generatedAt": "2026-11-17T12:43+05:30",
