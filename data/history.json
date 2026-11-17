@@ -1,6 +1,204 @@
 {
- "updated": "2026-11-17T19:46+05:30",
+ "updated": "2026-11-17T21:24+05:30",
  "hours": [
+  {
+   "hour": "2026-11-17T21:00+05:30",
+   "generatedAt": "2026-11-17T21:24+05:30",
+   "feeds": 16,
+   "headlines": 321,
+   "stories": [
+    {
+     "title": "GRAP III Curbs Revoked In Delhi-NCR As Air Quality Improves",
+     "link": "https://www.ndtv.com/india-news/grap-iii-curbs-revoked-in-delhi-ncr-as-air-quality-improves-12338804#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Scroll.in",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-17T17:59+05:30",
+     "score": 8.5,
+     "summary": "The GRAP III was invoked on November 7, a day before Diwali, as the air quality across Delhi and the National Capital Region had plummeted.",
+     "image": "https://c.ndtvimg.com/2023-11/44eh4798_delhi-pollution_625x300_04_November_23.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "GRAP III Curbs Revoked In Delhi-NCR As Air Quality Improves",
+       "link": "https://www.ndtv.com/india-news/grap-iii-curbs-revoked-in-delhi-ncr-as-air-quality-improves-12338804#publisher=newsstand",
+       "publishedAt": "2026-11-17T17:59+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "GRAP-3 revoked across Delhi-NCR as AQI falls to 204; stage 1 and 2 curbs stay",
+       "link": "https://timesofindia.indiatimes.com/city/delhi/grap-3-revoked-across-delhi-ncr-as-aqi-falls-to-204-stage-1-and-2-curbs-stay/articleshow/135924769.cms",
+       "publishedAt": "2026-11-17T17:41+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "GRAP-III restrictions lifted in Delhi-NCR as air quality improves; Stage I and II curbs to remain in effect",
+       "link": "https://www.livemint.com/news/india/grapiii-restrictions-lifted-in-delhi-ncr-as-air-quality-improves-stage-i-and-ii-curbs-to-remain-in-effect-11794915907406.html",
+       "publishedAt": "2026-11-17T17:20+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "GRAP Stage III restrictions revoked in Delhi-NCR as AQI improves to 204",
+       "link": "https://www.hindustantimes.com/india-news/grap-stage-iii-restrictions-revoked-in-delhi-ncr-as-aqi-improves-to-204-101794914664244.html",
+       "publishedAt": "2026-11-17T17:08+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Delhi’s air quality improves, GRAP-3 restrictions lifted",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSDdIQmNuY2ZpLVlXX3JRQWpCZGhWSlhuNzZKXzlVQnZoV2lGYkh5Z0NUcUR3U2dEZ2xvdW51OV9kcGFkNHpBOVZmYkFzcFB3M3dtYmc5S3E5b0ZQQXFjYWkyZTB6bEJpbWQzZzRIaE9iOTFZelUwR1B1eFEzYUJXQnB1cEJuZHJnOTBEXzhDZjR3UHpyZHpGOWNXWi13SlA5LS1OUHdwSnE1OVNWbEJxTUQweVlRNkhX0gG_AUFVX3lxTE40M0ljYmZyMWVHekw0LWVHdlVNZEZoTV9admJzZ3Yzdko0dVFSSGNiQ1VCdUdheVpZZVRUTlk1dFNORmZHdGFfTmpJLWhxOXV5ZHllR1h4eHZJOWRoM1NSM2tMLW1ZTzhJdHRBWXBYOFVGVGNqYlRwbExnYW9JcWFiUmIzSHhzcEhYU1I4ZVZLMkRBWHdDaFJjODlJWGdLU28wa1YzUTBEY3BWOHdmM3VJOGwyZFh0anpMLXZuNjBj?oc=5",
+       "publishedAt": "2026-11-17T17:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "IPL 2027 retention: Full list of retained and released players, remaining purse",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-retention-list-full-list-of-retained-and-released-players-remaining-purse-of-all-10-teams/articleshow/135926264.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T21:12+05:30",
+     "score": 8.46,
+     "summary": "All ten IPL franchises have completed the process of retaining and releasing players before the IPL 2027 auction. Focus will now shift towards the upcoming auction where teams strategize to fill squad gaps. Each franchise's remaining purse will significantly influence their auction strategies. The complete breakdown of retained, released players, and financial resources remains available. IPL fans can look forward…",
+     "image": "https://static.toiimg.com/photo/msid-135926421,imgsize-61814.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "IPL 2027 retention: Full list of retained and released players, remaining purse",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-retention-list-full-list-of-retained-and-released-players-remaining-purse-of-all-10-teams/articleshow/135926264.cms",
+       "publishedAt": "2026-11-17T21:06+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "KKR Retained Players List For IPL 2027",
+       "link": "https://economictimes.indiatimes.com/news/sports/cricket/kkr-retained-players-list-for-ipl-2027-rinku-singh-cameron-green-sunil-narine-among-17-players-check-full-squad/articleshow/135930977.cms",
+       "publishedAt": "2026-11-17T20:45+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "IPL 2027 retention LIVE: Dhoni retires, teams announce lists of released and retained players as deadline ends",
+       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxON1ExaEFVU243dkVDRmxGc09TWks1bVFYWE5Fbm5VZ3dMZjRxbk0wUVFBaHNqbUs5VnkzNGdCckV4U01KV2c0cDM5NDAtVmVrRFpiRnZIVGRMT0ViQU5qTV9VMlpvdEN1NDZENERsN2VzVGlma3pUbF90LTBTOFdYajhpWU5vUXA2MGY1d2xBSzUyREg2QnFwM3ZIOFg3R2sxR3R4RFhVdWZtVVNKbnBPYWpBXzdPMTdoVFBZZ29COTVuUjhvTE9obi1rWnI4RlRteVN3NjNhSnJtZzg2UllWVVhrRERObjAzdUZ1MlNxazlZSFVadzJTSzhTQUpRYWVWU2k2OUUzMNIBjgJBVV95cUxQeUl5VGVjWVVJSUJQcThsRlk4Y2JGTDh6X0pDenhxcjE2RUFGYmVtR2g3NVJOd1NSVWpRMU5EaUNMbHBHZ21XU0k2bWpaNE9jOEFmOW5KYklwQWxXUTVscGxZT2FXNjdEYmoxdmpDOGs4S3djZTF0RjVDZmRGWV9SdVh1eDctQmdDUFV1ZmFEemMxQmt4N2hKc0VNcXhjN2FPaGxCZzZkVzBmWmVYcGJTYjBNckRHZUx0YU1zMkl2dlRlU3ExYkFaQzNVUm14ekZTWVdPWVhwMlBfXzVmU1AtWER4YlpVd3hXUmRpV3VNQ1NOY3MxSE1HVFZMVFA2R2ZyWWVfOGxZbk12M2Jva1E?oc=5",
+       "publishedAt": "2026-11-17T21:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "PM Modi By His Side, Trump Repeats \"Tough Guy\" Praise At Quad Summit",
+     "link": "https://www.ndtv.com/world-news/pm-modi-by-his-side-trump-repeats-tough-guy-praise-at-quad-summit-12338559#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T17:58+05:30",
+     "score": 7.93,
+     "summary": "PM Modi, while addressing the meeting with Quad leaders, said that Quad is a \"constructive and trusted partnership\" for India.",
+     "image": "https://c.ndtvimg.com/2026-11/h3ir5tjc_trump-modi_625x300_17_November_26.jpg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "PM Modi By His Side, Trump Repeats \"Tough Guy\" Praise At Quad Summit",
+       "link": "https://www.ndtv.com/world-news/pm-modi-by-his-side-trump-repeats-tough-guy-praise-at-quad-summit-12338559#publisher=newsstand",
+       "publishedAt": "2026-11-17T17:58+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Tough man, great leader': Trump heaps praise on PM Modi at crucial Quad meeting",
+       "link": "https://timesofindia.indiatimes.com/india/hes-a-tough-man-trump-praises-pm-modi-ahead-of-key-quad-meeting/articleshow/135922816.cms",
+       "publishedAt": "2026-11-17T16:40+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘He's a very tough man and a great leader’: Trump praises Modi during Quad Summit meet",
+       "link": "https://www.hindustantimes.com/india-news/modi-is-a-very-tough-man-donald-trump-big-praise-during-quad-summit-meet-albanese-japan-australia-asean-video-101794912954712.html",
+       "publishedAt": "2026-11-17T16:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Quad Leaders Summit LIVE Updates: Quad trusted Partnership For India, Says PM Modi",
+     "link": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T19:48+05:30",
+     "score": 7.23,
+     "summary": "Quad Leaders Summit LIVE Updates: The Quad leaders, including PM Narendra Modi,US President Donald Trump, Australian Prime Minister Anthony Albanese and Japanese Prime Minister Sanae Takaichi, will participate in a meeting in Manila, Philippines.",
+     "image": "https://c.ndtvimg.com/2026-11/djt6vhu_trump_625x300_17_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Quad Leaders Summit LIVE Updates: Quad trusted Partnership For India, Says PM Modi",
+       "link": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
+       "publishedAt": "2026-11-17T18:17+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘Constructive and trusted’: PM Modi on Quad partnership at Manila Summit",
+       "link": "https://www.hindustantimes.com/india-news/constructive-and-trusted-partnership-pm-modi-on-quad-partnership-at-manila-summit-101794913706456.html",
+       "publishedAt": "2026-11-17T16:42+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "ASEAN Summit LIVE updates: Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUI0eEc4ZGlHdHRTeG4yQUJzTTNFdmZWTWlIb1NVZmg0ZlMyQkJwaVFISm42NUw2YzZzNHhFLTVRZHBpU0hhUWtiZ3pJQ2NYTzRfTmNhWEM5SFVWcUhraUVZMGMyeGdaUklBT0NvQVhmb2pqSVdEdk1IcGgzMzJ0YjZqeFlLUkkzRU1Ydlc5SmViQlVGaS11c0hmYlJmUUxVRXVtT0V2aUZ2aWtoNDVrclVpTVYzdkdZQmotY3gxNWJHVFpLLWJNRmhyb2Q3UF9iTmpRSTZDOWFtMUEzR3dLdnM1aXljdFNiZ2hj?oc=5",
+       "publishedAt": "2026-11-17T19:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR0FJbHZvdFBoTndtbkdRTEhNLVFkU0hUSHB2alpacEkwVTBXdm5HNll6TERuMmlJeGFUZU1kYjFkNlBsU2Vfa0owZ3QtT1R3cW9VS0JhRl83eWF4QkloTEFOS3NXNkZnQmk2b0g3ZGE0aVh0TmljOGdpOXgzcTJNdzJMaEMwQnZXM3YtakNZbUZkRU9YRUE0aTdIMGk3X1A1VXl0VGZZRjJuZE9SSDFEMDR0LXlNRUhQWnoxdVduLTRZOTJiOFJXMWFNR252U0J4WE53OWJRLV8tc3Rp0gHjAUFVX3lxTE8wOEJZRXhfZ0tTaVpucUNPZG9XMjRlOVFlWTc1U2lRalJjbWl0Q2ppZElma2NaTTJJcDdTWUpGdTA0RTdva0VmSC1ocWU5NzNjai1tVnNTRThPVGJyNXloSG9vQ3pyZzBIY3NEWThoazBiVnMxclVNTkg4OUNVTU1NQmVxd3VMSGZXWFhsYmNJWFFjQ1E0alNNNTRyTVVkN0loU3hLaUFjVHpKQTU1ZmZST3JsWmJDR3FiMmoweXMxM05uRlk4dHl6Y2RDV29GRXZJdTBCODVjTnFIVFNIZkxuSGZV?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "BBC",
+      "Bloomberg.com",
+      "CNBC",
+      "The Hindu",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T18:26+05:30",
+     "score": 7.01,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
+       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR0FJbHZvdFBoTndtbkdRTEhNLVFkU0hUSHB2alpacEkwVTBXdm5HNll6TERuMmlJeGFUZU1kYjFkNlBsU2Vfa0owZ3QtT1R3cW9VS0JhRl83eWF4QkloTEFOS3NXNkZnQmk2b0g3ZGE0aVh0TmljOGdpOXgzcTJNdzJMaEMwQnZXM3YtakNZbUZkRU9YRUE0aTdIMGk3X1A1VXl0VGZZRjJuZE9SSDFEMDR0LXlNRUhQWnoxdVduLTRZOTJiOFJXMWFNR252U0J4WE53OWJRLV8tc3Rp0gHjAUFVX3lxTE8wOEJZRXhfZ0tTaVpucUNPZG9XMjRlOVFlWTc1U2lRalJjbWl0Q2ppZElma2NaTTJJcDdTWUpGdTA0RTdva0VmSC1ocWU5NzNjai1tVnNTRThPVGJyNXloSG9vQ3pyZzBIY3NEWThoazBiVnMxclVNTkg4OUNVTU1NQmVxd3VMSGZXWFhsYmNJWFFjQ1E0alNNNTRyTVVkN0loU3hLaUFjVHpKQTU1ZmZST3JsWmJDR3FiMmoweXMxM05uRlk4dHl6Y2RDV29GRXZJdTBCODVjTnFIVFNIZkxuSGZV?oc=5",
+       "publishedAt": "2026-11-17T18:26+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-17T19:00+05:30",
    "generatedAt": "2026-11-17T19:46+05:30",
