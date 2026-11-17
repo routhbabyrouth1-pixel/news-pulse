@@ -1,6 +1,221 @@
 {
- "updated": "2026-11-18T02:22+05:30",
+ "updated": "2026-11-18T03:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-18T03:00+05:30",
+   "generatedAt": "2026-11-18T03:22+05:30",
+   "feeds": 17,
+   "headlines": 264,
+   "stories": [
+    {
+     "title": "Jensen Huang Ready To Return As Nvidia CEO, Says \"Own My Mistakes\"",
+     "link": "https://www.ndtv.com/world-news/would-be-honoured-to-return-as-ceo-jensen-huangs-first-statement-since-resignation-12340480#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC News",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "Reuters",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-18T00:01+05:30",
+     "score": 9.94,
+     "summary": "Jensen Huang said he has seen calls from the firm's employees, investors, and customers for him to return as the CEO and he would be honoured to do so.",
+     "image": "https://c.ndtvimg.com/2024-10/44tv9so8_jensen-huang_625x300_24_October_24.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Jensen Huang Ready To Return As Nvidia CEO, Says \"Own My Mistakes\"",
+       "link": "https://www.ndtv.com/world-news/would-be-honoured-to-return-as-ceo-jensen-huangs-first-statement-since-resignation-12340480#publisher=newsstand",
+       "publishedAt": "2026-11-18T00:01+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+       "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-17T23:54+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "‘Would be honoured to return’: Jensen Huang breaks silence after resigning from Nvidia",
+       "link": "https://indianexpress.com/article/world/jensen-huang-breaks-silence-resigning-from-nvidia-will-be-honoured-to-return-ceo-10967309/",
+       "publishedAt": "2026-11-17T22:03+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'I own my mistakes': Jensen Huang breaks silence on return as CEO after Nvidia scandal",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-speaks-for-the-first-time-after-his-resignation-says-willing-to-return-as-nvidia-ceo-if/articleshow/135933093.cms",
+       "publishedAt": "2026-11-17T21:54+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Jensen Huang speaks for the first time after his resignation, says willing to return as Nvidia CEO if…",
+       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUlBRbkFvZDRxNGxCSHgwemM4WjJBY3hUdlZvd0ZISnl1MDhYSWtoejN1ZWFfU0lVT3JST0R2dW9OSE9uLUMtd0I0WXJPakpTcDc1NmlmcC1RaThyY3Z1eUVJTXpwUjJOU3ZDaUg1SHFyM2ljX0lGejVQYUd5TmRBSlM3dDZ4ckVGdFZTdG9McEMtZkc4bWhEQmR1dG9rNlpwSTRKUzZpZDU0Nk1rc2lFM19pZ2M0aGFtWlJWX1VTejBUNEkwaXhJaVVsZFVlODFWYkZHTWlsS1g3UDBiNE00MlJiRE1uVnhHOXdXelE4YV9pNFZWTjVOSDFaNUt5d0RaTEhaZkRyOHpjSUt6WFc1Vg?oc=5",
+       "publishedAt": "2026-11-17T21:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Apple services down: iCloud, App Store and Apple Pay users report disruptions",
+     "link": "https://indianexpress.com/article/technology/apple-outage-icloud-app-store-apple-pay-10967415/",
+     "source": "The Indian Express",
+     "sources": [
+      "Bloomberg.com",
+      "Livemint",
+      "NDTV",
+      "The Guardian",
+      "The Indian Express",
+      "The Times of India",
+      "USA Today",
+      "Yahoo Tech"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-18T00:28+05:30",
+     "score": 8.89,
+     "summary": "Multiple users complained that they were unexpectedly signed out of iCloud on their Apple devices and faced verification failures while trying to sign in again.",
+     "image": "https://images.indianexpress.com/2026/11/apple-logo_20261117184624.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Apple services down: iCloud, App Store and Apple Pay users report disruptions",
+       "link": "https://indianexpress.com/article/technology/apple-outage-icloud-app-store-apple-pay-10967415/",
+       "publishedAt": "2026-11-18T00:28+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Apple Services, Including iCloud And App Store, Down For Thousands Of Users",
+       "link": "https://www.ndtv.com/world-news/apple-services-including-icloud-and-app-store-down-for-thousands-of-users-12340975#publisher=newsstand",
+       "publishedAt": "2026-11-18T00:15+05:30"
+      },
+      {
+       "source": "Livemint",
+       "title": "Apple outage hits thousands in US: iCloud, App Store, Apple Pay and Apple Music users report issues",
+       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV21VSFFVd1FEblF3SHRPcmVyaFY4Q204ZDB2YnZRYjhRX3Q0VlhnLUlfRHR2RkRfclVqb29UeU1WZmh5aTdGUERKdDZXdmNOY1g1cnAwVWctOFFYVWctRTg2ajc3OEVjNlNNZXlJOFpCT1ZtblBrdE9tWFNWV0xmVGVNLWNXY0tGMDZCMVRjak56eElTWGtkTWgwcmMyalRDYmlMdHR4UWt4OGlON1pza2JNM1VWNFF0Y0RQMUlOSTk4V1h3LU1qU2F4SUROOFp1YUVNaFpMS2ozMGZyWk1ydm05aXJJMmvSAewBQVVfeXFMTmpIV3NJR2dHX3pobVd4SnNRVjVKNzVJNFloWUdMR0ZTNHVHMWx4dUR0eUV1Yk9Hakliajd1TmRudWxXdHJiY0hsRlBCeHlteXdCNkY5TU5XVTlsUXRDYmxSWTRxMXJTc3pTYWxybzFEb3JOeFBaSnZYXzNucEhwY1Z5MzlTZ1dJTzVyLXBBNUNRbm00bGFrZXQxLWpXZjRvWTdhYlhoaFlIRjlsYnNRYXdYSG10dkpwWWpYMWU0OFc5OGtva1J6emdKSEJFU0NPaW5VMkRGYjFKWDY0a3YzM3RSWGxkcjNWSzNBaEk?oc=5",
+       "publishedAt": "2026-11-17T23:54+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Apple, Google outage: App Store, Gmail, Search and other services down",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQWVQbDloZU9HQlRfNmg3S19FdG54N3Rma2E5TnZiUXZOSDhPMXh2dXFRSU5pdVlvTVFtUXFqZUZNcmxucVBERVdncWNYbFBCM1ROSWlUVWtGbFl0R01vTGV3cTZIN2tGU282U2c5UFFha2VzYkgyc2NXVlB5cm45R3RUa3hNSnpKOUNBR00yTHFrVzB1ak9XbmVwdkJ5OXB2OXhOc2MzWmJFRG1IWncwbVBGUGZJeDVYcmxZNHVXSlZGUDRhdDNKTllfbUlwajBfYXdZNllYSkNHdWJrbE1VVDV2Yw?oc=5",
+       "publishedAt": "2026-11-17T23:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "National Security Agency network for internal communications goes down",
+     "link": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
+     "source": "The Guardian",
+     "sources": [
+      "CNN",
+      "Forex Factory",
+      "NDTV",
+      "National Security Agency (NSA) (.gov)",
+      "The Guardian",
+      "The Indian Express",
+      "WSJ"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-18T02:05+05:30",
+     "score": 7.85,
+     "summary": "NSA issues ‘code yellow’ as NSANet, used by staff to share classified material, including top-secret intelligence, fails The National Security Agency said on Tuesday that it had experienced “temporary degradation” during scheduled routine maintenance, after reports that its classified internal communications network had gone down. In a statement, the agency said some internal systems were affected but that…",
+     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "National Security Agency network for internal communications goes down",
+       "link": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
+       "publishedAt": "2026-11-18T02:05+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Highly Classified US National Security Communications Network Down: Report",
+       "link": "https://www.ndtv.com/world-news/highly-classified-us-national-security-communications-network-down-report-12340389#publisher=newsstand",
+       "publishedAt": "2026-11-17T22:40+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "US National Security Agency’s highly classified network down: Report",
+       "link": "https://indianexpress.com/article/world/us-nsa-highly-classified-internal-communications-network-down-10967282/",
+       "publishedAt": "2026-11-17T21:41+05:30"
+      },
+      {
+       "source": "Forex Factory",
+       "title": "CNN Reports US National Security Communications Network Has Gone Down",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmNhWWNYcEJiRWktOWVTOUYyU3FDWTdkSDRUT09rdWFWRzBuNjRab1hXYlJTOW9ySXJtT19SS2xMaDFTYzh4ZWNGYlp5dl90bEFtTGxja2FWV2piSUtPUVl1OWgtcHhibVhiQ0hNV1ZTRW12UTgyQWRYVHA2U3JHS0IzcldpQmNUVllFeE1UWWd5RzBlQldpUHhVLTVXNnppQUdZ0gGoAUFVX3lxTE5fenhBbVBRZXFpaGdJZk51bXhqMlVBeE5hRTMwajRrc2xmd0stdmRJeThyVEczNUR6UDJVamV2RDdVRk1OeTB4RDBjeE5WWVRxUXZjYTZ6bzJaWHA2X1dVVkVtN1RIMVlKTnNLYV9PWnMzczRERHVoY2I1QTNfdmYtdXo2LUdMd0Ywb0I4X3hQM0puTmdCaEVhZDA0VTRhOEROWjc1OURIMQ?oc=5",
+       "publishedAt": "2026-11-17T21:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "In fresh Iran strikes, US targets missile site on Qeshm Island",
+     "link": "https://timesofindia.indiatimes.com/world/middle-east/us-launches-fresh-strikes-on-iran-targets-missile-launch-site-on-qeshm-island/articleshow/135939742.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "Financial Times",
+      "NDTV",
+      "The Times of India",
+      "The Times of Israel",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T01:40+05:30",
+     "score": 7.22,
+     "summary": "According to a US military official, a fighter jet struck the facility in retaliation for Iran's targeting of US personnel and assets.",
+     "image": "https://static.toiimg.com/photo/msid-135939773,imgsize-391937.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "In fresh Iran strikes, US targets missile site on Qeshm Island",
+       "link": "https://timesofindia.indiatimes.com/world/middle-east/us-launches-fresh-strikes-on-iran-targets-missile-launch-site-on-qeshm-island/articleshow/135939742.cms",
+       "publishedAt": "2026-11-18T01:40+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "US Attacks Iran's Qeshm Island In Strait Of Hormuz",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDIweHpwN1U0SExIeEpwUEJHNXA3S3BiOElSWkU5bmY5a0draUo4M0liMEF4SW5RZXR6S0hJWUQ3OTRTeVh6aGNVYXB0UV9hZEhxV2E2dElWVUNKcXZqUXp5b1VQT2k0MEkycjZGVVlCcXJEUnhYdmp4U2lqMjRuREJXVDc4RWo1MzZNZ1hQaVdOVllZSl9ubmljTXFoQQ?oc=5",
+       "publishedAt": "2026-11-17T21:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "How the 10 IPL teams stack up",
+     "link": "https://indianexpress.com/article/sports/cricket/ipl-retention-10-teams-rcb-csk-kkr-mi-rr-pbks-lsg-gt-dc-srh-10967327/",
+     "source": "The Indian Express",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Mumbai Indians | Official website",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T23:30+05:30",
+     "score": 7.1,
+     "summary": "",
+     "image": "https://images.indianexpress.com/2026/11/IPL-retention-1.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "How the 10 IPL teams stack up",
+       "link": "https://indianexpress.com/article/sports/cricket/ipl-retention-10-teams-rcb-csk-kkr-mi-rr-pbks-lsg-gt-dc-srh-10967327/",
+       "publishedAt": "2026-11-17T23:30+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "IPL 2027 retention highlights: Dhoni retires, teams announce lists of released and retained players as deadline ends",
+       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxON1ExaEFVU243dkVDRmxGc09TWks1bVFYWE5Fbm5VZ3dMZjRxbk0wUVFBaHNqbUs5VnkzNGdCckV4U01KV2c0cDM5NDAtVmVrRFpiRnZIVGRMT0ViQU5qTV9VMlpvdEN1NDZENERsN2VzVGlma3pUbF90LTBTOFdYajhpWU5vUXA2MGY1d2xBSzUyREg2QnFwM3ZIOFg3R2sxR3R4RFhVdWZtVVNKbnBPYWpBXzdPMTdoVFBZZ29COTVuUjhvTE9obi1rWnI4RlRteVN3NjNhSnJtZzg2UllWVVhrRERObjAzdUZ1MlNxazlZSFVadzJTSzhTQUpRYWVWU2k2OUUzMNIBjgJBVV95cUxQeUl5VGVjWVVJSUJQcThsRlk4Y2JGTDh6X0pDenhxcjE2RUFGYmVtR2g3NVJOd1NSVWpRMU5EaUNMbHBHZ21XU0k2bWpaNE9jOEFmOW5KYklwQWxXUTVscGxZT2FXNjdEYmoxdmpDOGs4S3djZTF0RjVDZmRGWV9SdVh1eDctQmdDUFV1ZmFEemMxQmt4N2hKc0VNcXhjN2FPaGxCZzZkVzBmWmVYcGJTYjBNckRHZUx0YU1zMkl2dlRlU3ExYkFaQzNVUm14ekZTWVdPWVhwMlBfXzVmU1AtWER4YlpVd3hXUmRpV3VNQ1NOY3MxSE1HVFZMVFA2R2ZyWWVfOGxZbk12M2Jva1E?oc=5",
+       "publishedAt": "2026-11-17T22:48+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-18T02:00+05:30",
    "generatedAt": "2026-11-18T02:22+05:30",
@@ -30380,187 +30595,6 @@
        "title": "Pawan Kalyan, Wife Anna Konidala Announce Separation After 13 Years Of Marriage",
        "link": "https://www.ndtv.com/india-news/pawan-kalyan-wife-anna-konidala-announce-separation-after-13-years-of-marriage-andhra-pradesh-deputy-chief-minister-12305738#publisher=newsstand",
        "publishedAt": "2026-11-10T07:05+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-10T06:00+05:30",
-   "generatedAt": "2026-11-10T06:26+05:30",
-   "feeds": 16,
-   "headlines": 130,
-   "stories": [
-    {
-     "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
-     "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "NDTV",
-      "Telegraph India",
-      "The Guardian",
-      "The Times of India",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-10T06:14+05:30",
-     "score": 11.47,
-     "summary": "US president says he believes CEO Jensen Huang had no knowledge of woman's alleged work for Chinese intelligence.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
-       "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-       "publishedAt": "2026-11-10T06:14+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-10T06:04+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-       "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
-       "publishedAt": "2026-11-10T05:00+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Trump Says FBI Investigating Nvidia CEO's Affair With Alleged Chinese Spy",
-       "link": "https://www.ndtv.com/world-news/donald-trump-says-fbi-investigating-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-12305672#publisher=newsstand",
-       "publishedAt": "2026-11-10T04:54+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'He had no idea she was a spy': Trump backs Nvidia CEO Jensen Huang",
-       "link": "https://timesofindia.indiatimes.com/world/us/he-had-no-idea-she-was-a-spy-trump-backs-nvidia-ceo-jensen-huang/articleshow/135695196.cms",
-       "publishedAt": "2026-11-10T04:03+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'He had no idea she was a spy': Trump backs Nvidia CEO Jensen Huang",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOTZHWTU3c0l1OWEwUElVMmozcTZCWjRkc2JrcW1oblFSRDJDZHRVbUtkaFo1SnUyd3pNcnRSdDl0M2h2MGl0N0E5dHJVN3QwVG45bXdEYTRiZ0w1ZXBrUkRraWdQSFJDYzI3bzJ5WGg4cHhVNV9vUTJiS0pZaFNsUWM3YzBjWjZRei1vNHhVMS1wSUVSTjR5QnNsc2ZLRjRTSVlNd1JPWU1zMm1TMFcwNHhWdWFacWJPUy1OUnp2cThaQzhZaFNjOFZYbXdMMW1z?oc=5",
-       "publishedAt": "2026-11-10T04:03+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
-     "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
-     "source": "Times of India",
-     "sources": [
-      "CNBC",
-      "NDTV",
-      "TechCrunch",
-      "The GitHub Blog",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T02:48+05:30",
-     "score": 6.89,
-     "summary": "The new models, Fable 5.2 and Mythos 5.2, can perform up to 30 percent faster than previous versions, particularly for complex tasks like coding, while costing 20 percent less, the company said.",
-     "image": "https://static.toiimg.com/photo/msid-135693108,imgsize-87908.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
-       "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
-       "publishedAt": "2026-11-10T02:48+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Anthropic Launches New Models Ahead Of IPO: Claude Fable 5.2, Mythos 5.2",
-       "link": "https://www.ndtv.com/world-news/anthropic-launches-powerful-new-models-claude-fable-5-2-and-mythos-5-2-ahead-of-ipo-12305314#publisher=newsstand",
-       "publishedAt": "2026-11-10T00:39+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
-     "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "CNN",
-      "The Hindu",
-      "The New York Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T00:51+05:30",
-     "score": 6.57,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135692217,imgsize-150770.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
-       "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
-       "publishedAt": "2026-11-10T00:51+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmJuZjgzYW5hamNYeWNpNGdzaXdTNnBSc0l2ZTlfc1FNQjV1c3lCdjJuamhCZjRaRnktTlhkZEF3SjdtdjlXYjcxbG9GaU9saDRBdmMzRXVLb1h2QWNObXF1aGZ1TUJhRW5FSWY4RkJpRUVTYzQwYVBmelFITFRVUHQ0RWdsMlpUOV8xT2pRM1FXQ2hpdmsyLVFOQnpVYThRSGFYUnNyN0IwXzFwRWtWZHlzMkdvbHJsdHRUdHMzaGI0UkdQbHVzNkJIeUhOZjdKQkxadlpYYUZkVWNQTGZTSFg3OA?oc=5",
-       "publishedAt": "2026-11-10T00:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFNfSjlGZWFOd01laGhIaG9idVhwaUxEOXctN1hkb1E2Qkd6YXEyaE5DUHFzMEdoT3dqWXNQbkxScXRFb3o2aGU4SEpWdnU5SGdKQUJXTUFMdS1kcHJKVnJPVnBUZk1XUjd6NXRLcnJwSGhXMFZVa2hqQ1VvVWkzM2FxT2tCNlhGN1VYYjgwRTdiY2Z6SElpNmtfMXRmTjF0RW5fX0JVVWhuZVlsX1lWdDBMU1g1ZzBFeXlGT2tZbUNyQjlLUFE?oc=5",
-     "source": "WSJ",
-     "sources": [
-      "AP News",
-      "Al Jazeera",
-      "CBS News",
-      "The Hindu",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T02:59+05:30",
-     "score": 6.18,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "WSJ",
-       "title": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFNfSjlGZWFOd01laGhIaG9idVhwaUxEOXctN1hkb1E2Qkd6YXEyaE5DUHFzMEdoT3dqWXNQbkxScXRFb3o2aGU4SEpWdnU5SGdKQUJXTUFMdS1kcHJKVnJPVnBUZk1XUjd6NXRLcnJwSGhXMFZVa2hqQ1VvVWkzM2FxT2tCNlhGN1VYYjgwRTdiY2Z6SElpNmtfMXRmTjF0RW5fX0JVVWhuZVlsX1lWdDBMU1g1ZzBFeXlGT2tZbUNyQjlLUFE?oc=5",
-       "publishedAt": "2026-11-10T02:59+05:30"
-      }
-     ]
-    },
-    {
-     "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWFV6NE1INllrcTlGZmFtTnVVeVFJcWVvRzhJY3dIbUZ1RFBQUWlTZWtDSy1GMVg2ZTZWTENFZFNpYWZ6ZS1EVHFvcDhHeEpqUFdSejJXZE84am1jSXV3YjN0akhHa3ZuRU9pSzNB?oc=5",
-     "source": "Science Daily",
-     "sources": [
-      "BBC",
-      "Education Times",
-      "Phys.org",
-      "Science Daily",
-      "The Brighter Side of News"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T06:14+05:30",
-     "score": 6.01,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Science Daily",
-       "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWFV6NE1INllrcTlGZmFtTnVVeVFJcWVvRzhJY3dIbUZ1RFBQUWlTZWtDSy1GMVg2ZTZWTENFZFNpYWZ6ZS1EVHFvcDhHeEpqUFdSejJXZE84am1jSXV3YjN0akhHa3ZuRU9pSzNB?oc=5",
-       "publishedAt": "2026-11-10T06:14+05:30"
       }
      ]
     }
