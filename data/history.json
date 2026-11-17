@@ -1,6 +1,178 @@
 {
- "updated": "2026-11-17T17:19+05:30",
+ "updated": "2026-11-17T18:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-17T18:00+05:30",
+   "generatedAt": "2026-11-17T18:30+05:30",
+   "feeds": 16,
+   "headlines": 329,
+   "stories": [
+    {
+     "title": "India raises 'strong objection' to exclusion in Turkey's UNGA draft on UN-OIC cooperation",
+     "link": "https://www.hindustantimes.com/india-news/india-raises-strong-objection-to-exclusion-in-turkey-unga-draft-on-un-oic-cooperation-101794912773784.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "News On AIR",
+      "NewsBytes",
+      "The Times of India",
+      "Times of India",
+      "UN Meetings Coverage and Press Releases"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-17T16:27+05:30",
+     "score": 7.75,
+     "summary": "India, along with Armenia, Cyprus, Greece, Israel and the United States, voted against the resolution. Turkiye was the resolution's facilitator.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/UNGA_1794913040150_DC5n_1794913040340_3crE_6877ea9c-f9b9-443a-b00f-3df8864c5972_pOcr.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "India raises 'strong objection' to exclusion in Turkey's UNGA draft on UN-OIC cooperation",
+       "link": "https://www.hindustantimes.com/india-news/india-raises-strong-objection-to-exclusion-in-turkey-unga-draft-on-un-oic-cooperation-101794912773784.html",
+       "publishedAt": "2026-11-17T16:27+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "India slams Turkey over 'intentional' exclusion from UNGA draft consultations",
+       "link": "https://timesofindia.indiatimes.com/india/blatant-and-intentional-india-slams-turkey-over-exclusion-from-unga-draft-consultations/articleshow/135921139.cms",
+       "publishedAt": "2026-11-17T15:59+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Blatant and intentional': India slams Turkey over exclusion from UNGA draft consultations",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMFV1UTRRWlJaYk1kcE9nbEU0LUZBWXlZdVlUTkl3QWxKRnVYdHFUNjN5TGJiOXVtYlVJV3ZJT3VsWUJya0dLSU14TnVuVWxZRFFnRUs5eXFvQVFSSzBiOXBpNnFHYk9IV0tHU3FOQ2FxRmRVN0Z3M2oxR2ppVXdPZmtBX2RHWGVjRW1jaUFVOGNYTGhERTFMVHp4RUlGZWs3WXBWRUtOX0VRY3lEMmlwcEhHQnY1ZGVlWDVUdlF5a2ZMWEpBUi1PYmxiNnV5LXA3dXAwMy1EUW5GSjdVSVo3V1dNRE9HZ0ZLS2gw?oc=5",
+       "publishedAt": "2026-11-17T15:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ASEAN Summit LIVE updates: Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
+     "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The New York Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T18:22+05:30",
+     "score": 7.48,
+     "summary": "In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese",
+     "image": "https://c.ndtvimg.com/2026-11/djt6vhu_trump_625x300_17_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "ASEAN Summit LIVE updates: Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
+       "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
+       "publishedAt": "2026-11-17T18:22+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Quad Leaders Summit LIVE Updates: Quad trusted Partnership For India, Says PM Modi",
+       "link": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
+       "publishedAt": "2026-11-17T18:17+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘Constructive and trusted’: PM Modi on Quad partnership at Manila Summit",
+       "link": "https://www.hindustantimes.com/india-news/constructive-and-trusted-partnership-pm-modi-on-quad-partnership-at-manila-summit-101794913706456.html",
+       "publishedAt": "2026-11-17T16:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bilkis Bano moves out of Gujarat after bail to 2 convicts, says her uncle",
+     "link": "https://www.hindustantimes.com/india-news/scared-once-again-bilkis-bano-s-uncle-says-she-s-left-gujarat-after-bail-to-2-convicts-101794910710221.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-17T15:48+05:30",
+     "score": 7.3,
+     "summary": "In a separate statement, Bilkis Bano said she was “scared once again” after the court ruling",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/Bilkis-Bano-at-a-press-conference-in-New-Delhi-in-_1794910702163_J5Q7.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Bilkis Bano moves out of Gujarat after bail to 2 convicts, says her uncle",
+       "link": "https://www.hindustantimes.com/india-news/scared-once-again-bilkis-bano-s-uncle-says-she-s-left-gujarat-after-bail-to-2-convicts-101794910710221.html",
+       "publishedAt": "2026-11-17T15:48+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Fresh tears of pain, shock, disbelief': Bilkis Bano after SC grants bail to convicts",
+       "link": "https://timesofindia.indiatimes.com/india/i-am-scared-once-again-bilkis-bano-releases-statement-after-sc-grants-bail-to-two-convicts/articleshow/135914851.cms",
+       "publishedAt": "2026-11-17T12:38+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Bilkis Bano says Supreme Court did not inform or hear her before granting bail to two convicts; vows to fight order",
+       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxON1pfN1J3My1sblQ4U3JFZTNJV0lCMG5vV055dU52MEphVUwxZmRidTZWQjJsSjRZcWZsdU5WOU9fTXAwd0JRcEVFQnhZa1BSWDh0STlwaE5IeW1sOG5fVV9wN29BdUg4RkJWN1RCd2VjN29PUHdqNXVpUkRJYUpEb1BicU1CZDJ4QWpXaUdrMUVEdy15d0RGNW9qSjFmQzF5QXd4RWY0eHZ4YUN0eWFmSGNnMzFMQThSZEhIUHNvTWJuTVdsU2ZGeWZ5cDhGY3Ria0p0R041d0JhWmFUWFptOVIzSWU4SmlwZjFjWFZrMGVrT2hxYU9LcmUzN2ItaU1SUjFZ?oc=5",
+       "publishedAt": "2026-11-17T13:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Inside CSK: How Dhoni broke the news to the maangement",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWV8yamhubUh6VmN3ZnlJdVpWQjZGVlc2OGNkd1piTEtzM1VKeGw5RWJkUXRNdHFtMTlPU3VwaGlfd0N3LXg5MVVaZWhPNUh2bC04a2NUVFNhYXJXNm10Z3RmSkw0U2wxZHNSVG9BTjdJd0VkRHFVMDF2ckNRV0tTbXdjTi1xYnhhR3otRVVva08yTmszdVlPNk1pR1hKaDA?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Rediff",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T17:04+05:30",
+     "score": 7.26,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "Inside CSK: How Dhoni broke the news to the maangement",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWV8yamhubUh6VmN3ZnlJdVpWQjZGVlc2OGNkd1piTEtzM1VKeGw5RWJkUXRNdHFtMTlPU3VwaGlfd0N3LXg5MVVaZWhPNUh2bC04a2NUVFNhYXJXNm10Z3RmSkw0U2wxZHNSVG9BTjdJd0VkRHFVMDF2ckNRV0tTbXdjTi1xYnhhR3otRVVva08yTmszdVlPNk1pR1hKaDA?oc=5",
+       "publishedAt": "2026-11-17T17:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVZabWpya243cEtndWEyQnc1TXhYYUhUVUZvRXA5cTcwU1ZtenJqVHhLajNxLWNLLWRVRXE2LWZrRGpCN3duOVNJY1RhSGZYT3c1aWFaalVMcVg2X1M1alNCN0M2VUl0dnV2MmJBZDBoZE5OZDVhY2FRaFZWdm85SFFNT1Zld1YxZk16YjJrV1JvbGhPMHFsekJ1RXZfendZZlF3Vm5rZUNYS2xBTTdzQ1VFRThTQWdvc29Jamd5aUIwbXMtTU1mVlVR0gHQAUFVX3lxTE5UQlZRUzBfYjliTF9iQnBHaXctU1luaEs5cWIyaUxhUWVPTGwtenN1c3BPelpUWGh1UTdFR2toOGNEOEozSVZRSnFsRDNVWS1YaVFYeGFnLTBwSXE4MlF1VkF4bzdHN0d5UmhxRVV5SkpDN2l6cHdjd3hiN0NwQzg1WlRIdGV6TXFwanQ1UV9taTlOU3FFRjVESW1fVldUbXlqMkFGQlRBSk1ac0lNQVBLN2hFZmFFS2h2RVl3dlVybXBfSXpaYVNReUFzODJUQ1k?oc=5",
+     "source": "BusinessLine",
+     "sources": [
+      "BusinessLine",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-17T16:31+05:30",
+     "score": 7.17,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BusinessLine",
+       "title": "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVZabWpya243cEtndWEyQnc1TXhYYUhUVUZvRXA5cTcwU1ZtenJqVHhLajNxLWNLLWRVRXE2LWZrRGpCN3duOVNJY1RhSGZYT3c1aWFaalVMcVg2X1M1alNCN0M2VUl0dnV2MmJBZDBoZE5OZDVhY2FRaFZWdm85SFFNT1Zld1YxZk16YjJrV1JvbGhPMHFsekJ1RXZfendZZlF3Vm5rZUNYS2xBTTdzQ1VFRThTQWdvc29Jamd5aUIwbXMtTU1mVlVR0gHQAUFVX3lxTE5UQlZRUzBfYjliTF9iQnBHaXctU1luaEs5cWIyaUxhUWVPTGwtenN1c3BPelpUWGh1UTdFR2toOGNEOEozSVZRSnFsRDNVWS1YaVFYeGFnLTBwSXE4MlF1VkF4bzdHN0d5UmhxRVV5SkpDN2l6cHdjd3hiN0NwQzg1WlRIdGV6TXFwanQ1UV9taTlOU3FFRjVESW1fVldUbXlqMkFGQlRBSk1ac0lNQVBLN2hFZmFFS2h2RVl3dlVybXBfSXpaYVNReUFzODJUQ1k?oc=5",
+       "publishedAt": "2026-11-17T16:31+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-17T17:00+05:30",
    "generatedAt": "2026-11-17T17:19+05:30",
