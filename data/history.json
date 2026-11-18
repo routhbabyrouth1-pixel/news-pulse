@@ -1,6 +1,214 @@
 {
- "updated": "2026-11-19T01:26+05:30",
+ "updated": "2026-11-19T02:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-19T02:00+05:30",
+   "generatedAt": "2026-11-19T02:22+05:30",
+   "feeds": 16,
+   "headlines": 240,
+   "stories": [
+    {
+     "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
+     "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Axios",
+      "India Today",
+      "Mint",
+      "NDTV",
+      "Pew Research Center",
+      "The Economist",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-19T02:07+05:30",
+     "score": 10.46,
+     "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
+     "image": "https://c.ndtvimg.com/2026-11/h0dca2a_muslims_625x300_19_November_26.jpeg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
+       "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
+       "publishedAt": "2026-11-19T02:07+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Islam Set To Become World's Largest Religion By 2035: Report",
+       "link": "https://www.ndtv.com/world-news/muslims-set-to-become-worlds-largest-religion-by-2035-12346356#publisher=newsstand",
+       "publishedAt": "2026-11-19T02:03+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Islam projected to overtake Christianity as world's largest religion by 2035, says study – here's what it revealed",
+       "link": "https://www.livemint.com/news/world/islam-projected-to-overtake-christianity-as-worlds-largest-religion-by-2035-says-study-heres-what-it-revealed-11795024171643.html",
+       "publishedAt": "2026-11-18T23:54+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Muslims will be largest religious group in the world by 2035: Pew study",
+       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/its-the-babies-muslims-projected-to-outnumber-christians-by-2035-says-pew-study/articleshow/135966824.cms",
+       "publishedAt": "2026-11-18T21:07+05:30"
+      },
+      {
+       "source": "India Today",
+       "title": "Islam set to become world's largest religion by 2035, Hindu share projected to decline: Report",
+       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFVvWTdXbFNJSmJZWjBaSmNoSVI3QUs4N0RmNVdmd0I2dW5xVWYySWRYSFlSMTRoRVQwV1BpbkZsZUFQcjN4YTNUMUpySmp5R2RxN2xDQnFGcEhPLUxIbUZoeXhDTnpwaWJBS0w2OU5HOWZNTnBySjV6VUNIT1pTOGNqbWlnTW9BZzV2dmhTTm1CQ21ROW5KODR2elh0YkM2NlBuOXBiMDRZUTM5QW5aOURmWjY0MDBZSy1rcWhBNl92WmRX?oc=5",
+       "publishedAt": "2026-11-18T22:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Democrat Hakeem Jeffries Set To Be First African-American House Speaker",
+     "link": "https://www.ndtv.com/world-news/democrat-hakeem-jeffries-set-to-be-first-african-american-house-speaker-12346248#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "CNN",
+      "Mint",
+      "NDTV",
+      "The Guardian",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-19T00:22+05:30",
+     "score": 10.42,
+     "summary": "Jeffries secured the nod during closed-door voting, 251-11, ahead of a full House vote when the new Congress convenes in January. Among those voting no were a group of progressive newcomers, who said in a statement there is \"still work to be done\" to ensure their priorities.",
+     "image": "https://c.ndtvimg.com/2026-11/l5iqjdbc_hakeem-jeffries_625x300_19_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Democrat Hakeem Jeffries Set To Be First African-American House Speaker",
+       "link": "https://www.ndtv.com/world-news/democrat-hakeem-jeffries-set-to-be-first-african-american-house-speaker-12346248#publisher=newsstand",
+       "publishedAt": "2026-11-19T00:22+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Historic first: Democrat Hakeem Jeffries nominated to become House Speaker",
+       "link": "https://timesofindia.indiatimes.com/world/us/historic-first-democrats-nominate-hakeem-jeffries-set-to-be-first-black-us-house-speaker/articleshow/135969043.cms",
+       "publishedAt": "2026-11-18T23:25+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "History in the making? Hakeem Jeffries nominated as House Speaker, set to become first Black American to hold the post",
+       "link": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
+       "publishedAt": "2026-11-18T23:05+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-18T23:04+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1VzWXk2T3BfcWwzb0FLRTRJbksxU0NQUnZGMXVBdHRNX0c4b3BrX2FuQUtjb3RaUGRpN1lpTUdaVVV5VkphRmNpS3JEOXB1WVhOeXlSMGllbVFzRndNeFB4TEFaUWEzSG50QTBRdmJTRHJ6ZGJXalNIdWthQ2Yzc2VrY1l0Z2tPVGJVd1lybE8waVZxTFdqWGNQdERZODc0aGIzTDRDbHNGQdIBrwFBVV95cUxOSVBBdWhDN21WMXJ4dnNYS0VXcmVoNkpyZUNtemFHWHVNeGVxWUs3NW91bEpjTVBKWVVJZjV6QzRGMkVvWUdGZVp6TmZMUzVUXzZUNVFpVjRvUDBqdHJPTWZ3d0h4RU85S1hwQ2xpaUV4YWloUGZBTk1uVENfbElYMTUzaEREeWtna2RvUFZQTU1EeGM0b3ZyQVFfcGM3S0dvV01oSzdYaFduNGVyVnJr?oc=5",
+       "publishedAt": "2026-11-19T00:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
+     "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
+     "source": "Mint",
+     "sources": [
+      "BBC News",
+      "Inc42",
+      "Mint",
+      "Moneycontrol.com",
+      "Push Square",
+      "The Economist",
+      "YourStory.com"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-19T00:46+05:30",
+     "score": 8.23,
+     "summary": "Grand Theft Auto 6 is here, ending the 13 years-long wait. From critics to fans, many have shared their take across social media. Check it out.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/217106_1795026527055_VsMc_1795026534044_yBay_d6ac50bb-3929-4c0d-aa74-88e7ea3f1510_HXyV.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
+       "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
+       "publishedAt": "2026-11-18T23:59+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-18T23:04+05:30"
+      },
+      {
+       "source": "The Economist",
+       "title": "“Grand Theft Auto VI” may mark the end of an era in gaming",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlI3cG1TZ2poQ1NkUEZiY09tcExRZzlKOGhtRDFZRHMxanZINjU3bTBEb1JhelU3N055WmxSek1kLVVxdXMtTzdMenUxVTZLcTRPNGstYkJSLU9BWHFiTlRoaHlDaUlndkZMT3Y2MFFDTms3SWxzZWg3b1RrQjV1WV9MVUwxMHdHUExETUxxN29wMjBPZjlGWHRRbFpBSWk5RExn?oc=5",
+       "publishedAt": "2026-11-19T00:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA",
+     "link": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Telangana Today",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 4,
+     "publishedAt": "2026-11-19T01:27+05:30",
+     "score": 6.35,
+     "summary": "The storm picked up speed to 7 kmph over the past six hours. It was about 580 km from Visakhapatnam, 590 km from Machilipatnam and 710 km from Gopalpur in Odisha",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA",
+       "link": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece",
+       "publishedAt": "2026-11-19T01:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India imposes 162.5% duty and tax on bulk Scotch imports amid UK trade pact dispute",
+     "link": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
+     "source": "The Hindu",
+     "sources": [
+      "BusinessLine",
+      "Reuters",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-19T00:02+05:30",
+     "score": 6.11,
+     "summary": "More than 80 containers belonging to Pernod Ricard, Diageo and Bacardi remain stuck at Indian ports as the dispute over customs classification threatens to disrupt the liquor industry.",
+     "image": "https://th-i.thgim.com/public/incoming/42dmsb/article71717328.ece/alternates/LANDSCAPE_1200/Scotch-imports_G6LGPL3SM.4.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "India imposes 162.5% duty and tax on bulk Scotch imports amid UK trade pact dispute",
+       "link": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
+       "publishedAt": "2026-11-18T23:00+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
+       "publishedAt": "2026-11-19T00:02+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-19T01:00+05:30",
    "generatedAt": "2026-11-19T01:26+05:30",
@@ -30431,152 +30639,6 @@
      "sourceCount": 5,
      "publishedAt": "2026-11-11T03:46+05:30",
      "score": 5.86,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "TheTopBookies",
-       "title": "Perth Scorchers Women vs Sydney Thunder Women, free match prediction 11 November 2026",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QZTVsMGEyZk9jRm9wUVFVSEg4eTVLZ1FqU0xET3RyaWkzUTBSQjJPWDZZRThDczZYR3Q5M2hRUVdYOFdkUjczUXp0aDFBU1VBbjcyRmRRVy1KbU1sM3l5Q1A5Yzl3Tk5Cd3UzTk41Tnp1cDlQLXBvQmg4Zjh0Qkk?oc=5",
-       "publishedAt": "2026-11-11T03:46+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T04:00+05:30",
-   "generatedAt": "2026-11-11T04:09+05:30",
-   "feeds": 16,
-   "headlines": 195,
-   "stories": [
-    {
-     "title": "Rubio says no need for major combat operations against Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "CBS News",
-      "NDTV",
-      "Reuters",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T01:05+05:30",
-     "score": 7.99,
-     "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
-     "image": "https://c.ndtvimg.com/2025-03/4ppk59jo_marco-rubio_625x300_13_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Rubio says no need for major combat operations against Iran",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-       "publishedAt": "2026-11-11T01:04+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "\"No Need For Major Combat\": Marco Rubio Says Iran Ops Were 'Devastating'",
-       "link": "https://www.ndtv.com/world-news/no-need-for-major-combat-marco-rubio-says-iran-ops-were-devastating-12309935#publisher=newsstand",
-       "publishedAt": "2026-11-10T23:59+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Rubio says no need for major combat operations against Iran given US economic campaign",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5",
-       "publishedAt": "2026-11-11T01:05+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Suryakumar ready to bounce back from 'very difficult' phase",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc3BacWtsQTlqdDAyaEpaZ2NTYXgybGM1SWJ1Vm1nRVdsUnI0cmJMcFhtLXpxWnplcldkM1FlaUhwaHRFVUtscWVSOGVjNG56U2hRV0NaVWVFdWpGaENHSzZhTnl5dGZXVDdkRFRKYWxVVVRxR0hpdHFfQkJTSkZ0b05pTjd1SHAtOTRncE1vUFlGY2ZnM3VzNHFpQ21WTnNSaEVSaUZhcFM2OFd6T1lJVUJlREFnZFJrOFkzdjZndzExM1BnQUFCamZMMmQwMUphd3fSAeMBQVVfeXFMT0JUTmZuazNnR1RtZkJEcFhORG5lcTA1UUFhQ3prNjd2NXZRX0VqdnJOMG90Qmk2LVlfNEIzMWRROFc3U3hrQ1JWUnA4NjFEdDVTRG1iZGZLNGhpbEhJc21tQU1hQ2ktUkR3OGdaSHFNdXVMNm43M29sc3BpZjRpcEtLTHhOaThZTllEa3VpUW8yZlM5Y3ZpMlZKbkdQM1lHYTZPQWZGWGg4SGVQcXM4ZEpkQ1d5VGxJam5UQzNFbHNHT0JLcmxiRjU2TEpLWEhBNElkQVNuWjg2dVN4ZnVEeUx0elE?oc=5",
-     "source": "Cricinfo",
-     "sources": [
-      "Cricbuzz",
-      "Cricinfo",
-      "Rediff",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T03:06+05:30",
-     "score": 7.32,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricinfo",
-       "title": "Suryakumar ready to bounce back from 'very difficult' phase",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc3BacWtsQTlqdDAyaEpaZ2NTYXgybGM1SWJ1Vm1nRVdsUnI0cmJMcFhtLXpxWnplcldkM1FlaUhwaHRFVUtscWVSOGVjNG56U2hRV0NaVWVFdWpGaENHSzZhTnl5dGZXVDdkRFRKYWxVVVRxR0hpdHFfQkJTSkZ0b05pTjd1SHAtOTRncE1vUFlGY2ZnM3VzNHFpQ21WTnNSaEVSaUZhcFM2OFd6T1lJVUJlREFnZFJrOFkzdjZndzExM1BnQUFCamZMMmQwMUphd3fSAeMBQVVfeXFMT0JUTmZuazNnR1RtZkJEcFhORG5lcTA1UUFhQ3prNjd2NXZRX0VqdnJOMG90Qmk2LVlfNEIzMWRROFc3U3hrQ1JWUnA4NjFEdDVTRG1iZGZLNGhpbEhJc21tQU1hQ2ktUkR3OGdaSHFNdXVMNm43M29sc3BpZjRpcEtLTHhOaThZTllEa3VpUW8yZlM5Y3ZpMlZKbkdQM1lHYTZPQWZGWGg4SGVQcXM4ZEpkQ1d5VGxJam5UQzNFbHNHT0JLcmxiRjU2TEpLWEhBNElkQVNuWjg2dVN4ZnVEeUx0elE?oc=5",
-       "publishedAt": "2026-11-11T03:06+05:30"
-      }
-     ]
-    },
-    {
-     "title": "\"Let's Solve This S**t, Bro\": Salman Packs A Punch In Maatrubhumi Trailer",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaEtRR3ItYkJ5MjMtaTlraGVIYTRITEt2ZXk5M2lOWjhWZFNGV0dEbnctN05tUURtVzdkb1JWVnh5LV9jYmJ0OVBINmRNREJkVi1yTURGU090VHdKVW5zMW1lRHplV3V1UDNoYUZfWE8wN2VPMkdWQ01aODlidHhXMWJvN0w2Y0J0NUtvVVkwNEFtTTAtQnNiSjBLaklHWVJGMTNBT1ZjUXdiSWZTRTdkUWlHdGdMX0Y5d0RKWA?oc=5",
-     "source": "NDTV",
-     "sources": [
-      "NDTV",
-      "The Economic Times",
-      "The Indian Express",
-      "The Times of India",
-      "iDiva"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T22:58+05:30",
-     "score": 6.64,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "\"Let's Solve This S**t, Bro\": Salman Packs A Punch In Maatrubhumi Trailer",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaEtRR3ItYkJ5MjMtaTlraGVIYTRITEt2ZXk5M2lOWjhWZFNGV0dEbnctN05tUURtVzdkb1JWVnh5LV9jYmJ0OVBINmRNREJkVi1yTURGU090VHdKVW5zMW1lRHplV3V1UDNoYUZfWE8wN2VPMkdWQ01aODlidHhXMWJvN0w2Y0J0NUtvVVkwNEFtTTAtQnNiSjBLaklHWVJGMTNBT1ZjUXdiSWZTRTdkUWlHdGdMX0Y5d0RKWA?oc=5",
-       "publishedAt": "2026-11-10T22:58+05:30"
-      }
-     ]
-    },
-    {
-     "title": "After Netanyahu's \"Unity\" Call, Eisenkot's \"Delusional, Outgoing PM\" Jab",
-     "link": "https://www.ndtv.com/world-news/after-benjamin-netanyahus-unity-call-rival-gadi-eisenkots-shameful-delusional-jab-12309964#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Firstpost",
-      "India Today",
-      "NDTV",
-      "The Jerusalem Post",
-      "The Times of Israel"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T00:27+05:30",
-     "score": 6.13,
-     "summary": "The attack came shortly after Netanyahu called for a national unity government, saying Israel needed to stand together against the growing threat from Iran.",
-     "image": "https://c.ndtvimg.com/2026-11/3kjok4v8_netanyahu-eisenkot_625x300_08_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "After Netanyahu's \"Unity\" Call, Eisenkot's \"Delusional, Outgoing PM\" Jab",
-       "link": "https://www.ndtv.com/world-news/after-benjamin-netanyahus-unity-call-rival-gadi-eisenkots-shameful-delusional-jab-12309964#publisher=newsstand",
-       "publishedAt": "2026-11-11T00:27+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Perth Scorchers Women vs Sydney Thunder Women, free match prediction 11 November 2026",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QZTVsMGEyZk9jRm9wUVFVSEg4eTVLZ1FqU0xET3RyaWkzUTBSQjJPWDZZRThDczZYR3Q5M2hRUVdYOFdkUjczUXp0aDFBU1VBbjcyRmRRVy1KbU1sM3l5Q1A5Yzl3Tk5Cd3UzTk41Tnp1cDlQLXBvQmg4Zjh0Qkk?oc=5",
-     "source": "TheTopBookies",
-     "sources": [
-      "Cricinfo",
-      "Cricket World",
-      "Perth Scorchers",
-      "Sydney Thunder",
-      "TheTopBookies"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T03:46+05:30",
-     "score": 6.02,
      "summary": "",
      "image": null,
      "articles": [
