@@ -1,6 +1,206 @@
 {
- "updated": "2026-11-19T00:23+05:30",
+ "updated": "2026-11-19T01:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-19T01:00+05:30",
+   "generatedAt": "2026-11-19T01:26+05:30",
+   "feeds": 16,
+   "headlines": 260,
+   "stories": [
+    {
+     "title": "‘13 Years of Anticipation Deserves a Day Off.’ The ‘GTA VI’ Work Blackout Is Here",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUdjdTJFVDlneHZhWGdiMFJJZ1U2ekI4V1hrZ0d4TjM0TXRURl91UUpuUndXM18zVmpkYVhPOUxTcTdCM0ZYeWpLN09vMjVtVTg0cGs2c3FFeVR6ZldzNzNPZjZza3RUMm1OdVJZNldTYnFaVW10YTMwY0k0ZHlFLTZueUJ3RE9CRnd1T0tZVjU3dld0VHJfV1RhcVBkYUY3RUhZaWY4TDk?oc=5",
+     "source": "WIRED",
+     "sources": [
+      "BBC",
+      "CNN",
+      "RTINGS.com",
+      "TechRadar",
+      "The Guardian",
+      "The National",
+      "The Telegraph",
+      "The Verge",
+      "WIRED",
+      "Yahoo Tech"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-19T01:04+05:30",
+     "score": 11.01,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "WIRED",
+       "title": "‘13 Years of Anticipation Deserves a Day Off.’ The ‘GTA VI’ Work Blackout Is Here",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUdjdTJFVDlneHZhWGdiMFJJZ1U2ekI4V1hrZ0d4TjM0TXRURl91UUpuUndXM18zVmpkYVhPOUxTcTdCM0ZYeWpLN09vMjVtVTg0cGs2c3FFeVR6ZldzNzNPZjZza3RUMm1OdVJZNldTYnFaVW10YTMwY0k0ZHlFLTZueUJ3RE9CRnd1T0tZVjU3dld0VHJfV1RhcVBkYUY3RUhZaWY4TDk?oc=5",
+       "publishedAt": "2026-11-19T01:04+05:30"
+      },
+      {
+       "source": "RTINGS.com",
+       "title": "GTA VI At 30 FPS: Can Your TV Save The Day?",
+       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUpxZ1FieS15dHJZTjVqNU5DZXdKS25IeTB0WHJTSjhwY1FibHlhbWkwLVBEbjBQVXlCbm1DcnhwNThOc2tQMlU0ZGpmNDNSbWVSUWlfSDE1YmtOVHMtaVhiQUs2bWVkM19JODN0ajREcjBXbldPbHJOOWczTXBYdg?oc=5",
+       "publishedAt": "2026-11-18T21:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Democrat Hakeem Jeffries Set To Be First African-American House Speaker",
+     "link": "https://www.ndtv.com/world-news/democrat-hakeem-jeffries-set-to-be-first-african-american-house-speaker-12346248#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "CNN",
+      "Mint",
+      "NDTV",
+      "The Guardian",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-19T00:22+05:30",
+     "score": 10.07,
+     "summary": "Jeffries secured the nod during closed-door voting, 251-11, ahead of a full House vote when the new Congress convenes in January. Among those voting no were a group of progressive newcomers, who said in a statement there is \"still work to be done\" to ensure their priorities.",
+     "image": "https://c.ndtvimg.com/2026-11/l5iqjdbc_hakeem-jeffries_625x300_19_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Democrat Hakeem Jeffries Set To Be First African-American House Speaker",
+       "link": "https://www.ndtv.com/world-news/democrat-hakeem-jeffries-set-to-be-first-african-american-house-speaker-12346248#publisher=newsstand",
+       "publishedAt": "2026-11-19T00:22+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Historic first: Democrat Hakeem Jeffries nominated to become House Speaker",
+       "link": "https://timesofindia.indiatimes.com/world/us/historic-first-democrats-nominate-hakeem-jeffries-set-to-be-first-black-us-house-speaker/articleshow/135969043.cms",
+       "publishedAt": "2026-11-18T23:25+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "History in the making? Hakeem Jeffries nominated as House Speaker, set to become first Black American to hold the post",
+       "link": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
+       "publishedAt": "2026-11-18T23:05+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-18T23:04+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
+       "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+       "publishedAt": "2026-11-18T21:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
+     "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
+     "source": "Mint",
+     "sources": [
+      "BBC News",
+      "Inc42",
+      "Mint",
+      "Moneycontrol.com",
+      "Push Square",
+      "The Economist",
+      "YourStory.com"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-19T00:46+05:30",
+     "score": 8.26,
+     "summary": "Grand Theft Auto 6 is here, ending the 13 years-long wait. From critics to fans, many have shared their take across social media. Check it out.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/217106_1795026527055_VsMc_1795026534044_yBay_d6ac50bb-3929-4c0d-aa74-88e7ea3f1510_HXyV.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
+       "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
+       "publishedAt": "2026-11-18T23:59+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-18T23:04+05:30"
+      },
+      {
+       "source": "The Economist",
+       "title": "“Grand Theft Auto VI” may mark the end of an era in gaming",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlI3cG1TZ2poQ1NkUEZiY09tcExRZzlKOGhtRDFZRHMxanZINjU3bTBEb1JhelU3N055WmxSek1kLVVxdXMtTzdMenUxVTZLcTRPNGstYkJSLU9BWHFiTlRoaHlDaUlndkZMT3Y2MFFDTms3SWxzZWg3b1RrQjV1WV9MVUwxMHdHUExETUxxN29wMjBPZjlGWHRRbFpBSWk5RExn?oc=5",
+       "publishedAt": "2026-11-19T00:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
+     "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
+     "source": "Times of India",
+     "sources": [
+      "Arab News",
+      "CGTN",
+      "Reuters",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T21:54+05:30",
+     "score": 7.16,
+     "summary": "In a bold move, European Commission president Ursula von der Leyen has put forth a significant initiative to grant Ukraine a €45 billion loan. This funding, earmarked for bolstering Ukraine's defense and stabilizing its economy during the ongoing conflict, would only be repayable once Russia compensates Ukraine for the damages incurred during the war.",
+     "image": "https://static.toiimg.com/photo/msid-135967627,imgsize-72625.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
+       "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
+       "publishedAt": "2026-11-18T21:54+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
+       "publishedAt": "2026-11-18T20:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Prince William, Kate Middleton meet PM Modi in Delhi",
+     "link": "https://timesofindia.indiatimes.com/india/prince-william-kate-middleton-meet-pm-modi-in-delhi-as-three-day-india-visit-concludes/articleshow/135966803.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "Reuters",
+      "The Hindu",
+      "Times of India",
+      "Vogue"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T21:59+05:30",
+     "score": 6.64,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135967672,imgsize-149774.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Prince William, Kate Middleton meet PM Modi in Delhi",
+       "link": "https://timesofindia.indiatimes.com/india/prince-william-kate-middleton-meet-pm-modi-in-delhi-as-three-day-india-visit-concludes/articleshow/135966803.cms",
+       "publishedAt": "2026-11-18T21:59+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
+       "publishedAt": "2026-11-18T20:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-19T00:00+05:30",
    "generatedAt": "2026-11-19T00:23+05:30",
@@ -30385,168 +30585,6 @@
        "title": "Perth Scorchers Women vs Sydney Thunder Women, free match prediction 11 November 2026",
        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QZTVsMGEyZk9jRm9wUVFVSEg4eTVLZ1FqU0xET3RyaWkzUTBSQjJPWDZZRThDczZYR3Q5M2hRUVdYOFdkUjczUXp0aDFBU1VBbjcyRmRRVy1KbU1sM3l5Q1A5Yzl3Tk5Cd3UzTk41Tnp1cDlQLXBvQmg4Zjh0Qkk?oc=5",
        "publishedAt": "2026-11-11T03:46+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T03:00+05:30",
-   "generatedAt": "2026-11-11T03:09+05:30",
-   "feeds": 16,
-   "headlines": 236,
-   "stories": [
-    {
-     "title": "First day of Ukraine peace talks constructive, Zelensky says",
-     "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "The Guardian",
-      "The Times of India",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T02:51+05:30",
-     "score": 8.2,
-     "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "First day of Ukraine peace talks constructive, Zelensky says",
-       "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-11T02:51+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Day 1 of Ukraine peace talks sparks hope, but Donetsk & Nato's role big hurdles",
-       "link": "https://timesofindia.indiatimes.com/world/europe/first-day-of-ukraine-peace-talks-sparks-hope-but-donetsk-and-natos-role-remain-hurdles/articleshow/135715748.cms",
-       "publishedAt": "2026-11-10T21:39+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "First day of Ukraine peace talks sparks hope, but Donetsk and Nato's role remain hurdles",
-       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPY2JwdzYyV3Y3ZjZuSE55Z2pmdGdBZkxMOXhaMVpzOVBNOHJTWFI1Y2prbENTcmRxenFwRXZCVl9GMmpLNjY5QUZPcGZVQnRJbkRsQk4tQkVXRWJuTzZsdWEtSUNvQ29Ha1lSSW1CZEpwWExQVXBSTEV1X3VUelhBSm5KcF9WUGotUk9YR0l3NXhFa1VQMlU2cXN3UFMxUWtHeUdTeHdGYTVEVXNJbVZ1a2RLelp2YkVYeVAxbllvYkYxc0c4Z0lEcEdRc0ZZZjU2Q1dlc1dvTy1zR3R3elJaNlI4aG83WTV6S0F5cEF6TkpZa1k?oc=5",
-       "publishedAt": "2026-11-10T21:39+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHNkQ3h6dFZOTXM1Wk04SzN6dUtuTEZWZ3VRc1AzaHhWcUgybUR4TmZ0a2Q3TktGajhoSUZLZm9nVUwxQjQyeXQ1SGVDQ3hqaXB4Q1FaaFVBanpYTXZPSWFLNFRRR25fVmhFU3JOYWRVUzVBQlZxRE9kSGtQR2ZRSzVZb1NDN0pneUEzWEh3OEdjMkUweTdVRFlIUFBqQdIBowFBVV95cUxPcEoyQ19NMjF5Mkpra0NRVWg5SUUwWDE1QXh0Tllfbm8tU2RoeklfaE9jOFhOeU13VUNVcHJfckVpSVpfUzR2SUdJMWlGaGdlUEVXakNlUDVjMUtHT1FZMlA2T1NDYWt5QWJDVlZhTHhzd3E5VXNnV3dzUnNMcDVjYjE0WW1WNlY3bHdkSVVZWG5wQlBZSEVtWU83SVNhTFltbFhZ?oc=5",
-     "source": "XBOX Wire",
-     "sources": [
-      "Digital Foundry",
-      "PlayStation.Blog",
-      "The Economic Times",
-      "The Times of India",
-      "The Verge",
-      "XBOX Wire"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T21:19+05:30",
-     "score": 7.53,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "XBOX Wire",
-       "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHNkQ3h6dFZOTXM1Wk04SzN6dUtuTEZWZ3VRc1AzaHhWcUgybUR4TmZ0a2Q3TktGajhoSUZLZm9nVUwxQjQyeXQ1SGVDQ3hqaXB4Q1FaaFVBanpYTXZPSWFLNFRRR25fVmhFU3JOYWRVUzVBQlZxRE9kSGtQR2ZRSzVZb1NDN0pneUEzWEh3OEdjMkUweTdVRFlIUFBqQdIBowFBVV95cUxPcEoyQ19NMjF5Mkpra0NRVWg5SUUwWDE1QXh0Tllfbm8tU2RoeklfaE9jOFhOeU13VUNVcHJfckVpSVpfUzR2SUdJMWlGaGdlUEVXakNlUDVjMUtHT1FZMlA2T1NDYWt5QWJDVlZhTHhzd3E5VXNnV3dzUnNMcDVjYjE0WW1WNlY3bHdkSVVZWG5wQlBZSEVtWU83SVNhTFltbFhZ?oc=5",
-       "publishedAt": "2026-11-10T21:19+05:30"
-      }
-     ]
-    },
-    {
-     "title": "After Netanyahu's \"Unity\" Call, Eisenkot's \"Delusional, Outgoing PM\" Jab",
-     "link": "https://www.ndtv.com/world-news/after-benjamin-netanyahus-unity-call-rival-gadi-eisenkots-shameful-delusional-jab-12309964#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Firstpost",
-      "India Today",
-      "NDTV",
-      "The Jerusalem Post",
-      "The Times of Israel"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T00:27+05:30",
-     "score": 7.05,
-     "summary": "The attack came shortly after Netanyahu called for a national unity government, saying Israel needed to stand together against the growing threat from Iran.",
-     "image": "https://c.ndtvimg.com/2026-11/3kjok4v8_netanyahu-eisenkot_625x300_08_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "After Netanyahu's \"Unity\" Call, Eisenkot's \"Delusional, Outgoing PM\" Jab",
-       "link": "https://www.ndtv.com/world-news/after-benjamin-netanyahus-unity-call-rival-gadi-eisenkots-shameful-delusional-jab-12309964#publisher=newsstand",
-       "publishedAt": "2026-11-11T00:27+05:30"
-      }
-     ]
-    },
-    {
-     "title": "CPCB explains why official AQI is capped at 500 but pvt apps show higher readings",
-     "link": "https://timesofindia.indiatimes.com/india/cpcb-explains-why-official-aqi-is-capped-at-500-despite-private-apps-showing-higher-readings/articleshow/135715891.cms",
-     "source": "Times of India",
-     "sources": [
-      "NDTV",
-      "NewsBytes",
-      "The Economic Times",
-      "The News Mill",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T21:46+05:30",
-     "score": 6.85,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135715926,imgsize-76554.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "CPCB explains why official AQI is capped at 500 but pvt apps show higher readings",
-       "link": "https://timesofindia.indiatimes.com/india/cpcb-explains-why-official-aqi-is-capped-at-500-despite-private-apps-showing-higher-readings/articleshow/135715891.cms",
-       "publishedAt": "2026-11-10T21:46+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "CPCB explains why official AQI is capped at 500 despite private apps showing higher readings",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQTYwNDItZVNQNnpJQXRRbUR3N3NHbmJKeXFtdnVMaFMtNmszVXhCWlBvSFYtTENqeTA1RkVLalE1ZFFYXzFnaXM0LTdrV0lWVzc5Q1FsNWEza21mTFg2b3EyQWlWWWlNNGo1RXF0WHZvdWFiaFhKVmxpN0xaNzNsSEdoZm9rSzJQZE1KRnJxVjFHWk4taUNsbGZXVUx6SlV5UnBpUmNCNHBrX08yVmNrYmt1SGxld0VCa3lHUFd6LUE0dUZHQ2kyNV9ibnVjVDBfTnFqN0haWU40clBDeVNULVptVk1pOFR3bGJLbHd3VXFRZw?oc=5",
-       "publishedAt": "2026-11-10T21:46+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Israel's new parliament sworn in as leaders compete to form government",
-     "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC News",
-      "NDTV",
-      "Reuters",
-      "The Hindu",
-      "The New York Times",
-      "The Times of Israel"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T23:47+05:30",
-     "score": 6.57,
-     "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Israel's new parliament sworn in as leaders compete to form government",
-       "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-10T22:33+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
-       "publishedAt": "2026-11-10T23:47+05:30"
       }
      ]
     }
