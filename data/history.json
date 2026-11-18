@@ -1,6 +1,187 @@
 {
- "updated": "2026-11-18T19:50+05:30",
+ "updated": "2026-11-18T21:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-18T21:00+05:30",
+   "generatedAt": "2026-11-18T21:27+05:30",
+   "feeds": 16,
+   "headlines": 330,
+   "stories": [
+    {
+     "title": "‘There is no safe space’: Steyn reacts to Bancroft’s Sandpapergate revelations",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-no-safe-space-dale-steyn-reacts-to-cameron-bancrofts-sandpapergate-revelations/articleshow/135964840.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Cricket World",
+      "ESPN India",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T19:49+05:30",
+     "score": 8.23,
+     "summary": "Dale Steyn criticised the idea of a “safe space” for Cameron Bancroft after the Australian reopened the 2018 Sandpapergate scandal. Bancroft claimed the entire team knew about ball tampering and that he was made a scapegoat. He also admitted withholding details during Cricket Australia's investigation, saying the scandal and recent comments by Pat Cummins left him feeling betrayed.",
+     "image": "https://static.toiimg.com/photo/msid-135965658,imgsize-86937.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "‘There is no safe space’: Steyn reacts to Bancroft’s Sandpapergate revelations",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-no-safe-space-dale-steyn-reacts-to-cameron-bancrofts-sandpapergate-revelations/articleshow/135964840.cms",
+       "publishedAt": "2026-11-18T19:49+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "The key takeaways from Cameron Bancroft's revelations about sandpapergate",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORHR0UjluV3hnYjRXTFFZYU1VVDFoVFNmbW05RDUxVlZLVFFNMXVmZUhORVowNm5QbWJLX0hpM09CcnMwR1dzbTY1Q21Cb21pNnFmOUVtWVN6Y2dBRHNjdEVKejVmWGdzQUVnMWVpRldybTlwSXJBREVjSHl3anJMS1l1RGZnQjhBM3AzaTJORmxmM183RVg3Ul9Xb3ZVNFVTQnVxdXY0c0EtclBBZTdZRnVR0gHDAUFVX3lxTE1EMGRpbmwxSUVSbWxTV0g1X1l0OTVLRS1sRDA4ZzVfaG8zbVBtVk4yZ2dpeC0xOXBhOVdRZmk5LV9HaGRIR0dNQWJhRklDSHJmY3RwRWVuSmZUU1hhMjZkS3FqTDQyTEF2VVBZVWl1aWRwNDU0amROSUNqRXNqZDFFNGYtenE4V2VPcE1RaWRKTWJnNERITjBYZ3hUVldxZ09yQWRlWjFZMGpBYi1FNTNOeFhvLUxNX3dFN3RBVGhkWDNuOA?oc=5",
+       "publishedAt": "2026-11-18T19:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Why India is imposing 162.5% duty on bulk Scotch imports despite India-UK trade pact cutting tariffs to 75%",
+     "link": "https://www.livemint.com/news/india/why-india-is-imposing-162-5-duty-on-bulk-scotch-imports-despite-india-uk-trade-pact-cutting-tariffs-to-75-11795010628919.html",
+     "source": "Mint",
+     "sources": [
+      "BusinessLine",
+      "Mint",
+      "Reuters",
+      "The Drinks Business",
+      "The Economic Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-18T20:18+05:30",
+     "score": 8.06,
+     "summary": "The higher duty, which exceeds the 150% tariff applicable before the trade pact, has raised concerns about shipment delays, working capital pressures and potential disruptions to India's $65 billion liquor market.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/scotch_1795013286142_hWBf_1795013302212_6UEd_e843898f-3934-4297-a125-ade7204ce2f2_p7r0.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Why India is imposing 162.5% duty on bulk Scotch imports despite India-UK trade pact cutting tariffs to 75%",
+       "link": "https://www.livemint.com/news/india/why-india-is-imposing-162-5-duty-on-bulk-scotch-imports-despite-india-uk-trade-pact-cutting-tariffs-to-75-11795010628919.html",
+       "publishedAt": "2026-11-18T20:18+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Scotch on the rocks? India imposes 162.5% duty, tax on bulk UK imports",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/scotch-on-the-rocks-india-imposes-162-5-duty-tax-on-bulk-uk-imports-domestic-production-likely-to-be-hit/articleshow/135961860.cms",
+       "publishedAt": "2026-11-18T17:07+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "162.5% duty to be charged on bulk Scotch imports",
+       "link": "https://economictimes.indiatimes.com/industry/cons-products/liquor/govt-to-charge-bulk-scotch-imports-162-5-duty-and-tax-amid-uk-pact-standoff-pernord-ricard/articleshow/135960324.cms",
+       "publishedAt": "2026-11-18T16:12+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
+       "publishedAt": "2026-11-18T18:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+     "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "Bloomberg.com",
+      "Eurogamer.net",
+      "IGN",
+      "The New York Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T20:27+05:30",
+     "score": 7.33,
+     "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-18T20:27+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Grand Theft Auto 6: Reviews come in as worldwide release begins",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
+       "publishedAt": "2026-11-18T18:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Told Sourav there was something special': Sachin's message as Dhoni retires",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/told-sourav-there-was-something-special-sachin-tendulkars-heartfelt-message-as-ms-dhoni-retires-from-ipl/articleshow/135966220.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "ESPN India",
+      "IPL",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T20:27+05:30",
+     "score": 7.33,
+     "summary": "MS Dhoni has officially retired from the Indian Premier League, concluding an incredible 19-season career. Embracing a new chapter, he will serve as a mentor for the Chennai Super Kings, a team he has long been associated with. The franchise expressed heartfelt appreciation for his legacy. Meanwhile, cricket legend Sachin Tendulkar took to social media to share fond memories, emphasizing Dhoni's vital contributions…",
+     "image": "https://static.toiimg.com/photo/msid-135966272,imgsize-85224.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Told Sourav there was something special': Sachin's message as Dhoni retires",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/told-sourav-there-was-something-special-sachin-tendulkars-heartfelt-message-as-ms-dhoni-retires-from-ipl/articleshow/135966220.cms",
+       "publishedAt": "2026-11-18T20:27+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Told Sourav there was something special': Sachin Tendulkar's heartfelt message as MS Dhoni retires from",
+       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORDE1cHFqN2sxVGo3aWRzOHF4OUdTTlFJdnA2MG1MbS1FbVBRRHJHdk83TmhYVEdtTHlIVlVOc0lXWGZubHBIWGJCd2QwNHNpQndaSTdVaWNlcjhTWlhiWndYT3lYNGwzODMxQWlCaWdTVzA4TGtUUmtSd0tZVlVyWndDWjBUcklSNkhTc3psVC1fdkYtcGRvRzJubTVoRDM5cGl6Qmd4SzNXMnFjbkx6Wmp5UnVRSjU3eEZlY1oyVjJQSldyeS12VV8wejIydDZqU3J3eGNyRFV0b1hRdzM2MnQ1NU0wNm40TmhSRTVXOUtuRVhUMTY4a1JqYjFuNGh4YlZITk9oRUtSNEJHX1oxS29lbVk?oc=5",
+       "publishedAt": "2026-11-18T20:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US used expired missiles against Iran; navy gives odd 'stale bread' comparison",
+     "link": "https://timesofindia.indiatimes.com/defence/international/us-used-expired-missiles-in-op-epic-fury-against-iran-navy-officer-gives-odd-stale-bread-comparison/articleshow/135966025.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "CNBC",
+      "India Today",
+      "NDTV",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T20:11+05:30",
+     "score": 7.29,
+     "summary": "The US Navy recently acknowledged deploying expired munitions in operations against Iran. According to acting navy secretary Hung Cao, the military is dealing with dwindling weapon stockpiles. To address this, previously expired munitions were refurbished for operational use. However, utilizing outdated weapons poses risks, including safety concerns and the likelihood of failure to hit targets.",
+     "image": "https://static.toiimg.com/photo/msid-135966097,imgsize-60844.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "US used expired missiles against Iran; navy gives odd 'stale bread' comparison",
+       "link": "https://timesofindia.indiatimes.com/defence/international/us-used-expired-missiles-in-op-epic-fury-against-iran-navy-officer-gives-odd-stale-bread-comparison/articleshow/135966025.cms",
+       "publishedAt": "2026-11-18T20:11+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "US used expired missiles in Op Epic Fury against Iran; navy officer gives odd 'stale bread' comparison",
+       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZ0Z6Ymc2c1hGQWFLNE5XRFRVek9kMU5GSm1kTC1hV0tOMG8tQUdxUmpHaktxQ2ZqaUFSUjZLcFVlZndkTU8tVEI2U0x5TDZCSHR3blRqUFpjZXhBS1J4UlllSHZXOUplc3hHQ056S0REcHRXZ19QVzNQVVpiTHo3NkJqZk8tcmdwbk9uWTFWOGNFcDFmenNRa0lmSmptbE9ITVFzdVp4eVBBbmFTZjkyUHh1dUltNjl2WFh2ZUdlSDk2aHhRUXZsMzJHeVAzeVVlMGs3NkZ6eVFUMVJBVlpvdjJCX1lCbEQ2WXdvU0FTMW41aHY3QVVTTE5SLUd0Z1Y2Q1lxdEt2dHBsLVFpeTN4OA?oc=5",
+       "publishedAt": "2026-11-18T20:11+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-18T19:00+05:30",
    "generatedAt": "2026-11-18T19:50+05:30",
@@ -30325,196 +30506,6 @@
        "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds",
        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
        "publishedAt": "2026-11-10T21:57+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-10T23:00+05:30",
-   "generatedAt": "2026-11-10T23:15+05:30",
-   "feeds": 16,
-   "headlines": 294,
-   "stories": [
-    {
-     "title": "At least 12 people killed in Bulgaria motorway pile-up",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "NDTV",
-      "Reuters",
-      "Telegraph India",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-10T21:50+05:30",
-     "score": 8.82,
-     "summary": "At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a87/live/b5143f50-dcf4-11f1-b441-2b33b063138f.jpg",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "At least 12 people killed in Bulgaria motorway pile-up",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
-       "publishedAt": "2026-11-10T21:50+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-       "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-10T21:37+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Watch: Thick fog triggers multiple crashes on Bulgaria motorway; 12 killed",
-       "link": "https://timesofindia.indiatimes.com/world/europe/watch-thick-fog-triggers-multiple-crashes-on-bulgaria-motorway-12-killed/articleshow/135710999.cms",
-       "publishedAt": "2026-11-10T18:10+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "12 Killed In Bulgaria Motorway Pile-Up Due To Fog",
-       "link": "https://www.ndtv.com/world-news/12-killed-in-bulgaria-motorway-pile-up-due-to-fog-12308114#publisher=newsstand",
-       "publishedAt": "2026-11-10T17:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Israel's new parliament sworn in as leaders compete to form government",
-     "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC News",
-      "NDTV",
-      "Reuters",
-      "The Economic Times",
-      "The Guardian",
-      "The Hindu",
-      "The Times of Israel"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T22:33+05:30",
-     "score": 8.13,
-     "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Israel's new parliament sworn in as leaders compete to form government",
-       "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-10T22:33+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Israel parliament sworn in; Gadi eyes power",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/israels-parliament-sworn-in-as-eisenkot-tries-to-forge-a-government/articleshow/135714454.cms",
-       "publishedAt": "2026-11-10T20:43+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
-       "publishedAt": "2026-11-10T21:21+05:30"
-      }
-     ]
-    },
-    {
-     "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
-     "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "Benzinga",
-      "Bloomberg.com",
-      "Reuters",
-      "The Times of India",
-      "Times of India",
-      "TradingView"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T21:57+05:30",
-     "score": 7.82,
-     "summary": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
-     "image": "https://static.toiimg.com/photo/msid-135715730,imgsize-89558.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
-       "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
-       "publishedAt": "2026-11-10T21:37+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "‘Positive momentum’: Is the US war on Iran about to end?",
-       "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
-       "publishedAt": "2026-11-10T20:48+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
-       "publishedAt": "2026-11-10T21:57+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Anthropic Sets $70-$78 Price Band Per Share, Targets Trillion-Dollar Listing",
-     "link": "https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "BBC",
-      "CNBC",
-      "NDTV",
-      "TechCrunch",
-      "Telegraph India",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T21:59+05:30",
-     "score": 7.54,
-     "summary": "The Anthropic IPO is shaping up to be one of the biggest stock market debuts in history when it lists on Nasdaq, with major companies and investors also committing billions to the offering.",
-     "image": "https://c.ndtvimg.com/2026-05/44jeg4kk_anthropic_625x300_07_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Anthropic Sets $70-$78 Price Band Per Share, Targets Trillion-Dollar Listing",
-       "link": "https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004#publisher=newsstand",
-       "publishedAt": "2026-11-10T21:59+05:30"
-      },
-      {
-       "source": "TechCrunch",
-       "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdjJNdmJTYXR1eFhPRm5fN2lYY3p4MUt4UWhUM0ZVT2VKZ2xaU3hWMTkzTlFGUEV4bWFlY3Z0dVRhVHpETWhCejlJaFhOQXpvenBqc2ZLa1hkOGVySmZodC1ndjhwS01oM3BfR1pPdGhHdUwxQ19LRjgwc1dPbTFfX2hkVEVNQXdOTUU2VjdZR1N6WS13Z2Y2TzdvNGZrWmRZZ00zRlY2OEpVTkx2V25BQThIRFJUakRIcUVDd2h5NmdlTFRKaUx2ei1PbGplUDl6?oc=5",
-       "publishedAt": "2026-11-10T19:31+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Rockstar reveals GTA 6 console performance targets and PS5 Pro upgrades",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWtpUm1GYThzNDVNc185UjNxeVJNYkhtY0tLRlF4aHFJUE9xc1hiczNfRE9XRGNZMHRaS0lBQVF6b1RkMVV6SU9SazBGZHd2M3c2WjYxN2MtQ240WVYwSzR2Rkp0R3lrYk5PZTYwU1U4WWs2SlRMdWhEcVFZVkxXTGstdE4yalBTWkdqcEhmbWk5bmtMcFVCQTg0TFlmM0VXWWlUMnJmeWJrN2I3bVFUZ0lmS014bnc?oc=5",
-     "source": "Notebookcheck",
-     "sources": [
-      "Digital Foundry",
-      "Engadget",
-      "Mashable",
-      "Notebookcheck",
-      "PlayStation.Blog",
-      "The Economic Times"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T20:32+05:30",
-     "score": 7.05,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Notebookcheck",
-       "title": "Rockstar reveals GTA 6 console performance targets and PS5 Pro upgrades",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWtpUm1GYThzNDVNc185UjNxeVJNYkhtY0tLRlF4aHFJUE9xc1hiczNfRE9XRGNZMHRaS0lBQVF6b1RkMVV6SU9SazBGZHd2M3c2WjYxN2MtQ240WVYwSzR2Rkp0R3lrYk5PZTYwU1U4WWs2SlRMdWhEcVFZVkxXTGstdE4yalBTWkdqcEhmbWk5bmtMcFVCQTg0TFlmM0VXWWlUMnJmeWJrN2I3bVFUZ0lmS014bnc?oc=5",
-       "publishedAt": "2026-11-10T20:32+05:30"
       }
      ]
     }
