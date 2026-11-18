@@ -1,6 +1,188 @@
 {
- "updated": "2026-11-19T03:21+05:30",
+ "updated": "2026-11-19T04:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-19T04:00+05:30",
+   "generatedAt": "2026-11-19T04:21+05:30",
+   "feeds": 16,
+   "headlines": 201,
+   "stories": [
+    {
+     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "CNN",
+      "Mint",
+      "NDTV",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-19T02:43+05:30",
+     "score": 10.48,
+     "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-19T02:43+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Democrat Hakeem Jeffries Set To Be First African-American House Speaker",
+       "link": "https://www.ndtv.com/world-news/democrat-hakeem-jeffries-set-to-be-first-african-american-house-speaker-12346248#publisher=newsstand",
+       "publishedAt": "2026-11-19T00:22+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Historic first: Democrat Hakeem Jeffries nominated to become House Speaker",
+       "link": "https://timesofindia.indiatimes.com/world/us/historic-first-democrats-nominate-hakeem-jeffries-set-to-be-first-black-us-house-speaker/articleshow/135969043.cms",
+       "publishedAt": "2026-11-18T23:25+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "History in the making? Hakeem Jeffries nominated as House Speaker, set to become first Black American to hold the post",
+       "link": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
+       "publishedAt": "2026-11-18T23:05+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Historic first: Democrats nominate Hakeem Jeffries, set to be first Black US House Speaker",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQ1hVZkhWV1BkSnUtRjJDYWw2Z1FPbDVnTjBScWVYVjFFc2pzNXFtaXJmVTkxM3FWQVF4UEwtNDhxcHhYekR6dEx2eVcxa1J2NmtKWnI0a1JuZ0ZxUlQ3NXpxOWNBM3dUaGZxVTJ2anZJc2xQWDIzdXI4WFg3WGNQMC1Tb2tZUEw4SkNxYjZlUUl5Y3N3Y1lKYmd2VV9KeTdLekMzbDM0Mk9Jc05SR3RYdUZza0hzWU1YckpVT3VjdldsRGxua0FwNmpXSmV2dzNSWFNMek8xMEVIRHp3OGVVRko3VGt1Q1cybjNwT1NydHY?oc=5",
+       "publishedAt": "2026-11-18T23:25+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+     "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "AP News",
+      "BBC",
+      "BBC News",
+      "Bloomberg.com",
+      "The Guardian",
+      "The Washington Post"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T03:51+05:30",
+     "score": 7.67,
+     "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-18T23:04+05:30"
+      },
+      {
+       "source": "AP News",
+       "title": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5oVy1LNFdSWUFIbTV3RkNqQlJNWWdlb3pJNUxOV3ZRMU02TjFOV0VBUGVoRDhLOEU0SHpSTl9YMEwtN1pVSV9rQ0I0cUZvRFptd1NGUks3ci0zekpiSmZKMmJobUZfcTZpS1YyVkZCbVR4U3RKQ1F6TUlXU2x5VmdDZ2V1empCQVViM3NNVDhPc1NtMU5IeENVZWlNQQ?oc=5",
+       "publishedAt": "2026-11-19T03:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "9 of the best iPhone 18 Pro cases from Apple, CASETiFY, Troubadour, and more",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3QyNzdBek9RdnYwamZ5YVJ1LTh5QlItTmVwSURCa3ljeVZhWlJXLVJqdUE1SzJOR3kwUXBacnUtVUJfbTNPVmI1LUo4Qm1fNmRZX0dVdktyQ09TaV9EV0RXaGNsVVNiZFZ1VWVqelBYN1U1S004amNpYkNfWnc0RGZ6SjJYQVhVZVBvZFF0SXJ3MUNIYlV4M2VfWFphTmxqSlJ4eXFFclRpN25iUm1XTUwta21yZ3ppMktLeksyMlNLVHFUWlE?oc=5",
+     "source": "TechRadar",
+     "sources": [
+      "Gadget Review",
+      "MakeUseOf",
+      "TechRadar",
+      "Tom's Guide",
+      "markets.businessinsider.com"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-19T02:09+05:30",
+     "score": 7.13,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "TechRadar",
+       "title": "9 of the best iPhone 18 Pro cases from Apple, CASETiFY, Troubadour, and more",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3QyNzdBek9RdnYwamZ5YVJ1LTh5QlItTmVwSURCa3ljeVZhWlJXLVJqdUE1SzJOR3kwUXBacnUtVUJfbTNPVmI1LUo4Qm1fNmRZX0dVdktyQ09TaV9EV0RXaGNsVVNiZFZ1VWVqelBYN1U1S004amNpYkNfWnc0RGZ6SjJYQVhVZVBvZFF0SXJ3MUNIYlV4M2VfWFphTmxqSlJ4eXFFclRpN25iUm1XTUwta21yZ3ppMktLeksyMlNLVHFUWlE?oc=5",
+       "publishedAt": "2026-11-19T02:09+05:30"
+      }
+     ]
+    },
+    {
+     "title": "William and Kate meet PM Modi as they wrap up India tour",
+     "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "PM India",
+      "Reuters",
+      "Vogue"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T01:37+05:30",
+     "score": 7.04,
+     "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "William and Kate meet PM Modi as they wrap up India tour",
+       "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-19T01:37+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "William and Kate meet PM Modi as they wrap up India tour",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
+       "publishedAt": "2026-11-19T01:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
+     "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
+     "source": "Mint",
+     "sources": [
+      "Inc42",
+      "Mezha",
+      "Mint",
+      "Push Square",
+      "The Economist",
+      "YourStory.com"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T00:46+05:30",
+     "score": 6.7,
+     "summary": "Grand Theft Auto 6 is here, ending the 13 years-long wait. From critics to fans, many have shared their take across social media. Check it out.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/217106_1795026527055_VsMc_1795026534044_yBay_d6ac50bb-3929-4c0d-aa74-88e7ea3f1510_HXyV.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
+       "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
+       "publishedAt": "2026-11-18T23:59+05:30"
+      },
+      {
+       "source": "The Economist",
+       "title": "“Grand Theft Auto VI” may mark the end of an era in gaming",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlI3cG1TZ2poQ1NkUEZiY09tcExRZzlKOGhtRDFZRHMxanZINjU3bTBEb1JhelU3N055WmxSek1kLVVxdXMtTzdMenUxVTZLcTRPNGstYkJSLU9BWHFiTlRoaHlDaUlndkZMT3Y2MFFDTms3SWxzZWg3b1RrQjV1WV9MVUwxMHdHUExETUxxN29wMjBPZjlGWHRRbFpBSWk5RExn?oc=5",
+       "publishedAt": "2026-11-19T00:46+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-19T03:00+05:30",
    "generatedAt": "2026-11-19T03:21+05:30",
@@ -30521,180 +30703,6 @@
        "title": "80% of Delhi's pollution Monday due to crackers",
        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV29od0llc3FaN1FOc2F1YUx4OUhrcjBTOFhzMmRHZnE4ZkxlSWhiUFpKVUhTaUk2ZVdBWFFjU1FCN2VtdFZlWjR6MXlTbEJoaGdiRExRSmxMQTdXQjlfbk9wWTdWeWZuTE1iZ2ZmYkk5UHVnUVVXQnJ0ekRUeFhTMFNPV3NUNDRUay01bzFzVm1KS1BxQkZSSnZ3ZVhxVlhNMXVMRnJfQlIycHJzRkFMRThYOA?oc=5",
        "publishedAt": "2026-11-11T04:16+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T06:00+05:30",
-   "generatedAt": "2026-11-11T06:27+05:30",
-   "feeds": 16,
-   "headlines": 131,
-   "stories": [
-    {
-     "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-     "link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
-     "source": "The Guardian",
-     "sources": [
-      "Al Jazeera",
-      "CBS News",
-      "NBC News",
-      "Reuters",
-      "The Guardian",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T04:12+05:30",
-     "score": 7.74,
-     "summary": "Republicans pick Jordan as House leader and John Thune as Senate leader for last two years of Trump’s presidency US politics – live updates Republicans have elected veteran congressman Jim Jordan as their new leader in the House of Representatives, putting a strident defender of Donald Trump at the helm of their conference as they navigate the fallout from sweeping losses in last week’s midterm elections. Jordan…",
-     "image": "https://i.guim.co.uk/img/media/7c7b9a4a19524aff2e4e5d73e05badceb52c697c/867_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=ac142c1690dbaa9cd209993f3e3bc0a2",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-       "link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
-       "publishedAt": "2026-11-11T04:12+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Jim Jordan elected House Republican leader after party's midterm defeat",
-       "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/jim-jordan-elected-house-republican-leader-after-partys-midterm-defeat/articleshow/135719643.cms",
-       "publishedAt": "2026-11-11T01:38+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
-       "link": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
-       "publishedAt": "2026-11-11T01:24+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Jim Jordan elected House Republican leader after party's midterm defeat",
-       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRU4tVEVpSU8zQUM3N2FqYVloUTBQbjc4WEpsRnN5MmhvclRialAyY21IMERCNnNhcmlwSzJRZUl5aFhkVEViUmxGNmRiRnR0YzJWRmNzYmcwNExoVHdrdUQ3UDhueXNtVXktblcyT05aRXNGdWd2aXdnOUc5U3BTUTcwWnlzdFlJWUpYNVJOMFZTd2pjdlI2THNLXy10cGNyLU9RZ3FOYUNubkNZZXhmM1lKWUd5UVN0SzRjM2FibXhLUjA4Nnp0azhPU29zRUJNekgybENrcmVfV2FtZkJIT3VOaFhkWE9yTS10N2ZHUE5fWW9ETGZ5T0hWdjHSAYICQVVfeXFMT0FoVmZUWEh6MlVDdEVXcWtSMHJ0YzQtZlkwenVFa0o5M0JIN3BMUWtlRTNZXzFVU2pwVzFZdGhEeTc1d045RUtSYmV4WXJOS0YxVC0wbjROcEpHQ0VfMWtsMEZ5OWFrM1Vtcnh1b21TbFhYVEZkcHNhM3U3dzJDampWZWtidEg3WEdNMmZPOTJJLXZmbS05Z0Z6SVdjb0ZReGxuaGxtNFU1aW1yZWt4bEdpbzlvSjdCX1pESDQtbjI1MG90aGdoRTVranF5RXhuNjd1RHlwZVVFMFFQdFlXRkJHa1RUZDBqMldiSl9POXJDaTVWenloMFV3anhVRi1jdmFR?oc=5",
-       "publishedAt": "2026-11-11T01:38+05:30"
-      }
-     ]
-    },
-    {
-     "title": "80% of Delhi's pollution Monday due to crackers",
-     "link": "https://timesofindia.indiatimes.com/india/80-of-delhis-pollution-monday-due-to-crackers/articleshow/135721614.cms",
-     "source": "Times of India",
-     "sources": [
-      "NDTV",
-      "Telegraph India",
-      "The Indian Express",
-      "The Times of India",
-      "TheWire.in",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T04:16+05:30",
-     "score": 7.39,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135721645,imgsize-57608.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "80% of Delhi's pollution Monday due to crackers",
-       "link": "https://timesofindia.indiatimes.com/india/80-of-delhis-pollution-monday-due-to-crackers/articleshow/135721614.cms",
-       "publishedAt": "2026-11-11T04:16+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "80% of Delhi's pollution Monday due to crackers",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV29od0llc3FaN1FOc2F1YUx4OUhrcjBTOFhzMmRHZnE4ZkxlSWhiUFpKVUhTaUk2ZVdBWFFjU1FCN2VtdFZlWjR6MXlTbEJoaGdiRExRSmxMQTdXQjlfbk9wWTdWeWZuTE1iZ2ZmYkk5UHVnUVVXQnJ0ekRUeFhTMFNPV3NUNDRUay01bzFzVm1KS1BxQkZSSnZ3ZVhxVlhNMXVMRnJfQlIycHJzRkFMRThYOA?oc=5",
-       "publishedAt": "2026-11-11T04:16+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Rubio says no need for major combat operations against Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "CBS News",
-      "NDTV",
-      "Reuters",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T01:05+05:30",
-     "score": 6.86,
-     "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
-     "image": null,
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Rubio says no need for major combat operations against Iran",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-       "publishedAt": "2026-11-11T01:04+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Rubio says no need for major combat operations against Iran given US economic campaign",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5",
-       "publishedAt": "2026-11-11T01:05+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Unable to manage fridges': Iran mocks France over supermarket cyberattack",
-     "link": "https://timesofindia.indiatimes.com/world/middle-east/unable-to-manage-fridges-iran-mocks-france-after-paris-blames-tehran-for-supermarket-cyberattack/articleshow/135720067.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "The Hindu",
-      "The Times of India",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T03:45+05:30",
-     "score": 6.74,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135720069,imgsize-59820.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Unable to manage fridges': Iran mocks France over supermarket cyberattack",
-       "link": "https://timesofindia.indiatimes.com/world/middle-east/unable-to-manage-fridges-iran-mocks-france-after-paris-blames-tehran-for-supermarket-cyberattack/articleshow/135720067.cms",
-       "publishedAt": "2026-11-11T03:45+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Unable to manage fridges': Iran mocks France after Paris blames Tehran for supermarket cyberattack",
-       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdzJ2bkNlRmhoc2gyZ2dva2dnOHpBcWtpaWNRaTVOeFBUUjV3cnU2U01lRkpWS0VzNXdUb1hTMkdkNVpQRTZuUUhrdTZHVDhvRmRGeVZTTGZqdVdPYUswbDlfdG9FNFVsbVJfckhPM0c0YlZiZFBiQjlGV0NQWDJOZERqTVVlc1BoU3k2VHNLN2p1enNWYnp0MkJpRHFWWDJsSld3WFZYMjlIR1JWaDcyN1h6YkVmN093SmVSaldxQW5EOUY0MmMtUUFzNkw0bTU3SlNUSDVUajFSZUU1aV9Bc3VWaWlESkZTWFdaRTlST25wLTFqcDJOV0c1bHB3dk1CX1lXOU1EMA?oc=5",
-       "publishedAt": "2026-11-11T03:45+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Carlsen Wins Blitz Tiebreaker On Day 1 Of Total Chess Pilot",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTZVOEZUbElDcjIzajhVMUdKODNZZGtBXzB2TS1KQXBQYjd3RGFzZFdqRThmbm42UExLLTl1QzVCZ1pYd2F6NENFclZiNlBoaE1KVlBwUXJnRzBQQndfZ0hjRE8xcGFaM3Z6dlhTSnhjcDlBdGVXeU84ZXpNaGlxOEVLQTFEOVFneXdVTA?oc=5",
-     "source": "Chess.com",
-     "sources": [
-      "Chess News | ChessBase",
-      "Chess.com",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T01:52+05:30",
-     "score": 6.74,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Chess.com",
-       "title": "Carlsen Wins Blitz Tiebreaker On Day 1 Of Total Chess Pilot",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTZVOEZUbElDcjIzajhVMUdKODNZZGtBXzB2TS1KQXBQYjd3RGFzZFdqRThmbm42UExLLTl1QzVCZ1pYd2F6NENFclZiNlBoaE1KVlBwUXJnRzBQQndfZ0hjRE8xcGFaM3Z6dlhTSnhjcDlBdGVXeU84ZXpNaGlxOEVLQTFEOVFneXdVTA?oc=5",
-       "publishedAt": "2026-11-11T01:52+05:30"
       }
      ]
     }
