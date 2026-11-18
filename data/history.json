@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-18T15:28+05:30",
+ "updated": "2026-11-18T16:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-18T16:00+05:30",
+   "generatedAt": "2026-11-18T16:30+05:30",
+   "feeds": 15,
+   "headlines": 315,
+   "stories": [
+    {
+     "title": "‘Grand Theft Auto VI’ is a cultural and economic earthquake. Brace yourself.",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdml2aXIyREpwckNnYWJTdC1FRzNTb2VGUVY4c2ViX0RoS3RlRXlWY2s5S2ZYVzF6TUxKX2UwOVpXbTlDWVRpbGdjMWZvSmNuTXF6T04yWE94RUpPQXdHZ245cVhaTzV4Rndhc0owYW00YzVPcEt2MGJLOERKdXF1LTJwVzhWYXZvcE05YzEtNXAyMGJCZmFaWWh6N1hrQTdvdEV5bUFydC1CTlk?oc=5",
+     "source": "The Washington Post",
+     "sources": [
+      "RockstarINTEL",
+      "Simply Wall St",
+      "The Times of India",
+      "The Washington Post",
+      "blog.youtube",
+      "varindia"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T15:36+05:30",
+     "score": 7.35,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Washington Post",
+       "title": "‘Grand Theft Auto VI’ is a cultural and economic earthquake. Brace yourself.",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdml2aXIyREpwckNnYWJTdC1FRzNTb2VGUVY4c2ViX0RoS3RlRXlWY2s5S2ZYVzF6TUxKX2UwOVpXbTlDWVRpbGdjMWZvSmNuTXF6T04yWE94RUpPQXdHZ245cVhaTzV4Rndhc0owYW00YzVPcEt2MGJLOERKdXF1LTJwVzhWYXZvcE05YzEtNXAyMGJCZmFaWWh6N1hrQTdvdEV5bUFydC1CTlk?oc=5",
+       "publishedAt": "2026-11-18T15:36+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Chinese steel imports threaten Indian industry, Tata Steel CEO warns",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/chinese-steel-imports-threaten-indian-industry-tata-steel-ceo-calls-for-level-playing-field/articleshow/135958719.cms",
+     "source": "Times of India",
+     "sources": [
+      "Business Standard",
+      "ET Government",
+      "McKinsey & Company",
+      "Reuters",
+      "Swarajya",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T15:29+05:30",
+     "score": 7.13,
+     "summary": "Tata Steel's CEO T V Narendran highlighted concerns regarding the impact of Chinese steel imports on India's industry. The company aims to expand its production capacity to 40 million tonnes by 2035, while exploring additional electric arc furnace projects. Steel producers in India are in discussions with the government for measures to protect domestic production.",
+     "image": "https://static.toiimg.com/photo/msid-135958938,imgsize-45652.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Chinese steel imports threaten Indian industry, Tata Steel CEO warns",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/chinese-steel-imports-threaten-indian-industry-tata-steel-ceo-calls-for-level-playing-field/articleshow/135958719.cms",
+       "publishedAt": "2026-11-18T15:29+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSU5xZ3hxUXIyT2tZR3ZHRi1NaG1TZDd1Q2EtRmwtM0hTT2Z6c1RObk9ldkhIUVlkZGJ6b015d243c2s4TnpXYzVydmlYYnl1WDkwcGViTmw4VDlhTl9yeWVOMjFoVUl1QVZ6NTRLXzgxOHNZMGJLdDRYMWQ5eXNyclg4dHRJOWxMV095SlE1cFRRT3RHX1BZMmdOelA0VWxHMUZVdnI4UzQ4Zlk5RHZkRWI1Wk96SXNjVmF3?oc=5",
+       "publishedAt": "2026-11-18T11:23+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sonia Gandhi's pre-citizenship electoral roll entry case: Delhi court seeks ATR",
+     "link": "https://www.thehindu.com/news/national/sonia-gandhis-pre-citizenship-electoral-roll-entry-case-delhi-court-seeks-atr/article71715052.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Bar and Bench",
+      "Hindustan Times",
+      "Live Law",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T14:34+05:30",
+     "score": 7.05,
+     "summary": "Additional Chief Judicial Magistrate Vinod Joshi sought an ATR from the police and posted the matter for further proceedings on November 28",
+     "image": "https://th-i.thgim.com/public/incoming/c60zpk/article71715060.ece/alternates/LANDSCAPE_1200/2026-11-10T114452Z_1816156645_RC2ZKOA8NAS6_RTRMADP_3_INDIA-BOOK-POLITICS.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Sonia Gandhi's pre-citizenship electoral roll entry case: Delhi court seeks ATR",
+       "link": "https://www.thehindu.com/news/national/sonia-gandhis-pre-citizenship-electoral-roll-entry-case-delhi-court-seeks-atr/article71715052.ece",
+       "publishedAt": "2026-11-18T14:34+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Sonia Gandhi electoral roll row gets an HC twist",
+       "link": "https://economictimes.indiatimes.com/news/india/delhi-court-seeks-police-report-on-complaint-alleging-sonia-gandhis-name-appeared-on-electoral-roll-before-acquiring-citizenship/articleshow/135955812.cms",
+       "publishedAt": "2026-11-18T14:10+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Delhi court orders cops to file action taken report on complaint against Sonia Gandhi in voter roll case",
+       "link": "https://www.hindustantimes.com/india-news/delhi-court-orders-cops-to-file-action-taken-report-on-complaint-against-sonia-gandhi-101794987243563.html",
+       "publishedAt": "2026-11-18T13:04+05:30"
+      },
+      {
+       "source": "Bar and Bench",
+       "title": "Delhi court seeks report from Police on complaint alleging Sonia Gandhi's name was included in voters roll before she became Indian citizen",
+       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQ080eG14MjI0RWM0RkFLaUo3dnZzMnpMa0lzb3A0c0RzZlhPRWxkY2lYeUd6UXlmSnJON0NZcGItQzVzRnZSQ3hIMjFMZ3R2QkRLRGtRZk85bmtVU0xaWlE2ZGJha3pkUVBuMGk4TmllcWxBLVFyZWV1M2M1T3dfRGxFbGZvdFdCQThzYjlhUlRJbTg0Zl9BUHVwR01jWEhLMVVqdVRZdWJzMjY0VE1YeXB0Z2dtVTdQa2hBbEc4RXphSF9aaDhfM2hTUVRWTmg2T0RvUGwyYUVRS09uMGJIcXRrQmhZbVdoVFJ5Ty1zM1RLVUdNa1M1UnVyQTVYVGNPcmlVc3ZiZkIzWmFmbHJn0gGcAkFVX3lxTE5WdWN5OUFxQjdDVmlodzJHUkRZYkE0cUhXdzJzTElVenQ1Rm1JUGZFLUJHczA1cEFoalZyNW4zMWxCTnBpOE9yemNtNEtlTjZFOFROcURiTjViRmlEWlRhN2lEZzl6TjhTcm5laHpHd201THAtczY4bGJUeC1PRjhSajFTQUJ5SVpzUHNvakVjMGdVeDl2alN3Tm5WVWZvUG82c0h6RmgzOXpWSHZvQnk1VmJvbk83OU90UHQ1T2RxSV9SVEJkM2VNOW5JdmxyQjNtZ01MUGlrM1ViRlRXS0lsVnlzLVVSckZWZDA0Uno1dlRWOHVna09McExHeHFNNmJoY1J6RkFGRWJ2VFRoZ19uYllKaWlhSVJsWUtN?oc=5",
+       "publishedAt": "2026-11-18T11:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
+     "link": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "CGTN",
+      "CNBC",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-18T13:24+05:30",
+     "score": 6.98,
+     "summary": "Putin says Western powers are 'former hegemons', with Europe in the midst of a 'humiliating decline'.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
+       "link": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
+       "publishedAt": "2026-11-18T13:20+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Whitewashing history': Shinde Sena leaders tear up a copy of Sonia's memoir",
+     "link": "https://timesofindia.indiatimes.com/india/whitewashing-history-shiv-sena-shinde-faction-leaders-tear-up-a-copy-of-sonia-gandhis-memoir/articleshow/135956466.cms",
+     "source": "Times of India",
+     "sources": [
+      "Indian Television Dot Com",
+      "NDTV",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T14:39+05:30",
+     "score": 6.88,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135957222,imgsize-1349395.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Whitewashing history': Shinde Sena leaders tear up a copy of Sonia's memoir",
+       "link": "https://timesofindia.indiatimes.com/india/whitewashing-history-shiv-sena-shinde-faction-leaders-tear-up-a-copy-of-sonia-gandhis-memoir/articleshow/135956466.cms",
+       "publishedAt": "2026-11-18T14:39+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Whitewashing history': Shiv Sena Shinde faction leaders tear up a copy of Sonia Gandhi's memoir",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObU4yNnltdlNOWk0yRTlxMmpaLURSazZoaXNobEsyelFqSW5PMWZMOEdXS3hHMDVlVEE3ejJpc3hfQ3J6djRYb1NNTUwwclQxOGdLbE95QjRPNTFsV1ZFMXBqSl80S0pVQ0VRWUhDalVJbU1mTkpIc0NoMi03dXNPZ1RCZi1nYUdwV0d1RVZqQURrWU81V2ZQeFpDb3RsTVJfNzQ2VF9pRGxwNGFydHBLRjNHenN4encwekpvUU1GcFdMaDFCX0FuN2VUOGhIb2JJcUlHeGRRdzA3UTlOVlBjTjZJdnY3eXp0d2lmOGJXcWd3QQ?oc=5",
+       "publishedAt": "2026-11-18T14:39+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-18T15:00+05:30",
    "generatedAt": "2026-11-18T15:28+05:30",
@@ -30385,172 +30552,6 @@
        "title": "Kharge asks why Delhi is becoming 'vishwaguru' in air pollution, dares PM Modi to give 'Hawa Ka Hisaab'",
        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZW9vM0MwMDdnNWVHSGdhMjNKd1pOSE1xQ1dSYjN3Rm4yU2RhMVR1b3kzcnFoVGhvVjRtYU84bUpleC1wYmhhT19JZEhhVEliM2JERVBrMU9rQWxWajZaUldpV2VGSFlEdXdDV2RlVElqM3VqOFF2cnBEQU8zWkdGWE1aY0EyQm4yVlFYZHR2Wmd1cnc3cjlfSVE4NkVXZzR4bGNzVS16cm5tZVZXLXdxWUFyc3A1THRvVk5TQ21ZclFFbml3VDhRUk51U2lkeHotd29GS2dNY0VJSmtpWmQ4c0NtQTc3cnNSem9tLdIB-gFBVV95cUxQb1JmZGVUNVJmb2VkSS02RTExUk9FYmFQbWNXbmx2MWVZMU1RUjdrQzNxcGtaLTQtaEE5MGVqeGJlTHpHSVJiaTNveGFIcXhvT2VuYThIOWwtRVQzZzRGM3RaYmN0SW9SUUo4QnJfU0hWOVpzbWNTNlBsNjBieFZoSExZRmtZbXhBTDQ3Q0NsVFNWTDVzTnVJV1VUSGRfWDFiQ01TblFQalhOOUJOTHR0SzV1RzU0R1ZjcTZZbkhkZkUtYk1qelJPMzhfYU1WZFZWRDBSVzBnTnNEbk5fT2Rkc3JVcEhwU2hGby16LUVJU3FTeERIY0JacFN3?oc=5",
        "publishedAt": "2026-11-10T15:18+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-10T18:00+05:30",
-   "generatedAt": "2026-11-10T18:28+05:30",
-   "feeds": 16,
-   "headlines": 333,
-   "stories": [
-    {
-     "title": "ECI extends ECI extends model code restrictions to retired Govt officials engaged by Statesmodel code restrictions to retired Govt officials engaged by States",
-     "link": "https://www.thehindu.com/news/national/eci-extends-model-code-restrictions-to-retired-govt-officials-engaged-by-states/article71685602.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "ThePrint",
-      "Times of India",
-      "United News of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T17:25+05:30",
-     "score": 7.93,
-     "summary": "The Election Commission of India said such individuals must maintain political neutrality and refrain from participating in election campaigns or canvassing",
-     "image": "https://th-i.thgim.com/public/incoming/lihdmv/article71685652.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202026_22_04_5.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "ECI extends ECI extends model code restrictions to retired Govt officials engaged by Statesmodel code restrictions to retired Govt officials engaged by States",
-       "link": "https://www.thehindu.com/news/national/eci-extends-model-code-restrictions-to-retired-govt-officials-engaged-by-states/article71685602.ece",
-       "publishedAt": "2026-11-10T17:25+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "ECI extends neutrality restrictions in poll-bound states",
-       "link": "https://www.hindustantimes.com/india-news/eci-extends-neutrality-restrictions-re-employed-officials-in-poll-bound-states-101794305239183.html",
-       "publishedAt": "2026-11-10T15:37+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Retired govt officials come under purview of model code restrictions, says EC",
-       "link": "https://timesofindia.indiatimes.com/india/must-maintain-political-neutrality-ec-says-model-code-curbs-apply-to-retired-govt-officials/articleshow/135706156.cms",
-       "publishedAt": "2026-11-10T14:53+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
-     "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-     "source": "The Guardian",
-     "sources": [
-      "BBC",
-      "DW.com",
-      "Reuters",
-      "The Economic Times",
-      "The Guardian"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T17:58+05:30",
-     "score": 7.42,
-     "summary": "US-led talks in Abu Dhabi are first substantive negotiations in months focusing on ending the conflict which has raged for more than four years US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united response” after France blamed Iran for a spate of cyber-attacks on supermarket freezers and chillers that caused millions of euros of damage.…",
-     "image": "https://i.guim.co.uk/img/media/107e559a07afa91b8a10b4e3226ef062b4051e0e/63_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=77ca63dc298bd7c55a13748902e04061",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
-       "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-       "publishedAt": "2026-11-10T17:58+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "US-mediated Russia-Ukraine peace talks begin",
-       "link": "https://economictimes.indiatimes.com/news/defence/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/articleshow/135709980.cms",
-       "publishedAt": "2026-11-10T17:25+05:30"
-      },
-      {
-       "source": "DW.com",
-       "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
-       "publishedAt": "2026-11-10T14:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft might start paying GPU owners to train AI on their graphics cards",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1ZCc3RVTjJ4cDZFM3VXMVhQMy1ldWg5T1MxZG15aEVUYWl2TUdKTDdlTzA3ZWJpTFZZTjBkMUw4S3dJUHVORXRTUXU4LTNuSkFicHRuTDlFbFdIWXlCa3BiaHQ5cDBjVWdJbEd4amdhczZGTG9Rd0kyWDE1ejk4aU4yVktTeXprbDFqNWktNktfcGZONHZrdEgxUU5EZjNYdDVXbEFyR2c?oc=5",
-     "source": "PC Guide",
-     "sources": [
-      "Insider Gaming",
-      "International Business Times UK",
-      "PC Guide",
-      "VideoCardz.com",
-      "XenoSpectrum"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T15:25+05:30",
-     "score": 6.99,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "PC Guide",
-       "title": "Microsoft might start paying GPU owners to train AI on their graphics cards",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1ZCc3RVTjJ4cDZFM3VXMVhQMy1ldWg5T1MxZG15aEVUYWl2TUdKTDdlTzA3ZWJpTFZZTjBkMUw4S3dJUHVORXRTUXU4LTNuSkFicHRuTDlFbFdIWXlCa3BiaHQ5cDBjVWdJbEd4amdhczZGTG9Rd0kyWDE1ejk4aU4yVktTeXprbDFqNWktNktfcGZONHZrdEgxUU5EZjNYdDVXbEFyR2c?oc=5",
-       "publishedAt": "2026-11-10T15:25+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Pannun’s civil lawsuit: U.S. State Department formally serves notice on India",
-     "link": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Mint",
-      "Swarajya",
-      "Telegraph India",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T17:12+05:30",
-     "score": 6.98,
-     "summary": "The U.S. Department of State said it was legally obliged to do so and is not taking a position on the case",
-     "image": "https://th-i.thgim.com/public/incoming/hop5hz/article71685489.ece/alternates/LANDSCAPE_1200/India_Sikh_Assassination_Plot_65459.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Pannun’s civil lawsuit: U.S. State Department formally serves notice on India",
-       "link": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
-       "publishedAt": "2026-11-10T17:12+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "US State Department serves summons to Government of India in civil lawsuit by Khalistan separatist Gurpatwant Pannun",
-       "link": "https://www.livemint.com/news/us-news/us-state-department-serves-summons-to-government-of-india-in-civil-lawsuit-by-khalistan-separatist-gurpatwant-pannun-11794301265628.html",
-       "publishedAt": "2026-11-10T14:41+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
-     "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
-     "source": "The Guardian",
-     "sources": [
-      "NDTV",
-      "Telegraph India",
-      "The Guardian",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T14:48+05:30",
-     "score": 6.89,
-     "summary": "From the assassinations of her husband and mother-in-law to press stonewalling under Modi, Belonging offers an insider’s account of India’s political evolution • Don’t get This is India delivered to your inbox? Sign up here Few love stories have been as closely entwined with a nation’s history as that of Sonia and Rajiv Gandhi. The former’s much-awaited political memoir, Belonging, offers a strikingly candid account…",
-     "image": "https://i.guim.co.uk/img/media/d2e894a22b72fea95ed08e3a70d3924f4ca19359/2314_387_3859_3088/master/3859.jpg?width=140&quality=85&auto=format&fit=max&s=f50ca4fe4fab425da5723c61ac2b25e8",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
-       "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
-       "publishedAt": "2026-11-10T13:00+05:30"
       }
      ]
     }
