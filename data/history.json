@@ -1,6 +1,215 @@
 {
- "updated": "2026-11-18T10:28+05:30",
+ "updated": "2026-11-18T11:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-18T11:00+05:30",
+   "generatedAt": "2026-11-18T11:30+05:30",
+   "feeds": 16,
+   "headlines": 287,
+   "stories": [
+    {
+     "title": "LeT’s Lateef Bhat killed in Kulgam encounter",
+     "link": "https://www.thehindu.com/news/national/fresh-encounter-in-kulgam-lateef-bhat-november-18-2026/article71714380.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Rising Kashmir",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-18T11:18+05:30",
+     "score": 11.47,
+     "summary": "A team of security forces, who were tracking on-the-run Bhat, came under fire from inside a mosque around 3 a.m. in Kulgam’s Zangalpora",
+     "image": "https://th-i.thgim.com/public/incoming/lmtj51/article71714384.ece/alternates/LANDSCAPE_1200/India_Kashmir_Gunbattle_41828.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "LeT’s Lateef Bhat killed in Kulgam encounter",
+       "link": "https://www.thehindu.com/news/national/fresh-encounter-in-kulgam-lateef-bhat-november-18-2026/article71714380.ece",
+       "publishedAt": "2026-11-18T11:18+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Lashkar Terrorist Lateef Bhat Killed In J&K Encounter. He Was Hiding Inside Mosque",
+       "link": "https://www.ndtv.com/india-news/lashkar-terrorist-lateef-bhat-killed-in-j-k-encounter-he-was-hiding-inside-mosque-12342224#publisher=newsstand",
+       "publishedAt": "2026-11-18T10:39+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Some dishes best served cold': LeT commander Lateef Bhat killed in Kulgam encounter",
+       "link": "https://timesofindia.indiatimes.com/india/some-dishes-are-best-served-cold-top-let-commander-lateef-bhat-killed-in-encounter-in-jks-kulgam/articleshow/135949196.cms",
+       "publishedAt": "2026-11-18T10:13+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Lateef Bhat, last active local terrorist commander in South Kashmir, killed in Kulgam encounter: Officials",
+       "link": "https://www.hindustantimes.com/india-news/lateef-bhat-last-active-local-commander-in-south-kashmir-killed-in-kulgam-encounter-officials-101794976277276.html",
+       "publishedAt": "2026-11-18T10:04+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "LeT commander Lateef Bhat killed in Kulgam",
+       "link": "https://economictimes.indiatimes.com/news/defence/kulgam-encounter-let-commander-lateef-bhat-refuses-to-surrender-gunfight-underway/articleshow/135946856.cms",
+       "publishedAt": "2026-11-18T08:46+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Kulgam encounter: Fresh gunfight in Jammu and Kashmir as forces hunt escaped terrorist Lateef Bhat",
+       "link": "https://www.livemint.com/news/india/kulgam-encounter-fresh-gunfight-in-jammu-and-kashmir-as-forces-hunt-escaped-terrorist-lateef-bhat-11794966976143.html",
+       "publishedAt": "2026-11-18T07:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Horoscope Today: November 18, 2026",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4dnJNd0RTMGRBeTZXWFY1cWdLZUJJQVJOTXdxVnZXeHliTEUyQWVpSXBkcFd1Wi1xUF9yd2VqWVNJaFFpSUpSTnV3YmplMFlOWVhwQzhtcTZRZ1BISDQ1aE1SNTJLbEVqdjFvNF9B?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "Dainik Jagran MP CG",
+      "Deccan Herald",
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "iDiva"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-18T06:00+05:30",
+     "score": 10.25,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 18, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4dnJNd0RTMGRBeTZXWFY1cWdLZUJJQVJOTXdxVnZXeHliTEUyQWVpSXBkcFd1Wi1xUF9yd2VqWVNJaFFpSUpSTnV3YmplMFlOWVhwQzhtcTZRZ1BISDQ1aE1SNTJLbEVqdjFvNF9B?oc=5",
+       "publishedAt": "2026-11-18T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India sitting on 'economic disaster': Rahul Gandhi at Columbia University",
+     "link": "https://www.thehindu.com/news/national/india-sitting-on-economic-disaster-rahul-gandhi-at-columbia-university/article71714437.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Bloomberg",
+      "NDTV",
+      "Rediff",
+      "The Economic Times",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-18T09:34+05:30",
+     "score": 8.98,
+     "summary": "Arguing that small and medium businesses and agriculture form the backbone of India's economy and are crucial for job creation, Rahul Gandhi said the country's manufacturing sector needed to be rebuilt",
+     "image": "https://th-i.thgim.com/public/incoming/n3egtz/article71714452.ece/alternates/LANDSCAPE_1200/PTI11_18_2026_000012A.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "India sitting on 'economic disaster': Rahul Gandhi at Columbia University",
+       "link": "https://www.thehindu.com/news/national/india-sitting-on-economic-disaster-rahul-gandhi-at-columbia-university/article71714437.ece",
+       "publishedAt": "2026-11-18T09:34+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "'India sitting on economic disaster,' says Rahul",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/india-sitting-on-economic-disaster-says-rahul-gandhi-at-columbia-university/articleshow/135945725.cms",
+       "publishedAt": "2026-11-18T08:00+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Sitting on disaster': Rahul flags India's economic 'crisis' during US visit; BJP hits back",
+       "link": "https://timesofindia.indiatimes.com/india/india-sitting-on-economic-disaster-rahul-gandhi-flags-unemployment-education-crisis-at-columbia/articleshow/135945307.cms",
+       "publishedAt": "2026-11-18T07:24+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Rahul Gandhi Flags India's 'Economic Crisis' In US, BJP Calls Him Anti-India",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEc1V3Y4UVZuNnFnb2FXbjRLa3RqYWc1MGxlY1d6R0tHLWtOS0JsQlhDdW02eTl6LUxRN1lXamxuZVV2V0p0NTNpcnJUMnBOLXNTN1lOaTZGNkpRU3Q0VGJJdnR0VW1fMzFJNVpWQnVUY2hsVUJ0RDhwckp2YlBKb3d2MnZBRE4wang2dmZBaHZldlFZM2twNDZoYXp3d29Za2N3Qzk1VVRvOW95empVVjVoQXEwWEJUY2NoSGJ3d2JqTEF4NTRTS3JTNkNSZw?oc=5",
+       "publishedAt": "2026-11-18T08:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Chrome 158 Stable Release Ships New API for Direct Web App Installation",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sNkg0UXloczJ2ZmFCZC1LRlhabXhsT3RKVlMwanIwTU53MWI3Unp1elo4Y19uelFxZUtqVzRTRmZvRFEtMnZuMnRkNFd5TkE2WkVwMWZ1Vkh1Z2ZQVkFldERfaUJIMy1Zc2Y0QkhETGxGUWxZR0E?oc=5",
+     "source": "BigGo Finance",
+     "sources": [
+      "9to5Google",
+      "About Chromebooks",
+      "Android Authority",
+      "Android Central",
+      "BigGo Finance",
+      "India News Network",
+      "PiunikaWeb"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-18T08:06+05:30",
+     "score": 8.93,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BigGo Finance",
+       "title": "Chrome 158 Stable Release Ships New API for Direct Web App Installation",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sNkg0UXloczJ2ZmFCZC1LRlhabXhsT3RKVlMwanIwTU53MWI3Unp1elo4Y19uelFxZUtqVzRTRmZvRFEtMnZuMnRkNFd5TkE2WkVwMWZ1Vkh1Z2ZQVkFldERfaUJIMy1Zc2Y0QkhETGxGUWxZR0E?oc=5",
+       "publishedAt": "2026-11-18T08:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Two Indian crew members injured, one missing after missile attack on LPG tanker in Strait of Hormuz",
+     "link": "https://www.hindustantimes.com/india-news/two-indian-crew-members-injured-one-missing-after-missile-attack-on-lpg-tanker-in-strait-of-hormuz-101794961875057.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "News On AIR",
+      "Rising Kashmir",
+      "Scroll.in",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-18T07:38+05:30",
+     "score": 8.86,
+     "summary": "The vessel was struck twice within hours, with the second attack triggering a fire that left the crew unable to access lifeboats and rafts.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/IRAN-CRISIS-TANKER-2_1794962223321_80kW_1794962235349_tDCb_2dc8c804-6d09-4921-af43-1e59e7de649e_tGTq.JPG",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Two Indian crew members injured, one missing after missile attack on LPG tanker in Strait of Hormuz",
+       "link": "https://www.hindustantimes.com/india-news/two-indian-crew-members-injured-one-missing-after-missile-attack-on-lpg-tanker-in-strait-of-hormuz-101794961875057.html",
+       "publishedAt": "2026-11-18T07:38+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Indian national missing after attacks in Hormuz",
+       "link": "https://economictimes.indiatimes.com/nri/latest-updates/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/articleshow/135945223.cms",
+       "publishedAt": "2026-11-18T07:16+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Indian national missing after attacks on commercial vessel in Strait of Hormuz",
+       "link": "https://www.thehindu.com/news/national/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/article71714331.ece",
+       "publishedAt": "2026-11-18T06:37+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-18T10:00+05:30",
    "generatedAt": "2026-11-18T10:28+05:30",
@@ -30320,173 +30529,6 @@
        "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
        "publishedAt": "2026-11-10T11:25+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-10T13:00+05:30",
-   "generatedAt": "2026-11-10T13:43+05:30",
-   "feeds": 16,
-   "headlines": 294,
-   "stories": [
-    {
-     "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
-     "source": "The Guardian",
-     "sources": [
-      "Sky News",
-      "Telegraph India",
-      "The Guardian",
-      "The Jerusalem Post",
-      "The Times of India",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T12:16+05:30",
-     "score": 7.83,
-     "summary": "The reported evacuation comes weeks after the US withdrew bombers from RAF Fairford over a suspected Iran-linked security incident The US military evacuated aircraft from a second airbase in ⁠Britain on Monday after a threat from Iran, the Wall Street Journal (WSJ) reported, citing people familiar with the matter, weeks after Washington withdrew its bombers from ⁠RAF Fairford airbase over ⁠a suspected Iran-linked…",
-     "image": "https://i.guim.co.uk/img/media/af04e0ad8236fe288041fbdcdd6bba810aba9aa1/0_173_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=a47bae74f3b22739cfbea6fffd16c20a",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
-       "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
-       "publishedAt": "2026-11-10T12:16+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "US evacuates aircraft from UK air base after Iran threat: Report",
-       "link": "https://timesofindia.indiatimes.com/world/us/us-evacuates-aircraft-from-uk-air-base-after-iran-threat-report/articleshow/135699996.cms",
-       "publishedAt": "2026-11-10T10:33+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "US evacuates aircraft from UK air base after Iran threat: Report",
-       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMzNnNmRUcS14N1VQQlJQTnZJRGZTUDhqUkxuR3pTbWRGNnk2VGpEYVVtMVRRbGFxMUMtaGREN1ppc2hMODc5dVVYWHJDMFdDZGpxTml0NDlLNkRZazZzMG9vMEVNV2ZxM0pfXzJjdUpZLTVERFNtMVJCTU9ack8zUUY0QVluZDEtRUdRZG9nREpLT3RhS3VtRWcwSVREU1V6aG9Zb3R6azRITG5BWUlrdDVEWmJYQnhJd0VtMU81VG9KXzJCNEhsSTRXSnhSMHc?oc=5",
-       "publishedAt": "2026-11-10T10:33+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India vs UAE Live Score Updates, U19 Asia Cup 2026: Aaryavir Sehwag Nears Century, India In Control vs UAE",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM0NwN3lHaFhKOTZodG1DZnAxZUNkVnRrYm9JbC1qSzRGYTZiMGpEWGVkYkptX2xnazcxVGxDYVBLcEFWZElhRVY0T2RQVmVRZjFkbkZEeFZLdU1GX2ZyX2RpUmVNTFdiY2s4SzA0VnJCQzdpQlJYSWdwLVJQYXBNbTJVQ3lnTURZeFNObElyZEU5WE11ZWhoZ2JVQ0xjbUl5OVdpTEZTcVZpOWN6Q1d2RUxDQ2YwN0ZYVFdXU1puT0xuVktTcDB4aTJ0OUJ3dGRfUF85T3Rn?oc=5",
-     "source": "NDTV Sports",
-     "sources": [
-      "BCCI",
-      "Cricbuzz",
-      "India Today",
-      "NDTV Sports",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T13:35+05:30",
-     "score": 7.48,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "NDTV Sports",
-       "title": "India vs UAE Live Score Updates, U19 Asia Cup 2026: Aaryavir Sehwag Nears Century, India In Control vs UAE",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM0NwN3lHaFhKOTZodG1DZnAxZUNkVnRrYm9JbC1qSzRGYTZiMGpEWGVkYkptX2xnazcxVGxDYVBLcEFWZElhRVY0T2RQVmVRZjFkbkZEeFZLdU1GX2ZyX2RpUmVNTFdiY2s4SzA0VnJCQzdpQlJYSWdwLVJQYXBNbTJVQ3lnTURZeFNObElyZEU5WE11ZWhoZ2JVQ0xjbUl5OVdpTEZTcVZpOWN6Q1d2RUxDQ2YwN0ZYVFdXU1puT0xuVktTcDB4aTJ0OUJ3dGRfUF85T3Rn?oc=5",
-       "publishedAt": "2026-11-10T13:35+05:30"
-      }
-     ]
-    },
-    {
-     "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
-     "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-     "source": "The Guardian",
-     "sources": [
-      "BBC",
-      "DW.com",
-      "NDTV",
-      "Reuters",
-      "The Guardian",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T11:25+05:30",
-     "score": 7.37,
-     "summary": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe US officials said they would seek a “final end” to the war between Russia and Ukraine, beginning with trilateral talks in Abu Dhabi on Tuesday in the first substantive negotiations between the two countries since February. The talks are also the first since the US launched joint strikes…",
-     "image": "https://i.guim.co.uk/img/media/b67f54026a5a8be610e08a9ba1634e5bc9eb901e/87_0_869_695/master/869.jpg?width=140&quality=85&auto=format&fit=max&s=c1aa2025ee1c4710947412f8d4f6ac95",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
-       "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-       "publishedAt": "2026-11-10T10:30+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "US-Mediated Talks Between Russia, Ukraine Begin Today In Abu Dhabi",
-       "link": "https://www.ndtv.com/world-news/us-mediated-talks-between-russia-ukraine-begin-today-in-abu-dhabi-12306322#publisher=newsstand",
-       "publishedAt": "2026-11-10T10:23+05:30"
-      },
-      {
-       "source": "DW.com",
-       "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
-       "publishedAt": "2026-11-10T11:25+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Why Shubman Gill is captaining India for the last time in ODI series",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-shubman-gill-is-captaining-india-for-the-last-time-in-new-zealand-odi-series/articleshow/135699367.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricinfo",
-      "Deccan Herald",
-      "MSN",
-      "The Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T10:08+05:30",
-     "score": 7.15,
-     "summary": "Shubman Gill leads India in his final match of the ODI series against New Zealand at Seddon Park. He will miss the fourth and fifth ODIs due to workload management before the Test series. India are ahead in the series, leading series 2-0. Shreyas Iyer will take over as captain for the final two matches.",
-     "image": "https://static.toiimg.com/photo/msid-135699500,imgsize-36196.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Why Shubman Gill is captaining India for the last time in ODI series",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-shubman-gill-is-captaining-india-for-the-last-time-in-new-zealand-odi-series/articleshow/135699367.cms",
-       "publishedAt": "2026-11-10T10:08+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Why Shubman Gill is captaining India for the last time in New Zealand ODI series",
-       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNb0lYRk9qbW9WaDlQZjlmb0ZsdkFxU0U5Y3NHNVUxYzVjUlByaG1SMFZUbWRzTHhVdU1lcWxNMXdxMERYejlMOW56bVJObGNmNjUxa2xUZkM0YXYtNHhaZkVWazVxLTJRV0J0NnhBa1lNZmljeHhSMW9SajZMbGpvaGs0bVExM3hoMlgzdENEV3VmS1M3eHFVYW9wTlVYalpGc3VaUmxQeXdodi1MelZEazlXaEhnbmpjeUxTS1ZXaV9VOVFEbW5tNTZDeG1MdG9JMlg3VFBHb0lNMG95X2daVzRTS3pnSGF3am1oX0puMFByTFg4a0ozZDdtTUhFYlF1c1JOM0R5SEpPdw?oc=5",
-       "publishedAt": "2026-11-10T10:08+05:30"
-      }
-     ]
-    },
-    {
-     "title": "\"He Tends To Look Away, Avoiding Eye Contact\": Sonia Gandhi On PM Modi",
-     "link": "https://www.ndtv.com/india-news/have-no-real-contact-with-him-he-avoids-eye-contact-sonia-gandhi-on-pm-modi-12306330#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Deccan Herald",
-      "NDTV",
-      "The Guardian",
-      "The Times of India",
-      "ThePrint"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T11:33+05:30",
-     "score": 7.14,
-     "summary": "The former Congress chief says whenever the two come together, they greet each other with a namaste, but claims that the Prime Minister \"tends to look away\".",
-     "image": "https://c.ndtvimg.com/2026-11/gtbm645g_sonia-gandhi-pm-_625x300_07_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "\"He Tends To Look Away, Avoiding Eye Contact\": Sonia Gandhi On PM Modi",
-       "link": "https://www.ndtv.com/india-news/have-no-real-contact-with-him-he-avoids-eye-contact-sonia-gandhi-on-pm-modi-12306330#publisher=newsstand",
-       "publishedAt": "2026-11-10T11:33+05:30"
       }
      ]
     }
