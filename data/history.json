@@ -1,6 +1,193 @@
 {
- "updated": "2026-11-18T21:27+05:30",
+ "updated": "2026-11-18T22:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-18T22:00+05:30",
+   "generatedAt": "2026-11-18T22:30+05:30",
+   "feeds": 16,
+   "headlines": 313,
+   "stories": [
+    {
+     "title": "Why India is imposing 162.5% duty on bulk Scotch imports despite India-UK trade pact cutting tariffs to 75%",
+     "link": "https://www.livemint.com/news/india/why-india-is-imposing-162-5-duty-on-bulk-scotch-imports-despite-india-uk-trade-pact-cutting-tariffs-to-75-11795010628919.html",
+     "source": "Mint",
+     "sources": [
+      "BusinessLine",
+      "Mint",
+      "Reuters",
+      "The Drinks Business",
+      "The Times of India",
+      "Times of India",
+      "scanx.trade"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-18T20:18+05:30",
+     "score": 7.93,
+     "summary": "The higher duty, which exceeds the 150% tariff applicable before the trade pact, has raised concerns about shipment delays, working capital pressures and potential disruptions to India's $65 billion liquor market.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/scotch_1795013286142_hWBf_1795013302212_6UEd_e843898f-3934-4297-a125-ade7204ce2f2_p7r0.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Why India is imposing 162.5% duty on bulk Scotch imports despite India-UK trade pact cutting tariffs to 75%",
+       "link": "https://www.livemint.com/news/india/why-india-is-imposing-162-5-duty-on-bulk-scotch-imports-despite-india-uk-trade-pact-cutting-tariffs-to-75-11795010628919.html",
+       "publishedAt": "2026-11-18T20:18+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Scotch on the rocks? India imposes 162.5% duty, tax on bulk UK imports",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/scotch-on-the-rocks-india-imposes-162-5-duty-tax-on-bulk-uk-imports-domestic-production-likely-to-be-hit/articleshow/135961860.cms",
+       "publishedAt": "2026-11-18T17:07+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
+       "publishedAt": "2026-11-18T18:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
+     "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
+     "source": "Times of India",
+     "sources": [
+      "Arab News",
+      "CGTN",
+      "Council, European Union",
+      "Reuters",
+      "The Guardian",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T21:54+05:30",
+     "score": 7.65,
+     "summary": "In a bold move, European Commission president Ursula von der Leyen has put forth a significant initiative to grant Ukraine a €45 billion loan. This funding, earmarked for bolstering Ukraine's defense and stabilizing its economy during the ongoing conflict, would only be repayable once Russia compensates Ukraine for the damages incurred during the war.",
+     "image": "https://static.toiimg.com/photo/msid-135967627,imgsize-72625.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
+       "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
+       "publishedAt": "2026-11-18T21:54+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
+       "publishedAt": "2026-11-18T20:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNN",
+      "The Guardian",
+      "The New York Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T22:07+05:30",
+     "score": 7.19,
+     "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-18T22:07+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
+       "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
+       "publishedAt": "2026-11-18T21:25+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
+       "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+       "publishedAt": "2026-11-18T21:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "MoD signs ₹1,976-crore contract with Israel to upgrade Barak missile system",
+     "link": "https://www.thehindu.com/news/national/mod-signs-1976-crore-contract-with-israel-to-upgrade-barak-missile-system/article71716628.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Moneycontrol.com",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu",
+      "i24NEWS",
+      "www.pib.gov.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T22:06+05:30",
+     "score": 7.18,
+     "summary": "The upgrade will involve comprehensive hardware and software improvements to enhance the missile system’s operational capabilities and engagement range aboard Indian Navy warships",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "MoD signs ₹1,976-crore contract with Israel to upgrade Barak missile system",
+       "link": "https://www.thehindu.com/news/national/mod-signs-1976-crore-contract-with-israel-to-upgrade-barak-missile-system/article71716628.ece",
+       "publishedAt": "2026-11-18T22:06+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "India and Israel fire up ₹1,976 crore missile deal",
+       "link": "https://economictimes.indiatimes.com/news/defence/india-signs-rs-1976-crore-deal-with-israel-to-upgrade-navys-barak-missile-systems/articleshow/135963546.cms",
+       "publishedAt": "2026-11-18T18:04+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "India inks Rs 2,000-crore contract with Israel Aerospace Industries to upgrade Navy's Barak missiles",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcnp5ODdZbmF3NElvX19XRGxjUDJxUkxISkRYYUZEWU5CTVE0YWxFM1l2WDdBQUpIcFNhRWo2X1RoQklXX1lPc1VTRlUzVTNnbnp5QWZTcExvd0hEaGY5QUZkblFzVTJWS3FlTm5zREkzYTlid2taa1VOVGlrb2xoS0trQ3p0LUR6ZVFhSVpsLW5uVlVySVEyUlYwWnBobnFjYm96UDNwb2wyNnVrXzhZaDg1Nzl1VHRFbGZHNFlJN0hwSk4yZ3FBcjk1U2ttbnJIOHhiS1ctYkFDWHpwdzhHRVJkdzR3YW5lblJBcEhPRTbSAfYBQVVfeXFMTXFISkJ5dGI0VHlCcENaNGQ3RU5PYl9pc1pGejhUNVlMRTloLXl4YXdua0UwTXpNX094RURjbFFRcGw0ZEpxMTF6LUp3b09XNDBFMVRsZzlXbFN3ZGp3OUVES1Q1VTVfU0dZR0p4WU1CRTBxMGt5Q1hPNU5OMFJTU1NobExHUDVwTUVfQlE4ak9CYlRZaXpqWVhVSWhWNjRIRnJPWXZWeEx5blJreEpvaHQ5VXVKdzRUYnluMU9USHNHd2JrRlcxWTBwM1VCM0U1S1ZMa3REZ2tfUTZuZ19ja0pIUHhDNHhkS3ZiM0xwOGpDdnk5dlNB?oc=5",
+       "publishedAt": "2026-11-18T18:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Prince William, Kate Middleton meet PM Modi in Delhi",
+     "link": "https://timesofindia.indiatimes.com/india/prince-william-kate-middleton-meet-pm-modi-in-delhi-as-three-day-india-visit-concludes/articleshow/135966803.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "Marie Claire",
+      "Reuters",
+      "Times of India",
+      "Vogue"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T21:59+05:30",
+     "score": 7.16,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135967672,imgsize-149774.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Prince William, Kate Middleton meet PM Modi in Delhi",
+       "link": "https://timesofindia.indiatimes.com/india/prince-william-kate-middleton-meet-pm-modi-in-delhi-as-three-day-india-visit-concludes/articleshow/135966803.cms",
+       "publishedAt": "2026-11-18T21:59+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
+       "publishedAt": "2026-11-18T20:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-18T21:00+05:30",
    "generatedAt": "2026-11-18T21:27+05:30",
@@ -30322,189 +30509,6 @@
        "source": "Reuters",
        "title": "Rubio says no need for major combat operations against Iran given US economic campaign",
        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5",
-       "publishedAt": "2026-11-10T21:57+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T00:00+05:30",
-   "generatedAt": "2026-11-11T00:16+05:30",
-   "feeds": 16,
-   "headlines": 291,
-   "stories": [
-    {
-     "title": "Anthropic Sets $70-$78 Price Band Per Share, Targets Trillion-Dollar Listing",
-     "link": "https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "BBC",
-      "CNBC",
-      "NDTV",
-      "Reuters",
-      "TechCrunch",
-      "Telegraph India",
-      "WSJ"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T21:59+05:30",
-     "score": 8.37,
-     "summary": "The Anthropic IPO is shaping up to be one of the biggest stock market debuts in history when it lists on Nasdaq, with major companies and investors also committing billions to the offering.",
-     "image": "https://c.ndtvimg.com/2026-05/44jeg4kk_anthropic_625x300_07_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Anthropic Sets $70-$78 Price Band Per Share, Targets Trillion-Dollar Listing",
-       "link": "https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004#publisher=newsstand",
-       "publishedAt": "2026-11-10T21:59+05:30"
-      },
-      {
-       "source": "TechCrunch",
-       "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdjJNdmJTYXR1eFhPRm5fN2lYY3p4MUt4UWhUM0ZVT2VKZ2xaU3hWMTkzTlFGUEV4bWFlY3Z0dVRhVHpETWhCejlJaFhOQXpvenBqc2ZLa1hkOGVySmZodC1ndjhwS01oM3BfR1pPdGhHdUwxQ19LRjgwc1dPbTFfX2hkVEVNQXdOTUU2VjdZR1N6WS13Z2Y2TzdvNGZrWmRZZ00zRlY2OEpVTkx2V25BQThIRFJUakRIcUVDd2h5NmdlTFRKaUx2ei1PbGplUDl6?oc=5",
-       "publishedAt": "2026-11-10T19:31+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Israel's new parliament sworn in as leaders compete to form government",
-     "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC News",
-      "NDTV",
-      "Reuters",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of Israel"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T22:33+05:30",
-     "score": 8.21,
-     "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Israel's new parliament sworn in as leaders compete to form government",
-       "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-10T22:33+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Israel parliament sworn in; Gadi eyes power",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/israels-parliament-sworn-in-as-eisenkot-tries-to-forge-a-government/articleshow/135714454.cms",
-       "publishedAt": "2026-11-10T20:43+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
-       "publishedAt": "2026-11-10T21:21+05:30"
-      }
-     ]
-    },
-    {
-     "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
-     "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "Mint",
-      "NDTV",
-      "Telegraph India",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T22:01+05:30",
-     "score": 8.12,
-     "summary": "The resolution against Pete Hegseth was brought in by outgoing Republican lawmaker Thomas Massie on Monday.",
-     "image": "https://c.ndtvimg.com/2026-11/sb47n1a4_pete-hegseth_650x400_10_November_26.jpg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
-       "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
-       "publishedAt": "2026-11-10T22:01+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "‘No Secretary of Defence has ever been impeached’: Pete Hegseth defends Iran war actions amid removal push",
-       "link": "https://www.livemint.com/news/us-news/no-secretary-of-defence-has-ever-been-impeached-pete-hegseth-defends-iran-war-actions-amid-removal-push-11794318707252.html",
-       "publishedAt": "2026-11-10T19:28+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Hegseth calls moves to impeach him a farce",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/pentagon-chief-pete-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail/articleshow/135712064.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "Reuters",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T19:36+05:30",
-     "score": 7.72,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Hegseth calls moves to impeach him a farce",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/pentagon-chief-pete-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail/articleshow/135712064.cms",
-       "publishedAt": "2026-11-10T18:53+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Pentagon chief Hegseth calls moves to impeach him a farce that will fail",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUkJOd3JQOHVGMWFnVU50WG9NOHgtSHBTREwwQlFCcV84M3NIMXU5MEVHT1ltY0F0bUhOZHZhNG16bWx4bU5IYU1rNnRib3c3d3lkeEtIeEQ2QmlxR1lCR3ZTTUZhLW85SU5vdXRMRnp6WjdVSTR2aF9YazdnVDlmWno5dGh0bXhFS0JtbHVGa0ZIbDZpdG9uY3I2cVliSTdBaXJPbi1GMEVlSVlWZEpvOUF0NEtwak9OUS1KRmZBSmduSHlhemo1UlZiZEhBeDhIc0HSAdgBQVVfeXFMT0ExbzBmZ29ZV0M3bVY1Ti1ja292akVUXy1BZ1AtdnFYVXduTkx4d0lwUURjU2FvOFNBSllsbUJqbXk3NmY5Qy1sZUVCVjhQWlZzOGpyY21JX3RZOHNEYTE4RXZtVXJ5MUdZNmI3X2RoZTFVSlFJMlAwekdya21XX3NTclhJUEVrX2hwV1l0UTU2dnNDbVNGbWRZUmM5aE15dVRYeG4tNVl4TGxBeWJNcDI0ZGxJYjhvZG5aVEVRcXRzYTN3Xzc5NjRzYlBfWmMydEE4WnIyRHBJ?oc=5",
-       "publishedAt": "2026-11-10T19:36+05:30"
-      }
-     ]
-    },
-    {
-     "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
-     "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "MS NOW",
-      "Reuters",
-      "The Times of India",
-      "Times of India",
-      "TradingView",
-      "Truthout"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T21:57+05:30",
-     "score": 7.65,
-     "summary": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
-     "image": "https://static.toiimg.com/photo/msid-135715730,imgsize-89558.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
-       "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
-       "publishedAt": "2026-11-10T21:37+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "‘Positive momentum’: Is the US war on Iran about to end?",
-       "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
-       "publishedAt": "2026-11-10T20:48+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
        "publishedAt": "2026-11-10T21:57+05:30"
       }
      ]
