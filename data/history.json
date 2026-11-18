@@ -1,6 +1,194 @@
 {
- "updated": "2026-11-18T23:24+05:30",
+ "updated": "2026-11-19T00:23+05:30",
  "hours": [
+  {
+   "hour": "2026-11-19T00:00+05:30",
+   "generatedAt": "2026-11-19T00:23+05:30",
+   "feeds": 16,
+   "headlines": 263,
+   "stories": [
+    {
+     "title": "Historic first: Democrat Hakeem Jeffries nominated to become House Speaker",
+     "link": "https://timesofindia.indiatimes.com/world/us/historic-first-democrats-nominate-hakeem-jeffries-set-to-be-first-black-us-house-speaker/articleshow/135969043.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "CNN",
+      "Mint",
+      "The Guardian",
+      "The New York Times",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-18T23:25+05:30",
+     "score": 10.09,
+     "summary": "Democrats have nominated Hakeem Jeffries for US House Speaker, putting him on course to become the first Black American to hold the post. The New York lawmaker faces a full House vote on January 3, 2027, amid calls from progressive Democrats for leadership changes and a fresh party direction.",
+     "image": "https://static.toiimg.com/photo/msid-135969103,imgsize-107182.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Historic first: Democrat Hakeem Jeffries nominated to become House Speaker",
+       "link": "https://timesofindia.indiatimes.com/world/us/historic-first-democrats-nominate-hakeem-jeffries-set-to-be-first-black-us-house-speaker/articleshow/135969043.cms",
+       "publishedAt": "2026-11-18T23:25+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "History in the making? Hakeem Jeffries nominated as House Speaker, set to become first Black American to hold the post",
+       "link": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
+       "publishedAt": "2026-11-18T23:05+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-18T23:04+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
+       "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
+       "publishedAt": "2026-11-18T22:54+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
+       "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+       "publishedAt": "2026-11-18T21:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GTA 6 India release time: Indians await much-anticipated game as New Zealand gets to play",
+     "link": "https://www.hindustantimes.com/india-news/gta-6-india-release-time-indians-await-much-anticipated-game-as-new-zealand-gets-to-play-101795012108497.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "BBC",
+      "Bloomberg.com",
+      "Hindustan Times",
+      "NDTV",
+      "The Guardian",
+      "The New York Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T23:04+05:30",
+     "score": 7.53,
+     "summary": "Indian gamers will be able to access the game from 12 am IST on November 19, as Rockstar Games has confirmed that GTA 6 will launch at midnight local time",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/MALAYSIA-ENTERTAINMENT-GAMING-GTA6-0_1795012676759_tqpR_1795012681083_Ryzn_e965982c-8f8f-416e-bf34-47a30f6b632e_NNYh.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "GTA 6 India release time: Indians await much-anticipated game as New Zealand gets to play",
+       "link": "https://www.hindustantimes.com/india-news/gta-6-india-release-time-indians-await-much-anticipated-game-as-new-zealand-gets-to-play-101795012108497.html",
+       "publishedAt": "2026-11-18T20:31+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "GTA 6 reviews say highly-anticipated game is a masterpiece",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QYzNLR182dmNxMWNGNGItTVNHZ1l2UjRPRkY1WGt6WkxBUHZXYkktZmhjekl5M01lUHdicHhCZ1FPRjh1bERTWFBwWldsMWQ0LURiUG9EdHFMdzg?oc=5",
+       "publishedAt": "2026-11-18T23:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
+     "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
+     "source": "Times of India",
+     "sources": [
+      "Arab News",
+      "CGTN",
+      "Reuters",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T21:54+05:30",
+     "score": 7.33,
+     "summary": "In a bold move, European Commission president Ursula von der Leyen has put forth a significant initiative to grant Ukraine a €45 billion loan. This funding, earmarked for bolstering Ukraine's defense and stabilizing its economy during the ongoing conflict, would only be repayable once Russia compensates Ukraine for the damages incurred during the war.",
+     "image": "https://static.toiimg.com/photo/msid-135967627,imgsize-72625.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
+       "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
+       "publishedAt": "2026-11-18T21:54+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
+       "publishedAt": "2026-11-18T20:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gold tumbles over 2% to lowest since September 2025 on hawkish Fed bets",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHdPVUR5QjJ5U083QUozRDZ1NUs0c0NaU2pFSDdzSGFVWlpsSGlydFZxV21jWjJlOGQ4NVZ1bkNMT1J4ME5UN3BPTzlOdkhQTnpvNVd4WVBya2RRWlhFX0R2dURaVnR6NnJVT0RJcGxfc2piZ2hiYjVmRkdLOHNDb1VPV3YyRjdsenM1M2t6SHA5ekVOc0duZTFpRWNkUTBXUF81c2JRU2toRHlxZGstYUxB?oc=5",
+     "source": "FXStreet",
+     "sources": [
+      "CNBC",
+      "FXEmpire",
+      "FXStreet",
+      "Kitco",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-18T21:48+05:30",
+     "score": 7.07,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "FXStreet",
+       "title": "Gold tumbles over 2% to lowest since September 2025 on hawkish Fed bets",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHdPVUR5QjJ5U083QUozRDZ1NUs0c0NaU2pFSDdzSGFVWlpsSGlydFZxV21jWjJlOGQ4NVZ1bkNMT1J4ME5UN3BPTzlOdkhQTnpvNVd4WVBya2RRWlhFX0R2dURaVnR6NnJVT0RJcGxfc2piZ2hiYjVmRkdLOHNDb1VPV3YyRjdsenM1M2t6SHA5ekVOc0duZTFpRWNkUTBXUF81c2JRU2toRHlxZGstYUxB?oc=5",
+       "publishedAt": "2026-11-18T21:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India imposes 162.5% duty and tax on bulk Scotch imports amid UK trade pact dispute",
+     "link": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
+     "source": "The Hindu",
+     "sources": [
+      "BusinessLine",
+      "Mint",
+      "Reuters",
+      "The Drinks Business",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T23:00+05:30",
+     "score": 7.02,
+     "summary": "More than 80 containers belonging to Pernod Ricard, Diageo and Bacardi remain stuck at Indian ports as the dispute over customs classification threatens to disrupt the liquor industry.",
+     "image": "https://th-i.thgim.com/public/incoming/42dmsb/article71717328.ece/alternates/LANDSCAPE_1200/Scotch-imports_G6LGPL3SM.4.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "India imposes 162.5% duty and tax on bulk Scotch imports amid UK trade pact dispute",
+       "link": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
+       "publishedAt": "2026-11-18T23:00+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Why India is imposing 162.5% duty on bulk Scotch imports despite India-UK trade pact cutting tariffs to 75%",
+       "link": "https://www.livemint.com/news/india/why-india-is-imposing-162-5-duty-on-bulk-scotch-imports-despite-india-uk-trade-pact-cutting-tariffs-to-75-11795010628919.html",
+       "publishedAt": "2026-11-18T20:18+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
+       "publishedAt": "2026-11-18T18:27+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-18T23:00+05:30",
    "generatedAt": "2026-11-18T23:24+05:30",
@@ -30359,190 +30547,6 @@
        "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
        "publishedAt": "2026-11-10T23:47+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T02:00+05:30",
-   "generatedAt": "2026-11-11T02:13+05:30",
-   "feeds": 16,
-   "headlines": 255,
-   "stories": [
-    {
-     "title": "Gemini 4 Carbon Available In Google Search AI Mode",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU1TdlZqOVJZbDFVTzdSMjJzc3NxNnhCd3N0bkRxakJETEZTSm05MHJYUzFNenIxeDkxNzR0ODJudHlCUldRR3J3QWU3bWZIcjQtakx3TXdES2NqVUtLTTJ4c1pULWN2TnpwbHlEQ00tT3VCMHctaU1fbkFZVTkxZnVsZw?oc=5",
-     "source": "Search Engine Roundtable",
-     "sources": [
-      "9to5Google",
-      "Firstpost",
-      "Forbes",
-      "MLQ.ai",
-      "OrcaRouter",
-      "Search Engine Roundtable",
-      "The New Stack",
-      "WIRED",
-      "blog.google",
-      "infoq.com"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-10T22:20+05:30",
-     "score": 10.52,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Search Engine Roundtable",
-       "title": "Gemini 4 Carbon Available In Google Search AI Mode",
-       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU1TdlZqOVJZbDFVTzdSMjJzc3NxNnhCd3N0bkRxakJETEZTSm05MHJYUzFNenIxeDkxNzR0ODJudHlCUldRR3J3QWU3bWZIcjQtakx3TXdES2NqVUtLTTJ4c1pULWN2TnpwbHlEQ00tT3VCMHctaU1fbkFZVTkxZnVsZw?oc=5",
-       "publishedAt": "2026-11-10T22:20+05:30"
-      },
-      {
-       "source": "The New Stack",
-       "title": "Google says Gemini 4 Carbon proved Signal’s encryption in weeks",
-       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TM2pMUmdKcFpSdXhqZld0NWkyN0s1UUpOd2h3WHBRcFBwRGNUdmFyNGt3UFI0eng4d1dsdXpWN3h2b2Z6Z2c4YW1LTXgtbnlhSVVYdFVZSTY?oc=5",
-       "publishedAt": "2026-11-10T21:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Israel's new parliament sworn in as leaders compete to form government",
-     "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC News",
-      "NDTV",
-      "Reuters",
-      "The Economic Times",
-      "The Hindu",
-      "The New York Times",
-      "The Times of Israel"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T23:47+05:30",
-     "score": 9.09,
-     "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Israel's new parliament sworn in as leaders compete to form government",
-       "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-10T22:33+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Israel parliament sworn in; Gadi eyes power",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/israels-parliament-sworn-in-as-eisenkot-tries-to-forge-a-government/articleshow/135714454.cms",
-       "publishedAt": "2026-11-10T20:43+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
-       "publishedAt": "2026-11-10T23:47+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Rubio says no need for major combat operations against Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "Hindustan Times",
-      "NDTV",
-      "Reuters",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T01:05+05:30",
-     "score": 7.56,
-     "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
-     "image": "https://c.ndtvimg.com/2025-03/4ppk59jo_marco-rubio_625x300_13_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Rubio says no need for major combat operations against Iran",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-       "publishedAt": "2026-11-11T01:04+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "\"No Need For Major Combat\": Marco Rubio Says Iran Ops Were 'Devastating'",
-       "link": "https://www.ndtv.com/world-news/no-need-for-major-combat-marco-rubio-says-iran-ops-were-devastating-12309935#publisher=newsstand",
-       "publishedAt": "2026-11-10T23:59+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Rubio says no need for major combat operations against Iran given US economic campaign",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5",
-       "publishedAt": "2026-11-11T01:05+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "US sanctions inflicting ‘extraordinary economic pain’ on Iran, no need for major combat ops: Rubio | World News",
-       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdngwbjlSSXR3RXJWYms5OEtWTTZPYkgzbkRHS1N6VjlCNFVzRGVvMGs2RFNrb3duTm84RWVoZFVFV1VxM2Zub09YLUo3WU5XdGVkcTJZZDNFbUFIVTJqbE9lVlRVNXhWX3k2ZUMtTnZSSDBpYnNRTG1zYWhjYWh0QXNBX05ZZXFXanVwRVZ1WGpFczVnaU1ydkhITU9ha1h5T0ZvS2FkUDZqZ21kSG1jSXNzaVdBVENtUjB3aUhpM1A2dUlmWkZscFd6NmgzcE12Z2lHaExjVGNSWVpwUm5HQ0REVDNCSWRVRThibHlEbk96Tk9FaFduc2dieEQ?oc=5",
-       "publishedAt": "2026-11-10T20:59+05:30"
-      }
-     ]
-    },
-    {
-     "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
-     "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "Benzinga",
-      "Bloomberg.com",
-      "Reuters",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T21:57+05:30",
-     "score": 6.33,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135715730,imgsize-89558.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
-       "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
-       "publishedAt": "2026-11-10T21:37+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
-       "publishedAt": "2026-11-10T21:57+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Google Patches Critical Chrome Zero-Day Exploiting XML Vulnerability",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkxBVWZQTjEyS1hoV2oybG1DNGNXWkd6XzlWS3ZJOFBYRlVlR1kwYk1FZGxBX25lRFRReFhSS3NkSlc3dkI2YUNpYXE3YmQzSWJOZG1ZaFdDQlNZSmdobU1weVVZTTRqTU5ydGpRS3d4dXd4ZkZ1c2xYRkdDX3ZQNndyUlM5OGlsTTZuYXNIZGw?oc=5",
-     "source": "LinkedIn",
-     "sources": [
-      "AndroidPure",
-      "Hong Kong Computer Emergency Response Team Coordination Centre",
-      "Lifehacker",
-      "LinkedIn",
-      "The Hacker News"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T01:30+05:30",
-     "score": 6.26,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "LinkedIn",
-       "title": "Google Patches Critical Chrome Zero-Day Exploiting XML Vulnerability",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkxBVWZQTjEyS1hoV2oybG1DNGNXWkd6XzlWS3ZJOFBYRlVlR1kwYk1FZGxBX25lRFRReFhSS3NkSlc3dkI2YUNpYXE3YmQzSWJOZG1ZaFdDQlNZSmdobU1weVVZTTRqTU5ydGpRS3d4dXd4ZkZ1c2xYRkdDX3ZQNndyUlM5OGlsTTZuYXNIZGw?oc=5",
-       "publishedAt": "2026-11-11T01:30+05:30"
       }
      ]
     }
