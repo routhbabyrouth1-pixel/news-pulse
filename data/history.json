@@ -1,6 +1,206 @@
 {
- "updated": "2026-11-18T22:30+05:30",
+ "updated": "2026-11-18T23:24+05:30",
  "hours": [
+  {
+   "hour": "2026-11-18T23:00+05:30",
+   "generatedAt": "2026-11-18T23:24+05:30",
+   "feeds": 16,
+   "headlines": 299,
+   "stories": [
+    {
+     "title": "'GTA 6' merch: Where to buy shirts, hats, and more on launch day",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tbkVwZHV4MlRsRFFUZjVZa2J2N1Jub2FGMWY4eUs5ZE11bnhpQWlqUXlFdHBnMk96SE05WXFQRTNjeTh3UzdQaUxLdzh2U3VTUi1tdG03bl9hdmdsUG9ZYUpXTmlyY1Yt?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "ABC13 Houston",
+      "Business Insider",
+      "ClubAlfa.it",
+      "Cultured Vultures",
+      "Liverpool Echo",
+      "Mashable",
+      "RTINGS.com",
+      "TechRadar",
+      "The Telegraph",
+      "Yahoo Tech"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-18T22:18+05:30",
+     "score": 11.31,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "'GTA 6' merch: Where to buy shirts, hats, and more on launch day",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tbkVwZHV4MlRsRFFUZjVZa2J2N1Jub2FGMWY4eUs5ZE11bnhpQWlqUXlFdHBnMk96SE05WXFQRTNjeTh3UzdQaUxLdzh2U3VTUi1tdG03bl9hdmdsUG9ZYUpXTmlyY1Yt?oc=5",
+       "publishedAt": "2026-11-18T22:18+05:30"
+      },
+      {
+       "source": "RTINGS.com",
+       "title": "GTA VI At 30 FPS: Can Your TV Save The Day?",
+       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUpxZ1FieS15dHJZTjVqNU5DZXdKS25IeTB0WHJTSjhwY1FibHlhbWkwLVBEbjBQVXlCbm1DcnhwNThOc2tQMlU0ZGpmNDNSbWVSUWlfSDE1YmtOVHMtaVhiQUs2bWVkM19JODN0ajREcjBXbldPbHJOOWczTXBYdg?oc=5",
+       "publishedAt": "2026-11-18T21:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+     "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "Bloomberg.com",
+      "CNN",
+      "Eurogamer.net",
+      "NBC News",
+      "NDTV",
+      "The Guardian"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-18T23:04+05:30",
+     "score": 9.69,
+     "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-18T23:04+05:30"
+      },
+      {
+       "source": "NBC News",
+       "title": "Wondering why your friends are MIA? ‘Grand Theft Auto VI’ might be to blame",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0ZGS3NPdEFFME85dEtuc0NGNVdITWFTeXZQZjZHemdGWlRsbnpUZmloT3VtYzQ1QlBaNWhTSGc1YlViQl9DQmhDcWJyaEpGbUp4SUN2cnhYVUlLcmNJZ296bHVFUE5aWTZoRklleWg1LXRwUTZoVm1QNkd4aktHdXpBSVdWV3A4dDBzLU5kb3ZpMTFqX1pWaW9sRnZ4N0VmZDM3UGxxVjgzQmpvelJzbGZIdmlHTWdoUVRsbA?oc=5",
+       "publishedAt": "2026-11-18T22:30+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Grand Theft Auto 6: Reviews come in as worldwide release begins",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
+       "publishedAt": "2026-11-18T21:01+05:30"
+      }
+     ]
+    },
+    {
+     "title": "History in the making? Hakeem Jeffries nominated as House Speaker, set to become first Black American to hold the post",
+     "link": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
+     "source": "Mint",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNN",
+      "Mint",
+      "The Economic Times",
+      "The Guardian",
+      "The New York Times"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-18T23:05+05:30",
+     "score": 9.11,
+     "summary": "Democrats have nominated Hakeem Jeffries for US House Speaker, putting him on course to become the first Black American to hold the post. The New York lawmaker faces a full House vote on January 3, 2027, amid calls from progressive Democrats for leadership changes and a fresh party direction.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/JEFFRIES-ECNY-12_1761065799235_1761065806419_1795022187578_kPdm_77c94711-deb8-473e-9521-067cf64f8de0_VSjs.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "History in the making? Hakeem Jeffries nominated as House Speaker, set to become first Black American to hold the post",
+       "link": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
+       "publishedAt": "2026-11-18T23:05+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-18T23:04+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
+       "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
+       "publishedAt": "2026-11-18T22:54+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Hakeem Jeffries moves closer to making history",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/democrats-nominate-hakeem-jeffries-to-lead-house-putting-him-on-path-to-historic-speakership/articleshow/135967388.cms",
+       "publishedAt": "2026-11-18T21:39+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
+       "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+       "publishedAt": "2026-11-18T21:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Prince William, Kate Middleton meet PM Modi in Delhi",
+     "link": "https://timesofindia.indiatimes.com/india/prince-william-kate-middleton-meet-pm-modi-in-delhi-as-three-day-india-visit-concludes/articleshow/135966803.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "PM India",
+      "The Hindu",
+      "Times of India",
+      "Vogue"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T21:59+05:30",
+     "score": 8.26,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135967672,imgsize-149774.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Prince William, Kate Middleton meet PM Modi in Delhi",
+       "link": "https://timesofindia.indiatimes.com/india/prince-william-kate-middleton-meet-pm-modi-in-delhi-as-three-day-india-visit-concludes/articleshow/135966803.cms",
+       "publishedAt": "2026-11-18T21:59+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
+       "publishedAt": "2026-11-18T20:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
+     "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
+     "source": "Times of India",
+     "sources": [
+      "Arab News",
+      "CGTN",
+      "Reuters",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-18T21:54+05:30",
+     "score": 7.5,
+     "summary": "In a bold move, European Commission president Ursula von der Leyen has put forth a significant initiative to grant Ukraine a €45 billion loan. This funding, earmarked for bolstering Ukraine's defense and stabilizing its economy during the ongoing conflict, would only be repayable once Russia compensates Ukraine for the damages incurred during the war.",
+     "image": "https://static.toiimg.com/photo/msid-135967627,imgsize-72625.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
+       "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
+       "publishedAt": "2026-11-18T21:54+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
+       "publishedAt": "2026-11-18T20:22+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-18T22:00+05:30",
    "generatedAt": "2026-11-18T22:30+05:30",
@@ -30343,173 +30543,6 @@
        "title": "Google Patches Critical Chrome Zero-Day Exploiting XML Vulnerability",
        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkxBVWZQTjEyS1hoV2oybG1DNGNXWkd6XzlWS3ZJOFBYRlVlR1kwYk1FZGxBX25lRFRReFhSS3NkSlc3dkI2YUNpYXE3YmQzSWJOZG1ZaFdDQlNZSmdobU1weVVZTTRqTU5ydGpRS3d4dXd4ZkZ1c2xYRkdDX3ZQNndyUlM5OGlsTTZuYXNIZGw?oc=5",
        "publishedAt": "2026-11-11T01:30+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T01:00+05:30",
-   "generatedAt": "2026-11-11T01:21+05:30",
-   "feeds": 16,
-   "headlines": 271,
-   "stories": [
-    {
-     "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
-     "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "India Today",
-      "Mint",
-      "NDTV",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T22:01+05:30",
-     "score": 7.95,
-     "summary": "The resolution against Pete Hegseth was brought in by outgoing Republican lawmaker Thomas Massie on Monday.",
-     "image": "https://c.ndtvimg.com/2026-11/sb47n1a4_pete-hegseth_650x400_10_November_26.jpg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
-       "link": "https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand",
-       "publishedAt": "2026-11-10T22:01+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
-       "link": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
-       "publishedAt": "2026-11-10T20:15+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "‘No Secretary of Defence has ever been impeached’: Pete Hegseth defends Iran war actions amid removal push",
-       "link": "https://www.livemint.com/news/us-news/no-secretary-of-defence-has-ever-been-impeached-pete-hegseth-defends-iran-war-actions-amid-removal-push-11794318707252.html",
-       "publishedAt": "2026-11-10T19:28+05:30"
-      }
-     ]
-    },
-    {
-     "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
-     "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "Bloomberg.com",
-      "Reuters",
-      "The Times of India",
-      "Times of India",
-      "TradingView",
-      "Truthout"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T21:57+05:30",
-     "score": 7.47,
-     "summary": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
-     "image": "https://static.toiimg.com/photo/msid-135715730,imgsize-89558.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on",
-       "link": "https://timesofindia.indiatimes.com/world/us/end-iran-war-or-tackle-trump-what-americans-want-democrat-held-congress-to-focus-on/articleshow/135715443.cms",
-       "publishedAt": "2026-11-10T21:37+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "‘Positive momentum’: Is the US war on Iran about to end?",
-       "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
-       "publishedAt": "2026-11-10T20:48+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
-       "publishedAt": "2026-11-10T21:57+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Google Pixel Tag Initial Review: The gold standard for Find Hub trackers, whatever that’s worth",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EQTY3a1RXN20yNG5aRksxLXdLa2hfazcxWExMVHBTTGo2OUFuTDVIaHYwcFFUYTJsZ0hhbUE3UUNYOFdFbkZEbVhRcUU4SkotMWp4cDNSRld3amw4QWxnSXRTODZNWnpUSVlGTlZVa0VIX3ZH?oc=5",
-     "source": "9to5Google",
-     "sources": [
-      "9to5Google",
-      "Android Authority",
-      "CNET",
-      "TechCrunch",
-      "The Verge"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T22:30+05:30",
-     "score": 7.02,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "9to5Google",
-       "title": "Google Pixel Tag Initial Review: The gold standard for Find Hub trackers, whatever that’s worth",
-       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EQTY3a1RXN20yNG5aRksxLXdLa2hfazcxWExMVHBTTGo2OUFuTDVIaHYwcFFUYTJsZ0hhbUE3UUNYOFdFbkZEbVhRcUU4SkotMWp4cDNSRld3amw4QWxnSXRTODZNWnpUSVlGTlZVa0VIX3ZH?oc=5",
-       "publishedAt": "2026-11-10T22:30+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Suryakumar ready to bounce back from 'very difficult' phase",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc3BacWtsQTlqdDAyaEpaZ2NTYXgybGM1SWJ1Vm1nRVdsUnI0cmJMcFhtLXpxWnplcldkM1FlaUhwaHRFVUtscWVSOGVjNG56U2hRV0NaVWVFdWpGaENHSzZhTnl5dGZXVDdkRFRKYWxVVVRxR0hpdHFfQkJTSkZ0b05pTjd1SHAtOTRncE1vUFlGY2ZnM3VzNHFpQ21WTnNSaEVSaUZhcFM2OFd6T1lJVUJlREFnZFJrOFkzdjZndzExM1BnQUFCamZMMmQwMUphd3fSAeMBQVVfeXFMT0JUTmZuazNnR1RtZkJEcFhORG5lcTA1UUFhQ3prNjd2NXZRX0VqdnJOMG90Qmk2LVlfNEIzMWRROFc3U3hrQ1JWUnA4NjFEdDVTRG1iZGZLNGhpbEhJc21tQU1hQ2ktUkR3OGdaSHFNdXVMNm43M29sc3BpZjRpcEtLTHhOaThZTllEa3VpUW8yZlM5Y3ZpMlZKbkdQM1lHYTZPQWZGWGg4SGVQcXM4ZEpkQ1d5VGxJam5UQzNFbHNHT0JLcmxiRjU2TEpLWEhBNElkQVNuWjg2dVN4ZnVEeUx0elE?oc=5",
-     "source": "Cricinfo",
-     "sources": [
-      "Cricbuzz",
-      "Cricinfo",
-      "Rediff",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T21:10+05:30",
-     "score": 6.81,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricinfo",
-       "title": "Suryakumar ready to bounce back from 'very difficult' phase",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc3BacWtsQTlqdDAyaEpaZ2NTYXgybGM1SWJ1Vm1nRVdsUnI0cmJMcFhtLXpxWnplcldkM1FlaUhwaHRFVUtscWVSOGVjNG56U2hRV0NaVWVFdWpGaENHSzZhTnl5dGZXVDdkRFRKYWxVVVRxR0hpdHFfQkJTSkZ0b05pTjd1SHAtOTRncE1vUFlGY2ZnM3VzNHFpQ21WTnNSaEVSaUZhcFM2OFd6T1lJVUJlREFnZFJrOFkzdjZndzExM1BnQUFCamZMMmQwMUphd3fSAeMBQVVfeXFMT0JUTmZuazNnR1RtZkJEcFhORG5lcTA1UUFhQ3prNjd2NXZRX0VqdnJOMG90Qmk2LVlfNEIzMWRROFc3U3hrQ1JWUnA4NjFEdDVTRG1iZGZLNGhpbEhJc21tQU1hQ2ktUkR3OGdaSHFNdXVMNm43M29sc3BpZjRpcEtLTHhOaThZTllEa3VpUW8yZlM5Y3ZpMlZKbkdQM1lHYTZPQWZGWGg4SGVQcXM4ZEpkQ1d5VGxJam5UQzNFbHNHT0JLcmxiRjU2TEpLWEhBNElkQVNuWjg2dVN4ZnVEeUx0elE?oc=5",
-       "publishedAt": "2026-11-10T21:10+05:30"
-      }
-     ]
-    },
-    {
-     "title": "\"No Need For Major Combat\": Marco Rubio Says Iran Ops Were 'Devastating'",
-     "link": "https://www.ndtv.com/world-news/no-need-for-major-combat-marco-rubio-says-iran-ops-were-devastating-12309935#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "Hindustan Times",
-      "NDTV",
-      "Reuters",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-10T23:59+05:30",
-     "score": 6.52,
-     "summary": "Marco Rubio also appeared downbeat about the prospects of a deal with Tehran, saying Iran currently did not appear realistic about negotiations.",
-     "image": "https://c.ndtvimg.com/2025-03/4ppk59jo_marco-rubio_625x300_13_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "\"No Need For Major Combat\": Marco Rubio Says Iran Ops Were 'Devastating'",
-       "link": "https://www.ndtv.com/world-news/no-need-for-major-combat-marco-rubio-says-iran-ops-were-devastating-12309935#publisher=newsstand",
-       "publishedAt": "2026-11-10T23:59+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Rubio says no need for major combat operations against Iran given US economic campaign",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5",
-       "publishedAt": "2026-11-10T21:57+05:30"
       }
      ]
     }
