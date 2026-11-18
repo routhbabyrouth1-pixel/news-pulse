@@ -1,6 +1,222 @@
 {
- "updated": "2026-11-18T08:20+05:30",
+ "updated": "2026-11-18T09:24+05:30",
  "hours": [
+  {
+   "hour": "2026-11-18T09:00+05:30",
+   "generatedAt": "2026-11-18T09:24+05:30",
+   "feeds": 17,
+   "headlines": 279,
+   "stories": [
+    {
+     "title": "India News Live Updates, 18 November 2026: Massive fire breaks out at Pune’s Timber Market, no casualties reported",
+     "link": "https://indianexpress.com/article/india/breaking-news-live-updates-india-18-november-2026-delhi-aqi-today-weather-cyclone-akvan-rahul-gandhi-us-mumbai-building-collapse-train-cancelled-flights-10967656/",
+     "source": "The Indian Express",
+     "sources": [
+      "Deccan Herald",
+      "ETV Bharat",
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "OrissaPOST",
+      "The Economic Times",
+      "The Indian Express",
+      "The Times of India",
+      "Vogue India",
+      "iDiva"
+     ],
+     "sourceCount": 12,
+     "publishedAt": "2026-11-18T08:57+05:30",
+     "score": 13.11,
+     "summary": "",
+     "image": "https://images.indianexpress.com/2026/11/pune-timber-market-fire.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "India News Live Updates, 18 November 2026: Massive fire breaks out at Pune’s Timber Market, no casualties reported",
+       "link": "https://indianexpress.com/article/india/breaking-news-live-updates-india-18-november-2026-delhi-aqi-today-weather-cyclone-akvan-rahul-gandhi-us-mumbai-building-collapse-train-cancelled-flights-10967656/",
+       "publishedAt": "2026-11-18T08:57+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 18, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4dnJNd0RTMGRBeTZXWFY1cWdLZUJJQVJOTXdxVnZXeHliTEUyQWVpSXBkcFd1Wi1xUF9yd2VqWVNJaFFpSUpSTnV3YmplMFlOWVhwQzhtcTZRZ1BISDQ1aE1SNTJLbEVqdjFvNF9B?oc=5",
+       "publishedAt": "2026-11-18T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "LeT's Lateef Bhat refuses to surrender in Kulgam",
+     "link": "https://economictimes.indiatimes.com/news/defence/kulgam-encounter-let-commander-lateef-bhat-refuses-to-surrender-gunfight-underway/articleshow/135946856.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Rediff",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-18T08:46+05:30",
+     "score": 11.4,
+     "summary": "Bhat, who carries a ₹15-lakh bounty on his head, is the prime suspect in the November 11 attack on three CRPF personnel in Kulgam.",
+     "image": "https://static.toiimg.com/photo/msid-135947453,imgsize-1246548.cms",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "LeT's Lateef Bhat refuses to surrender in Kulgam",
+       "link": "https://economictimes.indiatimes.com/news/defence/kulgam-encounter-let-commander-lateef-bhat-refuses-to-surrender-gunfight-underway/articleshow/135946856.cms",
+       "publishedAt": "2026-11-18T08:46+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Trapped in Kulgam encounter, LeT commander Lateef Bhat refuses to surrender",
+       "link": "https://timesofindia.indiatimes.com/india/lets-most-wanted-kashmir-commander-lateef-bhat-trapped-in-kulgam-encounter-refuses-to-surrender/articleshow/135946782.cms",
+       "publishedAt": "2026-11-18T08:37+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "LeT terrorist Lateef Bhat escaped operation that killed aide; third getaway in a year: Officials",
+       "link": "https://www.hindustantimes.com/india-news/let-terrorist-lateef-bhat-escaped-operation-that-killed-aide-third-getaway-in-a-year-officials-101794969984630.html",
+       "publishedAt": "2026-11-18T08:32+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Fresh encounter in J&K’s Kulgam as security forces track escaped LeT terrorist Lateef Bhat",
+       "link": "https://www.thehindu.com/news/national/fresh-encounter-in-kulgam-lateef-bhat-november-18-2026/article71714380.ece",
+       "publishedAt": "2026-11-18T08:13+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Kulgam encounter: Fresh gunfight in Jammu and Kashmir as forces hunt escaped terrorist Lateef Bhat",
+       "link": "https://www.livemint.com/news/india/kulgam-encounter-fresh-gunfight-in-jammu-and-kashmir-as-forces-hunt-escaped-terrorist-lateef-bhat-11794966976143.html",
+       "publishedAt": "2026-11-18T07:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ramayana Part 1 Box Office Collection Day 13 LIVE Updates: Ranbir Kapoor film nears Rs 1500 crore mark worldwide",
+     "link": "https://indianexpress.com/article/entertainment/bollywood/ramayana-collection-day-13-live-updates-ranbir-kapoor-film-earns-rs-1483-cr-10967270/",
+     "source": "The Indian Express",
+     "sources": [
+      "The Economist",
+      "The Hindu",
+      "The Indian Express",
+      "The New Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-18T08:14+05:30",
+     "score": 9.31,
+     "summary": "‘Ramayana: Part One’ continues to perform well at the box office, nearing Rs 1,500 crore gross worldwide. The film earned approximately Rs 28.70 crore net in India on its 13th day of release. Its total domestic net collection has now reached Rs 821.30 crore while grossing Rs 981.50 crore. Furthermore, the movie has secured the third position on IMDb’s Most Popular Movies chart globally.",
+     "image": "https://images.indianexpress.com/2026/11/ranbir-ramayana.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 Box Office Collection Day 13 LIVE Updates: Ranbir Kapoor film nears Rs 1500 crore mark worldwide",
+       "link": "https://indianexpress.com/article/entertainment/bollywood/ramayana-collection-day-13-live-updates-ranbir-kapoor-film-earns-rs-1483-cr-10967270/",
+       "publishedAt": "2026-11-18T08:14+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "‘Ramayana’ nears Rs 1,500 crore mark at worldwide box office",
+       "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-13-ranbir-kapoor-and-yash-starrer-nears-rs-1500-crore-worldwide-despite-second-tuesday-dip/articleshow/135943827.cms",
+       "publishedAt": "2026-11-18T05:41+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "‘Ramayana’ box office collection Day 13: Ranbir Kapoor and Yash starrer nears Rs 1,500 crore worldwide de",
+       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQWWM5OFJQeGVzeW9EbW80Q2toUVpybzhPQ2F0eU9KNS14YXowb2ZaX0FzQ2kzVzI3aU9na2xrTm9iZ29vd1NvX01SbGpaZWRibUl0MFUtYlFLRWs1bWUzSU4tZGlSQ2FfTHVfTlNrbXJjX1I4aTM4VUVoZVJkbVJ0cFVRRUk4NE5lVlQ5VWFjUzJDWWhpemlaN3JHVVE5d1dadjVMOTFBZVdpTC1rWmY2TmQ4LUFTbTNDdGNscTRsckNvdzBvLUdfaE9WQ1hITlBPZ0t0UmsxRl94NGd4aXhRWm41OVpKa3VLRVdHRVNTaG5uNnkxYUpMU05ac3AyMlBRcWJBTVFlcVB4WjQ0WUQ4R3dlcG4tdVpOOTR3ZThkWXJ6WUg4TUY2RkNxeDltam9EWlJjYzFTUE5CaksxNUVfQ3ladWN2cVd1bC1Ndw?oc=5",
+       "publishedAt": "2026-11-18T05:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Two Indian crew members injured, one missing after missile attack on LPG tanker in Strait of Hormuz",
+     "link": "https://www.hindustantimes.com/india-news/two-indian-crew-members-injured-one-missing-after-missile-attack-on-lpg-tanker-in-strait-of-hormuz-101794961875057.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "News On AIR",
+      "Rising Kashmir",
+      "Scroll.in",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-18T07:38+05:30",
+     "score": 8.21,
+     "summary": "The vessel was struck twice within hours, with the second attack triggering a fire that left the crew unable to access lifeboats and rafts.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/IRAN-CRISIS-TANKER-2_1794962223321_80kW_1794962235349_tDCb_2dc8c804-6d09-4921-af43-1e59e7de649e_tGTq.JPG",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Two Indian crew members injured, one missing after missile attack on LPG tanker in Strait of Hormuz",
+       "link": "https://www.hindustantimes.com/india-news/two-indian-crew-members-injured-one-missing-after-missile-attack-on-lpg-tanker-in-strait-of-hormuz-101794961875057.html",
+       "publishedAt": "2026-11-18T07:38+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Indian national missing after attacks in Hormuz",
+       "link": "https://economictimes.indiatimes.com/nri/latest-updates/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/articleshow/135945223.cms",
+       "publishedAt": "2026-11-18T07:16+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Indian national missing after attacks on commercial vessel in Strait of Hormuz",
+       "link": "https://www.thehindu.com/news/national/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/article71714331.ece",
+       "publishedAt": "2026-11-18T06:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Merchant jailed for 27 yrs on Trump's murder plot",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/pakistani-man-sentenced-to-27-years-jail-for-trumps-murder-plot/articleshow/135946601.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "BBC",
+      "NDTV",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The Lufkin Daily News",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-18T08:32+05:30",
+     "score": 7.94,
+     "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Guards commander Qassem Suleimani, the Department of Justice said. Asif Merchant, who had alleged ties to Iran, sought to hire a hitman to…",
+     "image": "https://i.guim.co.uk/img/media/470133f77dd96a905faa69a723f46914cdfdc04a/94_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=11062169033367f64e71f0d60d4ca69a",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Merchant jailed for 27 yrs on Trump's murder plot",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/pakistani-man-sentenced-to-27-years-jail-for-trumps-murder-plot/articleshow/135946601.cms",
+       "publishedAt": "2026-11-18T08:32+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+       "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+       "publishedAt": "2026-11-18T05:51+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Pakistani Man Jailed For 27 Years In US For Trump Murder Plot",
+       "link": "https://www.ndtv.com/world-news/pakistani-man-jailed-for-27-years-in-us-for-trump-murder-plot-12341452#publisher=newsstand",
+       "publishedAt": "2026-11-18T04:35+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-18T08:00+05:30",
    "generatedAt": "2026-11-18T08:20+05:30",
@@ -30282,197 +30498,6 @@
        "title": "Qantas to outsource 850 local jobs with most roles moving to India",
        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02RlZqRC1uYWJWaUtMNzIxblRsNFdxdXcxeXJEV05hdHRUb2J6emNjTW9OQ2xORHh0NU5GYTVqWWx4akljcDlJVnhZbDRLSFdocGJJRk5QYlp2TTg?oc=5",
        "publishedAt": "2026-11-10T07:25+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-10T11:00+05:30",
-   "generatedAt": "2026-11-10T11:21+05:30",
-   "feeds": 16,
-   "headlines": 247,
-   "stories": [
-    {
-     "title": "Nvidia CEO Jensen Huang's price of secret affair",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/jensen-huangs-price-of-secret-affair-nvidia-ceo-loses-7-4-billion-in-30-minutes-drops-2-spots-in-top-10-richest-list/articleshow/135699776.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "CNBC",
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-10T11:06+05:30",
-     "score": 10.46,
-     "summary": "Nvidia's CEO Jensen Huang faced a notable drop in net worth, tumbling from $162.2 billion to $154.7 billion, following revelations of an ongoing investigation into his supposed involvement with a Chinese spy. The resulting unrest caused Nvidia's shares to plunge by more than 7%, raising alarms about its market stability as broader questions emerge regarding Nokia's dealings in China and their national security…",
-     "image": "https://static.toiimg.com/photo/msid-135698481,imgsize-59044.cms",
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Nvidia CEO Jensen Huang's price of secret affair",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/jensen-huangs-price-of-secret-affair-nvidia-ceo-loses-7-4-billion-in-30-minutes-drops-2-spots-in-top-10-richest-list/articleshow/135699776.cms",
-       "publishedAt": "2026-11-10T11:06+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Nvidia CEO Jensen Huang loses $7.4bn in 30 minutes, drops 2 spots in Forbes rich list",
-       "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-ceo-jensen-huang-loses-7-4-billion-in-30-minutes-drops-2-spots-in-forbes-rich-list/articleshow/135698220.cms",
-       "publishedAt": "2026-11-10T09:22+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
-       "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-       "publishedAt": "2026-11-10T06:14+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Trump says FBI looking into Nvidia CEO Jensen Huang's affair with 'Chinese agent'",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0xWb1lmUVBYVnFEVmJidVZoTkk3dWFvSTljOWZmeXllQ3c1dVg3enhfMTQyRUZ3ZFVNV0ZTVzRMZmZoNFhrMUViLVZsbmRtd2JXajZNQ3MzM0QtelJ0emJtT2ZEX29JMEMyVjNkZUJXclhzcThuSnRwV0tOWFFaejRZSHNldDJjQ19jS1FKZ04za040bmdFcmhiUUE4TjhqVnBMd3NWM0RoZHF0S1QtRXh5Rm9kTGdHVmhxbmtOcjRUR0dQbTV3Q2k3RnB2RmZBS3VFVmo3cGNWQdIB4AFBVV95cUxPQUN5VXZ5ZUxoSVlIdWVjSkF5OXhNQXd1YTIzcUlKZG5GeUFndW00RGg5R3NpX1BYeFluUzg2YkxhWVNoNVRDQXBRTGR1TlFXUHNiYlRjS3BRV3oyQXdtYVhzbG83MGpLU2c1YnZJWVNYQm9BWVJRLTZWMVY1b1pLZmE5Y0FWTEFITE41cG0xS1BQd0M3ZE81Y1lVU3psaDhUSmp0dmRyU2tmbFBiVDBhbFhpclVwOUlRd1ljWjJ5SmxvaFB1MHRLdEQ3T3NUdkVvcENiYmw1UEdNZ1UxYkxXRw?oc=5",
-       "publishedAt": "2026-11-10T06:43+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Why Sonia Gandhi gave up PM post in 2004 despite UPA victory; memoir recalls moment",
-     "link": "https://timesofindia.indiatimes.com/india/what-made-sonia-gandhi-turn-down-pm-post-after-upas-2004-victory-memoir-revisits-moment/articleshow/135699936.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "The Indian Express",
-      "The Times of India",
-      "ThePrint",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-10T10:30+05:30",
-     "score": 8.36,
-     "summary": "Sonia Gandhi reveals her thoughts in her memoir about declining the prime minister role after the UPA's victory. She describes her inner voice guiding her decision and her conversation with Rahul. Gandhi highlights why she chose Manmohan Singh for the position, noting his integrity and governance experience. Her memoir also covers her personal journey, including significant tragedies and cultural adjustments after…",
-     "image": "https://static.toiimg.com/photo/msid-135699972,imgsize-912528.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Why Sonia Gandhi gave up PM post in 2004 despite UPA victory; memoir recalls moment",
-       "link": "https://timesofindia.indiatimes.com/india/what-made-sonia-gandhi-turn-down-pm-post-after-upas-2004-victory-memoir-revisits-moment/articleshow/135699936.cms",
-       "publishedAt": "2026-11-10T10:30+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "In memoir, Sonia Gandhi recalls UPA power dynamics with Manmohan, Pranab’s 2010 PM post hint",
-       "link": "https://www.hindustantimes.com/india-news/manmohan-singh-ran-govt-i-focused-on-party-sonia-gandhi-details-upa-division-of-power-in-her-memoire-101794280216321.html",
-       "publishedAt": "2026-11-10T09:14+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "What made Sonia Gandhi turn down PM post after UPA’s 2004 victory? Memoir revisits moment",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWERJV0kzbG96REIwdElCby1vcXNCckgzUFFmNGZQWU0tWEVJQUh1UzNUampSR3YzSjJhV3F5bkxNUDl2dnd2N1pyWlo4X2ZBRUVWR0x0ZHJtR3c2WWpGZW1DMFlkc2Z4WGxwQkcxbXczME5ydVZsbklJcTlidkZzUDR1aG1BSTBBOHhjTkZQQlpadUtVa196WTE4TEJZVVNrbWt2XzB5eXB1QXRsWnRsWGdia01nUjhNQ1NGalNXYUVBZ0JudEluaE8tS3ZrZXd0N0pRMkFzZ3NBb2RIZmI0bTF2aTdKTGZWbGJz?oc=5",
-       "publishedAt": "2026-11-10T10:30+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Diwali as US federal holiday? 19 lawmakers back fresh push",
-     "link": "https://timesofindia.indiatimes.com/world/us/5-indian-origin-lawmakers-among-19-backing-diwali-federal-holiday-bill-in-us/articleshow/135696813.cms",
-     "source": "Times of India",
-     "sources": [
-      "Firstpost",
-      "Inshorts",
-      "Rediff",
-      "Telangana Today",
-      "The Economic Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T08:43+05:30",
-     "score": 7.86,
-     "summary": "A group of Indian-American lawmakers supports legislation to establish Diwali as a federal holiday in the United States. Congresswoman Grace Meng leads the initiative alongside 14 other representatives advocating for the recognition of Diwali. This legislation aims to promote cultural awareness and inclusion among diverse communities. The festival represents significant values across various religious groups and…",
-     "image": "https://static.toiimg.com/photo/msid-135697732,imgsize-209216.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Diwali as US federal holiday? 19 lawmakers back fresh push",
-       "link": "https://timesofindia.indiatimes.com/world/us/5-indian-origin-lawmakers-among-19-backing-diwali-federal-holiday-bill-in-us/articleshow/135696813.cms",
-       "publishedAt": "2026-11-10T08:43+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "5 Indian-origin lawmakers among 19 backing Diwali federal holiday bill in US",
-       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUVXQ1pLb1JYNDczYVl2TnRCbGFUWXlXQlA2T1BfQ0x1TkVhVmRUaVZGLVhGQmZsMGlPaFl0ZWp1allMWHlubjNYSzNJUkxGMDhveV9OMVJvbU9ORlA4VjIwQzBRQi1iQ2tySDdpWGdzSzdXa3Fybl9DNk9YLUNUdFV5U2t2XzFyS2hMMEFnYjZDUHpIVG9nV2FqQ2VqMnM0MzZqU2ZCVmQzY0czeUxndFo0N0JzZVRqVHNBcGl5YzNoU3c3SHg4X05ST2dHbHFnNGpSNnRtVHBncC1YYjFZaw?oc=5",
-       "publishedAt": "2026-11-10T08:43+05:30"
-      }
-     ]
-    },
-    {
-     "title": "France blames Iran for cyberattacks on supermarket fridges",
-     "link": "https://timesofindia.indiatimes.com/world/europe/france-blames-iran-for-cyberattacks-on-supermarket-fridges-summons-ambassador/articleshow/135696579.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "The Atlantic",
-      "The Guardian",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T07:24+05:30",
-     "score": 7.44,
-     "summary": "French intelligence agencies have accused Iran's Revolutionary Guards of orchestrating disruptive cyberattacks against commercial refrigerators. The incidents targeted hundreds of supermarkets and other food establishments, resulting in significant disruptions to cold-storage systems. Following these attacks, blood banks were also affected, leading to urgent measures for cold-storage. French officials warned of…",
-     "image": "https://static.toiimg.com/photo/msid-135696600,imgsize-187186.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "France blames Iran for cyberattacks on supermarket fridges",
-       "link": "https://timesofindia.indiatimes.com/world/europe/france-blames-iran-for-cyberattacks-on-supermarket-fridges-summons-ambassador/articleshow/135696579.cms",
-       "publishedAt": "2026-11-10T07:24+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "France blames Iran for October supermarket cyberattack",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
-       "publishedAt": "2026-11-10T06:31+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "France blames Iran for cyberattacks on supermarket fridges, summons ambassador",
-       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWHFha1JkME9ielJ6VkYwMExRaDVzZjBySnVhb2FieDJ1bU9rMnJTOHJja3U2d1ZscUFKWU9BNXNQVGZCZWQybzB0aEtJTW9mdXR6d1ZzSV9WYXJLMXhYUGhQZ09rRTV0b3U0bEsyZkNiVF9ZSGxWT2ZONlpJSHJiemd4cVZPYWNZeTJVUm9aNFhkMkRJcHJnMDFsdWh2cVNqRGxnQWhrZEdTZ1ppZXozOHhUaThwcDRjNkExaFpzWlphV0VuZFR6VGdOa3RpTy1DNkxHSU92QlB0UkFKeDZnWVltSk1JcjTSAewBQVVfeXFMUF9GT3pkbzFxaFRWeGdmS2JraENCTHU4Mk1oUEFXY3JQS3RyV3VnRzI0RkdKMGVrTHRLbUgzODA2clVLdjlHajhvWk1zTEdmZHRpdFdGLWtlYnpjcG04ZThDbnNodVNEYTNHXzJEWjRMeGFwOHB4WlRNWmM2REUzSjdCdDVvWnJXNDhCaThhUGtCNlpSMVd1MUlkblZkTWh0dl9hcUdfUG5CTl9fRVBrMENOUlFOa1VuN01vZzVxM3laY18zMEdEUTRnRVdQdl9XR0duUV9SZ0hHNE9LcWQ3NGI5TFF0OXNtLV8tWTg?oc=5",
-       "publishedAt": "2026-11-10T07:24+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cancer Horoscope Today: November 10, 2026",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
-     "source": "Vogue India",
-     "sources": [
-      "India Today",
-      "News18",
-      "Odisha TV",
-      "The Economic Times",
-      "The Times of India",
-      "Vogue India",
-      "iDiva"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-10T05:50+05:30",
-     "score": 7.22,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Vogue India",
-       "title": "Cancer Horoscope Today: November 10, 2026",
-       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MeExkbDdYSnBGbGFfYTQ3Vm93X0g1dThuaXhuVWJRdFVUOExLVUs5TzU0eXdvNE55MG5JU29scnNzMlpPYjNWYk0xNmEwVzZ2WkpTTm81a2w2ZW9GZURrWHMzWjZoZW56ME9fTXFyN1dHSzdqQmVN?oc=5",
-       "publishedAt": "2026-11-10T05:50+05:30"
       }
      ]
     }
