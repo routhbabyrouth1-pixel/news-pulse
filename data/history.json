@@ -1,6 +1,180 @@
 {
- "updated": "2026-11-19T17:26+05:30",
+ "updated": "2026-11-19T18:40+05:30",
  "hours": [
+  {
+   "hour": "2026-11-19T18:00+05:30",
+   "generatedAt": "2026-11-19T18:40+05:30",
+   "feeds": 16,
+   "headlines": 329,
+   "stories": [
+    {
+     "title": "Cyclone Akvan landfall on November 20; Andhra on alert, Odisha evacuates tons as storm's track changes",
+     "link": "https://www.hindustantimes.com/india-news/cyclone-akvan-updates-landfall-imd-rain-alert-andhra-pradesh-odisha-cyclone-tracker-narsapur-puri-101795081832311.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Down To Earth",
+      "ET Government",
+      "Hindustan Times",
+      "News On AIR",
+      "ReliefWeb",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-19T15:54+05:30",
+     "score": 10.04,
+     "summary": "Odisha's Ganjam is reportedly expected to be the worst hit by the impending cyclone, with nearly 40 relief and rescue teams deployed across the district.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/PTI11-19-2026-000142B-0_1795082241151_vPty_1795082278471_Go7q_302f33b1-fe5f-4826-900e-d88ef03ef5d8_cI76.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Cyclone Akvan landfall on November 20; Andhra on alert, Odisha evacuates tons as storm's track changes",
+       "link": "https://www.hindustantimes.com/india-news/cyclone-akvan-updates-landfall-imd-rain-alert-andhra-pradesh-odisha-cyclone-tracker-narsapur-puri-101795081832311.html",
+       "publishedAt": "2026-11-19T15:54+05:30"
+      },
+      {
+       "source": "ReliefWeb",
+       "title": "LOCAL Alert 001: Cyclone Akva​n - Third Cyclone in 24 Days - Pre-landfall update as of 18 November 2026, 1:30 pm IST · Andhra Pradesh, Yanam and South Odisha",
+       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeVM5RzdmUkE5d0RsWllQaWhjNV9oSGdVRXlxVF9aYXZwZ196NVAzWElqdkR4ajRUeVVMX0RmVlYzM3V4bTVWRm52R04tVW9aaUJBWnBFVDJEdmctYXRicGNUcDdPTnhsdkEzZXU5WnF2RFdDaUlNSllXTUMwM0RBT3VJR0EySnZkc3U1U25hRGNuM3oybC1Scm9fOVhvX2JOeGFGQzc4Rkh2b20wNXE2TmFtV3JKVXBVZE5ud2pXZmtiSGthS0dkZlJlcngtUTlaejVRRXItdmphZkF6dlJMUDMxdUxUeDd1QlBqamJteVNNbkhoTDhpX0xpMU90SjNOamQ0?oc=5",
+       "publishedAt": "2026-11-19T15:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GTA 6 launch updates: Patch sizes, versions and release dates",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nenNmQW8tMGJxbm1UZ1JQeEthQWtaXzBjYlQyVWRHR29KWUVDLXZwV0Z4MUxoVEs3VXhUcTc3RmQySlZvMWVCVTRkdjRSYVVrbi10SU1mNUpOTi1aNDJrTjd2a2xKQQ?oc=5",
+     "source": "Red Bull",
+     "sources": [
+      "Android Central",
+      "Axios",
+      "IGN",
+      "Mashable",
+      "Notebookcheck",
+      "PCMag",
+      "Red Bull",
+      "The Guardian",
+      "The Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-19T17:39+05:30",
+     "score": 9.98,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Red Bull",
+       "title": "GTA 6 launch updates: Patch sizes, versions and release dates",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nenNmQW8tMGJxbm1UZ1JQeEthQWtaXzBjYlQyVWRHR29KWUVDLXZwV0Z4MUxoVEs3VXhUcTc3RmQySlZvMWVCVTRkdjRSYVVrbi10SU1mNUpOTi1aNDJrTjd2a2xKQQ?oc=5",
+       "publishedAt": "2026-11-19T17:39+05:30"
+      },
+      {
+       "source": "Mashable",
+       "title": "'GTA 6' on PC: What we know about the PC release",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMVl1NzVTX2JPWXB4WlhNMlNaQlQtVTk1Z2JBVUtHcTc5OXJrbmNVY29yN0lfcC1GSEM5Q2c0YUl4a0FGTjVGRDVuUGtyUlVuaEV5V3M5WjRiZUpMd195ME1WY0Z6Zw?oc=5",
+       "publishedAt": "2026-11-19T15:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
+     "link": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "CNN",
+      "DW.com",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-19T18:01+05:30",
+     "score": 9.39,
+     "summary": "The three leaders spoke about international peace and nuclear weapons as Trump called Putin a ‘friend’. Plus, yes, GTA VI is really finally here, and the critics have their verdict: masterpiece Good morning. Donald Trump has met Vladimir Putin and Xi Jinping at the Apec summit in Shenzhen, and said the three leaders were “really making history”. The trilateral meeting lasted roughly an hour and a half, according to…",
+     "image": "https://i.guim.co.uk/img/media/fe3fd3648dd9414ddf04cdd936e7a16097507170/200_0_1799_1440/master/1799.jpg?width=140&quality=85&auto=format&fit=max&s=031d263340a375170cd91fe1d2133923",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
+       "link": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
+       "publishedAt": "2026-11-19T18:01+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Declaration for Peace': Trump, Xi & Putin take 4 big pledges at historic trilateral",
+       "link": "https://timesofindia.indiatimes.com/world/china/historic-trilateral-summit-trump-xi-putin-sign-declaration-toward-peace-take-4-big-pledges/articleshow/135989588.cms",
+       "publishedAt": "2026-11-19T17:09+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Trump meets Putin and Xi for trilateral US, Russia, China talks at APEC",
+       "link": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
+       "publishedAt": "2026-11-19T14:02+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Xi-Trump-Putin trilateral meeting LIVE: Xi-Trump-Putin summit in China ends; major powers must not touch each other's bottom lines on sensitive issues, says Xi",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTER4cFc2cEpRbmd1aWp0X1pkR3oxTEFUdHNKRnRSTDU2QXdTd21yOElQbWp1dzBqTVRLUUE5NS1DSXQydmEzOHlLdGtjczNYTTQyY2J0MjNQY0xPcG1LNzF2N0xSa01jV3BpX21FRzFZaXd4c2VnaUQxaGhMNHplUUlFYkRqTmcyTlR1dHhlb1Qwem54QmNZVFlxeGdhSmU1Z1k1TUE2dkZsTlFTYnVGUFN0NDZhZVhlSWt4LUZlQnFsQ2M2RTJlYnlaVnFsTWVIMU9nM0JMNjV3YjRTMW1zb203aEswWFoyTEJwTkNFWUE0ODYyVmc?oc=5",
+       "publishedAt": "2026-11-19T17:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cummins could struggle to captain without refuting Bancroft: Ian Healy",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWNqVEJJUS1HZmZuSU9rb25QRmRFOEdLLVNJRXFIRnFTN0c3TENUWV9xVTVPekJNT3JYZ0JNTlVGZzc4SG05ODJabFVJclE4dlZxUlQwS1F5My1tOHAtUG5lenh4QXI5cVlOX1Q1OTlLTk5kYU42SE5CZWwydWF3X09taVFTNkJtZDVzeFBBa1d2UExQa2N1WVhydHcyT1E3Rm9BQlplWi1fRUhXanBLRW9oX3g?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Sportstar",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T15:58+05:30",
+     "score": 8.05,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "Cummins could struggle to captain without refuting Bancroft: Ian Healy",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWNqVEJJUS1HZmZuSU9rb25QRmRFOEdLLVNJRXFIRnFTN0c3TENUWV9xVTVPekJNT3JYZ0JNTlVGZzc4SG05ODJabFVJclE4dlZxUlQwS1F5My1tOHAtUG5lenh4QXI5cVlOX1Q1OTlLTk5kYU42SE5CZWwydWF3X09taVFTNkJtZDVzeFBBa1d2UExQa2N1WVhydHcyT1E3Rm9BQlplWi1fRUhXanBLRW9oX3g?oc=5",
+       "publishedAt": "2026-11-19T15:58+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic's IPO is set to create a new class of tech billionaires. See who stands to gain the most.",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTE1EcUlaXzNoMWhHRUJnNHRUdkxFbDRBdGJzOWdOcDlZN2dKY2xWZHBDMjdxSW9IdmdyRVlFVEx6RUd3U2lwbU9NeUU4cy1ZUmNKZG92RWlKM2dOQm9qVnVKWXVtM3RLZUs5NGxiWTZGT0pwVUg2Ty1NQk44T1psd0pOcXJZbVZtQWYtYWFVS05WbjBkM3N3TVVn?oc=5",
+     "source": "Business Insider",
+     "sources": [
+      "Bloomberg.com",
+      "Business Insider",
+      "CNBC",
+      "Financial Times",
+      "The Guardian",
+      "WIRED"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T15:30+05:30",
+     "score": 7.97,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Business Insider",
+       "title": "Anthropic's IPO is set to create a new class of tech billionaires. See who stands to gain the most.",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTE1EcUlaXzNoMWhHRUJnNHRUdkxFbDRBdGJzOWdOcDlZN2dKY2xWZHBDMjdxSW9IdmdyRVlFVEx6RUd3U2lwbU9NeUU4cy1ZUmNKZG92RWlKM2dOQm9qVnVKWXVtM3RLZUs5NGxiWTZGT0pwVUg2Ty1NQk44T1psd0pOcXJZbVZtQWYtYWFVS05WbjBkM3N3TVVn?oc=5",
+       "publishedAt": "2026-11-19T15:30+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-19T17:00+05:30",
    "generatedAt": "2026-11-19T17:26+05:30",
@@ -30178,183 +30352,6 @@
        "title": "Noida-Greater Noida Metro gets ₹2,390 crore boost",
        "link": "https://economictimes.indiatimes.com/industry/transportation/railways/noida-to-greater-noida-west-metro-gets-rs-2390-crore-boost-8-5-km-aqua-line-extension-to-have-five-new-stations-check-route-interchange-completion-timeline/articleshow/135732651.cms",
        "publishedAt": "2026-11-11T15:20+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T19:00+05:30",
-   "generatedAt": "2026-11-11T19:44+05:30",
-   "feeds": 16,
-   "headlines": 358,
-   "stories": [
-    {
-     "title": "India News Live Updates, 11 November 2026: Delhi’s air quality slips to ‘very poor’, AQI settles at 307",
-     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLXBQdWVuRjhxZUZMV2QtaFdaTTVZTjZ2M1ZOY3R6NnMzcmRNWW5EMHJ4a0lvak9ka1JsbEFOTTB4bW8tUE1qRFJCR2F0NXFEdklVckI2d01WUzE4WHQ4MUhIemg2NGRXbUpmNE9KWVRMc21ZSXphVXM0b2lCX1NuYi1LLWtVeEJmaGJOSjlnUkxld1RETWJEXy11anFSa1A4VWRjejZ4M0MyM0xxNkxvaVM0WU9XNm9rNTBvMHZpMG1KT2NOWlItaU1ZcFRBMVBGZjFLNGNEM05LaHN4dXpwOEY2dVQxS185M09PaDNxR3pyc1g0dGVPdk8wNzFJd3pQbDhEYtIBiwJBVV95cUxPdzBnLU1lQVF5cERYZ3BFUnl0XzJnYVgyellzNVp6RU1IZkRfQnJ4MmZ4TDRpdEFnT3ZlMmxlMVUxSnNvbHhGckZ2ZlFPSkNrdmVRMUV6d0N2QW9sa2hPS25YVGU5azhfQ0dmSmtTNk1oRHJ5N3pJRk5VNENPQnp5aVFoR002Q2d0NkNGYlo3VkhvOFoycHpILWJxVC1GTlBLNXp0S0lsSVh3M2NiYmxkWF9jNzE4NGVZV01hQ0cyRTZscnFLejFhXzZXNlNJUzYzQnZXSmVnY2Y2aTdqQi1CZ2NMc0hUTi1BLWNBS0JITWMxWjRLZk4zOU1Ncml5eHp2akJ6YlYycHhCZEk?oc=5",
-     "source": "The Indian Express",
-     "sources": [
-      "Frontline Magazine",
-      "NDTV",
-      "Rising Kashmir",
-      "Team-BHP",
-      "Telegraph India",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T18:55+05:30",
-     "score": 7.92,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "India News Live Updates, 11 November 2026: Delhi’s air quality slips to ‘very poor’, AQI settles at 307",
-       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLXBQdWVuRjhxZUZMV2QtaFdaTTVZTjZ2M1ZOY3R6NnMzcmRNWW5EMHJ4a0lvak9ka1JsbEFOTTB4bW8tUE1qRFJCR2F0NXFEdklVckI2d01WUzE4WHQ4MUhIemg2NGRXbUpmNE9KWVRMc21ZSXphVXM0b2lCX1NuYi1LLWtVeEJmaGJOSjlnUkxld1RETWJEXy11anFSa1A4VWRjejZ4M0MyM0xxNkxvaVM0WU9XNm9rNTBvMHZpMG1KT2NOWlItaU1ZcFRBMVBGZjFLNGNEM05LaHN4dXpwOEY2dVQxS185M09PaDNxR3pyc1g0dGVPdk8wNzFJd3pQbDhEYtIBiwJBVV95cUxPdzBnLU1lQVF5cERYZ3BFUnl0XzJnYVgyellzNVp6RU1IZkRfQnJ4MmZ4TDRpdEFnT3ZlMmxlMVUxSnNvbHhGckZ2ZlFPSkNrdmVRMUV6d0N2QW9sa2hPS25YVGU5azhfQ0dmSmtTNk1oRHJ5N3pJRk5VNENPQnp5aVFoR002Q2d0NkNGYlo3VkhvOFoycHpILWJxVC1GTlBLNXp0S0lsSVh3M2NiYmxkWF9jNzE4NGVZV01hQ0cyRTZscnFLejFhXzZXNlNJUzYzQnZXSmVnY2Y2aTdqQi1CZ2NMc0hUTi1BLWNBS0JITWMxWjRLZk4zOU1Ncml5eHp2akJ6YlYycHhCZEk?oc=5",
-       "publishedAt": "2026-11-11T18:55+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Union cabinet raises rabi fertilizer subsidy by 64% to  ₹62,370 crore",
-     "link": "https://www.livemint.com/news/india/union-cabinet-raises-rabi-fertilizer-subsidy-by-64-to-62-370-crore-11794397334259.html",
-     "source": "Mint",
-     "sources": [
-      "BusinessLine",
-      "Hindustan Times",
-      "Mint",
-      "Moneycontrol.com",
-      "PM India",
-      "Reuters",
-      "The Hindu"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T18:11+05:30",
-     "score": 7.88,
-     "summary": "The Centre also cleared ₹15,000 crore in credit guarantee support for micro enterprises and disadvantaged entrepreneurs, alongside funding for a new national museum and a Noida Metro extension.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Ashwini-Vaishnaw--8_1794400812388_cmZT_1794400821543_6txo_b4d3dc10-e7ba-4f13-afa7-c4cf3664f1f3_dpEw.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Union cabinet raises rabi fertilizer subsidy by 64% to  ₹62,370 crore",
-       "link": "https://www.livemint.com/news/india/union-cabinet-raises-rabi-fertilizer-subsidy-by-64-to-62-370-crore-11794397334259.html",
-       "publishedAt": "2026-11-11T18:11+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Centre raises fertiliser subsidy budget by 64% to  ₹62,370 crore amid West Asia crisis",
-       "link": "https://www.hindustantimes.com/india-news/union-cabinet-approves-62-370-crore-subsidy-budget-for-p-k-fertilisers-for-rabi-season-101794395870885.html",
-       "publishedAt": "2026-11-11T16:47+05:30"
-      },
-      {
-       "source": "Moneycontrol.com",
-       "title": "Cabinet approves Rs 62,370 crore rabi fertiliser subsidy, Rs 5,000 crore MUDRA guarantee fund",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMVp3YmQ2bE8wOHUwQld5VjM1NVhxYjNMLXBsenhvVnV1Q0FaQnpndTJydUJISFRFYlYyUlhkMjJCeEtMZGlzTnlqeXZwQ2VBdUpCUk40bVdqc3ZJSmpZb1lYV2xQNVBUSUpQOHgzMjNMUWhmSDViY3RvUmlXanZ4bWFra3pFZkVMNW9CUkRxT1AyVFJWUGFBY3dCT2tvbnZ4SF9PRkNjaHBjNk83cDVhbmRBMS1SUnJFZ3h2YjRGZGd5M3ZTS1lPQzhUUDE2NUt3ZGZjWU1MMWg3MFkzNlNwRlZnU2tsR2U3eHJtVW1R0gHzAUFVX3lxTE9fU2M2T0FYV0oxNkNhXzd3QlU5T2paT0t3TWRvSnVLbjdaei0yUDlLbHpmbG5aY1VJbGFoS3BPbXFFdjVFT01uS3NYT2pKUm1Xa2VCdzBCMnQ0QWM1aFBmRU5pYW1NS1dtOTJMVUlLa3l1QjV0WDRNME5Vem5pdmhVWU1NTXR2R1RybFpxVjYzdGRBaXdZSkV0cXo5T2JQODlELUF1NjBiTEM1LW1KWndLQ0JxRV9CblVBVGVrTFVXbjcxOWVfNVM3aGVXdnZNUEs2N01EYVIzQkp2YnV6dDBma3NEMVRPRU1vMnd1WHl4V0lKTQ?oc=5",
-       "publishedAt": "2026-11-11T15:10+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Ladakh bans protests ahead of polls: Wangchuk warns of fresh agitation against elections",
-     "link": "https://timesofindia.indiatimes.com/india/ladakh-bans-protests-ahead-of-polls-sonam-wangchuk-warns-of-fresh-agitation-against-elections/articleshow/135734705.cms",
-     "source": "Times of India",
-     "sources": [
-      "NDTV",
-      "Telegraph India",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "TheWire.in",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T16:42+05:30",
-     "score": 7.64,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135735086,imgsize-98462.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Ladakh bans protests ahead of polls: Wangchuk warns of fresh agitation against elections",
-       "link": "https://timesofindia.indiatimes.com/india/ladakh-bans-protests-ahead-of-polls-sonam-wangchuk-warns-of-fresh-agitation-against-elections/articleshow/135734705.cms",
-       "publishedAt": "2026-11-11T16:42+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Ladakh bans protest ahead of polls",
-       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/elections-authorities-ban-dharnas-protests-in-leh-kargil-ahead-of-polls/articleshow/135734552.cms",
-       "publishedAt": "2026-11-11T16:31+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Ladakh bans protests ahead of polls: Sonam Wangchuk warns of fresh agitation against elections",
-       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd3RObHBZa2xKMFVldmRYRHdWdnNjSnFsT2V5V0ZqMC1kLUlmeUF0Wnp1WjFUal91RmxXNEl3VXdaUHg3cTZKWkZOSUhOWVNianc4elQ1cnJ6VHl4akhNbW9aMTFKZ2w1YnZlVU1PVnBrT1BSTXhySWZXV0dlRUpUQkpkU1h3RzEzZTFHSVg3Q1V4WlpiczNqRkFsYzNLQzc0b0VCdndfYzBqR3A4R1Q2M1pGZ2hiSDM0N3ItR3FyVDVWTWdWb2kzMF8zRl9ldG0xdEtDNmludVAxQkRETTZoLVU2ZlZCOTl4R25jQk5BTU1qd00?oc=5",
-       "publishedAt": "2026-11-11T16:42+05:30"
-      }
-     ]
-    },
-    {
-     "title": "‘He surely knew’: Broad takes aim at coach Lehmann as Sandpapergate row erupts again",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/he-surely-knew-all-about-it-chris-broad-takes-aim-at-darren-lehmann-as-sandpapergate-row-erupts-again/articleshow/135731112.cms",
-     "source": "Times of India",
-     "sources": [
-      "BBC",
-      "Sky Sports",
-      "The Guardian",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T14:12+05:30",
-     "score": 7.58,
-     "summary": "Chris Broad has harshly criticised Darren Lehmann for seemingly being oblivious to the ball-tampering scandal of 2018. Usman Khawaja, a former Australian player, has disclosed in his autobiography that the entire team was aware of the misconduct during their tour of South Africa. Broad insists that Lehmann must be held accountable for his ignorance in this matter, sparking renewed discussion about the scandal.",
-     "image": "https://static.toiimg.com/photo/msid-135731281,imgsize-17440.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "‘He surely knew’: Broad takes aim at coach Lehmann as Sandpapergate row erupts again",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/he-surely-knew-all-about-it-chris-broad-takes-aim-at-darren-lehmann-as-sandpapergate-row-erupts-again/articleshow/135731112.cms",
-       "publishedAt": "2026-11-11T14:12+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "‘He surely knew all about it’: Chris Broad takes aim at Darren Lehmann as Sandpapergate row erupts again",
-       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQ3R2eEpBdmplNEJhdS0xcFN2eHlnZTVjTi0xelBiX1kySU9ZakpGN1VZYzJRemRKMDg5a1FjMEVWRFZTQUEwLWE0WXAtdnp0bEVxMDdQY014VVJEaHI1R2hwZExoa3lxaHFCUlZ5dHc5YkdzM203OUI0Z3ZDblR1bWJWUXJRSjlYN2FXMU5BTWxqbzQyY0ZLcHVTRXRhdWJtamxJWkxHYWE4ZzRBcEZSMDByR2NTMWQtSVRqTlJzN1dFUFpLdGQxTnl4S3E2WmZEZGZWUDdNMVRhMDJfb2FwZUI5Uy15LTdlRHBLNnJOMVE3MkpfNTBTajZSWTh5TE05NFpMQkJPTnhnUjJzeWhNLQ?oc=5",
-       "publishedAt": "2026-11-11T14:12+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Niraj scripts history with World C'ships bronze, secures LA 2028 Olympic quota",
-     "link": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/niraj-kumar-scripts-history-with-world-championships-bronze-secures-la-2028-olympic-quota/articleshow/135737606.cms",
-     "source": "Times of India",
-     "sources": [
-      "Olympics",
-      "Sportstar",
-      "The New Indian Express",
-      "The Times of India",
-      "ThePrint",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T18:04+05:30",
-     "score": 7.22,
-     "summary": "Niraj Kumar won a bronze medal in the men's 50m rifle 3 positions at the ISSF World Championships. This achievement secured an Olympic quota for India ahead of the Los Angeles 2028 Olympics. Earlier, Jaypal Malviya had also secured a quota place by winning silver in the men's 10m air pistol event. Niraj also contributed to India's bronze in the team event alongside Aishwary Pratap Singh Tomar and Akhil Sheoran.",
-     "image": "https://static.toiimg.com/photo/msid-135737691,imgsize-76684.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Niraj scripts history with World C'ships bronze, secures LA 2028 Olympic quota",
-       "link": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/niraj-kumar-scripts-history-with-world-championships-bronze-secures-la-2028-olympic-quota/articleshow/135737606.cms",
-       "publishedAt": "2026-11-11T18:04+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Niraj Kumar scripts history with World Championships bronze, secures LA 2028 Olympic quota",
-       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbzhWSXJhUkYzMkVOaDJoSV83MloxZWQyMThhcjc3MXdwTk51YjBRMm01X0hYa2N6QWNtbjgzak1PWXpFOF8wMVdMWVBZX3NQbWJxM2tiaHVUc1ZEUkRVRWI2aWZkOWRHWGZHeFZWaG1hTTAzbE5SMWZud09pdUhQbHItWHVvT2s0aUsxQXFrbUZZSTI3eW9vYi1JVDNJMnBnd2xWVE1zd3d1ZzYxd2dLZUEzNzQwcXVYQjlNTGZXMHVRZk50R3lvQi1xY3lMckFmSGFvWm1yMUF3aElPY09iOGYyRW81WmFfYjBuUjNvOGxJem1jQ3hpSVd1VVE3WmFRYnRxMnZZNDc2SGM?oc=5",
-       "publishedAt": "2026-11-11T18:04+05:30"
       }
      ]
     }
