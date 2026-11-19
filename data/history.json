@@ -1,6 +1,169 @@
 {
- "updated": "2026-11-20T04:17+05:30",
+ "updated": "2026-11-20T05:12+05:30",
  "hours": [
+  {
+   "hour": "2026-11-20T05:00+05:30",
+   "generatedAt": "2026-11-20T05:12+05:30",
+   "feeds": 16,
+   "headlines": 180,
+   "stories": [
+    {
+     "title": "ENE Repeat Box Office Collection Day 1",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNakgyS1NCNWF3eUN1YU9yb2NzUjI3MDdUclRlVlpwMy05b3ZIMWpsX1lyZ3Q4eFNyQ0p2R1pYNWJZdlRqYXo3U05GRXJLVVlMS1VHMVRPcmxkVUhXYks3VmVpVEd1d2JRQjRZU1Q2OEEySC1aQ0l3T3NtSzc3Um94ZWFWdw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "IMDb",
+      "IndiaGlitz",
+      "Sacnilk",
+      "THE WEEK",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "Tupaki English"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-20T00:54+05:30",
+     "score": 8.5,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 1",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNakgyS1NCNWF3eUN1YU9yb2NzUjI3MDdUclRlVlpwMy05b3ZIMWpsX1lyZ3Q4eFNyQ0p2R1pYNWJZdlRqYXo3U05GRXJLVVlMS1VHMVRPcmxkVUhXYks3VmVpVEd1d2JRQjRZU1Q2OEEySC1aQ0l3T3NtSzc3Um94ZWFWdw?oc=5",
+       "publishedAt": "2026-11-20T00:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Resignation not admission of wrongdoing, I am innocent: Justice Varma tells Lok Sabha secretariat",
+     "link": "https://www.hindustantimes.com/india-news/resignation-not-admission-of-wrongdoing-i-am-innocent-justice-varma-tells-lok-sabha-secretariat-101795115727274.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "Moneycontrol.com",
+      "NDTV",
+      "The Hindu",
+      "The Indian Awaaz",
+      "ThePrint"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-20T00:45+05:30",
+     "score": 7.76,
+     "summary": "In a letter dated September 10 to Lok Sabha Secretary General Utpal Kumar Singh, he responded to the report of the inquiry committee constituted by Lok Sabha Speaker Om Birla.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2025/08/06/1600x900/logo/Untitled_design_1754465014585_1754465103581.png",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Resignation not admission of wrongdoing, I am innocent: Justice Varma tells Lok Sabha secretariat",
+       "link": "https://www.hindustantimes.com/india-news/resignation-not-admission-of-wrongdoing-i-am-innocent-justice-varma-tells-lok-sabha-secretariat-101795115727274.html",
+       "publishedAt": "2026-11-20T00:45+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Resignation Not Admission Of Guilt: Justice Yashwant Varma Tells Lok Sabha Secretariat",
+       "link": "https://www.ndtv.com/india-news/resignation-not-admission-of-guilt-justice-yashwant-varma-tells-lok-sabha-secretariat-12351554#publisher=newsstand",
+       "publishedAt": "2026-11-20T00:23+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Removal proceedings against me infructuous after resignation: Justice Varma tells Lok Sabha Secretariat",
+       "link": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece",
+       "publishedAt": "2026-11-19T23:49+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cyclone Akvan: Odisha braces for landfall; 3 lakh evacuated, CM holds midnight meet",
+     "link": "https://timesofindia.indiatimes.com/india/cyclone-akvan-odisha-braces-for-landfall-3-lakh-evacuated-cm-majhi-holds-midnight-meet/articleshow/136005443.cms",
+     "source": "Times of India",
+     "sources": [
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-20T04:00+05:30",
+     "score": 7.3,
+     "summary": "Odisha has evacuated nearly 3 lakh residents and set up over 2,500 relief camps in response to Cyclone Akvan. The cyclone is expected to make landfall between Puri and Gopalpur with significant wind speeds. Rescue teams, including the National Disaster Response Force and Coast Guard, are ready to assist in vulnerable areas. Meanwhile, Andhra Pradesh is also preparing for the storm with designated alerts for various…",
+     "image": "https://static.toiimg.com/photo/msid-136005474,imgsize-263576.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Cyclone Akvan: Odisha braces for landfall; 3 lakh evacuated, CM holds midnight meet",
+       "link": "https://timesofindia.indiatimes.com/india/cyclone-akvan-odisha-braces-for-landfall-3-lakh-evacuated-cm-majhi-holds-midnight-meet/articleshow/136005443.cms",
+       "publishedAt": "2026-11-20T04:00+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
+       "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+       "publishedAt": "2026-11-20T01:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Meeting PM Modi turned out to be very lucky': SKY on rediscovering batting form",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/meeting-pm-modi-turned-out-to-be-very-lucky-suryakumar-yadav-on-redisovering-batting-form/articleshow/136000928.cms",
+     "source": "Times of India",
+     "sources": [
+      "Asianet Newsable",
+      "Rediff",
+      "The News Mill",
+      "The Times of India",
+      "Times of India",
+      "Yahoo Sports"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T23:13+05:30",
+     "score": 6.5,
+     "summary": "Suryakumar Yadav credited his meeting with PM Narendra Modi on November 6 for bringing him luck as he rediscovered his batting form. The India batter has impressed in the Syed Mushtaq Ali Trophy with explosive knocks for Mumbai and is aiming for an international comeback. He also hopes to win the IPL 2027 title with Mumbai Indians.",
+     "image": "https://static.toiimg.com/photo/msid-136001143,imgsize-82452.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Meeting PM Modi turned out to be very lucky': SKY on rediscovering batting form",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/meeting-pm-modi-turned-out-to-be-very-lucky-suryakumar-yadav-on-redisovering-batting-form/articleshow/136000928.cms",
+       "publishedAt": "2026-11-19T23:13+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Meeting PM Modi turned out to be very lucky': Suryakumar Yadav on rediscovering batting form",
+       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRUREeEtCUTZiaDBUNXN5VHcyZzZ3MmJaN1NGaWNCQ2x0bFlKYkxWaDBIc2hSSW96cUtiNVR0YUJLOFhpZjF3b3BidC00a1d6MGYyM2xHdzhZbndHeE1kRFVQZlo3Mi1KSkJjT3FwdFlHdnpIMzhjZUtEeDZDRVlXUjNsQlBJclQwTHNyRXR0OTNWc3NGN1JpVFNDb3hNSlIzYmh3R0xxcVdLS0wzcDBsZFVMNW5hcVdyU1JXclM1Y2RpQVFHbl9FVWxjTmMzRXFlWXF3cWwxemRkRkFrQmxxd0xyS2laaDRrN3lZaHplVmZjWG1feDlHZUwweUFfN3Aw0gGGAkFVX3lxTE1MX0NCSXF5VktlbWdmX0dKQ1JjSDNpb1kwTndVOVVqNjhOVTA4VU80MUhOOEpicVlxdXZzV3oxb1BTZUZDd3h4c3h4TFpRNk5DbjRfc0tBUWNKWU85eXE0QVROXzgxWFc5Y3NraFNlQUZSa1BYMGJJR3F4c0w2YXMxMFNiTm1VcTVLdjRKRVBLSW1YSUpaLTdjaUJ3eFhzWEJLZ091UE5DN2gxWHFsWG1VaVh5UWd6SDRZcTJMc3E3cG4yMHE0SUhtQzZYSmoyOGQ0cUcxRDFNYVk0LUNDUmNhT1MyVjl3MFN3STFFVE1fRnZmT2lVakhFb0Z6S2VOUU1neno3cEE?oc=5",
+       "publishedAt": "2026-11-19T23:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "How non-player characters in 'Grand Theft Auto VI' help create its big world",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1VvemJuSEpzTkFITTloV2lSQnhOdi1KYjVIcjRkYnNGSk56U2hucDJpUThDalNaaU13WXRlR0VvYUM0aUkyWkNmNFl4eE9Zd05LcU1xU1NzWHRhd3otakxIUElPenE4QUVvcE1iVFl4VUxZWGIyYXFFd3d3TjBkQzdvUkRhQmxDNkdtekc3cnhJLVZTbm8wcmg5X2k4MnY4ekxMME9tOHNwRU1aaUR1Vml4VVZoOWJsR1pj?oc=5",
+     "source": "NPR",
+     "sources": [
+      "Barron's",
+      "GameSpot",
+      "NPR",
+      "PC Gamer",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-20T04:15+05:30",
+     "score": 6.34,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NPR",
+       "title": "How non-player characters in 'Grand Theft Auto VI' help create its big world",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1VvemJuSEpzTkFITTloV2lSQnhOdi1KYjVIcjRkYnNGSk56U2hucDJpUThDalNaaU13WXRlR0VvYUM0aUkyWkNmNFl4eE9Zd05LcU1xU1NzWHRhd3otakxIUElPenE4QUVvcE1iVFl4VUxZWGIyYXFFd3d3TjBkQzdvUkRhQmxDNkdtekc3cnhJLVZTbm8wcmg5X2k4MnY4ekxMME9tOHNwRU1aaUR1Vml4VVZoOWJsR1pj?oc=5",
+       "publishedAt": "2026-11-20T04:15+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-20T04:00+05:30",
    "generatedAt": "2026-11-20T04:17+05:30",
@@ -30150,171 +30313,6 @@
        "title": "Record FPI buying in November sends sensex to near 9-month high",
        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY2xuZkRQcXRWMUhvcjhKc1RXMkI1d1FMWHoxNE1SVm0yQVYycEVsZUFaYlJmcHVCQ1kza1JUNUM4dExfdGRRUG54ZEpDVUpoSXl5Q2JXZUNpTVVaX2lLbGdiS1Vqd0VWUFRzM29KUkpONVpCdUJ2QklzWTJCSnR6MHBMd3hhYjFiRkJUN2FDRWZVbzFQaXlhdVFqQ2tZOE54VllrcmNCcjFQNEpIWjFVeG5jNTBJeW5mdWZIVnRWM0lDOVh6UC1NSFdteWVPd0NnNElsMDBGMjBlZnNrd1V5eUxUMA?oc=5",
        "publishedAt": "2026-11-12T04:32+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-12T07:00+05:30",
-   "generatedAt": "2026-11-12T07:44+05:30",
-   "feeds": 16,
-   "headlines": 126,
-   "stories": [
-    {
-     "title": "Scene Box Office Collection Day 7",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11MUVScERwQURNWVBmUW9WZTFUb1AyVzNvS3E5ZnhTWjVXTFBOY2taMzlPdHJsQlprQ1pweDBWMllka25kbXlvTzZUaHNmallqaWhrbk9veENIWUhSTnYtQjBRdXI5djhZa2pFdzdrYXNQQ3VDdG1mVUpuUkw?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "IMDb",
-      "NDTV",
-      "Outlook Luxe",
-      "Rediff",
-      "Sacnilk",
-      "THE WEEK",
-      "Telegraph India",
-      "The Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-12T07:14+05:30",
-     "score": 9.17,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Scene Box Office Collection Day 7",
-       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11MUVScERwQURNWVBmUW9WZTFUb1AyVzNvS3E5ZnhTWjVXTFBOY2taMzlPdHJsQlprQ1pweDBWMllka25kbXlvTzZUaHNmallqaWhrbk9veENIWUhSTnYtQjBRdXI5djhZa2pFdzdrYXNQQ3VDdG1mVUpuUkw?oc=5",
-       "publishedAt": "2026-11-12T07:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "No One Perfect As Van Foreest, Martirosyan Hit Back In Total Chess Fast Classic",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmxaaFFDUHRwMndqZ29GVjY4NTBNeFFxUmh5ZTFLWXc3U0t0bDhuaVd3QXB6QUd2UUhJOTNVOE90UjVOZWFZR1lkVWQxTXpkQmlzNUNnT2NYTXZNWnhhbW0xM3hnNmltdzV1TndKcU5PNmh4RnJaWE5lU1JJZGUyUGtLTE5fSFFob2J6dw?oc=5",
-     "source": "Chess.com",
-     "sources": [
-      "Chess News | ChessBase",
-      "Chess.com",
-      "FIDE",
-      "The Hindu",
-      "The New Indian Express",
-      "sports.economictimes.indiatimes.com"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-12T02:54+05:30",
-     "score": 7.69,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Chess.com",
-       "title": "No One Perfect As Van Foreest, Martirosyan Hit Back In Total Chess Fast Classic",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmxaaFFDUHRwMndqZ29GVjY4NTBNeFFxUmh5ZTFLWXc3U0t0bDhuaVd3QXB6QUd2UUhJOTNVOE90UjVOZWFZR1lkVWQxTXpkQmlzNUNnT2NYTXZNWnhhbW0xM3hnNmltdzV1TndKcU5PNmh4RnJaWE5lU1JJZGUyUGtLTE5fSFFob2J6dw?oc=5",
-       "publishedAt": "2026-11-12T02:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
-     "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrat-scott-colom-becomes-mississippis-first-black-senator-since-1874/articleshow/135751018.cms",
-     "source": "Times of India",
-     "sources": [
-      "AP News",
-      "CNN",
-      "The Guardian",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-12T04:56+05:30",
-     "score": 7.28,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135751047,imgsize-177548.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
-       "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrat-scott-colom-becomes-mississippis-first-black-senator-since-1874/articleshow/135751018.cms",
-       "publishedAt": "2026-11-12T04:56+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
-       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORTRJVklDeGxDT3drLU5BTkNrelBSMERQZkFqejFNVVNRQ2RiRC1rZWlsR05WeEpKZmpScnc2RlRRTzI1S1Y3Q3NxamhVeFpIQzU0aVo0M3NaV0FTbkh0ZHpjejNud3BfN01OVGFDZlFiZTh0dlV5YXU2WkMzQm9sNE0tRlRqb1lqd2NwSnROaGY0RGJhQ1JaVDBBaHB0TC1tUHdWSHV5TW01Uml0aFh4dEhzTzVkZUdfeHczYVBaYXprZUZFdVZZSmxxSXhlVDRZRmMwamo3bFRkSTZtbnhIR053M2FIRV9udkU3elVwNlNXZUVBaXQ3aHFnX1p5MzQ?oc=5",
-       "publishedAt": "2026-11-12T04:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'America did not start this': Trump defends war with Iran",
-     "link": "https://timesofindia.indiatimes.com/world/us/america-did-not-start-this-trump-defends-war-with-iran/articleshow/135748401.cms",
-     "source": "Times of India",
-     "sources": [
-      "CBS News",
-      "NDTV",
-      "The Hill",
-      "The Times of India",
-      "The Times of Israel",
-      "Times of India",
-      "Yahoo"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-12T02:17+05:30",
-     "score": 7.14,
-     "summary": "Speaking during the 2026 National Veterans Day Ceremony at Arlington National Cemetery, Trump said the United States had fought back against Iran and claimed that American military operations had significantly damaged the country's capabilities.",
-     "image": "https://static.toiimg.com/photo/msid-135748407,imgsize-57416.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'America did not start this': Trump defends war with Iran",
-       "link": "https://timesofindia.indiatimes.com/world/us/america-did-not-start-this-trump-defends-war-with-iran/articleshow/135748401.cms",
-       "publishedAt": "2026-11-12T02:17+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "\"America Did Not Start Iran War\": Trump Says Wants To Have \"Total Victory\"",
-       "link": "https://www.ndtv.com/world-news/america-did-not-start-iran-war-donald-trump-says-wants-to-have-total-victory-12314610#publisher=newsstand",
-       "publishedAt": "2026-11-12T01:58+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'America did not start this': Trump defends war with Iran",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRDhyUnZHQWFxNWpWTnRDb0h1U08tOEcxYkx5UF9FUHJMemxENmd6bGpXdDQ0MzM4QTFSR2xNNUN4QW43NzExaVVrb1NrTFZyWGFpNmNENzIxLXIyQTdydHRJWUZMM1VyVzNzMVJ4NlNQRDZwZUlaV2s5V0JnbDFhU0FxQUs0emttczJZZmhLSzB1UTN3VjBWN20tQjZsalBkb0hzZmY1YmE1djBQckdnSTM5a29wSmZ0Wkc4ZHRtUnVxaGs?oc=5",
-       "publishedAt": "2026-11-12T02:17+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Pat Cummins spotted in heated conversation with wife Becky amid Sandpaper controversy",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-captain-pat-cummins-spotted-in-heated-conversation-with-wife-becky-in-first-public-appearance-since-khawajas-sandpaper-claims/articleshow/135744549.cms",
-     "source": "Times of India",
-     "sources": [
-      "India Today",
-      "News24",
-      "PerthNow",
-      "The Australian",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-12T06:00+05:30",
-     "score": 6.78,
-     "summary": "Australian captain Pat Cummins was spotted having an animated conversation with wife Becky in Sydney, marking his first public appearance since Usman Khawaja reignited the 2018 Sandpaper-gate controversy. Khawaja claimed the entire dressing room knew about the ball-tampering plan, with David Warner backing him. Meanwhile, Khawaja has refused to reveal further details about the bowlers' involvement.",
-     "image": "https://static.toiimg.com/photo/msid-135745196,imgsize-98516.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Pat Cummins spotted in heated conversation with wife Becky amid Sandpaper controversy",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-captain-pat-cummins-spotted-in-heated-conversation-with-wife-becky-in-first-public-appearance-since-khawajas-sandpaper-claims/articleshow/135744549.cms",
-       "publishedAt": "2026-11-12T06:00+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Australia captain Pat Cummins spotted in heated conversation with wife Becky in first public appearance s",
-       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPZUhrdTU2ZEFIUmdyMktWSUlJdkJlS1Ryc0phR2k0YVFZbjM5SGxxWHVXS054Y25lTnd4RW5QOElCY3FCTXBXek5iVXAyRGs4TmFxQjhHVmRyVnA4b0FnLW01aVNzVWZBOS1TeTlPdVFWa3haMXBYeXEyU0RLVHRQNklWUzl0c01BNk5OdlVrczNTV1VPQ1hJdjBmYUs1aU9LeFpYX0hHODF1NEJYOG05X0kxQ0RaVWJrUkxjZHRBUWVUR1YwcmNXMktSbWdmZFZLVWhObTlVSFdxdG1iQ3dBNzRXaC1qUlNWRDk4WWNxVW8yTDVfN0FxY2t5Qk56SU9rLXhoOUgzdWJvODlPN2c3bFJRbzNJVFgxc1g3X1JDNzZiR21KUlJNd2ZmWk8xcWx3Q1lNaG16NDVLRkdtUnc?oc=5",
-       "publishedAt": "2026-11-12T06:00+05:30"
       }
      ]
     }
