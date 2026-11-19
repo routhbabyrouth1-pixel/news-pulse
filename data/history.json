@@ -1,6 +1,210 @@
 {
- "updated": "2026-11-19T15:31+05:30",
+ "updated": "2026-11-19T16:28+05:30",
  "hours": [
+  {
+   "hour": "2026-11-19T16:00+05:30",
+   "generatedAt": "2026-11-19T16:28+05:30",
+   "feeds": 17,
+   "headlines": 446,
+   "stories": [
+    {
+     "title": "'3 Nuclear Powers At One Table': Historic Xi-Trump-Putin Meeting In China",
+     "link": "https://www.ndtv.com/world-news/historic-xi-jinping-donald-trump-vladimir-putin-meeting-begins-in-china-12348331#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "Bloomberg",
+      "CGTN",
+      "CNBC",
+      "DW.com",
+      "Mint",
+      "NDTV",
+      "The Hindu"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-19T16:00+05:30",
+     "score": 10.42,
+     "summary": "Commencing the three-way meeting, Trump said the three leaders were \"making history\".",
+     "image": "https://c.ndtvimg.com/2026-11/bq5r6cno_trump-xi-putin-trilateral_625x300_19_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "'3 Nuclear Powers At One Table': Historic Xi-Trump-Putin Meeting In China",
+       "link": "https://www.ndtv.com/world-news/historic-xi-jinping-donald-trump-vladimir-putin-meeting-begins-in-china-12348331#publisher=newsstand",
+       "publishedAt": "2026-11-19T14:59+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Trump meets Putin and Xi as trilateral US, Russia, China talks begin",
+       "link": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
+       "publishedAt": "2026-11-19T14:02+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Trump, Putin and Xi to hold historic trilateral meeting in China: What's on the agenda and why it matters",
+       "link": "https://www.livemint.com/news/world/trump-putin-and-xi-to-hold-historic-trilateral-meeting-in-china-whats-on-the-agenda-and-why-it-matters-11795065774997.html",
+       "publishedAt": "2026-11-19T11:04+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Xi-Trump-Putin trilateral meeting LIVE: Xi-Trump-Putin summit begins in China; no peace ever forged by declining opportunities, says Trump",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTER4cFc2cEpRbmd1aWp0X1pkR3oxTEFUdHNKRnRSTDU2QXdTd21yOElQbWp1dzBqTVRLUUE5NS1DSXQydmEzOHlLdGtjczNYTTQyY2J0MjNQY0xPcG1LNzF2N0xSa01jV3BpX21FRzFZaXd4c2VnaUQxaGhMNHplUUlFYkRqTmcyTlR1dHhlb1Qwem54QmNZVFlxeGdhSmU1Z1k1TUE2dkZsTlFTYnVGUFN0NDZhZVhlSWt4LUZlQnFsQ2M2RTJlYnlaVnFsTWVIMU9nM0JMNjV3YjRTMW1zb203aEswWFoyTEJwTkNFWUE0ODYyVmc?oc=5",
+       "publishedAt": "2026-11-19T16:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GTA 6 in India: Price, release and why the country is hooked",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVWF2RU5iZ0J1cUpsb043X0xkREtQUFRFRGpFNXI1TWtMbmRvZzFjTi1oV3FEUW9lR1gwNUpmU2xGeHR1QUJ0WV9ERWxmTUJxTHR2eUZHZTVCdVhmZkZoQjZkYW05bTJPaEM5ejI2WTFfa2JVajM0bWhWZVZXLTRRckFYc2xIYVZCMXR5UThwODNEUnQwNHdwR2hrTmx4UjE3QlgyaEI3TEo0N01xbUM1M9IBtwFBVV95cUxQU3E4Q0dLYlhpZUM2QzI5SFdVNzdVT1VldWFxcklQU185Yjd1RFhhWWQxTkRieTlPZDNuYW5hbGhTejJnYUxvb291MmRHNG5fM1RzQV9KUkNaUUU4Qjh1VFFiSG9DNFV4TGpaQjgyMGRxcGg0dm1vVEhxaFZ6NTF3djdTV0x5SjhocGRQUG9UY3RTc1RjUlF2U3N1ejVlSWM3RDhCTzlpRzBKdElSQ1VyUk50UVVFZGs?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "BBC",
+      "Bloomberg",
+      "Eurogamer.net",
+      "IGN",
+      "The Guardian",
+      "The Hindu",
+      "The New York Times",
+      "The Washington Post"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-19T12:56+05:30",
+     "score": 9.91,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "GTA 6 in India: Price, release and why the country is hooked",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVWF2RU5iZ0J1cUpsb043X0xkREtQUFRFRGpFNXI1TWtMbmRvZzFjTi1oV3FEUW9lR1gwNUpmU2xGeHR1QUJ0WV9ERWxmTUJxTHR2eUZHZTVCdVhmZkZoQjZkYW05bTJPaEM5ejI2WTFfa2JVajM0bWhWZVZXLTRRckFYc2xIYVZCMXR5UThwODNEUnQwNHdwR2hrTmx4UjE3QlgyaEI3TEo0N01xbUM1M9IBtwFBVV95cUxQU3E4Q0dLYlhpZUM2QzI5SFdVNzdVT1VldWFxcklQU185Yjd1RFhhWWQxTkRieTlPZDNuYW5hbGhTejJnYUxvb291MmRHNG5fM1RzQV9KUkNaUUU4Qjh1VFFiSG9DNFV4TGpaQjgyMGRxcGg0dm1vVEhxaFZ6NTF3djdTV0x5SjhocGRQUG9UY3RTc1RjUlF2U3N1ejVlSWM3RDhCTzlpRzBKdElSQ1VyUk50UVVFZGs?oc=5",
+       "publishedAt": "2026-11-19T12:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert for three A.P. districts",
+     "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Drishti IAS",
+      "ET Government",
+      "Hindustan Times",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T16:05+05:30",
+     "score": 8.44,
+     "summary": "The IMD says the corridor for landfall, likely on Nov. 20 noon, stretches from Andhra's Narsapur in Andhra Pradesh to Odisha's Puri",
+     "image": "https://www.hindustantimes.com/ht-img/img/2025/08/06/1600x900/logo/Untitled_design_1754465014585_1754465103581.png",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert for three A.P. districts",
+       "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+       "publishedAt": "2026-11-19T16:05+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Over 1 lakh evacuated, 9,299 shelters set up as Cyclone ''Akvan'' likely to cross Odisha coasts",
+       "link": "https://www.hindustantimes.com/india-news/over-1-lakh-evacuated-9-299-shelters-set-up-as-cyclone-akvan-likely-to-cross-odisha-coasts-101795082826195.html",
+       "publishedAt": "2026-11-19T15:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "From ‘Fragile Five’ to fast-growing economy: PM Modi uses GTA VI comparison to pitch India’s progress",
+     "link": "https://www.livemint.com/news/india/from-fragile-five-to-fast-growing-economy-pm-modi-uses-gta-vi-comparison-to-pitch-india-s-progress-11795084402936.html",
+     "source": "Mint",
+     "sources": [
+      "Deccan Herald",
+      "Mint",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-19T16:17+05:30",
+     "score": 8.34,
+     "summary": "Prime Minister Narendra Modi used the launch of Grand Theft Auto 6 to compare India's development indicators with their levels around the time GTA 5 was released, highlighting changes in solar capacity, railway electrification, internet costs, defence exports and the space sector.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/MixCollage-19-Nov-2026-04-06-PM-9760_1795084600035_pTq0_1795084606434_1rmC_35ede6d7-9e17-478a-9d05-229b185c2b23_RrzN.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "From ‘Fragile Five’ to fast-growing economy: PM Modi uses GTA VI comparison to pitch India’s progress",
+       "link": "https://www.livemint.com/news/india/from-fragile-five-to-fast-growing-economy-pm-modi-uses-gta-vi-comparison-to-pitch-india-s-progress-11795084402936.html",
+       "publishedAt": "2026-11-19T16:17+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "GTA V to GTA VI, PM Modi lists how India upgraded",
+       "link": "https://economictimes.indiatimes.com/news/economy/indicators/from-gta-5-to-gta-6-pm-modi-lists-how-india-has-levelled-up/articleshow/135978866.cms",
+       "publishedAt": "2026-11-19T11:11+05:30"
+      },
+      {
+       "source": "The New Indian Express",
+       "title": "PM Modi uses GTA 6 vs GTA 5 comparison to pitch India's growth; Congress mocks move",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR2hIcEFNVTk0bzRnb0dhNlRJakdrTk9ndzdyLUNoWmRsd3FHSFNjY1hNU0lkdy12blBScUdvVDdmaWdIekh4Wmt2YTIzTGZqcENkMG05OVA5T2psb28yMHFDZ2pzWmpsckd2bFlFbXBMSEo3S0RSS002VE1XZkR5cEpkQkd3ZXc4c3huZWp0cHNvazlGLXVPekdSLUxfU2ZCRnh4a1BLVmtzV0lCeGJzaVE5RURDWHBxd0ZrWWh2QUlJT3BtZFJua1RYR19JZw?oc=5",
+       "publishedAt": "2026-11-19T12:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Supreme Court refuses to intervene in interim bail granted to SP leader Azam Khan",
+     "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-intervene-in-interim-bail-granted-to-sp-leader-azam-khan/article71718981.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "Rediff",
+      "The Economic Times",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-19T14:10+05:30",
+     "score": 8.12,
+     "summary": "The money laundering case relates to alleged financial irregularities concerning the Mohammad Ali Jauhar University; the Bench said any observations made by Allahabad High Court in its order granting interim bail would not influence the final decision in the case",
+     "image": "https://th-i.thgim.com/public/incoming/awsjh6/article71718972.ece/alternates/LANDSCAPE_1200/Supreme-Court-dG6MGQMIVG.3.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Supreme Court refuses to intervene in interim bail granted to SP leader Azam Khan",
+       "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-intervene-in-interim-bail-granted-to-sp-leader-azam-khan/article71718981.ece",
+       "publishedAt": "2026-11-19T14:10+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Supreme Court refuses to cancel Azam Khan’s interim bail in money laundering case",
+       "link": "https://indianexpress.com/article/legal-news/azam-khan-money-laundering-case-supreme-court-interim-bail-10969599/",
+       "publishedAt": "2026-11-19T13:09+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "SC favours Azam Khan's interim bail against ED plea",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/sc-dismisses-ed-plea-challenging-azam-khans-interim-bail-in-money-laundering-case/articleshow/135979254.cms",
+       "publishedAt": "2026-11-19T11:26+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "SC refuses to send SP leader Azam Khan back to jail, declines to interfere with interim bail",
+       "link": "https://www.hindustantimes.com/india-news/sc-refuses-to-send-sp-leader-azam-khan-back-to-jail-declines-to-interfere-with-interim-bail-101795067285100.html",
+       "publishedAt": "2026-11-19T11:18+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "BREAKING| Supreme Court Dismisses ED's Challenge To Azam Khan's Interim Bail",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFVIa18xS01QMUlOYTEyRGl2d3Y0aTFBS093TVhHU0VLbjRZX1VNUUxxZmtkWUtVNUI4R3VEWm1EUy1CUE1FWFBYbk5wQzk4QWdvRVhMMGx0MG9LdVFzOUpFY3FRV3JjSEZveGVsTURqSlpMclozeHV2Nks5dG1WODJ3Tjc5MXU5d0xtYmtxZWRFVHdxaDFhbjBZb3pGODFreDI2M0EyemZoQQ?oc=5",
+       "publishedAt": "2026-11-19T10:57+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-19T15:00+05:30",
    "generatedAt": "2026-11-19T15:31+05:30",
@@ -30170,214 +30374,6 @@
        "title": "World News Today Live Updates: Pakistan Deputy PM Ishaq Dar’s grandson among 8 indicted in gang rape case",
        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZ1Z6dVExWHBsdENoSzE4dWJiWWpTbGZyVE9PR0VqX1FDNHFVa3NlNUkzdThqbzQ2NHJjTS04a0JpZUxJcUdqaVF3a2RrNjNfUzlRc2hVLWYwWjlnNjZNMnJ5SklGUXBCRU14cEJjbnkyZnNGWF9ZbmhzbUJSYkNWMWZsclYtZGl0NXNFeHBEN2s3eUFhTHotTUVBWW1JYzBWQ2MyOTFxcEpIZmlZVTJhWldnYTJ0TnVfWUhtcFlqQjNSWl9TR1NHZDJkejg0OUN1NTZOdzFtUGUzeWpHaThKQ3J0RHQwUjJVc3lOUWFWV202dUNQSC00bHFtT0pzTVA5Ny1NZnRn0gGMAkFVX3lxTFBKalVONjdNU0J3M0hVZ3ZEX3BQWVVTUS1RSTZ5XzJwYkQyY09Cc211bUtMeTJtVnBNMXVYWGcydmtIWmw3YkxJelBudlo5dzBPd0Nib3MwcjgzZUt0SGM2LXExZWh3NjItcGk3RmxUTVhqRmE4RzU5ejRIUV85cm12QVp4OUdOWTlWVjBfNHZkT29kNkpsZnlRREcwLU1pNzYzXzNiMlloYmZWbkx6bnd6emFERHh0VzRvaWZzcnZpY3lUNFZQQ2JMZlo2QjZsSlQ2TjhhZkxmOFFTU216NmZzRTZiMHFFcUpnWVpaOW80V0QxTHRSUUNLNTJrZlY4Wm5CN0RKY01kVmNGWlU?oc=5",
        "publishedAt": "2026-11-11T18:21+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T17:00+05:30",
-   "generatedAt": "2026-11-11T17:23+05:30",
-   "feeds": 16,
-   "headlines": 335,
-   "stories": [
-    {
-     "title": "J&K attack: Three injured after terrorists open fire on CRPF personnel in Kulgam",
-     "link": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "Mint",
-      "NDTV",
-      "Rediff",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T16:06+05:30",
-     "score": 9.28,
-     "summary": "Unidentified motorcycle-borne assailants opened fire on security personnel deployed at a naka in Kulgam district of Jammu and Kashmir",
-     "image": "https://th-i.thgim.com/public/incoming/l0h7n1/article71689174.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-11%20at%2015.27.36.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "J&K attack: Three injured after terrorists open fire on CRPF personnel in Kulgam",
-       "link": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece",
-       "publishedAt": "2026-11-11T16:06+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Terrorists Fire At Security Personnel In J&K's Kulgam. CRPF's Full Statement",
-       "link": "https://www.ndtv.com/india-news/jammu-and-kashmir-firing-terrorists-fire-at-security-personnel-in-jammu-and-kashmis-kulgam-crpfs-full-statement-12312211#publisher=newsstand",
-       "publishedAt": "2026-11-11T15:18+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "J&K terror attack: Three CRPF personnel shot at checkpost in Kulgam, one critically injured; manhunt underway",
-       "link": "https://www.livemint.com/news/india/kulgam-terror-attack-at-least-3-crpf-personnel-injured-after-terrorists-open-fire-in-kashmir-valley-11794388849478.html",
-       "publishedAt": "2026-11-11T14:53+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Motorcycle-borne terrorists attack CRPF team in J-K’s Kulgam; 3 jawans injured",
-       "link": "https://www.hindustantimes.com/india-news/terrorists-attack-a-crpf-convoy-in-kulgam-one-jawan-injured-101794388555146.html",
-       "publishedAt": "2026-11-11T14:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Yogi Adityanath dismisses Deepavali pollution concerns, says it will subside",
-     "link": "https://www.thehindu.com/news/national/cm-yogi-adityanath-dismisses-diwali-pollution-concerns-says-it-will-subside/article71688638.ece",
-     "source": "The Hindu",
-     "sources": [
-      "ANI News",
-      "Hindustan Times",
-      "India Today",
-      "NDTV",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-11T16:31+05:30",
-     "score": 9.16,
-     "summary": "Nobody says anything to those who polluted the entire system with their corrupt misdeeds. But if the public bursts crackers one day, it creates pollution, the CM said",
-     "image": "https://th-i.thgim.com/public/incoming/y2n3b1/article71688698.ece/alternates/LANDSCAPE_1200/PTI11_07_2026_000294B.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Yogi Adityanath dismisses Deepavali pollution concerns, says it will subside",
-       "link": "https://www.thehindu.com/news/national/cm-yogi-adityanath-dismisses-diwali-pollution-concerns-says-it-will-subside/article71688638.ece",
-       "publishedAt": "2026-11-11T16:31+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "‘Pollution will subside’: Yogi Adityanath backs Diwali firecracker use despite AQI spike",
-       "link": "https://www.hindustantimes.com/india-news/pollution-will-subside-yogi-adityanath-backs-diwali-firecracker-use-despite-aqi-spike-101794384647979.html",
-       "publishedAt": "2026-11-11T13:40+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Pollution increased on Diwali would subside, so why worry': UP CM Yogi Adityanath",
-       "link": "https://timesofindia.indiatimes.com/india/even-if-pollution-increased-on-diwali-it-would-eventually-subside-up-cm-yogi/articleshow/135727975.cms",
-       "publishedAt": "2026-11-11T12:02+05:30"
-      },
-      {
-       "source": "India Today",
-       "title": "Bursting firecrackers on Diwali no big deal, pollution will subside: Yogi Adityanath",
-       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaUNaMjBuNTFsQjEyZlk4ZWNXME5zQm95dDkzWE4wWE1EQTUtLUQtdkk4anBLb0ZRanhWZFJwRzhjaGZPZFdrWl9EekZPOFd5MHhQcDVObDNqS2NDRGVNOWRaaGhBcy1FOVdyMElQdXRvRFhLVmZ0bkZ6a2ZwOWsyc0Jjal90ZTZkeldpQWExM0FER0dNYVMtaUFEOEJtNnRRc2gwa0wzdTJ2b0l3Z1psWWl5eE0yaVNvX2o1OFlzOEVXcjJMWkxkbWtoVThmZjVuOHo5VTVkelMxenpxZ0J6Yg?oc=5",
-       "publishedAt": "2026-11-11T12:24+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Air India flight to Mumbai moved to isolation bay after hijack threat at Kolkata airport: What we know",
-     "link": "https://www.livemint.com/news/india/air-india-kolkata-mumbai-flight-moved-to-isolation-bay-after-hijack-threat-message-found-on-board-11794379871901.html",
-     "source": "Mint",
-     "sources": [
-      "CGTN",
-      "Hindustan Times",
-      "Mint",
-      "NDTV",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T12:28+05:30",
-     "score": 7.93,
-     "summary": "The Air India flight was moved to an isolation bay on Wednesday morning.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/Air_India_1794379952744_HbLD_1794379956118_ZJOz_185fc733-dbb1-4d52-ae8d-af903720fe38_GWHY.png",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Air India flight to Mumbai moved to isolation bay after hijack threat at Kolkata airport: What we know",
-       "link": "https://www.livemint.com/news/india/air-india-kolkata-mumbai-flight-moved-to-isolation-bay-after-hijack-threat-message-found-on-board-11794379871901.html",
-       "publishedAt": "2026-11-11T12:24+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay",
-       "link": "https://www.hindustantimes.com/india-news/hijack-scare-on-air-india-vistara-flight-to-mumbai-before-takeoff-plane-moved-to-isolation-bay-kolkata-airport-101794378656962.html",
-       "publishedAt": "2026-11-11T12:18+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Hijack threat note found on Air India flight in Kolkata; passengers deboarded, plane moved to isolation b",
-       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTGxHcnU0empHZG1wUkswSUVENW1JNVN1ZEJvYktmUjFNZ1pKNEczRktNd1lPRXJ1MXJ2aVQ2aW90czNsclE3c0NERUZWUURMcjd1bUlLZGNNc2o5RnM3b19CeWZnTFpqZy1JeXlOY2tzSlV1a05vZ0lfcWFLNkdrMHVxNDJqbHJLT0dVNmR5aWdrLUJxOE1kZ1dMRzc3ZEJ1WG4yeTZ4RTduVDlabjNiWUh4dlpzQkVRY2xGZ25oNVJ5TV9rQlJJV1VGQlF3cFFfaUNmV0dGb3lSNkVkSF85UU9EU3VqdXdGUHBUYW4wWGhFYmNBM3pyVy1xMlJoa3hmUUdsTFdmd3dmT2Rw?oc=5",
-       "publishedAt": "2026-11-11T12:28+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Can Huang's position as CEO be challenged?",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/could-jensen-huangs-position-as-nvidia-ceo-be-challenged-what-the-companys-bylaws-say-china-spy-scandal/articleshow/135729888.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Al Jazeera",
-      "Fortune India",
-      "Indian Television Dot Com",
-      "NDTV",
-      "Reuters",
-      "The Economic Times",
-      "The Indian Express"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T14:19+05:30",
-     "score": 7.58,
-     "summary": "The H200 is among Nvidia's most capable chips for training and running advanced AI systems and is subject to US export licence approvals.",
-     "image": "https://c.ndtvimg.com/2026-11/uq11bngs_nvidia-pla-reuters_625x300_11_November_26.jpeg",
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Can Huang's position as CEO be challenged?",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/could-jensen-huangs-position-as-nvidia-ceo-be-challenged-what-the-companys-bylaws-say-china-spy-scandal/articleshow/135729888.cms",
-       "publishedAt": "2026-11-11T14:18+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Banned By US 25 Years Ago, Chinese University Bought Nvidia AI Chips Last Month",
-       "link": "https://www.ndtv.com/world-news/banned-by-us-25-years-ago-chinese-university-bought-nvidia-ai-chips-last-month-12311749#publisher=newsstand",
-       "publishedAt": "2026-11-11T13:29+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
-       "link": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
-       "publishedAt": "2026-11-11T12:56+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Nvidia CEO Jensen Huang Case LIVE Updates: PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, says report",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0dWdWZpVjZZMmRhdkNrWW0tZ2QwdXR4cnVoaVNZYS1RQldiakgyQXdLbXhUSkttVVdPRmY3M0NvdlB6d1FxS0t6YkNuWms1QWRDazNoSVpfVUFuZUZ0YnBIN3lLUzJZU1dTYnNzUFpDMHhkMHNHVGl5QzRiLU9DLVNYV3I1NkZqc2FQenJpY3JrVnNpZHBRRzNkSnBaN25GY0pScmZMWWpwYzVhNUF4S2VSUlBlVUpEcWxBR0EzSkNXQQ?oc=5",
-       "publishedAt": "2026-11-11T14:19+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Stock Market Close: Sensex pares gains but ends 773 pts up, Nifty at 25,255; PSU Bank rises 3%",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOG55UEd1cnFnWm85cmhKUGtyXzRTVkhweG9Cd3J2RlFuSndxVVVaaTlia1dpTUYzekFEbGRoWFNrUXRXS1RCNDYzUzRZZ1JmRG9uQTdCRmJmLVlZQnFsdTRnZThoVmVUOXZRNnpsUS10OEtyeVpPQTRJcTlmVlBFN21LTU9jaER4cGNiS3lodUxKSHVrN0htRHA0OUMzUDRJUEhvcGE4b3RISmd0YnYycEhLQmFUOEYzNzhzRi1kT1BSNEpGdTRaZkhNWU4zcV9nczBuVFJmSE5qWVQ4MlFkQzRyU1BxVlFK0gHuAUFVX3lxTE1xMEVDVE1GYUoxZVgxRVlaMjVaQ1NBcmM1R0MtZXExSzRHV196M09kTVNXN0VMMGJJcXVIVHdKdW9JLXJfZl92ZWtoTExTVTNST3J4em8xZi1NTXVsWl9qSVBDSTRKaWhseFo4QmZ3TThJWVZ1ODIzUkNvVlROcmE0dnNVTHRMdEFQVThkSG5OM0l0cjhvajRYVDFRWlc1MzFlS0VxU3NHQ21pZFVuOUJFUkhlQ0owb3pLbDZMbnZ2TmtSeGl6VkF5Vk02V1VvUWFiTHd0NEpwQS1rR2RuYVAyUHh0VXlnR2Z4MGhrQVE?oc=5",
-     "source": "Business Standard",
-     "sources": [
-      "Business Standard",
-      "NDTV",
-      "Telegraph India",
-      "The Economic Times",
-      "The Hindu"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T15:52+05:30",
-     "score": 7.25,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Business Standard",
-       "title": "Stock Market Close: Sensex pares gains but ends 773 pts up, Nifty at 25,255; PSU Bank rises 3%",
-       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOG55UEd1cnFnWm85cmhKUGtyXzRTVkhweG9Cd3J2RlFuSndxVVVaaTlia1dpTUYzekFEbGRoWFNrUXRXS1RCNDYzUzRZZ1JmRG9uQTdCRmJmLVlZQnFsdTRnZThoVmVUOXZRNnpsUS10OEtyeVpPQTRJcTlmVlBFN21LTU9jaER4cGNiS3lodUxKSHVrN0htRHA0OUMzUDRJUEhvcGE4b3RISmd0YnYycEhLQmFUOEYzNzhzRi1kT1BSNEpGdTRaZkhNWU4zcV9nczBuVFJmSE5qWVQ4MlFkQzRyU1BxVlFK0gHuAUFVX3lxTE1xMEVDVE1GYUoxZVgxRVlaMjVaQ1NBcmM1R0MtZXExSzRHV196M09kTVNXN0VMMGJJcXVIVHdKdW9JLXJfZl92ZWtoTExTVTNST3J4em8xZi1NTXVsWl9qSVBDSTRKaWhseFo4QmZ3TThJWVZ1ODIzUkNvVlROcmE0dnNVTHRMdEFQVThkSG5OM0l0cjhvajRYVDFRWlc1MzFlS0VxU3NHQ21pZFVuOUJFUkhlQ0owb3pLbDZMbnZ2TmtSeGl6VkF5Vk02V1VvUWFiTHd0NEpwQS1rR2RuYVAyUHh0VXlnR2Z4MGhrQVE?oc=5",
-       "publishedAt": "2026-11-11T15:52+05:30"
       }
      ]
     }
