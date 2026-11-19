@@ -1,6 +1,160 @@
 {
- "updated": "2026-11-19T05:19+05:30",
+ "updated": "2026-11-19T06:35+05:30",
  "hours": [
+  {
+   "hour": "2026-11-19T06:00+05:30",
+   "generatedAt": "2026-11-19T06:35+05:30",
+   "feeds": 16,
+   "headlines": 160,
+   "stories": [
+    {
+     "title": "Grand Theft Auto 6 to get UK release after 13-year wait for gamers around the world",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
+     "source": "BBC",
+     "sources": [
+      "BBC",
+      "Bloomberg.com",
+      "CNN",
+      "NDTV",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-19T04:47+05:30",
+     "score": 7.2,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BBC",
+       "title": "Grand Theft Auto 6 to get UK release after 13-year wait for gamers around the world",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
+       "publishedAt": "2026-11-19T04:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "No room for Siraj: India leave out senior pacer despite four-man attack in 1st Test",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-leave-out-mohammed-siraj-ravindra-jadeja-pick-four-man-pace-attack-for-first-new-zealand-test/articleshow/135971882.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricinfo",
+      "Rediff",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-19T03:37+05:30",
+     "score": 7.01,
+     "summary": "\"We are going with four seamers with Akash Deep, Anshul Kamboj, Prasidh and Bumrah with Washington as the spinning all-rounder,\" Gill said at the toss.",
+     "image": "https://static.toiimg.com/photo/msid-135971927,imgsize-94796.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "No room for Siraj: India leave out senior pacer despite four-man attack in 1st Test",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-leave-out-mohammed-siraj-ravindra-jadeja-pick-four-man-pace-attack-for-first-new-zealand-test/articleshow/135971882.cms",
+       "publishedAt": "2026-11-19T03:27+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "India leave Siraj and Jadeja out of opening Test in New Zealand",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0otOVBHYkVVa1NxUHREMDNHS0xZRFBRajZHNE5TMGxJUW5RRm5MOEhqd3VRWF9aZjBObVZnY2Z2R1VwWlUtY05nZzNZdVRPc1FPZk1DOHc2ZEpveVpsOFNvVEdCWVhlSEdkck5QT3RMZ3F5UThZZUJ4bXlGU3kyTHFPU2JaUEt1bkszMGVhMDFqS2M1OW42aUZKZlBwUy1JNldTaThTWnMtX09RazVSTDBYaUVwaHp5a19oa9IBzgFBVV95cUxOeU9PeEUwZzZOWksyS2NHV1ZKc2VlSmpqREtsR1RtaHFDbHREMmQ5M2Q1VTVtV3dNendSaDJFQXpvSV92R1hLRzY3Q0lOclAzZGVPVUVtbTc4MTAybVE0MzhYNjQwZWhDSjF0dEdMMExzSU5zei1OTHdfcTcyWkx3TFJxWDZlaTdHcm9RcllBcndfZFNid21JUExEYlZVOTI0dU9OYXdzVXBhazVocmU0eHZka1JWZzFJMmxJTzN6dFVrZWVVdEc0dHhRR3p5dw?oc=5",
+       "publishedAt": "2026-11-19T03:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trade deal to be signed after US tariff plan: Commerce secy",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/trade-deal-to-be-signed-after-us-ready-with-tariff-structure/articleshow/135974075.cms",
+     "source": "Times of India",
+     "sources": [
+      "Business Standard",
+      "Business Today",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T04:49+05:30",
+     "score": 6.79,
+     "summary": "Countries need certainty around Section 301 probes, says commerce secretary Rajesh Agarwal",
+     "image": "https://static.toiimg.com/photo/msid-135974079,imgsize-39828.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Trade deal to be signed after US tariff plan: Commerce secy",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/trade-deal-to-be-signed-after-us-ready-with-tariff-structure/articleshow/135974075.cms",
+       "publishedAt": "2026-11-19T04:49+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Trade deal to be signed after US ready with tariff structure",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaVVOV0lZYlR3aUZKX0RlaTdiQ2lUYU5UTGpheVJ3U1VLMTdPMEV2T20xaTA4U0N1Q29HTElzXy1yRlJZa1EzTDZQaVZyRXRVd1o1cGY3aFdsVWNEdHVRNEFkQ1pBSHQ3TGRqWW9vSEZpMDM5cnBTazJpQ0lzdnFGYnRwVXBpY1R6OXRGdmo4UjhkMG0tZHFnaXZCc05FTHd1aEp0aER4X3RDeUxUUDZwZ1dQOTMzVXVtVkpxMm9sdkJKR1JQWWVMbGVTbjhzTjhvaS1TV3N4NzVnTTZSQ09j?oc=5",
+       "publishedAt": "2026-11-19T04:49+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia halts its H200 chip sales to China - GSMArena.com news",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHFUMjdXZEFiZ1EtdXExZ0lWQmZUQjQ4SzhLUW45MExrMUVZR2xrUWdEWEsySXpITFgyVVR2bDN2REtvdm55ekJLaFNLakFneFZpcWZJVktJVklWUF9LNHdaQ1ZHWDczal9KczNQX0RRZEdwRFNlVkZsdHlNNS16Z0l6b1JBUllCdlHSAYYBQVVfeXFMTmF3VjNEQUMzMnFlVHZvQXNETEZJaXdYN092SFk1SzN0SGhONHB4Qk5sbVg4M3JSYlNjcEkycC1ONXV0Vm5BTmVDZHRDUGx2NThEYms1Q1RzZW9NUy1SNW5PZnBxSjlSQnZjZXBMRHoyWFlQdFloUDcxdDEzeFQxRU9IaldSd2c?oc=5",
+     "source": "GSMArena.com",
+     "sources": [
+      "Bloomberg.com",
+      "CNBC",
+      "GSMArena.com",
+      "Reuters",
+      "WSJ",
+      "Yahoo Finance"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T03:01+05:30",
+     "score": 6.78,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "GSMArena.com",
+       "title": "Nvidia halts its H200 chip sales to China - GSMArena.com news",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHFUMjdXZEFiZ1EtdXExZ0lWQmZUQjQ4SzhLUW45MExrMUVZR2xrUWdEWEsySXpITFgyVVR2bDN2REtvdm55ekJLaFNLakFneFZpcWZJVktJVklWUF9LNHdaQ1ZHWDczal9KczNQX0RRZEdwRFNlVkZsdHlNNS16Z0l6b1JBUllCdlHSAYYBQVVfeXFMTmF3VjNEQUMzMnFlVHZvQXNETEZJaXdYN092SFk1SzN0SGhONHB4Qk5sbVg4M3JSYlNjcEkycC1ONXV0Vm5BTmVDZHRDUGx2NThEYms1Q1RzZW9NUy1SNW5PZnBxSjlSQnZjZXBMRHoyWFlQdFloUDcxdDEzeFQxRU9IaldSd2c?oc=5",
+       "publishedAt": "2026-11-19T03:01+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employees",
+     "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-her-first-all-hands-meeting-nvidia-interim-ceo-colette-kress-promises-salary-hikes-to-49000-employees-tells-staff-make-sure-that-you-feel-good-about-this-company-and-you-do-not-worry-about-/articleshow/135971274.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNBC",
+      "Telegraph India",
+      "The New York Times",
+      "The Times of India",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T01:56+05:30",
+     "score": 6.39,
+     "summary": "Nvidia interim CEO Colette Kress told the company’s nearly 49,000 employees to expect salary hikes and more equity in December, months ahead of schedule, at her first all-hands since Jensen Huang’s resignation, Wired reports. Pay topped the 700 questions staff submitted. The move comes as Nvidia’s board rules out reinstating Huang despite his offer to return, and as leadership works to retain talent amid investor…",
+     "image": "https://static.toiimg.com/photo/msid-135971371,imgsize-675127.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employees",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-her-first-all-hands-meeting-nvidia-interim-ceo-colette-kress-promises-salary-hikes-to-49000-employees-tells-staff-make-sure-that-you-feel-good-about-this-company-and-you-do-not-worry-about-/articleshow/135971274.cms",
+       "publishedAt": "2026-11-19T01:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "In her first all-hands meeting, Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employee",
+       "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNUWp1OGJGXzJtMVNfUzBKZmhJemREYXNCYlRMeGZ0TG1xNnNxZnVITC10cENYTUhZRkNob1lQUGVfQTJ6b1NzUnh2SjZBU0V0ZDZnaVVaVERJTHFBak9mSGcxbGpqaF92VXNhWE9La1NlS2JIeEphTzR6SmlIdWkxWTdYMzBNNE1neVhGWVJnSEtvb21ZdTNGWGgwcFJ3SkcwWEdLWmwxUDZhNkdpNk9ZUzFrdnFIUnpERWZFOWRSeTMxNHVSMkFsOE5LVHc3V3NjcDlodHViQ1RxWXp4ajZMR3pWTk5vd1ZsZU1jWlY5Q21VT0RVVXdhV0JmbTJDRjBGQkk1Ty1jaVotaXhyb2tmYnBtU3gzb2RDSU5rYlJycVBqQ1dsQjVnbHpKbnV5dTM3azM5eFBRTzkyamhFSDFnY0NrZzBvN2tuRmIwQlVCamIzMElqUXF0VTF3ZU9VX1dXMlRCZzctU0llcGlaRjJGY1JfTjZzV2pIaFYwUzZGSTNONXhuRWpXUmVLQdIBkANBVV95cUxNa240bFA0el85SXBQajk4dlN6aEVpWmNFNFJLcnowd3JqUi1zTDcyMGc1Sm5tcEVleFlscGwyVTBNU2FzSEw3RzgxV2JJM3B1b3kyd1pvanI4Mk16VmpXbmdJS3NpSi1naU1iQzdYSjktb0FfVHZIY2xZMUwxZVBqT0k2STdKUEtmYi16QkZyNFN0MnE2VjlxcVVhaU1BZDMxWVdnSmxaZ18zOEgtUnctcWpsVi1ma0Q1ZG9aOV9GX2NvaGVKUmtITjJhZzJldzg1SEtqODJwV3licTZpbkUtdnVIS1FDcnp4S1loQVJGVF9fRmJfemhfZ05HVVFDVmh2cVJORldqV004UkNjbHMwTVd1QTdDNDJaQTdhQzMxU3JkdXZhN1RFNUpGcUh2bWpuekh4VnY4Qm5CeXRVVENqQkFiOE5sQWI1d0drQnhjeFppUWpza21BbUxnOHBfR3FLLVFFbU1fWjVxbENiNVdCaTNjWDdyU1J3NXd6bG5XSmFlSnFlek9xQ0E4R3FyRzhn?oc=5",
+       "publishedAt": "2026-11-19T01:56+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-19T05:00+05:30",
    "generatedAt": "2026-11-19T05:19+05:30",
@@ -30513,205 +30667,6 @@
        "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5",
        "publishedAt": "2026-11-11T05:56+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T08:00+05:30",
-   "generatedAt": "2026-11-11T08:18+05:30",
-   "feeds": 16,
-   "headlines": 161,
-   "stories": [
-    {
-     "title": "Horoscope Today: November 11, 2026",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jekg4S1BZeE0wODZMN1hRSmQ4SU9MMWhYaDhULXFJbF9HWTBSSlYxVmZpY3p1TEF3M2NuVjQzdHp2MnhVSlhyREJkSGp3Y2JVWndvTlhqVkEwV0ZGcjd4ZkoxcTVLZ1h0aURLNVNn?oc=5",
-     "source": "Vogue India",
-     "sources": [
-      "Cricinfo",
-      "Cricket World",
-      "Deccan Herald",
-      "Perth Scorchers",
-      "Sydney Thunder",
-      "The Economic Times",
-      "The Times of India",
-      "TheTopBookies",
-      "Vogue India",
-      "YourTango"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-11T06:00+05:30",
-     "score": 10.8,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Vogue India",
-       "title": "Horoscope Today: November 11, 2026",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jekg4S1BZeE0wODZMN1hRSmQ4SU9MMWhYaDhULXFJbF9HWTBSSlYxVmZpY3p1TEF3M2NuVjQzdHp2MnhVSlhyREJkSGp3Y2JVWndvTlhqVkEwV0ZGcjd4ZkoxcTVLZ1h0aURLNVNn?oc=5",
-       "publishedAt": "2026-11-11T06:00+05:30"
-      },
-      {
-       "source": "TheTopBookies",
-       "title": "Perth Scorchers Women vs Sydney Thunder Women, free match prediction 11 November 2026",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QZTVsMGEyZk9jRm9wUVFVSEg4eTVLZ1FqU0xET3RyaWkzUTBSQjJPWDZZRThDczZYR3Q5M2hRUVdYOFdkUjczUXp0aDFBU1VBbjcyRmRRVy1KbU1sM3l5Q1A5Yzl3Tk5Cd3UzTk41Tnp1cDlQLXBvQmg4Zjh0Qkk?oc=5",
-       "publishedAt": "2026-11-11T03:46+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-     "source": "The Guardian",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "Mint",
-      "NDTV",
-      "The Guardian",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-11T07:54+05:30",
-     "score": 10.43,
-     "summary": "Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning there won’t be a full vote on chamber floor House Republicans block effort to impeach Pentagon chief Pete Hegseth Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the…",
-     "image": "https://i.guim.co.uk/img/media/90fd5e65c58f923c6fc4059a2197568133881e15/947_0_4715_3774/master/4715.jpg?width=140&quality=85&auto=format&fit=max&s=1cdd180aea06c3729397bafc16a133f9",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
-       "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-       "publishedAt": "2026-11-11T07:54+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "US House Rejects Effort To Impeach Defence Chief Pete Hegseth",
-       "link": "https://www.ndtv.com/world-news/us-house-rejects-effort-to-impeach-defence-chief-pete-hegseth-12310329#publisher=newsstand",
-       "publishedAt": "2026-11-11T07:38+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Republicans block Hegseth impeachment motion",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
-       "publishedAt": "2026-11-11T07:13+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "House Republicans block bid to impeach Pete Hegseth, Donald Trump calls it ‘exoneration of a great American patriot’",
-       "link": "https://www.livemint.com/news/us-news/house-republicans-block-bid-to-impeach-pete-hegseth-donald-trump-calls-it-exoneration-of-a-great-american-patriot-11794359217875.html",
-       "publishedAt": "2026-11-11T06:49+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "US House blocks bid to impeach war secretary Pete Hegseth",
-       "link": "https://timesofindia.indiatimes.com/world/us/us-house-blocks-bid-to-impeach-war-secretary-pete-hegseth/articleshow/135721794.cms",
-       "publishedAt": "2026-11-11T05:16+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "U.S. Republicans derail bid to impeach Hegseth",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmpqRXMyaFdQSG96bUV2R0Njd3pOZklEckFzU2J4QTFzOEtGNVRWZ0hYbHdyYTUtb0pGaGs5R041VmZfdkFtUDJiQ0pfY25vUktDOThKVUstZmUzaUJBQjZERFRWMGYzYTBUMng4bFNJMFBnU3NhMkVvNDF4b2doRmRtbWdDTFJ2OC1aRFFlQUlXckQtOXRaeVFNb2lFdkNULTV6bWRSeVg2djNu0gGzAUFVX3lxTE9PdTFiTGJkd0pNX0ExU0Q1SlNBeGhESWoySzZidlJFYVVqYjVQS0dkV182VlNGNGRlOXNvQWV4WkNwd1VVR2MxSm9wMElkZGFhdm8ta1pXbjNrbEtiWFRLUkRQdnNWZTdncFI1RXpWa20tYVZuZ3FIaXJwOFJGUnl0NmVkNHNFaWpFLUdBNnBPMWc3Q0FYWlBhWGZwb1lGRGYzLXhLVnpjVUFPUjhXRmo1c20w?oc=5",
-       "publishedAt": "2026-11-11T05:23+05:30"
-      }
-     ]
-    },
-    {
-     "title": "New Zealand announce squad for India Tests: Who is in, who is out?",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-announce-squad-for-india-tests-devon-conway-rachin-ravindra-included-despite-fitness-concerns/articleshow/135722336.cms",
-     "source": "Times of India",
-     "sources": [
-      "Central Districts Cricket Association",
-      "Cricinfo",
-      "ICC",
-      "NDTV Sports",
-      "NZ Herald",
-      "NZC",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T06:56+05:30",
-     "score": 9.27,
-     "summary": "The opening Test of the two-match series will be played at the Basin Reserve in Wellington from November 19. The second match will take place at Hagley Oval in Christchurch from November 27. Tom Latham will lead the New Zealand side.",
-     "image": "https://static.toiimg.com/photo/msid-135722358,imgsize-38219.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "New Zealand announce squad for India Tests: Who is in, who is out?",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-announce-squad-for-india-tests-devon-conway-rachin-ravindra-included-despite-fitness-concerns/articleshow/135722336.cms",
-       "publishedAt": "2026-11-11T06:56+05:30"
-      },
-      {
-       "source": "Cricinfo",
-       "title": "Ravindra, Conway named in New Zealand squad for India Tests",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHdrS2RPVVBsZDNlQXdVWkJvVHhQc1hWNE14Y3luekJTai1YSFZDTjUya3VwWm5oRDh5M2JLbDJ5N2FvNndSZlA3QlRBTTI5bGFtblRzT1h6TUhqVVRYdnN2QzJqSGNrRjQzR050bVRJRFR3R3Y1d01IaVVLczVIdml5UmxPQlVHcG13dXZKY3VBS3k2aTlidEtwUFM1R2lHYVdoZ1lQUWlMVTBlZDBRMFpUbHJrZTjSAcgBQVVfeXFMT3AzUV9kN2hEQng1czltT2VHMTBIcXJ0YUJ5YmtxY0hnRkhfTHFCNXZzMXRSMEl1UWE0bEd3eW9Lam1KbzZNQXJBRUtNNS0wNWZna05WZ0ltRTFNTGlMcTY5TXF5dXlOSkt3VWhWYVpKRWZzVGtYRTVfTDE3alcyNlo0ZFBNa1J0QUx3STZmU1dKMzVRRlNKV0o0VjRodjN1UWYxU0tjNmNwa092SWd1Qjh3MnFXTDdkLWw3aWxvWklrZE9HajBjeHc?oc=5",
-       "publishedAt": "2026-11-11T03:34+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-     "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC",
-      "BBC News",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T05:56+05:30",
-     "score": 8.1,
-     "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d424/live/bb3e8330-dbf6-11f1-8471-ffe15ac7c066.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-       "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-11T05:56+05:30"
-      },
-      {
-       "source": "BBC",
-       "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5",
-       "publishedAt": "2026-11-11T05:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Gill-Rahul out, Kishan-Gaikwad in? Rayudu, Karthik predict India's changes",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shubman-gill-kl-rahul-to-miss-final-two-odis-for-test-preparations-rayudu-karthik-predict-indias-playing-xi-changes/articleshow/135717451.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricinfo",
-      "MSN",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T06:00+05:30",
-     "score": 7.37,
-     "summary": "With Shubman Gill and KL Rahul set to miss the final two games to prepare for the upcoming Test series, the spotlight now shifts to the batting combination Shreyas Iyer will field in the remaining matches. Former India cricketers Ambati Rayudu and Dinesh Karthik have backed Ishan Kishan and Ruturaj Gaikwad to come into the playing XI, offering India a new-look top and middle order for the final leg of the series.",
-     "image": "https://static.toiimg.com/photo/msid-135717672,imgsize-129108.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Gill-Rahul out, Kishan-Gaikwad in? Rayudu, Karthik predict India's changes",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shubman-gill-kl-rahul-to-miss-final-two-odis-for-test-preparations-rayudu-karthik-predict-indias-playing-xi-changes/articleshow/135717451.cms",
-       "publishedAt": "2026-11-11T06:00+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Shubman Gill, KL Rahul to miss final two ODIs for Test preparations; Rayudu, Karthik predict India's play",
-       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPbXYwRmxiU0JLQllsLXdrVmZXSHMzNTdFQ1d5ZzhISGw2YmE4VHVqTVZ3UmxneDlVOExNNG93empMeVVZVkw0c3VTS3VfaGNZcENKdjhMeEdIaDRfQWxKRGtHNEQzQ1dldzVQdHFVM0RCVy1FVFJjY2l3aXhIUE50WTl0ZW5MeVBhWENlM0dNdERtcmU2emRvMHhDQVZ3THJhQmpXdVFfTkVUc2xQc2FnX2hVR1dZX1lOVkcxa1FJVDJYRjhZQ3JkZTBzbWpQeUdoeHhNYmJBUi1LYmRMdXBNeWxNSXhJVmxXUVdyRUF3Tjk1NzdxQ09CUGxDelhrLWtJUkR3eXpYZ0l3Z1RNQkp0cEJIQktGVnc4T0VMaDFhWmhWTFhkbVV5NGxNb2pIOVgxQ3hnTFc0Um4?oc=5",
-       "publishedAt": "2026-11-11T06:00+05:30"
       }
      ]
     }
