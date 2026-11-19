@@ -1,6 +1,203 @@
 {
- "updated": "2026-11-19T12:42+05:30",
+ "updated": "2026-11-19T14:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-19T14:00+05:30",
+   "generatedAt": "2026-11-19T14:30+05:30",
+   "feeds": 15,
+   "headlines": 303,
+   "stories": [
+    {
+     "title": "'3 Nuclear Powers At One Table': Historic Xi-Trump-Putin Meeting In China",
+     "link": "https://www.ndtv.com/world-news/historic-xi-jinping-donald-trump-vladimir-putin-meeting-begins-in-china-12348331#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "DW.com",
+      "Mint",
+      "NDTV",
+      "The Hindu",
+      "The News Minute"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T14:21+05:30",
+     "score": 8.48,
+     "summary": "The three leaders have divergent geopolitical goals and visions for the world order.",
+     "image": "https://c.ndtvimg.com/2026-11/kkpqhgnk_putin-xi-trump_625x300_19_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "'3 Nuclear Powers At One Table': Historic Xi-Trump-Putin Meeting In China",
+       "link": "https://www.ndtv.com/world-news/historic-xi-jinping-donald-trump-vladimir-putin-meeting-begins-in-china-12348331#publisher=newsstand",
+       "publishedAt": "2026-11-19T14:13+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
+       "link": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
+       "publishedAt": "2026-11-19T11:37+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Trump, Putin and Xi to hold historic trilateral meeting in China: What's on the agenda and why it matters",
+       "link": "https://www.livemint.com/news/world/trump-putin-and-xi-to-hold-historic-trilateral-meeting-in-china-whats-on-the-agenda-and-why-it-matters-11795065774997.html",
+       "publishedAt": "2026-11-19T11:04+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Xi-Trump-Putin trilateral meeting LIVE: Xi says China-U.S. relations 'stable and improved'",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTER4cFc2cEpRbmd1aWp0X1pkR3oxTEFUdHNKRnRSTDU2QXdTd21yOElQbWp1dzBqTVRLUUE5NS1DSXQydmEzOHlLdGtjczNYTTQyY2J0MjNQY0xPcG1LNzF2N0xSa01jV3BpX21FRzFZaXd4c2VnaUQxaGhMNHplUUlFYkRqTmcyTlR1dHhlb1Qwem54QmNZVFlxeGdhSmU1Z1k1TUE2dkZsTlFTYnVGUFN0NDZhZVhlSWt4LUZlQnFsQ2M2RTJlYnlaVnFsTWVIMU9nM0JMNjV3YjRTMW1zb203aEswWFoyTEJwTkNFWUE0ODYyVmfSAfwBQVVfeXFMUFZ6UGs2aVNoOFdsZldlR2hUcFFUbm84d2RLYzFtejZjTHVQQlBvX2RYVkwyNkhSTzFUZE5BU09ramhCZUVvZTFtVkIzenQ1MHBaWVFHc1hrd3pWYnZ0dlhLRXdEbWJXNUFIRHZfa2RCX3ZnLUlZc1NTTzlSamV3OTNZLVRnRXladEE2RTVYaW5PRVh0OXhlc3VNVjBvRzhXX1BIUnp4bkQ3WWdCNWpzZDhzNWptUFBmeXNubGJBRkVHNTkxb3pKSVhKczZyakFkcTMtRGZyWjRGQlBGR19RbFYycTVraU00TXJ2aVY0MWY0cnZyQVJpMFNENWsx?oc=5",
+       "publishedAt": "2026-11-19T14:21+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Muhammad Yunus' House, Grameen Bank Branches Set Ablaze In Bangladesh: Reports",
+     "link": "https://www.ndtv.com/world-news/muhammad-yunus-house-grameen-bank-branches-set-ablaze-in-bangladesh-say-reports-12347315#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T12:25+05:30",
+     "score": 7.4,
+     "summary": "The Awami League's protest marks the first anniversary of a special tribunal verdict that tried Sheikh Hasina in absentia",
+     "image": "https://c.ndtvimg.com/2026-11/tnacni1_dhaka_625x300_19_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Muhammad Yunus' House, Grameen Bank Branches Set Ablaze In Bangladesh: Reports",
+       "link": "https://www.ndtv.com/world-news/muhammad-yunus-house-grameen-bank-branches-set-ablaze-in-bangladesh-say-reports-12347315#publisher=newsstand",
+       "publishedAt": "2026-11-19T12:25+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Bangladesh violence: Muhammad Yunus’s ancestral home set ablaze amid unrest",
+       "link": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-violence-muhammad-yunuss-ancestral-home-set-ablaze-in-chattogram-amid-unrest/articleshow/135978861.cms",
+       "publishedAt": "2026-11-19T11:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Supreme Court refuses to intervene in interim bail granted to SP leader Azam Khan",
+     "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-intervene-in-interim-bail-granted-to-sp-leader-azam-khan/article71718981.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T12:51+05:30",
+     "score": 7.1,
+     "summary": "The money laundering case relates to alleged financial irregularities concerning the Mohammad Ali Jauhar University; the Bench said any observations made by Allahabad High Court in its order granting interim bail would not influence the final decision in the case",
+     "image": "https://th-i.thgim.com/public/incoming/awsjh6/article71718972.ece/alternates/LANDSCAPE_1200/Supreme-Court-dG6MGQMIVG.3.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Supreme Court refuses to intervene in interim bail granted to SP leader Azam Khan",
+       "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-intervene-in-interim-bail-granted-to-sp-leader-azam-khan/article71718981.ece",
+       "publishedAt": "2026-11-19T12:51+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "SC favours Azam Khan's interim bail against ED plea",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/sc-dismisses-ed-plea-challenging-azam-khans-interim-bail-in-money-laundering-case/articleshow/135979254.cms",
+       "publishedAt": "2026-11-19T11:26+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "SC refuses to send SP leader Azam Khan back to jail, declines to interfere with interim bail",
+       "link": "https://www.hindustantimes.com/india-news/sc-refuses-to-send-sp-leader-azam-khan-back-to-jail-declines-to-interfere-with-interim-bail-101795067285100.html",
+       "publishedAt": "2026-11-19T11:18+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "BREAKING| Supreme Court Dismisses ED's Challenge To Azam Khan's Interim Bail",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFVIa18xS01QMUlOYTEyRGl2d3Y0aTFBS093TVhHU0VLbjRZX1VNUUxxZmtkWUtVNUI4R3VEWm1EUy1CUE1FWFBYbk5wQzk4QWdvRVhMMGx0MG9LdVFzOUpFY3FRV3JjSEZveGVsTURqSlpMclozeHV2Nks5dG1WODJ3Tjc5MXU5d0xtYmtxZWRFVHdxaDFhbjBZb3pGODFreDI2M0EyemZoQQ?oc=5",
+       "publishedAt": "2026-11-19T10:57+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Indian democracy 'sacred', boycotting polls will end it: Rahul Gandhi at University of Chicago",
+     "link": "https://www.thehindu.com/news/national/indian-democracy-sacred-boycotting-polls-will-end-it-rahul-gandhi-at-university-of-chicago/article71719252.ece",
+     "source": "The Hindu",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The New Indian Express",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T13:43+05:30",
+     "score": 7.06,
+     "summary": "“So, our strategy is to expose what is going on and take the beating until the people of India realise that the system has been fully demolished,” the Congress leader said",
+     "image": "https://th-i.thgim.com/public/incoming/eh76mt/article71719265.ece/alternates/LANDSCAPE_1200/TH18-Phukan-IndGIAGQL48N.3.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Indian democracy 'sacred', boycotting polls will end it: Rahul Gandhi at University of Chicago",
+       "link": "https://www.thehindu.com/news/national/indian-democracy-sacred-boycotting-polls-will-end-it-rahul-gandhi-at-university-of-chicago/article71719252.ece",
+       "publishedAt": "2026-11-19T13:28+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "BJP criticises RaGa for 'sick democracy' remarks",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-criticises-rahul-gandhi-for-sick-democracy-remarks-claiming-anti-india-propoganda/articleshow/135977996.cms",
+       "publishedAt": "2026-11-19T10:32+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Rahul Gandhi Said Indian Democracy Is \"Sacred\", But BJP Heard \"Sick\"",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTU3dktKbGJHcnhfNTN2SnV5MWdfMDBVelBQUk5kaUVZVzJFbEsweURfZmZubklrOThJWFMxcF9LYjB6S1NSQzJIMXF2U2pJckdmR3B2SjhSQzQ4WFBEM3cyaWtQSWd0Wm5LVnVGSFFndzNoQ0pabElFdTRwck5FWjl3aHRxZmRQWS0xWEEwdnY5c3F0UWhPQ3c3OVNCX09KZFIyWjFRYw?oc=5",
+       "publishedAt": "2026-11-19T13:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert for three A.P. districts",
+     "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Drishti IAS",
+      "ET Government",
+      "The Economic Times",
+      "The Hindu",
+      "The News Minute"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-19T14:20+05:30",
+     "score": 6.72,
+     "summary": "The IMD says the corridor for landfall, likely on Nov. 20 noon, stretches from Andhra's Narsapur in Andhra Pradesh to Odisha's Puri",
+     "image": "https://th-i.thgim.com/public/incoming/gibfui/article71719313.ece/alternates/LANDSCAPE_1200/IMG_0260.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert for three A.P. districts",
+       "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+       "publishedAt": "2026-11-19T13:58+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Cyclone Akvan: Heavy rain likely in AP, Odisha & WB",
+       "link": "https://economictimes.indiatimes.com/news/new-updates/cyclone-akvan-weather-today-heavy-rain-thunderstorm-likely-in-andhra-pradesh-odisha-west-bengal-check-latest-imd-rain-forecast/articleshow/135976174.cms",
+       "publishedAt": "2026-11-19T08:48+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-19T12:00+05:30",
    "generatedAt": "2026-11-19T12:42+05:30",
@@ -30231,207 +30428,6 @@
        "title": "'Why is BJP so worried?' Akhilesh gives fresh PDA definition amid Ayodhya visit attack",
        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQekNQenRoVTMwUG96dnNTN2JINlM2UTFrYnZmeVBsQjhZMFZqZGZmcHFmVkVjaHpfdkxGVWp5OXowVHdxRUFuTXJFUGNLc0tUajhRNjI2cEJMekQzUG5uSUxMd3FKQ0ZSLTV6WUdWY1BMemliZFRfbXQwV3FJUXVaT3BPQ0dNeVJqaTF4b0dNTVNENDlwbUhyZE5NVzJPWk9XRmNicXdmbGpxZ1BEZUMzd2xwN3JLVWhVdzNCS1duZFB5MXh5YUVGVTlZOWQ4WFBIWkc5NVlqSWRCbWstRlRpamExMGVwdw?oc=5",
        "publishedAt": "2026-11-11T15:33+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T15:00+05:30",
-   "generatedAt": "2026-11-11T15:26+05:30",
-   "feeds": 16,
-   "headlines": 300,
-   "stories": [
-    {
-     "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
-     "link": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "India Today",
-      "Mint",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-11T13:10+05:30",
-     "score": 9.37,
-     "summary": "All the passengers who had boarded the aircraft were deboarded, and it was taken to the isolation bay",
-     "image": "https://th-i.thgim.com/public/news/national/3fdnli/article71688703.ece/alternates/LANDSCAPE_1200/Kolkataairport.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
-       "link": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece",
-       "publishedAt": "2026-11-11T13:10+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Hijack threat note found on Air India flight in Kolkata; moved to isolation bay",
-       "link": "https://timesofindia.indiatimes.com/city/kolkata/hijack-threat-note-found-on-air-india-flight-in-kolkata-passengers-deboarded-plane-moved-to-isolation-bay/articleshow/135728515.cms",
-       "publishedAt": "2026-11-11T12:28+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "Air India flight to Mumbai moved to isolation bay after hijack threat at Kolkata airport: What we know",
-       "link": "https://www.livemint.com/news/india/air-india-kolkata-mumbai-flight-moved-to-isolation-bay-after-hijack-threat-message-found-on-board-11794379871901.html",
-       "publishedAt": "2026-11-11T12:24+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay",
-       "link": "https://www.hindustantimes.com/india-news/hijack-scare-on-air-india-vistara-flight-to-mumbai-before-takeoff-plane-moved-to-isolation-bay-kolkata-airport-101794378656962.html",
-       "publishedAt": "2026-11-11T12:18+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Hijack threat note found on Air India flight in Kolkata; passengers deboarded, plane moved to isolation b",
-       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTGxHcnU0empHZG1wUkswSUVENW1JNVN1ZEJvYktmUjFNZ1pKNEczRktNd1lPRXJ1MXJ2aVQ2aW90czNsclE3c0NERUZWUURMcjd1bUlLZGNNc2o5RnM3b19CeWZnTFpqZy1JeXlOY2tzSlV1a05vZ0lfcWFLNkdrMHVxNDJqbHJLT0dVNmR5aWdrLUJxOE1kZ1dMRzc3ZEJ1WG4yeTZ4RTduVDlabjNiWUh4dlpzQkVRY2xGZ25oNVJ5TV9rQlJJV1VGQlF3cFFfaUNmV0dGb3lSNkVkSF85UU9EU3VqdXdGUHBUYW4wWGhFYmNBM3pyVy1xMlJoa3hmUUdsTFdmd3dmT2Rw?oc=5",
-       "publishedAt": "2026-11-11T12:28+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Can Huang's position as CEO be challenged?",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/could-jensen-huangs-position-as-nvidia-ceo-be-challenged-what-the-companys-bylaws-say-china-spy-scandal/articleshow/135729888.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Fortune India",
-      "Indian Television Dot Com",
-      "NDTV",
-      "Reuters",
-      "The Economic Times",
-      "The Indian Express",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T14:18+05:30",
-     "score": 7.87,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135728869,imgsize-886460.cms",
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Can Huang's position as CEO be challenged?",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/could-jensen-huangs-position-as-nvidia-ceo-be-challenged-what-the-companys-bylaws-say-china-spy-scandal/articleshow/135729888.cms",
-       "publishedAt": "2026-11-11T14:18+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Advantage China? How Nvidia CEO's affair with Chinese spy Alice Huang could impact US",
-       "link": "https://timesofindia.indiatimes.com/world/us/advantage-china-how-nvidia-ceos-affair-with-chinese-spy-alice-huang-could-impact-us/articleshow/135728760.cms",
-       "publishedAt": "2026-11-11T12:44+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Nvidia CEO Jensen Huang Case LIVE Updates: Nvidia loses market cap crown to Microsoft amid Jensen Huang’s China spy scandal",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0dWdWZpVjZZMmRhdkNrWW0tZ2QwdXR4cnVoaVNZYS1RQldiakgyQXdLbXhUSkttVVdPRmY3M0NvdlB6d1FxS0t6YkNuWms1QWRDazNoSVpfVUFuZUZ0YnBIN3lLUzJZU1dTYnNzUFpDMHhkMHNHVGl5QzRiLU9DLVNYV3I1NkZqc2FQenJpY3JrVnNpZHBRRzNkSnBaN25GY0pScmZMWWpwYzVhNUF4S2VSUlBlVUpEcWxBR0EzSkNXQdIByAFBVV95cUxQTW45cVlOV08wcnIzRHcwR2VJNjNYb0NzUGFGOEM2bzVwSHB1UUhGOTBEUWxzby1acVJOVTBBRGJJZnk1a01HZ0JkM3ZxZ0JidHdRR1VTZzlUMEY3NUExQlpqaDRIUERieVBSNFBleFZmN0NVcWxzQjZrLThEM2ZjUDhJXzJQMjRCZlBscWR3SjBNMFY0YnBicVZFV25oVlJWdHdzYThGV3MxOFBWWTVsbkJneWJNMG4wYVZtMTJpZ2RaUjc3cHQ1RA?oc=5",
-       "publishedAt": "2026-11-11T12:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Got rid of her like garbage': Nepali-American man convicted of wife's murder in US",
-     "link": "https://timesofindia.indiatimes.com/world/us/got-rid-of-her-like-garbage-nepali-american-man-convicted-of-wifes-murder-in-us/articleshow/135726724.cms",
-     "source": "Times of India",
-     "sources": [
-      "CNN",
-      "India Today",
-      "The Indian Express",
-      "The Times of India",
-      "Times of India",
-      "WUSA9"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T10:55+05:30",
-     "score": 7.75,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135726844,imgsize-522154.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Got rid of her like garbage': Nepali-American man convicted of wife's murder in US",
-       "link": "https://timesofindia.indiatimes.com/world/us/got-rid-of-her-like-garbage-nepali-american-man-convicted-of-wifes-murder-in-us/articleshow/135726724.cms",
-       "publishedAt": "2026-11-11T10:55+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Got rid of her like garbage': Nepali-American man convicted of wife's murder in US",
-       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbGFZakEwZEthUTZrZlJEU3Z0M2c5QWRaZ0ZHcWFVWEV3NWM4WVYxQ3VyaUdDMmk5bW1kTFp2NHBzclpJUWM0MHo3ZHdtcmFBX2R5eFFoam9ZVEhzeTJ5MjN1QUFJX0IyWF9aUno3Ylh3UU5ITVhYaUVTZjkzMVFZTVRHS3dNeWFMQWxOeWN1bjhYMk9rZE9FRzhadjFfdW1HSTBkaE56UXJIY2xfaXNhb2d6dzJuX2sxWTg2cnd1S1JzaGJMRXZ5SXM0LWRmMFp2N1ZiU1g4V3RuYzNMOUJSeFZCWXA?oc=5",
-       "publishedAt": "2026-11-11T10:55+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Amul, Mother Dairy to hike milk prices by  ₹2-6 per litre from November 12",
-     "link": "https://www.hindustantimes.com/india-news/mother-dairy-set-to-hike-prices-by-2-4-per-liter-from-november-12-milk-price-increase-101794379159051.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "Rediff",
-      "Telegraph India",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T12:12+05:30",
-     "score": 7.67,
-     "summary": "New prices include ₹76 per litre for full cream, ₹62 for toned and ₹65 for cow milk, adding to household costs amid elevated food inflation.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/_b28354f2-1eeb-11ea-9a0d-a0e38c0c67e3_1794379272450_Vzs5_fc8b7896-9956-4cfd-8017-3b08ac343317_ud1T.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Amul, Mother Dairy to hike milk prices by  ₹2-6 per litre from November 12",
-       "link": "https://www.hindustantimes.com/india-news/mother-dairy-set-to-hike-prices-by-2-4-per-liter-from-november-12-milk-price-increase-101794379159051.html",
-       "publishedAt": "2026-11-11T12:12+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Mother Dairy raises milk prices by ₹2-4 per litre, effective November 12",
-       "link": "https://www.thehindu.com/business/mother-dairy-raises-milk-prices-by-2-4-per-litre-effective-november-12/article71688495.ece",
-       "publishedAt": "2026-11-11T11:50+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Mother Dairy, Amul hike milk rates by upto Rs 6 per litre from tomorrow; check prices",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/mother-dairy-milk-gets-costlier-dairy-giant-hikes-rate-by-rs-2-4-per-litre-from-thursday-check-prices/articleshow/135727078.cms",
-       "publishedAt": "2026-11-11T11:14+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Mother Dairy milk gets costlier: Dairy giant hikes rate by Rs 2-4 per litre from Thursday; check prices",
-       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSEZmdTV3R0Vhd0J6ZnoyRkI1WXprcXZlc29PMWYzNUUyYXhSQU1Tc3U1M1BMZXYyY2wtV2lpUlR6aTNUWTVQX0pDcFM3bG9rcEdPVnF2Y0dzRGpSeDNQc3lvMHdnY3ZmUk1HZUlYTHhQekVPWVR4N1FkSmVLMTlFZmlqWm5sZVR6SXFQZHhBV3VnVzI5Y0NnTjloeGNqNFhwNk1zbDk4X2NUbkRRZGpBRWtnbm95RFFwNHdVbUxZbnNNRnp5QUI5UTRNelpyT2hqcHZoeFpoc2t2N0FodmtHWmxJMUFvbEFqUUtSckdTbkZ4U2VscWRKdmVMc1I3NUNfNERXVk03MHZJYks1dlQ3WV9SUnFwQQ?oc=5",
-       "publishedAt": "2026-11-11T11:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Security Personnel Injured In Terror Attack On J&K CRPF Camp",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW9QUWp1Mk9nbHNIb3h1My1hcFJ0bHpMVlJWbUhqeXFBQXo3enRMN3dKcmJ2dnF1QzZuZmtQNkZreHZvV1R5NjNwTTlnT1JaSjBKcUU1QzRrdnRCRUlLUGY4cnYwUzA4RUtOWDlhRllLN1NhNDBSWUlwNmRGV3RtNFhlZDdrTGJ4VnNnVWtmR1VSbThZbnZGMXR1LXZEU01DUE15RnRNTnU2OF9fX1ZmZw?oc=5",
-     "source": "NDTV",
-     "sources": [
-      "Greater Kashmir",
-      "Hindustan Times",
-      "NDTV",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T14:45+05:30",
-     "score": 7.38,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Security Personnel Injured In Terror Attack On J&K CRPF Camp",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW9QUWp1Mk9nbHNIb3h1My1hcFJ0bHpMVlJWbUhqeXFBQXo3enRMN3dKcmJ2dnF1QzZuZmtQNkZreHZvV1R5NjNwTTlnT1JaSjBKcUU1QzRrdnRCRUlLUGY4cnYwUzA4RUtOWDlhRllLN1NhNDBSWUlwNmRGV3RtNFhlZDdrTGJ4VnNnVWtmR1VSbThZbnZGMXR1LXZEU01DUE15RnRNTnU2OF9fX1ZmZw?oc=5",
-       "publishedAt": "2026-11-11T14:45+05:30"
       }
      ]
     }
