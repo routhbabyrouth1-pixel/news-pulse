@@ -1,6 +1,159 @@
 {
- "updated": "2026-11-19T22:32+05:30",
+ "updated": "2026-11-19T23:24+05:30",
  "hours": [
+  {
+   "hour": "2026-11-19T23:00+05:30",
+   "generatedAt": "2026-11-19T23:24+05:30",
+   "feeds": 16,
+   "headlines": 290,
+   "stories": [
+    {
+     "title": "Odisha gears up for cyclone Akvan, shifts 3 lakh people to safety",
+     "link": "https://www.thehindu.com/news/national/odisha/odisha-gears-up-for-cyclone-akvan-shifts-3-lakh-people-to-safety/article71721296.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-19T22:58+05:30",
+     "score": 7.43,
+     "summary": "The severe cyclonic storm is likely to cross north Andhra Pradesh and south Odisha coasts close to Gopalpur, by noon of November 20 with the maximum sustained wind speed of 90-100 kmph gusting to 110 kmph, says IMD",
+     "image": "https://th-i.thgim.com/public/incoming/7p3ica/article71721528.ece/alternates/LANDSCAPE_1200/PTI11_19_2026_000200A.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Odisha gears up for cyclone Akvan, shifts 3 lakh people to safety",
+       "link": "https://www.thehindu.com/news/national/odisha/odisha-gears-up-for-cyclone-akvan-shifts-3-lakh-people-to-safety/article71721296.ece",
+       "publishedAt": "2026-11-19T22:58+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Odisha evacuates 1.05 lakh people ahead of Cyclone Akvan, deploys 295 rescue teams",
+       "link": "https://www.hindustantimes.com/india-news/odisha-evacuates-1-05-lakh-people-ahead-of-cyclone-akvan-deploys-295-rescue-teams-101795093029671.html",
+       "publishedAt": "2026-11-19T18:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
+     "source": "Forbes",
+     "sources": [
+      "BBC",
+      "Forbes",
+      "IGN",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-19T21:12+05:30",
+     "score": 7.13,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Forbes",
+       "title": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
+       "publishedAt": "2026-11-19T21:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'It is baffling': Gavaskar slams India's decision to leave Siraj out",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/it-is-baffling-sunil-gavaskar-slams-indias-decision-to-leave-mohammed-siraj-out/articleshow/135993193.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "Deccan Herald",
+      "Inshorts",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T19:07+05:30",
+     "score": 7.04,
+     "summary": "Sunil Gavaskar and Ravi Shastri criticised India's decision to leave Mohammed Siraj out of the first Test against New Zealand, questioning the selection despite his experience and consistent performances. Meanwhile, New Zealand recovered from 70/5 to finish Day 1 at 243/5, thanks to Henry Nicholls' unbeaten 113 and Glenn Phillips' 94, with Jasprit Bumrah taking three wickets.",
+     "image": "https://static.toiimg.com/photo/msid-135993919,imgsize-99549.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'It is baffling': Gavaskar slams India's decision to leave Siraj out",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/it-is-baffling-sunil-gavaskar-slams-indias-decision-to-leave-mohammed-siraj-out/articleshow/135993193.cms",
+       "publishedAt": "2026-11-19T19:07+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'It is baffling': Sunil Gavaskar slams India's decision to leave Mohammed Siraj out",
+       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRTg4bkNPRGdUS2pYVmcxV1pNdlJWS3hneXFZaFloSTRGanVvX0txb1RlMlFnd3EwMFpPQ3E3NFU1TzBEV0xvdjhkem01eVlCdkFGZENNak9xLU9UdDFTV09pcS1fWGlxaWdYdXpwZVFpZ0IzQ0xBTGVQaUhRVVR2RWVnTWxielNYRFZwWDNNckVIajh2LUpsNWFDbkxNb2o5RjNhZHRDSm5ydl92bWYxRmtoWjg5YjlRNFpCT3kxbVpNR1ZKRUU4eENoLXROUldtNm1kUENpQlBaWGdTSmhvLTBjdXZnZXpvam5VaURxd0JLUTDSAfgBQVVfeXFMT05yTTJBaXp2c2Y5dzNGOVpZVEY1LVY3WlZRRWpXSDU3cUY1bkVtTmtpTUxBUWhWZlhJM3RWTi1GMmZPVkM1SVRMZXJ3Q2FRa0RmdGo2VEtZNHFtY3FTZktISFpVbUVHblJMdW56UmFuWnNTSUxhMlVZa2JDT1NxQ2NBWlluWXlINW5HQmV5UGUwMEZPbWZfVXY3dmFDelBEZG54Z3FORkhXT19nbXFhd1VTQ3ZSU3ljZGhmN1R5ajNmU1VrY0ZGblAwUXF4Y2RRNTNyM1pYWXk0aE9KWS16TXBkYklSSzh5NXh1VXJuZlNtQzRrZ1dOb2g?oc=5",
+       "publishedAt": "2026-11-19T19:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Bring them back': To end terror, Shah pushes to hunt down fugitives hiding abroad",
+     "link": "https://timesofindia.indiatimes.com/india/bring-them-back-to-end-terror-amit-shah-pushes-to-hunt-down-fugitives-hiding-abroad/articleshow/135995196.cms",
+     "source": "Times of India",
+     "sources": [
+      "ET Government",
+      "The Hindu",
+      "The Shillong Times",
+      "The Times of India",
+      "Times of India",
+      "www.pib.gov.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T19:50+05:30",
+     "score": 6.91,
+     "summary": "Amit Shah emphasized the need for international cooperation in the fight against terrorism and organized crime, specifically calling for the return of offenders hiding abroad. He pointed out important milestones, such as the dismantling of the Popular Front of India network. The ongoing two-day Anti-Terror Conference aims to foster intelligence sharing and strengthen investigations, ultimately enhancing inter-agency…",
+     "image": "https://static.toiimg.com/photo/msid-135995323,imgsize-42250.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Bring them back': To end terror, Shah pushes to hunt down fugitives hiding abroad",
+       "link": "https://timesofindia.indiatimes.com/india/bring-them-back-to-end-terror-amit-shah-pushes-to-hunt-down-fugitives-hiding-abroad/articleshow/135995196.cms",
+       "publishedAt": "2026-11-19T19:50+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Bring them back': To end terror, Amit Shah pushes to hunt down fugitives hiding abroad",
+       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVjRNSmJKdWpESlEzaXF3Wl9qSThZMFJXTXNzdjd4Z2l2RFp1Q00yX25wTlo3NmVQQ0JtQy1hN3poR1NZZ21yRHpTZTNaR0s2YmE3dnRSVThRR2FMSmlkaWxhRnNELWQyNF9MN1B2MjdxNWJHMl81V0NxSzNjeGsyYjFiOHNNTUNQc0lYNHNwUFE5d2pGdGpkaDJiTVhHb3kxc293T1FDbHh6QTVUc2pZRGVnV3FMajJ5eE4zSkppT0dXVGZTV29NYjczOUlmR2h5bUdKdzFtMGRMbEJ6RTNIR0ZpczV4Zw?oc=5",
+       "publishedAt": "2026-11-19T19:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bingo at the Basin as India’s grip slips",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFFqYjlJbldhejZqdXlaQlBDZHc4QzRxd2pPc0hFZTJTVDVBc2tfNW9wb3ltTFhackZEUzVUcTFKR0FQaEswai1mbGJxYkJlZkdmQm0tTmVKLTRFTGdoYWNXTG0tV3hOUEVfR3Z2MnljVXg2QXV1WXg4dEZZRjhxSnpLdFl2MnFWNEU4cw?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "Cricket World",
+      "ICC",
+      "Rediff",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-19T19:14+05:30",
+     "score": 6.8,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "Bingo at the Basin as India’s grip slips",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFFqYjlJbldhejZqdXlaQlBDZHc4QzRxd2pPc0hFZTJTVDVBc2tfNW9wb3ltTFhackZEUzVUcTFKR0FQaEswai1mbGJxYkJlZkdmQm0tTmVKLTRFTGdoYWNXTG0tV3hOUEVfR3Z2MnljVXg2QXV1WXg4dEZZRjhxSnpLdFl2MnFWNEU4cw?oc=5",
+       "publishedAt": "2026-11-19T19:14+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-19T22:00+05:30",
    "generatedAt": "2026-11-19T22:32+05:30",
@@ -30162,188 +30315,6 @@
        "title": "'I wasn't in that dressing room': Joe Root reacts to Usman Khawaja's fresh Sandpapergate revelations",
        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOam5XejBTNUJmclJtdERHZ2VzQVJnZ1dWX3N2SEZna1ZYVldtdl9BUlkzVDBoVWJwbEVNb0h0MHM0YlkweGJCSFdhQTVuOVY2VnFDU1cxSmZvSTZtclpyMnF4bnJHQ2hDaV8yTk5OMHp4NVp4NmpfWDJiMy1xaWlSVG9NbDNJZWlHazg3RWh2TzBPSG9zSFVvYU5vUGM5WXJma3NQUHZjcWQyUmk2OUVKbktZYmE2ZC12SDF4Z3RXYWZJODhFOXZhZ012eDhwVl9KdkFFWU1ndW1hR0Nxc29GV000M2U0MmcwNkV2V0Y1SThDZWZTVElDLXZHTGJoRXFyX0JUNXBHdzXSAY4CQVVfeXFMTmFoYUJ0VWx4TVJrVGU2Sm1Oa01nV2lKcjJ3LWZyZVhvX3BYVnBFV0wyNzh4a2EtNG5wOTNITzh2QzM2SUVIVURYZzlZYU9SelJ1YXRTLVYxdHB0Z3U4Z3UycjhCVUlwMnBvemRPSEotR2xkZVhiRDBJQl9PaDBnME1QQ1BoQjBBLVYyN19JZHlOTExhTTM2TUtLekR1VlpwQWY0LXFfc2dGZmx5bWNyWnItSzFWYm1OTHUzVXVpSVYyb3RQTnVVMjdvR1kxbFpRZHlzbDdib1doMkdLb1NOSFVBSnhrM21WdFgyRGdFbFdKTmdKdkpzMVYzSEJzUl9CMkVZUVBNUUdjekZxc0JB?oc=5",
        "publishedAt": "2026-11-11T21:34+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-12T00:00+05:30",
-   "generatedAt": "2026-11-12T00:23+05:30",
-   "feeds": 16,
-   "headlines": 278,
-   "stories": [
-    {
-     "title": "Tata Power appoints Sanjay Banga as CEO & MD-designate; approves ₹11,871-cr pumped storage project",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOWJwZDhKSFE2VnZOcE1ucjJKS0JfS2xxZExfdG9rRHlVLU9ENy15VldQdGxHdmxoWGdCdGNINEtkQktJVWtfQVJYLUZObFlmM1NjNXVPbXcwWXJCSTdmUjNwWnBPaThVQWg3WXBQZGVYUk9SQXQ1SVEzV2NPNERQLVdFdnotU3pKQ216c25hekhkMXM3aVR4MjdibGpVZmRKUTB2SjZpdzVncjFRMzhheGtrSVZLWkFSLUZ3VDlXV2pOZkZ3OHFId2x0TTMyUkk5aU15elZGWEJtSG5jdjB4MDZGSV9rU01STWhlMzVUYmp2d9IB-AFBVV95cUxOTXNlNk9WTmhqX1RaV3RZaDlLWTRiWktpTkM4eHAyNnFZNHdoaVdZbWhkX2tMd1NHZUcwQmMwc0pKUjRyS1FJemFxMk51Z1BjUmg0Y2FTdjFtWV8xQ25hQ2tDczZkMzJPVXh1WmFOQ1JMRTZpbUt4Tk03SlFselkwTEJ2dWtoYnA0cFBmY0ZldFJibHZNWVdyYlF4NlNKbnVPakRPOTdkaWxLbUthSVdwM09acEtXdU9jTnNPS1Rvdll0cERnUW03WHgtUTl4eXVWV2ZSSHZTX1czOUlXblE0d3h4RlkzV1BoTnBnblVwYmIyemlmOWdtOQ?oc=5",
-     "source": "BusinessLine",
-     "sources": [
-      "BusinessLine",
-      "ET EnergyWorld",
-      "Investing.com India",
-      "Livemint",
-      "Moneycontrol.com",
-      "Reuters",
-      "The Economic Times",
-      "The Hindu",
-      "TradingView"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-11T19:46+05:30",
-     "score": 9.4,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "BusinessLine",
-       "title": "Tata Power appoints Sanjay Banga as CEO & MD-designate; approves ₹11,871-cr pumped storage project",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOWJwZDhKSFE2VnZOcE1ucjJKS0JfS2xxZExfdG9rRHlVLU9ENy15VldQdGxHdmxoWGdCdGNINEtkQktJVWtfQVJYLUZObFlmM1NjNXVPbXcwWXJCSTdmUjNwWnBPaThVQWg3WXBQZGVYUk9SQXQ1SVEzV2NPNERQLVdFdnotU3pKQ216c25hekhkMXM3aVR4MjdibGpVZmRKUTB2SjZpdzVncjFRMzhheGtrSVZLWkFSLUZ3VDlXV2pOZkZ3OHFId2x0TTMyUkk5aU15elZGWEJtSG5jdjB4MDZGSV9rU01STWhlMzVUYmp2d9IB-AFBVV95cUxOTXNlNk9WTmhqX1RaV3RZaDlLWTRiWktpTkM4eHAyNnFZNHdoaVdZbWhkX2tMd1NHZUcwQmMwc0pKUjRyS1FJemFxMk51Z1BjUmg0Y2FTdjFtWV8xQ25hQ2tDczZkMzJPVXh1WmFOQ1JMRTZpbUt4Tk03SlFselkwTEJ2dWtoYnA0cFBmY0ZldFJibHZNWVdyYlF4NlNKbnVPakRPOTdkaWxLbUthSVdwM09acEtXdU9jTnNPS1Rvdll0cERnUW03WHgtUTl4eXVWV2ZSSHZTX1czOUlXblE0d3h4RlkzV1BoTnBnblVwYmIyemlmOWdtOQ?oc=5",
-       "publishedAt": "2026-11-11T19:46+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "India's Tata Power names Sanjay Banga as CEO, posts Q2 profit jump",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEluQVg2T19WenBnMFNsbzc1bmRESVZCWlZwb3F3Tk9HT3lScFVOQmZkeTB1TVdKY1drYklnX1B6RkdURFpHQlBCTzBrTEhtY0NOXzR1cmFYbU85c2xJYjRoblIxbENsU2RXZk92ejhDTVBWT3JmcTR3Q2YweWN1OEFpSm1QOVZsOGpFWUpOVm9hQUdrOVFHU0t0cHNSV0FsZnpnMkJCeUxzRWJWRFhzY3lzRXBhd21EV0hBUmtQMkp0UQ?oc=5",
-       "publishedAt": "2026-11-11T19:33+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India simplifies visa norms; categories cut, forms to be 70% leaner",
-     "link": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Bloomberg.com",
-      "NDTV",
-      "Telegraph India",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T21:52+05:30",
-     "score": 8.08,
-     "summary": "Tourist visa renamed ‘visitor visa ’, which will have two sub-categories, V-1 and V-2, so that applicants can select a visa suited to the nature and duration of their proposed visit; special provision for subject-matter experts introduced",
-     "image": "https://th-i.thgim.com/public/news/national/565njc/article71690688.ece/alternates/LANDSCAPE_1200/iStock-486918368.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "India simplifies visa norms; categories cut, forms to be 70% leaner",
-       "link": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
-       "publishedAt": "2026-11-11T21:52+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Centre simplifies visa regime: Paperwork cut by 70%, categories reduced from 13 to 9",
-       "link": "https://timesofindia.indiatimes.com/india/centre-simplifies-visa-regime-paperwork-cut-by-70-categories-reduced-from-13-to-9/articleshow/135741142.cms",
-       "publishedAt": "2026-11-11T20:40+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "India simplifies its visa processing facilities",
-       "link": "https://economictimes.indiatimes.com/industry/services/travel/centre-cuts-visa-categories-from-13-to-9-reduces-application-form-fields-by-up-to-70/articleshow/135740791.cms",
-       "publishedAt": "2026-11-11T20:07+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
-     "link": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "CNN",
-      "NDTV",
-      "News18",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T23:43+05:30",
-     "score": 7.39,
-     "summary": "Moscow announces the veteran diplomat's sudden passing without further details.",
-     "image": "https://c.ndtvimg.com/2025-02/7rvafbc8_alexander-darchiev_625x300_28_February_25.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
-       "link": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
-       "publishedAt": "2026-11-11T23:43+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Russia's Ambassador To US Alexander Darchiev Dies \"Suddenly\" At 66: Moscow",
-       "link": "https://www.ndtv.com/world-news/russias-ambassador-to-us-alexander-darchiev-dies-at-66-12314333#publisher=newsstand",
-       "publishedAt": "2026-11-11T23:31+05:30"
-      },
-      {
-       "source": "News18",
-       "title": "Alexander Darchiev, Russia's Ambassador To US, Dies 'Suddenly' At 66",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTQ3VjV2U3NGV1ZYdWdGVXoxTXJuRVdodm5HallxQXVSYUhFcHZaTV9uVDdZS0ZobVdyRHBJbUc4dVRpV2hHa0ROdHVITFNuOUU3VGwtR1lBenJmTkJfSTF5NlMybWJBZVhCQktQVE5KRWdwSE9SU0ZYdEhmVUduc1R6N2FiX09zOFJYSDFOMFlhWHRwbmExa2dVWDVUSnRYTzdz0gGoAUFVX3lxTE5zbXpta2RZWGttenYtcExjSnVPbFQ2R1hId0d4NUFFWlhnZGFhc0dhM2Y0R1Q0eXhsUkJQeGI1bTBMeVQza0o1bDJNZE1oclRxR0hBWVZBdG9yeE1yUllOSVgwSDJXczZ5Tk9DWGRVWnRySzZiSXFYSU1uaFBGYmpNWUU4anluTTdQYUhmUUpVdF9BVmIwS3ZreVdva2VaOEhGZEtaX1BBcg?oc=5",
-       "publishedAt": "2026-11-11T22:43+05:30"
-      }
-     ]
-    },
-    {
-     "title": "2 J&K Special Police Officers On Patrolling Duty Go Missing, Search On",
-     "link": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-on-patrolling-duty-go-missing-search-on-12314416#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "India Today",
-      "NDTV",
-      "The Indian Express",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T23:42+05:30",
-     "score": 7.39,
-     "summary": "A joint search operation was launched by police and security forces in the area to look for them.",
-     "image": "https://c.ndtvimg.com/2026-11/0k3t90io_rashpal-kumar-jk-spo_625x300_11_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "2 J&K Special Police Officers On Patrolling Duty Go Missing, Search On",
-       "link": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-on-patrolling-duty-go-missing-search-on-12314416#publisher=newsstand",
-       "publishedAt": "2026-11-11T23:42+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Two spl police officers reported missing in J&K's Kishtwar; search op launched",
-       "link": "https://timesofindia.indiatimes.com/india/two-police-officers-reported-missing-in-jks-kishtwar-search-op-launched/articleshow/135744807.cms",
-       "publishedAt": "2026-11-11T22:40+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Two Special Police Officers reported missing in J&K's Kishtwar; search op launched",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdEFibXFoQjZ2R2RMT2w4Mk50RXZSeUFybkxlb3p4UnREUzllUzQzNjdVR05DaUtocm13QXk4bndWYUt2bVJDYWNsN1FPWVBSa0lrQ1JxUVdKS00wU09yNkNtNG1lNllrYUVYMmNUbWIwN2pFX2xjNmdIbE5vMVVyRmpYdE1icnZWNG4yMFUwSVFEMU9RYW9CbHhNVnhBUENUczRYVkR6a3RSWENXbmJNSFVmWlBTc0MydlNWU052d2ZQa2tvN3hkQ1F2OWVkY3lTVWdKNDJR?oc=5",
-       "publishedAt": "2026-11-11T22:40+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Definitely long term': Ness Wadia on Hardik Pandya's PBKS move",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTFHN09NTElTX3FXd1MzVGNRUnMxalUycE5DNF80ZTVOTkpBUzNLTDRKSkxHM0RtY0Z4TWxFTDVjY1N4SVozQ2dPNDRza0FmaG5UeWJWYnpKazJPcXJuN1lRdWFGMFI0V2tLdUJWRjIwMTVxSEtzZm1jNUVhc1JjOVhHcm1Bd2UwSjU5Mk1JZnRobUJGdzV5VUlnYzA4aU5mNVhwcVk5OA?oc=5",
-     "source": "Cricbuzz",
-     "sources": [
-      "Cricbuzz",
-      "IPL",
-      "Mumbai Indians | Official website",
-      "The Times of India",
-      "ThePrint"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T23:32+05:30",
-     "score": 7.36,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricbuzz",
-       "title": "'Definitely long term': Ness Wadia on Hardik Pandya's PBKS move",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTFHN09NTElTX3FXd1MzVGNRUnMxalUycE5DNF80ZTVOTkpBUzNLTDRKSkxHM0RtY0Z4TWxFTDVjY1N4SVozQ2dPNDRza0FmaG5UeWJWYnpKazJPcXJuN1lRdWFGMFI0V2tLdUJWRjIwMTVxSEtzZm1jNUVhc1JjOVhHcm1Bd2UwSjU5Mk1JZnRobUJGdzV5VUlnYzA4aU5mNVhwcVk5OA?oc=5",
-       "publishedAt": "2026-11-11T23:32+05:30"
       }
      ]
     }
