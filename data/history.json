@@ -1,6 +1,195 @@
 {
- "updated": "2026-11-19T18:40+05:30",
+ "updated": "2026-11-19T20:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-19T20:00+05:30",
+   "generatedAt": "2026-11-19T20:22+05:30",
+   "feeds": 15,
+   "headlines": 325,
+   "stories": [
+    {
+     "title": "GTA VI release: Grand Theft Auto boss Strauss Zelnick doesn’t play video games, drink, smoke or own a gun",
+     "link": "https://www.livemint.com/news/trends/gta-vi-release-grand-theft-auto-boss-strauss-zelnick-doesn-t-play-video-games-drink-smoke-or-own-a-gun-11795080577510.html",
+     "source": "Mint",
+     "sources": [
+      "GAMINGbible",
+      "IGN",
+      "Mashable",
+      "Mint",
+      "PCMag",
+      "Red Bull",
+      "SVG",
+      "The Guardian",
+      "The Times of India",
+      "The Verge"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-19T19:00+05:30",
+     "score": 10.92,
+     "summary": "Strauss Zelnick says watching others play gives him a broad view of games, though he does not hold the controller.&nbsp;",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/GTA_VI_1795081345305_BJvn_1795081356910_ItP2_bdc066f9-7404-4b69-8ff2-ad8d49c8b5e8_FGaU.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "GTA VI release: Grand Theft Auto boss Strauss Zelnick doesn’t play video games, drink, smoke or own a gun",
+       "link": "https://www.livemint.com/news/trends/gta-vi-release-grand-theft-auto-boss-strauss-zelnick-doesn-t-play-video-games-drink-smoke-or-own-a-gun-11795080577510.html",
+       "publishedAt": "2026-11-19T15:13+05:30"
+      },
+      {
+       "source": "Mashable",
+       "title": "'GTA 6' on PC: What we know about the PC release",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMVl1NzVTX2JPWXB4WlhNMlNaQlQtVTk1Z2JBVUtHcTc5OXJrbmNVY29yN0lfcC1GSEM5Q2c0YUl4a0FGTjVGRDVuUGtyUlVuaEV5V3M5WjRiZUpMd195ME1WY0Z6Zw?oc=5",
+       "publishedAt": "2026-11-19T19:00+05:30"
+      },
+      {
+       "source": "Red Bull",
+       "title": "GTA 6 launch updates: Patch sizes, versions and release dates",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nenNmQW8tMGJxbm1UZ1JQeEthQWtaXzBjYlQyVWRHR29KWUVDLXZwV0Z4MUxoVEs3VXhUcTc3RmQySlZvMWVCVTRkdjRSYVVrbi10SU1mNUpOTi1aNDJrTjd2a2xKQQ?oc=5",
+       "publishedAt": "2026-11-19T17:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "China, Russia and US agree on UN reforms",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/china-and-russia-say-they-and-us-agree-on-un-reforms-boosting-fuel-supplies-dialogue-on-nuclear/articleshow/135990514.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "The Economic Times",
+      "The Economist",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-19T18:14+05:30",
+     "score": 9.14,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "China, Russia and US agree on UN reforms",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/china-and-russia-say-they-and-us-agree-on-un-reforms-boosting-fuel-supplies-dialogue-on-nuclear/articleshow/135990514.cms",
+       "publishedAt": "2026-11-19T18:14+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Putin says US-China-Russia can strengthen global stability",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
+       "publishedAt": "2026-11-19T16:52+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S., China, Russia hold historic summit in Shenzhen",
+       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQ1R1em5uRXg4U2xmMlRUbDVqVHVra1U0bUZucGgxX3dMN2JMYU5YazlFc3NMcjU3OExLUkRJbUxVSXpSTU54NFFVakxyNFotWUM3M25uck42RW1xS3JNbDI0TG1HQVlLYWNkNVF3Z3JQWTJBZEp2QWNjWEVLcFVIUVJ2R1Z6Nk92bm9nYV9PTmVEMk5QUGhuQ3NRVjZmNFl1Smh1NDgzdDRjNG1sQ0tQWHpYNDV5aWxfcGNiZXNDZ2tVQTQ5dEpGMUZSc2hQYnlKSWd6YTJxMzloN1Z5WWxtNzZrWTY1SkJ2elFDRVo0SmE0X2E0eG9aS3RkSWwyTld3U3fSAYgCQVVfeXFMT25ZOENvLTF1X012b0txbF82bmc4UjhSM1J0dXVnY1NBR09HeklkWTBwYUJ2UV9IRDByck4yVVNsUTA2S19XWi02OGFDOWNubGpzZ2tNQUFUQUlJVlpRa0s0cnJqYkx2czBUMVhnaWFTUlJlOFFJU21WZG8tTXZMZmhvN3lyaXhrZlQ3S0VPc0hJZFhlUEd6bHJRV3ZWajljY1JhS2R5d3NvSTlyTjU2V05iazBRVHBzbVUxQ1dZd3FNNlI2aHhFLVJHU21JaHdzVHdjcFh1eEdqbzZVNHZUMWZZcDFMV2NJaWZnVnFMWjk0VDBaaGxYWUdtQzlIXzIyMFE5ekNUbkJu?oc=5",
+       "publishedAt": "2026-11-19T17:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "EPFO relaxes withdrawal norms; lowers minimum balance requirement to 10%",
+     "link": "https://www.thehindu.com/news/national/cbt-approves-introduction-of-systematic-withdrawal-plan-swp-for-epf-members/article71719969.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Scroll.in",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T20:10+05:30",
+     "score": 7.47,
+     "summary": "SWP will enable members to convert their savings into a predictable stream of systematic withdrawals post-retirement, while preserving ownership of the underlying corpus, says the Labour Ministry",
+     "image": "https://th-i.thgim.com/public/incoming/5wt0e6/article71720104.ece/alternates/LANDSCAPE_1200/TH18-Jigeesh-NoG99GQM1MB.3.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "EPFO relaxes withdrawal norms; lowers minimum balance requirement to 10%",
+       "link": "https://www.thehindu.com/news/national/cbt-approves-introduction-of-systematic-withdrawal-plan-swp-for-epf-members/article71719969.ece",
+       "publishedAt": "2026-11-19T20:10+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "EPFO board approves cut in minimum PF balance requirement to 10% from 25%",
+       "link": "https://www.hindustantimes.com/india-news/epfo-board-approves-cut-in-minimum-pf-balance-requirement-to-10-per-cent-from-25-101795080134154.html",
+       "publishedAt": "2026-11-19T14:55+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "EPFO approves SWP for retirees to withdraw PF savings in regular instalments; relaxes minimum balance to",
+       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNU3I4WWJ3eTVlYTUwS0pvaUlxTnVGUEZCNjFhM1B4bzgwMGFHVUdBR1lWWDhzUEN1c3RZUGtTMEp6N21BaHlTem9JRFVVclBzVmlIaGZ5RnRReTB6MnBwbEl0dW54YXB4emNmc1JOMlkxWTB0NzBWdUlhdGxaNnc4d2VPZGx2d2prck55alRPWkZzNEdiUmhaQjRvNm1ibEpTSkwyT054Y29MaXRSMnE5ZElEM1RJY3pseVFqMXdSSi03OFpPS3BuYmgwUmZhZXJxYW00dnpDcEZteXFRM1B2VXRrSl9vdlZXVzFEUVh0RUEyS1RMdFMwenVEY2FlX1AwVnpYRG4zZ3dCNzNRdUFqVS1DNlk?oc=5",
+       "publishedAt": "2026-11-19T14:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
+     "link": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
+     "source": "The Guardian",
+     "sources": [
+      "BBC",
+      "CNN",
+      "The Guardian",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-19T18:07+05:30",
+     "score": 7.12,
+     "summary": "The three leaders spoke about international peace and nuclear weapons as Trump called Putin a ‘friend’. Plus, yes, GTA VI is really finally here, and the critics have their verdict: masterpiece Don’t already get First Thing in your inbox? Sign up here Good morning. Donald Trump has met Vladimir Putin and Xi Jinping at the Apec summit in Shenzhen, and said the three leaders were “really making history”. The…",
+     "image": "https://i.guim.co.uk/img/media/fe3fd3648dd9414ddf04cdd936e7a16097507170/200_0_1799_1440/master/1799.jpg?width=140&quality=85&auto=format&fit=max&s=031d263340a375170cd91fe1d2133923",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
+       "link": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
+       "publishedAt": "2026-11-19T18:01+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Who is he?' Trump jokes with Putin ahead of historic trilateral meeting with Xi",
+       "link": "https://timesofindia.indiatimes.com/world/us/who-is-he-trump-jokes-with-putin-ahead-of-historic-trilateral-meeting-with-xi/articleshow/135988198.cms",
+       "publishedAt": "2026-11-19T17:08+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Xi-Trump-Putin trilateral meeting highlights: Xi-Trump-Putin summit in China ends; major powers must not touch each other's bottom lines on sensitive issues, says Xi",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTER4cFc2cEpRbmd1aWp0X1pkR3oxTEFUdHNKRnRSTDU2QXdTd21yOElQbWp1dzBqTVRLUUE5NS1DSXQydmEzOHlLdGtjczNYTTQyY2J0MjNQY0xPcG1LNzF2N0xSa01jV3BpX21FRzFZaXd4c2VnaUQxaGhMNHplUUlFYkRqTmcyTlR1dHhlb1Qwem54QmNZVFlxeGdhSmU1Z1k1TUE2dkZsTlFTYnVGUFN0NDZhZVhlSWt4LUZlQnFsQ2M2RTJlYnlaVnFsTWVIMU9nM0JMNjV3YjRTMW1zb203aEswWFoyTEJwTkNFWUE0ODYyVmc?oc=5",
+       "publishedAt": "2026-11-19T18:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Grand Theft Auto 6 released after 13-year wait for gamers around the world - follow live",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
+     "source": "BBC",
+     "sources": [
+      "BBC",
+      "Financial Times",
+      "Rockstar Games",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-19T17:46+05:30",
+     "score": 7.07,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BBC",
+       "title": "Grand Theft Auto 6 released after 13-year wait for gamers around the world - follow live",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
+       "publishedAt": "2026-11-19T17:46+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-19T18:00+05:30",
    "generatedAt": "2026-11-19T18:40+05:30",
@@ -30174,184 +30363,6 @@
        "title": "4 coaches of Chauri Chaura Express derail at Kanpur Central station",
        "link": "https://timesofindia.indiatimes.com/city/kanpur/3-coaches-of-chauri-chaura-express-derail-at-kanpur-central-station/articleshow/135737153.cms",
        "publishedAt": "2026-11-11T17:49+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T21:00+05:30",
-   "generatedAt": "2026-11-11T21:20+05:30",
-   "feeds": 16,
-   "headlines": 337,
-   "stories": [
-    {
-     "title": "Centre Approves Rs 3,230-Crore Yuge Yugeen Bharat Museum Development",
-     "link": "https://www.ndtv.com/india-news/centre-approves-rs-3-230-crore-yuge-yugeen-bharat-museum-development-12313655#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "BusinessLine",
-      "Free Malaysia Today",
-      "Hindustan Times",
-      "Moneycontrol.com",
-      "NDTV",
-      "The Hindu",
-      "The Indian Express",
-      "The New Indian Express",
-      "ThePrint"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-11T20:13+05:30",
-     "score": 10.03,
-     "summary": "It is envisaged as a landmark museum showcasing the continuity, diversity and richness of India's rich civilisational legacy through an integrated narrative of its tangible and intangible cultural heritage, according to officials.",
-     "image": "https://c.ndtvimg.com/2026-11/8mfa0vrc_yuge-yugeen_625x300_11_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Centre Approves Rs 3,230-Crore Yuge Yugeen Bharat Museum Development",
-       "link": "https://www.ndtv.com/india-news/centre-approves-rs-3-230-crore-yuge-yugeen-bharat-museum-development-12313655#publisher=newsstand",
-       "publishedAt": "2026-11-11T20:13+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Union Cabinet approves  ₹3,230 crore for Yuge Yugeen Bharat National Museum",
-       "link": "https://www.hindustantimes.com/india-news/union-cabinet-approves-3-230-crore-for-yuge-yugeen-bharat-national-museum-101794391612090.html",
-       "publishedAt": "2026-11-11T15:36+05:30"
-      },
-      {
-       "source": "Moneycontrol.com",
-       "title": "'Bigger than Louvre': All about the Yuge Yugeen Bharat Museum cleared by Cabinet",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaFFtZnBCeWkxYlF1Ykh1SHRRbVJXTmdsYmdaVzFmeUF2akx5d0czNnB1R0x0X2ZxOHl6Z1Y2a3ZVM3hQdjRKWjJZVTlTdXRsME91Y0JfOUlQRndFNzFKNTB2Vl9pRzlUcTRMS0NRZWR6VGhIU2lidjNpcFBCczN3eGdYV1BkQmxYc0RDYi12ek9rVG5KbDVyVVM1TmUxaVNNN3pXY3IzUUNNZG53dWV4Z0FWR0JtdXkwX09JVEdSOUxEOVdwRHVrd2oyRdIB0AFBVV95cUxPWmhya0tMRTdhVGE3MHAyTGdfYm4xQVBYR0xQUGVZaGxnS0NPX2FQMlp3bVQ0bHFxRWZ1bGhlTUxBVXR1RTFiUHJkT1hBQV9EWjUwQy1KZTFUay1SR1RkMUdCUVdqOHlXVU9VdlBPVGpUU2Q3eVVFWG9Ib0ZYUHpGMW94QTlzVm9qa0xTY01IOGtnYl9YdHpzdklPY2VJM0E1ZHZIa1ZWMXEwVGVKWEoxNkpkTzJReXpSVzZnU0ZLTHE1ZEpERWdmdjc1NDkxT1Ba?oc=5",
-       "publishedAt": "2026-11-11T15:27+05:30"
-      }
-     ]
-    },
-    {
-     "title": "What time does GTA 6 launch in the UAE? Release date, price and how to preload",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWNKTEV1czZQMndhN0k3blh2cWE0WUE2YURlOGJiVHpZcXd0V0JlNlJGeEtleEhROHVZYkpzd29kQmVKR2huNmNPUEkzSmVYV0lyeU5EV0JYLXY3QUJsdG0yV18xZlZQa1lXV19UWnpHMnhNUG82a0J5bjdSbVluVXREMWZ1dllnNnBpLWxNTklqWEdpTjNTZ1dxdjdyYnRGbXZhdjlJVGNkZzE1dmZEbDFqejlHampYaXhFeGoyTl9OdHFXWi1OcnlrQ3JoMDJqcHlJUk1uODhZdWEyVWc?oc=5",
-     "source": "The National",
-     "sources": [
-      "PlayStation.Blog",
-      "Rockstar Games",
-      "The Economic Times",
-      "The National",
-      "The Times of India",
-      "XBOX Wire"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T18:48+05:30",
-     "score": 8.08,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The National",
-       "title": "What time does GTA 6 launch in the UAE? Release date, price and how to preload",
-       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWNKTEV1czZQMndhN0k3blh2cWE0WUE2YURlOGJiVHpZcXd0V0JlNlJGeEtleEhROHVZYkpzd29kQmVKR2huNmNPUEkzSmVYV0lyeU5EV0JYLXY3QUJsdG0yV18xZlZQa1lXV19UWnpHMnhNUG82a0J5bjdSbVluVXREMWZ1dllnNnBpLWxNTklqWEdpTjNTZ1dxdjdyYnRGbXZhdjlJVGNkZzE1dmZEbDFqejlHampYaXhFeGoyTl9OdHFXWi1OcnlrQ3JoMDJqcHlJUk1uODhZdWEyVWc?oc=5",
-       "publishedAt": "2026-11-11T18:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
-     "link": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "CNN",
-      "Euronews.com",
-      "Reuters",
-      "The Guardian",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T18:46+05:30",
-     "score": 8.07,
-     "summary": "The talks in the UAE capital were the first ⁠between the two warring sides since February.",
-     "image": null,
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
-       "link": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
-       "publishedAt": "2026-11-11T18:46+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Russia, Ukraine agree to major prisoner swap after U.S.-brokered talks in Abu Dhabi",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHp5LXpzTm9yVFVHQ0pfWTh6UzExNC01OTEtZHBUS1dPZzM4ejZDa24zU2s3a3A2V3EwR1o4SFkxMkFCcTRkV1U4TGFxaDUtZVVoU3VBbkhRcU4yNnIydGp2ekJmMkZQcUF3U3JvNVVtMzRNTVZBVUVELXNIaFdYRHpqRUhtTEtCUlRXcl9pU0lhODVubnZkM2g1RkE0ZVJCT0VDcWZndUt2eGtUZExycFlpWkZFamJYYkhmQzNWQdIBxgFBVV95cUxNVFRBMFRxd3VMRGpyMWwxYXdnYkpsY2pNSG5vN0lmNGIwOXV5Y3ltbjdlR3RvWVpWcjl4d3RCSG1IUEtmV3ZWVURWdURFc2k3OThFczBHNmJqa1RaQWsyV1U1Y2hKZkN2ajdiNFUycWVHcngyUk10X1c1VTJaQUxXd2lLTFlCd2s1WXI1bFk5NTRGNFozUk5GRTBXXy1UU05vXy0zc0dPOC1UUEtQM3JpX2VNR1NId0tZRTAtQkFBMks0LWFsLVE?oc=5",
-       "publishedAt": "2026-11-11T16:21+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Ladakh bans protests ahead of polls: Wangchuk warns of fresh agitation against elections",
-     "link": "https://timesofindia.indiatimes.com/india/ladakh-bans-protests-ahead-of-polls-sonam-wangchuk-warns-of-fresh-agitation-against-elections/articleshow/135734705.cms",
-     "source": "Times of India",
-     "sources": [
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "ThePrint",
-      "TheWire.in",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T16:42+05:30",
-     "score": 7.38,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135735086,imgsize-98462.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Ladakh bans protests ahead of polls: Wangchuk warns of fresh agitation against elections",
-       "link": "https://timesofindia.indiatimes.com/india/ladakh-bans-protests-ahead-of-polls-sonam-wangchuk-warns-of-fresh-agitation-against-elections/articleshow/135734705.cms",
-       "publishedAt": "2026-11-11T16:42+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Ladakh bans protest ahead of polls",
-       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/elections-authorities-ban-dharnas-protests-in-leh-kargil-ahead-of-polls/articleshow/135734552.cms",
-       "publishedAt": "2026-11-11T16:31+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Ladakh bans protests ahead of polls: Sonam Wangchuk warns of fresh agitation against elections",
-       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd3RObHBZa2xKMFVldmRYRHdWdnNjSnFsT2V5V0ZqMC1kLUlmeUF0Wnp1WjFUal91RmxXNEl3VXdaUHg3cTZKWkZOSUhOWVNianc4elQ1cnJ6VHl4akhNbW9aMTFKZ2w1YnZlVU1PVnBrT1BSTXhySWZXV0dlRUpUQkpkU1h3RzEzZTFHSVg3Q1V4WlpiczNqRkFsYzNLQzc0b0VCdndfYzBqR3A4R1Q2M1pGZ2hiSDM0N3ItR3FyVDVWTWdWb2kzMF8zRl9ldG0xdEtDNmludVAxQkRETTZoLVU2ZlZCOTl4R25jQk5BTU1qd00?oc=5",
-       "publishedAt": "2026-11-11T16:42+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cabinet clears  ₹2,390-crore Noida Metro extension; Blue, Aqua lines get new link",
-     "link": "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "Metro Rail News",
-      "NDTV",
-      "PM India",
-      "The Economic Times",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T19:37+05:30",
-     "score": 7.09,
-     "summary": "PM Modi said the extension will improve access to “offices, schools, hospitals and commercial hubs”, ease congestion and lead to shorter commute time.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/aqua_line_1794395765192_FrQG_1794395765327_6eQU_1b8d2409-ffc5-4eef-9e7c-dbb7cf4fa6bc_q6xb.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Cabinet clears  ₹2,390-crore Noida Metro extension; Blue, Aqua lines get new link",
-       "link": "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html",
-       "publishedAt": "2026-11-11T16:28+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Noida-Greater Noida Metro gets ₹2,390 crore boost",
-       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/noida-to-greater-noida-west-metro-gets-rs-2390-crore-boost-8-5-km-aqua-line-extension-to-have-five-new-stations-check-route-interchange-completion-timeline/articleshow/135732651.cms",
-       "publishedAt": "2026-11-11T15:20+05:30"
       }
      ]
     }
