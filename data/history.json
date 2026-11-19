@@ -1,6 +1,167 @@
 {
- "updated": "2026-11-19T21:27+05:30",
+ "updated": "2026-11-19T22:32+05:30",
  "hours": [
+  {
+   "hour": "2026-11-19T22:00+05:30",
+   "generatedAt": "2026-11-19T22:32+05:30",
+   "feeds": 16,
+   "headlines": 293,
+   "stories": [
+    {
+     "title": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
+     "source": "Forbes",
+     "sources": [
+      "BBC",
+      "Forbes",
+      "Rockstar Games",
+      "Take-Two Interactive Software, Inc.",
+      "The Guardian",
+      "The Verge"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T21:12+05:30",
+     "score": 8.28,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Forbes",
+       "title": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
+       "publishedAt": "2026-11-19T21:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
+     "link": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "Axios",
+      "NDTV",
+      "The Economist",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T21:05+05:30",
+     "score": 8.26,
+     "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the description of “historic”. But in terms of tangible outcomes, it is unlikely to warrant the “new page in the history of diplomacy” that Vladimir Putin claimed…",
+     "image": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/1173_38_6573_5258/master/6573.jpg?width=140&quality=85&auto=format&fit=max&s=ff26b505997ed52268622211444bed41",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
+       "link": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+       "publishedAt": "2026-11-19T21:05+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways",
+       "link": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss",
+       "publishedAt": "2026-11-19T18:43+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Xi-Trump-Putin trilateral meeting highlights: Xi-Trump-Putin summit in China ends; major powers must not touch each other's bottom lines on sensitive issues, says Xi",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTER4cFc2cEpRbmd1aWp0X1pkR3oxTEFUdHNKRnRSTDU2QXdTd21yOElQbWp1dzBqTVRLUUE5NS1DSXQydmEzOHlLdGtjczNYTTQyY2J0MjNQY0xPcG1LNzF2N0xSa01jV3BpX21FRzFZaXd4c2VnaUQxaGhMNHplUUlFYkRqTmcyTlR1dHhlb1Qwem54QmNZVFlxeGdhSmU1Z1k1TUE2dkZsTlFTYnVGUFN0NDZhZVhlSWt4LUZlQnFsQ2M2RTJlYnlaVnFsTWVIMU9nM0JMNjV3YjRTMW1zb203aEswWFoyTEJwTkNFWUE0ODYyVmfSAfwBQVVfeXFMUFZ6UGs2aVNoOFdsZldlR2hUcFFUbm84d2RLYzFtejZjTHVQQlBvX2RYVkwyNkhSTzFUZE5BU09ramhCZUVvZTFtVkIzenQ1MHBaWVFHc1hrd3pWYnZ0dlhLRXdEbWJXNUFIRHZfa2RCX3ZnLUlZc1NTTzlSamV3OTNZLVRnRXladEE2RTVYaW5PRVh0OXhlc3VNVjBvRzhXX1BIUnp4bkQ3WWdCNWpzZDhzNWptUFBmeXNubGJBRkVHNTkxb3pKSVhKczZyakFkcTMtRGZyWjRGQlBGR19RbFYycTVraU00TXJ2aVY0MWY0cnZyQVJpMFNENWsx?oc=5",
+       "publishedAt": "2026-11-19T18:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bingo at the Basin as India’s grip slips",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFFqYjlJbldhejZqdXlaQlBDZHc4QzRxd2pPc0hFZTJTVDVBc2tfNW9wb3ltTFhackZEUzVUcTFKR0FQaEswai1mbGJxYkJlZkdmQm0tTmVKLTRFTGdoYWNXTG0tV3hOUEVfR3Z2MnljVXg2QXV1WXg4dEZZRjhxSnpLdFl2MnFWNEU4cw?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "Cricket World",
+      "ICC",
+      "Rediff",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-19T19:14+05:30",
+     "score": 6.95,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "Bingo at the Basin as India’s grip slips",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFFqYjlJbldhejZqdXlaQlBDZHc4QzRxd2pPc0hFZTJTVDVBc2tfNW9wb3ltTFhackZEUzVUcTFKR0FQaEswai1mbGJxYkJlZkdmQm0tTmVKLTRFTGdoYWNXTG0tV3hOUEVfR3Z2MnljVXg2QXV1WXg4dEZZRjhxSnpLdFl2MnFWNEU4cw?oc=5",
+       "publishedAt": "2026-11-19T19:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Bring them back': To end terror, Shah pushes to hunt down fugitives hiding abroad",
+     "link": "https://timesofindia.indiatimes.com/india/bring-them-back-to-end-terror-amit-shah-pushes-to-hunt-down-fugitives-hiding-abroad/articleshow/135995196.cms",
+     "source": "Times of India",
+     "sources": [
+      "Rising Kashmir",
+      "The New Indian Express",
+      "The Shillong Times",
+      "The Times of India",
+      "Times of India",
+      "www.pib.gov.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T19:50+05:30",
+     "score": 6.85,
+     "summary": "Amit Shah emphasized the need for international cooperation in the fight against terrorism and organized crime, specifically calling for the return of offenders hiding abroad. He pointed out important milestones, such as the dismantling of the Popular Front of India network. The ongoing two-day Anti-Terror Conference aims to foster intelligence sharing and strengthen investigations, ultimately enhancing inter-agency…",
+     "image": "https://static.toiimg.com/photo/msid-135995323,imgsize-42250.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Bring them back': To end terror, Shah pushes to hunt down fugitives hiding abroad",
+       "link": "https://timesofindia.indiatimes.com/india/bring-them-back-to-end-terror-amit-shah-pushes-to-hunt-down-fugitives-hiding-abroad/articleshow/135995196.cms",
+       "publishedAt": "2026-11-19T19:50+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Bring them back': To end terror, Amit Shah pushes to hunt down fugitives hiding abroad",
+       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVjRNSmJKdWpESlEzaXF3Wl9qSThZMFJXTXNzdjd4Z2l2RFp1Q00yX25wTlo3NmVQQ0JtQy1hN3poR1NZZ21yRHpTZTNaR0s2YmE3dnRSVThRR2FMSmlkaWxhRnNELWQyNF9MN1B2MjdxNWJHMl81V0NxSzNjeGsyYjFiOHNNTUNQc0lYNHNwUFE5d2pGdGpkaDJiTVhHb3kxc293T1FDbHh6QTVUc2pZRGVnV3FMajJ5eE4zSkppT0dXVGZTV29NYjczOUlmR2h5bUdKdzFtMGRMbEJ6RTNIR0ZpczV4Zw?oc=5",
+       "publishedAt": "2026-11-19T19:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "HP minister's Op Sindoor remarks trigger row; BJP says comments echo Pak's language",
+     "link": "https://timesofindia.indiatimes.com/india/himachal-minister-stokes-row-with-op-sindoor-remarks-bjp-says-remarks-echo-pakistans-language/articleshow/135993539.cms",
+     "source": "Times of India",
+     "sources": [
+      "ANI News",
+      "NDTV",
+      "The Times of India",
+      "The Tribune",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-19T19:02+05:30",
+     "score": 6.48,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-135993650,imgsize-1315761.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "HP minister's Op Sindoor remarks trigger row; BJP says comments echo Pak's language",
+       "link": "https://timesofindia.indiatimes.com/india/himachal-minister-stokes-row-with-op-sindoor-remarks-bjp-says-remarks-echo-pakistans-language/articleshow/135993539.cms",
+       "publishedAt": "2026-11-19T19:02+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Himachal minister stokes row with Op Sindoor remarks; BJP says remarks echo Pakistan's language",
+       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS29EUDZfSzdLemFveUJ4YXhzbnVhWDA2WnZDZnFKbEsxTkRMelU4RjdsejJIc2NSTTM3eEpFendhUWtIVWVUMTRNdUZ3UG5pdDRuTW0yZnhIbkRNREllR2hyb0x6Rk5JRi1yTHZnWHd4RkxaZUV5UGZSUGZhbGlyMVZOU0tULWhsOTJWNkxOcjZucUpDQTBPV1VhMl9ZeFh3RnQxUl92UFZ2M1QyYWFiYUhQcUlVdWZ2ZHlGY1VROXRHN3pBeEhSUC1CM0FDOUwwZV9qRk1xTFBsS3ZiMVRDT1lWUVNoOTczTUg2ci1xc0RJa2M?oc=5",
+       "publishedAt": "2026-11-19T19:02+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-19T21:00+05:30",
    "generatedAt": "2026-11-19T21:27+05:30",
@@ -30183,167 +30344,6 @@
        "title": "'Definitely long term': Ness Wadia on Hardik Pandya's PBKS move",
        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTFHN09NTElTX3FXd1MzVGNRUnMxalUycE5DNF80ZTVOTkpBUzNLTDRKSkxHM0RtY0Z4TWxFTDVjY1N4SVozQ2dPNDRza0FmaG5UeWJWYnpKazJPcXJuN1lRdWFGMFI0V2tLdUJWRjIwMTVxSEtzZm1jNUVhc1JjOVhHcm1Bd2UwSjU5Mk1JZnRobUJGdzV5VUlnYzA4aU5mNVhwcVk5OA?oc=5",
        "publishedAt": "2026-11-11T23:32+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-11T23:00+05:30",
-   "generatedAt": "2026-11-11T23:23+05:30",
-   "feeds": 16,
-   "headlines": 284,
-   "stories": [
-    {
-     "title": "Amul Milk Prices To Go Up By Rs 2-4 Per Litre From Tomorrow",
-     "link": "https://www.ndtv.com/india-news/amul-milk-price-hike-amul-hikes-milk-prices-by-rs-2-4-per-litre-12313273#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "NDTV",
-      "Rising Kashmir",
-      "Telegraph India",
-      "The Economic Times",
-      "The Hindu",
-      "ThePrint",
-      "Zee Business"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-11T19:14+05:30",
-     "score": 7.37,
-     "summary": "Amul Milk Price Hike: In a statement, the company said prices of its fresh milk variants will rise by Rs 2 to Rs 4 per litre, depending on the type. The prices will be effective from November 12.",
-     "image": "https://c.ndtvimg.com/2023-02/23m6o5gs_amul-milk_640x480_03_February_23.jpg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Amul Milk Prices To Go Up By Rs 2-4 Per Litre From Tomorrow",
-       "link": "https://www.ndtv.com/india-news/amul-milk-price-hike-amul-hikes-milk-prices-by-rs-2-4-per-litre-12313273#publisher=newsstand",
-       "publishedAt": "2026-11-11T19:10+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Amul hikes milk prices by Rs 2-4 per litre from Nov 12",
-       "link": "https://economictimes.indiatimes.com/industry/cons-products/food/amul-hikes-milk-prices-by-rs-2-4-per-litre-from-november-12/articleshow/135739242.cms",
-       "publishedAt": "2026-11-11T19:02+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Amul raises milk prices by ₹2-4 per litre, effective from November 12",
-       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOblMteWJuX0RBYTNtMG5mWV9ESktNc1lqMDkwNHN2Y0dYenpJTlI2UGxva043ZURDNTFDU21wMGZhRzBvbFdPaHdWQ2kwSU4tamxhODhxeGRLOERfUEJMUy1qaEhUZUhmLTk3VnFwRlhqUEJ1cmRleVI0RzhJN0oxTXUyaTVzNmJaWXRqSEZRR1pLaU5BREFNb0NrTTlDSFU4Y0VzUmxHaGZyOWNuNGtuc2s3d1UxdTZkY24tU05vNGpINWJE0gHLAUFVX3lxTE8tLXlzR1RoUDd5YjRpalNoVWJ5OFEtNTNNOTdiNjNkS2d5OXUtM3UyTWdjNkpyUS1SYlFEREdXTFNickdTOU03aVczRHFNS0RRTUVQMlFCNldIeDNIRTBiQTR5V1BaZ0pzX244d19uN2gycm5VdWNoY2lBTTJ4NTVuYVM4cEwwSnJTYkdXT1N3ZTdzOVh0dDlFeTU0MHZhWlI3SWNFY0xXVURvVHZfb1ZiU016OWs3U0Vid3VBMFY3Nk1tVE5xQ2dja0ZB?oc=5",
-       "publishedAt": "2026-11-11T19:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India simplifies visa norms; categories cut, forms to be 70% leaner",
-     "link": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Bloomberg.com",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T21:52+05:30",
-     "score": 7.25,
-     "summary": "Tourist visa renamed ‘visitor visa ’, which will have two sub-categories, V-1 and V-2, so that applicants can select a visa suited to the nature and duration of their proposed visit; special provision for subject-matter experts introduced",
-     "image": "https://th-i.thgim.com/public/news/national/565njc/article71690688.ece/alternates/LANDSCAPE_1200/iStock-486918368.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "India simplifies visa norms; categories cut, forms to be 70% leaner",
-       "link": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
-       "publishedAt": "2026-11-11T21:52+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Centre simplifies visa regime: Paperwork cut by 70%, categories reduced from 13 to 9",
-       "link": "https://timesofindia.indiatimes.com/india/centre-simplifies-visa-regime-paperwork-cut-by-70-categories-reduced-from-13-to-9/articleshow/135741142.cms",
-       "publishedAt": "2026-11-11T20:40+05:30"
-      }
-     ]
-    },
-    {
-     "title": "‘GTA 6’ Pre-Loads Are Slowing Down The Internet, Warns ISP",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDE0aGMxRk9vR2Rwa1o3NV9vendjenZRX1I2X1B2dkU5VVNqcDhnaFpiTERMMUZTODZSdzNBMUJIUlVCb29DZTNRS21oZUI3SXNLc01ZR3h5VGZwYmNTcXgzdzhlX0NpejlhN0IyOGtFekdWclkzU0syWnNPVkc0TmtvY0YyNmxuZEFUUGVheDhKYWh3TWROei1jd0w1emNkVWFaU0ktNFB6QQ?oc=5",
-     "source": "Forbes",
-     "sources": [
-      "Forbes",
-      "GSMArena.com",
-      "PlayStation.Blog",
-      "The Times of India",
-      "XBOX Wire"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T20:52+05:30",
-     "score": 7.08,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Forbes",
-       "title": "‘GTA 6’ Pre-Loads Are Slowing Down The Internet, Warns ISP",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDE0aGMxRk9vR2Rwa1o3NV9vendjenZRX1I2X1B2dkU5VVNqcDhnaFpiTERMMUZTODZSdzNBMUJIUlVCb29DZTNRS21oZUI3SXNLc01ZR3h5VGZwYmNTcXgzdzhlX0NpejlhN0IyOGtFekdWclkzU0syWnNPVkc0TmtvY0YyNmxuZEFUUGVheDhKYWh3TWROei1jd0w1emNkVWFaU0ktNFB6QQ?oc=5",
-       "publishedAt": "2026-11-11T20:52+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Two spl police officers reported missing in J&K's Kishtwar; search op launched",
-     "link": "https://timesofindia.indiatimes.com/india/two-police-officers-reported-missing-in-jks-kishtwar-search-op-launched/articleshow/135744807.cms",
-     "source": "Times of India",
-     "sources": [
-      "Bhaskar English",
-      "India Today",
-      "Kashmir Life",
-      "The Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-11T22:40+05:30",
-     "score": 6.94,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135744903,imgsize-160576.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Two spl police officers reported missing in J&K's Kishtwar; search op launched",
-       "link": "https://timesofindia.indiatimes.com/india/two-police-officers-reported-missing-in-jks-kishtwar-search-op-launched/articleshow/135744807.cms",
-       "publishedAt": "2026-11-11T22:40+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Two police officers reported missing in J&K's Kishtwar; search op launched",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdEFibXFoQjZ2R2RMT2w4Mk50RXZSeUFybkxlb3p4UnREUzllUzQzNjdVR05DaUtocm13QXk4bndWYUt2bVJDYWNsN1FPWVBSa0lrQ1JxUVdKS00wU09yNkNtNG1lNllrYUVYMmNUbWIwN2pFX2xjNmdIbE5vMVVyRmpYdE1icnZWNG4yMFUwSVFEMU9RYW9CbHhNVnhBUENUczRYVkR6a3RSWENXbmJNSFVmWlBTc0MydlNWU052d2ZQa2tvN3hkQ1F2OWVkY3lTVWdKNDJR?oc=5",
-       "publishedAt": "2026-11-11T22:40+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Gunmen ambush Pakistan police team en route to raid illegal gold mines, 11 killed",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU1VaUl9QaE96TW5SV25CTGQzazBLZnZJb05uLWVCaGk0ZWRhWHlMNWxTcGMzeWIzMHVuQjBIbHFYZ2tocEQ1dk9vcTdkMkVLYVlvdUU0SFUxVXlqcWFSR25EYzBjc1VtT3dlNHJtQWp2Q2VuWmZEaDRCYXBqWDVZYmhycEhFZDF0eFF3bnVlTGVONVJvTjJpS05GNVVieXZXNXdDNEJjaVdXMTVGYmRXWTZNd0tyX3JZNDV3eDRsMGRMN0c2c2JMdzQxeGI4T1hrMTRpRzFUQW9LTW5DU0hHcU1Sa05ScEJibW83SzhnUVNZd0trYnfSAfsBQVVfeXFMTkVYb1RkYm1XUHhvOWtVRnR5WHhfZDQ5c2FzeG02Ym5XYmllSGtaS05NS25Lb19TdEVLM0NwMmYwSjlMRHh2V3ZnT3FWdGNwbUVyUmphazdTc25sWk56ZkNlcGFKVGw5cE4tSFhMWjBQZTRWamFaWjdKMEJLZzZ3VEpYMVNfZGh4eUk1TXN1U2pkakltcWluT3ZRaTRaQWZZQ0xPMHA1YTB1S002eU4xMnoxcDYtcHZhZlJqQkpJQTZzblYteFMwTTZlUVhmdWhFWmtOekdIMVR6QUg4WDZkRjJla1BNZ3VIWnZCdFFDQTdWdXFtajBfMmh3SEU?oc=5",
-     "source": "India Today",
-     "sources": [
-      "India Today",
-      "NDTV",
-      "Reuters",
-      "Telegraph India",
-      "The Hindu"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-11T21:03+05:30",
-     "score": 6.36,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "India Today",
-       "title": "Gunmen ambush Pakistan police team en route to raid illegal gold mines, 11 killed",
-       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU1VaUl9QaE96TW5SV25CTGQzazBLZnZJb05uLWVCaGk0ZWRhWHlMNWxTcGMzeWIzMHVuQjBIbHFYZ2tocEQ1dk9vcTdkMkVLYVlvdUU0SFUxVXlqcWFSR25EYzBjc1VtT3dlNHJtQWp2Q2VuWmZEaDRCYXBqWDVZYmhycEhFZDF0eFF3bnVlTGVONVJvTjJpS05GNVVieXZXNXdDNEJjaVdXMTVGYmRXWTZNd0tyX3JZNDV3eDRsMGRMN0c2c2JMdzQxeGI4T1hrMTRpRzFUQW9LTW5DU0hHcU1Sa05ScEJibW83SzhnUVNZd0trYnfSAfsBQVVfeXFMTkVYb1RkYm1XUHhvOWtVRnR5WHhfZDQ5c2FzeG02Ym5XYmllSGtaS05NS25Lb19TdEVLM0NwMmYwSjlMRHh2V3ZnT3FWdGNwbUVyUmphazdTc25sWk56ZkNlcGFKVGw5cE4tSFhMWjBQZTRWamFaWjdKMEJLZzZ3VEpYMVNfZGh4eUk1TXN1U2pkakltcWluT3ZRaTRaQWZZQ0xPMHA1YTB1S002eU4xMnoxcDYtcHZhZlJqQkpJQTZzblYteFMwTTZlUVhmdWhFWmtOekdIMVR6QUg4WDZkRjJla1BNZ3VIWnZCdFFDQTdWdXFtajBfMmh3SEU?oc=5",
-       "publishedAt": "2026-11-11T21:03+05:30"
       }
      ]
     }
