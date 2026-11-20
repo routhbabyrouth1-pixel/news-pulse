@@ -1,6 +1,180 @@
 {
- "updated": "2026-11-21T03:17+05:30",
+ "updated": "2026-11-21T04:15+05:30",
  "hours": [
+  {
+   "hour": "2026-11-21T04:00+05:30",
+   "generatedAt": "2026-11-21T04:15+05:30",
+   "feeds": 16,
+   "headlines": 217,
+   "stories": [
+    {
+     "title": "Scene Box Office Collection Day 15",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03eUx1ay1wWG9JWDdmd3pIR3lGdVJMREJVXzFmLUpBdEdmMDJQSEcyTkxic3pPT0lCWHNYTzd6Qk1Uc05lSjdKY01BRGgza0tmWTc0dFVVNVk3RUpNVnlrZlJRYTlvaXRyVTVTQkgxQmJfcWIxWVVFQ0ktZmV2UQ?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "Film Threat",
+      "IMDb",
+      "Koimoi",
+      "Nikkei Asia",
+      "Sacnilk",
+      "THE WEEK",
+      "The Hindu",
+      "The Times of India",
+      "iDiva"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-21T00:30+05:30",
+     "score": 10.51,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Scene Box Office Collection Day 15",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03eUx1ay1wWG9JWDdmd3pIR3lGdVJMREJVXzFmLUpBdEdmMDJQSEcyTkxic3pPT0lCWHNYTzd6Qk1Uc05lSjdKY01BRGgza0tmWTc0dFVVNVk3RUpNVnlrZlJRYTlvaXRyVTVTQkgxQmJfcWIxWVVFQ0ktZmV2UQ?oc=5",
+       "publishedAt": "2026-11-21T00:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+     "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Scroll.in",
+      "Telegraph India",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-21T01:10+05:30",
+     "score": 9.23,
+     "summary": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+       "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+       "publishedAt": "2026-11-21T01:10+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+       "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-21T00:57+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+       "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+       "publishedAt": "2026-11-20T23:54+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45al9WaFg3Q25ScnRCQ2hPSGZ3VE1YQlhIaDFtbFhkWlJTNzRHWXlFZ0ptUm1fVW4tUkF3cFFSSVVSeGs1djlPX1ZLT05vVXJLLWdoYWV1QVUxWUE?oc=5",
+       "publishedAt": "2026-11-21T00:57+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
+     "source": "Yahoo Tech",
+     "sources": [
+      "BBC",
+      "Rockstar Games",
+      "Take-Two Interactive Software, Inc.",
+      "The Guardian",
+      "The New York Times",
+      "Yahoo Tech"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T02:28+05:30",
+     "score": 8.2,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Yahoo Tech",
+       "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years",
+       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
+       "publishedAt": "2026-11-21T02:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump threatens ban on US firms building AI data centres overseas",
+     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "CNN",
+      "The New York Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-21T02:24+05:30",
+     "score": 7.73,
+     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Trump threatens ban on US firms building AI data centres overseas",
+       "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-21T02:24+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'China will take all of them': Trump says won't let US firms build data centres abroad",
+       "link": "https://timesofindia.indiatimes.com/world/us/china-will-take-all-of-them-trump-says-wont-let-us-firms-build-data-centres-abroad/articleshow/136036408.cms",
+       "publishedAt": "2026-11-20T23:22+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'China will take all of them': Trump says won't let US firms build data centres abroad",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOczh3WFlILWE3c3JIY2E0ZHRkVGQ4TVd0MVFaWFZrdXA3NEFtZm56Q2xyWDV5cDVGTFlNNEwxNTBNMENCWm1DN1huMVRZcHJTWDVZM0hSbEthc281TVJhTlc0emJiZkRMV3FNT0l0SC1nTHZCbXYwVFV4WkdnZFpNS0JaS0l6amE4RGsyMkNna1pCaGt0VmFvZ19VSDZpOXFJemxjZXlwN0xwbHdhS1NPOW1CYnB2aFRxNVEzd0N4dEJtNzNOcjVSSEdCdElXaHpKbjI2TW9kVUMxZFMwbmNBemlCWnBGb2Nh?oc=5",
+       "publishedAt": "2026-11-20T23:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "SCO meeting highlights: ‘Suffered a great deal’, says Pak minister on terrorism, seeks evidence-based talks | Hindustan Times",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPY09mQkdzSE9pMnJteW5KaUhpUWdaemlncFpZNTIxa3pCV0N3Nm5JdDhJZV9id3RiVDUzUEw0SmRNNjliT3ZJMmp1Um9JQVpCVVJLSHhoOWU3cktNMFFEbDRJYU9maG1hb2NadDJjSTZINkF0RzYwSk9tSl9VMGFYb1FuVmRwbW5NY1N2ZWdXeUIwU2lPaUpiNEFIcWJ2SVZlQVVpeHpsSW5jeHB0Nlg3akZJS09RWVg0UjdfQXFFTm5QdzJQT3AtbEkxdTJQRzl2bnBJTWdOb2V2WC1Zc1ZuQm5zYVVXVHBGM3VkdEFkR3JHdGQ0WFVjQ1pzVjJEQWVtOUNiNEJhM3jSAY4CQVVfeXFMUGp4OW9fbHNvTlphd0hUTlRObUpXeTR5NGlJOWlLbWp4NHpZLVVOMWtXMFlzenZGdTFjeE44emZaSkpsM1FoWEJLX3BKX2FzX1dqYWgxVmt6QmxCMnBUZ29RaVg2bk91Y1Q2TVVnRzk0RXo0SEo3ZjhCdmcwYXlycXMyakRPQ3pabnk2WThmYnJJVGpEUzZpUnpFUl9aR2Ywd0tMdmN0UWpCZU9WOEFtTXRqMXdxRkJUQTl2Ylk1WUdIdllKY3M1aVUtNGxhOG5IWk85TVBsdGtJOG9VUnVTNmdzeHY1TmFjVUxIVDVzYVRDZ2dTanJCS196VzR3aGpGU2YxeEQtejlSNTlmRGd3?oc=5",
+     "source": "Hindustan Times",
+     "sources": [
+      "ET Government",
+      "Hindustan Times",
+      "NDTV",
+      "NarendraModi.in",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-20T23:02+05:30",
+     "score": 6.63,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "SCO meeting highlights: ‘Suffered a great deal’, says Pak minister on terrorism, seeks evidence-based talks | Hindustan Times",
+       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPY09mQkdzSE9pMnJteW5KaUhpUWdaemlncFpZNTIxa3pCV0N3Nm5JdDhJZV9id3RiVDUzUEw0SmRNNjliT3ZJMmp1Um9JQVpCVVJLSHhoOWU3cktNMFFEbDRJYU9maG1hb2NadDJjSTZINkF0RzYwSk9tSl9VMGFYb1FuVmRwbW5NY1N2ZWdXeUIwU2lPaUpiNEFIcWJ2SVZlQVVpeHpsSW5jeHB0Nlg3akZJS09RWVg0UjdfQXFFTm5QdzJQT3AtbEkxdTJQRzl2bnBJTWdOb2V2WC1Zc1ZuQm5zYVVXVHBGM3VkdEFkR3JHdGQ0WFVjQ1pzVjJEQWVtOUNiNEJhM3jSAY4CQVVfeXFMUGp4OW9fbHNvTlphd0hUTlRObUpXeTR5NGlJOWlLbWp4NHpZLVVOMWtXMFlzenZGdTFjeE44emZaSkpsM1FoWEJLX3BKX2FzX1dqYWgxVmt6QmxCMnBUZ29RaVg2bk91Y1Q2TVVnRzk0RXo0SEo3ZjhCdmcwYXlycXMyakRPQ3pabnk2WThmYnJJVGpEUzZpUnpFUl9aR2Ywd0tMdmN0UWpCZU9WOEFtTXRqMXdxRkJUQTl2Ylk1WUdIdllKY3M1aVUtNGxhOG5IWk85TVBsdGtJOG9VUnVTNmdzeHY1TmFjVUxIVDVzYVRDZ2dTanJCS196VzR3aGpGU2YxeEQtejlSNTlmRGd3?oc=5",
+       "publishedAt": "2026-11-20T23:02+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-21T03:00+05:30",
    "generatedAt": "2026-11-21T03:17+05:30",
@@ -29871,179 +30045,6 @@
        "title": "Google DeepMind Introduces AlphaProof Code for Verifying Complex Software at Depth",
        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzkxU29lczBKRWJXd1hhbmVSbFhEaEdYcS1lX0NUU1hkX2JkUlZGUnczX1g4dXR5ZDNwWkpKcm5Kb2dzSTEzMFA1bGMtRjNxY0szY2M5ZEJaS2JLdGVBQXRYS0ZMdlZnRmtuUUhuTWk5QkdQNFRRYzFwMzdXS2NYaUc0X3ZaaW1QaklTSWhicWNnRmhxdVRGRFR5NVVlVVZxS0staEgxbU40aVZnYTBoWVBEd3dNN3Q3QWFXRktTQXBoQTA?oc=5",
        "publishedAt": "2026-11-13T07:00+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-13T06:00+05:30",
-   "generatedAt": "2026-11-13T06:31+05:30",
-   "feeds": 16,
-   "headlines": 133,
-   "stories": [
-    {
-     "title": "Is Outlook Down? Widespread Outage Hits Microsoft Apps",
-     "link": "https://www.ndtv.com/world-news/is-outlook-down-widespread-outage-hits-microsoft-apps-12319777#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "CNBC",
-      "NDTV",
-      "TechRepublic",
-      "The Economic Times",
-      "The Guardian",
-      "The Hindu",
-      "The National",
-      "Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-13T03:51+05:30",
-     "score": 9.86,
-     "summary": "Thousands also reported issues with Microsoft's workplace messaging app Teams, as well as its AI assistant Copilot and wider Microsoft 365 services.",
-     "image": "https://c.ndtvimg.com/2026-10/oq64o1ig_microsoft-exit-offer-pexels_625x300_30_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Is Outlook Down? Widespread Outage Hits Microsoft Apps",
-       "link": "https://www.ndtv.com/world-news/is-outlook-down-widespread-outage-hits-microsoft-apps-12319777#publisher=newsstand",
-       "publishedAt": "2026-11-13T03:51+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Microsoft Outlook outage hits thousands globally, nearly 1.3L users report email issues",
-       "link": "https://timesofindia.indiatimes.com/world/us/microsoft-outlook-outage-hits-thousands-globally-nearly-1-3l-users-report-email-issues/articleshow/135782745.cms",
-       "publishedAt": "2026-11-13T03:38+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Microsoft outage hits tens of thousands of users",
-       "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
-       "publishedAt": "2026-11-13T02:33+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Microsoft Outlook down today?",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
-       "publishedAt": "2026-11-13T00:37+05:30"
-      },
-      {
-       "source": "TechRepublic",
-       "title": "Microsoft Outlook Down: Over 130,000 Outage Reports as Email, Teams Disrupted",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRlZEQXhVcmxmQ0t3eWk2Q1VVUXM4RTdVRmc4UmNiZURSQnpMb0pMdkJ6VlFBVGt3NXRaZElTeDhsTkxuejVFRGpxVWhMNS0yY1NRWWNFZzhfWG9qeFdvQlBhOHFqWUF6c0ZnblRZcDU2MHRKUkl0T1B2bFFyc012MzFYRzVSVktyY1dqWU1XNVc?oc=5",
-       "publishedAt": "2026-11-13T03:24+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cummins: Khawaja's allegations 'complete and utter nonsense'",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE5GSTBWcDlLZ1lnQk5CU1BtdlEzUVM4cGNNZkpMWkhNTGRhQjNZVEJOSHU1Y3dXc3B2cFBmckVnR2x3bmEtVTIxaUQxRlg0WElqVWhjcVBkd18xYk1aVEZobG9URTJBMWVSeGhHS180bWpFY0NydURmNEVadGtiMUhBejYxRzBvOV9xcE15SlFrZlpVYXBrM2xsX03SAa4BQVVfeXFMTmkxVHRjenV0QmJBLVZBbng5UW5sLVVlTGZlNTdVS0RsTW5BMzdRanZXYTdmOWlDemRMeTlrdTNZTnFjSnJaaFpLSXpsY3plS2FTTUVNYWpFVWdrR3hJNkpON2ZQdnBENEtYTHQxaUJFRjVaTWF3UVNUeUxYendqMk93b2ZQX3B3SDlFTllKTEhqdXJGTlNWWjV2czJmRV9oYVMyelkybTdSdnFpY2pB?oc=5",
-     "source": "Cricinfo",
-     "sources": [
-      "BBC",
-      "Cricinfo",
-      "ESPN India",
-      "The Guardian"
-     ],
-     "sourceCount": 4,
-     "publishedAt": "2026-11-13T04:56+05:30",
-     "score": 6.23,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricinfo",
-       "title": "Cummins: Khawaja's allegations 'complete and utter nonsense'",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE5GSTBWcDlLZ1lnQk5CU1BtdlEzUVM4cGNNZkpMWkhNTGRhQjNZVEJOSHU1Y3dXc3B2cFBmckVnR2x3bmEtVTIxaUQxRlg0WElqVWhjcVBkd18xYk1aVEZobG9URTJBMWVSeGhHS180bWpFY0NydURmNEVadGtiMUhBejYxRzBvOV9xcE15SlFrZlpVYXBrM2xsX03SAa4BQVVfeXFMTmkxVHRjenV0QmJBLVZBbng5UW5sLVVlTGZlNTdVS0RsTW5BMzdRanZXYTdmOWlDemRMeTlrdTNZTnFjSnJaaFpLSXpsY3plS2FTTUVNYWpFVWdrR3hJNkpON2ZQdnBENEtYTHQxaUJFRjVaTWF3UVNUeUxYendqMk93b2ZQX3B3SDlFTllKTEhqdXJGTlNWWjV2czJmRV9oYVMyelkybTdSdnFpY2pB?oc=5",
-       "publishedAt": "2026-11-13T04:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
-     "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-     "source": "The Guardian",
-     "sources": [
-      "CNBC",
-      "Rural Radio Network",
-      "The Guardian",
-      "The Hindu",
-      "The National"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-13T03:21+05:30",
-     "score": 6.22,
-     "summary": "Streamlined recovery process under way, company says, after nearly 130,000 users worldwide reported access issues Microsoft outage – live updates Microsoft says a portion of servers are returning to service, and a streamlined recovery process is under way to end a global outage that has resulted in nearly 130,000 users worldwide reporting issues accessing its 365 suite of software, including Outlook and Teams.…",
-     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
-       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-       "publishedAt": "2026-11-13T03:21+05:30"
-      },
-      {
-       "source": "Rural Radio Network",
-       "title": "KTIC 840 AM/98.3 FM/98.7 FM - Outlook outage: Microsoft reports ‘issues’ with Teams and email",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3BZNVVqcjdTczc1Ri1iZXlNMHRsVEZ5bTh2WHRCZTloY0FlSW95eFVjSFcwZ19pMzNyQ0NXVHJPekJreTdDalE5aFM2QlJabjJ3V2YtRGNSb3ptMDdpWVhtY2xkVzcxQ2pUTzJzWnRQWVFVWnNGUTU5TDVFUm4xeFZBVENfMFhyRnhjeTgxNGl1QTNOUHI5UlNVVm5HaWdKV21DWkpDcGlNU2FVM0paQzVR?oc=5",
-       "publishedAt": "2026-11-13T01:16+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-     "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC",
-      "BBC News",
-      "CGTN",
-      "Reuters",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-13T01:23+05:30",
-     "score": 6.19,
-     "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-       "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-13T00:53+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Italian schools defy new wave of bomb threats to remain open",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFJJaFJoR2JHVWdTZmVzdkw2MDhTc29qU0pDRmdmaXpwWjN2Q3VyYjlFUWJkRmJHTmlaNFFYdWIxdTFHR3p5VGlTaGExYzFwZ3BTRjV6dTJuQWdibllJN1lwd3E1RThuUEU2ekpfbU1GSUJwU2tyMkd5a3daSEkwNm5YU19zUEIxLWpSNjNDS0lzT1NCd2ZQRG1COA?oc=5",
-       "publishedAt": "2026-11-13T01:23+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Global Tuberculosis Burden Declining, But Five Years Behind Schedule",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalg4bHlneDFNQS1idDE2RVJEWnMwV0JXZEZLQVBXenBmbnlpbGRlVUxmZ3hPZUt3Qlk1bWxubFRWeE1QRE5JMWVTbV9iMUVpQk93NUsyQWlwWjltVUpOR1BUcGlJX1lkX0RBUmMzY3hublAyMS1lUTVVY2hYTW1ja3Z3cE1GTEpjUVhJek5GQkt2UWdtX2Z5M0hrZ04yZUJkVWc?oc=5",
-     "source": "Health Policy Watch",
-     "sources": [
-      "CIDRAP",
-      "Health Policy Watch",
-      "NDTV",
-      "The Hindu",
-      "The New Indian Express"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-13T04:42+05:30",
-     "score": 5.74,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Health Policy Watch",
-       "title": "Global Tuberculosis Burden Declining, But Five Years Behind Schedule",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalg4bHlneDFNQS1idDE2RVJEWnMwV0JXZEZLQVBXenBmbnlpbGRlVUxmZ3hPZUt3Qlk1bWxubFRWeE1QRE5JMWVTbV9iMUVpQk93NUsyQWlwWjltVUpOR1BUcGlJX1lkX0RBUmMzY3hublAyMS1lUTVVY2hYTW1ja3Z3cE1GTEpjUVhJek5GQkt2UWdtX2Z5M0hrZ04yZUJkVWc?oc=5",
-       "publishedAt": "2026-11-13T04:42+05:30"
       }
      ]
     }
