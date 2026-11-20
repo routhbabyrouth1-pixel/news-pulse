@@ -1,6 +1,172 @@
 {
- "updated": "2026-11-20T10:28+05:30",
+ "updated": "2026-11-20T11:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-20T11:00+05:30",
+   "generatedAt": "2026-11-20T11:30+05:30",
+   "feeds": 16,
+   "headlines": 274,
+   "stories": [
+    {
+     "title": "Aries Horoscope Today: November 20, 2026",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYMkJ2RWkzNEVObmJNRDJHc0NpVWVUTjVUeHp5YklRMVAtZnBZc2V5OHBRSmVDel8wb0FyUWZ6SHY3ZVVXTV9VdXNWWnVLQnVQWmNDU3FlZjlzUE9WY2k4cmJQZTNTbmZUQjdBdVdXaUp6Q25aR1E?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "ETV Bharat",
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Eastern Herald",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue Arabia",
+      "Vogue India",
+      "Yahoo"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-20T05:50+05:30",
+     "score": 11.19,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Aries Horoscope Today: November 20, 2026",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYMkJ2RWkzNEVObmJNRDJHc0NpVWVUTjVUeHp5YklRMVAtZnBZc2V5OHBRSmVDel8wb0FyUWZ6SHY3ZVVXTV9VdXNWWnVLQnVQWmNDU3FlZjlzUE9WY2k4cmJQZTNTbmZUQjdBdVdXaUp6Q25aR1E?oc=5",
+       "publishedAt": "2026-11-20T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Fiona, Global Sensation Hippo, Dies After Eating Visitor's Hat At US Zoo",
+     "link": "https://www.ndtv.com/world-news/fiona-global-sensation-hippo-dies-after-eating-visitors-hat-at-us-cincinnati-zoo-12352014#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "AP News",
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "NDTV",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-20T09:35+05:30",
+     "score": 8.73,
+     "summary": "Within an hour of the announcement, visitors began leaving flowers and cards by a hippo statue outside the zoo. \"Forever our Fiona,\" one note read.",
+     "image": "https://c.ndtvimg.com/2026-11/386qinv8_zoo-fiona_625x300_20_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Fiona, Global Sensation Hippo, Dies After Eating Visitor's Hat At US Zoo",
+       "link": "https://www.ndtv.com/world-news/fiona-global-sensation-hippo-dies-after-eating-visitors-hat-at-us-cincinnati-zoo-12352014#publisher=newsstand",
+       "publishedAt": "2026-11-20T09:35+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
+       "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
+       "publishedAt": "2026-11-20T08:35+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "‘Forever our Fiona’: Cincinnati Zoo’s famous hippo dies after swallowing visitor’s hat",
+       "link": "https://timesofindia.indiatimes.com/world/us/fiona-the-hippo-dies-after-visitors-hat-triggers-fatal-medical-emergency-at-cincinnati-zoo/articleshow/136010851.cms",
+       "publishedAt": "2026-11-20T08:31+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Hippo Fiona dies days after swallowing visitor’s hat",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
+       "publishedAt": "2026-11-20T08:21+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Fiona the hippo dies after visitor’s hat triggers fatal medical emergency at Cincinnati Zoo",
+       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeUd0WDRYVjJDTVJ2di15Y3ZVVXR4RHdFSVF4R1F5UlYzbmlKTkNwWG4zeEF1ZGMtRDd5M1BDYkk5R25oQS13Umh6azJiM1ZDMHFpU3hTbTNJUlh4X01Fb0RKRWkwNWg2QndHQWo2X3lqMkFXUUVUU0dvUUs0R2NrZUo0bk00RUwySTk5VEl3RENUQVZvTXJaTGFsd0p1Zkg0R3p1SG5WbmVnUG5qV1FBRXpzMjVoZDdSM3dYbjUwaVpVamxOaHQyQTRKTTBEeVZhY21OMjRjVnFFMk1ZQTAtclo2XzVsal8wMEc3OXRSU3p6RnPSAfgBQVVfeXFMTWhucG9SUnJRUzBEdGZkM3BuMm5fMHlGZWZYX1U4RVljOFBKVE1xTWZFMU1MNk40VEk5TnRzcHRGa2F0UU5ObEVwMng0SWZRZ3Q4RFNzZ0dkY21XeEs0NmRhQmhWemtnNEhtdURTMjJzS1VXakcwZVRycXZFcjlVcTk3TnQzaTRxVG9vZndKYVpodlUyMXlfTEFnTmlYR3h3RnBISFRNZnhEN2ZuajN0a3Jnc3pSal9XaGJlczUzN0pkSTUzOXhiZm41S1pqWFlFOUZ6bGdnYkQ1dGl5aWxoSm56VXdldUF4Vm1vNFdyYW5nOXE4a1VMbnk?oc=5",
+       "publishedAt": "2026-11-20T08:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cyclone 'Akvan' LIVE: Odisha's coastal districts witness rough sea and strong winds as landfall begins",
+     "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+     "source": "The Hindu",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-20T10:55+05:30",
+     "score": 7.4,
+     "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Cyclone 'Akvan' LIVE: Odisha's coastal districts witness rough sea and strong winds as landfall begins",
+       "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+       "publishedAt": "2026-11-20T10:55+05:30"
+      }
+     ]
+    },
+    {
+     "title": "U.S., China, Russia hold historic summit in Shenzhen",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQ1R1em5uRXg4U2xmMlRUbDVqVHVra1U0bUZucGgxX3dMN2JMYU5YazlFc3NMcjU3OExLUkRJbUxVSXpSTU54NFFVakxyNFotWUM3M25uck42RW1xS3JNbDI0TG1HQVlLYWNkNVF3Z3JQWTJBZEp2QWNjWEVLcFVIUVJ2R1Z6Nk92bm9nYV9PTmVEMk5QUGhuQ3NRVjZmNFl1Smh1NDgzdDRjNG1sQ0tQWHpYNDV5aWxfcGNiZXNDZ2tVQTQ5dEpGMUZSc2hQYnlKSWd6YTJxMzloN1Z5WWxtNzZrWTY1SkJ2elFDRVo0SmE0X2E0eG9aS3RkSWwyTld3U3fSAYgCQVVfeXFMT25ZOENvLTF1X012b0txbF82bmc4UjhSM1J0dXVnY1NBR09HeklkWTBwYUJ2UV9IRDByck4yVVNsUTA2S19XWi02OGFDOWNubGpzZ2tNQUFUQUlJVlpRa0s0cnJqYkx2czBUMVhnaWFTUlJlOFFJU21WZG8tTXZMZmhvN3lyaXhrZlQ3S0VPc0hJZFhlUEd6bHJRV3ZWajljY1JhS2R5d3NvSTlyTjU2V05iazBRVHBzbVUxQ1dZd3FNNlI2aHhFLVJHU21JaHdzVHdjcFh1eEdqbzZVNHZUMWZZcDFMV2NJaWZnVnFMWjk0VDBaaGxYWUdtQzlIXzIyMFE5ekNUbkJu?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "BBC",
+      "CNN",
+      "News On AIR",
+      "The Economist",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-20T09:39+05:30",
+     "score": 7.19,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "U.S., China, Russia hold historic summit in Shenzhen",
+       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQ1R1em5uRXg4U2xmMlRUbDVqVHVra1U0bUZucGgxX3dMN2JMYU5YazlFc3NMcjU3OExLUkRJbUxVSXpSTU54NFFVakxyNFotWUM3M25uck42RW1xS3JNbDI0TG1HQVlLYWNkNVF3Z3JQWTJBZEp2QWNjWEVLcFVIUVJ2R1Z6Nk92bm9nYV9PTmVEMk5QUGhuQ3NRVjZmNFl1Smh1NDgzdDRjNG1sQ0tQWHpYNDV5aWxfcGNiZXNDZ2tVQTQ5dEpGMUZSc2hQYnlKSWd6YTJxMzloN1Z5WWxtNzZrWTY1SkJ2elFDRVo0SmE0X2E0eG9aS3RkSWwyTld3U3fSAYgCQVVfeXFMT25ZOENvLTF1X012b0txbF82bmc4UjhSM1J0dXVnY1NBR09HeklkWTBwYUJ2UV9IRDByck4yVVNsUTA2S19XWi02OGFDOWNubGpzZ2tNQUFUQUlJVlpRa0s0cnJqYkx2czBUMVhnaWFTUlJlOFFJU21WZG8tTXZMZmhvN3lyaXhrZlQ3S0VPc0hJZFhlUEd6bHJRV3ZWajljY1JhS2R5d3NvSTlyTjU2V05iazBRVHBzbVUxQ1dZd3FNNlI2aHhFLVJHU21JaHdzVHdjcFh1eEdqbzZVNHZUMWZZcDFMV2NJaWZnVnFMWjk0VDBaaGxYWUdtQzlIXzIyMFE5ekNUbkJu?oc=5",
+       "publishedAt": "2026-11-20T09:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
+     "source": "BBC",
+     "sources": [
+      "BBC",
+      "Rockstar Games",
+      "The Guardian",
+      "The Hindu",
+      "The New York Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-20T08:24+05:30",
+     "score": 6.98,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BBC",
+       "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
+       "publishedAt": "2026-11-20T08:24+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-20T10:00+05:30",
    "generatedAt": "2026-11-20T10:28+05:30",
@@ -30118,161 +30284,6 @@
        "title": "Kia India Announces Second Plant In Anantapur - USD 2 Billion Investment (Rs 18,800 Cr)",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb1dEQnVLbVZXM0Y2MXZqeHZXRWoyQl9kS0RZZkp6VUdlZU00aDNiMDlnT0k0Z1h4bmJTYUxLVzZRQ1pXWU9nSFZGWTNDOUwtQm1GQkNWUlM2T3phUEN0c0VkN3ZJT2pSYmFfRXdlYnc1VEhHTFlPRnFaMWVyWF9WdUlCc2dzN2VUUTNHQUctaUFaMVVhVWFfaE12Tjh0NWfSAZ8BQVVfeXFMT29XREJ1S21WVzNGNjF2anh2V0VqMkJfZEtEWWZKelVHZWVNNGgzYjA5Z09JNGdYeG5iU2FMS1c2UUNaV1lPZ0hWRlkzQzlMLUJtRkJDVlJTNk96YVBDdHNFZDd2SU9qUmJhX0V3ZWJ3NVRIR0xZT0ZxWjFlclhfVnVJQnNnczdlVFEzR0FHLWlBWjFVYVVhX2hNdk44dDVn?oc=5",
        "publishedAt": "2026-11-12T14:10+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-12T14:00+05:30",
-   "generatedAt": "2026-11-12T14:27+05:30",
-   "feeds": 16,
-   "headlines": 292,
-   "stories": [
-    {
-     "title": "Woman Objects To \"Bad Touch\", Pushed Off Mumbai Local, Loses Arm",
-     "link": "https://www.ndtv.com/india-news/woman-objects-to-bad-touch-pushed-off-mumbai-local-loses-arm-12315753#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "NDTV",
-      "NDTV Profit",
-      "News18",
-      "THE WEEK",
-      "The Indian Express",
-      "Times of India",
-      "Udayavani"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-12T11:22+05:30",
-     "score": 8.24,
-     "summary": "The young woman had boarded the local train traveling from Borivali to Virar. She was allegedly pushed off the train at Naigaon station.",
-     "image": "https://c.ndtvimg.com/2026-11/rrlompbs_mumbai-local-_625x300_12_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Woman Objects To \"Bad Touch\", Pushed Off Mumbai Local, Loses Arm",
-       "link": "https://www.ndtv.com/india-news/woman-objects-to-bad-touch-pushed-off-mumbai-local-loses-arm-12315753#publisher=newsstand",
-       "publishedAt": "2026-11-12T11:22+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Woman objects to molestation, gets pushed off Mumbai local train, loses left arm",
-       "link": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-local-horror-woman-objects-to-molestation-in-compartment-gets-pushed-off-train-loses-left-arm/articleshow/135756172.cms",
-       "publishedAt": "2026-11-12T10:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India contemplate releasing Gurnoor Brar early for Test preparations",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-contemplate-releasing-gurnoor-brar-early-for-test-preparations/articleshow/135760235.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricinfo",
-      "Deccan Herald",
-      "India Fantasy",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-12T13:07+05:30",
-     "score": 7.03,
-     "summary": "India are considering releasing Gurnoor Brar from the ODI squad after Friday's match to bolster their preparations for the upcoming Test series against New Zealand. Meanwhile, Ruturaj Gaikwad is likely to replace Shubman Gill as an opener for the fourth ODI, with Ishan Kishan expected to continue in the middle order.",
-     "image": "https://static.toiimg.com/photo/msid-135760311,imgsize-110130.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "India contemplate releasing Gurnoor Brar early for Test preparations",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-contemplate-releasing-gurnoor-brar-early-for-test-preparations/articleshow/135760235.cms",
-       "publishedAt": "2026-11-12T13:07+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "India contemplate releasing Gurnoor Brar early for Test preparations",
-       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMkxGeEVUX2YzQmktU2g2YTdJNjdKN2VaZUhQeHhWUnNjbkJpeUp3NFY4cjQ5NXBpSUxUOWItWjhsNVhia3NHclVqU1hpcnFtMVh4WTdMT2VMR05LMUt3MElheHNHa2VYaTk5OUM2NnNIME41YjYyVlRRUkg5QzBMT2w2eHdGc2RVNWM2TW9aRnhxelhZNUc1LW8tNi12cld2YlNQVjhIb01CbWpaOXluMnFuTTQ0bHl3QjVVazVfWEFmaXZpdVA5SVVqWWJLeEZYcFl6c25rbnpqRlpkUmlNOGxGa0d0UTZKbkM4bVlpbHVNVlZmTlVpR3Bn?oc=5",
-       "publishedAt": "2026-11-12T13:07+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Owaisi, Azad likely to announce alliance on November 12 for Uttar Pradesh elections",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjVNVHFvdFdnVGJ1MWxLLTJaYXZSZV9zMXpZTkR0SmVoM0hIRlFsZXQ0MFJ6TXhwMTFLSG4wMFJsT1hKdHpxU3VLaVkzb1l5N1g5V3RlVlNVa2tCdzhncWZZT3VZUzAzRk8xRDdUc0NsSWo5bXFqMmhFbDllNEtxclVKWGdMVnZ0aEw4RGtkYTlINm05Si1Xa0ZmSWJOTVNoV1ZncXRDcWViVjFWVmUwTHFLSDcyQ1c5VEpPUUln0gHEAUFVX3lxTE5saHRyWV9mWUV1R0NJMTA3d3o2NUtXaHc3Vl9VcHE3Nzl2Y19zRlNXVENfYnhHcjNIbGllNHd4bVlvWXJmcGxqSUdtcUptQnd5VXRyRXBTNWNXeE9pNW10dFFDbnJhcEpSTzQ5aTVVZVljVnlPcV9xOVpuZEhrQUV3T0R6RFVmZFBNVDJqd3NDWm1tekxhYk00M2dwN05EUnZUV2hfLUk1bWF5S0JlRThSYlBmY0JPcndfUkhNR1lPQWZENmc?oc=5",
-     "source": "The Hindu",
-     "sources": [
-      "NDTV",
-      "Scroll.in",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-12T10:36+05:30",
-     "score": 6.86,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Owaisi, Azad likely to announce alliance on November 12 for Uttar Pradesh elections",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjVNVHFvdFdnVGJ1MWxLLTJaYXZSZV9zMXpZTkR0SmVoM0hIRlFsZXQ0MFJ6TXhwMTFLSG4wMFJsT1hKdHpxU3VLaVkzb1l5N1g5V3RlVlNVa2tCdzhncWZZT3VZUzAzRk8xRDdUc0NsSWo5bXFqMmhFbDllNEtxclVKWGdMVnZ0aEw4RGtkYTlINm05Si1Xa0ZmSWJOTVNoV1ZncXRDcWViVjFWVmUwTHFLSDcyQ1c5VEpPUUln0gHEAUFVX3lxTE5saHRyWV9mWUV1R0NJMTA3d3o2NUtXaHc3Vl9VcHE3Nzl2Y19zRlNXVENfYnhHcjNIbGllNHd4bVlvWXJmcGxqSUdtcUptQnd5VXRyRXBTNWNXeE9pNW10dFFDbnJhcEpSTzQ5aTVVZVljVnlPcV9xOVpuZEhrQUV3T0R6RFVmZFBNVDJqd3NDWm1tekxhYk00M2dwN05EUnZUV2hfLUk1bWF5S0JlRThSYlBmY0JPcndfUkhNR1lPQWZENmc?oc=5",
-       "publishedAt": "2026-11-12T10:36+05:30"
-      }
-     ]
-    },
-    {
-     "title": "10 killed as passenger vehicle plunges 500 metres down slope in Nepal",
-     "link": "https://timesofindia.indiatimes.com/world/south-asia/10-killed-as-passenger-vehicle-plunges-500-metres-down-slope-in-nepal/articleshow/135758559.cms",
-     "source": "Times of India",
-     "sources": [
-      "Nepalnews.com",
-      "The Hindu",
-      "The Kathmandu Post",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-12T12:07+05:30",
-     "score": 6.65,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135758593,imgsize-1371678.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "10 killed as passenger vehicle plunges 500 metres down slope in Nepal",
-       "link": "https://timesofindia.indiatimes.com/world/south-asia/10-killed-as-passenger-vehicle-plunges-500-metres-down-slope-in-nepal/articleshow/135758559.cms",
-       "publishedAt": "2026-11-12T12:07+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "10 killed as passenger vehicle plunges 500 metres down slope in Nepal",
-       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM2JySV81cGsyclVFMUhnbl9aUjZmQTR5QTJsVkxodVZkTmdBNW9YQlo4SFVNTnBGV1k5T1hwR3dYTU4wcUN4dlRHLV9IaWFnMXVRcUtPaG0xU0VyYW9QRF8tNjR1QTktWWtFY3ZvbDl6bGt1OFh2QkRZaC16ODktaFVzQU9TZ0J3THV4WjBFWjNPWnNOY2lYb0U3U2dnaGlISjJYQ3paUjdpM0l5VHlmYlE4TzFCUVBzTjIwTzBCSHRVMk0yQW9DTDhuS1JmNXdBMks2Y1ZRTnBaS09RSW45RW1B0gHnAUFVX3lxTE51RUliNEdKd0tmSGpSMGpBSjdrLW9fVzFjTkZlVWE0WEZROWNxSE9mSDAwbFcyekVVXzZQY1hWUndFVXo0VG1ITWVSNU5YMjhuNzE0Q05NS0tyX29tS0o5V0FBQjVLX0t3U0FQcGRhQnBncy1kbURmRmtZMDFvbnFNYXFvN0poLWdMbHM0TFNiSkUzaTlEcXduYkZSQkl6SlJONXA1dHNWS0IzUFhRQ0hURTY4c0g3ZmVFUjZnbHRxMlQtQnFVNWV1cWloc2NLU0pjbGxfYUwtbE1ieEItbFRaWW8wZE51SQ?oc=5",
-       "publishedAt": "2026-11-12T12:07+05:30"
-      }
-     ]
-    },
-    {
-     "title": "IND U19 vs AFG U19 Live Score, Under 19 Asia Cup: India trigger massive collapse",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGVlN3Z2YTNzM1NzZ3ItNXQtZlBnV2FmMXV6ZlU4T2V1SU9ZQkdXMzl2NU1RemYwd3ZYeDlzaERJY3JPVW9WZ2F3UWtnbkpLdlhOeTk2bDl5cjkwRzB6d2g5allkclpfcWtSRGQyU2ZLSEtycXl0SEN3a243RUhuNTFBcWI3V2lldnYwX2V1WWNaNWE5SVB0ZTZ5Y2tBZ01OZDlYWVBoaEZqTkZKLWZKZkoyS19LZ1RpcmM4SXhSUHZBUDlzbHpB0gHOAUFVX3lxTE5kMU9QdkdqS0tJRGx2SVlfNWpZMTd4eHIxWU5FZlNZQUNrbWswMnNvMFg0OHpybVB0X2kzMUw3SmRvVGgwQnJXZjBpb0o5UVVhU05LcXQ4STFoWjBjaDkzdElHdjNtX195NlYxcEM3c2RWR1NqOEplWE1PX2FST1lYLTdKSGt3RXRnT3c0TmpmQzk5QXFPSE1wNGI3cHY1VHppRktTTFYxZ2hobTFBMTZsbElPODdLOW1jSHJlLTR3Vkg2QnFjS2lmbmZUUzFn?oc=5",
-     "source": "The Indian Express",
-     "sources": [
-      "BCCI",
-      "Cricbuzz",
-      "NDTV Sports",
-      "Sportstar",
-      "The Indian Express"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-12T14:21+05:30",
-     "score": 6.48,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "IND U19 vs AFG U19 Live Score, Under 19 Asia Cup: India trigger massive collapse",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGVlN3Z2YTNzM1NzZ3ItNXQtZlBnV2FmMXV6ZlU4T2V1SU9ZQkdXMzl2NU1RemYwd3ZYeDlzaERJY3JPVW9WZ2F3UWtnbkpLdlhOeTk2bDl5cjkwRzB6d2g5allkclpfcWtSRGQyU2ZLSEtycXl0SEN3a243RUhuNTFBcWI3V2lldnYwX2V1WWNaNWE5SVB0ZTZ5Y2tBZ01OZDlYWVBoaEZqTkZKLWZKZkoyS19LZ1RpcmM4SXhSUHZBUDlzbHpB0gHOAUFVX3lxTE5kMU9QdkdqS0tJRGx2SVlfNWpZMTd4eHIxWU5FZlNZQUNrbWswMnNvMFg0OHpybVB0X2kzMUw3SmRvVGgwQnJXZjBpb0o5UVVhU05LcXQ4STFoWjBjaDkzdElHdjNtX195NlYxcEM3c2RWR1NqOEplWE1PX2FST1lYLTdKSGt3RXRnT3c0TmpmQzk5QXFPSE1wNGI3cHY1VHppRktTTFYxZ2hobTFBMTZsbElPODdLOW1jSHJlLTR3Vkg2QnFjS2lmbmZUUzFn?oc=5",
-       "publishedAt": "2026-11-12T14:21+05:30"
       }
      ]
     }
