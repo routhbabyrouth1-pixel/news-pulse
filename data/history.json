@@ -1,6 +1,180 @@
 {
- "updated": "2026-11-20T23:25+05:30",
+ "updated": "2026-11-21T00:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-21T00:00+05:30",
+   "generatedAt": "2026-11-21T00:26+05:30",
+   "feeds": 16,
+   "headlines": 276,
+   "stories": [
+    {
+     "title": "ENE Repeat Box Office Collection Day 2",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGl3cVRVMU9wckE4QlJkWnNFTzZtejdnMjRPYWJNQmZOLVZlSkNhcTUyTm1QYmVBSDRnR3ZJME1fR0JpVXZ6WU5TYmZ0Rmk5ZDJBaVk3VXVrZXEyMTJoazk3aWpZZWRUSEltQjdkZ0s2N2dUSGJpVjZiV1dNU1pkNXRGYw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "IMDb",
+      "Koimoi",
+      "NDTV",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Tupaki English",
+      "UB - Universitat de Barcelona",
+      "iDiva"
+     ],
+     "sourceCount": 12,
+     "publishedAt": "2026-11-21T00:03+05:30",
+     "score": 13.15,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 2",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGl3cVRVMU9wckE4QlJkWnNFTzZtejdnMjRPYWJNQmZOLVZlSkNhcTUyTm1QYmVBSDRnR3ZJME1fR0JpVXZ6WU5TYmZ0Rmk5ZDJBaVk3VXVrZXEyMTJoazk3aWpZZWRUSEltQjdkZ0s2N2dUSGJpVjZiV1dNU1pkNXRGYw?oc=5",
+       "publishedAt": "2026-11-21T00:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "SP to contest 30 Uttarakhand seats with Congress",
+     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/samajwadi-party-to-contest-30-seats-in-uttarakhand-in-alliance-with-congress/articleshow/136027901.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T21:35+05:30",
+     "score": 7.27,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "SP to contest 30 Uttarakhand seats with Congress",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/samajwadi-party-to-contest-30-seats-in-uttarakhand-in-alliance-with-congress/articleshow/136027901.cms",
+       "publishedAt": "2026-11-20T18:27+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "ECI Rajasthan Panchayat Election Results 2026 LIVE Updates: Congress pulls ahead of BJP, leads in over 3,700 Panchayat seats",
+       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORlZBWkRaeTZUUGZhSFhucGpkaWw4bWV1WE9jd0Z6UGpoa0dQWDNaX1pJejlQRTdYaW1kVlBOUFg4c01ueU5lcXg5STZBOWVjMlM1d1A1WmYyNHJuRmFueDFYUE9HTHcwQ2VzQ0NPNUFSamtnZHR6WElRT2J0Umxuc3dSUU9SNFhpRU1YZVBIbTdiUzJ0US1OXzhCUWQ0WFBPcVZBZFZUdjRHWG15MnRRcTlId2ZrMGVPVFBzRnNIbXVLQ19kSWlHUWZsMUFybXZVNjFJNUh3bnJVdDk0OWw5SA?oc=5",
+       "publishedAt": "2026-11-20T21:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pahalgam attack: China yet to share info on how its GoPro was found on terrorists",
+     "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-beijing-yet-to-share-info-on-how-gopro-camera-us-supplied-to-china-were-found-on-terrorists/articleshow/136031503.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "Telegraph India",
+      "The Times of India",
+      "Times of India",
+      "Vibes Of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T20:41+05:30",
+     "score": 6.88,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136031569,imgsize-262552.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Pahalgam attack: China yet to share info on how its GoPro was found on terrorists",
+       "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-beijing-yet-to-share-info-on-how-gopro-camera-us-supplied-to-china-were-found-on-terrorists/articleshow/136031503.cms",
+       "publishedAt": "2026-11-20T20:41+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Pahalgam attack: Beijing yet to share info on how GoPro camera US supplied to China was found on terroris",
+       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdndSWEhobkZLTG1RVWotTnRXNmg5VVpmTW5kNFhMSFJpUWFjOXZOSlJXNVAydnNSTEtOVU8tTl9Da1BFbEl0RW9fV1YtVjhmRTlyNFFSc3BIRjN4NjhrWExrdW9ra1dpX1Ffc21WYlotMjhQY0UwVWt6Si15M3VoanZHM1p6bHkyemtyN3VFSFQ0OENNaVhGcUZCVkpDTS00cmFfSkIxNTFjeVNkV0lLYmk5YjVyWlhGLW0tVEdGaENlc1NHYVlaeGNSTGRLSUVqVHNLRGhkc3BUNFRia3BncDRvQnRwYnlqWnhDTzhuOGluMDhHUkN0U0tvbk54TmJHV3VEUDVR?oc=5",
+       "publishedAt": "2026-11-20T20:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+     "link": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "The Guardian",
+      "The Times of India",
+      "The Washington Post",
+      "Times of India",
+      "qz.com"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T23:24+05:30",
+     "score": 6.86,
+     "summary": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
+     "image": "https://static.toiimg.com/photo/msid-136036120,imgsize-67902.cms",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+       "link": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+       "publishedAt": "2026-11-20T23:24+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Zohran Mamdani sets 2032 deadline to close notorious Rikers Island jail",
+       "link": "https://timesofindia.indiatimes.com/world/us/our-nation-has-a-mass-incarceration-problem-mamdani-sets-2032-deadline-to-close-notorious-rikers-island-jail/articleshow/136035337.cms",
+       "publishedAt": "2026-11-20T23:16+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "New York mayor Zohran Mamdani unveils a $290 million plan to close Rikers Island by 2032, five years afte",
+       "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPYzcxWDVTYmVYMVFLa2pYeUhKQWdldVdpd2ZseFJFRWpsOWpDRGZQbWROWkdBSG5EMGx0ZldxS2VVYW52NXdYSE16eFE4REJ5VkFrUWpDTnEtWjFHeWdFMUVDZ1hqdTdtLVA0U01mbmw3SE5uTXpoRDhSSmZhNVNQNlJacm5lQTBYQmdSeGEzWEVyeE01czZCMkFjOXV1SG1PWDdSWmxVamc1XzNUN0g1WWMwa3BxX3oxVXB0dG56TVZEZUNjNER3cjZpekRpZGg3S0U5cUhidzA5dV9jOEpaTUFMZF9pcDQyc3BPR1pfVGl3R1JIVnFuR2JFVm5pbmZ2R09UaHdfcS1ib3BvLVF3TnhQZ2R4RURiOEJyU3JLVFotenM2bmdZTkprTWVLNUhZcG9IZ3VsQkVxQlg2XzYxVEtJOE1VTmdsYnkxTF9TSV9ka3BoS29Ja1lLYk1DY1IxZHppbDAwTkpwb0pPdEh6V2lxRmhVSmlKcDdmalhITzBRcXRNZVcwREhSTGNvcVXSAZQDQVVfeXFMTmxJZXFtTV9tOEthUER3a1FrbFVrMHpqeko2QkpRQmFJSzYyV2ZxVjRpQV9PdWZDc1Z4Sjk5R1dqQjltMzNpcVk1blRCR2hsNktsc1NQYUs3X1p1TU5HOFlpeWdaeGtEcnlwaFpWcjRxa1A2TnlXVEdrSEphT0NPTExzX002WDdZT240djk5MFlfWm82eFEwYlAxaTB0a1dqcTFnWER6U1d2RkRyOXh2NEFpVzRRUlBFVVM0Tm9Fb0lsaFF4WWlOSTluR0kxZndJamQ5bVYtbGlBbVloVzNrbDhWU0FHemZzalBIUnRTSGx3WTUtSU1MVVRQY1VwWm5DaVJ1dk9VcXlhckZRVGlYSExJVHlxZ2xfb09KNzh2UTkxVW1acGNEY0drU2VTbVI3ek8yeEhodkRoUDc3UWpkWE96UXBiZTd2MmUxMlFfV09Id1hRa3Vlamp2dWNyTlZPMHpqd2hwcUI5R0F4RlBDMWlnd3dzUVQzeGxsN2plelVwVGE3ZFllYWROYXZicF93UWNXclc?oc=5",
+       "publishedAt": "2026-11-20T18:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Watch: Paper bombs, firecrackers hurled at edu ministry in Italy as protests intensify",
+     "link": "https://timesofindia.indiatimes.com/world/europe/watch-paper-bombs-hurled-firecrackers-bursted-outside-education-ministry-in-italy-as-protests-intensify/articleshow/136032887.cms",
+     "source": "Times of India",
+     "sources": [
+      "Deccan Chronicle",
+      "India Today",
+      "The Hindu",
+      "The Independent",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T21:47+05:30",
+     "score": 6.6,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136033183,imgsize-8374165.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Watch: Paper bombs, firecrackers hurled at edu ministry in Italy as protests intensify",
+       "link": "https://timesofindia.indiatimes.com/world/europe/watch-paper-bombs-hurled-firecrackers-bursted-outside-education-ministry-in-italy-as-protests-intensify/articleshow/136032887.cms",
+       "publishedAt": "2026-11-20T21:47+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Watch: Paper bombs hurled, firecrackers bursted outside education ministry in Italy as protests intensify",
+       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ3NEU0lQX3pjQ1FNN1VIVVNDd1hsTkczNGtBaEY5ajg5d0c5NGpLTlNqYVhhajQzVk1jRmtqNEpRZnFnSzFUeW0zM2pVRERoU2JRS1R5bUVNNWNLWm4wYzJDWmI3Z0dJNkdtNnhQeWtRM1dVT3JwZy02emEzbFJMeTRLODJfeFBPdnRGeW80MEJSTTJzQTdTZzFFZnBWM0g0Szh2eGt1ZEp2MlJUNC03QnlQeDR2WFc1TkNFV2p1Ty1qY2tWamNJLW13YTJXSVpZOThRVGxrZmUzQlNmUDYzU0lCMmhxWkxFQ1d1aTY5MUhwSDJnOXkwM0JHVl83bi12WE5EcTVMUlJaUQ?oc=5",
+       "publishedAt": "2026-11-20T21:47+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-20T23:00+05:30",
    "generatedAt": "2026-11-20T23:25+05:30",
@@ -29864,209 +30038,6 @@
        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq end lower; bond yields jump; Jensen Huang resigns from Nvidia — live updates",
        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGNYLThrNnhscF9EMGJ3RmNPb0JGaEhHZkRvZnMyTWJ6NzdyalFOZGJZclFENVktUDNCZ3hLRmNUdmNfank3cm1BeGtYVVlZMXlBZE94aE9pdVk1dmMwd0VwQWNGR20xaG5VWU9CU2JXUlVZQ2lPWGJoQ1NFbmRFZFJzQnpDdi1ZSjlvSnJGblRyU3M2ZWVqODVXbXRYY0RnRi1meXhOX21SSWk3ZDk1SktKU3VLS21tNmc?oc=5",
        "publishedAt": "2026-11-13T02:31+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-13T02:00+05:30",
-   "generatedAt": "2026-11-13T02:18+05:30",
-   "feeds": 16,
-   "headlines": 231,
-   "stories": [
-    {
-     "title": "Nvidia Ex-CEO Jensen Huang Had Affair With One More Employee: Report",
-     "link": "https://www.ndtv.com/world-news/exclusive-former-nvidia-ceo-huang-had-a-relationship-with-a-second-employee-sources-say-12319696#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "BBC News",
-      "Bloomberg.com",
-      "CNBC",
-      "Inc.com",
-      "Investing.com",
-      "MarketWatch",
-      "NDTV",
-      "Reuters",
-      "The Economic Times",
-      "WSJ",
-      "Yahoo Finance"
-     ],
-     "sourceCount": 11,
-     "publishedAt": "2026-11-13T02:06+05:30",
-     "score": 12.72,
-     "summary": "Ousted Nvidia CEO Jensen Huang had an intimate relationship with a second employee, according to two people familiar with the matter, Reuters has learned.",
-     "image": "https://c.ndtvimg.com/2026-11/5f45ka8o_jensen-huang-photo-appti_625x300_10_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Nvidia Ex-CEO Jensen Huang Had Affair With One More Employee: Report",
-       "link": "https://www.ndtv.com/world-news/exclusive-former-nvidia-ceo-huang-had-a-relationship-with-a-second-employee-sources-say-12319696#publisher=newsstand",
-       "publishedAt": "2026-11-13T01:42+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Jensen Huang has resigned, what's next for Nvidia?",
-       "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-13T01:03+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Nvidia stock after Jensen exit: Crash or rally?",
-       "link": "https://economictimes.indiatimes.com/news/international/us/nvidia-stock-falls-after-jensen-huang-resigns-will-nvda-crash-further-or-rebound-heres-what-happened-to-intel-hp-mcdonalds-and-wynn-after-their-ceos-left/articleshow/135773534.cms",
-       "publishedAt": "2026-11-12T20:46+05:30"
-      },
-      {
-       "source": "MarketWatch",
-       "title": "Stock Market Today: Dow, S&P 500 and Nasdaq turn lower; bond yields jump; Jensen Huang resigns from Nvidia — live updates",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGNYLThrNnhscF9EMGJ3RmNPb0JGaEhHZkRvZnMyTWJ6NzdyalFOZGJZclFENVktUDNCZ3hLRmNUdmNfank3cm1BeGtYVVlZMXlBZE94aE9pdVk1dmMwd0VwQWNGR20xaG5VWU9CU2JXUlVZQ2lPWGJoQ1NFbmRFZFJzQnpDdi1ZSjlvSnJGblRyU3M2ZWVqODVXbXRYY0RnRi1meXhOX21SSWk3ZDk1SktKU3VLS21tNmc?oc=5",
-       "publishedAt": "2026-11-13T02:06+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Mookuthi Amman 2 Box Office Collection Day 7",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "Bollywood Bubble",
-      "Business Standard",
-      "Deccan Chronicle",
-      "NDTV",
-      "Outlook Luxe",
-      "Rediff",
-      "Sacnilk",
-      "Telegraph India",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-12T22:34+05:30",
-     "score": 11.88,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Mookuthi Amman 2 Box Office Collection Day 7",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
-       "publishedAt": "2026-11-12T22:34+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana Part 1 Box Office Collection Day 7 LIVE: Ranbir Kapoor film crosses Rs 1000 cr worldwide, inches away from surpassing Dhurandhar 2",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz0gH7AUFVX3lxTE1jak13ODctTWJQNEd6VFdHam9PWFh0WjFwalJaazhiOS1qUmF1UXZOd0MzTXRSbldnOFpTMUowSk9zRlZha01LV0pqWFR2cDNRQWczeHdpZ285elFhYVJLejZsSkhWbGNOVGtrQklFYnhFUGdPSWhmQmt3SFROU2xWaW1PYy16SXNHeFNFdmpoV1Vyc3ZLb2pDa2Jmd0pKbFdmNjh2eTZ5YXpnVThFU21lcW1EYUV3TnhLT2xFQ1M4OGg5WE91QzBSZ2hGb2I5d2NOd2VvVkJ2VEdoT2l5aFh3bkNDeElSTG9FVlB4aEYyRUNoRTNYX2xnQ0Zz?oc=5",
-       "publishedAt": "2026-11-12T22:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft Outlook down today?",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "9News",
-      "ABC10",
-      "Breakingthenews.net",
-      "GV Wire",
-      "Mashable",
-      "The Economic Times",
-      "Variety"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-13T00:37+05:30",
-     "score": 9.22,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Microsoft Outlook down today?",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
-       "publishedAt": "2026-11-13T00:37+05:30"
-      },
-      {
-       "source": "9News",
-       "title": "Is Microsoft Outlook down? Thousands report issues with platform",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM3YwQ1RxQWRkUjZ1VF9CZ0VmTkxnXzhhMFdJaHlCQ2ZzeThYYXVOdW5ZWC1HeUpTUXp4R3ZnVnY4bHFfb3pGVWRESEhqYU9zTnUyQ1ZNdU1faVBJVl9obUhZa3BaTVFaQU5rbDE4a3F2NG1USEM0c0NfQTFYQmdxYy1WQUYyRGcxZkpWUXFUSmpNdWh5SHFiNnc2TzlkdHBxOExqWFVja21scEhqMHdKM3RnZ3J1dkwyaDA5bU9TWV91X0VIaHJCOERjbnRLSzd6QnRqUUdn?oc=5",
-       "publishedAt": "2026-11-12T23:50+05:30"
-      },
-      {
-       "source": "Breakingthenews.net",
-       "title": "Microsoft users experiencing Outlook outage",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWhwSjJ0UE9hTThmeDJzb0RZVjlnbmszay10a1Nfb2ZEWm9BWmtuZWRpVk1EcHVQTk5FUnY0d3RkNjE0SVVMRkRjdWNZWTFCaFZjVTh0OElnSTFPZEFWb0RIWGpUN01tbjVMYzdsRmg1XzRZLXd5Z3YteXJ3WVhNWGZTS2FRNFE2VnBOZU5YS2dvUQ?oc=5",
-       "publishedAt": "2026-11-12T23:45+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Indian nationals among 14 killed in deadly multi-vehicle crash in UAE's Fujairah",
-     "link": "https://timesofindia.indiatimes.com/world/middle-east/indian-nationals-among-14-killed-in-deadly-multi-vehicle-crash-in-uaes-fujairah/articleshow/135780631.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "Gulf News",
-      "Reuters",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-13T00:00+05:30",
-     "score": 8.12,
-     "summary": "Officials say a driver lost control of his truck, causing a collision and fire involving 23 vehicles.",
-     "image": "https://static.toiimg.com/photo/msid-135780728,imgsize-619250.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Indian nationals among 14 killed in deadly multi-vehicle crash in UAE's Fujairah",
-       "link": "https://timesofindia.indiatimes.com/world/middle-east/indian-nationals-among-14-killed-in-deadly-multi-vehicle-crash-in-uaes-fujairah/articleshow/135780631.cms",
-       "publishedAt": "2026-11-13T00:00+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-       "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
-       "publishedAt": "2026-11-12T21:53+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Indian nationals among 14 killed in deadly multi-vehicle crash in UAE's Fujairah",
-       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSC1vVVQzbERPQzBpMkRJeWM2SVNvZGFPZFE1RTdPVU5WcnJYV1psaFVsVHRiaVE3dmRMRWh0RHFtTXltdkdZdU83QlJjaExDYXRacWlydnI1cUUwY1BsdHdpaDdIa1JBVWdBVWF0aWdzaGkySGhHSmk3dFJYUG5Wd0xraFdrYUc1TUYtQ0Q3b1RwSkxqdmM3Z0VXSFpnSmFWY3hhOWxkY29SanJCR1JlRnZpcE83cTFwYXVqOE5tY3FZSFM5ZkZ5dFQ2SWw1YlVuaU93MmZtQ2h3OVBLa2xnV1VOeldTSW5RTFVtZ2gzV1E?oc=5",
-       "publishedAt": "2026-11-13T00:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Foreign troops in Ukraine unacceptable': Putin's blunt message to Trump's envoys",
-     "link": "https://timesofindia.indiatimes.com/world/europe/foreign-troops-in-ukraine-unacceptable-putins-blunt-message-during-meeting-with-trumps-envoys/articleshow/135776301.cms",
-     "source": "Times of India",
-     "sources": [
-      "BBC",
-      "DW.com",
-      "The Guardian",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-12T21:41+05:30",
-     "score": 7.73,
-     "summary": "Russian President Vladimir Putin declared that foreign military presence in Ukraine poses a direct threat to Russia's security, making them legitimate targets. His remarks were made during discussions with US officials like Steve Witkoff and Jared Kushner. He raised alarms about possible European troop involvement following a peace settlement in Ukraine.",
-     "image": "https://static.toiimg.com/photo/msid-135776358,imgsize-75490.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Foreign troops in Ukraine unacceptable': Putin's blunt message to Trump's envoys",
-       "link": "https://timesofindia.indiatimes.com/world/europe/foreign-troops-in-ukraine-unacceptable-putins-blunt-message-during-meeting-with-trumps-envoys/articleshow/135776301.cms",
-       "publishedAt": "2026-11-12T21:41+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Foreign troops in Ukraine unacceptable': Putin's blunt message during meeting with Trump's envoys",
-       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMUM4QTBSNGNhZ2lNN0hjS2Q0Z0E3bkNRNWNvUWVRZ3F0WWdvdHlQMU5mNTVhREVBNjE5RVEwMDhpdkN5Nl9acmpEeWZ0dG5VRVdfUnMzUWR4anFKb2tCWS1QcjVVdklSbWx5ckE5QU56cV91WFRmOTRFSXB1SmxRLVhyZWhNdGxLREt4OFRwczFrTEhqY2h6ZHpvNkdOY0l6aktpNHlEOExWTFlrb1k4TmZTUFl0YV9XZmM3OWxnN1Zla18tbWRpLUZvV2ozSmM0MWkxcTJJcGtjelE4T05zbGhUdjFuWXl0WDdSYU5td3hzalEwMHNYT0doVmw?oc=5",
-       "publishedAt": "2026-11-12T21:41+05:30"
       }
      ]
     }
