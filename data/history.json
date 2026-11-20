@@ -1,6 +1,174 @@
 {
- "updated": "2026-11-20T22:26+05:30",
+ "updated": "2026-11-20T23:25+05:30",
  "hours": [
+  {
+   "hour": "2026-11-20T23:00+05:30",
+   "generatedAt": "2026-11-20T23:25+05:30",
+   "feeds": 15,
+   "headlines": 279,
+   "stories": [
+    {
+     "title": "Godzilla Minus Zero Box Office Collection Day 1",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWNRZ1NleXloWDFzcmFqTDZXWndQQTNGeUstVmlUclpZeWk4a21fN0NXSHA3dzdBbUhuQWJ3UXU0MUdEY05sMGkwWmlwWFgwN0JMMVRzV0pVVGh3aWJpODM4VHBtR2RqUGdGZU82LWtfbmtQN3dmVjNTbXU5MVNYb2pCTGZOSWlnNEdydFpCYw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "IMDb",
+      "Koimoi",
+      "NDTV",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Tupaki English",
+      "UB - Universitat de Barcelona",
+      "iDiva"
+     ],
+     "sourceCount": 12,
+     "publishedAt": "2026-11-20T22:33+05:30",
+     "score": 13.07,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Godzilla Minus Zero Box Office Collection Day 1",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWNRZ1NleXloWDFzcmFqTDZXWndQQTNGeUstVmlUclpZeWk4a21fN0NXSHA3dzdBbUhuQWJ3UXU0MUdEY05sMGkwWmlwWFgwN0JMMVRzV0pVVGh3aWJpODM4VHBtR2RqUGdGZU82LWtfbmtQN3dmVjNTbXU5MVNYb2pCTGZOSWlnNEdydFpCYw?oc=5",
+       "publishedAt": "2026-11-20T22:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India develops first indigenous H5N1 bird flu vaccine, priced at  ₹1-2 per dose",
+     "link": "https://www.livemint.com/news/india-develops-first-indigenous-h5n1-bird-flu-vaccine-priced-at-1-2-per-dose-11795177299717.html",
+     "source": "Mint",
+     "sources": [
+      "ET Manufacturing",
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "News On AIR",
+      "Telegraph India",
+      "The New Indian Express"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-20T19:27+05:30",
+     "score": 7.38,
+     "summary": "India launched its first indigenous H5N1 bird flu vaccine priced at ₹1-2 per dose. The government says the vaccine will help limit poultry losses from recurring outbreaks and improve disease preparedness.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Bird-Flu-0_1716431781371_1795182640372_CIfP_cf4d0fd3-4941-4e4c-afd9-4e3edf25dd6f_dweg.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "India develops first indigenous H5N1 bird flu vaccine, priced at  ₹1-2 per dose",
+       "link": "https://www.livemint.com/news/india-develops-first-indigenous-h5n1-bird-flu-vaccine-priced-at-1-2-per-dose-11795177299717.html",
+       "publishedAt": "2026-11-20T19:27+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "India unveils first indigenous H5N1 bird flu vaccine for chickens at  ₹1-2 per dose",
+       "link": "https://www.hindustantimes.com/india-news/india-unveils-first-indigenous-h5n1-bird-flu-vaccine-for-chickens-at-1-2-per-dose-101795182511502.html",
+       "publishedAt": "2026-11-20T19:18+05:30"
+      },
+      {
+       "source": "News On AIR",
+       "title": "India develops first indigenous H5N1 bird flu vaccine",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3M0VTRrcERsRHdCSElhdGh1dGRzOVFsTFlQX3IyVnZscnFIRnFueGNFRWV1WFIwVE9paGNSWFlKYWg0U2FzT0hqM3lJNF9vUVlNR1pXWTVDU3VneUJkVUl5V2N4YXNLVEZmMXR0VFdNcjI3YXl1eVY2MTBCc1ZBWUVTZDVyUQ?oc=5",
+       "publishedAt": "2026-11-20T17:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pahalgam attack: China yet to share info on how its GoPro was found on terrorists",
+     "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-beijing-yet-to-share-info-on-how-gopro-camera-us-supplied-to-china-were-found-on-terrorists/articleshow/136031503.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "Telegraph India",
+      "The Times of India",
+      "Times of India",
+      "Vibes Of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T20:41+05:30",
+     "score": 7.04,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136031569,imgsize-262552.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Pahalgam attack: China yet to share info on how its GoPro was found on terrorists",
+       "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-beijing-yet-to-share-info-on-how-gopro-camera-us-supplied-to-china-were-found-on-terrorists/articleshow/136031503.cms",
+       "publishedAt": "2026-11-20T20:41+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Pahalgam attack: Beijing yet to share info on how GoPro camera US supplied to China was found on terroris",
+       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdndSWEhobkZLTG1RVWotTnRXNmg5VVpmTW5kNFhMSFJpUWFjOXZOSlJXNVAydnNSTEtOVU8tTl9Da1BFbEl0RW9fV1YtVjhmRTlyNFFSc3BIRjN4NjhrWExrdW9ra1dpX1Ffc21WYlotMjhQY0UwVWt6Si15M3VoanZHM1p6bHkyemtyN3VFSFQ0OENNaVhGcUZCVkpDTS00cmFfSkIxNTFjeVNkV0lLYmk5YjVyWlhGLW0tVEdGaENlc1NHYVlaeGNSTGRLSUVqVHNLRGhkc3BUNFRia3BncDRvQnRwYnlqWnhDTzhuOGluMDhHUkN0U0tvbk54TmJHV3VEUDVR?oc=5",
+       "publishedAt": "2026-11-20T20:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Rajasthan Panchayat Election Results 2026: Check ward-wise winners’ list for Zila Parishad and Panchayat Samitis",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlp4Tk03TjYySFpPZzF5MmRxVDJyQndnbXlLQUhsaXladC1WWDVNanp3b3dnQ21mbDB6NUg4X3ZJNFBWSm43SktWaTVaajdkY3NiRWVTMkVTOEF1WFhGZjhkQ2ZrX2JFOUZBUmRaYnZjM19wMmM5RWw3MGJmRXZET1VRcnFoV0t5U0c2cUtpMVpfQk5nbzZkOGxKaDAzSktFMjBsemRCb1V4WjFsY0xkdV9nOHE5NF93TVVqVUV4ckpMbzl6LVVRMkpEYUVjMG1rMW03UnZuemhkdEVZOVHSAeQBQVVfeXFMTjJHNTdxOVNFRG1rS1UwVXhudVJlZGVqTG1sOUY2bFRWeW1oeVVQejRxUnRNQXNCM19tWi1sNnRPVEFIUjk2YU1iSzFvRENqTVFPX3g5Sk9UaGx1bTZ4Und3b3lBa3hXa2JHYk44cnkxYWxRaGQ2d3VaU0pkdU5KeU45ZWZ5c1hXVWdMR1pOMDZRVF91ZFZHbHE3OVNFQWpVZWstT3JEcUE4M2oyLVRjQWRSM2RBeF90b2xxTTBvSVN5alpLUGFLdmtXSTJiZmxFRWtUMFRTM0duMTJadmVDci1nNVNV?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-20T22:26+05:30",
+     "score": 6.59,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Rajasthan Panchayat Election Results 2026: Check ward-wise winners’ list for Zila Parishad and Panchayat Samitis",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlp4Tk03TjYySFpPZzF5MmRxVDJyQndnbXlLQUhsaXladC1WWDVNanp3b3dnQ21mbDB6NUg4X3ZJNFBWSm43SktWaTVaajdkY3NiRWVTMkVTOEF1WFhGZjhkQ2ZrX2JFOUZBUmRaYnZjM19wMmM5RWw3MGJmRXZET1VRcnFoV0t5U0c2cUtpMVpfQk5nbzZkOGxKaDAzSktFMjBsemRCb1V4WjFsY0xkdV9nOHE5NF93TVVqVUV4ckpMbzl6LVVRMkpEYUVjMG1rMW03UnZuemhkdEVZOVHSAeQBQVVfeXFMTjJHNTdxOVNFRG1rS1UwVXhudVJlZGVqTG1sOUY2bFRWeW1oeVVQejRxUnRNQXNCM19tWi1sNnRPVEFIUjk2YU1iSzFvRENqTVFPX3g5Sk9UaGx1bTZ4Und3b3lBa3hXa2JHYk44cnkxYWxRaGQ2d3VaU0pkdU5KeU45ZWZ5c1hXVWdMR1pOMDZRVF91ZFZHbHE3OVNFQWpVZWstT3JEcUE4M2oyLVRjQWRSM2RBeF90b2xxTTBvSVN5alpLUGFLdmtXSTJiZmxFRWtUMFRTM0duMTJadmVDci1nNVNV?oc=5",
+       "publishedAt": "2026-11-20T22:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Will put him out of circulation': NIA on Canada naming Goldy Brar most-wanted criminal",
+     "link": "https://timesofindia.indiatimes.com/india/will-put-him-out-of-circulation-nia-chief-welcomes-canada-naming-goldy-brar-most-wanted-criminal/articleshow/136030092.cms",
+     "source": "Times of India",
+     "sources": [
+      "CTV News",
+      "Rediff",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T19:45+05:30",
+     "score": 6.49,
+     "summary": "The Canadian government has put a $250,000 bounty on gangster Satinderjeet Singh, known as Goldy Brar, who is wanted for first-degree murder connected to a recent homicide in Winnipeg. Brar, who is also on the FBI's Top 10 Most Wanted list with a whopping $1 million reward, poses a serious threat as he is armed and dangerous. His capture would significantly aid ongoing investigations into organized crime activities.",
+     "image": "https://static.toiimg.com/photo/msid-136030263,imgsize-694603.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Will put him out of circulation': NIA on Canada naming Goldy Brar most-wanted criminal",
+       "link": "https://timesofindia.indiatimes.com/india/will-put-him-out-of-circulation-nia-chief-welcomes-canada-naming-goldy-brar-most-wanted-criminal/articleshow/136030092.cms",
+       "publishedAt": "2026-11-20T19:45+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Will put him out of circulation': NIA chief welcomes Canada naming Goldy Brar most-wanted criminal",
+       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa2tCWE4yc2FZVGlkSXotTTVTelVqXzJ4c0hXSGszeEx6c1ZHdU5oT2tneXA2NVREZG5WOF8yYWxvUzlrR0VTWUFZblEyUmJOLWVaYWxqZGhBUXVCTE80RXlGeGk0NDMtMVhxSHhoZmFQcjhoZVRZTnkwQ21TYWMzR2NwWjQ4T0xxWW5jT0l0TUx0ZHRIaFNyeGdrS3JxYXdZQ0JCcWlrcVd4Ml96QzNaTDNQQ0FJQmZrUWx0bE5JZWU1NHluY2xvZGdKV1RVQ2cyamkzMnhyTFh5NzE0UFFlVm9CWGRpRDhUbkNuRGo4Z2V0VXR2UWhJ?oc=5",
+       "publishedAt": "2026-11-20T19:45+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-20T22:00+05:30",
    "generatedAt": "2026-11-20T22:26+05:30",
@@ -29899,226 +30067,6 @@
        "title": "'Foreign troops in Ukraine unacceptable': Putin's blunt message during meeting with Trump's envoys",
        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMUM4QTBSNGNhZ2lNN0hjS2Q0Z0E3bkNRNWNvUWVRZ3F0WWdvdHlQMU5mNTVhREVBNjE5RVEwMDhpdkN5Nl9acmpEeWZ0dG5VRVdfUnMzUWR4anFKb2tCWS1QcjVVdklSbWx5ckE5QU56cV91WFRmOTRFSXB1SmxRLVhyZWhNdGxLREt4OFRwczFrTEhqY2h6ZHpvNkdOY0l6aktpNHlEOExWTFlrb1k4TmZTUFl0YV9XZmM3OWxnN1Zla18tbWRpLUZvV2ozSmM0MWkxcTJJcGtjelE4T05zbGhUdjFuWXl0WDdSYU5td3hzalEwMHNYT0doVmw?oc=5",
        "publishedAt": "2026-11-12T21:41+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-13T01:00+05:30",
-   "generatedAt": "2026-11-13T01:22+05:30",
-   "feeds": 16,
-   "headlines": 238,
-   "stories": [
-    {
-     "title": "Jensen Huang has resigned, what's next for Nvidia?",
-     "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CNBC",
-      "Financial Times",
-      "Hindustan Times",
-      "MarketWatch",
-      "Mint",
-      "NDTV",
-      "NVIDIA Newsroom",
-      "The Guardian",
-      "The Hindu"
-     ],
-     "sourceCount": 17,
-     "publishedAt": "2026-11-13T01:03+05:30",
-     "score": 19.45,
-     "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Jensen Huang has resigned, what's next for Nvidia?",
-       "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-13T01:03+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "What We Know After Jensen Huang Resigns As Nvidia's CEO",
-       "link": "https://www.ndtv.com/world-news/what-we-know-after-jensen-huang-resigns-as-nvidias-ceo-12319631#publisher=newsstand",
-       "publishedAt": "2026-11-13T00:37+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-       "publishedAt": "2026-11-13T00:31+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
-       "publishedAt": "2026-11-12T22:55+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "Trump endorses former Apple CEO Tim Cook to replace Jensen Huang as Nvidia CEO: ‘A legend replaces a legend’",
-       "link": "https://www.livemint.com/news/trump-endorses-former-apple-ceo-tim-cook-to-replace-jensen-huang-as-nvidia-ceo-a-legend-replaces-a-legend-11794498668369.html",
-       "publishedAt": "2026-11-12T21:25+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Legend replaces a legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang",
-       "link": "https://timesofindia.indiatimes.com/business/international-business/legend-replaces-a-legend-trump-wants-tim-cook-to-replace-nvidia-ceo-jensen-huang/articleshow/135775422.cms",
-       "publishedAt": "2026-11-12T21:20+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Nvidia LIVE Updates: Jensen Huang agrees to testify before US Congress before Thanksgiving, says report",
-       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxORHhiY0lzbl91R3FVS25fdzMyaU1laDFkNDdvdG5FTk5HRV9ETEQzWElFTGxwMElUTGpCcEJYbG1lLWVwRWVxWU9LdS0ybzlGaW0zQkNQbG1qMm84NzZWZUpVMTdza3ljUWl5dVRDUnh5bHNuNzhYTzBXazAyWDN4Z29MN0owOHc1OWlkcXZsZTBqdUVkQnBGdGZLYk8zaERwNGVIYVpIZGdva2s4a3ZaeG1FVEd0S3phUzRfZ21QaHRjUE5DN1dJelN5Q2tUamVETjA3X0ZpRV95Y3VCaDhSd05sSldoN1lpc3hsZlYtaWFoUU9YNlpiSWZ2SjBPaVd4dmF6bGZpQlhhVFBnckRR?oc=5",
-       "publishedAt": "2026-11-13T00:58+05:30"
-      },
-      {
-       "source": "MarketWatch",
-       "title": "Stock Market Today: S&P 500 and Nasdaq rise as chip stocks recover from earlier losses seen after Jensen Huang's resignation from Nvidia; Dow advances despite renewed worries over Iran — live updates",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGNYLThrNnhscF9EMGJ3RmNPb0JGaEhHZkRvZnMyTWJ6NzdyalFOZGJZclFENVktUDNCZ3hLRmNUdmNfank3cm1BeGtYVVlZMXlBZE94aE9pdVk1dmMwd0VwQWNGR20xaG5VWU9CU2JXUlVZQ2lPWGJoQ1NFbmRFZFJzQnpDdi1ZSjlvSnJGblRyU3M2ZWVqODVXbXRYY0RnRi1meXhOX21SSWk3ZDk1SktKU3VLS21tNmc?oc=5",
-       "publishedAt": "2026-11-13T00:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Mookuthi Amman 2 Box Office Collection Day 7",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "Bollywood Bubble",
-      "Deccan Chronicle",
-      "IMDb",
-      "Lensmen Reviews",
-      "Outlook Luxe",
-      "Sacnilk",
-      "Telegraph India",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-12T22:34+05:30",
-     "score": 11.03,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Mookuthi Amman 2 Box Office Collection Day 7",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
-       "publishedAt": "2026-11-12T22:34+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana Part 1 Box Office Collection Day 7 LIVE: Ranbir Kapoor film crosses Rs 1000 cr worldwide, inches away from surpassing Dhurandhar 2",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz0gH7AUFVX3lxTE1jak13ODctTWJQNEd6VFdHam9PWFh0WjFwalJaazhiOS1qUmF1UXZOd0MzTXRSbldnOFpTMUowSk9zRlZha01LV0pqWFR2cDNRQWczeHdpZ285elFhYVJLejZsSkhWbGNOVGtrQklFYnhFUGdPSWhmQmt3SFROU2xWaW1PYy16SXNHeFNFdmpoV1Vyc3ZLb2pDa2Jmd0pKbFdmNjh2eTZ5YXpnVThFU21lcW1EYUV3TnhLT2xFQ1M4OGg5WE91QzBSZ2hGb2I5d2NOd2VvVkJ2VEdoT2l5aFh3bkNDeElSTG9FVlB4aEYyRUNoRTNYX2xnQ0Zz?oc=5",
-       "publishedAt": "2026-11-12T22:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Four people shot in Washington DC",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "AP News",
-      "Al Jazeera",
-      "CNN",
-      "Mint",
-      "NDTV",
-      "The Guardian",
-      "The Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-12T21:12+05:30",
-     "score": 8.8,
-     "summary": "A major police operation is underway in Washington DC where four people have reportedly been shot",
-     "image": "https://i.ytimg.com/vi/QCUePlJPGTc/maxresdefault.jpg?v=6af5d996",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Four people shot in Washington DC",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
-       "publishedAt": "2026-11-12T21:12+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "Washington DC shooting: Five people shot near White House, 1 killed; police hunt suspect",
-       "link": "https://www.livemint.com/news/us-news/washington-dc-shooting-five-people-shot-near-white-house-1-killed-police-hunt-suspect-11794496486832.html",
-       "publishedAt": "2026-11-12T20:51+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "US shooting: 5 people shot in near White House; at least 1 dead, area cordoned off",
-       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRFp4OXAxM2tkT25xbk9yYTRGUXF6V09teEJram9SR01CR2dVRE9RSDh5ZnJoQjVlNjQ1LXltZEJhYzB5OE1kRUY4NndPY1Z5bVowR3lqYUd5bXVxQllxVzQ4U2xMdVFxLTdtNkF0NVgwQ3NaOFoxV2llVDNWWmNoa0daTTVuQUFTakFla0dwckVqdm9Fd1dNbkhZNEVKQlBEbk9RcjlUZ0t4YUdZcXc2TGQ0ZGZPZERUa0kxTWVIYU9MTnd1cHJQMEFia0dLa2JNSm13VkxONkZHS2hCM2tyZXlR?oc=5",
-       "publishedAt": "2026-11-12T19:32+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft Outlook down today?",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "ABC10",
-      "GV Wire",
-      "Gulf Coast News and Weather",
-      "Mashable",
-      "TechCrunch",
-      "The Economic Times"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-13T00:37+05:30",
-     "score": 8.37,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Microsoft Outlook down today?",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
-       "publishedAt": "2026-11-13T00:37+05:30"
-      },
-      {
-       "source": "Gulf Coast News and Weather",
-       "title": "Microsoft confirms Outlook outage affecting users worldwide",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakR0OVE0MnhhaTR3SXcxZzhNQjIxcldKc1ZKNy1ibVRfd29HdWQ2VXFiOHFCVktLU3d2WlVjSzgtUGJmZUVXTEtxRXhnUkZDWjNwZDNadnNYTlRBVjVKamduanhxNGlfNW5icGI2V3hUSlRTOFo4bUU5RWxudTQ1My0wYWRJQQ?oc=5",
-       "publishedAt": "2026-11-13T00:11+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
-     "link": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
-     "source": "The Guardian",
-     "sources": [
-      "Axios",
-      "CNBC",
-      "Reuters",
-      "The Guardian",
-      "The New York Times",
-      "WSJ"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-13T00:31+05:30",
-     "score": 7.61,
-     "summary": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’ US politics live – latest updates Donald Trump has said that the US is no longer seeking a deal to end the war with Iran and ordered JD Vance, who had spearheaded recent efforts to restart negotiations with Iran, to focus on domestic politics instead. In a post to his social media site…",
-     "image": "https://i.guim.co.uk/img/media/b6079a2bff857f65facec7ffe5790f80f7acf1cd/387_0_4197_3357/master/4197.jpg?width=140&quality=85&auto=format&fit=max&s=c969ed100492d7b0d98b83020b763bbe",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
-       "link": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
-       "publishedAt": "2026-11-13T00:31+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
-       "publishedAt": "2026-11-12T23:56+05:30"
       }
      ]
     }
