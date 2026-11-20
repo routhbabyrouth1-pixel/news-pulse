@@ -1,6 +1,181 @@
 {
- "updated": "2026-11-21T00:26+05:30",
+ "updated": "2026-11-21T01:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-21T01:00+05:30",
+   "generatedAt": "2026-11-21T01:27+05:30",
+   "feeds": 16,
+   "headlines": 261,
+   "stories": [
+    {
+     "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+     "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-21T01:10+05:30",
+     "score": 8.14,
+     "summary": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+       "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+       "publishedAt": "2026-11-21T01:10+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+       "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-21T00:57+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+       "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+       "publishedAt": "2026-11-20T23:54+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Indian Man Gets Over 19 Years In US Jail Over Plot To Kill Khalistani Terrorist Gurpatwant Pannun",
+       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSng3ZmtWWC1GWUowUmZURjhtcTMwTEtRcTNOYWNGSHdWLUFNODNpUU1UMVRUWWRHdVBBSldPOEk1dDh5YkdDTzJVWUl1OXVoTDlEajV1Y2Ywdjh2N1VpeGpXS2kxSE5XclQ3dUYtUF9CSFFiZzcxNFU1Y0dTOGhxeHlJTDBfSVZzOXFmaXAxYjM4UDd5X1IxMzBfWUNxZ1RyNDdfYkNjM09Gb2ZjSVgtQjhTQ3piOFlRNFRTd0RvLW0wNGNwVEtZZUs3NmlpYVp2YVI1cTF1X29Xb2xDZFp4cE55MVY0cDhGY2pyRjNDbFhPZ2pwTGpv?oc=5",
+       "publishedAt": "2026-11-20T22:20+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump warns US tech firms of ‘tremendous tax’ if they build AI data centres overseas",
+     "link": "https://www.livemint.com/news/us-news/trump-warns-us-tech-firms-of-tremendous-tax-if-they-build-ai-data-centres-overseas-11795197681638.html",
+     "source": "Mint",
+     "sources": [
+      "CNBC",
+      "CNN",
+      "Mint",
+      "The New York Times",
+      "The Times of India",
+      "The Verge",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-20T23:50+05:30",
+     "score": 7.76,
+     "summary": "The Republican leader urged Americans to view data centre projects as an opportunity for their local communities rather than oppose their construction",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Untitled_design_-_2026-11-20T233833.331_1795198129398_JJss_1795198139026_xvyE_628782ca-846d-4d2e-ab5b-eae4c27eadc1_eZnZ.png",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Trump warns US tech firms of ‘tremendous tax’ if they build AI data centres overseas",
+       "link": "https://www.livemint.com/news/us-news/trump-warns-us-tech-firms-of-tremendous-tax-if-they-build-ai-data-centres-overseas-11795197681638.html",
+       "publishedAt": "2026-11-20T23:50+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'China will take all of them': Trump says won't let US firms build data centres abroad",
+       "link": "https://timesofindia.indiatimes.com/world/us/china-will-take-all-of-them-trump-says-wont-let-us-firms-build-data-centres-abroad/articleshow/136036408.cms",
+       "publishedAt": "2026-11-20T23:22+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'China will take all of them': Trump says won't let US firms build data centres abroad",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOczh3WFlILWE3c3JIY2E0ZHRkVGQ4TVd0MVFaWFZrdXA3NEFtZm56Q2xyWDV5cDVGTFlNNEwxNTBNMENCWm1DN1huMVRZcHJTWDVZM0hSbEthc281TVJhTlc0emJiZkRMV3FNT0l0SC1nTHZCbXYwVFV4WkdnZFpNS0JaS0l6amE4RGsyMkNna1pCaGt0VmFvZ19VSDZpOXFJemxjZXlwN0xwbHdhS1NPOW1CYnB2aFRxNVEzd0N4dEJtNzNOcjVSSEdCdElXaHpKbjI2TW9kVUMxZFMwbmNBemlCWnBGb2Nh?oc=5",
+       "publishedAt": "2026-11-20T23:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0lzRER0Sk5vZE1aMUUzc0Q1MW05TC1sTjZkRG1OM2Z2cTlwN0NjcnVsQmw4ZmRabnV1MnBMNklKVXFpSkxqMERfbm5MclFkcHZKVjg5U2JFQ0diUG45aDBOdDBjWldvZm9fT2NfRUZ5MDZyLVJ0dE1tXzVDSFJlSXNJdlluRF9SRXNrVTg3YnhpcGZHM1JxTUZubw?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Sportstar",
+      "The Shillong Times",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T21:48+05:30",
+     "score": 7.14,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0lzRER0Sk5vZE1aMUUzc0Q1MW05TC1sTjZkRG1OM2Z2cTlwN0NjcnVsQmw4ZmRabnV1MnBMNklKVXFpSkxqMERfbm5MclFkcHZKVjg5U2JFQ0diUG45aDBOdDBjWldvZm9fT2NfRUZ5MDZyLVJ0dE1tXzVDSFJlSXNJdlluRF9SRXNrVTg3YnhpcGZHM1JxTUZubw?oc=5",
+       "publishedAt": "2026-11-20T21:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "SCO meeting highlights: ‘Suffered a great deal’, says Pak minister on terrorism, seeks evidence-based talks | Hindustan Times",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPY09mQkdzSE9pMnJteW5KaUhpUWdaemlncFpZNTIxa3pCV0N3Nm5JdDhJZV9id3RiVDUzUEw0SmRNNjliT3ZJMmp1Um9JQVpCVVJLSHhoOWU3cktNMFFEbDRJYU9maG1hb2NadDJjSTZINkF0RzYwSk9tSl9VMGFYb1FuVmRwbW5NY1N2ZWdXeUIwU2lPaUpiNEFIcWJ2SVZlQVVpeHpsSW5jeHB0Nlg3akZJS09RWVg0UjdfQXFFTm5QdzJQT3AtbEkxdTJQRzl2bnBJTWdOb2V2WC1Zc1ZuQm5zYVVXVHBGM3VkdEFkR3JHdGQ0WFVjQ1pzVjJEQWVtOUNiNEJhM3jSAY4CQVVfeXFMUGp4OW9fbHNvTlphd0hUTlRObUpXeTR5NGlJOWlLbWp4NHpZLVVOMWtXMFlzenZGdTFjeE44emZaSkpsM1FoWEJLX3BKX2FzX1dqYWgxVmt6QmxCMnBUZ29RaVg2bk91Y1Q2TVVnRzk0RXo0SEo3ZjhCdmcwYXlycXMyakRPQ3pabnk2WThmYnJJVGpEUzZpUnpFUl9aR2Ywd0tMdmN0UWpCZU9WOEFtTXRqMXdxRkJUQTl2Ylk1WUdIdllKY3M1aVUtNGxhOG5IWk85TVBsdGtJOG9VUnVTNmdzeHY1TmFjVUxIVDVzYVRDZ2dTanJCS196VzR3aGpGU2YxeEQtejlSNTlmRGd3?oc=5",
+     "source": "Hindustan Times",
+     "sources": [
+      "ET Government",
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The New Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-20T23:02+05:30",
+     "score": 7.1,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "SCO meeting highlights: ‘Suffered a great deal’, says Pak minister on terrorism, seeks evidence-based talks | Hindustan Times",
+       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPY09mQkdzSE9pMnJteW5KaUhpUWdaemlncFpZNTIxa3pCV0N3Nm5JdDhJZV9id3RiVDUzUEw0SmRNNjliT3ZJMmp1Um9JQVpCVVJLSHhoOWU3cktNMFFEbDRJYU9maG1hb2NadDJjSTZINkF0RzYwSk9tSl9VMGFYb1FuVmRwbW5NY1N2ZWdXeUIwU2lPaUpiNEFIcWJ2SVZlQVVpeHpsSW5jeHB0Nlg3akZJS09RWVg0UjdfQXFFTm5QdzJQT3AtbEkxdTJQRzl2bnBJTWdOb2V2WC1Zc1ZuQm5zYVVXVHBGM3VkdEFkR3JHdGQ0WFVjQ1pzVjJEQWVtOUNiNEJhM3jSAY4CQVVfeXFMUGp4OW9fbHNvTlphd0hUTlRObUpXeTR5NGlJOWlLbWp4NHpZLVVOMWtXMFlzenZGdTFjeE44emZaSkpsM1FoWEJLX3BKX2FzX1dqYWgxVmt6QmxCMnBUZ29RaVg2bk91Y1Q2TVVnRzk0RXo0SEo3ZjhCdmcwYXlycXMyakRPQ3pabnk2WThmYnJJVGpEUzZpUnpFUl9aR2Ywd0tMdmN0UWpCZU9WOEFtTXRqMXdxRkJUQTl2Ylk1WUdIdllKY3M1aVUtNGxhOG5IWk85TVBsdGtJOG9VUnVTNmdzeHY1TmFjVUxIVDVzYVRDZ2dTanJCS196VzR3aGpGU2YxeEQtejlSNTlmRGd3?oc=5",
+       "publishedAt": "2026-11-20T23:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Watch: Paper bombs, firecrackers hurled at edu ministry in Italy as protests intensify",
+     "link": "https://timesofindia.indiatimes.com/world/europe/watch-paper-bombs-hurled-firecrackers-bursted-outside-education-ministry-in-italy-as-protests-intensify/articleshow/136032887.cms",
+     "source": "Times of India",
+     "sources": [
+      "Deccan Chronicle",
+      "India Today",
+      "The Hindu",
+      "The Independent",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T21:47+05:30",
+     "score": 6.43,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136033183,imgsize-8374165.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Watch: Paper bombs, firecrackers hurled at edu ministry in Italy as protests intensify",
+       "link": "https://timesofindia.indiatimes.com/world/europe/watch-paper-bombs-hurled-firecrackers-bursted-outside-education-ministry-in-italy-as-protests-intensify/articleshow/136032887.cms",
+       "publishedAt": "2026-11-20T21:47+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Watch: Paper bombs hurled, firecrackers bursted outside education ministry in Italy as protests intensify",
+       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ3NEU0lQX3pjQ1FNN1VIVVNDd1hsTkczNGtBaEY5ajg5d0c5NGpLTlNqYVhhajQzVk1jRmtqNEpRZnFnSzFUeW0zM2pVRERoU2JRS1R5bUVNNWNLWm4wYzJDWmI3Z0dJNkdtNnhQeWtRM1dVT3JwZy02emEzbFJMeTRLODJfeFBPdnRGeW80MEJSTTJzQTdTZzFFZnBWM0g0Szh2eGt1ZEp2MlJUNC03QnlQeDR2WFc1TkNFV2p1Ty1qY2tWamNJLW13YTJXSVpZOThRVGxrZmUzQlNmUDYzU0lCMmhxWkxFQ1d1aTY5MUhwSDJnOXkwM0JHVl83bi12WE5EcTVMUlJaUQ?oc=5",
+       "publishedAt": "2026-11-20T21:47+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-21T00:00+05:30",
    "generatedAt": "2026-11-21T00:26+05:30",
@@ -29846,198 +30021,6 @@
        "title": "Today’s NYT Strands Hints, Spangram and Answers for Friday, Nov. 13, #985",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVdNTU1IYkZYSlgwWlJ1czg4SVM3MjlfazduLVRXWk5FTzE5VUpQNEo4SzIxcFM0dUdCMVNsQzc5c3lJRkdqaUY5NUV4NUgtQkdGenVNT0ptd012NWdpMEZWVlBINWVTSUl5Z0lYSy11cFVUR212b1BfVnRrUk5IWkpMNG5FdEthV0ZVN1BJT0xDbV9ybVE?oc=5",
        "publishedAt": "2026-11-13T02:30+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-13T03:00+05:30",
-   "generatedAt": "2026-11-13T03:14+05:30",
-   "feeds": 17,
-   "headlines": 239,
-   "stories": [
-    {
-     "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
-     "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-     "source": "The Guardian",
-     "sources": [
-      "ABC News - Breaking News, Latest News and Videos",
-      "Al Jazeera",
-      "Breakingthenews.net",
-      "Gulf Coast News and Weather",
-      "Reuters",
-      "The Economic Times",
-      "The Guardian",
-      "Variety",
-      "qz.com"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-13T02:44+05:30",
-     "score": 11.42,
-     "summary": "An alert on Microsoft’s site said it was ‘aggressively pursuing all pathways to reduce impact’ and blamed a server issue Microsoft says its servers are beginning to return to service after a global outage resulted in nearly 130,000 users globally reporting issues accessing its 365 suite of software, including Outlook and Teams. Outage website Down Detector showed a spike in Microsoft 365 problems, with nearly…",
-     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
-       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-       "publishedAt": "2026-11-13T02:44+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Microsoft outage hits tens of thousands of users",
-       "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
-       "publishedAt": "2026-11-13T02:33+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Microsoft Outlook down today?",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms",
-       "publishedAt": "2026-11-13T00:37+05:30"
-      },
-      {
-       "source": "Gulf Coast News and Weather",
-       "title": "Microsoft confirms Outlook outage affecting users worldwide",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakR0OVE0MnhhaTR3SXcxZzhNQjIxcldKc1ZKNy1ibVRfd29HdWQ2VXFiOHFCVktLU3d2WlVjSzgtUGJmZUVXTEtxRXhnUkZDWjNwZDNadnNYTlRBVjVKamduanhxNGlfNW5icGI2V3hUSlRTOFo4bUU5RWxudTQ1My0wYWRJQQ?oc=5",
-       "publishedAt": "2026-11-13T00:54+05:30"
-      },
-      {
-       "source": "Breakingthenews.net",
-       "title": "Microsoft users experiencing Outlook outage",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWhwSjJ0UE9hTThmeDJzb0RZVjlnbmszay10a1Nfb2ZEWm9BWmtuZWRpVk1EcHVQTk5FUnY0d3RkNjE0SVVMRkRjdWNZWTFCaFZjVTh0OElnSTFPZEFWb0RIWGpUN01tbjVMYzdsRmg1XzRZLXd5Z3YteXJ3WVhNWGZTS2FRNFE2VnBOZU5YS2dvUQ?oc=5",
-       "publishedAt": "2026-11-12T23:45+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Mookuthi Amman 2 Box Office Collection Day 7",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "Bollywood Bubble",
-      "Business Standard",
-      "Outlook Luxe",
-      "Rediff",
-      "Sacnilk",
-      "THE WEEK",
-      "Telegraph India",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-12T22:34+05:30",
-     "score": 10.72,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Mookuthi Amman 2 Box Office Collection Day 7",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg1QXhEaHhIU0ZVdjB5NG04RU5DbkVjdHV6U2M1dFc4YnlPWlRuR1ViMngtR2x3c1FTdHRCVWE1b2ZDQ1QtWlZ3U3Y0ZnI5YjYyS0Q5MTNDRkNxeVdIREwzVnpqQTU2R2hvY0RHYk1sZEpkaElfVVJvOXQ5WlFvLXhQa1BhWFA1bjg4?oc=5",
-       "publishedAt": "2026-11-12T22:34+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana Part 1 Box Office Collection Day 7 LIVE: Ranbir Kapoor film crosses Rs 1000 cr worldwide, inches away from surpassing Dhurandhar 2",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz0gH7AUFVX3lxTE1jak13ODctTWJQNEd6VFdHam9PWFh0WjFwalJaazhiOS1qUmF1UXZOd0MzTXRSbldnOFpTMUowSk9zRlZha01LV0pqWFR2cDNRQWczeHdpZ285elFhYVJLejZsSkhWbGNOVGtrQklFYnhFUGdPSWhmQmt3SFROU2xWaW1PYy16SXNHeFNFdmpoV1Vyc3ZLb2pDa2Jmd0pKbFdmNjh2eTZ5YXpnVThFU21lcW1EYUV3TnhLT2xFQ1M4OGg5WE91QzBSZ2hGb2I5d2NOd2VvVkJ2VEdoT2l5aFh3bkNDeElSTG9FVlB4aEYyRUNoRTNYX2xnQ0Zz?oc=5",
-       "publishedAt": "2026-11-12T22:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "sources": [
-      "BBC",
-      "Bloomberg.com",
-      "CNBC",
-      "Hindustan Times",
-      "The Economic Times",
-      "The Guardian",
-      "The New York Times",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-13T02:47+05:30",
-     "score": 8.97,
-     "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla…",
-     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-       "publishedAt": "2026-11-13T02:47+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Nvidia crisis: Huang agrees to testify before Congress on Chinese 'spy' scandal",
-       "link": "https://timesofindia.indiatimes.com/technology/tech-news/fired-nvidia-ceo-jensen-huang-agrees-to-testify-before-congress-top-republican-lawmaker-says-he-has-some-very-serious-/articleshow/135777905.cms",
-       "publishedAt": "2026-11-12T22:26+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Kress' 1st message as CEO to Nvidia employees",
-       "link": "https://economictimes.indiatimes.com/tech/technology/lets-will-move-forward-together-colette-kress-first-message-as-ceo-to-nvidia-employees/articleshow/135777046.cms",
-       "publishedAt": "2026-11-12T22:05+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Nvidia LIVE Updates: Jensen Huang agrees to testify before US Congress before Thanksgiving, says report",
-       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxORHhiY0lzbl91R3FVS25fdzMyaU1laDFkNDdvdG5FTk5HRV9ETEQzWElFTGxwMElUTGpCcEJYbG1lLWVwRWVxWU9LdS0ybzlGaW0zQkNQbG1qMm84NzZWZUpVMTdza3ljUWl5dVRDUnh5bHNuNzhYTzBXazAyWDN4Z29MN0owOHc1OWlkcXZsZTBqdUVkQnBGdGZLYk8zaERwNGVIYVpIZGdva2s4a3ZaeG1FVEd0S3phUzRfZ21QaHRjUE5DN1dJelN5Q2tUamVETjA3X0ZpRV95Y3VCaDhSd05sSldoN1lpc3hsZlYtaWFoUU9YNlpiSWZ2SjBPaVd4dmF6bGZpQlhhVFBnckRR?oc=5",
-       "publishedAt": "2026-11-13T00:58+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
-     "source": "Reuters",
-     "sources": [
-      "CBS News",
-      "CNBC",
-      "Reuters",
-      "The Guardian",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-12T23:56+05:30",
-     "score": 6.95,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Reuters",
-       "title": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
-       "publishedAt": "2026-11-12T23:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Stock Market Today: Dow, S&P 500 and Nasdaq end lower; bond yields jump; Jensen Huang resigns from Nvidia — live updates",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGNYLThrNnhscF9EMGJ3RmNPb0JGaEhHZkRvZnMyTWJ6NzdyalFOZGJZclFENVktUDNCZ3hLRmNUdmNfank3cm1BeGtYVVlZMXlBZE94aE9pdVk1dmMwd0VwQWNGR20xaG5VWU9CU2JXUlVZQ2lPWGJoQ1NFbmRFZFJzQnpDdi1ZSjlvSnJGblRyU3M2ZWVqODVXbXRYY0RnRi1meXhOX21SSWk3ZDk1SktKU3VLS21tNmc?oc=5",
-     "source": "MarketWatch",
-     "sources": [
-      "Bloomberg.com",
-      "CNBC",
-      "MarketWatch",
-      "The New York Times",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-13T02:31+05:30",
-     "score": 6.63,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "MarketWatch",
-       "title": "Stock Market Today: Dow, S&P 500 and Nasdaq end lower; bond yields jump; Jensen Huang resigns from Nvidia — live updates",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGNYLThrNnhscF9EMGJ3RmNPb0JGaEhHZkRvZnMyTWJ6NzdyalFOZGJZclFENVktUDNCZ3hLRmNUdmNfank3cm1BeGtYVVlZMXlBZE94aE9pdVk1dmMwd0VwQWNGR20xaG5VWU9CU2JXUlVZQ2lPWGJoQ1NFbmRFZFJzQnpDdi1ZSjlvSnJGblRyU3M2ZWVqODVXbXRYY0RnRi1meXhOX21SSWk3ZDk1SktKU3VLS21tNmc?oc=5",
-       "publishedAt": "2026-11-13T02:31+05:30"
       }
      ]
     }
