@@ -1,6 +1,199 @@
 {
- "updated": "2026-11-20T17:26+05:30",
+ "updated": "2026-11-20T18:35+05:30",
  "hours": [
+  {
+   "hour": "2026-11-20T18:00+05:30",
+   "generatedAt": "2026-11-20T18:35+05:30",
+   "feeds": 16,
+   "headlines": 324,
+   "stories": [
+    {
+     "title": "Scene Box Office Collection Day 15",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03eUx1ay1wWG9JWDdmd3pIR3lGdVJMREJVXzFmLUpBdEdmMDJQSEcyTkxic3pPT0lCWHNYTzd6Qk1Uc05lSjdKY01BRGgza0tmWTc0dFVVNVk3RUpNVnlrZlJRYTlvaXRyVTVTQkgxQmJfcWIxWVVFQ0ktZmV2UQ?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "Koimoi",
+      "Rediff",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "UB - Universitat de Barcelona",
+      "iDiva"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-20T18:10+05:30",
+     "score": 11.31,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Scene Box Office Collection Day 15",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03eUx1ay1wWG9JWDdmd3pIR3lGdVJMREJVXzFmLUpBdEdmMDJQSEcyTkxic3pPT0lCWHNYTzd6Qk1Uc05lSjdKY01BRGgza0tmWTc0dFVVNVk3RUpNVnlrZlJRYTlvaXRyVTVTQkgxQmJfcWIxWVVFQ0ktZmV2UQ?oc=5",
+       "publishedAt": "2026-11-20T18:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘All our relationships will improve’: Pakistan minister in Delhi for SCO summit",
+     "link": "https://timesofindia.indiatimes.com/india/all-our-relationships-will-improve-pakistan-minister-in-delhi-for-sco-summit/articleshow/136025338.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "News On AIR",
+      "PM India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-20T17:12+05:30",
+     "score": 8.52,
+     "summary": "A Culture Ministry director and an MEA under secretary reportedly received Pakistan’s Musadik Malik at Delhi airport, disputing a Pakistani analyst’s claim.",
+     "image": "https://static.toiimg.com/photo/msid-136025543,imgsize-79138.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "‘All our relationships will improve’: Pakistan minister in Delhi for SCO summit",
+       "link": "https://timesofindia.indiatimes.com/india/all-our-relationships-will-improve-pakistan-minister-in-delhi-for-sco-summit/articleshow/136025338.cms",
+       "publishedAt": "2026-11-20T17:12+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Pakistan minister Musadik Malik received at Delhi airport under uniform SCO protocol, Pak analyst's claim fact-checked",
+       "link": "https://www.hindustantimes.com/india-news/pakistan-minister-musadik-malik-received-at-delhi-airport-under-uniform-sco-protocol-pak-analysts-claim-factchecked-101795168125772.html",
+       "publishedAt": "2026-11-20T16:15+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Rubbing salt into Pahalgam victims' wounds': Row over Pakistan minister at SCO meet in Delhi",
+       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYmZvYnkzLUtlTVl4QTV0ZUQ0UzByM25iSDUxWllGdE9OU2pCR1dvZ1RjTmVZOVgtbzlKdFFRTkhPZXVuRE04QUw0LWo4QVFCRnZJSDlUVXV0cGltQlhGY3VSbDlSUFA5Y0ZRbkxYeG9CdVpWdExyeWk0SmNaV0VZMFAwVnllc1lhZllOQ1dGbjhBbXlnZW1CRm90Zlh0eG9hTFZCNUJyUi1leVBPUlg5bV9WM0tBeFIzQWQxRzRYY2ctRk9qRGR2ZHNoWWp6dkpzRzEzUE9fVVAtZ3AzZmxYczdoZ1k3MzlGRTBadFV3?oc=5",
+       "publishedAt": "2026-11-20T15:18+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Supreme Court dismisses Karnataka appeal against bike-taxis",
+     "link": "https://www.thehindu.com/news/national/karnataka/supreme-court-dismisses-karnataka-appeal-against-bike-taxis/article71723973.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Bar and Bench",
+      "Deccan Herald",
+      "Live Law",
+      "Mint",
+      "Scroll.in",
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-20T18:00+05:30",
+     "score": 7.97,
+     "summary": "A Bench headed by Justice Satish Chandra Sharma said regulation was better than a blanket ban",
+     "image": "https://th-i.thgim.com/public/incoming/1lv2jt/article71724108.ece/alternates/LANDSCAPE_1200/_JAI3087.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Supreme Court dismisses Karnataka appeal against bike-taxis",
+       "link": "https://www.thehindu.com/news/national/karnataka/supreme-court-dismisses-karnataka-appeal-against-bike-taxis/article71723973.ece",
+       "publishedAt": "2026-11-20T18:00+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Ola, Uber, Rapido get relief as Supreme Court rejects Karnataka government’s appeal against bike taxis",
+       "link": "https://www.livemint.com/news/india/ola-uber-rapido-get-relief-as-supreme-court-rejects-karnataka-government-s-appeal-against-bike-taxis-11795170674319.html",
+       "publishedAt": "2026-11-20T16:08+05:30"
+      },
+      {
+       "source": "Bar and Bench",
+       "title": "Supreme Court allows bike taxis in Karnataka, rejects State's appeal to restore ban",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEsyZllGQVROQU5DZmJyaThuUGV1YXBLRkpsZWkyV0F4Q3ZyRUF2QkMtNFhIUE9wT0d2ZlFIdVVRN0lnNTF0ME9FRVlzQ1MtZzJXWUNaMFdhdlhJWlhLSk16Y2RNcUNtUTJuWTlpR19NYXJDNmVQdGpmeW0tS0wxRmthbldnZDNLUkpoTC1jTkVFLUItOUVTZF9ia3VnTE9fb253Y181WUVMa29VMnRKbGh2dVXSAcIBQVVfeXFMTzYzNGNfM3AtWkpxNUswRjZNaDRObWtzc3FhMlpfX3AwNnNZeWJvWURQUHR3TFY0TmE0WlhPTlN2bzA0Q01xekFwdGZQQnN1NXNhQ0M0VUh3Qk05WldCRGJsYmcwZUhUUzEzYXd4dEpZV3M3SDh3U0xVdWwtZTlQMl9uSU4tUlVFNFhUWmZaMHpRMjM3NDROclJjTENyLXFNXzVYcDBqb1FzcWU1Q2RsS0E3Nkc0WGdvTXNYeGlOSnNjemc?oc=5",
+       "publishedAt": "2026-11-20T13:16+05:30"
+      }
+     ]
+    },
+    {
+     "title": "PM Modi speaks to Yogi Adityanath, offers condolences over mother's death",
+     "link": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-to-yogi-adityanath-offers-condolences-over-mothers-death/articleshow/136022673.cms",
+     "source": "Times of India",
+     "sources": [
+      "ANI News",
+      "Hindustan Times",
+      "NDTV",
+      "The New Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-20T15:51+05:30",
+     "score": 7.62,
+     "summary": "Union Home Minister Amit Shah also expressed grief over the demise of Yogi Adityanath's mother.",
+     "image": "https://static.toiimg.com/photo/msid-136022778,imgsize-1322133.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "PM Modi speaks to Yogi Adityanath, offers condolences over mother's death",
+       "link": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-to-yogi-adityanath-offers-condolences-over-mothers-death/articleshow/136022673.cms",
+       "publishedAt": "2026-11-20T15:51+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Yogi Adityanath’s mother Savitri Devi dies at 91; PM Modi condoles demise",
+       "link": "https://www.hindustantimes.com/india-news/uttar-pradesh-chief-minister-yogi-adityanaths-mother-savitri-devi-dies-in-uttarakhand-101795158780052.html",
+       "publishedAt": "2026-11-20T12:47+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "PM Modi speaks to Yogi Adityanath, offers condolences over mother's death",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmJlYXBwM2VaMkN1eFVuQ2FjZUpqdjFpTkp1Z2NkVE5Wdl9sRHBZXzdZRV90cUIweVhScXlBczdSTmRYWDlJblBHdERHUVpzMHlsRkJsS0R6aVRPelhha0ZObmxMNHNlR25yY1pWMFNtcG95d0REMjllcVl6OGE1dGRRMmtLX25UR19uXzZlSE5iV1BRSkxPS05RcXRMcU14cV9rNlZKekJiVENPejJ0WEpIUVlxZ2hmdWRCQWJKLWlYV2lpUS1sME1LQ2Q2VnQyeU5SU3RB?oc=5",
+       "publishedAt": "2026-11-20T15:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Supreme Court allows lighting of lamp on ‘Deepathoon’ at Thirupparankundram as limited one-time arrangement",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-allows-lighting-of-lamp-on-the-deepathoon-as-a-limited-one-time-arrangement/article71723742.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Bar and Bench",
+      "Live Law",
+      "NDTV",
+      "Rediff",
+      "Supreme Court Observer",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T15:56+05:30",
+     "score": 7.31,
+     "summary": "A Bench headed by Justice Aravind Kumar however stayed the conclusive findings of the Madras HC in a January 6 judgment that upheld the right to light the lamp on the ‘Deepathoon’ as an essential practice",
+     "image": "https://th-i.thgim.com/public/incoming/ml1sva/article71723824.ece/alternates/LANDSCAPE_1200/9871_10_1_2026_19_30_1_1_9D9D21DC_98E1_4DD7_B870_84C50B4CCFBD.JPEG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Supreme Court allows lighting of lamp on ‘Deepathoon’ at Thirupparankundram as limited one-time arrangement",
+       "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-allows-lighting-of-lamp-on-the-deepathoon-as-a-limited-one-time-arrangement/article71723742.ece",
+       "publishedAt": "2026-11-20T15:56+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Supreme Court Allows One-Time Lighting Of Deepam At Thiruparankundram Hill",
+       "link": "https://www.ndtv.com/india-news/supreme-court-allows-one-time-lighting-of-karthigai-deepam-at-thiruparankundram-hill-12353634#publisher=newsstand",
+       "publishedAt": "2026-11-20T15:14+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Thiruparankundram Hill | Supreme Court Stays HC Findings, Allows Karthigai Lamp Lighting At Deepathoon On ...",
+       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ1VIMnNXLXpSN1NCc1dxNmtPWnQ1SXZRemdBZEJvUmRsZG9UXzRZSnVOc0hGbFBiN2ZMQm1lZm9FVkctbnJUYlkwZmZ6TUxhdTd4cHBZbjlWZmNIMWk3VE9xZ1ZaOHZLS0dSUmRNSF85bjQ3Zk1oWXRkaGdVTnhGcGR3TFllaDZkdk9RUEZ1M3AzZ1BTRWZkNEF4Z1d5WUpxRFVLNUdZRmlxaGFwV3lLN3VVVGhNdkY3VDYzM1ByYjdTb2t5ZVZIbS0zS1VkdFpNWkdhZDRFRk42YnhDb2s3anF0OU42aDhsOE9BLTlhNNIB9AFBVV95cUxQb0hyX0xTVnJ0R0RIZ3ZfVUV5N2xJa0hBbGRBMnlVTko1WkF4YzJyMmVFR09JeVlib2xMQTNWdjZhVEEyMFk1VDFpaXN3OWYya0RHeUc4a1RGNGpsbU0wQ1NYUFR4TUgtVXZmWmwydzVBVF9qM25WVTUzZTd4OWZhUDlTQjEwMmtJRF80ZXJ0aFdKaUtyMDZJeTk2c1Ztd290QkxDcldjcm1EUkwyUFNzLUxhd3ZyMmR5YlB2WUJwYWRYMi1TVVJ0eXZMU0E3QW41QzNOcU9zZ2h1SmpMaDZ3QmUyaWtKQ012RU5GajJmWDNPVWlk?oc=5",
+       "publishedAt": "2026-11-20T13:49+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-20T17:00+05:30",
    "generatedAt": "2026-11-20T17:26+05:30",
@@ -30074,236 +30267,6 @@
        "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2R6ZmJGZHpIRGdEbWw3aDBtU0VaemhmSlljY0UzSmtKNjdaVlhHTHRGU2VYUWI5eWUtYmFUakgyX28taFlOR3RIRUFMNnNodHI1VU9NUjlNV09IM3ZPUXhxcUlNS0p6dFg5MnBJMEdEUnQxNXNHS1Yxa2pnVjdkbmhYM1MwS0NTbkp6S1B1bzRaeDMtaHU1TTVyYm9ZOU13WWRDYVdXLW14c1BocXc?oc=5",
        "publishedAt": "2026-11-12T21:31+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-12T21:00+05:30",
-   "generatedAt": "2026-11-12T21:27+05:30",
-   "feeds": 16,
-   "headlines": 317,
-   "stories": [
-    {
-     "title": "Trump endorses former Apple CEO Tim Cook to replace Jensen Huang as Nvidia CEO: ‘A legend replaces a legend’",
-     "link": "https://www.livemint.com/news/trump-endorses-former-apple-ceo-tim-cook-to-replace-jensen-huang-as-nvidia-ceo-a-legend-replaces-a-legend-11794498668369.html",
-     "source": "Mint",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "Bloomberg.com",
-      "Mint",
-      "NDTV",
-      "NVIDIA Newsroom",
-      "The Economic Times",
-      "The Guardian",
-      "The Hindu",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 12,
-     "publishedAt": "2026-11-12T21:25+05:30",
-     "score": 14.49,
-     "summary": "US President Donald Trump said, ‘A legend should replace a legend,’ and endorsed former Apple Inc. chief executive Tim Cook's name.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/im-09256963_1783904464243_1783904479306_4ed28173-21dd-45be-bb65-7582a4488e8a_1794498764694_00UN_cd9bae0e-1075-4bfe-b1f5-861bec16b034_6NH2.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Trump endorses former Apple CEO Tim Cook to replace Jensen Huang as Nvidia CEO: ‘A legend replaces a legend’",
-       "link": "https://www.livemint.com/news/trump-endorses-former-apple-ceo-tim-cook-to-replace-jensen-huang-as-nvidia-ceo-a-legend-replaces-a-legend-11794498668369.html",
-       "publishedAt": "2026-11-12T21:25+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Legend replaces a Legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang",
-       "link": "https://timesofindia.indiatimes.com/business/international-business/legend-replaces-a-legend-trump-wants-tim-cook-to-replace-nvidia-ceo-jensen-huang/articleshow/135775422.cms",
-       "publishedAt": "2026-11-12T21:20+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
-       "link": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
-       "publishedAt": "2026-11-12T21:01+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Nvidia after Huang: Who is interim CEO Kress?",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-after-huang-who-is-interim-ceo-colette-kress/articleshow/135774049.cms",
-       "publishedAt": "2026-11-12T20:27+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Jensen Huang Resignation Live Updates: Nvidia Shares Crash 13%",
-       "link": "https://www.ndtv.com/world-news/nvidia-jensen-huang-resignation-live-updates-colette-kress-chinese-spy-alice-huang-megaspeed-12318417#publisher=newsstand",
-       "publishedAt": "2026-11-12T20:11+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Nvidia CEO Jensen Huang resigns",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-resigns?traffic_source=rss",
-       "publishedAt": "2026-11-12T20:10+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Watch: The latest in the Jensen Huang Nvidia scandal",
-       "link": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-12T18:12+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Nvidia CEO Jensen Huang resigns in big blow to AI boom",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVBCdnZvcnN2bm0yWVhLd0Z0WnFjRTVVbkxmYkZhaWQ4RXUwWEhTa1RJUzl5RzdxblpxajdySFdFdnZ4b1o5Vjk5WWRobUlab3R4VUEwUjcyRDZpd1hnemFMUGhnV1BwU21xTElsSTZiOFBCUjhLb1BHNnRKNlVnZ1EyeFNpcTJHN0g5M2wyekxzT252NHlOZzA4MHZyMTRGMkxUTUFEZmF2eGFX0gGzAUFVX3lxTE9Dd2lpQ3hEN1RrRElJaDZpOWNxQVF5UmRMTGQ4YXk4YTkxeVpyWnhILVFBSlo2Y05pNFZWMlU2NjdnanN6SjZmQWtEV0N5YWxoOThiSHJ0NHROemR0VUcwdUJ0ZEVDdmEwV3VmT2JxekZJUXVkYllBQkRfS3N6WUd3QXlzOEZ6OF84ZlB3N19OYi1rSEtpaUZOUktSYWlRdktWVFhZNkYtVVlMbXBwdVBNd01F?oc=5",
-       "publishedAt": "2026-11-12T19:37+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Q2 Results 12th Nov Live: HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
-     "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSk1Wd3ZLbWZVd1pXUWczWldsTkp1UUdaNEhCdi1sWUE3NWw0WmpDMHc4MUdDQWZDQzBKLUs0MVZGbW1vckJQWmV5Y1VWVjVrVFEtTGllcTFSdkJvbWx5U3FGZDFJZ1BzYzJiQ1BMb3hMRUtIUUlDbXBqNmcwbFdpX25jUVkybFpWT0xURWNybmZBLUtHcnJUcUp1ZzA2Q2lVWFpZa0xqdlNLek02Y3RqRXJjeGNlNmJMd0ZFeVBzempUejBacEtnZERJWFNfaVpjRmhZNGxqUjZRMkUzWGczaml3LWo4LXV4S0NmX19SQUtUcVZkU21hWVYxa1p2NWRpdkFfSWZ6WVU1MkZKYXhhOWRHc3ZabGF6S0EydlNDalhkYUJZYW5YcG54eUFOaTZkWm9Nak9Eb0N2SWRDRXVkVDJpNmpMMHhxWEZqenkxdXVVNGhvTjhJNVVwMU9yMDRwZTE2LThyWGRsdnPSAfICQVVfeXFMTTUxQTVpS3NvWnlBY2M3eWROYVVxXzBRRWtadzVoYUg5UU5CVUNULWU1SWwxUzRxMzB2bVZFdnBLcXBDR2VaYklMczdGV3Z3R2lBMFJzX0RkRjAwajlLSkJMMmE1SU1Nc0dkQ0xjeHVsVF9YQUhBZlZjT1lScUx4MEctREo4NGkxQlM5dU1GN3NRc3RkUEotS2MwbEQyVDcyeGlFekpaUzVhZzI4UzNJdERya09SbzZXODVGbE1qdU93aUp6TkZTS2VzcVFTcFZwZXkwalFXRFhTVHJLZlF1UV9JRWlaejZuWHRmYnU3VjVZQ3FNbi1EbERkb1lSN3JBUUNwRUdjRVFOMFZOX2VHbEZZRGNLeWVGX0l6bzR1anh2eEJFMnRyYmVwT2JSTUs0MTlKeG0tdERnMjJ0SEFnNGxqSFlNQjRUX0Z4TTZhRnF5ZmFXNXhZOWxRX25pVVVpWVZCd21GdlVkd2FKZThTc3hUZw?oc=5",
-     "source": "BusinessLine",
-     "sources": [
-      "Business Today",
-      "BusinessLine",
-      "CNBC TV18",
-      "IndiaIPO",
-      "Kalkine India",
-      "Sarkaritel.com",
-      "The Economic Times",
-      "The Hindu",
-      "https://www.siam.in/",
-      "marketscreener.com"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-12T19:26+05:30",
-     "score": 10.96,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "BusinessLine",
-       "title": "Q2 Results 12th Nov Live: HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
-       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSk1Wd3ZLbWZVd1pXUWczWldsTkp1UUdaNEhCdi1sWUE3NWw0WmpDMHc4MUdDQWZDQzBKLUs0MVZGbW1vckJQWmV5Y1VWVjVrVFEtTGllcTFSdkJvbWx5U3FGZDFJZ1BzYzJiQ1BMb3hMRUtIUUlDbXBqNmcwbFdpX25jUVkybFpWT0xURWNybmZBLUtHcnJUcUp1ZzA2Q2lVWFpZa0xqdlNLek02Y3RqRXJjeGNlNmJMd0ZFeVBzempUejBacEtnZERJWFNfaVpjRmhZNGxqUjZRMkUzWGczaml3LWo4LXV4S0NmX19SQUtUcVZkU21hWVYxa1p2NWRpdkFfSWZ6WVU1MkZKYXhhOWRHc3ZabGF6S0EydlNDalhkYUJZYW5YcG54eUFOaTZkWm9Nak9Eb0N2SWRDRXVkVDJpNmpMMHhxWEZqenkxdXVVNGhvTjhJNVVwMU9yMDRwZTE2LThyWGRsdnPSAfICQVVfeXFMTTUxQTVpS3NvWnlBY2M3eWROYVVxXzBRRWtadzVoYUg5UU5CVUNULWU1SWwxUzRxMzB2bVZFdnBLcXBDR2VaYklMczdGV3Z3R2lBMFJzX0RkRjAwajlLSkJMMmE1SU1Nc0dkQ0xjeHVsVF9YQUhBZlZjT1lScUx4MEctREo4NGkxQlM5dU1GN3NRc3RkUEotS2MwbEQyVDcyeGlFekpaUzVhZzI4UzNJdERya09SbzZXODVGbE1qdU93aUp6TkZTS2VzcVFTcFZwZXkwalFXRFhTVHJLZlF1UV9JRWlaejZuWHRmYnU3VjVZQ3FNbi1EbERkb1lSN3JBUUNwRUdjRVFOMFZOX2VHbEZZRGNLeWVGX0l6bzR1anh2eEJFMnRyYmVwT2JSTUs0MTlKeG0tdERnMjJ0SEFnNGxqSFlNQjRUX0Z4TTZhRnF5ZmFXNXhZOWxRX25pVVVpWVZCd21GdlVkd2FKZThTc3hUZw?oc=5",
-       "publishedAt": "2026-11-12T19:26+05:30"
-      },
-      {
-       "source": "CNBC TV18",
-       "title": "Stocks to Watch for November 13: IRCTC, Oil India, M&M, Ola Electric, Hitachi Energy and more",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEh5cElTLVFfZ1RfZDk2bnFCMGJYR3VST1MxUmYzRkR4NUJXQm9ha3pqbFBoa0VIaWlNVDczb0F2dUNLNTU0QjdXTE1kZnBMTjBMd2tpdms2a3loc2RJc0N3ZXptalIycGNPUks4WmZQdERKV3pTNHQzejRmZ3dRanFhNGNTeExiTTZNQTM2Y2ZnT2d4T09xVHl5b3JkYkU1SFZQbGRQWFI0N0tsdWxNYkFON3N4YkVTSDVaeGNZdnd6RlZwbTdSLTZQbXhfZHYxeVFCVDVR0gHbAUFVX3lxTE9HYWtaWllnbmJxcnZ6MExQUGlOSjE3VzNGcE83Y3lsUWFtM0llcnhBajdEbERpamdpS2dMeExXRVNUX2hLVElOYUhveGxRN2xHLVhMZGY2ek9XNTRudzQwejRQNmI3cXBUQXY5ZThhOG01Z00yZ2NNb0dvNjlfUTZLeHNUaEppNDFsMVZKeDNmYmRiRGFrSWhlc0pJdVl0Z0dNWXJYSHN5RWQwQ0lYS3hLTHc2Q2l4ZWNpTXBPbFktUHZadEVPLVhYVW14RlUwaXRRTU1JeElQdnJJZw?oc=5",
-       "publishedAt": "2026-11-12T17:47+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
-     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "Bloomberg.com",
-      "NDTV",
-      "NVIDIA Newsroom",
-      "The Guardian",
-      "WSJ"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-12T21:13+05:30",
-     "score": 10.46,
-     "summary": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time…",
-     "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
-       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-       "publishedAt": "2026-11-12T21:13+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-       "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-12T20:40+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Who Is Colette Kress? Nvidia Finance Chief Is Stand-In For Jensen Huang",
-       "link": "https://www.ndtv.com/world-news/nvidia-interim-ceo-who-is-colette-kress-nvidia-cfo-is-stand-in-for-jensen-huang-12318564#publisher=newsstand",
-       "publishedAt": "2026-11-12T20:23+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
-       "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
-       "publishedAt": "2026-11-12T20:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Inflation At 2-Year High In October, Breaches RBI's Upper Limit",
-     "link": "https://www.ndtv.com/business-news/inflation-at-2-year-high-of-6-09-in-october-breaches-rbis-upper-limit-12317438#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Bloomberg.com",
-      "ET Government",
-      "NDTV",
-      "Reuters",
-      "The Economic Times",
-      "The Hindu",
-      "ThePrint",
-      "Times of India",
-      "United News of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-12T17:17+05:30",
-     "score": 9.81,
-     "summary": "Food inflation spiked to 8.94 per cent in October 2026 from 7.74 per cent in the previous month, according to the data released by the Ministry of Statistics & Programme Implementation.",
-     "image": "https://c.ndtvimg.com/2024-02/i315trfg_inflation_625x300_12_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Inflation At 2-Year High In October, Breaches RBI's Upper Limit",
-       "link": "https://www.ndtv.com/business-news/inflation-at-2-year-high-of-6-09-in-october-breaches-rbis-upper-limit-12317438#publisher=newsstand",
-       "publishedAt": "2026-11-12T17:17+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Retail inflation soars to 2-year high of 6.09%, crosses RBI’s upper limit",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/cpi-inflation-soars-to-2-year-high-of-6-09-crosses-rbis-upper-limit-raises-chances-of-another-rate-hike/articleshow/135766377.cms",
-       "publishedAt": "2026-11-12T16:30+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "India's inflation breaches RBI's red line in October",
-       "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-october-retail-inflation-quickens-to-6-09-to-breach-rbis-tolerance-ceiling-food-fuel-cost/articleshow/135763003.cms",
-       "publishedAt": "2026-11-12T16:03+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Ramayana Part 1 Box Office Collection Day 7 LIVE: Ranbir Kapoor film crosses Rs 1000 cr worldwide, inches away from surpassing Dhurandhar 2",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz0gH7AUFVX3lxTE1jak13ODctTWJQNEd6VFdHam9PWFh0WjFwalJaazhiOS1qUmF1UXZOd0MzTXRSbldnOFpTMUowSk9zRlZha01LV0pqWFR2cDNRQWczeHdpZ285elFhYVJLejZsSkhWbGNOVGtrQklFYnhFUGdPSWhmQmt3SFROU2xWaW1PYy16SXNHeFNFdmpoV1Vyc3ZLb2pDa2Jmd0pKbFdmNjh2eTZ5YXpnVThFU21lcW1EYUV3TnhLT2xFQ1M4OGg5WE91QzBSZ2hGb2I5d2NOd2VvVkJ2VEdoT2l5aFh3bkNDeElSTG9FVlB4aEYyRUNoRTNYX2xnQ0Zz?oc=5",
-     "source": "The Indian Express",
-     "sources": [
-      "NDTV",
-      "Rediff",
-      "Telegraph India",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-12T21:00+05:30",
-     "score": 7.42,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana Part 1 Box Office Collection Day 7 LIVE: Ranbir Kapoor film crosses Rs 1000 cr worldwide, inches away from surpassing Dhurandhar 2",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbE4zejBXc01zeHUyS19VekExYVM0WDFWSkRZaXlPQTJLakdWbnVpa1R1V1poOFVrYWVaWUFWQWNXUndjMU5OYy1jSFY3TTlwTTJjZHVEQWR6TzFRV3lqeHVOMVg4Rjgxb1hPQmxlYWdWak5zcjRzcGQ2RU9UbVp2VUpuQUJNcU5fMGxEN09KcndjNW94b29vOEljM2kyemRaV0ZfaXNfSjhyLWItajNVX3JTeXlNMUdncDRVWTBXN0hQUThuSGlFVFo3MzFCSUdnZ1NuOEFTT3JTWEVoMUZNaU9VZzZaY19va1JfQWpzUFNVNlBz0gH7AUFVX3lxTE1jak13ODctTWJQNEd6VFdHam9PWFh0WjFwalJaazhiOS1qUmF1UXZOd0MzTXRSbldnOFpTMUowSk9zRlZha01LV0pqWFR2cDNRQWczeHdpZ285elFhYVJLejZsSkhWbGNOVGtrQklFYnhFUGdPSWhmQmt3SFROU2xWaW1PYy16SXNHeFNFdmpoV1Vyc3ZLb2pDa2Jmd0pKbFdmNjh2eTZ5YXpnVThFU21lcW1EYUV3TnhLT2xFQ1M4OGg5WE91QzBSZ2hGb2I5d2NOd2VvVkJ2VEdoT2l5aFh3bkNDeElSTG9FVlB4aEYyRUNoRTNYX2xnQ0Zz?oc=5",
-       "publishedAt": "2026-11-12T21:00+05:30"
       }
      ]
     }
