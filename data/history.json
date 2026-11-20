@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-20T06:29+05:30",
+ "updated": "2026-11-20T07:37+05:30",
  "hours": [
+  {
+   "hour": "2026-11-20T07:00+05:30",
+   "generatedAt": "2026-11-20T07:37+05:30",
+   "feeds": 16,
+   "headlines": 142,
+   "stories": [
+    {
+     "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Bloomberg.com",
+      "NDTV",
+      "Reuters",
+      "The Economist",
+      "The Times of India",
+      "Times of India",
+      "TradingView"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-20T06:31+05:30",
+     "score": 8.98,
+     "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+     "image": "https://static.toiimg.com/photo/msid-136005246,imgsize-77880.cms",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+       "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+       "publishedAt": "2026-11-20T05:28+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Trump pushes Iran war decision to 2027, says he'll 'see what happens' after Jan 1",
+       "link": "https://timesofindia.indiatimes.com/world/us/trump-pushes-iran-war-decision-to-2027-says-he-will-see-what-happens-after-january-1/articleshow/136005177.cms",
+       "publishedAt": "2026-11-20T03:13+05:30"
+      },
+      {
+       "source": "TradingView",
+       "title": "Iran war impact: Worst may be over",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYUw0dklpRWktb3Q2ZW1iS3JiVWFWU3duMHo5TFFpcXdmRkhIZzcxWVg4QXVVWm1pMXNaTUtzNkhNZmF2TS13Ukh1eFdwNk01UlBmSm8yNUtSTGQ3Q0NTTDJta2ZOV2ZVblZnYjlveDQyUkh6RUFTdUQtajZpZzhjR3hlSWk0VXVWLXc3eDl1V1BwY3M0?oc=5",
+       "publishedAt": "2026-11-20T06:31+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Trump pushes Iran war decision to 2027, says he will 'see what happens' after January 1",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRHhhcTFCcGpFSGk4TW5tTm15REF6TldtM2d4bGNYQktETk1sX3pfNU9TQjlDRkwwTlhvdFU3cmQ0YVVMRnlGVTF4LThaYVR1Z0pxb19qc1JRNjVzZWNaYjR0ZmRueWZsZEp0YTZMRW1rZF9PV2pwQUVabDVteGtVdFY3M1lGZDVycmtwdjFxTThjVnhYXzFvQ1RzSl9UX2VBeURSUDVkeWNpUFRSVzRtMlpJUWtHdUhGblFxYkhfNDdENHBxNjlIbEJWTHpvVkExa0NwMHNjMjFNc2MtWHNxclVzYWRTdlAtYmMw?oc=5",
+       "publishedAt": "2026-11-20T03:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "De Villiers calls Khawaja 'biggest traitor' as sandpaper row explodes",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/de-villiers-calls-usman-khawaja-biggest-traitor-cummins-captaincy-faces-threat-as-sandpaper-shockwaves-reverberate/articleshow/136007568.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricinfo",
+      "Nine.com.au",
+      "Scroll.in",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T04:29+05:30",
+     "score": 7.23,
+     "summary": "The controversy resurfaced after Cameron Bancroft released a 4,000-word statement in which he made claims about his former teammates, including Cummins.",
+     "image": "https://static.toiimg.com/photo/msid-47529300.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "De Villiers calls Khawaja 'biggest traitor' as sandpaper row explodes",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/de-villiers-calls-usman-khawaja-biggest-traitor-cummins-captaincy-faces-threat-as-sandpaper-shockwaves-reverberate/articleshow/136007568.cms",
+       "publishedAt": "2026-11-20T04:29+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "De Villiers calls Usman Khawaja 'biggest traitor'; Cummins' captaincy faces threat as Sandpaper shockwaves reverberate",
+       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQd1ZyTGFpTVFwMko2MzVqRm5ZSUtLNkZKVHJTMk1sLW53MmRrMUo0X2F2d3IxNXNSb0I2MUltbjNEOFFSZFMyTG02cEZaQWxQblhaX1BIUEZHMFZheXBacENETjFRRjZXNlRMZlBtb2JpZWxnVUdaakplTEJLM2JPUmdfV3l0ekI1RC1KWmZFMHR2SEFxLVhmbzNlWnQwbjZFMEJMempITUNNeDRZZ2ZQU1NieDNYc19kMGRNWXF6Y3VSUGFIWENuZmVwSGtHR3VQWTRRbjI4YnpNRXVKaDZLYkdVcHpPa1dRRVhYczg1by1JRzF4VTZoTmltQVRlS0NCV2VHWVhoZkdVZ3l0eDhydzVvRk53MVpMSGJuZFZ4bjNTUQ?oc=5",
+       "publishedAt": "2026-11-20T04:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Removal proceedings against me infructuous after resignation: Justice Varma tells Lok Sabha Secretariat",
+     "link": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Herald",
+      "Moneycontrol.com",
+      "NDTV",
+      "The Hindu",
+      "The Indian Awaaz",
+      "ThePrint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T06:30+05:30",
+     "score": 7.19,
+     "summary": "In a letter circulated among MPs on November 19, Justice Varma stated that the proceedings directed toward his removal did not survive his resignation",
+     "image": "https://th-i.thgim.com/public/incoming/7yy6ix/article71721691.ece/alternates/LANDSCAPE_1200/IMG_vbk-16-9-Justice_Yas_2_1_N4GCTCD6.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Removal proceedings against me infructuous after resignation: Justice Varma tells Lok Sabha Secretariat",
+       "link": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece",
+       "publishedAt": "2026-11-20T06:30+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Resignation Not Admission Of Guilt: Justice Yashwant Varma Tells Lok Sabha Secretariat",
+       "link": "https://www.ndtv.com/india-news/resignation-not-admission-of-guilt-justice-yashwant-varma-tells-lok-sabha-secretariat-12351554#publisher=newsstand",
+       "publishedAt": "2026-11-20T06:23+05:30"
+      }
+     ]
+    },
+    {
+     "title": "47 Train Cancelled, Over 3 Lakh Evacuated As Cyclone Akvan Heads To Odisha",
+     "link": "https://www.ndtv.com/india-news/47-train-cancelled-over-3-lakh-evacuated-as-cyclone-akvan-heads-to-odisha-12351955#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-20T05:18+05:30",
+     "score": 7.11,
+     "summary": "Cyclone Akvan: Chief Minister Mohan Charan Majhi conducted another comprehensive review of the preparedness and response measures for the impending Cyclone 'Akvan'.",
+     "image": "https://c.ndtvimg.com/2026-11/1d5ict8k_akvan_625x300_19_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "47 Train Cancelled, Over 3 Lakh Evacuated As Cyclone Akvan Heads To Odisha",
+       "link": "https://www.ndtv.com/india-news/47-train-cancelled-over-3-lakh-evacuated-as-cyclone-akvan-heads-to-odisha-12351955#publisher=newsstand",
+       "publishedAt": "2026-11-20T05:18+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Cyclone Akvan: Odisha braces for landfall; 3 lakh evacuated, CM holds midnight meet",
+       "link": "https://timesofindia.indiatimes.com/india/cyclone-akvan-odisha-braces-for-landfall-3-lakh-evacuated-cm-majhi-holds-midnight-meet/articleshow/136005443.cms",
+       "publishedAt": "2026-11-20T04:00+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
+       "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+       "publishedAt": "2026-11-20T01:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
+     "source": "Yahoo Tech",
+     "sources": [
+      "BBC",
+      "The Guardian",
+      "The Hindu",
+      "The New York Times",
+      "Yahoo Tech"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-20T04:35+05:30",
+     "score": 7.0,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Yahoo Tech",
+       "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years",
+       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
+       "publishedAt": "2026-11-20T04:35+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-20T06:00+05:30",
    "generatedAt": "2026-11-20T06:29+05:30",
@@ -30059,207 +30239,6 @@
      "sourceCount": 5,
      "publishedAt": "2026-11-12T09:37+05:30",
      "score": 7.19,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricbuzz",
-       "title": "'Definitely long term': Ness Wadia on Hardik Pandya's acquisition",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUEpQWkZoYlVleDhUUkhndkJCVnp0NkpNR3hjTngteHRZdHhTZ01sMzJYM3RKSy1pTXladzZoU3lmN05YMzVaVWJrMTdEWUFHeGRseVRpemN6aEQ1Zk9ZVjhSOGNCSlRYTkJMeHNLZTBJbmJMZW43VldNMUF4UGpvV2pmcEl1TGE0QXlkeGdoVXRpWmVxSTJ2NmhaUnRvZXF1T2lXWmFISHJCemh1WldNSnFBN1BPX2NOWmd0OVBWaW1qUXQ3X19RZkRyYnhjcmlON1NiZzR1VkNVQQ?oc=5",
-       "publishedAt": "2026-11-12T09:37+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-12T10:00+05:30",
-   "generatedAt": "2026-11-12T10:27+05:30",
-   "feeds": 16,
-   "headlines": 203,
-   "stories": [
-    {
-     "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "sources": [
-      "Al Jazeera",
-      "NDTV",
-      "NVIDIA Newsroom",
-      "Quartz",
-      "The Economic Times",
-      "The Guardian",
-      "The Hindu",
-      "The New York Times",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-12T10:00+05:30",
-     "score": 12.42,
-     "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading The scandal surrounding Nvidia chief Jensen Huang has been closely followed and widely reported in Chinese media. Much of the coverage, however, has framed the affair as a celebrity style scandal while dismissing allegations linking it to Chinese…",
-     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-       "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-       "publishedAt": "2026-11-12T10:00+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Who Is Kimberly Powell, the Nvidia executive linked to CEO Jensen Huang",
-       "link": "https://timesofindia.indiatimes.com/technology/tech-news/who-is-kimberly-powell-the-nvidia-executive-that-ceo-jensen-huang-is-reported-to-be-having-another-affair-with/articleshow/135755198.cms",
-       "publishedAt": "2026-11-12T09:55+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Who Is Kimberly Powell, Nvidia Executive Who Had Affair With CEO Jensen Huang?",
-       "link": "https://www.ndtv.com/world-news/who-is-kimberly-powell-nvidia-executive-who-had-affair-with-ceo-jensen-huang-12314956#publisher=newsstand",
-       "publishedAt": "2026-11-12T09:20+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Nvidia crashes 10% on Huang-less co future",
-       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-shares-slide-as-investors-consider-future-without-huang/articleshow/135753594.cms",
-       "publishedAt": "2026-11-12T08:51+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
-       "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
-       "publishedAt": "2026-11-12T06:13+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Nvidia preparing to oust CEO Jensen Huang: U.S. media",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXdFOU1qZ1djZTNTVjVxZWxCVVM5Y2FQNVpMQVdKQmhnUTZybGRUSTAtdTF0eHZPSXh5cVZJTzZPZE16SlN0aktKNURmYkZ0LUo3aEYxS2FkWXZWM2owNGZKUU9ud3NkTl93cXBPaDE0ZzZhUGZTS240TGlPTmFYNENwanhuTmNUQW5LN0JkUUhUek1TTDZlXzdkaGdjT1FXLXVBM0JBWC1mTWNnNmRBdTZOczTSAbsBQVVfeXFMUFBWbnRRbmJKZC1tTXM3UENiUXdyQ2hBRW9qYnBOU3JGUk5NQkJDTjBxR2ZVVlMwMENHY18tTjIxbkE1cVgwYUM3ZnpLbm82THFaLTlNSGEtZFNiZWRZbmk5bXZEOTdLLXdfeVJTRjFsNl9SUDQ4R0o3eUwtZV9BTnAtSWZDenIzQVlnTVhIQkxPTWJfM29RcDhGNmxQOHFCaUpJQmU3OGNmWGM0NWNfR1VjVWxLZXRHMlB4aw?oc=5",
-       "publishedAt": "2026-11-12T06:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Taurus Horoscope Today: November 12, 2026",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NOEhWVTJpc3Bhc3FCVGxtYUFMUVBYUlJqeUR4enNoMjQyVXVsXzJYS0RNaVMxdk5ZVFcxNFFPeFpoSFIzTVZfU1I1SlZ1eVk3dHZKeFJlcXRRWUVhZlNMQkY4cWdkRHlKYU9PX1dkT3ZESDkwUnU4?oc=5",
-     "source": "Vogue India",
-     "sources": [
-      "AOL.com",
-      "Deccan Herald",
-      "Hindustan Times",
-      "India Today",
-      "News18",
-      "Odisha TV",
-      "Syracuse.com",
-      "The Economic Times",
-      "The Times of India",
-      "Vogue India",
-      "Yahoo"
-     ],
-     "sourceCount": 11,
-     "publishedAt": "2026-11-12T05:50+05:30",
-     "score": 11.38,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Vogue India",
-       "title": "Taurus Horoscope Today: November 12, 2026",
-       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NOEhWVTJpc3Bhc3FCVGxtYUFMUVBYUlJqeUR4enNoMjQyVXVsXzJYS0RNaVMxdk5ZVFcxNFFPeFpoSFIzTVZfU1I1SlZ1eVk3dHZKeFJlcXRRWUVhZlNMQkY4cWdkRHlKYU9PX1dkT3ZESDkwUnU4?oc=5",
-       "publishedAt": "2026-11-12T05:50+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Two missing policemen found dead in J&K’s Kishtwar",
-     "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-spos-go-missing-in-jks-kishtwar-massive-search-operation-launched/article71692139.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "India Today",
-      "NDTV",
-      "Rediff",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-12T09:54+05:30",
-     "score": 9.41,
-     "summary": "The deaths of two missing SPOs came a day after terrorists opened fire on CRPF in south Kashmir’s Kulgam and left three personnel injured",
-     "image": "https://th-i.thgim.com/public/incoming/olmrd6/article71692265.ece/alternates/LANDSCAPE_1200/iStock-1224339813.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Two missing policemen found dead in J&K’s Kishtwar",
-       "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-spos-go-missing-in-jks-kishtwar-massive-search-operation-launched/article71692139.ece",
-       "publishedAt": "2026-11-12T09:54+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Two Special Police Officers who went missing during patrol in J&K’s Kishtwar found dead",
-       "link": "https://www.hindustantimes.com/india-news/two-special-police-officers-who-went-missing-during-patrol-in-j-k-s-kishtwar-found-dead-rashpal-kumar-babbi-chand-101794454715706.html",
-       "publishedAt": "2026-11-12T09:32+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Bullet-riddled bodies of 2 missing cops found in J&K's Kishtwar",
-       "link": "https://timesofindia.indiatimes.com/india/jk-bullet-riddled-bodies-of-2-missing-spos-found-in-kishtwar-weapons-missing/articleshow/135754703.cms",
-       "publishedAt": "2026-11-12T09:28+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "2 J&K Special Police Officers, Who Had Gone Missing On Duty, Found Dead",
-       "link": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-who-had-gone-missing-on-duty-found-dead-12315244#publisher=newsstand",
-       "publishedAt": "2026-11-12T09:20+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
-     "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrat-scott-colom-becomes-mississippis-first-black-senator-since-1874/articleshow/135751018.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "The Guardian",
-      "The New York Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-12T04:56+05:30",
-     "score": 7.58,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135751047,imgsize-177548.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
-       "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrat-scott-colom-becomes-mississippis-first-black-senator-since-1874/articleshow/135751018.cms",
-       "publishedAt": "2026-11-12T04:56+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
-       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORTRJVklDeGxDT3drLU5BTkNrelBSMERQZkFqejFNVVNRQ2RiRC1rZWlsR05WeEpKZmpScnc2RlRRTzI1S1Y3Q3NxamhVeFpIQzU0aVo0M3NaV0FTbkh0ZHpjejNud3BfN01OVGFDZlFiZTh0dlV5YXU2WkMzQm9sNE0tRlRqb1lqd2NwSnROaGY0RGJhQ1JaVDBBaHB0TC1tUHdWSHV5TW01Uml0aFh4dEhzTzVkZUdfeHczYVBaYXprZUZFdVZZSmxxSXhlVDRZRmMwamo3bFRkSTZtbnhIR053M2FIRV9udkU3elVwNlNXZUVBaXQ3aHFnX1p5MzQ?oc=5",
-       "publishedAt": "2026-11-12T04:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Definitely long term': Ness Wadia on Hardik Pandya's acquisition",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUEpQWkZoYlVleDhUUkhndkJCVnp0NkpNR3hjTngteHRZdHhTZ01sMzJYM3RKSy1pTXladzZoU3lmN05YMzVaVWJrMTdEWUFHeGRseVRpemN6aEQ1Zk9ZVjhSOGNCSlRYTkJMeHNLZTBJbmJMZW43VldNMUF4UGpvV2pmcEl1TGE0QXlkeGdoVXRpWmVxSTJ2NmhaUnRvZXF1T2lXWmFISHJCemh1WldNSnFBN1BPX2NOWmd0OVBWaW1qUXQ3X19RZkRyYnhjcmlON1NiZzR1VkNVQQ?oc=5",
-     "source": "Cricbuzz",
-     "sources": [
-      "Cricbuzz",
-      "IPL",
-      "Mumbai Indians | Official website",
-      "Rediff",
-      "Telegraph India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-12T09:37+05:30",
-     "score": 7.36,
      "summary": "",
      "image": null,
      "articles": [
