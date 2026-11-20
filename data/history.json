@@ -1,6 +1,208 @@
 {
- "updated": "2026-11-20T12:42+05:30",
+ "updated": "2026-11-20T14:29+05:30",
  "hours": [
+  {
+   "hour": "2026-11-20T14:00+05:30",
+   "generatedAt": "2026-11-20T14:29+05:30",
+   "feeds": 16,
+   "headlines": 325,
+   "stories": [
+    {
+     "title": "UP CM Yogi's mother Savitri Devi passes away",
+     "link": "https://economictimes.indiatimes.com/news/india/up-cm-yogi-adityanaths-mother-savitri-devi-passes-away-in-uttarakhand/articleshow/136018687.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Business Standard",
+      "Hindustan Times",
+      "India Today",
+      "Mint",
+      "Moneycontrol.com",
+      "NDTV",
+      "The Economic Times",
+      "ThePrint",
+      "Times of India",
+      "Udayavani"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-20T13:31+05:30",
+     "score": 11.59,
+     "summary": "UP CM Yogi Adityanath's mother, Savitri Devi, passed away in Uttarakhand's Pauri Garhwal district on Friday. The last rites are likely to be performed in Haridwar on Saturday.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/Adityanath_mother_1795159673385_qeHR_1795159678281_NMK1_c6a9816d-3931-42eb-9fcb-5836593ce1a0_HXzw.png",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "UP CM Yogi's mother Savitri Devi passes away",
+       "link": "https://economictimes.indiatimes.com/news/india/up-cm-yogi-adityanaths-mother-savitri-devi-passes-away-in-uttarakhand/articleshow/136018687.cms",
+       "publishedAt": "2026-11-20T13:31+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Uttar Pradesh CM Yogi Adityanath's mother Savitri Devi passes away at 91 in Uttarakhand",
+       "link": "https://www.livemint.com/news/india/uttar-pradesh-cm-yogi-adityanaths-mother-savitri-devi-passes-away-at-91-in-uttarakhand-11795159545060.html",
+       "publishedAt": "2026-11-20T12:58+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Uttar Pradesh CM Yogi Adityanath’s mother Savitri Devi dies at 91 in Uttarakhand",
+       "link": "https://www.hindustantimes.com/india-news/uttar-pradesh-chief-minister-yogi-adityanaths-mother-savitri-devi-dies-in-uttarakhand-101795158780052.html",
+       "publishedAt": "2026-11-20T12:47+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "UP CM Yogi Adityanath’s mother passes away at 91",
+       "link": "https://timesofindia.indiatimes.com/city/dehradun/up-cm-yogi-adityanaths-mother-passes-away-at-91-in-uttarakhands-pauri/articleshow/136017037.cms",
+       "publishedAt": "2026-11-20T12:30+05:30"
+      },
+      {
+       "source": "India Today",
+       "title": "Uttar Pradesh CM Yogi Adityanath's mother Savitri Devi dies at 91 in Uttarakhand",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa2lva0dYUXY5Q2ZCTm55aHVNM1VteVZhMC1PZTN0Ry1tUXphN3daTjliVEppN2tiSGVGblBTUWdGaThwYlk2dVRIa1JUTlJJZzhjU255ZkxkT0l2cTVZckhFdG9qX2k0LUhPVW5PX1JrdGpjcnAwc3pSc1ZWZ2toZTJlZ0tHTTNhSGRHNFJ3YlY3U05fN2xROVgteGc5V1N5d0dCUWg5ckRoRlhOb0xISEl3N1J3cXdvbDl5VXlxUTM5NlJfMlp2QWNlQmpkeVhKZy1QeGlVVWl2cUtkYkxnNk1B0gHnAUFVX3lxTE0xR08tSGJWOUtGS3BaVDhBempRUER5c3g2bEE0dTU4RzFCbk5JMllaSWRob1JnanNoYmlHWTBwUEdZU1pfVFctajN1TFJQWS1yOUprRm4zZGo5Y2Z4dnE0ZlNiNTBoMy15X0VCbnlZc3NPSnIyUmxtWkg3TXZuN210QTIySldxdWhBc1NINzFxeFNKRHNtZUJ5OUd4bjJ2YXJzNDNmTGtmWm1qYnpMQ2dRUWpFV2lBNUhWV1Zack8wZnU3RmJTekREcGV3MzFsbDNrMzkzYmJaZDUyTXFlRUhiLTFLVXNaQQ?oc=5",
+       "publishedAt": "2026-11-20T12:39+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Samantha Ruth Prabhu welcomes baby boy",
+     "link": "https://economictimes.indiatimes.com/news/new-updates/samantha-ruth-prabhu-and-raj-nidimoru-welcome-baby-boy-share-first-pictures-and-reveal-their-little-ones-beautiful-name/articleshow/136019077.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Deccan Chronicle",
+      "Inshorts",
+      "MissMalini",
+      "NDTV",
+      "The Economic Times",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T13:48+05:30",
+     "score": 8.39,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Samantha Ruth Prabhu welcomes baby boy",
+       "link": "https://economictimes.indiatimes.com/news/new-updates/samantha-ruth-prabhu-and-raj-nidimoru-welcome-baby-boy-share-first-pictures-and-reveal-their-little-ones-beautiful-name/articleshow/136019077.cms",
+       "publishedAt": "2026-11-20T13:48+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Samantha Ruth Prabhu Welcomes 1st Child With Director Raj Nidimoru: 'Our Beautiful Baby Boy Dev'",
+       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM0RuZmVuLWNnVms1NmdSamJyNTRwX0N3dTBRbi1ENXRYb0s1LW1yYlRlSzh6Smh6WWxZQk1wS0dTQXNxSDF6UXZaNVB3Y003bGZzaGtfZTQ5aFVOcW5WWHYyMlA2eG1EbVdXRm1vN05lNW9CZ1dsUjdPdnRkQVJkdmJNM0xodlNsdUNuQWtEUGNKb3RuZDN4bEJsNjdvb1Z2bXJKUWxwd0pERW9yeHhNY3BBaUoxSUxCYTIzQXRXSWZ3dk9GMFFqYUFQQ3YyRzJ5N1cw?oc=5",
+       "publishedAt": "2026-11-20T13:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cauvery dispute: SC dismisses Tamil Nadu's pleas for additional water release from Karnataka",
+     "link": "https://www.hindustantimes.com/india-news/cauvery-dispute-sc-dismisses-tamil-nadu-s-pleas-for-additional-water-release-from-karnataka-101795161882622.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T14:08+05:30",
+     "score": 7.44,
+     "summary": "Tamil Nadu government sought directions to Karnataka to make sure that the backlog of 11 TMC of Cauvery water as on October 7 is cleared immediately.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2025/08/06/1600x900/logo/Untitled_design_1754465014585_1754465103581.png",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Cauvery dispute: SC dismisses Tamil Nadu's pleas for additional water release from Karnataka",
+       "link": "https://www.hindustantimes.com/india-news/cauvery-dispute-sc-dismisses-tamil-nadu-s-pleas-for-additional-water-release-from-karnataka-101795161882622.html",
+       "publishedAt": "2026-11-20T13:34+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Top Court Dismisses Tamil Nadu Pleas For Cauvery Water Release From Karnataka",
+       "link": "https://www.ndtv.com/tamil-nadu-news/supreme-court-dismisses-tamil-nadu-pleas-for-cauvery-water-release-from-karnataka-12352850#publisher=newsstand",
+       "publishedAt": "2026-11-20T12:04+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "SC declines Tamil Nadu's plea seeking 11 TMC Cauvery water from Karnataka",
+       "link": "https://timesofindia.indiatimes.com/india/supreme-court-declines-tamil-nadus-plea-seeking-11-tmc-cauvery-water-from-karnataka/articleshow/136014622.cms",
+       "publishedAt": "2026-11-20T11:00+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "SC dismisses T.N.'s pleas seeking direction to Karnataka for release of 11 TMC of water from Cauvery river | LIVE",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTmt5Y0V3dWEzRWVmYlRQY1A5RmlBTDBQRWNRTVg2ZkxjVjlIQnpfT3B6dDNDaDlibmJQdEEybm5SeFZjX0lUQV9qWmRRSDdteHItNGNoTmFhT2hmQ0tUcnlqa05WVXp6Wk1MeEZMUmYyTEhkWk9qSXRwaTE3WHlZM0Z5a3FNbGFmNUw5WUtmTXdxYXU0U3lBR2xSb1BnNVF5amNEbUdsVHVzR2RWRS1KV05wNXQwQzl6azBrckJiTlF1dndCdE5XS3ctVlk0SzF2RHRPc1V6bkZyUzlTenI5akI5M3JBME1wQTlPRzloYjZTZVJfM2fSAfwBQVVfeXFMTldNY1lYU3JjWUh2SV9NVE5WeDJDd2pDVGJOdTNFYWdEVUIxdHN2RUxVMi1qa0hMRVQ5aHNSaUlkbTV6a2MtckFEaUdkdGdJU3F3LWg0WkZhMU5YdDRLclE1UVpndU11cE9lWTdKSzVKQnA0cFA3eWJvTU5LcnYtdDBVYk1HTlIySjl0WVZOQ2gxblRPbU1saUp4U1h4ZUhkNEJzQmpqdFctOUNsWnpiNW5uQl8wT1dGNzFqRGl2TTB6SFkyVFNReWF3VzJ3bTBVX0o5MnZTa0pYRl9nWUQxOTB5YTA1ZVQwWHUtNlRINUFJMWtRZFhLWGV4bDBu?oc=5",
+       "publishedAt": "2026-11-20T14:08+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Cauvery River Dispute : Supreme Court Dismisses Tamil Nadu's Applications Seeking Additional Water...",
+       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOemdVMGhMaTMtU09BX0trS2xjR0tLR3NBVjB1Smh6QmJCbGVHbU1QS3NZUkFpOFhxdjk0MXdBSDNOR3V4N3g0SllRazUwTlJlbEItQ0hnLTB1SUpvNnZSSG1CMGVKdVhWRy1tWnRYUWt5Smd3aGFsdzdEMVlLTktxWUJSamFCU21CQ3h3SkQ5OTREaFpKZ2pFVkdmWF9yWjVOLWthVlI3ZmgySkMwNjNIU0dhTEtBZExJWVNfRmNoUWhoNXYyRDF2WDFUekNUdTJOUXVOWmJlTlRveVhsT1dqZUpyWmo3ZmJYeldxRGRnRdIB9AFBVV95cUxOZDEwWTlGRkRDdlY2eVM2UjBDbGZZVGdDbHJmM3FGNmVSbEJGdUcyanhhQTMyTU5LZzVOUUFzay1famRKTGFaM0NQM25fNEdnUzRnUWY1VDliM0xEUXVBbVlSS2JBSlg1Ri1tN1hFdlFqUl9WcGpaZ1dvRjdZM09tVFJMUGp3TlpXU3lpR1BZNUxXS24zR1ZSaHlEZ2N2YXR1TTltSzB3QTZBQTJhenR6UExIaENLX2hPdE1nNXc2WE01Sy1zcTBLLTh4VDVVLWx2b2N0WEJvTmhYeWJtY0ExTC1ydkszYl8zNVA3Vnd4Q1ZKS1E4?oc=5",
+       "publishedAt": "2026-11-20T10:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 450 Points Amid Mixed Global Cues",
+     "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-20-november-us-iran-war-oil-price-12352349#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Investing.com India",
+      "Moneycontrol.com",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "cfo.economictimes.indiatimes.com"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T11:55+05:30",
+     "score": 7.32,
+     "summary": "Stock Market, Sensex, Share Market, Nifty LIVE Updates: Brent crude oil stood at $92.3 a barrel, WTI at $84.34.",
+     "image": "https://c.ndtvimg.com/2026-10/8vc7632s_stock-market-live-unsplash_625x300_13_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 450 Points Amid Mixed Global Cues",
+       "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-20-november-us-iran-war-oil-price-12352349#publisher=newsstand",
+       "publishedAt": "2026-11-20T11:55+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Sensex falls 300 pts, Nifty below 25,450: Weak global cues among key factors behind market decline",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTG8yOWFveTRVajd4clA2WjVZNGNtclJ1eGxjbktfbmFRSDllRVZoamdzVlFiX1o1UngyYzFRRU16dWFNMXl4VkllWmRLSUF6cXlYMkhlT0V3VVJ3T2xKV24zdzZsUkZSaEtWclJlNVJ5YWJXbl9aRVFfemE1bFpFeUxFbENwNWVTdy11eG90eFRMVG10eVZRRF9zQllLNVo1akd1dGRfTHZZYU5JMWZjd01TSmhyZDdYR09xaEZRZ1Q4ckZ6Q3dlRDRDdkVFbVJOMkkwdU9yZXB3Zk1hMlFQNU1MTUY5VXVRTEotZ3NWUTdZUdIB9wFBVV95cUxPRnN2MnNvMVg4WTlFeFozRk5FVmNNejRweU4tMUx4akpfNVhvN2lnLW1UNHlha2pMQTdnQkdzNTdBMmo3dkpRZTNkWEpJU2F3a2xUVHEyak5JNXNkc19HZV9ROW05a0R2RTM3OFd5Z2p1dFhTYW5tU2xpVG9GQkFHUXRVLW1KbHlGdnItTV9oV3NlRWZqeThOQlp5N3ZBcUtwV29JTEJkYkNUNFEzWVRPZWdOUktyQ1pOaXNERW9vZl9ZbmpsNDl5QjBHMnplNlYydUV0OFVNTDNkWUdlTVEweHJUNjFpd3F0bE53SUhJYVQySXp6QXU0?oc=5",
+       "publishedAt": "2026-11-20T09:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gangster linked to Dawood Ibrahim killed in U.P. encounter",
+     "link": "https://www.thehindu.com/news/national/uttar-pradesh/gangster-linked-to-dawood-ibrahim-killed-in-up-encounter/article71723107.ece",
+     "source": "The Hindu",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "Rediff",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-20T12:24+05:30",
+     "score": 7.03,
+     "summary": "Naseem Durrani, accused of firing around 20 rounds at 26-year-old Sameer in northeast Delhi’s Sonia Vihar on November 16, was killed in a joint operation by Delhi Police and Noida STF in Bulandshahr",
+     "image": "https://th-i.thgim.com/public/incoming/cr3zjm/article71723128.ece/alternates/LANDSCAPE_1200/durrani.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Gangster linked to Dawood Ibrahim killed in U.P. encounter",
+       "link": "https://www.thehindu.com/news/national/uttar-pradesh/gangster-linked-to-dawood-ibrahim-killed-in-up-encounter/article71723107.ece",
+       "publishedAt": "2026-11-20T12:24+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-20T12:00+05:30",
    "generatedAt": "2026-11-20T12:42+05:30",
@@ -30117,184 +30319,6 @@
        "title": "Arvind Kejriwal gets death threat from Lawrence Bishnoi gang, case filed in Mohali",
        "link": "https://www.hindustantimes.com/india-news/arvind-kejriwal-gets-death-threat-from-lawrence-bishnoi-gang-case-filed-in-mohali-101794467808165.html",
        "publishedAt": "2026-11-12T12:52+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-12T16:00+05:30",
-   "generatedAt": "2026-11-12T16:28+05:30",
-   "feeds": 16,
-   "headlines": 319,
-   "stories": [
-    {
-     "title": "Ramayana Part 1 box office day 6: Ranbir Kapoor film sees 12.5% dip on Tuesday, earns Rs 94.10 crore",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVmNmLXAwWWlxV2I0MnpZOElmZ3dOOS1xREdIbUZ0c29rbWxRWExZWnI5RmNURU5LUUJjaHNha1NmYTZVNWhMS1VHQ3hIYzN0VlFKajlnX1ZrZDhhRlVEQ1RSSXM2LWFkdjNmVmpSejlCM2Zxa2hsTGN4SkpYVG1hMGJDVXFqWmJQZTVYZE53NWttM05wNW1nUlpzbWZWVVFrY1JDblA5d2VGcTY1dVdhbkttSmNDT21xS3hnbnFrOTR6c3dJd3JFU2poajFHNU5EUlEyTDY4NDRXM0xoeFMtWnVYTVNxeHd2WGN0dlhXZVBXX1NJ0gH7AUFVX3lxTE1ZLXhMc3AycUxFWlA1LWZXa0N1a1JndTBibVpYbFZTX1FPM1ZVVmJLYUlmQU9odXdUNmNGNUd2MGJRQzdYT01sam9UR1dpWjZ2QVdrVG1Gd25paHYxMEZSaWVzVGQ2X18tQkFHUmdtSFo4UUlmTmtpdkFKOFZlS3lQWEJnUGhBcjhVNzJCV0lSM0YtMndRcXloOEdDeVNnN3d3UkY5Z2JTNjJ5bkY0MFM3dHBtekZ4RDNXN04xQm43bmdqcnJnc1NpR2lkVVBvOXR1d1ZTNFd2VE9EYTFWcHhYdFR0V29KMmFUZThRY0FRa0ZneTJuUDNuNjhv?oc=5",
-     "source": "The Indian Express",
-     "sources": [
-      "IMDb",
-      "Koimoi",
-      "NDTV",
-      "Rediff",
-      "Sacnilk",
-      "THE WEEK",
-      "Telegraph India",
-      "The Indian Express",
-      "Zee Business"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-12T13:45+05:30",
-     "score": 9.92,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana Part 1 box office day 6: Ranbir Kapoor film sees 12.5% dip on Tuesday, earns Rs 94.10 crore",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVmNmLXAwWWlxV2I0MnpZOElmZ3dOOS1xREdIbUZ0c29rbWxRWExZWnI5RmNURU5LUUJjaHNha1NmYTZVNWhMS1VHQ3hIYzN0VlFKajlnX1ZrZDhhRlVEQ1RSSXM2LWFkdjNmVmpSejlCM2Zxa2hsTGN4SkpYVG1hMGJDVXFqWmJQZTVYZE53NWttM05wNW1nUlpzbWZWVVFrY1JDblA5d2VGcTY1dVdhbkttSmNDT21xS3hnbnFrOTR6c3dJd3JFU2poajFHNU5EUlEyTDY4NDRXM0xoeFMtWnVYTVNxeHd2WGN0dlhXZVBXX1NJ0gH7AUFVX3lxTE1ZLXhMc3AycUxFWlA1LWZXa0N1a1JndTBibVpYbFZTX1FPM1ZVVmJLYUlmQU9odXdUNmNGNUd2MGJRQzdYT01sam9UR1dpWjZ2QVdrVG1Gd25paHYxMEZSaWVzVGQ2X18tQkFHUmdtSFo4UUlmTmtpdkFKOFZlS3lQWEJnUGhBcjhVNzJCV0lSM0YtMndRcXloOEdDeVNnN3d3UkY5Z2JTNjJ5bkY0MFM3dHBtekZ4RDNXN04xQm43bmdqcnJnc1NpR2lkVVBvOXR1d1ZTNFd2VE9EYTFWcHhYdFR0V29KMmFUZThRY0FRa0ZneTJuUDNuNjhv?oc=5",
-       "publishedAt": "2026-11-12T13:45+05:30"
-      },
-      {
-       "source": "Sacnilk",
-       "title": "Jailer 2 Box Office Collection Day 29",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLUlmM2l5UVdxbmNfQldmTkYtMmZpUXJKWms0c01QSmtKeFJpdUVnMnRYWXNzZFlWMzdjS0ZpX2N3YXZGQjRQbWdXaWtTYUhJVTZYVHFicEdmc1h1M0x1VVE0S3YzcnhNMjI3V1JQck5HTVRyTjZkNjhocFNET3BYM1h3?oc=5",
-       "publishedAt": "2026-11-12T12:39+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Kejriwal, his daughter get death threat from ‘Bishnoi gang member’; case filed in Punjab",
-     "link": "https://www.thehindu.com/news/national/punjab/kejriwal-his-daughter-get-death-threat-from-bishnoi-gang-member-case-filed-in-punjab/article71693074.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "Moneycontrol.com",
-      "NDTV",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-12T16:03+05:30",
-     "score": 8.31,
-     "summary": "Delhi AAP MLA Jarnail Singh alleged caller demanded ₹7 crore from Mr. Kejriwal and threatened to kill him and his daughter Harshita Kejriwal if the money was not paid",
-     "image": "https://th-i.thgim.com/public/incoming/mat79a/article71693109.ece/alternates/LANDSCAPE_1200/kejriwal.jfif",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Kejriwal, his daughter get death threat from ‘Bishnoi gang member’; case filed in Punjab",
-       "link": "https://www.thehindu.com/news/national/punjab/kejriwal-his-daughter-get-death-threat-from-bishnoi-gang-member-case-filed-in-punjab/article71693074.ece",
-       "publishedAt": "2026-11-12T16:03+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "'Pay Rs 7 Crore': Arvind Kejriwal, His Daughter Get Death Threat",
-       "link": "https://www.ndtv.com/india-news/arvind-kejriwal-gets-death-threat-allegedly-from-lawrence-bishnoi-gang-12316084#publisher=newsstand",
-       "publishedAt": "2026-11-12T15:56+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Arvind Kejriwal gets death threat from Lawrence Bishnoi gang, case filed in Mohali",
-       "link": "https://www.hindustantimes.com/india-news/arvind-kejriwal-gets-death-threat-from-lawrence-bishnoi-gang-case-filed-in-mohali-101794467808165.html",
-       "publishedAt": "2026-11-12T12:52+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Kejriwal, daughter get death threats; Rs 7cr demanded in Bishnoi gang's name",
-       "link": "https://timesofindia.indiatimes.com/india/arvind-kejriwal-daughter-get-death-threat-in-bishnoi-gang-name-over-rs-7-crore-extortion-india-news/articleshow/135759194.cms",
-       "publishedAt": "2026-11-12T12:31+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Mithai khilao': PM Modi recalls how journalists told him he was Gujarat CM",
-     "link": "https://timesofindia.indiatimes.com/india/mithai-khilao-you-are-gujarat-cm-now-pm-modi-recalls-how-journalists-broke-the-news-to-him/articleshow/135759170.cms",
-     "source": "Times of India",
-     "sources": [
-      "ET Government",
-      "News On AIR",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "Times of India",
-      "X"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-12T12:30+05:30",
-     "score": 7.84,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135759227,imgsize-49020.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Mithai khilao': PM Modi recalls how journalists told him he was Gujarat CM",
-       "link": "https://timesofindia.indiatimes.com/india/mithai-khilao-you-are-gujarat-cm-now-pm-modi-recalls-how-journalists-broke-the-news-to-him/articleshow/135759170.cms",
-       "publishedAt": "2026-11-12T12:30+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Mithai khilao, you are Gujarat CM now': PM Modi recalls how journalists broke the news to him",
-       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdHhkRFNtbXNKYWk5V0tCSjlhbTJKQ0FzamRkTkl2RmNhMlllbm1xUzhTYzIyUkI0bjQxTUhLN0xVOGZScjRmajZnN1dwbDFxeFlkY0d3UVh1bUFQaC1FRE41cVpLOGFQTE4yclVyclc0aDZ2MDVlWWstT2drbE8xSzkwUS1URnJfaHcyNVZYaGdyUjFNZ0VTVGJhVHl0bHJRdmRFQkJEXzNfMnNycHRDNkplZUtUcEhZLUQ2eWt3WnhlSWd2THROcjdSRGN3dVJMdXdTN2NPSUdObDgzcXhYMmM3b2xaQU9ta05ubEx1NA?oc=5",
-       "publishedAt": "2026-11-12T12:30+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Sam Pitroda praises PM Modi, receives Diwali wishes; X user's cheeky request gets a reply",
-     "link": "https://timesofindia.indiatimes.com/india/pm-modi-wishes-sam-pitroda-on-diwali-after-praise-x-users-cheeky-request-gets-a-reply/articleshow/135762742.cms",
-     "source": "Times of India",
-     "sources": [
-      "Moneycontrol.com",
-      "NDTV",
-      "Rediff",
-      "The Times of India",
-      "Times of India",
-      "tennews.in"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-12T14:39+05:30",
-     "score": 7.45,
-     "summary": "Prime Minister Narendra Modi extended Diwali and Gujarati New Year greetings to Congress leader Sam Pitroda after the latter spoke warmly about their personal equation. The exchange took an amusing turn when an X user asked for festive wishes too, prompting a response from the Prime Minister.",
-     "image": "https://static.toiimg.com/photo/msid-135762950,imgsize-1035516.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Sam Pitroda praises PM Modi, receives Diwali wishes; X user's cheeky request gets a reply",
-       "link": "https://timesofindia.indiatimes.com/india/pm-modi-wishes-sam-pitroda-on-diwali-after-praise-x-users-cheeky-request-gets-a-reply/articleshow/135762742.cms",
-       "publishedAt": "2026-11-12T14:39+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Sam Pitroda praises PM Modi, receives Diwali wishes; X user's cheeky request gets a reply",
-       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORWozUFRYRjBuTGUtVTNfMjVhVFZyOWw3dkVnbUhXdG9vZ2NfeUk4MGg2b2U3ZWV4aENFS2t4MjNQc0pvWjBPZC1adVgyVV8wUjN4UW5JSmwxSHVmSGVDTWc3SDg3dGF4RWpobmNxSkJSa3VseGxjQlFYdGMydEJ2WnlxYVF6aDU4bjc1OVoxeXUtaVMwTVIxbTBqYzNFc3ZVOC1RLWd5S0ZGdHFCSk5vQ3pqS0EtRHhhd1pNYjVQX1hDV3RNV0c2Y1YyNWVtb1pVajNzUThucGhoc3RQSGZGeFBrSkFvUW5N?oc=5",
-       "publishedAt": "2026-11-12T14:39+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Owaisi names Chandrashekhar Azad as Uttar Pradesh CM face of Samajik Parivartan Morcha",
-     "link": "https://www.thehindu.com/news/national/uttar-pradesh/owaisi-azad-alliance-for-uttar-pradesh-elections/article71692358.ece",
-     "source": "The Hindu",
-     "sources": [
-      "NDTV",
-      "Scroll.in",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-12T15:52+05:30",
-     "score": 7.4,
-     "summary": "In a joint press conference with the AIMIM chief, Mr. Azad said, “If SP, Congress or any other party wants to join us to stop BJP from coming to power, we are open to it”",
-     "image": "https://th-i.thgim.com/public/incoming/1fdobg/article71693001.ece/alternates/LANDSCAPE_1200/PTI11_12_2026_000094A.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Owaisi names Chandrashekhar Azad as Uttar Pradesh CM face of Samajik Parivartan Morcha",
-       "link": "https://www.thehindu.com/news/national/uttar-pradesh/owaisi-azad-alliance-for-uttar-pradesh-elections/article71692358.ece",
-       "publishedAt": "2026-11-12T15:52+05:30"
       }
      ]
     }
