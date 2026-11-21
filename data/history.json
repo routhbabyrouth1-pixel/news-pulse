@@ -1,6 +1,199 @@
 {
- "updated": "2026-11-21T12:34+05:30",
+ "updated": "2026-11-21T13:42+05:30",
  "hours": [
+  {
+   "hour": "2026-11-21T13:00+05:30",
+   "generatedAt": "2026-11-21T13:42+05:30",
+   "feeds": 16,
+   "headlines": 268,
+   "stories": [
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 2",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmRoUllqQXVJUGl2TC1abDlwckNWNFpSb25CQ19TMm8wRjB4TWI2RlJKRnV4Xy1qb0MyaXRQUE9fUnV4aEl5Q0lnRFR5UWkteGtxbmEwdmhaTFIwZWpGNVNydDlGYnFsdllRanlzMWlJLVEwcWYxbUREU1BzMWpzQlNHUzNDV3pQYTlIZXN3?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "Filmfare",
+      "NDTV",
+      "Pinkvilla",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-21T13:25+05:30",
+     "score": 12.45,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 2",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmRoUllqQXVJUGl2TC1abDlwckNWNFpSb25CQ19TMm8wRjB4TWI2RlJKRnV4Xy1qb0MyaXRQUE9fUnV4aEl5Q0lnRFR5UWkteGtxbmEwdmhaTFIwZWpGNVNydDlGYnFsdllRanlzMWlJLVEwcWYxbUREU1BzMWpzQlNHUzNDV3pQYTlIZXN3?oc=5",
+       "publishedAt": "2026-11-21T13:25+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "OM Box Office Collection Day 1: Film Becomes Biggest Opener Of Dhanush's Career",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVXNkWG9EVUdSZTA0ZWRoNzNhdGpaUndXOEFGcU40QU9XcEZIbVpyRGxDR3hpYzlfeWdoeUdSLVlHSTNJLWtIb2d1dU5xRThTbUt2dUc4WmxNQzgyS2lGN1ppQmxfbXJlLVJFaUd5M0hVMW9QRHBrWGVydUJXSld6eEJ5dGtIU0xJcmlGMFhWMGxLRUFSdjg2OXE2TTFKVjBrTFlPZHM4Q1h4TnMxcnh5bW5ZVW1ZazJjTEZxd9IBxAFBVV95cUxNdVdKUHJCRWVNYkd4RjB5ejNrZEFmaFBQcTc2ZjVXNlppSUE2M0NRSlhSanViODhNMnlnckxsT2lOaHFmUy00c1BlcnpQZlo1MHhaT2E2eWxZOWdXNC1oTkRWR21mb2U0bW9CdXNpai13dkhGWG5URU93Y2tLMGhGZDV0NGNDRFkwTG4xV3cyMDRCM0c2cTM1NkhheFJ4QmVWMTBNNkZMbkpYb2UzYl9FbUlVQU5uZXVWeWl5Z3lhcjlQVGot?oc=5",
+       "publishedAt": "2026-11-21T10:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "FBI hacked again: Hackers target crime database",
+     "link": "https://economictimes.indiatimes.com/news/new-updates/fbi-hacked-again-hackers-target-worlds-top-investigating-agencys-crime-database-used-by-police-across-us/articleshow/136044594.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "Mint",
+      "NBC News",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-21T09:52+05:30",
+     "score": 8.86,
+     "summary": "The FBI is investigating a suspected breach of its nationwide criminal database, the second reported intrusion involving bureau systems since September. The incident comes as Director Kash Patel says the FBI is taking on cybercriminals globally through Operation Winter Shield.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/FBI_Kash_Patel_1795234164457_hr57_1795234168556_NfsU_78146b30-8571-4b27-8abd-78847e4ccf6f_EKLm.png",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "FBI hacked again: Hackers target crime database",
+       "link": "https://economictimes.indiatimes.com/news/new-updates/fbi-hacked-again-hackers-target-worlds-top-investigating-agencys-crime-database-used-by-police-across-us/articleshow/136044594.cms",
+       "publishedAt": "2026-11-21T09:52+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Hackers target FBI again, second breach since September; Kash Patel says bureau taking on cybercriminals globally",
+       "link": "https://www.livemint.com/news/us-news/hackers-target-fbi-again-second-breach-since-september-kash-patel-says-bureau-taking-on-cybercriminals-globally-11795233961169.html",
+       "publishedAt": "2026-11-21T09:42+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "FBI hacked again: Cyberattack targets national crime database used by US police",
+       "link": "https://timesofindia.indiatimes.com/world/us/fbi-hacked-again-cyberattack-targets-national-crime-database-used-by-us-police/articleshow/136043879.cms",
+       "publishedAt": "2026-11-21T09:07+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "FBI database hacked for second time in months, breach targets US crime records | Hindustan Times",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYWwtNVJKRFFZMk93RVNkLXJiRW9ncU4xVzBWdGJGTi0xRU5OQ0t0ZjlBcWhXUXZ4UEpDeDhqN1J2YUVNcUJ6WUZJTjY3THZ0VmR3MkJuN04xR2pDMGlMVG5BUW5MT283aEU4RWVtTHV3STk1emNLT3F1QkxDSVYwdUdmM0tZZGRqeDE0LTZDUmN4eFFGY0hpWktadkVKOV9qVmtvRHNZSHNacEdndEhiQjhxZE5KaEZPSDA3VEozdHlPTFgzWmo4Qmxia1Ywc1g2Vkl5enhKOTNiNnNsV1Z3SVhB0gHnAUFVX3lxTE9KMWl3YWliWHI5REdYeHFkMm44eGFNTWItSTMwQ3pTOEtiN0I1dXRiV3U1NUEtNGFpOWlUWVlvVnhiSkp1T0FFcTJ2eWZQbnE3eXBYUURWWnVOSllBRXpRTl8yUTVqQWw2d0xTOXFMbzJ2aHRYcHdRTFE5WVh4ZDlsZGpuQjZIekY3bEY2NUMxVGFqVnVxbExJeFNUMC1yRnlYdF9DWWEyM1dwNXBvcHUyVTB6NG9nU1hYYWV1TGpHX3MwOFMzVW80X0tkTXZQdHhZYUpaazlsNEdrXzhkMlBrRHRONTlrcw?oc=5",
+       "publishedAt": "2026-11-21T08:18+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Trampling Sikh sentiments': Oppn questions naming of Bihar bridge as Nitish Setu",
+     "link": "https://timesofindia.indiatimes.com/india/trampling-sikh-sentiments-congress-questions-naming-of-bihar-bridge-as-nitish-setu/articleshow/136046191.cms",
+     "source": "Times of India",
+     "sources": [
+      "PM India",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T12:13+05:30",
+     "score": 8.25,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136046386,imgsize-474264.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Trampling Sikh sentiments': Oppn questions naming of Bihar bridge as Nitish Setu",
+       "link": "https://timesofindia.indiatimes.com/india/trampling-sikh-sentiments-congress-questions-naming-of-bihar-bridge-as-nitish-setu/articleshow/136046191.cms",
+       "publishedAt": "2026-11-21T12:13+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Trampling Sikh sentiments': Congress questions naming of Bihar bridge as Nitish Setu",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMFRPcDh6M2MwSFlLX1lyZDhuTGlHdnhMb0VxVFBkLWE4Wk9LeFZzOEpaTElvV3lRSi1RQzNRekE5eHRPd1R5RFBLTzgyeTZJRktYVTZfS0xEMG5lOFRVb1hsVmNVSUREMUJMaVRrU0JtSC1ZcG0ybm5YMlY0YXF0dS1zUHZxTGkxNDR3Ty1rYk5DbE9aMG41dVh0ajZDNE8yRzhfUmpXRlVFZEdUTTFmZFNzeW9NUkxfOHpkODdxZlc2aE5ZdS1OQVBXcHh0SXlDMk95cVJVdGI5eTcwaVlwOU9zcl8?oc=5",
+       "publishedAt": "2026-11-21T12:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gen Z protests sweep Europe: Why thousands are taking to streets in 25 countries",
+     "link": "https://timesofindia.indiatimes.com/world/europe/gen-z-protests-spread-across-europe-why-thousands-are-taking-to-streets-in-25-countries-and-what-they-want/articleshow/136044337.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "Reuters",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-21T09:53+05:30",
+     "score": 7.46,
+     "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
+     "image": "https://static.toiimg.com/photo/msid-47529300.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Gen Z protests sweep Europe: Why thousands are taking to streets in 25 countries",
+       "link": "https://timesofindia.indiatimes.com/world/europe/gen-z-protests-spread-across-europe-why-thousands-are-taking-to-streets-in-25-countries-and-what-they-want/articleshow/136044337.cms",
+       "publishedAt": "2026-11-21T09:53+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
+       "publishedAt": "2026-11-21T08:19+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Gen Z protests spread across Europe: Why thousands are taking to streets in 25 countries and what they wa",
+       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNFRvV2JUbGFVU1M4eHFOdVBOWGctR3BXMUp0bjZTamxhbVBBQzV6Ulc0Q05yZEVKcF9OUU53dzlTZElXZjlRVjdGNERrWExVRVlZV3FFbGpoSWFna3hmOEh2T3J2TndtbWJiQ05jckpuSjdHNThTeFo0c2pEQi0xN3RmRlBmMWxYSTg2V2llYlBmRTh6T0RpUVJNdUFSODFtcXcxME1WMERPd1Z0ejJLZjRSMmF0U3J0OV9nUnZ2SHNpSUpqN19YZUIzTXNzZE5zS1NYMEp4UkJmWGhTamR0REUwSGlPdXVyaFoyaWR1MHRZRWYwZFVmTnpCcXpSWFNEMkRHR1dNOHlNNk9aS2c?oc=5",
+       "publishedAt": "2026-11-21T09:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+     "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNN",
+      "The Guardian",
+      "The New York Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T11:30+05:30",
+     "score": 7.38,
+     "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+       "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-21T11:30+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yRmVMTXFxck1qSnhnYmx5U0QtSlVXblpFUTdfVGwyaGt1V2JUSmEySFZIcDJwd3I1ZjVmbV9mVUNWdkhsRlo3cXlzbjV0ZW5nMkZLWC14ejBkMjg?oc=5",
+       "publishedAt": "2026-11-21T11:30+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-21T12:00+05:30",
    "generatedAt": "2026-11-21T12:34+05:30",
@@ -29823,221 +30016,6 @@
        "title": "Moushumi Chatterjee's husband Jayanta Mukherjee passes away; he was the son of legendary singer-composer",
        "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPMnVXUTljZ2JlXzMtUmJYLWhlTlUtYUpJS01tQXhmRktoa3d4MU1LV0psemdYaFdaVWpFMF9NcUhfQklRcVE1Q09nSGVMdGs1VXNMa0VBcFJ2N1c5aVVCbFdmdFhRb2lmRGdLVkY5ajhhTXJsOGRET1o5WG14OXhRWmZwc0pqN0cySFlvUm90OTdNU05fSGRoN0ljQnlkV3BLdS1vRi1PQ3ZmTXc2UzdXUy1WNGFnM3RSQ3JVeElIX3hLU3l3YWl5QTVLVWttUFJfdE9VNkhaTmVQaGw1dTJhNUZZMGJQNWFuMm9CNVRSTGdhUU83c2czUFJGRXo4VTJiZWREZmQtOEdEVndCZVpIZHNSdDVPRGpGdzMyX2JvTG9ZTW56UlVlZDl3SmdHZ3dwNy16Y2Jiaw?oc=5",
        "publishedAt": "2026-11-13T12:54+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-13T15:00+05:30",
-   "generatedAt": "2026-11-13T15:26+05:30",
-   "feeds": 16,
-   "headlines": 304,
-   "stories": [
-    {
-     "title": "Microsoft Outlook outage: When will it resume?",
-     "link": "https://economictimes.indiatimes.com/news/new-updates/microsoft-outlook-outage-status-is-email-working-again-whats-down-whats-working-and-when-will-services-resume/articleshow/135788863.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "ABC News & Headlines – Australian Broadcasting Corporation",
-      "Al Jazeera",
-      "BBC",
-      "Forbes",
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-13T15:11+05:30",
-     "score": 10.46,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Microsoft Outlook outage: When will it resume?",
-       "link": "https://economictimes.indiatimes.com/news/new-updates/microsoft-outlook-outage-status-is-email-working-again-whats-down-whats-working-and-when-will-services-resume/articleshow/135788863.cms",
-       "publishedAt": "2026-11-13T09:40+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Microsoft Outage LIVE: Microsoft extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
-       "publishedAt": "2026-11-13T15:11+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Modi in Bengaluru: PM flags off elevated stretch of Namma Metro Pink Line, Yeshwantpur-Madgaon Vande Bharat Express | LIVE",
-     "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "NarendraModi.in",
-      "The Economic Times",
-      "The Hindu",
-      "The Shillong Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-13T15:07+05:30",
-     "score": 10.45,
-     "summary": "PM Modi will travel to Mysuru, where he will inaugurate COSMOS (Cosmology Education and Research Training Centre), the Mysuru Planetarium located at the foothills of Chamundi Hills.",
-     "image": "https://c.ndtvimg.com/2026-11/ls1l6q1s_pm-modi-bengaluru-metro-pink-line_625x300_13_November_26.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Modi in Bengaluru: PM flags off elevated stretch of Namma Metro Pink Line, Yeshwantpur-Madgaon Vande Bharat Express | LIVE",
-       "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
-       "publishedAt": "2026-11-13T15:07+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "PM Modi Inaugurates Bengaluru Metro's Pink Line, Takes Ride With DK Shivakumar",
-       "link": "https://www.ndtv.com/bangalore-news/pm-modi-inaugurates-bengaluru-metros-pink-line-takes-ride-with-dk-shivakumar-12321314#publisher=newsstand",
-       "publishedAt": "2026-11-13T13:49+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "PM Modi inaugurates Bengaluru Metro Pink Line: Route, timings, cost",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-inaugurates-bengaluru-metro-pink-line-route-timings-cost-and-other-key-details/articleshow/135791819.cms",
-       "publishedAt": "2026-11-13T13:19+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "PM Modi flags off Bengaluru Pink Line stretch",
-       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/bengaluru-metro-pink-line-opens-south-bengaluru-commuters-get-a-new-7-5-km-route-as-pm-modi-flags-off-stretch-check-stations-and-train-timings/articleshow/135794401.cms",
-       "publishedAt": "2026-11-13T13:17+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "PM Modi flags off Bengaluru Metro’s Pink Line, undertakes ride with CM Shivakumar",
-       "link": "https://www.hindustantimes.com/india-news/pm-modi-flags-bengaluru-metro-pink-line-from-kalena-agrahara-undertakes-ride-with-karnataka-cm-shivakumar-101794555754620.html",
-       "publishedAt": "2026-11-13T13:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Centre Extends Ban On Hate Preacher Zakir Naik's Islamic Research Foundation",
-     "link": "https://www.ndtv.com/india-news/centre-extends-ban-on-hate-preacher-zakir-naiks-islamic-research-foundation-12320897#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Deccan Herald",
-      "Hindustan Times",
-      "NDTV",
-      "Scroll.in",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-13T12:56+05:30",
-     "score": 7.75,
-     "summary": "The statements and speeches made by Naik are objectionable and subversive and he has been promoting enmity and hatred amongst different religious groups, the ministry said.",
-     "image": "https://c.ndtvimg.com/2026-10/18df8imo_zakir-naik-_625x300_31_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Centre Extends Ban On Hate Preacher Zakir Naik's Islamic Research Foundation",
-       "link": "https://www.ndtv.com/india-news/centre-extends-ban-on-hate-preacher-zakir-naiks-islamic-research-foundation-12320897#publisher=newsstand",
-       "publishedAt": "2026-11-13T12:56+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "MHA declares Zakir Naik’s Islamic Research Foundation unlawful for another five years",
-       "link": "https://www.thehindu.com/news/national/mha-declares-zakir-naiks-islamic-research-foundation-unlawful-for-another-five-years/article71696626.ece",
-       "publishedAt": "2026-11-13T12:55+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Centre extends ban on Zakir Naik's Islamic Research Foundation for 5 years",
-       "link": "https://timesofindia.indiatimes.com/india/centre-extends-ban-on-zakir-naiks-islamic-research-foundation-for-5-years/articleshow/135790746.cms",
-       "publishedAt": "2026-11-13T10:54+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Centre extends ban on Zakir Naik’s Islamic Research Foundation for 5 more years",
-       "link": "https://www.hindustantimes.com/india-news/centre-extends-ban-on-zakir-naik-s-islamic-research-foundation-for-5-more-years-101794545794165.html",
-       "publishedAt": "2026-11-13T10:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Proof of allegations against Modi on my phone, which PM taps: Rahul Gandhi",
-     "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "TheWire.in"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-13T15:18+05:30",
-     "score": 7.73,
-     "summary": "Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”.",
-     "image": "https://th-i.thgim.com/public/incoming/5xhd41/article71696709.ece/alternates/LANDSCAPE_1200/PTI11_04_2026_000324B.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Proof of allegations against Modi on my phone, which PM taps: Rahul Gandhi",
-       "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
-       "publishedAt": "2026-11-13T15:18+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "‘The proof is in the phone’: Rahul Gandhi dares PM Modi to debate on anti-national charge",
-       "link": "https://www.hindustantimes.com/india-news/the-proof-is-in-the-phone-rahul-gandhi-dares-pm-modi-to-debate-on-anti-national-charge-101794562663742.html",
-       "publishedAt": "2026-11-13T15:07+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'My phone tapped': Rahul Gandhi makes big charge, doubles down on debate challenge to PM Modi",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMmpFTEFQc0RUcklLM0RTOG9YVDBzZWRpRE1GdFg1U3JPdkFNZXdtZUZBM3B3cEVlRkFROHJFT0V2N05KT18waTJPeUtRb1lCRDItM2NuV3cySmNEdlZ5NVZxeWJYcjBGMndBekpPSFkxWm5FOFpDYUlXSjh2d2o4a0UyZmtfbmVZQ2J6dVdUSDdncHlqQjhmd2tlTnNoNHZNeDRZeGFjM01jVWNlSGhVZUFNMUI1bURuSEF2dzl2bUhzZlFVR3Z0N2ZGVXBqbHVjQ3VBSjVsN3dndEdoN0VIVTdMWHprc2pIVzllb21n?oc=5",
-       "publishedAt": "2026-11-13T14:26+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "\"Taps My Phone\": Rahul Gandhi's Big Charge Against PM Modi, Then Debate Dare",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjlUR1VlUDhRSWJQZ3lWUkwxQWJ6WU83V0tCRGxQZXdWVkVUNUIyUUg4cFFhSTJZcDdJaE1zWDhkejBwWFFfbVRyZkI4dEF1cE1TOFNYSXhtUC03S2tSY1RFQlFwMFhDVFduUW4teThlNHZBcFpUV19JWDdLZHdJTUU4cmVRS0IyODl2R3RZeWY2Mkl3MzVRZ05icmlpc0IyM3RKVTN6ZnEtVGtTRmFsQm1R?oc=5",
-       "publishedAt": "2026-11-13T13:29+05:30"
-      }
-     ]
-    },
-    {
-     "title": "6/24 on debut! Mahli Beardman rips through England as Australia take 1-0 lead",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/6/24-on-debut-mahli-beardman-rips-through-england-as-australia-take-1-0-lead/articleshow/135797289.cms",
-     "source": "Times of India",
-     "sources": [
-      "BBC",
-      "Cricbuzz",
-      "Cricinfo",
-      "Sky Sports",
-      "The Guardian",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-13T15:02+05:30",
-     "score": 7.43,
-     "summary": "Mahli Beardman made a remarkable entry into One Day Internationals, claiming six wickets in his debut match against England in Perth. Australia effectively chased down England's target of 131 runs, thanks in part to a brisk fifty from captain Mitch Marsh. This triumph secured a 1-0 lead for Australia in the ODI series, with the second match awaited in Adelaide this coming Sunday.",
-     "image": "https://static.toiimg.com/photo/msid-135797414,imgsize-113784.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "6/24 on debut! Mahli Beardman rips through England as Australia take 1-0 lead",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/6/24-on-debut-mahli-beardman-rips-through-england-as-australia-take-1-0-lead/articleshow/135797289.cms",
-       "publishedAt": "2026-11-13T15:02+05:30"
-      },
-      {
-       "source": "Cricbuzz",
-       "title": "Mahli Beardman's dream debut powers Australia to crushing win over England in Perth",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbVR5T3cydmRIWFp1Ym13Y0RFa21VMTllQlhkcnJiT3hoc1V2aUhRaGdMR1BpRW11SUNDaUpBaU9TSDg3QV9fcTk5VzJoNHZ1OHNpVVkwcUx4R2VZa1EzRVUwUE5KRWpFbldqRmo1alhhS2xPNm92bXJtUVNaV0d4Y2V2SzlWbk5pelRsSmNTc1RjbGI1TGtIV1BXR1drWThWSG9oLXhKNEtUM3k1MnFKbi1B?oc=5",
-       "publishedAt": "2026-11-13T14:33+05:30"
       }
      ]
     }
