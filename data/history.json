@@ -1,6 +1,158 @@
 {
- "updated": "2026-11-21T06:33+05:30",
+ "updated": "2026-11-21T07:40+05:30",
  "hours": [
+  {
+   "hour": "2026-11-21T07:00+05:30",
+   "generatedAt": "2026-11-21T07:40+05:30",
+   "feeds": 16,
+   "headlines": 141,
+   "stories": [
+    {
+     "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+     "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "Ministry of External Affairs",
+      "News On AIR",
+      "Telegraph India",
+      "The New Indian Express"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T04:58+05:30",
+     "score": 7.3,
+     "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+       "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-21T04:58+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Nepal PM Balendra Shah to meet India PM Modi on first trip abroad",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1acTNfOWpLRVJwczVXZ3EwdkFrZk9wS29FMHd3bTVPUzk3eHZiQTh0UnlQZENOUV9iems3dlpvclk1cWhsV3FGdFhhNm83YlV1cDlNVG1rZGZtUWs?oc=5",
+       "publishedAt": "2026-11-21T04:58+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Hazlewood backs 'great leader' Cummins, insists no knowledge of ball tampering",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOU55NTZmZlBQN2stamluemNRSGlySU5KWEJTU3pmblB2ZmkydE4xN3pWdUlOSHhFVW1yMThYOVJBUWh3eHhXdkdtSFRoTlVDZXJ5T1p2TWhpdmQwTWozMHNXcjJaVk9CZWRtdENNT1F4dUY1RXJCUVliaHNnU0cwWE5mRUNobHRNV2R0MDdtdk8zSUZ0Zy1idHJibGVRX3VBb0o1dXNKRzhzNTY0M1hlVzNHYmZjZ3BMd21MTEJlVW81RkxTTWVMZ0RVaE_SAd4BQVVfeXFMTllqUDJqV2F1U2QxM2w5VkNwOXUtNFhGZGM2blZJR3pCVHpNZ0ZWa2JtUDhaUHNjbDJPMUZRRElEOU9DVVR5WEdUbWRuZmpVQ3FNcmFrUmtlNnItZWMzZXdXSVJmMEtDcWt4RUY3YTFNY1otczRVb2RuY0ZiRmt1MmRvd2k3bEZXNnJySTYzUHN0bFRMUFBzTWlBUWFEQ1lFckhjay1NTHByWExJOEc0M0NGSHdIMkh6bXdmYnNWNVFZam1fVEpJcHZVY3dXUlBxWi1JUlJmVVZyM2laNXV3?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "Cricinfo",
+      "ESPN India",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-21T04:38+05:30",
+     "score": 6.99,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "Hazlewood backs 'great leader' Cummins, insists no knowledge of ball tampering",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOU55NTZmZlBQN2stamluemNRSGlySU5KWEJTU3pmblB2ZmkydE4xN3pWdUlOSHhFVW1yMThYOVJBUWh3eHhXdkdtSFRoTlVDZXJ5T1p2TWhpdmQwTWozMHNXcjJaVk9CZWRtdENNT1F4dUY1RXJCUVliaHNnU0cwWE5mRUNobHRNV2R0MDdtdk8zSUZ0Zy1idHJibGVRX3VBb0o1dXNKRzhzNTY0M1hlVzNHYmZjZ3BMd21MTEJlVW81RkxTTWVMZ0RVaE_SAd4BQVVfeXFMTllqUDJqV2F1U2QxM2w5VkNwOXUtNFhGZGM2blZJR3pCVHpNZ0ZWa2JtUDhaUHNjbDJPMUZRRElEOU9DVVR5WEdUbWRuZmpVQ3FNcmFrUmtlNnItZWMzZXdXSVJmMEtDcWt4RUY3YTFNY1otczRVb2RuY0ZiRmt1MmRvd2k3bEZXNnJySTYzUHN0bFRMUFBzTWlBUWFEQ1lFckhjay1NTHByWExJOEc0M0NGSHdIMkh6bXdmYnNWNVFZam1fVEpJcHZVY3dXUlBxWi1JUlJmVVZyM2laNXV3?oc=5",
+       "publishedAt": "2026-11-21T04:38+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GTA VI Rakes In $3.79 Billion On Day One, But Rockstar Staff Still Face an Uncertain Future",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wbkpHNHBLVEN2UTR2Sjhpa21IdU03QVhFckNOVVNTMDZ6emZ2S09nVUwxRVJVQ1NtU1B3R2d1WWJKUXlvU1FOTUF4dE9EUzg0ejZxRFhvRDRIMHEzUXNKVHJVUW1OQlhJbExjNkdVdVRvVWJlS0E?oc=5",
+     "source": "BigGo Finance",
+     "sources": [
+      "BBC",
+      "BigGo Finance",
+      "Rockstar Games",
+      "Take-Two Interactive Software, Inc.",
+      "The New York Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-21T02:55+05:30",
+     "score": 6.71,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BigGo Finance",
+       "title": "GTA VI Rakes In $3.79 Billion On Day One, But Rockstar Staff Still Face an Uncertain Future",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wbkpHNHBLVEN2UTR2Sjhpa21IdU03QVhFckNOVVNTMDZ6emZ2S09nVUwxRVJVQ1NtU1B3R2d1WWJKUXlvU1FOTUF4dE9EUzg0ejZxRFhvRDRIMHEzUXNKVHJVUW1OQlhJbExjNkdVdVRvVWJlS0E?oc=5",
+       "publishedAt": "2026-11-21T02:55+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Deserved justice': Why IND boycotted presentation after PAK won Asia Cup - Explained",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/deserved-justice-why-india-boycotted-presentation-ceremony-after-pakistan-won-asia-cup-explained/articleshow/136039556.cms",
+     "source": "Times of India",
+     "sources": [
+      "India Today",
+      "Sportstar",
+      "The Daily Star",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-21T04:00+05:30",
+     "score": 5.89,
+     "summary": "Pakistan were awarded the title on the basis of a better net run rate. However, CABI general secretary Shailendra Yadav accused Pakistan of declaring themselves champions without following the position of the World Blind Cricket Council (WBCC) Technical Committee.",
+     "image": "https://static.toiimg.com/photo/msid-136039680,imgsize-100810.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Deserved justice': Why IND boycotted presentation after PAK won Asia Cup - Explained",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/deserved-justice-why-india-boycotted-presentation-ceremony-after-pakistan-won-asia-cup-explained/articleshow/136039556.cms",
+       "publishedAt": "2026-11-21T04:00+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Deserved justice': Why India boycotted presentation ceremony after Pakistan won Asia Cup - Explained",
+       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaTN1U0R2d2plb3ZLUk5HQk5iYjN6bUFwbzMyNy1ESG8xZks4M2YxNVFQRTFLN0lOeXVGenNFWVVWS21kMEtLeXFoaWN6YTNRR2NnQ1FibkFfbk83OVpHUDFURmJfTEc5b3NTcVkwVl9EeHVwNmpNVnFxTlRTOWZXY0Q5QUNFUjM3d2EzeEJSRnFFRjFOWWR1eWIwV1Ytb3QyM0ZjWlBWcVhTVGFfYkdDTElnSllpX1oxQkpWcXhFLURPR2IzamppUHMtSXM5RE1HMzZKM1ltRkdnbTNsampZX293bHNSOXA1TFoyU3BiQTVPM3Ezb1h5RE1LZGlRX0ltRVNrOEl1V1Fudw?oc=5",
+       "publishedAt": "2026-11-21T04:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stung by PM Modi's criticism, India Inc fears government may turn cold on tax concessions",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/stung-by-pm-modis-criticism-india-inc-fears-government-may-turn-cold-on-tax-concessions/articleshow/136042250.cms",
+     "source": "Times of India",
+     "sources": [
+      "Forbes India",
+      "PM India",
+      "Scroll.in",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-21T06:00+05:30",
+     "score": 5.86,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136042259,imgsize-45498.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Stung by PM Modi's criticism, India Inc fears government may turn cold on tax concessions",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/stung-by-pm-modis-criticism-india-inc-fears-government-may-turn-cold-on-tax-concessions/articleshow/136042250.cms",
+       "publishedAt": "2026-11-21T06:00+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Stung by PM Modi's criticism, India Inc fears government may turn cold on tax concessions",
+       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPemIzRnRGbjRwR2wzZm5hZnRqbTFPeWhIRnZMYTdqU09iT1g0NlVyMmJwUFZXUUJ3NEtwY3ZIZTBCLXlFeDhlRjJ3czI4SlFib1p3VVh2ZEg3SzlQRS1hZktSZnJqMDZfaThKS2FvQWVFV1ZFTU1fNnhhQnJQaEF6VHFrX2JjOU9mMmxabVBodHVsdklYU3hLd0plNEZnVHE2eTluYUFzUnpISHU0MmNwWEttaEwxNExaVWZoX2RudnlTNDZhdXFNeVFxNjY2TGw3Q1Nyd1hPRzVGVFVTT2VyUzV5djQ3LXJhZEM0WDZNUUlNTEFmak1sTEpWMV9DR0NfSnYw?oc=5",
+       "publishedAt": "2026-11-21T06:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-21T06:00+05:30",
    "generatedAt": "2026-11-21T06:33+05:30",
@@ -29917,159 +30069,6 @@
        "title": "'I may be jailed, they may try to kill me': Sheikh Hasina's defiant message on returning to Bangladesh",
        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVnRRUnVtczQ2WjRwV0o2RGl2TGpVNldtcDRFUEZnbWEyYjlseU9OWVhGOVhscjVxZ2FLMnQ4X3gteDR0RFVNTnhaRmQzNkczVkQ1UTV4bHVIZDhIbVNJREtoTVQ4bk4wSXF3UllVQU51a1psMDlRQWlfbUlsUElDcmZRRk5IOHpjYWVnUlJBSlVjaV9yUXlfU2lwdUJ4TWl3UnI4WngwQ0poS0xvTVprMWwtdTV6d3J2ZzRyeXBESFhFUVNxQnRXVGNhdW9pWEpBOVU2VmJzY2RXVC11MW5DUW4xXzIxV2M1SXFsTTlLWW5GazltWDJob0k0U1hoZEE0ck1icTl4MA?oc=5",
        "publishedAt": "2026-11-13T09:15+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-13T09:00+05:30",
-   "generatedAt": "2026-11-13T09:21+05:30",
-   "feeds": 16,
-   "headlines": 187,
-   "stories": [
-    {
-     "title": "Horoscope Today: November 13, 2026",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRR0lsSHNuQXJlSjNZczVkdUxRWmE5Y0xWUzlycEtFbUtoVVlQenY1c0hyZzJZQzZOanNWNmxGaEpqX08tNVNTcl9XX0dnRU5fRWtTcFZ3QlBUbXRhRDZXNVpOX1JFZXdzNTN3UVBR?oc=5",
-     "source": "Vogue India",
-     "sources": [
-      "ETV Bharat",
-      "Hindustan Times",
-      "India Today",
-      "News18",
-      "Odisha TV",
-      "The Economic Times",
-      "The Times of India",
-      "Vogue India",
-      "Yahoo"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-13T06:00+05:30",
-     "score": 9.74,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Vogue India",
-       "title": "Horoscope Today: November 13, 2026",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRR0lsSHNuQXJlSjNZczVkdUxRWmE5Y0xWUzlycEtFbUtoVVlQenY1c0hyZzJZQzZOanNWNmxGaEpqX08tNVNTcl9XX0dnRU5fRWtTcFZ3QlBUbXRhRDZXNVpOX1JFZXdzNTN3UVBR?oc=5",
-       "publishedAt": "2026-11-13T06:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Utter nonsense': Cummins breaks silence on Khawaja's sandpaper scandal claims",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/utter-nonsense-pat-cummins-breaks-silence-on-usman-khawajas-2018-sandpaper-scandal-claims/articleshow/135785693.cms",
-     "source": "Times of India",
-     "sources": [
-      "BBC",
-      "Cricbuzz",
-      "Cricinfo",
-      "Sky Sports",
-      "The Guardian",
-      "The Hindu",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-13T07:41+05:30",
-     "score": 9.22,
-     "summary": "Australia captain Pat Cummins has strongly denied claims made by Usman Khawaja regarding the 2018 ball-tampering scandal. Cummins asserted that he did not know about the plan and has consistently maintained that stance over the years. Khawaja's autobiography brought renewed attention to the incident, prompting severe reactions from Cummins. Despite the allegations, Cummins has decided against taking legal action and…",
-     "image": "https://static.toiimg.com/photo/msid-135785721,imgsize-37852.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Utter nonsense': Cummins breaks silence on Khawaja's sandpaper scandal claims",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/utter-nonsense-pat-cummins-breaks-silence-on-usman-khawajas-2018-sandpaper-scandal-claims/articleshow/135785693.cms",
-       "publishedAt": "2026-11-13T06:26+05:30"
-      },
-      {
-       "source": "Cricinfo",
-       "title": "Cummins: Khawaja's allegations 'complete and utter nonsense'",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE5GSTBWcDlLZ1lnQk5CU1BtdlEzUVM4cGNNZkpMWkhNTGRhQjNZVEJOSHU1Y3dXc3B2cFBmckVnR2x3bmEtVTIxaUQxRlg0WElqVWhjcVBkd18xYk1aVEZobG9URTJBMWVSeGhHS180bWpFY0NydURmNEVadGtiMUhBejYxRzBvOV9xcE15SlFrZlpVYXBrM2xsX03SAa4BQVVfeXFMTmkxVHRjenV0QmJBLVZBbng5UW5sLVVlTGZlNTdVS0RsTW5BMzdRanZXYTdmOWlDemRMeTlrdTNZTnFjSnJaaFpLSXpsY3plS2FTTUVNYWpFVWdrR3hJNkpON2ZQdnBENEtYTHQxaUJFRjVaTWF3UVNUeUxYendqMk93b2ZQX3B3SDlFTllKTEhqdXJGTlNWWjV2czJmRV9oYVMyelkybTdSdnFpY2pB?oc=5",
-       "publishedAt": "2026-11-13T07:41+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Rockstar says GTA 6 PS5 Pro build ran at 60 fps with major performance compromises",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUERqNVh5MkdBTnp0enNfaTRCbEZTQWR1a0RwUm9NRVNmcmJka29MMlFQMUNrcEJHQjJlb0k0T0l6OFNIcUNmMFVtemdfUDREUUhEOXhpUXl6eDd1NEtQa19xMl93Y1ZHZmlxV1JFOHA0TG9EQlQ5NHRuWXY5X0VLUlRKUFdlSlRzaWJRTU0yU2VUSlN3SjlPdjk0a2VuNFBLQjlhZUZnRkQyNkhfUloyT1lBMG9hNGt6UlZwaUttUHpqNDV2UGc?oc=5",
-     "source": "Notebookcheck",
-     "sources": [
-      "CNET",
-      "Mashable",
-      "NDTV",
-      "Notebookcheck",
-      "PlayStation.Blog",
-      "XBOX Wire"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-13T07:28+05:30",
-     "score": 7.43,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Notebookcheck",
-       "title": "Rockstar says GTA 6 PS5 Pro build ran at 60 fps with major performance compromises",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUERqNVh5MkdBTnp0enNfaTRCbEZTQWR1a0RwUm9NRVNmcmJka29MMlFQMUNrcEJHQjJlb0k0T0l6OFNIcUNmMFVtemdfUDREUUhEOXhpUXl6eDd1NEtQa19xMl93Y1ZHZmlxV1JFOHA0TG9EQlQ5NHRuWXY5X0VLUlRKUFdlSlRzaWJRTU0yU2VUSlN3SjlPdjk0a2VuNFBLQjlhZUZnRkQyNkhfUloyT1lBMG9hNGt6UlZwaUttUHpqNDV2UGc?oc=5",
-       "publishedAt": "2026-11-13T07:28+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Outlook email outage affects users around the world",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWttRlZJYUo3ZHJnRTlhZHFBUTZYVGs2UWQxWFRwOFVuUHZFcUIxOWdJVnhkamFIREVtQ3U1ZDFrWFV2RlkxNkFxMW9MWG43Y1VlZFFmS2JCTUhPY1d4Rm51cDdEUkVsdlVkNFlkWEhJMzMtQ0dlel9QYnNoODYwODY5UmtPVE10YUlxNHdKbGpwUVpwY3VrSw?oc=5",
-     "source": "The National",
-     "sources": [
-      "BBC",
-      "The Guardian",
-      "The Hindu",
-      "The National",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-13T06:02+05:30",
-     "score": 6.95,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The National",
-       "title": "Outlook email outage affects users around the world",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWttRlZJYUo3ZHJnRTlhZHFBUTZYVGs2UWQxWFRwOFVuUHZFcUIxOWdJVnhkamFIREVtQ3U1ZDFrWFV2RlkxNkFxMW9MWG43Y1VlZFFmS2JCTUhPY1d4Rm51cDdEUkVsdlVkNFlkWEhJMzMtQ0dlel9QYnNoODYwODY5UmtPVE10YUlxNHdKbGpwUVpwY3VrSw?oc=5",
-       "publishedAt": "2026-11-13T06:02+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-     "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC",
-      "BBC News",
-      "NDTV",
-      "Reuters",
-      "The Guardian",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-13T07:31+05:30",
-     "score": 6.86,
-     "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-       "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-13T07:31+05:30"
-      },
-      {
-       "source": "BBC",
-       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yM3NJUTZ5WV9rdTBqcjJOdGhwakZkUnVFWHhpcExGMnFmYWluVWU2Y3l0ekIwYU9iamVZYTM2cU50aUo5dzM1VXloSGJPUFRtNUpBeXE0UmNkQ28?oc=5",
-       "publishedAt": "2026-11-13T07:31+05:30"
       }
      ]
     }
