@@ -1,6 +1,192 @@
 {
- "updated": "2026-11-21T13:42+05:30",
+ "updated": "2026-11-21T15:16+05:30",
  "hours": [
+  {
+   "hour": "2026-11-21T15:00+05:30",
+   "generatedAt": "2026-11-21T15:16+05:30",
+   "feeds": 16,
+   "headlines": 265,
+   "stories": [
+    {
+     "title": "Scene Box Office Collection Day 16",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIQVBCWWxORjYyeTd4SVc0WC13MEJIVVhIX0ZqQlUtU3RGOHJBc1pTeUhZd3luSXZqbHBRWEMxRV8ySE8tLXZGdFJjeFp2ck1Hb0RjMmt3UmxsYmRGRUxVQ1dTNTktTTZjakZuaWFSUlA2RU0zRVhwZ1lXT1M2dw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Filmfare",
+      "India Today",
+      "NDTV",
+      "Pinkvilla",
+      "Rediff",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-21T14:00+05:30",
+     "score": 12.29,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Scene Box Office Collection Day 16",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIQVBCWWxORjYyeTd4SVc0WC13MEJIVVhIX0ZqQlUtU3RGOHJBc1pTeUhZd3luSXZqbHBRWEMxRV8ySE8tLXZGdFJjeFp2ck1Hb0RjMmt3UmxsYmRGRUxVQ1dTNTktTTZjakZuaWFSUlA2RU0zRVhwZ1lXT1M2dw?oc=5",
+       "publishedAt": "2026-11-21T14:00+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "OM Box Office Collection Day 1: Film Becomes Biggest Opener Of Dhanush's Career",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVXNkWG9EVUdSZTA0ZWRoNzNhdGpaUndXOEFGcU40QU9XcEZIbVpyRGxDR3hpYzlfeWdoeUdSLVlHSTNJLWtIb2d1dU5xRThTbUt2dUc4WmxNQzgyS2lGN1ppQmxfbXJlLVJFaUd5M0hVMW9QRHBrWGVydUJXSld6eEJ5dGtIU0xJcmlGMFhWMGxLRUFSdjg2OXE2TTFKVjBrTFlPZHM4Q1h4TnMxcnh5bW5ZVW1ZazJjTEZxd9IBxAFBVV95cUxNdVdKUHJCRWVNYkd4RjB5ejNrZEFmaFBQcTc2ZjVXNlppSUE2M0NRSlhSanViODhNMnlnckxsT2lOaHFmUy00c1BlcnpQZlo1MHhaT2E2eWxZOWdXNC1oTkRWR21mb2U0bW9CdXNpai13dkhGWG5URU93Y2tLMGhGZDV0NGNDRFkwTG4xV3cyMDRCM0c2cTM1NkhheFJ4QmVWMTBNNkZMbkpYb2UzYl9FbUlVQU5uZXVWeWl5Z3lhcjlQVGot?oc=5",
+       "publishedAt": "2026-11-21T10:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pakistan drop Rizwan, Shan Masood and Imam as PCB announces central contracts",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-drop-mohammad-rizwan-shan-masood-and-imam-ul-haq-as-pcb-finally-announces-long-delayed-central-contracts/articleshow/136048989.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Cricket World",
+      "ICC",
+      "Sportstar",
+      "The Economic Times",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-21T14:00+05:30",
+     "score": 8.29,
+     "summary": "The Pakistan Cricket Board has finalised central contracts for 38 players after a considerable delay. Key exclusions include Mohammad Rizwan, Shan Masood, and Imam-ul-Haq, who have faced recent challenges. Shadab Khan, the former captain, now receives a contract limited to T20, while Babar Azam remains in the Test and ODI categories.",
+     "image": "https://static.toiimg.com/photo/msid-136049025,imgsize-114000.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Pakistan drop Rizwan, Shan Masood and Imam as PCB announces central contracts",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-drop-mohammad-rizwan-shan-masood-and-imam-ul-haq-as-pcb-finally-announces-long-delayed-central-contracts/articleshow/136048989.cms",
+       "publishedAt": "2026-11-21T13:55+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Pak's new central contracts are out: Who got in?",
+       "link": "https://economictimes.indiatimes.com/news/sports/cricket/pakistans-new-central-contracts-are-out-babar-azam-gets-two-formats-19-players-enter-development-pool-check-full-list/articleshow/136047473.cms",
+       "publishedAt": "2026-11-21T12:28+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Rizwan, Shan Masood, Saim Ayub dropped from PCB central contracts list",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdGxkS0tvNnh2d3o5a2NYOWlOamoxVV9ES0QtNnZhTVdwbmo5UFNwWm93OXFwSi0yOEtpd21udE1rSGY2UHFkYlRqUHhXQU1rYTBiX1NZWnE2bmRERU1jNHJmOHVnbXA3azB6ZjY1OFB6MWFRWTF1M0xzeVNsczRVLVR6NGQ4WldvUEtwcmNLX2JKRjJFcktKb3MtbGpIRnUtYU1XZ3c5R3AzSkVjY2Z0SGpLYnJtbkZhSVFGRlZYTjJnbHh4YkVab2xVa9IB3AFBVV95cUxQVkloVVNKbm9QVjNJak90RWljaXlXZEl6Ri1WcjVhRHJYM3lPdXQ4NzRzUUhDTFdmdWFlWW9nTXRsVWFtMWNGb04zbC0yMXFTaVBNRFFvOXdTQ2FiTmE4b1Z3Sy1UTnhEdWhPV3VydnRTcURNYnVFZ05sT09QVU1vM2VjS1ltTEhqbzZWamMxaHh0UXI1Y1M0Nmp1TEN6aDhfaUY0ckdYeGVLV2NJS2tWaG83Y016MHVaOVNsV0RodC1qTVFPLWJiYmRTSEp5TjNBNVZhcU1RaU9HVVpw?oc=5",
+       "publishedAt": "2026-11-21T14:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
+     "link": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
+     "source": "The Guardian",
+     "sources": [
+      "Autocar India",
+      "BBC",
+      "Rockstar Games",
+      "Take-Two Interactive Software, Inc.",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T11:50+05:30",
+     "score": 7.93,
+     "summary": "The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time Grand Theft Auto VI generated $3.79bn in retail sales on its first day , publisher Rockstar Games has announced, calling it the biggest launch for any entertainment product in history. The worldwide figure was based on company estimates through the end of the day…",
+     "image": "https://i.guim.co.uk/img/media/5988d7ddcc73c1dddca7f0d330ee2d523648a57a/1183_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=014f7dee549fde98fecf18fd78fac63e",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
+       "link": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
+       "publishedAt": "2026-11-21T09:21+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN1VFc2ZpX1lMakg0d04waUJmN1NEY2EzN01OVjFrdjlzdXhHYjk4OTRtZWp4RFZIUS0xRmtsOVZFYnI4VURETllhd1RyUUZFdmFmOTRCeHN6a244NmpxajRWdkJSNmo0bWc1ZFlxRkptNk1GNjhsZGdLNzJMTEQ5R0RvM0NJaDlHU0F6TTlTMHByUDN5bXFfVHBhMVotUTRoU1ozLTdOQi1rTnR4dWVrWW8xNFViSjUtYzFfV1V0S3dNdmhrYVpJVnRkWjZQYXNsa0NwSUo2cEE3TTIzVm5reUlEY9IB6gFBVV95cUxOMDk1ekg3cWxRdUs1LVBmb2x3Z21rc0xSSjNudXJaUkFrY0JmZktXdWlsOEJXb1BucDFuVDNfRmlYYXU2bHVIbjB4MzNzMkt6Y2VVbjNrVUlkSUlkLU9BZ3NQcEZ6RUFHUnJJTy1NMGFpU0VfX0wwcFJacm1Ec3YwdlgxNm1KOVdWT19mZDVRSlFjTzFFSzBKbVNkaGM1Z2pWdlRFRUdJdFFYNllCTEdmR09KRFhmanQ4eEpELWRnUUFiUnctUmNCLV9wbnlPWnpYODVrRm1wbHVCLVA1MHJST21PUkFTYUpWY0E?oc=5",
+       "publishedAt": "2026-11-21T11:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India gives 10 million HPV vaccine doses, covers 87% of target girls in nine months, health ministry",
+     "link": "https://www.hindustantimes.com/india-news/india-gives-10-million-hpv-vaccine-doses-covers-87-of-target-girls-in-nine-months-health-ministry-101795245823839.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Bioengineer.org",
+      "ET Government",
+      "Hindustan Times",
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express",
+      "www.pib.gov.in"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-21T12:53+05:30",
+     "score": 7.64,
+     "summary": "India has administered over 10 million HPV vaccine doses in nine months, covering nearly 87% of the target girls under its nationwide cervical cancer prevention drive.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/The-National-HPV-Vaccination-Campaign--launched-in_1795246897208_FRy2.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "India gives 10 million HPV vaccine doses, covers 87% of target girls in nine months, health ministry",
+       "link": "https://www.hindustantimes.com/india-news/india-gives-10-million-hpv-vaccine-doses-covers-87-of-target-girls-in-nine-months-health-ministry-101795245823839.html",
+       "publishedAt": "2026-11-21T12:53+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Over 1 crore HPV vaccines given to 14-year-old girls in nine months: Health Ministry",
+       "link": "https://www.thehindu.com/sci-tech/health/over-1-crore-hpv-vaccines-given-to-14-year-old-girls-in-nine-months-health-ministry/article71727507.ece",
+       "publishedAt": "2026-11-21T12:21+05:30"
+      },
+      {
+       "source": "ET Government",
+       "title": "Over 1 crore HPV vaccines given to 14-year-old girls in nine months: Health Ministry",
+       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT3FnZUNJYzZXaHAyVnptekRqWHo1NF9Sa2gzLUt3dHFFVG05YzBDczNja3EzeHQ5NzBBTE9aYnVsMXdydzZXUVlGaXBjTHdPZzNYX0s3eFhINm9EODVDT3hvREprMEVWUXJGU1I4XzdiVFRIMTM0WnFNV1RMVnlmdDNsMENVWXFTSU1fN01KMDl0VmRPeWJNUjlNMmtteUlKVHZQSHZZLUpMY0xDLVRZUUFOSnF3bFB5aVRlRVhYenRtYlJWYW5GbElxR0E5Yl8wY3FieTZNNldOOHV1ZnBxZTd3ZTdFMXpwREVaSVZn0gHyAUFVX3lxTE54ZURxRWtnZGZ3QzZpTFFpM2pFZmlrLUJTalZNeENpS3lweGpPYkJGWENldjVkQ1huUWNCMlRTRVpTejJWdXlQcTduQk9vWURSSWt0dTNXX3JmOGlVVU0zUFZiMXU2N1o0b2xCYWVpYklENWxTbmFRejNodGxMWjJrY0JhaE1MMzlKTXhqM0p6NEpKOVdDUE1Tb1lwN0pxeURnSWlORGxwcGZRTmJXRk0yV0o3QmxOMzY0M3V2MHRIQVBQV1BORFhtX0Z0NzZ6blZRNzYxTmFwX3hmSzJHT2c1VXlFZzF3QU5OVWRpaC1vTUln?oc=5",
+       "publishedAt": "2026-11-21T12:36+05:30"
+      }
+     ]
+    },
+    {
+     "title": "On Camera, Boys Assault Couple, Hit Them With Sticks In Mumbai Park",
+     "link": "https://www.ndtv.com/mumbai-news/on-camera-group-of-boys-assaults-couple-hit-them-with-sticks-in-mumbai-park-12357904#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "NewsBytes",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T13:08+05:30",
+     "score": 7.39,
+     "summary": "Taking cognisance of the viral footage, police identified the minors involved in the assault and registered a case against them.",
+     "image": "https://c.ndtvimg.com/2026-11/3flhddgs_mumbai-park_625x300_21_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "On Camera, Boys Assault Couple, Hit Them With Sticks In Mumbai Park",
+       "link": "https://www.ndtv.com/mumbai-news/on-camera-group-of-boys-assaults-couple-hit-them-with-sticks-in-mumbai-park-12357904#publisher=newsstand",
+       "publishedAt": "2026-11-21T13:08+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Punch, sticks and more: Young couple assaulted in Mumbai park; 8 minors booked",
+       "link": "https://timesofindia.indiatimes.com/city/mumbai/punch-sticks-and-more-young-couple-assaulted-in-mumbai-park-8-minors-booked/articleshow/136045412.cms",
+       "publishedAt": "2026-11-21T10:46+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-21T13:00+05:30",
    "generatedAt": "2026-11-21T13:42+05:30",
@@ -29806,216 +29992,6 @@
        "title": "'No long speeches': Rahul Gandhi renews debate challenge to PM Modi with a 'guarantee'",
        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRFdNSllRdldQbG9wNERsaDZldkxSblBqaDJrOU14LXFWRzFFNC1ES0phQmc1V0VnSXYtd1pFb0xxMGk4NVpCUzVuOWdiWXE5YzBnY3hKY2VYMzVPUVJmN1U4SmRjS0ZhbDF1emZlN3hOdDZfc2tKanpyUkg4RnIxUGRJX2RTTFJPbGhJTlNoMVdydmpFM01XcnhVUGFiVC1jay1ZX3FxWVJVaTBzOTJEQWhpb3g0N3V4UUh4bEppcXZzVGlBX09kR3NOSDI0M05JZXNyX3dfR3FfUEd6b0NHd3k5NA?oc=5",
        "publishedAt": "2026-11-13T13:27+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-13T16:00+05:30",
-   "generatedAt": "2026-11-13T16:27+05:30",
-   "feeds": 16,
-   "headlines": 305,
-   "stories": [
-    {
-     "title": "What we know about the global Microsoft outage",
-     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CGTN",
-      "CX Today",
-      "Forbes",
-      "Hindustan Times",
-      "NDTV",
-      "The Economic Times",
-      "The Guardian",
-      "The Hindu",
-      "Times of India"
-     ],
-     "sourceCount": 12,
-     "publishedAt": "2026-11-13T16:23+05:30",
-     "score": 14.49,
-     "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "What we know about the global Microsoft outage",
-       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-13T16:23+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-       "publishedAt": "2026-11-13T15:45+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Microsoft outage impacts IndiGo and Air India’s email support services",
-       "link": "https://www.thehindu.com/news/national/microsoft-outage-impacts-indigo-and-air-indias-email-support-services/article71697196.ece",
-       "publishedAt": "2026-11-13T15:10+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "\"Not Aware Of Any Malicious Activity\": Microsoft On Global Outage",
-       "link": "https://www.ndtv.com/world-news/not-aware-of-any-malicious-activity-microsoft-on-global-outage-12321209#publisher=newsstand",
-       "publishedAt": "2026-11-13T15:05+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Microsoft hit by global outages: What happened and why?",
-       "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
-       "publishedAt": "2026-11-13T15:00+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Microsoft outage: Company issues update as services face global disruption",
-       "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-365-outage-status-update-company-reports-positive-results-in-fix-for-outlook-teams-and-other-365-services/articleshow/135796608.cms",
-       "publishedAt": "2026-11-13T14:34+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Microsoft outage disrupts global businesses",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outage-disrupts-global-businesses-government-services-as-recovery-efforts-falter/articleshow/135796128.cms",
-       "publishedAt": "2026-11-13T14:23+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Microsoft outage affects communication channels of, Akasa, IndiGo airlines; advisories issued",
-       "link": "https://www.hindustantimes.com/india-news/microsoft-outage-affects-communication-channels-several-indian-airlines-indigo-air-india-advisory-issued-101794551225027.html",
-       "publishedAt": "2026-11-13T13:44+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Proof of allegations against Modi on my phone, which PM taps: Rahul Gandhi",
-     "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India",
-      "TheWire.in"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-13T15:39+05:30",
-     "score": 8.37,
-     "summary": "Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”.",
-     "image": "https://th-i.thgim.com/public/incoming/5xhd41/article71696709.ece/alternates/LANDSCAPE_1200/PTI11_04_2026_000324B.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Proof of allegations against Modi on my phone, which PM taps: Rahul Gandhi",
-       "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece",
-       "publishedAt": "2026-11-13T15:39+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "‘The proof is in the phone’: Rahul Gandhi dares PM Modi to debate on anti-national charge",
-       "link": "https://www.hindustantimes.com/india-news/the-proof-is-in-the-phone-rahul-gandhi-dares-pm-modi-to-debate-on-anti-national-charge-101794562663742.html",
-       "publishedAt": "2026-11-13T15:07+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "‘My phone is being tapped by PM Modi’: Rahul Gandhi’s Instagram video",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTldQTEZlUUtCX3phLWR2VXZVbDB5cHFVdFdUWjdMeVdGMnFobjRCblBQRU0xTl9QcHhra1BBYWx6ZGRGN0xxTlZLbVcyYTlCM1o4RjNYNmhJSlVNU216VEttU2dRTnBlbUFPbmp3Wi12TGRodzM5aE91TzVRZTJuWHRqU2E0QWNKWHlRVVZOVW04TWhOT2ZXTEROeG1tamZncVItNGZoQXNJcXB6eXhDcllIUk1MaFZqZTNwRUZRamdMTFNxMUZB0gHOAUFVX3lxTE9xMTNITTJ5d0xib3JsMzR6ZVlYR2JIWE5pSjNiWUtuaEh1TFFCZjRjV2I4YTdLTnFwRmE2bDBEekJOdTNGN2tWTGp3OVBIVWYyU012VldOSS1scFhBVEVqOU1Qd0dVWlRHckxjQm9hSXE2d3pBcHVmY21iMnZfZDd5cGpKb0xqWHYxSlBPbWRhbWxncjhhZmJsY1pXV21UaVRjQW5qa2ZvZ3RfZUVjXzZFTUJzN2ZDMU9lUF9zeHNWemI3MUdHa1NxVjRjaS13?oc=5",
-       "publishedAt": "2026-11-13T13:40+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Ahmedabad hit-and-run: BJP MLA's nephew arrested after Range Rover kills man",
-     "link": "https://timesofindia.indiatimes.com/city/ahmedabad/speeding-range-rover-kills-young-man-in-ahmedabad-mlas-nephew-arrested-later-gets-bail/articleshow/135797277.cms",
-     "source": "Times of India",
-     "sources": [
-      "Gujarat Samachar",
-      "NDTV",
-      "The Indian Express",
-      "The Times of India",
-      "Times of India",
-      "Urban Acres"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-13T15:21+05:30",
-     "score": 7.19,
-     "summary": "In a tragic incident in Ahmedabad, a young motorcyclist named Pradeep Darwal lost his life when a speeding Range Rover struck him near Shilaj Circle. Prompt action by law enforcement led to the arrest of Raghavendra Kushwaha, the driver related to a local MLA. Despite fleeing after the crash and the police recovering the vehicle, Kushwaha was released on bail.",
-     "image": "https://static.toiimg.com/photo/msid-135798208,imgsize-136433.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Ahmedabad hit-and-run: BJP MLA's nephew arrested after Range Rover kills man",
-       "link": "https://timesofindia.indiatimes.com/city/ahmedabad/speeding-range-rover-kills-young-man-in-ahmedabad-mlas-nephew-arrested-later-gets-bail/articleshow/135797277.cms",
-       "publishedAt": "2026-11-13T15:21+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Ahmedabad hit-and-run: BJP MLA's nephew arrested after Range Rover kills man",
-       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZDFDdTB2dEVnMlVENDFkRVhncXg3ZVIxTUo2YzU4a1JCTmFRTFdQZFpvc29RWU1ROERHUmdHdzdJTmwzSHVVUXRUQmhqZ2N0RlJkU3lXeXY1d0ZYRkFkTlhZNU5fWGZScVMyTk85V19QSGp6dHNSTnBQSnVRWWhmTnZhS1puc0lpRVNSQ3piR1E1TV93ZFNBRHYzU29QVmtWdU9kWUNTWVJodXRYR1VvMERxcnJLWXBrd0RkazFQTUFCaG00MXJVemtneXFIWU8wRkpzdkZZVHpsSmpzWHJvMHhlR1VDc2F3UmhwLW1hR2ItcFl0NXc?oc=5",
-       "publishedAt": "2026-11-13T15:21+05:30"
-      }
-     ]
-    },
-    {
-     "title": "6/24 on debut! Mahli Beardman rips through England as Australia take 1-0 lead",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/6/24-on-debut-mahli-beardman-rips-through-england-as-australia-take-1-0-lead/articleshow/135797289.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricbuzz",
-      "Cricinfo",
-      "Sky Sports",
-      "The Times of India",
-      "Times of India",
-      "cricket.com.au"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-13T15:15+05:30",
-     "score": 7.17,
-     "summary": "Mahli Beardman made a remarkable entry into One Day Internationals, claiming six wickets in his debut match against England in Perth. Australia effectively chased down England's target of 131 runs, thanks in part to a brisk fifty from captain Mitch Marsh. This triumph secured a 1-0 lead for Australia in the ODI series, with the second match awaited in Adelaide this coming Sunday.",
-     "image": "https://static.toiimg.com/photo/msid-135797414,imgsize-113784.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "6/24 on debut! Mahli Beardman rips through England as Australia take 1-0 lead",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/6/24-on-debut-mahli-beardman-rips-through-england-as-australia-take-1-0-lead/articleshow/135797289.cms",
-       "publishedAt": "2026-11-13T15:02+05:30"
-      },
-      {
-       "source": "Cricinfo",
-       "title": "Mahli Beardman leads rout of England with six-for on ODI debut",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUpZbHN6N25VRkhCeFJ0UjNJVVQwTVJybGRZcDJxZ0ZiLTROYTFYd1ZMQ2pkd3pOdldWSTA3SHBRcUVNdlZaRndqZjlZNWRoempjUFlFNS11ZzRKa1hiTklvYXNCcHV2ZFNNQ080bm90U3BlQjMwMkJXdElfZXNDTEtPbTZkZE5KOHNRekVWZy1QS2pQeGtIY3g0SGdUdENMN0tfT2ZEbVk0bXdlb1RLdy1SZ05qYmctdUE?oc=5",
-       "publishedAt": "2026-11-13T15:15+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Moushumi Chatterjee's husband Jayanta Mukherjee passes away; he was the son of legendary singer-composer",
-     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPMnVXUTljZ2JlXzMtUmJYLWhlTlUtYUpJS01tQXhmRktoa3d4MU1LV0psemdYaFdaVWpFMF9NcUhfQklRcVE1Q09nSGVMdGs1VXNMa0VBcFJ2N1c5aVVCbFdmdFhRb2lmRGdLVkY5ajhhTXJsOGRET1o5WG14OXhRWmZwc0pqN0cySFlvUm90OTdNU05fSGRoN0ljQnlkV3BLdS1vRi1PQ3ZmTXc2UzdXUy1WNGFnM3RSQ3JVeElIX3hLU3l3YWl5QTVLVWttUFJfdE9VNkhaTmVQaGw1dTJhNUZZMGJQNWFuMm9CNVRSTGdhUU83c2czUFJGRXo4VTJiZWREZmQtOEdEVndCZVpIZHNSdDVPRGpGdzMyX2JvTG9ZTW56UlVlZDl3SmdHZ3dwNy16Y2Jiaw?oc=5",
-     "source": "The Times of India",
-     "sources": [
-      "Film Information",
-      "Moneycontrol.com",
-      "NDTV",
-      "Rediff",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-13T12:54+05:30",
-     "score": 6.91,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Times of India",
-       "title": "Moushumi Chatterjee's husband Jayanta Mukherjee passes away; he was the son of legendary singer-composer",
-       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPMnVXUTljZ2JlXzMtUmJYLWhlTlUtYUpJS01tQXhmRktoa3d4MU1LV0psemdYaFdaVWpFMF9NcUhfQklRcVE1Q09nSGVMdGs1VXNMa0VBcFJ2N1c5aVVCbFdmdFhRb2lmRGdLVkY5ajhhTXJsOGRET1o5WG14OXhRWmZwc0pqN0cySFlvUm90OTdNU05fSGRoN0ljQnlkV3BLdS1vRi1PQ3ZmTXc2UzdXUy1WNGFnM3RSQ3JVeElIX3hLU3l3YWl5QTVLVWttUFJfdE9VNkhaTmVQaGw1dTJhNUZZMGJQNWFuMm9CNVRSTGdhUU83c2czUFJGRXo4VTJiZWREZmQtOEdEVndCZVpIZHNSdDVPRGpGdzMyX2JvTG9ZTW56UlVlZDl3SmdHZ3dwNy16Y2Jiaw?oc=5",
-       "publishedAt": "2026-11-13T12:54+05:30"
       }
      ]
     }
