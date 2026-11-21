@@ -1,6 +1,147 @@
 {
- "updated": "2026-11-22T03:08+05:30",
+ "updated": "2026-11-22T04:09+05:30",
  "hours": [
+  {
+   "hour": "2026-11-22T04:00+05:30",
+   "generatedAt": "2026-11-22T04:09+05:30",
+   "feeds": 16,
+   "headlines": 144,
+   "stories": [
+    {
+     "title": "Thousands march in Lisbon as living costs fuel anger",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG4wY3ZESmpaVExscklIdFdvaUp0ZXJ4a2N2Szc5V2VJV2NwMWZFLU5YWFd0Y2ZFNU4zRGo1RG5VazBFRVlnUGhPcmxiRjc4U25qeFAwREpZcjFVeUdVRldoaEUyUXQtSG1TV1ZDVDJzd1RUNzFzVk1QS3BtdGZ2UXkwYy11N2RBOFlYSzNNZzYxRkVjYXlTcHhMTQ?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "Euronews.com",
+      "Reuters",
+      "The Portugal News",
+      "The Times of India",
+      "chronicleonline.com"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T01:25+05:30",
+     "score": 7.04,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Thousands march in Lisbon as living costs fuel anger",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG4wY3ZESmpaVExscklIdFdvaUp0ZXJ4a2N2Szc5V2VJV2NwMWZFLU5YWFd0Y2ZFNU4zRGo1RG5VazBFRVlnUGhPcmxiRjc4U25qeFAwREpZcjFVeUdVRldoaEUyUXQtSG1TV1ZDVDJzd1RUNzFzVk1QS3BtdGZ2UXkwYy11N2RBOFlYSzNNZzYxRkVjYXlTcHhMTQ?oc=5",
+       "publishedAt": "2026-11-22T01:25+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Reflecting on Purana Qila's history, Pakistan minister invokes Humanyun & Sher Shah Suri at SCO civilisational dialogue to assert cultural diversity",
+     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQb0ZHYXBHNWJkWGV4dWItdWJZM2h0dkw0eHdaVzJ3TXkxdVZ3ZHNQd0QxNV9ldDFmazRneHphWUdYdS0waFFqNGFQTUFNbll3MFNwbGNRODJxampYRnVwZ09HbWFGZG50aXAwZHlsYmJISTdUOXNVM1ZnMWgySElzUEJkSmNFajNybEFnNlNqTm40ZndtREd1WTNJNEU4d0VzYnVPVS11ejlzemFPY0NnZ1dGaXpUYmc4REFUaEdoOEhlUV9OSTQzeUV2Y3U2dzcwbXJRNV93TWp4OE5uUC1pUDJDT0ptSXdST3pWRUNMR2QwbXRBZnppdktwOUZuVE5Jb2VHRkxHdmEycnllT0tSSEs2bG1JN0c4UE9LQm9XLVNFNGZrQzAwT3VjUXZkVEY1ZGRUa1dOQQ?oc=5",
+     "source": "The Times of India",
+     "sources": [
+      "NDTV",
+      "NarendraModi.in",
+      "The Hindu",
+      "The Times of India",
+      "Vajiram & Ravi"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T00:50+05:30",
+     "score": 6.95,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Times of India",
+       "title": "Reflecting on Purana Qila's history, Pakistan minister invokes Humanyun & Sher Shah Suri at SCO civilisational dialogue to assert cultural diversity",
+       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQb0ZHYXBHNWJkWGV4dWItdWJZM2h0dkw0eHdaVzJ3TXkxdVZ3ZHNQd0QxNV9ldDFmazRneHphWUdYdS0waFFqNGFQTUFNbll3MFNwbGNRODJxampYRnVwZ09HbWFGZG50aXAwZHlsYmJISTdUOXNVM1ZnMWgySElzUEJkSmNFajNybEFnNlNqTm40ZndtREd1WTNJNEU4d0VzYnVPVS11ejlzemFPY0NnZ1dGaXpUYmc4REFUaEdoOEhlUV9OSTQzeUV2Y3U2dzcwbXJRNV93TWp4OE5uUC1pUDJDT0ptSXdST3pWRUNMR2QwbXRBZnppdktwOUZuVE5Jb2VHRkxHdmEycnllT0tSSEs2bG1JN0c4UE9LQm9XLVNFNGZrQzAwT3VjUXZkVEY1ZGRUa1dOQQ?oc=5",
+       "publishedAt": "2026-11-22T00:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India tour of New Zealand 2026 1st Test match feature From learner to learning tree KL Rahul's Test evolution",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbk0wWldXbnY3OU1hVUV2NlM5clpEUzRmeVVDQzM2X21HTHdwZUJrMTFYWnBhTS10LUdlUGtIUHoxbFUxYkJxbUtjLWgxMVZZT3F5cTNxOVRmQUxZSEdWNC1pcGhvbE5IYUVWX1dORy00ZDlkUFJ3UV9iYlVCdUd1cFRHSEtkbnV6Vm1RWGMwcHdhOEpLbVo4czVQeERkcXFP?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "ICC",
+      "India Today",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T00:09+05:30",
+     "score": 6.83,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "India tour of New Zealand 2026 1st Test match feature From learner to learning tree KL Rahul's Test evolution",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbk0wWldXbnY3OU1hVUV2NlM5clpEUzRmeVVDQzM2X21HTHdwZUJrMTFYWnBhTS10LUdlUGtIUHoxbFUxYkJxbUtjLWgxMVZZT3F5cTNxOVRmQUxZSEdWNC1pcGhvbE5IYUVWX1dORy00ZDlkUFJ3UV9iYlVCdUd1cFRHSEtkbnV6Vm1RWGMwcHdhOEpLbVo4czVQeERkcXFP?oc=5",
+       "publishedAt": "2026-11-22T00:09+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Israel govt formation: Eisenkot invites Netanyahu's Likud party for coalition talks",
+     "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-government-formation-eisenkot-invites-netanyahus-likud-party-for-coalition-talks/articleshow/136062828.cms",
+     "source": "Times of India",
+     "sources": [
+      "Arab News",
+      "Courthouse News",
+      "The Jerusalem Post",
+      "The Times of India",
+      "The Times of Israel",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T02:07+05:30",
+     "score": 6.72,
+     "summary": "In a strategic move, Gadi Eisenkot has called upon members of Prime Minister Benjamin Netanyahu's Likud party to engage in coalition negotiations. The objective is to create a national unity government that reflects the fractured state of the current parliament. Eisenkot's party, Yashar, sees this invitation as a demonstration of their dedication to establishing a wide-ranging government.",
+     "image": "https://static.toiimg.com/photo/msid-136062842,imgsize-116702.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Israel govt formation: Eisenkot invites Netanyahu's Likud party for coalition talks",
+       "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-government-formation-eisenkot-invites-netanyahus-likud-party-for-coalition-talks/articleshow/136062828.cms",
+       "publishedAt": "2026-11-22T02:07+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Israel government formation: Eisenkot invites Netanyahu's Likud party for coalition talks",
+       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV0pNeXRQTGlpUEVmU0lCQkVqV25mclpIVHRQR0l1WnNtU1NYd0NDMHQzSWtGUXBpQ05xOVlIdVBybjJCSVl6VVNkdGR6dXA0bkRKd2VDaXZIdHFSeFhzYVQwRHJxV2hMMnFXUG9mVUxMUHNIU2ZJcDF3SzNmWmNYaTMzRFJMVVJiS3hRa1BmY1p5QXdtR1l0cWFiMmotWVVteUhXZVpnWGVwVGUxLW1sVkNsQzl1ekUxektYdUhwSlNJcHAtUFBIajFQR2RuenFMN3JuakYzTEFCY1YwSGJyRVRBRW1ZT19nQnR2WTExcUV5b0piWjg5RlJyQQ?oc=5",
+       "publishedAt": "2026-11-22T02:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 2",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmRoUllqQXVJUGl2TC1abDlwckNWNFpSb25CQ19TMm8wRjB4TWI2RlJKRnV4Xy1qb0MyaXRQUE9fUnV4aEl5Q0lnRFR5UWkteGtxbmEwdmhaTFIwZWpGNVNydDlGYnFsdllRanlzMWlJLVEwcWYxbUREU1BzMWpzQlNHUzNDV3pQYTlIZXN3?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "Deccan Herald",
+      "Gulte",
+      "Sacnilk",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T01:35+05:30",
+     "score": 6.68,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 2",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmRoUllqQXVJUGl2TC1abDlwckNWNFpSb25CQ19TMm8wRjB4TWI2RlJKRnV4Xy1qb0MyaXRQUE9fUnV4aEl5Q0lnRFR5UWkteGtxbmEwdmhaTFIwZWpGNVNydDlGYnFsdllRanlzMWlJLVEwcWYxbUREU1BzMWpzQlNHUzNDV3pQYTlIZXN3?oc=5",
+       "publishedAt": "2026-11-22T01:35+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-22T03:00+05:30",
    "generatedAt": "2026-11-22T03:08+05:30",
@@ -29659,153 +29800,6 @@
        "title": "Pakistan 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGRnMjVTZzRLMlFmZi1pM1VUc29iSDBjRXo2REc0MXo5bVY3aEhjeFppbGRxRFNVRE91bDdqM2lBNXplTFJxWW5oR1F6UFNaLU5SWjB6RkdFUE1fM2FzTHNZUklKcWhrSXlHMUgtNERpTWR4d0hmVXFKUk1iV1gxTEJlNERYVlNMcFJfWnZMWlN5OUhLbVBrZ05haDlnODlJOWFnSDAxTnRMUmlJLUVTTVN6VXBGTzNiM1d1ZWZlQ1VIZ1VabGMwNFY2bUUtLVJQZW9VbmF2enBKdWo4Y1pqdHYtOA?oc=5",
        "publishedAt": "2026-11-14T01:54+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-14T06:00+05:30",
-   "generatedAt": "2026-11-14T06:26+05:30",
-   "feeds": 16,
-   "headlines": 122,
-   "stories": [
-    {
-     "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
-     "link": "https://timesofindia.indiatimes.com/business/international-business/extraordinary-circumstances-us-grounds-all-departing-flights-over-safety-concerns/articleshow/135816386.cms",
-     "source": "Times of India",
-     "sources": [
-      "CNN",
-      "NDTV",
-      "The Guardian",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T03:52+05:30",
-     "score": 8.07,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135816400,imgsize-35092.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
-       "link": "https://timesofindia.indiatimes.com/business/international-business/extraordinary-circumstances-us-grounds-all-departing-flights-over-safety-concerns/articleshow/135816386.cms",
-       "publishedAt": "2026-11-14T02:37+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
-       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTVptMjJvOVhpWXRZVm5UVzdXM3V0blNNU3o4NzNhSjZTUDFyNHQzaWEyT3BvdUJjZ24yWG9lSnVmazNTWHQxZ1VZYkF6ZVNPV1NkS2U4ZDJlLWl6VEtwaXo1VXpuY2hJeUlyaHdLT1JRZkpVNWQwX0hURWRNaDBqNTNJazQ0bkJHMDFkeklISlZUYmxVREJvTXdzSEpUREttV2R5TmZaMXIxZzN2ZGpfb0RHSHRNVFlfUko1Nzh2d0FHcHY2WnJtN1hhTXk3cXVUVTZaTmxPLXZsLXlBVzFKTEZ3X0tsUFlJMFFydi12R2hyMWZvNFdkdDJNckNYVzdSVzU4X1dn?oc=5",
-       "publishedAt": "2026-11-14T03:52+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
-     "source": "The Hindu",
-     "sources": [
-      "BBC",
-      "Forbes",
-      "Reuters",
-      "The Hindu",
-      "The Japan Times"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T02:13+05:30",
-     "score": 6.8,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
-       "publishedAt": "2026-11-14T02:13+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Pak 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
-     "link": "https://timesofindia.indiatimes.com/india/pakistan-80-years-old-cant-appropriate-indus-valley-civilisation-culture-minister/articleshow/135816035.cms",
-     "source": "Times of India",
-     "sources": [
-      "News On AIR",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "ThePrint",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T01:54+05:30",
-     "score": 6.54,
-     "summary": "Hopes Islamabad Will Join SCO Civilisational Dialogue Forum In Delhi",
-     "image": "https://static.toiimg.com/photo/msid-135816047,imgsize-94056.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Pak 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
-       "link": "https://timesofindia.indiatimes.com/india/pakistan-80-years-old-cant-appropriate-indus-valley-civilisation-culture-minister/articleshow/135816035.cms",
-       "publishedAt": "2026-11-14T01:54+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Pakistan 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGRnMjVTZzRLMlFmZi1pM1VUc29iSDBjRXo2REc0MXo5bVY3aEhjeFppbGRxRFNVRE91bDdqM2lBNXplTFJxWW5oR1F6UFNaLU5SWjB6RkdFUE1fM2FzTHNZUklKcWhrSXlHMUgtNERpTWR4d0hmVXFKUk1iV1gxTEJlNERYVlNMcFJfWnZMWlN5OUhLbVBrZ05haDlnODlJOWFnSDAxTnRMUmlJLUVTTVN6VXBGTzNiM1d1ZWZlQ1VIZ1VabGMwNFY2bUUtLVJQZW9VbmF2enBKdWo4Y1pqdHYtOA?oc=5",
-       "publishedAt": "2026-11-14T01:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Best Black Friday Laptop Deals: Up To 56% Off MacBooks, Chromebooks And More",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE8yQ29OYUtibEVITUNTa1o5aDRDNGRLa3gxVHV4Y3RkbWVReS02ZDJsRGtueGFoUTVoeFVmdEd2c1VXSGt2MjJhSFM0cUpLVndSNURWWHd1c2F4QkdCRzlxemRKeWtlb0FjcnoyVTdJQ3U3NU5OdmJEZWM3dzJoOXhYbUtjZE9zWTNGeGxRVDd6U2dE?oc=5",
-     "source": "Forbes",
-     "sources": [
-      "Forbes",
-      "Gizmodo",
-      "Mashable",
-      "PCWorld",
-      "Windows Central"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T05:13+05:30",
-     "score": 5.99,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Forbes",
-       "title": "Best Black Friday Laptop Deals: Up To 56% Off MacBooks, Chromebooks And More",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE8yQ29OYUtibEVITUNTa1o5aDRDNGRLa3gxVHV4Y3RkbWVReS02ZDJsRGtueGFoUTVoeFVmdEd2c1VXSGt2MjJhSFM0cUpLVndSNURWWHd1c2F4QkdCRzlxemRKeWtlb0FjcnoyVTdJQ3U3NU5OdmJEZWM3dzJoOXhYbUtjZE9zWTNGeGxRVDd6U2dE?oc=5",
-       "publishedAt": "2026-11-14T05:13+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 14, #986",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5",
-     "source": "CNET",
-     "sources": [
-      "CNET",
-      "Mashable",
-      "PC Guide",
-      "TechRadar",
-      "The New York Times"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T02:30+05:30",
-     "score": 5.84,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "CNET",
-       "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 14, #986",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5",
-       "publishedAt": "2026-11-14T02:30+05:30"
       }
      ]
     }
