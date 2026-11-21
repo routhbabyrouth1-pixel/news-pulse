@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-22T02:09+05:30",
+ "updated": "2026-11-22T03:08+05:30",
  "hours": [
+  {
+   "hour": "2026-11-22T03:00+05:30",
+   "generatedAt": "2026-11-22T03:08+05:30",
+   "feeds": 16,
+   "headlines": 180,
+   "stories": [
+    {
+     "title": "BJP appoints Yuzvendra Chahal as special invitee to OBC Morcha executive committee",
+     "link": "https://www.thehindu.com/news/national/bjp-appoints-yuzvendra-chahal-as-special-invitee-to-obc-morcha-executive-committee/article71729445.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-22T00:58+05:30",
+     "score": 8.14,
+     "summary": "BJP national president Nitin Nabin on November 21, 2026, announced fresh appointments of national office-bearers, national executive members, and department heads for its OBC Morcha with immediate effect",
+     "image": "https://th-i.thgim.com/public/incoming/o7g44c/article71729446.ece/alternates/LANDSCAPE_1200/PTI11_21_2026_000328B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "BJP appoints Yuzvendra Chahal as special invitee to OBC Morcha executive committee",
+       "link": "https://www.thehindu.com/news/national/bjp-appoints-yuzvendra-chahal-as-special-invitee-to-obc-morcha-executive-committee/article71729445.ece",
+       "publishedAt": "2026-11-22T00:58+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Yuzvendra Chahal Joins BJP, Gets Role In Party's OBC Morcha Committee",
+       "link": "https://www.ndtv.com/india-news/yuzvendra-chahal-joins-bjp-gets-role-in-partys-obc-morcha-committee-12359712#publisher=newsstand",
+       "publishedAt": "2026-11-21T22:42+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Yuzvendra Chahal joins BJP as OBC Morcha member, thanks PM Modi, other leaders for a ‘place in the family’",
+       "link": "https://www.hindustantimes.com/india-news/cricketer-yuzvendra-chahal-joins-bjp-appointed-as-special-invitee-to-obc-morcha-national-committee-101795279356508.html",
+       "publishedAt": "2026-11-21T22:20+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Cricketer Yuzvendra Chahal joins BJP, gets role in OBC committee",
+       "link": "https://timesofindia.indiatimes.com/india/cricketer-yuzvendra-chahal-joins-bjp-gets-role-in-obc-morcha-executive-committee/articleshow/136059077.cms",
+       "publishedAt": "2026-11-21T22:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump says Iran deal could last 20 years, claims US removed Tehran leadership twice",
+     "link": "https://timesofindia.indiatimes.com/world/us/trump-says-iran-deal-could-last-20-years-claims-us-removed-tehran-leadership-twice-eyes-ultimate-regime-change/articleshow/136058892.cms",
+     "source": "Times of India",
+     "sources": [
+      "CBS News",
+      "Iran International",
+      "Telegraph India",
+      "The Times of India",
+      "The Times of Israel",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T21:51+05:30",
+     "score": 7.62,
+     "summary": "Donald Trump emphasizes that any deal with Iran must be robust enough to endure future changes in presidential leadership. He recognizes the challenges presented by Iran's current regime yet believes there might be potential for more reasonable negotiations. His goal is to secure a lasting pact that prevents Iran from developing nuclear capabilities.",
+     "image": "https://static.toiimg.com/photo/msid-136058938,imgsize-60408.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Trump says Iran deal could last 20 years, claims US removed Tehran leadership twice",
+       "link": "https://timesofindia.indiatimes.com/world/us/trump-says-iran-deal-could-last-20-years-claims-us-removed-tehran-leadership-twice-eyes-ultimate-regime-change/articleshow/136058892.cms",
+       "publishedAt": "2026-11-21T21:51+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Trump says Iran deal could last 20 years, claims US removed Tehran leadership twice, eyes 'ultimate regim",
+       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQREVzdTBXNXVhd3VERlJrNmZJV1RJS2t4R0tMcFdEUFhvWFlqWFBpRHYyQTNJalRfMWQ2dDQ0NUM3ZnZqM1Ixa2RXVkF2bW1UbW56cDk2ZWczRGxHM19lSm9IZWZsMjZhSzZoUWtIcV9QTVRiWjFXVVhmV0luc0t3VnI4czdPdUVjUEtkYkFrM0xQWmY2Q1MzV0NjamJ0aEhXQmRYYzgwRUVVUml6bkxVQU5ZQXBJME9TMERiMkxvVEJGMllhckhXZ1BWN2VQWGgzaGFHZk42TmtPUnpxb1AwNmVuUWkzbkQwdXpzVVNlZDhQZXBDMXNMaHdIYTRhMWhtSjNpenVLZnhHb2R0V1E?oc=5",
+       "publishedAt": "2026-11-21T21:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Reflecting on Purana Qila's history, Pakistan minister invokes Humanyun & Sher Shah Suri at SCO civilisat",
+     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQb0ZHYXBHNWJkWGV4dWItdWJZM2h0dkw0eHdaVzJ3TXkxdVZ3ZHNQd0QxNV9ldDFmazRneHphWUdYdS0waFFqNGFQTUFNbll3MFNwbGNRODJxampYRnVwZ09HbWFGZG50aXAwZHlsYmJISTdUOXNVM1ZnMWgySElzUEJkSmNFajNybEFnNlNqTm40ZndtREd1WTNJNEU4d0VzYnVPVS11ejlzemFPY0NnZ1dGaXpUYmc4REFUaEdoOEhlUV9OSTQzeUV2Y3U2dzcwbXJRNV93TWp4OE5uUC1pUDJDT0ptSXdST3pWRUNMR2QwbXRBZnppdktwOUZuVE5Jb2VHRkxHdmEycnllT0tSSEs2bG1JN0c4UE9LQm9XLVNFNGZrQzAwT3VjUXZkVEY1ZGRUa1dOQQ?oc=5",
+     "source": "The Times of India",
+     "sources": [
+      "NDTV",
+      "NarendraModi.in",
+      "The Hindu",
+      "The Times of India",
+      "Vajiram & Ravi"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T00:50+05:30",
+     "score": 7.12,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Times of India",
+       "title": "Reflecting on Purana Qila's history, Pakistan minister invokes Humanyun & Sher Shah Suri at SCO civilisat",
+       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQb0ZHYXBHNWJkWGV4dWItdWJZM2h0dkw0eHdaVzJ3TXkxdVZ3ZHNQd0QxNV9ldDFmazRneHphWUdYdS0waFFqNGFQTUFNbll3MFNwbGNRODJxampYRnVwZ09HbWFGZG50aXAwZHlsYmJISTdUOXNVM1ZnMWgySElzUEJkSmNFajNybEFnNlNqTm40ZndtREd1WTNJNEU4d0VzYnVPVS11ejlzemFPY0NnZ1dGaXpUYmc4REFUaEdoOEhlUV9OSTQzeUV2Y3U2dzcwbXJRNV93TWp4OE5uUC1pUDJDT0ptSXdST3pWRUNMR2QwbXRBZnppdktwOUZuVE5Jb2VHRkxHdmEycnllT0tSSEs2bG1JN0c4UE9LQm9XLVNFNGZrQzAwT3VjUXZkVEY1ZGRUa1dOQQ?oc=5",
+       "publishedAt": "2026-11-22T00:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India tour of New Zealand 2026 1st Test match feature From learner to learning tree KL Rahul's Test evolution",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbk0wWldXbnY3OU1hVUV2NlM5clpEUzRmeVVDQzM2X21HTHdwZUJrMTFYWnBhTS10LUdlUGtIUHoxbFUxYkJxbUtjLWgxMVZZT3F5cTNxOVRmQUxZSEdWNC1pcGhvbE5IYUVWX1dORy00ZDlkUFJ3UV9iYlVCdUd1cFRHSEtkbnV6Vm1RWGMwcHdhOEpLbVo4czVQeERkcXFP?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "ICC",
+      "Rediff",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T00:09+05:30",
+     "score": 7.0,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "India tour of New Zealand 2026 1st Test match feature From learner to learning tree KL Rahul's Test evolution",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbk0wWldXbnY3OU1hVUV2NlM5clpEUzRmeVVDQzM2X21HTHdwZUJrMTFYWnBhTS10LUdlUGtIUHoxbFUxYkJxbUtjLWgxMVZZT3F5cTNxOVRmQUxZSEdWNC1pcGhvbE5IYUVWX1dORy00ZDlkUFJ3UV9iYlVCdUd1cFRHSEtkbnV6Vm1RWGMwcHdhOEpLbVo4czVQeERkcXFP?oc=5",
+       "publishedAt": "2026-11-22T00:09+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Israel govt formation: Eisenkot invites Netanyahu's Likud party for coalition talks",
+     "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-government-formation-eisenkot-invites-netanyahus-likud-party-for-coalition-talks/articleshow/136062828.cms",
+     "source": "Times of India",
+     "sources": [
+      "Arab News",
+      "Courthouse News",
+      "The Times of India",
+      "The Times of Israel",
+      "Times of India",
+      "Ynetnews"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T02:07+05:30",
+     "score": 6.88,
+     "summary": "In a strategic move, Gadi Eisenkot has called upon members of Prime Minister Benjamin Netanyahu's Likud party to engage in coalition negotiations. The objective is to create a national unity government that reflects the fractured state of the current parliament. Eisenkot's party, Yashar, sees this invitation as a demonstration of their dedication to establishing a wide-ranging government.",
+     "image": "https://static.toiimg.com/photo/msid-136062842,imgsize-116702.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Israel govt formation: Eisenkot invites Netanyahu's Likud party for coalition talks",
+       "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-government-formation-eisenkot-invites-netanyahus-likud-party-for-coalition-talks/articleshow/136062828.cms",
+       "publishedAt": "2026-11-22T02:07+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Israel government formation: Eisenkot invites Netanyahu's Likud party for coalition talks",
+       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV0pNeXRQTGlpUEVmU0lCQkVqV25mclpIVHRQR0l1WnNtU1NYd0NDMHQzSWtGUXBpQ05xOVlIdVBybjJCSVl6VVNkdGR6dXA0bkRKd2VDaXZIdHFSeFhzYVQwRHJxV2hMMnFXUG9mVUxMUHNIU2ZJcDF3SzNmWmNYaTMzRFJMVVJiS3hRa1BmY1p5QXdtR1l0cWFiMmotWVVteUhXZVpnWGVwVGUxLW1sVkNsQzl1ekUxektYdUhwSlNJcHAtUFBIajFQR2RuenFMN3JuakYzTEFCY1YwSGJyRVRBRW1ZT19nQnR2WTExcUV5b0piWjg5RlJyQQ?oc=5",
+       "publishedAt": "2026-11-22T02:07+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-22T02:00+05:30",
    "generatedAt": "2026-11-22T02:09+05:30",
@@ -29631,181 +29798,6 @@
      "sourceCount": 5,
      "publishedAt": "2026-11-14T02:30+05:30",
      "score": 5.84,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "CNET",
-       "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 14, #986",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5",
-       "publishedAt": "2026-11-14T02:30+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-14T05:00+05:30",
-   "generatedAt": "2026-11-14T05:08+05:30",
-   "feeds": 16,
-   "headlines": 161,
-   "stories": [
-    {
-     "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
-     "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "NDTV",
-      "The Guardian",
-      "The Hindu",
-      "The Times of India",
-      "Times of India",
-      "WDSU"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-14T04:17+05:30",
-     "score": 9.61,
-     "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
-     "image": "https://static.toiimg.com/photo/msid-135816311,imgsize-1101964.cms",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
-       "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
-       "publishedAt": "2026-11-14T04:17+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "New Orleans river cruise boat partially sinks after tanker collision, 130 aboard",
-       "link": "https://timesofindia.indiatimes.com/world/us/new-orleans-river-cruise-boat-partially-sinks-after-tanker-collision-130-aboard/articleshow/135816281.cms",
-       "publishedAt": "2026-11-14T02:27+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Tanker Collides With Cruise Ship On Mississippi River In US, Rescue Ops On",
-       "link": "https://www.ndtv.com/world-news/tanker-collides-with-cruise-ship-on-mississippi-river-in-us-rescue-ops-on-12324453#publisher=newsstand",
-       "publishedAt": "2026-11-14T02:22+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "New Orleans river cruise boat partially sinks after tanker collision, 130 aboard",
-       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWVIzczB0aDlXVnFVamNBbEoxRXBlLTRpa0oxd3JhYWlVakNzZWFnT0ZtNEJkd0Z3VVIxU0NUMDVEdXdEajJCNi03ak8yVTdQY2E1S2NxWXkxSmRieHNzay1rQnIxb3RtTTdnTHNBZW03SkFHaU50QmlGcnhabUpHUUUtY3pENko2QVBBeVcxY1NoZE14Q2FTdkUxS3JTd1NkNTkteUlyR2xSRmZEb2hoUURPanR2d2o3Ymh2aVBXSnlWcURUQlB3ckNTTnhkcWZlNjZGUktBa2dHMFlRRjg2Q1oxYm8?oc=5",
-       "publishedAt": "2026-11-14T02:27+05:30"
-      }
-     ]
-    },
-    {
-     "title": "US Grounds All Departing Flights Due To Communication Breakdown",
-     "link": "https://www.ndtv.com/world-news/us-grounds-all-departing-flights-due-to-communication-issue-impacting-all-air-traffic-control-centres-12324537#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "CNN",
-      "NDTV",
-      "Reuters",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-14T03:52+05:30",
-     "score": 8.54,
-     "summary": "The Federal Aviation Administration grounded all flights nationwide Friday afternoon because of communications problems at regional air traffic control centers.",
-     "image": "https://c.ndtvimg.com/2026-09/irotk5ro_us-flights_625x300_22_September_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "US Grounds All Departing Flights Due To Communication Breakdown",
-       "link": "https://www.ndtv.com/world-news/us-grounds-all-departing-flights-due-to-communication-issue-impacting-all-air-traffic-control-centres-12324537#publisher=newsstand",
-       "publishedAt": "2026-11-14T03:43+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
-       "link": "https://timesofindia.indiatimes.com/business/international-business/extraordinary-circumstances-us-grounds-all-departing-flights-over-safety-concerns/articleshow/135816386.cms",
-       "publishedAt": "2026-11-14T02:37+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
-       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTVptMjJvOVhpWXRZVm5UVzdXM3V0blNNU3o4NzNhSjZTUDFyNHQzaWEyT3BvdUJjZ24yWG9lSnVmazNTWHQxZ1VZYkF6ZVNPV1NkS2U4ZDJlLWl6VEtwaXo1VXpuY2hJeUlyaHdLT1JRZkpVNWQwX0hURWRNaDBqNTNJazQ0bkJHMDFkeklISlZUYmxVREJvTXdzSEpUREttV2R5TmZaMXIxZzN2ZGpfb0RHSHRNVFlfUko1Nzh2d0FHcHY2WnJtN1hhTXk3cXVUVTZaTmxPLXZsLXlBVzFKTEZ3X0tsUFlJMFFydi12R2hyMWZvNFdkdDJNckNYVzdSVzU4X1dn?oc=5",
-       "publishedAt": "2026-11-14T03:52+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
-     "source": "The Hindu",
-     "sources": [
-      "Al Jazeera",
-      "Forbes",
-      "The Hindu",
-      "The Japan Times",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T02:13+05:30",
-     "score": 7.01,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
-       "publishedAt": "2026-11-14T02:13+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Pak 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
-     "link": "https://timesofindia.indiatimes.com/india/pakistan-80-years-old-cant-appropriate-indus-valley-civilisation-culture-minister/articleshow/135816035.cms",
-     "source": "Times of India",
-     "sources": [
-      "News On AIR",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "ThePrint",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T01:54+05:30",
-     "score": 6.96,
-     "summary": "Hopes Islamabad Will Join SCO Civilisational Dialogue Forum In Delhi",
-     "image": "https://static.toiimg.com/photo/msid-135816047,imgsize-94056.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Pak 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
-       "link": "https://timesofindia.indiatimes.com/india/pakistan-80-years-old-cant-appropriate-indus-valley-civilisation-culture-minister/articleshow/135816035.cms",
-       "publishedAt": "2026-11-14T01:54+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Pakistan 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGRnMjVTZzRLMlFmZi1pM1VUc29iSDBjRXo2REc0MXo5bVY3aEhjeFppbGRxRFNVRE91bDdqM2lBNXplTFJxWW5oR1F6UFNaLU5SWjB6RkdFUE1fM2FzTHNZUklKcWhrSXlHMUgtNERpTWR4d0hmVXFKUk1iV1gxTEJlNERYVlNMcFJfWnZMWlN5OUhLbVBrZ05haDlnODlJOWFnSDAxTnRMUmlJLUVTTVN6VXBGTzNiM1d1ZWZlQ1VIZ1VabGMwNFY2bUUtLVJQZW9VbmF2enBKdWo4Y1pqdHYtOA?oc=5",
-       "publishedAt": "2026-11-14T01:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 14, #986",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5",
-     "source": "CNET",
-     "sources": [
-      "CNET",
-      "Mashable",
-      "PC Guide",
-      "TechRadar",
-      "The New York Times"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T02:30+05:30",
-     "score": 5.86,
      "summary": "",
      "image": null,
      "articles": [
