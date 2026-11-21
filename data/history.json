@@ -1,6 +1,195 @@
 {
- "updated": "2026-11-21T22:13+05:30",
+ "updated": "2026-11-21T23:11+05:30",
  "hours": [
+  {
+   "hour": "2026-11-21T23:00+05:30",
+   "generatedAt": "2026-11-21T23:11+05:30",
+   "feeds": 16,
+   "headlines": 253,
+   "stories": [
+    {
+     "title": "Teens want to play ‘Grand Theft Auto.’ Parents have a decision to make.",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1dTZjEwM0FIWmVNaG9wZmgta0FTM3BTRFIyMVNVek9qZDA3SmRSQzJ3MWFDbWFNVFVUblBaUUEtMjNTLUFWMGZZcThzelBNaF9BWjcwRHlOWTFIM2pHaTVWWmRuMzFhT01ZVElxdmVDcFUzWFB2b2o2dklzbXJDb2RLdnRTczNEYm5MWFAtQUdLbzA1U3FKN2FkZ2prYzVMeUU5ZEcxc3laeWx3?oc=5",
+     "source": "The Washington Post",
+     "sources": [
+      "BBC",
+      "Forbes",
+      "IndulgExpress",
+      "Mashable",
+      "NDTV Sports",
+      "Push Square",
+      "The News Minute",
+      "The Times of India",
+      "The Washington Post",
+      "upi"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-21T22:33+05:30",
+     "score": 11.04,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Washington Post",
+       "title": "Teens want to play ‘Grand Theft Auto.’ Parents have a decision to make.",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1dTZjEwM0FIWmVNaG9wZmgta0FTM3BTRFIyMVNVek9qZDA3SmRSQzJ3MWFDbWFNVFVUblBaUUEtMjNTLUFWMGZZcThzelBNaF9BWjcwRHlOWTFIM2pHaTVWWmRuMzFhT01ZVElxdmVDcFUzWFB2b2o2dklzbXJDb2RLdnRTczNEYm5MWFAtQUdLbzA1U3FKN2FkZ2prYzVMeUU5ZEcxc3laeWx3?oc=5",
+       "publishedAt": "2026-11-21T22:33+05:30"
+      },
+      {
+       "source": "Forbes",
+       "title": "‘Grand Theft Auto 6’ Is Being Review Bombed On Metacritic",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkgtSGlxa0dldW9UZjhlVnQwVzNReUVmaC13NkFtbG9WMTFjdGtaVERYazlvYnlkZEFtRF83SkxpdURaVXJYVjBfOEZrUXhfOXdCR29zS1JGTDR5QVBONmFXUWlxR0ZHa1ZnMGJhQ2NFUjcyaklodW0tQkJDcjFtdXJuakZfU0czRFUteF8xaG1ETnpQZHJ6Ry12a1FGbFVoZWF3RDl4b2x1UQ?oc=5",
+       "publishedAt": "2026-11-21T19:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Anirudh Ravichander-Kavya Maran's Wedding Reception: Rajinikanth, Kamal Haasan, Vijay Among Guests",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQjh1VnBTMWtBRlpYbkxlLTgwajdEN1ZBaWNRZ1M3a1RLZDJnM3NWamtnY0NvWkNBR1hZZ2Jpd2FUTEVIclV2VW5JS21ray1YTWx6bTU3WVdQOGlRc1BBb0JtN1dPZEJ0QjZ5SFFpSVBPb0pBNE1qTjF0SFp4Nmk1NmlsaUF3UzdCRWNhQzU3bUhneHdYVjh3ekN4RUtVdndoUEJCcjJLZXBFWTBQcVJ1RjY5M0JLWnJJR0UxeHZrWWdNeVJjNUhGOGtsOHM3Mkpw0gHYAUFVX3lxTE1FNV9qYVphWFFWcl9UMk1DeTJmRWJmTC1LLTBtVUdVblZyQkc1QVdqSWpfekJMMmFXUmVwUnpBNGVaTS03Yzl2QnVJOU1Pcl9HOVZBQUxOYW92YTByUUlZUHFXbUl6SEhoUzZ5dGpnM1NISjBTLUEzMXZzSmxvLWdMa1U3eUxjVnBVZ29YMkpuQ2Z1bG13Q0VTRWFBaUMwNm1XQks3TURKMVZzckVmSUdJbE03Y0pzajdlVnZuR2FmbC1KY1l2QzYtZXRkNWdqaFpPcVc2UXNLbQ?oc=5",
+     "source": "NDTV",
+     "sources": [
+      "Daily Thanthi",
+      "Deccan Chronicle",
+      "Dinamani",
+      "Filmibeat Tamil",
+      "India Today",
+      "Inshorts",
+      "NDTV",
+      "Nakkheeran",
+      "The Hindu"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-21T19:57+05:30",
+     "score": 10.96,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Anirudh Ravichander-Kavya Maran's Wedding Reception: Rajinikanth, Kamal Haasan, Vijay Among Guests",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQjh1VnBTMWtBRlpYbkxlLTgwajdEN1ZBaWNRZ1M3a1RLZDJnM3NWamtnY0NvWkNBR1hZZ2Jpd2FUTEVIclV2VW5JS21ray1YTWx6bTU3WVdQOGlRc1BBb0JtN1dPZEJ0QjZ5SFFpSVBPb0pBNE1qTjF0SFp4Nmk1NmlsaUF3UzdCRWNhQzU3bUhneHdYVjh3ekN4RUtVdndoUEJCcjJLZXBFWTBQcVJ1RjY5M0JLWnJJR0UxeHZrWWdNeVJjNUhGOGtsOHM3Mkpw0gHYAUFVX3lxTE1FNV9qYVphWFFWcl9UMk1DeTJmRWJmTC1LLTBtVUdVblZyQkc1QVdqSWpfekJMMmFXUmVwUnpBNGVaTS03Yzl2QnVJOU1Pcl9HOVZBQUxOYW92YTByUUlZUHFXbUl6SEhoUzZ5dGpnM1NISjBTLUEzMXZzSmxvLWdMa1U3eUxjVnBVZ29YMkpuQ2Z1bG13Q0VTRWFBaUMwNm1XQks3TURKMVZzckVmSUdJbE03Y0pzajdlVnZuR2FmbC1KY1l2QzYtZXRkNWdqaFpPcVc2UXNLbQ?oc=5",
+       "publishedAt": "2026-11-21T19:57+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘China working to suppress India’s rise, backed Pakistan after Operation Sindoor’: US panel’s report",
+     "link": "https://www.hindustantimes.com/india-news/china-working-to-suppress-india-s-rise-backed-pakistan-after-operation-sindoor-us-panel-s-report-101795272505336.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Deccan Chronicle",
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "THE WEEK",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-21T21:25+05:30",
+     "score": 9.2,
+     "summary": "The report said that the episode showed how China could bolster Pakistan during a crisis without entering hostilities directly.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/sharif_xi_1795273954316_DTKB_1795273954483_UIk6_52c2c74e-4fa1-4ade-bdf1-7d8a797a6b3d_DI0w.png",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "‘China working to suppress India’s rise, backed Pakistan after Operation Sindoor’: US panel’s report",
+       "link": "https://www.hindustantimes.com/india-news/china-working-to-suppress-india-s-rise-backed-pakistan-after-operation-sindoor-us-panel-s-report-101795272505336.html",
+       "publishedAt": "2026-11-21T21:25+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Working to curb India’s rise': US report flags China's support to Pak during Op Sindoor",
+       "link": "https://timesofindia.indiatimes.com/india/working-to-suppress-indias-rise-us-panel-report-flags-chinas-support-to-pakistan-during-operation-sindoor/articleshow/136056716.cms",
+       "publishedAt": "2026-11-21T20:10+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "'China Backed Pakistan During Operation Sindoor To Curb India's Rise': US Panel",
+       "link": "https://www.ndtv.com/world-news/china-backed-pakistan-during-operation-sindoor-to-curb-indias-rise-us-panel-12359123#publisher=newsstand",
+       "publishedAt": "2026-11-21T19:01+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Working to suppress India’s rise': US panel report flags China's support to Pakistan during Operation Si",
+       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVjVQVkpveVducTlDTHUzWlBjYlpGSThLbFpnR2FKclZmaEZPMmc2ZWlSUTlGR01scXR4aTNua0xMSm01bTdwcFUtMHM1Q3dXRzJ1TThUUC1MN0xqazFBVkpZdXFDbWQ0a0tPcUxRWURnbFJQNlZyX1NGT0ZhMDg5SlpralJLT0tuNzN4a25LZHZrd3ZHYkNWSTdreF9LRDB2dHRMVlRFQVRaSEVDYWdpR1VuNl9hTzJnSFJCWWtlS2NqVUpMeU5qa3kxWkp2Tnd3NUtDNTl1bktlV3Fwcm1JdENacXk1QmpIcF9reDFTUGgtSW83ZUYtdTd1ZVExQWtXbDR3?oc=5",
+       "publishedAt": "2026-11-21T20:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Yuzvendra Chahal joins BJP as OBC Morcha member, thanks PM Modi, other leaders for a ‘place in the family’",
+     "link": "https://www.hindustantimes.com/india-news/cricketer-yuzvendra-chahal-joins-bjp-appointed-as-special-invitee-to-obc-morcha-national-committee-101795279356508.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "NDTV",
+      "The New Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-21T22:20+05:30",
+     "score": 7.92,
+     "summary": "The other two appointees are Advait Charan Gananayak from Odisha and advocate Seema Samriddhi Kushwaha from Uttar Pradesh.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/chahal_pti_1795279598293_AXVy_1795279606583_s8Pa_6161b2b7-d113-4d13-9253-6297e8dbd2b8_L1d6.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Yuzvendra Chahal joins BJP as OBC Morcha member, thanks PM Modi, other leaders for a ‘place in the family’",
+       "link": "https://www.hindustantimes.com/india-news/cricketer-yuzvendra-chahal-joins-bjp-appointed-as-special-invitee-to-obc-morcha-national-committee-101795279356508.html",
+       "publishedAt": "2026-11-21T22:20+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Yuzvendra Chahal Joins BJP, Gets Role In Party's OBC Morcha Committee",
+       "link": "https://www.ndtv.com/india-news/yuzvendra-chahal-joins-bjp-gets-role-in-partys-obc-morcha-committee-12359712#publisher=newsstand",
+       "publishedAt": "2026-11-21T22:12+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Cricketer Yuzvendra Chahal joins BJP, gets role in OBC committee",
+       "link": "https://timesofindia.indiatimes.com/india/cricketer-yuzvendra-chahal-joins-bjp-gets-role-in-obc-morcha-executive-committee/articleshow/136059077.cms",
+       "publishedAt": "2026-11-21T22:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "\"People Bought Less Gold, Prices Fell\": PM Modi Recalls His May Appeal",
+     "link": "https://www.ndtv.com/india-news/gold-prices-people-bought-less-gold-prices-fell-pm-narendra-modi-recalls-his-may-appeal-12359755#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "DNA India",
+      "Deccan Herald",
+      "Hindustan Times",
+      "Inshorts",
+      "NDTV",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T22:08+05:30",
+     "score": 7.2,
+     "summary": "PM Modi had appealed to the nation to avoid buying gold in May, when India's foreign exchange came under pressure with the Middle East conflict pushing up crude prices.",
+     "image": "https://c.ndtvimg.com/2026-11/q534tms_modi-gold_625x300_21_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "\"People Bought Less Gold, Prices Fell\": PM Modi Recalls His May Appeal",
+       "link": "https://www.ndtv.com/india-news/gold-prices-people-bought-less-gold-prices-fell-pm-narendra-modi-recalls-his-may-appeal-12359755#publisher=newsstand",
+       "publishedAt": "2026-11-21T22:08+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "PM Modi says people bought less gold on his advice, invokes Lal Bahadur Shastri: ‘India still has same character’",
+       "link": "https://www.hindustantimes.com/india-news/pm-modi-says-people-bought-less-gold-on-his-advice-invokes-lal-bahadur-shastri-india-still-has-same-character-101795271137688.html",
+       "publishedAt": "2026-11-21T20:07+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-21T22:00+05:30",
    "generatedAt": "2026-11-21T22:13+05:30",
@@ -29585,213 +29774,6 @@
        "title": "Watch: CCTV captures chilling moment Brooklyn apartment building collapses, killing 8",
        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV29mMFg1dWd1VEx1THU3SUZYVHpDYlE5TkVycmJTcGtubHRTT3B2bmpwTnVKT2VxOUdveEpLd0Z0ZWtrS3BGMlAtc29idUxoWVB1V09aaW1tclU5N0sxRE9EMzhCTHBFSV9qRnpZcWZUVzNyVDhnMVByQkFzV0tQdlRJZVlvZGtPcGJ3QWxIWFJGMDNMNENtTmNvbVlJM1lnZUdGMjRwaEx0TVZvMXJMdDVHbUlCZXNwck1mcEVHTHREQkN1VEZtazBHOFVnbGwwS2tZQU5xQlFQU2h0QkJpZ3hsVGNsSnVMU1HSAe8BQVVfeXFMTXU4T1FoRGg1ZUJpVVAyZU1WOGxOUVhiUVRXVWZqczRDNVZPajZrNVJYY0FSUU5FRDVsMkRXbUhJTi1WZm5uLW5hODJLNHJCaGFMMWlCVzVTYVR3UkFZRVhkejk1NER1WGpET2ZUdDJlTW1obG1kb3ZJWGNlR2psbkR6YndCMXlmS1p3MWxoU1ZlMW14LUw1aVByZnY5a1NOUXRYZDNEcUNTalk1VEEwaERYSXcyNHlkZlhfMkR5X2NFZkFYU2EzdXJ2ekhia2U2QTV5ZWdrcU11UXloc2hGclBkaVBkYm4yOXQ3LTJfbUk?oc=5",
        "publishedAt": "2026-11-13T22:38+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-14T01:00+05:30",
-   "generatedAt": "2026-11-14T01:22+05:30",
-   "feeds": 16,
-   "headlines": 235,
-   "stories": [
-    {
-     "title": "How will the US deal with Nvidia scandal?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC News",
-      "CNN",
-      "Engelsberg Ideas",
-      "Fortune",
-      "NDTV",
-      "NDTV Profit",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-14T00:27+05:30",
-     "score": 9.96,
-     "summary": "Tech giant CEO resigned and will testify before Congress.",
-     "image": "https://c.ndtvimg.com/2026-11/qfdrmovk_scott-bessent-howard-lutnick-afp_625x300_13_November_26.jpeg",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "How will the US deal with Nvidia scandal?",
-       "link": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
-       "publishedAt": "2026-11-14T00:27+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Who Is To Blame? Team Trump Turns On Each Other Over Nvidia 'Spy' Scandal",
-       "link": "https://www.ndtv.com/world-news/who-is-to-blame-team-trump-turns-on-each-other-over-nvidia-spy-scandal-jensen-huang-12324238#publisher=newsstand",
-       "publishedAt": "2026-11-13T23:54+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-13T21:10+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Nvidia scandal just the tip of the iceberg? How China's spy machine plays a bigger game",
-       "link": "https://timesofindia.indiatimes.com/world/us/nvidia-scandal-just-the-tip-of-the-iceberg-how-chinas-spy-machine-plays-a-bigger-game/articleshow/135806011.cms",
-       "publishedAt": "2026-11-13T19:37+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Nvidia scandal just the tip of the iceberg? How China's spy machine plays a bigger game",
-       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRklRelRkaEM4ZjhScDM5MFJZX3d4QVFhbjNLTDZKbFN2QzUtQWhGNkFmSnRlUE1OTnRHX3JRXzc2TmJfekN2YVNXczJaZnJrS2U5UWFKLWx0TjVkS0xESjFHLXM2UDlXWmxrTzNxcG1wejcwczFWcUxSMTZCSjFKalU3TXJjeVpYbE96Z3hwZ1pBZ2txUEYza2NpZllScm53ZFFkaks4Z1piRmRnQ3p5TWRxR2czUkFxeVJFbGVDZmI2T1dmRElkM0dpLWpHY2NpdXg5VmI4ZXEzel9BM2xpY0pzR3o4eUpRdXdjVA?oc=5",
-       "publishedAt": "2026-11-13T19:37+05:30"
-      }
-     ]
-    },
-    {
-     "title": "What Caused Global Microsoft Outage That Disrupted Outlook, Teams, Copilot",
-     "link": "https://www.ndtv.com/world-news/microsoft-says-global-outage-caused-during-network-upgrade-not-by-cyber-or-ai-agents-12324098#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "AP News",
-      "BBC",
-      "NDTV",
-      "TechCrunch",
-      "The Guardian",
-      "The Hindu",
-      "The Japan Times",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-13T23:46+05:30",
-     "score": 9.03,
-     "summary": "The IT company behind some of the world's most popular office software apologised for the disruption that impacted critical services in dozens of countries.",
-     "image": "https://c.ndtvimg.com/2026-11/g1g37ki8_microsoft-source-unsplash_625x300_13_November_26.jpg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "What Caused Global Microsoft Outage That Disrupted Outlook, Teams, Copilot",
-       "link": "https://www.ndtv.com/world-news/microsoft-says-global-outage-caused-during-network-upgrade-not-by-cyber-or-ai-agents-12324098#publisher=newsstand",
-       "publishedAt": "2026-11-13T23:46+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Microsoft apologises and explains what is causing Outlook, Teams outage",
-       "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-apologises-and-explains-what-is-causing-outlook-teams-outage-says-not-related-to-cyber-or-ai/articleshow/135813059.cms",
-       "publishedAt": "2026-11-13T23:30+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-       "publishedAt": "2026-11-13T23:11+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Microsoft Outage LIVE: Microsoft begins restoring Outlook, Teams and other services after global outage",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
-       "publishedAt": "2026-11-13T22:32+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Turkey And Qatar Sign Defence Agreement To Strengthen Ties",
-     "link": "https://www.ndtv.com/world-news/turkey-and-qatar-sign-defence-agreement-to-strengthen-ties-12324130#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "Daily Sabah",
-      "Fana News -",
-      "NDTV",
-      "The Economic Times",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T00:11+05:30",
-     "score": 7.3,
-     "summary": "The announcement came after Erdogan met Qatari Emir Sheikh Tamim bin Hamad Al Thani in Istanbul.",
-     "image": "https://c.ndtvimg.com/2026-11/l8ujq6f_qatar-turkey-afp_625x300_13_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Turkey And Qatar Sign Defence Agreement To Strengthen Ties",
-       "link": "https://www.ndtv.com/world-news/turkey-and-qatar-sign-defence-agreement-to-strengthen-ties-12324130#publisher=newsstand",
-       "publishedAt": "2026-11-13T23:17+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Turkey, Qatar sign mutual defence pact: Presidency",
-       "link": "https://economictimes.indiatimes.com/news/defence/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says/articleshow/135809416.cms",
-       "publishedAt": "2026-11-13T21:41+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Turkiye and Qatar sign mutual defence agreement",
-       "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
-       "publishedAt": "2026-11-13T21:19+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Students among 24 dead in bus-truck collision in Assam’s Kaziranga",
-     "link": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Reuters",
-      "The Hindu",
-      "The New Indian Express"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T00:01+05:30",
-     "score": 7.27,
-     "summary": "Officials suspected that overspeeding by the minibus, travelling from Golaghat to central Assam’s Nagaon, caused the accident",
-     "image": "https://th-i.thgim.com/public/incoming/ocoxez/article71698157.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-13%20at%206.13.51%20PM.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Students among 24 dead in bus-truck collision in Assam’s Kaziranga",
-       "link": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
-       "publishedAt": "2026-11-14T00:01+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "24 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga",
-       "link": "https://www.ndtv.com/india-news/16-feared-dead-several-injured-in-truck-bus-collision-in-assam-s-kaziranga-12322234#publisher=newsstand",
-       "publishedAt": "2026-11-13T23:10+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "‘Vehicle overloaded, running at 100 km/h, crossed into wrong lane’: Survivors of deadly bus-truck collision in Assam",
-       "link": "https://www.hindustantimes.com/india-news/vehicle-overloaded-running-at-100-km-h-crossed-into-wrong-lane-survivors-of-deadly-bus-truck-collision-in-assam-101794587976981.html",
-       "publishedAt": "2026-11-13T23:07+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
-     "source": "The Hindu",
-     "sources": [
-      "AP News",
-      "BBC",
-      "TechCrunch",
-      "The Hindu",
-      "The Japan Times"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-13T22:32+05:30",
-     "score": 7.03,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
-       "publishedAt": "2026-11-13T22:32+05:30"
       }
      ]
     }
