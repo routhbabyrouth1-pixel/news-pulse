@@ -1,6 +1,188 @@
 {
- "updated": "2026-11-22T01:16+05:30",
+ "updated": "2026-11-22T02:09+05:30",
  "hours": [
+  {
+   "hour": "2026-11-22T02:00+05:30",
+   "generatedAt": "2026-11-22T02:09+05:30",
+   "feeds": 16,
+   "headlines": 212,
+   "stories": [
+    {
+     "title": "BJP appoints Yuzvendra Chahal as special invitee to OBC Morcha executive committee",
+     "link": "https://www.thehindu.com/news/national/bjp-appoints-yuzvendra-chahal-as-special-invitee-to-obc-morcha-executive-committee/article71729445.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-22T00:58+05:30",
+     "score": 9.18,
+     "summary": "BJP national president Nitin Nabin on November 21, 2026, announced fresh appointments of national office-bearers, national executive members, and department heads for its OBC Morcha with immediate effect",
+     "image": "https://th-i.thgim.com/public/incoming/o7g44c/article71729446.ece/alternates/LANDSCAPE_1200/PTI11_21_2026_000328B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "BJP appoints Yuzvendra Chahal as special invitee to OBC Morcha executive committee",
+       "link": "https://www.thehindu.com/news/national/bjp-appoints-yuzvendra-chahal-as-special-invitee-to-obc-morcha-executive-committee/article71729445.ece",
+       "publishedAt": "2026-11-22T00:58+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Yuzvendra Chahal Joins BJP, Gets Role In Party's OBC Morcha Committee",
+       "link": "https://www.ndtv.com/india-news/yuzvendra-chahal-joins-bjp-gets-role-in-partys-obc-morcha-committee-12359712#publisher=newsstand",
+       "publishedAt": "2026-11-21T22:42+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Yuzvendra Chahal joins BJP as OBC Morcha member, thanks PM Modi, other leaders for a ‘place in the family’",
+       "link": "https://www.hindustantimes.com/india-news/cricketer-yuzvendra-chahal-joins-bjp-appointed-as-special-invitee-to-obc-morcha-national-committee-101795279356508.html",
+       "publishedAt": "2026-11-21T22:20+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Cricketer Yuzvendra Chahal joins BJP, gets role in OBC committee",
+       "link": "https://timesofindia.indiatimes.com/india/cricketer-yuzvendra-chahal-joins-bjp-gets-role-in-obc-morcha-executive-committee/articleshow/136059077.cms",
+       "publishedAt": "2026-11-21T22:02+05:30"
+      },
+      {
+       "source": "India Today",
+       "title": "Cricketer Yuzvendra Chahal joins BJP, appointed member of party's OBC Morcha",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPellMa3UzaXEwUWFZeU9vSkt2a2h1aE9FbENGaTBNSWczd2JmWjFRdUREdWdmVnNJeVAwbTJIN1NaTVBrdFpqbkhCeUJqc2F4VENOTF9qZXlzeGp2X1N6YUZCdkFqSVZuMGNabEtGbVNlVl9CZG1ub3ZzSHV5d1Z4OW0zazNXYjNYcm9WYThTNTJ6VmluazU0QkVBZmN3TGFPZjlZQmJWNi1ScjB1OXB3cUZid1B6azVha3lNVUM2VjRub0o0aWVqNDVGWEdPS3ZCRmdmUUw2cDlUMFVKSTR1RVd3?oc=5",
+       "publishedAt": "2026-11-21T21:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘China working to suppress India’s rise, backed Pakistan after Operation Sindoor’: US panel’s report",
+     "link": "https://www.hindustantimes.com/india-news/china-working-to-suppress-india-s-rise-backed-pakistan-after-operation-sindoor-us-panel-s-report-101795272505336.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Deccan Chronicle",
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "THE WEEK",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-21T21:25+05:30",
+     "score": 7.96,
+     "summary": "The report said that the episode showed how China could bolster Pakistan during a crisis without entering hostilities directly.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/sharif_xi_1795273954316_DTKB_1795273954483_UIk6_52c2c74e-4fa1-4ade-bdf1-7d8a797a6b3d_DI0w.png",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "‘China working to suppress India’s rise, backed Pakistan after Operation Sindoor’: US panel’s report",
+       "link": "https://www.hindustantimes.com/india-news/china-working-to-suppress-india-s-rise-backed-pakistan-after-operation-sindoor-us-panel-s-report-101795272505336.html",
+       "publishedAt": "2026-11-21T21:25+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Working to curb India’s rise': US report flags China's support to Pak during Op Sindoor",
+       "link": "https://timesofindia.indiatimes.com/india/working-to-suppress-indias-rise-us-panel-report-flags-chinas-support-to-pakistan-during-operation-sindoor/articleshow/136056716.cms",
+       "publishedAt": "2026-11-21T20:10+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Working to suppress India’s rise': US panel report flags China's support to Pakistan during Operation Si",
+       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVjVQVkpveVducTlDTHUzWlBjYlpGSThLbFpnR2FKclZmaEZPMmc2ZWlSUTlGR01scXR4aTNua0xMSm01bTdwcFUtMHM1Q3dXRzJ1TThUUC1MN0xqazFBVkpZdXFDbWQ0a0tPcUxRWURnbFJQNlZyX1NGT0ZhMDg5SlpralJLT0tuNzN4a25LZHZrd3ZHYkNWSTdreF9LRDB2dHRMVlRFQVRaSEVDYWdpR1VuNl9hTzJnSFJCWWtlS2NqVUpMeU5qa3kxWkp2Tnd3NUtDNTl1bktlV3Fwcm1JdENacXk1QmpIcF9reDFTUGgtSW83ZUYtdTd1ZVExQWtXbDR3?oc=5",
+       "publishedAt": "2026-11-21T20:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump says Iran deal could last 20 years, claims US removed Tehran leadership twice",
+     "link": "https://timesofindia.indiatimes.com/world/us/trump-says-iran-deal-could-last-20-years-claims-us-removed-tehran-leadership-twice-eyes-ultimate-regime-change/articleshow/136058892.cms",
+     "source": "Times of India",
+     "sources": [
+      "CBS News",
+      "Iran International",
+      "Telegraph India",
+      "The Times of India",
+      "The Times of Israel",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T21:51+05:30",
+     "score": 7.78,
+     "summary": "Donald Trump emphasizes that any deal with Iran must be robust enough to endure future changes in presidential leadership. He recognizes the challenges presented by Iran's current regime yet believes there might be potential for more reasonable negotiations. His goal is to secure a lasting pact that prevents Iran from developing nuclear capabilities.",
+     "image": "https://static.toiimg.com/photo/msid-136058938,imgsize-60408.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Trump says Iran deal could last 20 years, claims US removed Tehran leadership twice",
+       "link": "https://timesofindia.indiatimes.com/world/us/trump-says-iran-deal-could-last-20-years-claims-us-removed-tehran-leadership-twice-eyes-ultimate-regime-change/articleshow/136058892.cms",
+       "publishedAt": "2026-11-21T21:51+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Trump says Iran deal could last 20 years, claims US removed Tehran leadership twice, eyes 'ultimate regim",
+       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQREVzdTBXNXVhd3VERlJrNmZJV1RJS2t4R0tMcFdEUFhvWFlqWFBpRHYyQTNJalRfMWQ2dDQ0NUM3ZnZqM1Ixa2RXVkF2bW1UbW56cDk2ZWczRGxHM19lSm9IZWZsMjZhSzZoUWtIcV9QTVRiWjFXVVhmV0luc0t3VnI4czdPdUVjUEtkYkFrM0xQWmY2Q1MzV0NjamJ0aEhXQmRYYzgwRUVVUml6bkxVQU5ZQXBJME9TMERiMkxvVEJGMllhckhXZ1BWN2VQWGgzaGFHZk42TmtPUnpxb1AwNmVuUWkzbkQwdXpzVVNlZDhQZXBDMXNMaHdIYTRhMWhtSjNpenVLZnhHb2R0V1E?oc=5",
+       "publishedAt": "2026-11-21T21:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India tour of New Zealand 2026 1st Test match feature From learner to learning tree KL Rahul's Test evolution",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbk0wWldXbnY3OU1hVUV2NlM5clpEUzRmeVVDQzM2X21HTHdwZUJrMTFYWnBhTS10LUdlUGtIUHoxbFUxYkJxbUtjLWgxMVZZT3F5cTNxOVRmQUxZSEdWNC1pcGhvbE5IYUVWX1dORy00ZDlkUFJ3UV9iYlVCdUd1cFRHSEtkbnV6Vm1RWGMwcHdhOEpLbVo4czVQeERkcXFP?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "ICC",
+      "Rediff",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T00:09+05:30",
+     "score": 7.16,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "India tour of New Zealand 2026 1st Test match feature From learner to learning tree KL Rahul's Test evolution",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbk0wWldXbnY3OU1hVUV2NlM5clpEUzRmeVVDQzM2X21HTHdwZUJrMTFYWnBhTS10LUdlUGtIUHoxbFUxYkJxbUtjLWgxMVZZT3F5cTNxOVRmQUxZSEdWNC1pcGhvbE5IYUVWX1dORy00ZDlkUFJ3UV9iYlVCdUd1cFRHSEtkbnV6Vm1RWGMwcHdhOEpLbVo4czVQeERkcXFP?oc=5",
+       "publishedAt": "2026-11-22T00:09+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ENE Repeat Box Office Collection Day 3",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSnlmVlNrcU9RM0pXY21Gb3BuU2pWcmZOOVY4cTBHSldmdTJXTmFwaDVCR0Z0VXhyeUp1VUlOVERTUjJzcnBWV3FxbGZ6a3BSUzZJVXRJZGNwZ0FrYzJWVERaRFBNWFZmbENrTzctSFlGMDBob3ZDUmE4TWZMdDN2TDVMMA?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "Deccan Herald",
+      "Pinkvilla",
+      "Sacnilk",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T00:15+05:30",
+     "score": 6.79,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 3",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSnlmVlNrcU9RM0pXY21Gb3BuU2pWcmZOOVY4cTBHSldmdTJXTmFwaDVCR0Z0VXhyeUp1VUlOVERTUjJzcnBWV3FxbGZ6a3BSUzZJVXRJZGNwZ0FrYzJWVERaRFBNWFZmbENrTzctSFlGMDBob3ZDUmE4TWZMdDN2TDVMMA?oc=5",
+       "publishedAt": "2026-11-22T00:15+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-22T01:00+05:30",
    "generatedAt": "2026-11-22T01:16+05:30",
@@ -29624,168 +29806,6 @@
      "sourceCount": 5,
      "publishedAt": "2026-11-14T02:30+05:30",
      "score": 5.86,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "CNET",
-       "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 14, #986",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5",
-       "publishedAt": "2026-11-14T02:30+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-14T04:00+05:30",
-   "generatedAt": "2026-11-14T04:11+05:30",
-   "feeds": 16,
-   "headlines": 184,
-   "stories": [
-    {
-     "title": "US Grounds All Departing Flights Due To Communication Breakdown",
-     "link": "https://www.ndtv.com/world-news/us-grounds-all-departing-flights-due-to-communication-issue-impacting-all-air-traffic-control-centres-12324537#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "CNN",
-      "NBC News",
-      "NDTV",
-      "Reuters",
-      "The Guardian",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-14T03:43+05:30",
-     "score": 9.67,
-     "summary": "The Federal Aviation Administration grounded all flights nationwide Friday afternoon because of communications problems at regional air traffic control centers.",
-     "image": "https://c.ndtvimg.com/2026-09/irotk5ro_us-flights_625x300_22_September_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "US Grounds All Departing Flights Due To Communication Breakdown",
-       "link": "https://www.ndtv.com/world-news/us-grounds-all-departing-flights-due-to-communication-issue-impacting-all-air-traffic-control-centres-12324537#publisher=newsstand",
-       "publishedAt": "2026-11-14T03:43+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
-       "link": "https://timesofindia.indiatimes.com/business/international-business/extraordinary-circumstances-us-grounds-all-departing-flights-over-safety-concerns/articleshow/135816386.cms",
-       "publishedAt": "2026-11-14T02:37+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
-       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTVptMjJvOVhpWXRZVm5UVzdXM3V0blNNU3o4NzNhSjZTUDFyNHQzaWEyT3BvdUJjZ24yWG9lSnVmazNTWHQxZ1VZYkF6ZVNPV1NkS2U4ZDJlLWl6VEtwaXo1VXpuY2hJeUlyaHdLT1JRZkpVNWQwX0hURWRNaDBqNTNJazQ0bkJHMDFkeklISlZUYmxVREJvTXdzSEpUREttV2R5TmZaMXIxZzN2ZGpfb0RHSHRNVFlfUko1Nzh2d0FHcHY2WnJtN1hhTXk3cXVUVTZaTmxPLXZsLXlBVzFKTEZ3X0tsUFlJMFFydi12R2hyMWZvNFdkdDJNckNYVzdSVzU4X1dn?oc=5",
-       "publishedAt": "2026-11-14T02:37+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
-     "source": "The Hindu",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "Forbes",
-      "TechCrunch",
-      "The Hindu"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T02:13+05:30",
-     "score": 7.17,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
-       "publishedAt": "2026-11-14T02:13+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Pak 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
-     "link": "https://timesofindia.indiatimes.com/india/pakistan-80-years-old-cant-appropriate-indus-valley-civilisation-culture-minister/articleshow/135816035.cms",
-     "source": "Times of India",
-     "sources": [
-      "News On AIR",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "ThePrint",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T01:54+05:30",
-     "score": 7.12,
-     "summary": "Hopes Islamabad Will Join SCO Civilisational Dialogue Forum In Delhi",
-     "image": "https://static.toiimg.com/photo/msid-135816047,imgsize-94056.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Pak 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
-       "link": "https://timesofindia.indiatimes.com/india/pakistan-80-years-old-cant-appropriate-indus-valley-civilisation-culture-minister/articleshow/135816035.cms",
-       "publishedAt": "2026-11-14T01:54+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Pakistan 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGRnMjVTZzRLMlFmZi1pM1VUc29iSDBjRXo2REc0MXo5bVY3aEhjeFppbGRxRFNVRE91bDdqM2lBNXplTFJxWW5oR1F6UFNaLU5SWjB6RkdFUE1fM2FzTHNZUklKcWhrSXlHMUgtNERpTWR4d0hmVXFKUk1iV1gxTEJlNERYVlNMcFJfWnZMWlN5OUhLbVBrZ05haDlnODlJOWFnSDAxTnRMUmlJLUVTTVN6VXBGTzNiM1d1ZWZlQ1VIZ1VabGMwNFY2bUUtLVJQZW9VbmF2enBKdWo4Y1pqdHYtOA?oc=5",
-       "publishedAt": "2026-11-14T01:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Delhi's air turns 'hazardous' as AQI hits 494; 16 stations in 'severe' zone",
-     "link": "https://timesofindia.indiatimes.com/city/delhi/delhis-air-turns-hazardous-as-aqi-hits-494-16-stations-record-severe-pollution-50-workforce-told-to-work-from-home/articleshow/135810317.cms",
-     "source": "Times of India",
-     "sources": [
-      "BW People",
-      "Instagram",
-      "Moneycontrol.com",
-      "News18",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-13T22:25+05:30",
-     "score": 6.15,
-     "summary": "Delhi's air quality index has plunged into the severe category, prompting government officials to enforce work from home policies. Environment Minister Manjinder Singh Sirsa and Transport Minister Pankaj Singh have initiated these measures to safeguard health. Major contributors to the pollution include vehicular emissions, which accounted for over 31% of PM2.5 levels. Medical experts caution that children are…",
-     "image": "https://static.toiimg.com/photo/msid-135810864,imgsize-915828.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Delhi's air turns 'hazardous' as AQI hits 494; 16 stations in 'severe' zone",
-       "link": "https://timesofindia.indiatimes.com/city/delhi/delhis-air-turns-hazardous-as-aqi-hits-494-16-stations-record-severe-pollution-50-workforce-told-to-work-from-home/articleshow/135810317.cms",
-       "publishedAt": "2026-11-13T22:25+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Delhi's air turns 'hazardous' as AQI hits 494; 16 stations record severe pollution, 50% workforce told to",
-       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTFpfUHRRX3hHQjRzLVNOYnBaaktCQ0tQcl8zRDR0RjNLNFRjRE9nMlA0ZFlnMVQ0VlRsYWpkZFRCNzVSTnNmYVI1VlZGMTJsOFB5dktqRFdVanRaazN0VkUyR1ZpVEtFS1pVelVEakppZzhOLXdnS3lqZ1IxeDFKNXJ0QTBONHVCQzBYQ0otaTlhVHZ1bHRwUnVCU0FWaXdPd285RW90dVQ0TWVIWUR4QXdNSGdCLVJYU1FmRnFtd1NkWC1PR2VOVGZtT1cxTG5PQkFFOWRjMzBUblFHMEVuMjYyVlJUYnFwMnBZQ1dDenFoUVN6RjVCMUkxX2xlOEloQXh0WjRGUDc1N3FKY2NVNldMcE5VQQ?oc=5",
-       "publishedAt": "2026-11-13T22:25+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 14, #986",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5",
-     "source": "CNET",
-     "sources": [
-      "CNET",
-      "Mashable",
-      "PC Guide",
-      "TechRadar",
-      "The New York Times"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T02:30+05:30",
-     "score": 6.02,
      "summary": "",
      "image": null,
      "articles": [
