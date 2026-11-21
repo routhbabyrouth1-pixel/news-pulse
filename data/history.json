@@ -1,6 +1,190 @@
 {
- "updated": "2026-11-21T11:24+05:30",
+ "updated": "2026-11-21T12:34+05:30",
  "hours": [
+  {
+   "hour": "2026-11-21T12:00+05:30",
+   "generatedAt": "2026-11-21T12:34+05:30",
+   "feeds": 17,
+   "headlines": 330,
+   "stories": [
+    {
+     "title": "Cricket Australia extends unanimous support to captain Pat Cummins",
+     "link": "https://indianexpress.com/article/sports/cricket/cricket-australia-extends-unanimous-support-to-captain-pat-cummins-10972354/",
+     "source": "The Indian Express",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Exchange4Media",
+      "Financial Times",
+      "Sky Sports",
+      "The Guardian",
+      "The Indian Express",
+      "cricket.com.au"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-21T09:45+05:30",
+     "score": 9.28,
+     "summary": "",
+     "image": "https://images.indianexpress.com/2026/11/cummins-1.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Cricket Australia extends unanimous support to captain Pat Cummins",
+       "link": "https://indianexpress.com/article/sports/cricket/cricket-australia-extends-unanimous-support-to-captain-pat-cummins-10972354/",
+       "publishedAt": "2026-11-21T09:45+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Cummins gets 'unanimous support' from Cricket Australia amid 2018 fallout",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWM3czBUYnVJOWZuNXZ6TE9Mb2d4WnUtSmd1V00wYVdNSk95REdnT3ZIU05na2JYUUZqVTJKQmtycHlSZW9aOVdOd0tLSEt2WDIwMWRjWDJKcjhGc0w1ZjJ0MWl5VTh4ZXhMTGxPTE9EcUJZUWxmUUkzN1J0Z0NEaVR5aDNOdzJ2R0hqUU5OWV9SNThtRjMyY2ZyVDlVVlFSa18tY0ZlUEVsT2o5Rmg3Vl9SWdIBxAFBVV95cUxNZG5Mdm1xNHhkc3FwakljQTJJcDVDWXhMZmszVXBKMjY4bkNGS3AwYlh0czJjcGNCQnBEbkJ5YUt2bWxjZ0hpRlEyb3lSMUVXZmFJQjJWbWpvZGRWZDI0LWQ4ZUJXNXYxQmdPZlN6bWtrTVhrcTZoVFlsbHhyV0xvTzhCRGVVOWhxVV9qZjE3dHZKa3gwRy0xckNyQzlBOU82T0VrQUc5bDFuM1RTa2JZeXBBYkhyWjhNVzl2MEczTW1ObHRV?oc=5",
+       "publishedAt": "2026-11-21T08:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "FBI hacked again: Hackers target crime database",
+     "link": "https://economictimes.indiatimes.com/news/new-updates/fbi-hacked-again-hackers-target-worlds-top-investigating-agencys-crime-database-used-by-police-across-us/articleshow/136044594.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "CNN",
+      "Hindustan Times",
+      "India Today",
+      "Mint",
+      "News.com.au",
+      "The Economic Times",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-21T09:52+05:30",
+     "score": 9.05,
+     "summary": "The FBI is investigating a suspected breach of its nationwide criminal database, the second reported intrusion involving bureau systems since September. The incident comes as Director Kash Patel says the FBI is taking on cybercriminals globally through Operation Winter Shield.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/FBI_Kash_Patel_1795234164457_hr57_1795234168556_NfsU_78146b30-8571-4b27-8abd-78847e4ccf6f_EKLm.png",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "FBI hacked again: Hackers target crime database",
+       "link": "https://economictimes.indiatimes.com/news/new-updates/fbi-hacked-again-hackers-target-worlds-top-investigating-agencys-crime-database-used-by-police-across-us/articleshow/136044594.cms",
+       "publishedAt": "2026-11-21T09:52+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Hackers target FBI again, second breach since September; Kash Patel says bureau taking on cybercriminals globally",
+       "link": "https://www.livemint.com/news/us-news/hackers-target-fbi-again-second-breach-since-september-kash-patel-says-bureau-taking-on-cybercriminals-globally-11795233961169.html",
+       "publishedAt": "2026-11-21T09:42+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "FBI hacked again: Cyberattack targets national crime database used by US police",
+       "link": "https://timesofindia.indiatimes.com/world/us/fbi-hacked-again-cyberattack-targets-national-crime-database-used-by-us-police/articleshow/136043879.cms",
+       "publishedAt": "2026-11-21T09:07+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "FBI database hacked for second time in months, breach targets US crime records | Hindustan Times",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYWwtNVJKRFFZMk93RVNkLXJiRW9ncU4xVzBWdGJGTi0xRU5OQ0t0ZjlBcWhXUXZ4UEpDeDhqN1J2YUVNcUJ6WUZJTjY3THZ0VmR3MkJuN04xR2pDMGlMVG5BUW5MT283aEU4RWVtTHV3STk1emNLT3F1QkxDSVYwdUdmM0tZZGRqeDE0LTZDUmN4eFFGY0hpWktadkVKOV9qVmtvRHNZSHNacEdndEhiQjhxZE5KaEZPSDA3VEozdHlPTFgzWmo4Qmxia1Ywc1g2Vkl5enhKOTNiNnNsV1Z3SVhB0gHnAUFVX3lxTE9KMWl3YWliWHI5REdYeHFkMm44eGFNTWItSTMwQ3pTOEtiN0I1dXRiV3U1NUEtNGFpOWlUWVlvVnhiSkp1T0FFcTJ2eWZQbnE3eXBYUURWWnVOSllBRXpRTl8yUTVqQWw2d0xTOXFMbzJ2aHRYcHdRTFE5WVh4ZDlsZGpuQjZIekY3bEY2NUMxVGFqVnVxbExJeFNUMC1yRnlYdF9DWWEyM1dwNXBvcHUyVTB6NG9nU1hYYWV1TGpHX3MwOFMzVW80X0tkTXZQdHhZYUpaazlsNEdrXzhkMlBrRHRONTlrcw?oc=5",
+       "publishedAt": "2026-11-21T08:18+05:30"
+      }
+     ]
+    },
+    {
+     "title": "IND vs NZ: KL Rahul hits century, Gill misses ton by two runs as India dominate",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-1st-test-kl-rahul-hits-century-shubman-gill-misses-ton-by-two-runs-as-india-dominate/articleshow/136046678.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "NZ Herald",
+      "Rediff",
+      "Telegraph India",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T11:41+05:30",
+     "score": 8.35,
+     "summary": "Captain Shubman Gill came close to scoring a century but was dismissed for 98 in the final over of the day. Jacob Duffy bowled him just two runs short of the landmark. Rishabh Pant remained unbeaten on 55, while nightwatchman Anshul Kamboj was yet to open his account at stumps.",
+     "image": "https://static.toiimg.com/photo/msid-136046758,imgsize-48307.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "IND vs NZ: KL Rahul hits century, Gill misses ton by two runs as India dominate",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-1st-test-kl-rahul-hits-century-shubman-gill-misses-ton-by-two-runs-as-india-dominate/articleshow/136046678.cms",
+       "publishedAt": "2026-11-21T11:41+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "Rahul ton, Gill 98 headline productive batting day for India",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVkN5dXdkQXBfWXFHY2ViVm1uWTNhNUNET1BIXzBzU0VLNEl0Wkg4U2xEdy1RNTlnOWRGSklGUm5iaF9JZVAzdWh6bWlYM0J5Rkdlcm40TnNfSFI4T2lvMXp0Nk1OLTJBWk9VbFhyZHpWNjJsaTNsZVdpb195UmRYQ3VaTXVvaEs4bGlUc3c4UWdTWEZvNmZadzJrM1M4V21sUmJjVDlrUQ?oc=5",
+       "publishedAt": "2026-11-21T11:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+     "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNN",
+      "The Guardian",
+      "The New York Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T11:30+05:30",
+     "score": 8.32,
+     "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+       "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-21T11:30+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yRmVMTXFxck1qSnhnYmx5U0QtSlVXblpFUTdfVGwyaGt1V2JUSmEySFZIcDJwd3I1ZjVmbV9mVUNWdkhsRlo3cXlzbjV0ZW5nMkZLWC14ejBkMjg?oc=5",
+       "publishedAt": "2026-11-21T11:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Salman Khan apologised to Shraddha for Maatrubhumi-Eetha clash: ‘Not clashing with Shah Rukh Khan’",
+     "link": "https://indianexpress.com/article/entertainment/bollywood/salman-khan-apologised-shraddha-maatrubhumi-eetha-clash-shah-rukh-khan-king-10972401/",
+     "source": "The Indian Express",
+     "sources": [
+      "Hindustan Times",
+      "IMDb",
+      "MovieTalkies",
+      "NDTV",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-21T12:18+05:30",
+     "score": 7.09,
+     "summary": "",
+     "image": "https://images.indianexpress.com/2026/11/Salman-clashes-with-Shraddha-Kapoor-1.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Salman Khan apologised to Shraddha for Maatrubhumi-Eetha clash: ‘Not clashing with Shah Rukh Khan’",
+       "link": "https://indianexpress.com/article/entertainment/bollywood/salman-khan-apologised-shraddha-maatrubhumi-eetha-clash-shah-rukh-khan-king-10972401/",
+       "publishedAt": "2026-11-21T12:18+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Salman Khan says there's ‘no way’ Maatrubhumi would clash with Shah Rukh Khan and Suhana's King; okay to face off Avengers Doomsday, Dune 3 | Bollywood",
+       "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQMVV0b21RSFpxd2F1R0tPRDhENXMwdnJvRnp0S0FUWHlwUWNHeDVtdTFDckFsRXZIaF9GemIwMU9jSEVHTUlHd3U4aC1JRUxheFBQaXFqQ25jTm45S1FaTFlEMjJWanZRUmxXTV9BVWtIZ2swN2NyY3U0M2E0YXFPS1ZFOW5qZWRZZ3JCREUxaElLSjZ4T3g2ZW9mRGhMV2ZmLUVrTEEwZnZ0UEZvM3R0TUNyUmV4UkJaUG84N0RSbDJGbE5pRF9pYXU4NklCVzNlSTZ5SHlTR2RkRjRhV1pYLWxLZW5UOGlxUTBEdFh2czhRVGpobW1rZU5NVU5fOF9sM1RtYjhzVlpnQmYwejlxTmtnc3J3TVI1OWRUbXlydjkxSlY0VS14QXlYT1hHVVdVQko00gG4AkFVX3lxTE54R0JDYU40akJqay1DbzZqcjVqYTA4NXhsak00a0x1VWtXeC1zY1piYUdPOE1kS3ZuVmJUMDhKb016cmk3NkpUV0FicnVSbmdPWGg0QVhhSkVsT0xocEtyT3FfR0FxdDd5ekY0STE2NUl5RVNnbXZ4bkJXNEw5aG4tMUN1Rk1yaUUwSFRLRGtVc3BHeVlxaXJmREF6enluS09zdGQzMGNvWXNBRFdvLVhpUlk0WlZyUHJxVlRfdTc5cFlkSUhFUUZ1R1JiX2ticE1QN3NrdFZyeVNPQ3BwRU1qX3F0U0FPVW5NdjFXbXJXTlNSVnFCQ2ZPSUJNMmNZOUhDM0VVV3ZfdGllRW0yOU1NbnBjaHJEMVFrLTNIbE9oTW1SUTJocTRNeWs3azlkbFR1S0JlZE1GTA?oc=5",
+       "publishedAt": "2026-11-21T09:22+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-21T11:00+05:30",
    "generatedAt": "2026-11-21T11:24+05:30",
@@ -29854,207 +30038,6 @@
        "title": "Mahli Beardman's dream debut powers Australia to crushing win over England in Perth",
        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbVR5T3cydmRIWFp1Ym13Y0RFa21VMTllQlhkcnJiT3hoc1V2aUhRaGdMR1BpRW11SUNDaUpBaU9TSDg3QV9fcTk5VzJoNHZ1OHNpVVkwcUx4R2VZa1EzRVUwUE5KRWpFbldqRmo1alhhS2xPNm92bXJtUVNaV0d4Y2V2SzlWbk5pelRsSmNTc1RjbGI1TGtIV1BXR1drWThWSG9oLXhKNEtUM3k1MnFKbi1B?oc=5",
        "publishedAt": "2026-11-13T14:33+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-13T14:00+05:30",
-   "generatedAt": "2026-11-13T14:24+05:30",
-   "feeds": 16,
-   "headlines": 301,
-   "stories": [
-    {
-     "title": "Modi in Bengaluru: PM flags off elevated stretch of Namma Metro Pink Line | LIVE",
-     "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "The New Indian Express",
-      "The Shillong Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-13T14:08+05:30",
-     "score": 10.46,
-     "summary": "PM Modi is also scheduled to inaugurate the Yeshwantpur-Madgaon Vande Bharat Express",
-     "image": "https://c.ndtvimg.com/2026-11/ls1l6q1s_pm-modi-bengaluru-metro-pink-line_625x300_13_November_26.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Modi in Bengaluru: PM flags off elevated stretch of Namma Metro Pink Line | LIVE",
-       "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
-       "publishedAt": "2026-11-13T14:08+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "PM Modi Inaugurates Bengaluru Metro's Pink Line, Takes Ride With DK Shivakumar",
-       "link": "https://www.ndtv.com/bangalore-news/pm-modi-inaugurates-bengaluru-metros-pink-line-takes-ride-with-dk-shivakumar-12321314#publisher=newsstand",
-       "publishedAt": "2026-11-13T13:49+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "PM Modi inaugurates Bengaluru Metro Pink Line: Route, timings, cost",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-inaugurates-bengaluru-metro-pink-line-route-timings-cost-and-other-key-details/articleshow/135791819.cms",
-       "publishedAt": "2026-11-13T13:19+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "PM Modi flags off Bengaluru Pink Line stretch",
-       "link": "https://economictimes.indiatimes.com/industry/transportation/railways/bengaluru-metro-pink-line-opens-south-bengaluru-commuters-get-a-new-7-5-km-route-as-pm-modi-flags-off-stretch-check-stations-and-train-timings/articleshow/135794401.cms",
-       "publishedAt": "2026-11-13T13:17+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "PM Modi flags off Bengaluru Metro’s Pink Line, undertakes ride with CM Shivakumar",
-       "link": "https://www.hindustantimes.com/india-news/pm-modi-flags-bengaluru-metro-pink-line-from-kalena-agrahara-undertakes-ride-with-karnataka-cm-shivakumar-101794555754620.html",
-       "publishedAt": "2026-11-13T13:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Centre Extends Ban On Hate Preacher Zakir Naik's Islamic Research Foundation",
-     "link": "https://www.ndtv.com/india-news/centre-extends-ban-on-hate-preacher-zakir-naiks-islamic-research-foundation-12320897#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "ANI News",
-      "Hindustan Times",
-      "NDTV",
-      "Rediff",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-13T12:56+05:30",
-     "score": 8.01,
-     "summary": "The statements and speeches made by Naik are objectionable and subversive and he has been promoting enmity and hatred amongst different religious groups, the ministry said.",
-     "image": "https://c.ndtvimg.com/2026-10/18df8imo_zakir-naik-_625x300_31_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Centre Extends Ban On Hate Preacher Zakir Naik's Islamic Research Foundation",
-       "link": "https://www.ndtv.com/india-news/centre-extends-ban-on-hate-preacher-zakir-naiks-islamic-research-foundation-12320897#publisher=newsstand",
-       "publishedAt": "2026-11-13T12:56+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "MHA declares Zakir Naik’s Islamic Research Foundation unlawful for another five years",
-       "link": "https://www.thehindu.com/news/national/mha-declares-zakir-naiks-islamic-research-foundation-unlawful-for-another-five-years/article71696626.ece",
-       "publishedAt": "2026-11-13T12:55+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Centre extends ban on Zakir Naik's Islamic Research Foundation for 5 years",
-       "link": "https://timesofindia.indiatimes.com/india/centre-extends-ban-on-zakir-naiks-islamic-research-foundation-for-5-years/articleshow/135790746.cms",
-       "publishedAt": "2026-11-13T10:54+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Centre extends ban on Zakir Naik’s Islamic Research Foundation for 5 more years",
-       "link": "https://www.hindustantimes.com/india-news/centre-extends-ban-on-zakir-naik-s-islamic-research-foundation-for-5-more-years-101794545794165.html",
-       "publishedAt": "2026-11-13T10:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "3 Indian-origin CEOs in race to replace Jensen Huang as Nvidia chief",
-     "link": "https://timesofindia.indiatimes.com/business/international-business/3-indian-origin-ceos-in-race-to-replace-jensen-huang-as-nvidia-chief/articleshow/135794051.cms",
-     "source": "Times of India",
-     "sources": [
-      "Forbes India",
-      "Inshorts",
-      "Jagran Josh",
-      "NDTV",
-      "The Economic Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-13T13:06+05:30",
-     "score": 8.0,
-     "summary": "Tim Cook, the former Apple CEO, is US President Donald Trump's top choice for the job. Cook succeeded in the difficult task of leading Apple after co-founder Steve Jobs died in 2011, so picking up the reins from a legend is on his resume.",
-     "image": "https://static.toiimg.com/photo/msid-135794268,imgsize-100754.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "3 Indian-origin CEOs in race to replace Jensen Huang as Nvidia chief",
-       "link": "https://timesofindia.indiatimes.com/business/international-business/3-indian-origin-ceos-in-race-to-replace-jensen-huang-as-nvidia-chief/articleshow/135794051.cms",
-       "publishedAt": "2026-11-13T13:06+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "3 Indian-Origin Faces Among 11 Names In Jensen Huang Succession Search At Nvidia",
-       "link": "https://www.ndtv.com/world-news/tim-cook-to-lisa-su-11-names-who-could-succeed-jensen-huang-as-nvidia-ceo-12320649#publisher=newsstand",
-       "publishedAt": "2026-11-13T11:05+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "3 Indian-origin CEOs in race to replace Jensen Huang as Nvidia chief",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS0k4U0h0a2tyYzNJWmxVaUo4VXdoRzFLTjRuUC1mWFM2ZDBnR3JpakF6TkxIc3FBMHdsSG5VMzZZNDBtdFRWQnh2ZXVlVHBpalNtUGUwczZlbXVjc2JQUU5sc2x2Tk1PR2g0VW12alRHcHVKZklvSzRCUGJiaTNFaDdOVURIMXN6ZGZCYS1yeld4Y3VsUlIyUHhjd3dnaVljVno5clBvU28xVmdBN0x5Nl9YLW5ieXpfR0xldThVMldGMkwwblFfUDB5WW82Vmk2c0VhM3VNTjdScXpHZ3hadFE1VExUUktpdkNnR1Ywei03Qkxo?oc=5",
-       "publishedAt": "2026-11-13T13:06+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft Outage LIVE: Microsoft outage enters second day; company says not aware of malicious activity",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR0gHyAUFVX3lxTE9mR1d1UjQ0Mm1HT3g3MFF0QnJmRktoTmhEaEhmbTRSOC1rVkV5LWtTS1NoWVk0UkI1aUlvQ1pPd0xpcE5sYTNIbXVKeU9vanI4LXZlVVBUR0JtYUIwaEg0X2JCako1ZUczY1JmRGctaHUzX2VxTUtSRFliWV84bUJqNzBvQjQ0UjFySElESGRnMWs2Tm5uN2NIWjJ0ZFNMNU5WWi1KMEhaUWVlcXdqQTFGNVNOTEJPOXhRdVluSWdMRDh5SURWS3hnd215VHlGWTN0bU1fOXFIY1Zsd19ydWtHSnZ3MEdMNzVKc3h2cEhxTHhR?oc=5",
-     "source": "The Hindu",
-     "sources": [
-      "Bloomberg.com",
-      "NDTV",
-      "The Guardian",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-13T13:57+05:30",
-     "score": 7.42,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Microsoft Outage LIVE: Microsoft outage enters second day; company says not aware of malicious activity",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR0gHyAUFVX3lxTE9mR1d1UjQ0Mm1HT3g3MFF0QnJmRktoTmhEaEhmbTRSOC1rVkV5LWtTS1NoWVk0UkI1aUlvQ1pPd0xpcE5sYTNIbXVKeU9vanI4LXZlVVBUR0JtYUIwaEg0X2JCako1ZUczY1JmRGctaHUzX2VxTUtSRFliWV84bUJqNzBvQjQ0UjFySElESGRnMWs2Tm5uN2NIWjJ0ZFNMNU5WWi1KMEhaUWVlcXdqQTFGNVNOTEJPOXhRdVluSWdMRDh5SURWS3hnd215VHlGWTN0bU1fOXFIY1Zsd19ydWtHSnZ3MEdMNzVKc3h2cEhxTHhR?oc=5",
-       "publishedAt": "2026-11-13T13:57+05:30"
-      }
-     ]
-    },
-    {
-     "title": "C.S. Karnan, controversial former High Court judge, passes away in Chennai",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/cs-karnan-controversial-former-high-court-judge-passes-away-in-chennai/article71696842.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Bar and Bench",
-      "DT Next",
-      "Live Law",
-      "NewsBytes",
-      "The Hindu",
-      "The Indian Express"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-13T13:37+05:30",
-     "score": 7.37,
-     "summary": "He was sentenced to six months of imprisonment during his stint as a judge of Calcutta High Court in 2017 after he passed an “order” sentencing the then CJI and seven other Supreme Court judges to five years of imprisonment",
-     "image": "https://th-i.thgim.com/public/incoming/k7pc22/article71697075.ece/alternates/LANDSCAPE_1200/DSC_2803a.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "C.S. Karnan, controversial former High Court judge, passes away in Chennai",
-       "link": "https://www.thehindu.com/news/national/tamil-nadu/cs-karnan-controversial-former-high-court-judge-passes-away-in-chennai/article71696842.ece",
-       "publishedAt": "2026-11-13T13:37+05:30"
-      },
-      {
-       "source": "Bar and Bench",
-       "title": "Former Madras High Court Justice CS Karnan passes away",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOEVQeGMyeGlCVU9iRUYtUHdrS19sUVB3dlZ1Q3lsZ2szU0I5NS1NVWRCMXhoc19QZHFIWWVabVoyemlmUlZscjdlM2ZpRjZLcVR3Tmp3UHFfNXg2dWFvak40VjQ3N2JFV0dCY1pQdVhSMnMzZHBkNjM5clZDX0lfeVh4a3d4aFl6ZHhNQ3A3Q25sN2J3SUpXanlIS3p6cTDSAawBQVVfeXFMUFBSWVJMcWpSVWpPZWFfdW8tNFFDcXJ6QnhBZFNCTE9zNEpzMm9lXzlCeVN3NFV3TG01MWM1S1Q2eUYwMkpRbVVKTWd0M2VXNlpuT1g0S0dmSkxRcG1GTWpyRUFDLXNyLWs2MURhWlFuQlRLRDZTMXJLYnpTRF8yVXhnNTI0ZThGVTZVeS00V0ZtdkJ3ZXZiNFQ0LUVUTGVNOTk0SEp1Sm9TbzZtaQ?oc=5",
-       "publishedAt": "2026-11-13T12:28+05:30"
       }
      ]
     }
