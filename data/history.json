@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-22T16:15+05:30",
+ "updated": "2026-11-22T17:13+05:30",
  "hours": [
+  {
+   "hour": "2026-11-22T17:00+05:30",
+   "generatedAt": "2026-11-22T17:13+05:30",
+   "feeds": 16,
+   "headlines": 253,
+   "stories": [
+    {
+     "title": "RJD supporters tear down posters near Nitish Setu inaugurated by PM Modi in Vaishali; 3 held",
+     "link": "https://www.hindustantimes.com/india-news/rjd-supporters-tear-down-posters-near-nitish-setu-inaugurated-by-pm-modi-in-vaishali-3-held-101795340939301.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "NarendraModi.in",
+      "News On AIR",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-22T15:35+05:30",
+     "score": 9.23,
+     "summary": "The disruption, which lasted nearly 40 minutes according to accounts, unfolded hours after PM Modi inaugurated the six-lane Nitish Setu in Vaishali.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/22/1600x900/ANI-20261121558-0_1795341371457_JzD6_1795341386833_yCli_e560b3bf-9c0a-4928-87e9-e447c8e7bdb1_Dqtf.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "RJD supporters tear down posters near Nitish Setu inaugurated by PM Modi in Vaishali; 3 held",
+       "link": "https://www.hindustantimes.com/india-news/rjd-supporters-tear-down-posters-near-nitish-setu-inaugurated-by-pm-modi-in-vaishali-3-held-101795340939301.html",
+       "publishedAt": "2026-11-22T15:35+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "No Invite For Tejashwi Yadav, RJD Workers Tear Down Posters On Nitish Setu",
+       "link": "https://www.ndtv.com/india-news/no-invite-for-tejashwi-yadav-rjd-workers-tear-down-posters-on-nitish-setu-12361713#publisher=newsstand",
+       "publishedAt": "2026-11-22T15:10+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Watch: Hours after PM Modi inaugurates Nitish Setu, RJD workers tear down NDA banners",
+       "link": "https://timesofindia.indiatimes.com/india/watch-hours-after-pm-modi-inaugurates-nitish-setu-rjd-workers-tear-down-nda-banners/articleshow/136070258.cms",
+       "publishedAt": "2026-11-22T14:00+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Watch: Hours after PM Modi inaugurates Nitish Setu, RJD workers tear down NDA banners",
+       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYzZEaV9RNVFGdmZBSFg5WXpxWGN6TEVzLVlKcVBmVk96MEdEVzA4b1BvcmtUTGhNMF9KSHc5N2k0UGlqS2FVM2lSeEhQTE16WTc5TTFYUGpIbjNmSDU2aVgwNU0xb1ZlVS1uSldMTmc1Wk1KeGlaOEU4aGZVQmZsUEJ1cm5CaWduMVpNTm1KZ3E5N281aUJLcTA1Z1AyQ0lJN0w3YUR2NDNxWWxINnhwUUdpX2h3RVdIMUtZMk9zdnczQUlLMEVCNUlDaGJEWmpTNlNYZlc5aFg4dDNON1A2dkdxQ2Y0UQ?oc=5",
+       "publishedAt": "2026-11-22T14:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "RaGa: BJP, RSS are greedy, casteist male chauvinists",
+     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-calls-bjp-rss-uncouth-greedy-casteist-male-chauvinists/articleshow/136072873.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Deccan Chronicle",
+      "India Today",
+      "The Economic Times",
+      "The Hindu",
+      "TheWire.in",
+      "Times of India",
+      "inc.in"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-22T16:49+05:30",
+     "score": 8.18,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136071759,imgsize-1669763.cms",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "RaGa: BJP, RSS are greedy, casteist male chauvinists",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-calls-bjp-rss-uncouth-greedy-casteist-male-chauvinists/articleshow/136072873.cms",
+       "publishedAt": "2026-11-22T16:49+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Casteist male chauvinists’: Rahul shares Ardhanareshwar image to target BJP-RSS",
+       "link": "https://timesofindia.indiatimes.com/india/uncouth-greedy-casteist-male-chauvinists-rahul-shares-ardhanareshwar-image-to-target-bjp-rss/articleshow/136071728.cms",
+       "publishedAt": "2026-11-22T15:38+05:30"
+      },
+      {
+       "source": "India Today",
+       "title": "Casteist male chauvinists: Rahul Gandhi attacks BJP, RSS over spiritual traditions",
+       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORW44Y25CbUIwcGFpZlhyWU1leWpmcXMxX0xlZjdVVWFTamh1WFk4YlA5QjFyZ0loVlRNRHVhd1NKSTZ2S0dzS2V6VjZydlBsSTFaeWg3aUMzSFBaWmNENXFQM2swcXdSMnV6T0M2YVJFUVF6clc0NHp6cGU4cTV5N1ctemhvc0sxMmdmOXJYNi1aWFZxb1piS3pQNDF3ZTNtY1BNLVBLZFVvNWUtU2pQS19WcXpVNUdxTWpkNkdWVG00Tm4xa1dvZTdDSVBQX0pxaEx4LW9ZU2ZXa0QtTTNRRnpuUzdMenpIOHZIaXZGTdIB9AFBVV95cUxQd3VRNmpSTno5MUJoaDB3UG1BNkJ0cTI5WWt3LXMtX0hpcGFRU2k2c1M0blV5eS1DRmRpSm5odFh1WVg5TjFHTjQwWHVUTGltTnB0SEdxNzdLSmh2OXphYnd0U2oySEJzbjI3Q0U0NC1oZXFFRjBJWENSbEVoSjJoaGNKM2piNXh0V1FvZFJhUUd1dXh1UnlKQXdKT1hRdXFHUEp6SW93eTBDaW0zSWVOY3pKNXpFUGdPZ2E0MVpmMEktTzRZTDlSaXlmallqQlp4T3llVHdmdlZ3X3lwYk9NYmhCcFRxc0FnVks0N3U1eWxNSXpW?oc=5",
+       "publishedAt": "2026-11-22T15:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "COP31 climate talks close to final deal, summit president says",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1BsQUNITi04TldycV8xbmpzWjNlQ2I5MHdaRWFJVU0zdm1RaDdhbDdkZXh6OUViT1RSNlcyaVNCanptTVFlMEsyd3dBTzJiUVRWYWlObF91dVhKS2d4d2tlSTRsdkxtbGdveWE5aTBCc2hLbGlsc2ZHQU1fMy02ZkxhQ1htSWRjY1dsdFI0eURHeEJ2MlpPMGR2MVB1V3dLUjRid052WHM4aXdjNlBBUmh4Z3pPSTTSAbwBQVVfeXFMT1lxS2U3cXZZNmlHLTNFUGpLZGpYREp6eGRrbUR3aDBkS0h3eXFWOXhZeElsV01VYjlXNFRMMjFYYmNWbVhWa3RXeVNJb3Yxa0xGcFhWbHZBd01DM0FmV3lpYVBZQmVxMjVvWTk4X1Y2YXJCSXc0ekxFWVpyVFhqYWp6MldQYjdyZFd4RThRLW9qM2JMMXNvREo0RS1wUkRSbm9kYUs0NGVhcHJqaWh4bGNJZW5MeG96aHlkN1E?oc=5",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "DW.com",
+      "Down To Earth",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T16:43+05:30",
+     "score": 7.42,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "COP31 climate talks close to final deal, summit president says",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1BsQUNITi04TldycV8xbmpzWjNlQ2I5MHdaRWFJVU0zdm1RaDdhbDdkZXh6OUViT1RSNlcyaVNCanptTVFlMEsyd3dBTzJiUVRWYWlObF91dVhKS2d4d2tlSTRsdkxtbGdveWE5aTBCc2hLbGlsc2ZHQU1fMy02ZkxhQ1htSWRjY1dsdFI0eURHeEJ2MlpPMGR2MVB1V3dLUjRid052WHM4aXdjNlBBUmh4Z3pPSTTSAbwBQVVfeXFMT1lxS2U3cXZZNmlHLTNFUGpLZGpYREp6eGRrbUR3aDBkS0h3eXFWOXhZeElsV01VYjlXNFRMMjFYYmNWbVhWa3RXeVNJb3Yxa0xGcFhWbHZBd01DM0FmV3lpYVBZQmVxMjVvWTk4X1Y2YXJCSXc0ekxFWVpyVFhqYWp6MldQYjdyZFd4RThRLW9qM2JMMXNvREo0RS1wUkRSbm9kYUs0NGVhcHJqaWh4bGNJZW5MeG96aHlkN1E?oc=5",
+       "publishedAt": "2026-11-22T16:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India A vs Pakistan Shaheens at Doha, DP World Men's Asia Cup Rising Stars, 22 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjZveG1iOFFNMzNUT2kzUDMzVkpnbkl2MGdNOGdpcVBYcnpsY1VkenRlMlVRMEtCQUt0dGYxZVVUODdadVlHTWFjRkVoRVBJelYzMDdub2R2SC0zTFV1cHRhOHFJNUxiRS1iWnl6dDRMalppSFZob2FIdk9laHBZWkltUzJwaGw5anFObGRPUjVIb2I3VDZnSUpTM0JTZXN0RmdXV0dMdTFZUmc?oc=5",
+     "source": "BCCI",
+     "sources": [
+      "BCCI",
+      "Jagran Josh",
+      "NDTV Sports",
+      "Sportstar",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T15:10+05:30",
+     "score": 7.16,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BCCI",
+       "title": "India A vs Pakistan Shaheens at Doha, DP World Men's Asia Cup Rising Stars, 22 Nov 2026",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjZveG1iOFFNMzNUT2kzUDMzVkpnbkl2MGdNOGdpcVBYcnpsY1VkenRlMlVRMEtCQUt0dGYxZVVUODdadVlHTWFjRkVoRVBJelYzMDdub2R2SC0zTFV1cHRhOHFJNUxiRS1iWnl6dDRMalppSFZob2FIdk9laHBZWkltUzJwaGw5anFObGRPUjVIb2I3VDZnSUpTM0JTZXN0RmdXV0dMdTFZUmc?oc=5",
+       "publishedAt": "2026-11-22T15:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNN",
+      "Institute for the Study of War",
+      "Reuters"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T16:55+05:30",
+     "score": 7.12,
+     "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf94/live/3bc66860-e665-11f1-8ebd-1d2173202734.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+       "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-22T16:55+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Russian cargo ship still on fire off Finland after drone attack",
+       "link": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
+       "publishedAt": "2026-11-22T16:09+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Russian cargo ship still on fire off Finland after attack",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
+       "publishedAt": "2026-11-22T14:44+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-22T16:00+05:30",
    "generatedAt": "2026-11-22T16:15+05:30",
@@ -29371,199 +29551,6 @@
        "title": "BJP's Hardeep Singh Puri resigns as Rajya Sabha member from Uttar Pradesh",
        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjJnSWJFVHphNzNUNWhIRGNpbm0wU3liWmVXdnRPVkk4YkhFSzF1eF8tWEFaWmRXek9uUzQ1cDhIUTRiSUN2akN2RDBsLTh1S29YMTVTWEliLVdKYkNmZEh3UjkxbVI1OEtELXhLWFBwa0pGcDdpamZSVmJCRG9aS2xSd05URTh6S2RTMFlUVjFyQ194TWNUTC1lY0hwVHpCS2JnZkF6c2oxSlltRjJPMHJSQU9nNUd2WmFPMDNUbGZIS3FwTENKQkdEZ2RQVEVyNEZxS2lvaw?oc=5",
        "publishedAt": "2026-11-14T13:23+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-14T18:00+05:30",
-   "generatedAt": "2026-11-14T18:15+05:30",
-   "feeds": 16,
-   "headlines": 297,
-   "stories": [
-    {
-     "title": "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
-     "link": "https://www.thehindu.com/news/national/puri-resigns-from-uttar-pradesh-rajya-sabha-seat-after-being-re-elected-from-mp/article71701657.ece",
-     "source": "The Hindu",
-     "sources": [
-      "ETV Bharat",
-      "Telegraph India",
-      "The Economic Times",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-14T17:39+05:30",
-     "score": 8.65,
-     "summary": "Hardeep Singh Puri was elected unopposed for the Madhya Pradesh seat on November 5, with his tenure ending on April 2, 2030",
-     "image": "https://th-i.thgim.com/public/incoming/lajsn/article71701672.ece/alternates/LANDSCAPE_1200/20261031544L.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
-       "link": "https://www.thehindu.com/news/national/puri-resigns-from-uttar-pradesh-rajya-sabha-seat-after-being-re-elected-from-mp/article71701657.ece",
-       "publishedAt": "2026-11-14T17:39+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Hardeep Singh Puri resigns from UP Rajya Sabha seat",
-       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/hardeep-singh-puri-resigns-from-up-rajya-sabha-seat-after-re-election-from-madhya-pradesh/articleshow/135829500.cms",
-       "publishedAt": "2026-11-14T15:36+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Hardeep Singh Puri resigns as Rajya Sabha member from Uttar Pradesh",
-       "link": "https://timesofindia.indiatimes.com/india/bjps-hardeep-singh-puri-resigns-as-rajya-sabha-member-from-uttar-pradesh/articleshow/135826645.cms",
-       "publishedAt": "2026-11-14T13:23+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "BJP's Hardeep Singh Puri resigns as Rajya Sabha member from Uttar Pradesh",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjJnSWJFVHphNzNUNWhIRGNpbm0wU3liWmVXdnRPVkk4YkhFSzF1eF8tWEFaWmRXek9uUzQ1cDhIUTRiSUN2akN2RDBsLTh1S29YMTVTWEliLVdKYkNmZEh3UjkxbVI1OEtELXhLWFBwa0pGcDdpamZSVmJCRG9aS2xSd05URTh6S2RTMFlUVjFyQ194TWNUTC1lY0hwVHpCS2JnZkF6c2oxSlltRjJPMHJSQU9nNUd2WmFPMDNUbGZIS3FwTENKQkdEZ2RQVEVyNEZxS2lvaw?oc=5",
-       "publishedAt": "2026-11-14T13:23+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
-     "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Rediff",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-14T17:13+05:30",
-     "score": 8.33,
-     "summary": "Tata Trusts chairman says the group’s owner “cannot die, cannot be bought and cannot retire”, and the Trusts will work with regulators to keep it that way.",
-     "image": "https://static.toiimg.com/photo/msid-135831698,imgsize-30372.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
-       "publishedAt": "2026-11-14T17:13+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Noel Tata worries market listing will change the 'Tata way'",
-       "link": "https://www.hindustantimes.com/india-news/noel-tata-worries-market-listing-will-change-the-tata-way-hindustan-times-leadership-summit-101794645066605.html",
-       "publishedAt": "2026-11-14T14:19+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Charity Owns Commerce, Listing Will Change The Tata Way: Noel Tata",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmRyNTZPbjYxdnQzTWpRNXU2elZqdlVpXzlpOEZtd3A5a2JTUE1lcGJOTWNkM1ZIT1ZkMVVsUkFTcUlNdFdreEZCYWplcVhoZDZFd1JDMlhtaWtZdEhpZmI0OGxzMVhWV1NBNnJQX0tSdDdfUlB4ekQ5NnJoQTJOWU5TX3M5ejNTbWNTR3VfRVhRaEFWQm1mdUdVRC1qUjNMUHE3X01IaUd3X2lIZVVEcEkxVm9JcmRwSWFsb0dSam4tTm9aNlHSAc4BQVVfeXFMUFhnQ2l1S0JlQVBTd05YcU9HU08tZ1YwUFJMM0VDbHF1dEY4blRhTjhsNElQVl9hWTg0V3o2ZkxUMTZabzNJaUhUYWtlM2xfenN3X2xTNGtOSUZKNlNRbDB2bTBKRDVfUVV3QXdfN09Hb1oxMzJ5SHBmOEZSMTlRVUJ0LTY4ZnI3azVwcThUaFRsWWZZeGg0OUZzN2ppbEZzQ09UTnZpYlp4eXVpc2FIVlFHVXdOcEdTMHZRdHlPYUtfN1pEaVNWRDlyQkI5WVE?oc=5",
-       "publishedAt": "2026-11-14T16:24+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Massive fire breaks out at cloth godown in Gujarat's Surat, thick smoke engulfs area",
-     "link": "https://www.hindustantimes.com/india-news/massive-fire-breaks-out-at-cloth-godown-in-gujarats-surat-thick-smoke-engulfs-area-101794653254700.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Bhaskar English",
-      "CNBC TV18",
-      "Gujarat Samachar",
-      "Hindustan Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T16:22+05:30",
-     "score": 8.18,
-     "summary": "A massive fire broke out at a cloth storage godown in the Kharvasa area of Surat on Saturday.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/logo/Screenshot_2026-11-14_162038_1794653466977_drLb_1794653476169_q7Ie_6d2626db-5050-41e3-bf87-d5b93d3aa1c2_YuHi.png",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Massive fire breaks out at cloth godown in Gujarat's Surat, thick smoke engulfs area",
-       "link": "https://www.hindustantimes.com/india-news/massive-fire-breaks-out-at-cloth-godown-in-gujarats-surat-thick-smoke-engulfs-area-101794653254700.html",
-       "publishedAt": "2026-11-14T16:22+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Watch: Massive fire at Surat textile godown, thick smoke billows from site",
-       "link": "https://timesofindia.indiatimes.com/city/surat/video-thick-smoke-billows-from-textile-godown-as-massive-fire-breaks-out-in-surat/articleshow/135827894.cms",
-       "publishedAt": "2026-11-14T14:30+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Watch: Thick smoke billows from textile godown as massive fire breaks out in Surat",
-       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM29pbHZJU3ZrMFZvV3o2Rng5N1N2MGFIMlRtUVR3LTQ2X3NqQmwwUjBuOG90TlRTX2IzSXJRZVJzSHNpTU45R3duUUMtRlk4NHZ1emtvMXpHcERjdXczYUZMMmM3QlhabjkxNEVBbDJoV1lfa01EYkZQOHJzR2kyNUVDMWJNekZWbUdMMHNiQTRzb2hnbmJqNWgzdG9Td1VmTGMwYzZhWlM3TmtHLWhkUElaTndJQ0wxb1RsdlRQOXloZlV2bXlNZXlwWDJremg2ZFV5NDFpeFUtQ2RwSGhHcjVSZGxzeGVnQ2c?oc=5",
-       "publishedAt": "2026-11-14T14:30+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft says services fully restored after global outage hits governments",
-     "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-     "source": "The Guardian",
-     "sources": [
-      "ET Government",
-      "Reuters",
-      "The Guardian",
-      "The Hindu",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T17:24+05:30",
-     "score": 7.36,
-     "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT…",
-     "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Microsoft says services fully restored after global outage hits governments",
-       "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-       "publishedAt": "2026-11-14T17:24+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTQ?oc=5",
-       "publishedAt": "2026-11-14T14:11+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Nikki Haley’s son backs her decision to skip 2028 race after Republican midterm losses",
-     "link": "https://timesofindia.indiatimes.com/world/us/nikki-haleys-son-backs-her-decision-to-skip-2028-race-after-republican-midterm-losses/articleshow/135831790.cms",
-     "source": "Times of India",
-     "sources": [
-      "CNN",
-      "Forbes",
-      "The Atlantic",
-      "The Times of India",
-      "The Washington Post",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T17:37+05:30",
-     "score": 6.96,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135832204,imgsize-96492.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Nikki Haley’s son backs her decision to skip 2028 race after Republican midterm losses",
-       "link": "https://timesofindia.indiatimes.com/world/us/nikki-haleys-son-backs-her-decision-to-skip-2028-race-after-republican-midterm-losses/articleshow/135831790.cms",
-       "publishedAt": "2026-11-14T17:37+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "JD Vance weighs skipping 2028 presidential race after Republican midterm losses: Report",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaGgwcF91R2p0OEhORkE1Y1o1RTB3UU9nMXpWaVZ5M1NsRllONXhkVnpSNFpqN3UwSXpLWEFpMkNXYzZ4cmRzcGZSNGVzOEpISDFKbXN6R2hMX3o5anpuOE1WcXA4aUU3QjBUai1COGZlcWVaaDJScU9lcEVkc19wcWJHYUF5cW11Vy1wZFI0TEJyOEVtRXEyZUhsaTZqLXk2V3NJaHpJQmZjYXVVcmZPUi1hSG8zUlZhaURyVkgzNDVOZklGb2ZweUVudXg5RlRqU0t6VWRFSWs4R3Jld3BjS1ladHhTNjE3V1paLUVB?oc=5",
-       "publishedAt": "2026-11-14T12:55+05:30"
       }
      ]
     }
