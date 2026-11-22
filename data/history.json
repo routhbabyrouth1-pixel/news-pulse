@@ -1,6 +1,178 @@
 {
- "updated": "2026-11-23T02:12+05:30",
+ "updated": "2026-11-23T03:10+05:30",
  "hours": [
+  {
+   "hour": "2026-11-23T03:00+05:30",
+   "generatedAt": "2026-11-23T03:10+05:30",
+   "feeds": 16,
+   "headlines": 230,
+   "stories": [
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 3",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSW5XYWRBUjBnbU5HYjFzMHpTcUZXb0R5MnNtWTg4cHhIRVI4QjgtLWVkeXVUeFk3b0FrTE85eGlGNWdDc21DMWRwaWdjX21yb3NxYXBqUGNHYXROaklvaG0xa3k1TGs1UldxZmZyZGdCVEl5Z0NQcXZpSG9ZWjFibUFXSEFuemZmdFd5N3h3?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Pragativadi",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "Telugu Cinema",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-23T01:35+05:30",
+     "score": 9.8,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 3",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSW5XYWRBUjBnbU5HYjFzMHpTcUZXb0R5MnNtWTg4cHhIRVI4QjgtLWVkeXVUeFk3b0FrTE85eGlGNWdDc21DMWRwaWdjX21yb3NxYXBqUGNHYXROaklvaG0xa3k1TGs1UldxZmZyZGdCVEl5Z0NQcXZpSG9ZWjFibUFXSEFuemZmdFd5N3h3?oc=5",
+       "publishedAt": "2026-11-23T01:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "What's next after no deal at COP31 climate talks?",
+     "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNN",
+      "Hindustan Times",
+      "The Economic Times",
+      "The Guardian",
+      "The New York Times"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-23T00:27+05:30",
+     "score": 9.3,
+     "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "What's next after no deal at COP31 climate talks?",
+       "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-23T00:27+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+       "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+       "publishedAt": "2026-11-22T22:03+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Cop31 climate talks break down as key deal rejected",
+       "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+       "publishedAt": "2026-11-22T21:44+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "COP31's climate deal hits a wall; India flags equity gap",
+       "link": "https://economictimes.indiatimes.com/news/india/india-flags-equity-concerns-at-cop31-says-climate-pact-dilutes-developed-nations-responsibility/articleshow/136078678.cms",
+       "publishedAt": "2026-11-22T21:40+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "COP31 ends without a deal: Why talks collapsed and what was left undone | HT Explainers",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaW1FcUpRX0Y5TFJGb3Y1NWh1ak1udUFaLWEtd0RhWUNTT0NyMTJGQ2VBa3BWM3NCc2NhZXR4eDhVVy1Lc1lrLUMwTWN1cjRuZG5rQ2JzalJ1LWdZQ2RvbV9wb05VU3NndzFfaW5SUlJnRm1za2gxUksyQ1BKbGdMZmY4WlU5ekxQWlRzcllNbTNSbWpOU2JpN1NUcGV5UjVvOXU0bWRIN0kzTktQbkxnMWVRSXdJNEMta3gxQWRZYXpaWUlUZTRJNW01akRjUFhsd3fSAdcBQVVfeXFMTk1scEtJLXNUdjNBcDY0TGFLcU40ZV9pZURKemR6eUYxVEF1eHJRNjlXNlpOR01LRDBEaHJGWkhHWS1ROUc5dmRDdVRseE1USmtldmkzYWhNaDFtV256cHJEMGVhampRdVh5TjlrM3RzQ0didGR6TktKQTlvaUVwTmNubTJ0NXpzemtQYkpLZndrMjNvZGxpUFhFV3lncjN5VC1jekNsbV9Sb3ctdUlNMkRqLXl0dlVKUlZnaF9iSVozNVBvcV9IX1B1dVBROUF3SU1FaUxpTkk?oc=5",
+       "publishedAt": "2026-11-22T22:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Rs 28,000-crore deal: Tata Steel sells two businesses",
+     "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-to-sell-tubes-pipes-business-and-tata-steel-colors-to-apl-apollo-for-rs-28000-crore/articleshow/136078094.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Business Standard",
+      "BusinessLine",
+      "CNBC TV18",
+      "ET Manufacturing",
+      "Reuters",
+      "The Economic Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T21:17+05:30",
+     "score": 7.52,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Rs 28,000-crore deal: Tata Steel sells two businesses",
+       "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-to-sell-tubes-pipes-business-and-tata-steel-colors-to-apl-apollo-for-rs-28000-crore/articleshow/136078094.cms",
+       "publishedAt": "2026-11-22T21:17+05:30"
+      },
+      {
+       "source": "Business Standard",
+       "title": "Tata Steel announces ₹28,000 cr deal with APL Apollo Tubes for two units",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcFktbjdrUllSZDRjUElMZDEydVFhN09nZTEwVnY3MnlZSkhRVG1ldEcxbkUwc3NnOWhmYVNDWXpXY3dxejA1RlVJQmFvbVRXWC0xczdhN2pBaFNIRFctUEFYTTQtODA4UXhsLUhNOE11RnNkYWFSYVVkb2N6bTBBT0ppbVVYWGpHd0hNTUUwQ0ZpSUI3LUw1d3lrdTZKWUxZS0RycmU4bXhQWlpCeUFRMDhuYXlBaWhhNEtnM2tHSnF3Rjk3MEV0VUJkNFR0VmZwcEI5ZWdVVlBQUdIB3wFBVV95cUxPSWRoamVCaGpqT1Z1RlBpNi00UXVvdWRBWkVHdEN2LVRRS3I5MzViTTBLRHRPVDZ1SGNyVWVLUHdmeEEzcThoQUtVRVRxV3V1YmlMTHJhVmhqbVlwd0lEY2s5eXoxSk84cmpmZkR6WUZjVkU5S3NCOFVlMFBSeHNlb19TSTZFQ1hmTXVYTHBUdzJxYmo5cmxmVzBQbUp0MzRDTjViM0NkaWU4MjVmZ19fVGNmMVFYUHdkY2szVEIyVmM2U3JfRzgzOXFjS2E4eGtvZ3haR2JtQ3J3N3g0MUFv?oc=5",
+       "publishedAt": "2026-11-22T21:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Hyderabad Police issue alert over terror threat email; security checks conducted at key locations",
+     "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-police-issue-alert-over-terror-threat-email-security-checks-conducted-at-key-locations/article71731583.ece",
+     "source": "The Hindu",
+     "sources": [
+      "India Today",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T23:47+05:30",
+     "score": 6.93,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Hyderabad Police issue alert over terror threat email; security checks conducted at key locations",
+       "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-police-issue-alert-over-terror-threat-email-security-checks-conducted-at-key-locations/article71731583.ece",
+       "publishedAt": "2026-11-22T23:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "Bangkok Post",
+      "Daily Sabah",
+      "Mezha.net",
+      "Reuters",
+      "The Hindu",
+      "Цензор.НЕТ"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T21:26+05:30",
+     "score": 6.55,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
+       "publishedAt": "2026-11-22T21:26+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-23T02:00+05:30",
    "generatedAt": "2026-11-23T02:12+05:30",
@@ -29502,148 +29674,6 @@
        "title": "Galaxy S27 Release Date: Samsung Bets Big On New 'Pro' Phone",
        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWNicEx4T21sSVEzYjJXQmNFSzdCYjNXdGVFdkpXYXJBNi1vel9kSkNTMjJpTlVENHhVY3dsTHFRUkhmQi04WDFlRU5YeEhNOV9qVk1KRXNaYW1TdXBvbkZrclM0OXdtQndqQTFlM01FS1drYVZOYi00NDRmWEhObmRTR3ZRZEVvN1hmMFFiMXRHdkljb01zRmhJMU9WZzhvT0JKQURXVDYyN3VXUmpLQUE5cVJ4MkZVX1UzQndzcw?oc=5",
        "publishedAt": "2026-11-15T01:58+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T04:00+05:30",
-   "generatedAt": "2026-11-15T04:06+05:30",
-   "feeds": 16,
-   "headlines": 151,
-   "stories": [
-    {
-     "title": "Itllu Arjuna Box Office Collection Day 2",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0FudlZoaXdkdUhFLUx2RGlyblpDSmMxMlNURmtvZ3hVemdPM215UE16c0lTNmliZjZGckZMcWhiMTY4NFZaSUxDOFkzUWxLOHYzeW1FRTROSXE5TzgxMF9DZTFTX1YwYXlDWTItNGlyVnRoa1JYTWlYbWM0SUJqS2pRT1pyUQ?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "Gulte",
-      "Koimoi",
-      "NDTV Profit",
-      "Sacnilk",
-      "The Hindu",
-      "The Times of India",
-      "Tupaki English",
-      "moviepath.in"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-15T01:33+05:30",
-     "score": 8.76,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Itllu Arjuna Box Office Collection Day 2",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0FudlZoaXdkdUhFLUx2RGlyblpDSmMxMlNURmtvZ3hVemdPM215UE16c0lTNmliZjZGckZMcWhiMTY4NFZaSUxDOFkzUWxLOHYzeW1FRTROSXE5TzgxMF9DZTFTX1YwYXlDWTItNGlyVnRoa1JYTWlYbWM0SUJqS2pRT1pyUQ?oc=5",
-       "publishedAt": "2026-11-15T01:33+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Ulva pulls off heist as India lift Under-19s Asia Cup after thriller against Pakistan",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjdsTFVoWE9MRGtZSm8zMVNlc3o2VGhKenE0VGZmbFZJWlh1R01HNzM5aTFBX2Z4WThPaS00SUNNWDR3eDZVUlE5ejVzVEZXZm9sSml1V1RaSUhWZmg0anItWURZcjhFeGNGZF9iZTZoT1pXVE54ZmlUb1g4OFEzM1VCR191bVk3eWNFZTdMdFZ4cDBhaUZ0ZTMxVFV3T3huTlU4UVU5TjFoRGstVFdCbldteklfSXY3dTJIOXkzX2MzamZfQnZhZmUyRQ?oc=5",
-     "source": "Cricinfo",
-     "sources": [
-      "BCCI",
-      "Cricbuzz",
-      "Cricinfo",
-      "PM India",
-      "The New Indian Express"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T23:37+05:30",
-     "score": 6.75,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricinfo",
-       "title": "Ulva pulls off heist as India lift Under-19s Asia Cup after thriller against Pakistan",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjdsTFVoWE9MRGtZSm8zMVNlc3o2VGhKenE0VGZmbFZJWlh1R01HNzM5aTFBX2Z4WThPaS00SUNNWDR3eDZVUlE5ejVzVEZXZm9sSml1V1RaSUhWZmg0anItWURZcjhFeGNGZF9iZTZoT1pXVE54ZmlUb1g4OFEzM1VCR191bVk3eWNFZTdMdFZ4cDBhaUZ0ZTMxVFV3T3huTlU4UVU5TjFoRGstVFdCbldteklfSXY3dTJIOXkzX2MzamZfQnZhZmUyRQ?oc=5",
-       "publishedAt": "2026-11-14T23:37+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Galaxy S27 Release Date: Samsung Bets Big On New 'Pro' Phone",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWNicEx4T21sSVEzYjJXQmNFSzdCYjNXdGVFdkpXYXJBNi1vel9kSkNTMjJpTlVENHhVY3dsTHFRUkhmQi04WDFlRU5YeEhNOV9qVk1KRXNaYW1TdXBvbkZrclM0OXdtQndqQTFlM01FS1drYVZOYi00NDRmWEhObmRTR3ZRZEVvN1hmMFFiMXRHdkljb01zRmhJMU9WZzhvT0JKQURXVDYyN3VXUmpLQUE5cVJ4MkZVX1UzQndzcw?oc=5",
-     "source": "Forbes",
-     "sources": [
-      "91Mobiles",
-      "Forbes",
-      "GSMArena.com",
-      "SammyGuru",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T01:58+05:30",
-     "score": 6.02,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Forbes",
-       "title": "Galaxy S27 Release Date: Samsung Bets Big On New 'Pro' Phone",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWNicEx4T21sSVEzYjJXQmNFSzdCYjNXdGVFdkpXYXJBNi1vel9kSkNTMjJpTlVENHhVY3dsTHFRUkhmQi04WDFlRU5YeEhNOV9qVk1KRXNaYW1TdXBvbkZrclM0OXdtQndqQTFlM01FS1drYVZOYi00NDRmWEhObmRTR3ZRZEVvN1hmMFFiMXRHdkljb01zRmhJMU9WZzhvT0JKQURXVDYyN3VXUmpLQUE5cVJ4MkZVX1UzQndzcw?oc=5",
-       "publishedAt": "2026-11-15T01:58+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Warriors vs Lions, Final, CSA T20 Challenge 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObTd3c01wTFJHamNhWGFkbU1vZU05enVLN0NUMGJ4dFNmbXlrZVFDZzJCbU1YTmUzMnAyOV9DUHN1aXcxUHA0V2F0X0tqRU4yWEdLRUphaWVSY2Z5MzEyV21URU1uUnUxMGZBZmlrTjZFVlBlSVppR251TFhFdXZjdFRvN2RRdmM3U0c3MHlhU0pnOG54M1FFYw?oc=5",
-     "source": "Cricbuzz",
-     "sources": [
-      "Cricbuzz",
-      "Cricket World",
-      "ESPN",
-      "India Today",
-      "SA Cricket Mag"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T01:07+05:30",
-     "score": 5.61,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricbuzz",
-       "title": "Warriors vs Lions, Final, CSA T20 Challenge 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObTd3c01wTFJHamNhWGFkbU1vZU05enVLN0NUMGJ4dFNmbXlrZVFDZzJCbU1YTmUzMnAyOV9DUHN1aXcxUHA0V2F0X0tqRU4yWEdLRUphaWVSY2Z5MzEyV21URU1uUnUxMGZBZmlrTjZFVlBlSVppR251TFhFdXZjdFRvN2RRdmM3U0c3MHlhU0pnOG54M1FFYw?oc=5",
-       "publishedAt": "2026-11-15T01:07+05:30"
-      },
-      {
-       "source": "Cricket World",
-       "title": "Latest cricket news, live scores and video",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWVSVTF1Q28tV3h1STRUanVRb3pBeVdpWUl6N0FsbDZQcnRFUm5XTEMzX1dzVzZrV1JDQzlDYUI1Q2RiN2FQV1E5LXR5N2xmTUVrOWEyY0NvaWxRUi1uYTVjZ3BlbEswZUlXSVZ4M2tDS0VNM25EYVYzT01zdnVldWdBbVFHTFluMGN4UUw5OC1KWEkyUFJrbHZlbmx1WnZicFdxcw?oc=5",
-       "publishedAt": "2026-11-14T23:43+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Bayern Munich News: The aftermath of Germany’s 3-1 win over Serbia",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmEtNms0TUNPSUFueGU1aURLS2ktcjQzODlhcmw5R2hCcmZGbnhDQmJzLVNqVk40dlZFb19MaTZOUE1jWllpWmFlZDRDNmhUZkZSMkZRVDVuQ1ZQUTBWVGhEVnhwS2s1UmdQYkRvVTNBUnpUd1BZLXdFMEF2VTNST3BjSGtCRVFGb1pxYi0wSnRBUkNvWjNSVEx0NUJ5SWJ4RU83NkxjbjExanVEQVhuWWo0S2pCbVRpcTkzWU9FU3BfVzM1bU5IQ1YtRTlZb0FGek1seHNSTDBNNTE4WEFMYmJzUjl1b2QxQ09pbm9R?oc=5",
-     "source": "Bavarian Football Works",
-     "sources": [
-      "BBC",
-      "Bavarian Football Works",
-      "ESPN India",
-      "Sportstar",
-      "The Guardian"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T01:15+05:30",
-     "score": 5.56,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Bavarian Football Works",
-       "title": "Bayern Munich News: The aftermath of Germany’s 3-1 win over Serbia",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmEtNms0TUNPSUFueGU1aURLS2ktcjQzODlhcmw5R2hCcmZGbnhDQmJzLVNqVk40dlZFb19MaTZOUE1jWllpWmFlZDRDNmhUZkZSMkZRVDVuQ1ZQUTBWVGhEVnhwS2s1UmdQYkRvVTNBUnpUd1BZLXdFMEF2VTNST3BjSGtCRVFGb1pxYi0wSnRBUkNvWjNSVEx0NUJ5SWJ4RU83NkxjbjExanVEQVhuWWo0S2pCbVRpcTkzWU9FU3BfVzM1bU5IQ1YtRTlZb0FGek1seHNSTDBNNTE4WEFMYmJzUjl1b2QxQ09pbm9R?oc=5",
-       "publishedAt": "2026-11-15T01:15+05:30"
       }
      ]
     }
