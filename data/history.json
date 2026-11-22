@@ -1,6 +1,170 @@
 {
- "updated": "2026-11-22T20:19+05:30",
+ "updated": "2026-11-22T21:14+05:30",
  "hours": [
+  {
+   "hour": "2026-11-22T21:00+05:30",
+   "generatedAt": "2026-11-22T21:14+05:30",
+   "feeds": 16,
+   "headlines": 269,
+   "stories": [
+    {
+     "title": "Scene Box Office Collection Day 17",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SRFdZcGItSjFJTWhOTzczUzV2QU5lT2NyODlpZ0U0TjYwVjdxdnNaZV9mX2N5R2RxMkE1ZEFJS0R5NEhtZFFKSjR3eHg4SkFUaDUyVHB1T3IyNTFVSFBjczcwQ2t6WW9nX2tVWWVGZ1RNQjlZcnJRZDF3cDdUZw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Pinkvilla",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "Telugu Cinema",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-22T20:30+05:30",
+     "score": 9.94,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Scene Box Office Collection Day 17",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SRFdZcGItSjFJTWhOTzczUzV2QU5lT2NyODlpZ0U0TjYwVjdxdnNaZV9mX2N5R2RxMkE1ZEFJS0R5NEhtZFFKSjR3eHg4SkFUaDUyVHB1T3IyNTFVSFBjczcwQ2t6WW9nX2tVWWVGZ1RNQjlZcnJRZDF3cDdUZw?oc=5",
+       "publishedAt": "2026-11-22T20:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘Casteist male chauvinists’: Rahul Gandhi targets BJP, RSS; draws ‘don’t need lectures’ retort",
+     "link": "https://www.hindustantimes.com/india-news/uncouth-greedy-casteist-male-chauvinists-rahul-gandhis-fresh-salvo-against-bjp-rss-101795347780893.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Inshorts",
+      "National Herald",
+      "News18",
+      "The Economic Times",
+      "The Statesman",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-22T19:24+05:30",
+     "score": 8.84,
+     "summary": "Rahul Gandhi accused the BJP and RSS of having no understanding of India's spiritual and religious traditions.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/22/1600x900/logo/ANI-20261119109-0_1795349329076_zenW_1795349353933_uzE5_f71d9ce9-464c-415e-9d2c-6a9c6a9ffe60_EfoL.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "‘Casteist male chauvinists’: Rahul Gandhi targets BJP, RSS; draws ‘don’t need lectures’ retort",
+       "link": "https://www.hindustantimes.com/india-news/uncouth-greedy-casteist-male-chauvinists-rahul-gandhis-fresh-salvo-against-bjp-rss-101795347780893.html",
+       "publishedAt": "2026-11-22T18:32+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "RaGa: BJP, RSS are greedy, casteist male chauvinists",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-calls-bjp-rss-uncouth-greedy-casteist-male-chauvinists/articleshow/136072873.cms",
+       "publishedAt": "2026-11-22T16:49+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Casteist male chauvinists’: Rahul shares Ardhanareshwar image to target BJP-RSS",
+       "link": "https://timesofindia.indiatimes.com/india/uncouth-greedy-casteist-male-chauvinists-rahul-shares-ardhanareshwar-image-to-target-bjp-rss/articleshow/136071728.cms",
+       "publishedAt": "2026-11-22T15:38+05:30"
+      },
+      {
+       "source": "National Herald",
+       "title": "'Uncouth, greedy, casteist': Rahul's fresh salvo at BJP-RSS",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDhyenN3STBCblZBek9FX3FCbDBCcS1sVW0xc2U4RkhZb3NuZ1BDZVlUNXVKNU1BVDlxU3lwUDliQTF5RkNHemFLbFhhWVp6aHU5THBINURRTUc5SThIT0I5R0lONk93RE1Kbk1ldFZPNU1QaVBLSjdIZTJ2VU1rZzBwV3g3bjEwWDFwSXdhZURYeG5zTkVTODF2bGQ1QUFNeHJQVkw0ZTVkemgxdmJ1YlFR0gG_AUFVX3lxTE1EUkhkcm05Q3RnYlY0NXB6RC01Qy1Fa0tLWVZtUVgzdG9nSEtKT21ZUHJIbUJ0WnVvS1hxczd1UlA3S1VibE1CUmliNTBTRWZOTGhVZzBWZU9adXF5dzZ1UFVTRlM5Z1FaSmhUWmxpYVBDUGZ1U3VoZXUxakd4UG9vV2JtempoSjVwci1xR1pTdjhhMHhBZXRDSnpLWTFYMmdONi1iU1RQNWk1Yl9mclZkZ2o4WlluRDZHUUlSVXRz?oc=5",
+       "publishedAt": "2026-11-22T19:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "CNBC",
+      "Reuters",
+      "The New York Times",
+      "The Times",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T18:59+05:30",
+     "score": 7.13,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+       "publishedAt": "2026-11-22T18:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cop31 climate talks break down as key deal rejected",
+     "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "Axios",
+      "BBC",
+      "CNN",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T18:44+05:30",
+     "score": 7.09,
+     "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate, which failed even to mention fossil fuels, in a dramatic finish to the Cop31 UN talks in Turkey. The…",
+     "image": "https://i.guim.co.uk/img/media/2e9444383cb19d7aedfac136aec519fef28f1ce2/526_182_3885_3108/master/3885.jpg?width=140&quality=85&auto=format&fit=max&s=584875f934c93fc16ffe9e3777ec35e4",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Cop31 climate talks break down as key deal rejected",
+       "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+       "publishedAt": "2026-11-22T18:24+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "COP31 climate talks on the brink as new draft deal faces scrutiny",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1BsQUNITi04TldycV8xbmpzWjNlQ2I5MHdaRWFJVU0zdm1RaDdhbDdkZXh6OUViT1RSNlcyaVNCanptTVFlMEsyd3dBTzJiUVRWYWlObF91dVhKS2d4d2tlSTRsdkxtbGdveWE5aTBCc2hLbGlsc2ZHQU1fMy02ZkxhQ1htSWRjY1dsdFI0eURHeEJ2MlpPMGR2MVB1V3dLUjRid052WHM4aXdjNlBBUmh4Z3pPSTTSAbwBQVVfeXFMT1lxS2U3cXZZNmlHLTNFUGpLZGpYREp6eGRrbUR3aDBkS0h3eXFWOXhZeElsV01VYjlXNFRMMjFYYmNWbVhWa3RXeVNJb3Yxa0xGcFhWbHZBd01DM0FmV3lpYVBZQmVxMjVvWTk4X1Y2YXJCSXc0ekxFWVpyVFhqYWp6MldQYjdyZFd4RThRLW9qM2JMMXNvREo0RS1wUkRSbm9kYUs0NGVhcHJqaWh4bGNJZW5MeG96aHlkN1E?oc=5",
+       "publishedAt": "2026-11-22T18:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Latest cricket news, live scores and video",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEtwci1WdGp0dmtMWGc4WVhwRHBIX0t3ejZKemJTNXU0UHREYTRscjVxMm1iNTJPS3BzajFnYzBhaUxFYlNDOFNDVXlOcEJidC1rSy1oV21oR3huOHgtVkNWV0RCZGhfY0tyZFBBV1VtYzYtSVpBLVg5TnI1bmdlNGl5QmMzNjFq?oc=5",
+     "source": "Cricket World",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "Cricket World",
+      "Sportstar",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T17:52+05:30",
+     "score": 6.94,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricket World",
+       "title": "Latest cricket news, live scores and video",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEtwci1WdGp0dmtMWGc4WVhwRHBIX0t3ejZKemJTNXU0UHREYTRscjVxMm1iNTJPS3BzajFnYzBhaUxFYlNDOFNDVXlOcEJidC1rSy1oV21oR3huOHgtVkNWV0RCZGhfY0tyZFBBV1VtYzYtSVpBLVg5TnI1bmdlNGl5QmMzNjFq?oc=5",
+       "publishedAt": "2026-11-22T17:52+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-22T20:00+05:30",
    "generatedAt": "2026-11-22T20:19+05:30",
@@ -29379,174 +29543,6 @@
        "title": "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In Mumbai",
        "link": "https://www.ndtv.com/india-news/mumbai-nariman-house-chabad-house-20-year-old-arrested-for-recce-of-26-11-target-nariman-house-in-mumbai-12327425#publisher=newsstand",
        "publishedAt": "2026-11-14T21:28+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-14T22:00+05:30",
-   "generatedAt": "2026-11-14T22:08+05:30",
-   "feeds": 16,
-   "headlines": 266,
-   "stories": [
-    {
-     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "Reuters",
-      "Telegraph India",
-      "The Guardian",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-14T21:23+05:30",
-     "score": 9.38,
-     "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-14T21:23+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Trump, Xi, Putin meet next week: Why fears of a 'Yalta 2.0' are growing",
-       "link": "https://timesofindia.indiatimes.com/world/us/trump-xi-putin-meet-next-week-why-the-1945-yalta-conference-is-back-in-focus/articleshow/135834931.cms",
-       "publishedAt": "2026-11-14T19:59+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-       "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
-       "publishedAt": "2026-11-14T17:44+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'How were 2024 polls legitimate?' Rahul accuses EC of declaring 140m who voted illegal",
-     "link": "https://timesofindia.indiatimes.com/india/how-were-2024-elections-legitimate-rahul-accuses-ec-of-declaring-140-million-who-voted-illegal/articleshow/135832504.cms",
-     "source": "Times of India",
-     "sources": [
-      "Telegraph India",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "TheWire.in",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T17:48+05:30",
-     "score": 7.78,
-     "summary": "Congress leader Rahul Gandhi challenged the legitimacy of the 2024 Lok Sabha elections during the Bharat Summit in Hyderabad. He stated that 140 million voters were incorrectly labeled as non-existent or non-voters, raising concerns about election integrity. Gandhi highlighted the controversial influence of big business on politics, particularly criticizing Prime Minister Narendra Modi's connections with businessman…",
-     "image": "https://static.toiimg.com/photo/msid-135832658,imgsize-1185295.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'How were 2024 polls legitimate?' Rahul accuses EC of declaring 140m who voted illegal",
-       "link": "https://timesofindia.indiatimes.com/india/how-were-2024-elections-legitimate-rahul-accuses-ec-of-declaring-140-million-who-voted-illegal/articleshow/135832504.cms",
-       "publishedAt": "2026-11-14T17:48+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'How were 2024 elections legitimate?' Rahul accuses EC of declaring 140 million who voted illegal",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZkNRT2pMVF82WnVYZ09hRGRJdEZpS0ZJWG9LSXR3VWdkeW5kam83dXU3bWNMVWYydU13UzlVN0lQSTNkb1hVMlk0ZjBhNDVSZVNNVlN5SEI5T3dFX2h6MTVrZVRjTE1vb3dLNmJWOWYyMjNaU1NBMjY1eVNITE1UY1J4Tjh0VkdZWHlBaEhfdk1mOG10SHVmWlRudHlqT3hGZEpvWXg5SGw0Zy1DSXkxOGJqVkE0NzNobGZPWFpSSzhIakJnMzJKdUtpUS1NVU1fc1hwcVhUYU9zYmduM3k2bzdrQzk4UUNoWWdsODRQRmc1RHNt?oc=5",
-       "publishedAt": "2026-11-14T17:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CGTN",
-      "CNN",
-      "Financial Times"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T20:45+05:30",
-     "score": 7.52,
-     "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-14T20:45+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-       "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-       "publishedAt": "2026-11-14T17:13+05:30"
-      }
-     ]
-    },
-    {
-     "title": "WATCH: Mohit Ulva's last-ball boundary as India clinch U-19 Asia Cup over Pakistan",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-mohit-ulvas-last-ball-boundary-seals-indias-thrilling-u-19-asia-cup-triumph-over-pakistan/articleshow/135835440.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricbuzz",
-      "Cricinfo",
-      "Sportstar",
-      "Telegraph India",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T20:41+05:30",
-     "score": 7.26,
-     "summary": "In an exhilarating Under-19 Asia Cup final, India clinched a nail-biting one-wicket triumph over Pakistan. Key player Mohit Ulva scored a pivotal 49 runs and hit the decisive boundary, ensuring a dramatic finish. Despite facing pressure while chasing Pakistan's formidable total of 337 runs, the teamwork displayed by Ulva and Chigurupati Venkata was instrumental in achieving victory, marking India's remarkable ninth…",
-     "image": "https://static.toiimg.com/photo/msid-135835477,imgsize-93052.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "WATCH: Mohit Ulva's last-ball boundary as India clinch U-19 Asia Cup over Pakistan",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-mohit-ulvas-last-ball-boundary-seals-indias-thrilling-u-19-asia-cup-triumph-over-pakistan/articleshow/135835440.cms",
-       "publishedAt": "2026-11-14T20:04+05:30"
-      },
-      {
-       "source": "Cricinfo",
-       "title": "Ulva pulls off heist as India lift Under-19s Asia Cup after instant classic against Pakistan",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjdsTFVoWE9MRGtZSm8zMVNlc3o2VGhKenE0VGZmbFZJWlh1R01HNzM5aTFBX2Z4WThPaS00SUNNWDR3eDZVUlE5ejVzVEZXZm9sSml1V1RaSUhWZmg0anItWURZcjhFeGNGZF9iZTZoT1pXVE54ZmlUb1g4OFEzM1VCR191bVk3eWNFZTdMdFZ4cDBhaUZ0ZTMxVFV3T3huTlU4UVU5TjFoRGstVFdCbldteklfSXY3dTJIOXkzX2MzamZfQnZhZmUyRQ?oc=5",
-       "publishedAt": "2026-11-14T20:41+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Usman century and fifties from Qadir and Yousaf set India 338 to win Under-19 Asia Cup",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjdsTFVoWE9MRGtZSm8zMVNlc3o2VGhKenE0VGZmbFZJWlh1R01HNzM5aTFBX2Z4WThPaS00SUNNWDR3eDZVUlE5ejVzVEZXZm9sSml1V1RaSUhWZmg0anItWURZcjhFeGNGZF9iZTZoT1pXVE54ZmlUb1g4OFEzM1VCR191bVk3eWNFZTdMdFZ4cDBhaUZ0ZTMxVFV3T3huTlU4UVU5TjFoRGstVFdCbldteklfSXY3dTJIOXkzX2MzamZfQnZhZmUyRQ?oc=5",
-     "source": "Cricinfo",
-     "sources": [
-      "Cricbuzz",
-      "Cricinfo",
-      "Sportstar",
-      "Telegraph India",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T20:41+05:30",
-     "score": 7.26,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricinfo",
-       "title": "Usman century and fifties from Qadir and Yousaf set India 338 to win Under-19 Asia Cup",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjdsTFVoWE9MRGtZSm8zMVNlc3o2VGhKenE0VGZmbFZJWlh1R01HNzM5aTFBX2Z4WThPaS00SUNNWDR3eDZVUlE5ejVzVEZXZm9sSml1V1RaSUhWZmg0anItWURZcjhFeGNGZF9iZTZoT1pXVE54ZmlUb1g4OFEzM1VCR191bVk3eWNFZTdMdFZ4cDBhaUZ0ZTMxVFV3T3huTlU4UVU5TjFoRGstVFdCbldteklfSXY3dTJIOXkzX2MzamZfQnZhZmUyRQ?oc=5",
-       "publishedAt": "2026-11-14T20:41+05:30"
       }
      ]
     }
