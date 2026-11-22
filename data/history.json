@@ -1,6 +1,180 @@
 {
- "updated": "2026-11-22T17:13+05:30",
+ "updated": "2026-11-22T18:20+05:30",
  "hours": [
+  {
+   "hour": "2026-11-22T18:00+05:30",
+   "generatedAt": "2026-11-22T18:20+05:30",
+   "feeds": 16,
+   "headlines": 278,
+   "stories": [
+    {
+     "title": "RJD supporters tear down posters near Nitish Setu inaugurated by PM Modi in Vaishali; 3 held",
+     "link": "https://www.hindustantimes.com/india-news/rjd-supporters-tear-down-posters-near-nitish-setu-inaugurated-by-pm-modi-in-vaishali-3-held-101795340939301.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "NarendraModi.in",
+      "News On AIR",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-22T15:35+05:30",
+     "score": 10.04,
+     "summary": "The disruption, which lasted nearly 40 minutes according to accounts, unfolded hours after PM Modi inaugurated the six-lane Nitish Setu in Vaishali.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/22/1600x900/ANI-20261121558-0_1795341371457_JzD6_1795341386833_yCli_e560b3bf-9c0a-4928-87e9-e447c8e7bdb1_Dqtf.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "RJD supporters tear down posters near Nitish Setu inaugurated by PM Modi in Vaishali; 3 held",
+       "link": "https://www.hindustantimes.com/india-news/rjd-supporters-tear-down-posters-near-nitish-setu-inaugurated-by-pm-modi-in-vaishali-3-held-101795340939301.html",
+       "publishedAt": "2026-11-22T15:35+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "No Invite For Tejashwi Yadav, RJD Workers Tear Down Posters On Nitish Setu",
+       "link": "https://www.ndtv.com/india-news/no-invite-for-tejashwi-yadav-rjd-workers-tear-down-posters-on-nitish-setu-12361713#publisher=newsstand",
+       "publishedAt": "2026-11-22T15:10+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Watch: Hours after PM Modi inaugurates Nitish Setu, RJD workers tear down NDA banners",
+       "link": "https://timesofindia.indiatimes.com/india/watch-hours-after-pm-modi-inaugurates-nitish-setu-rjd-workers-tear-down-nda-banners/articleshow/136070258.cms",
+       "publishedAt": "2026-11-22T14:00+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Watch: Hours after PM Modi inaugurates Nitish Setu, RJD workers tear down NDA banners",
+       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYzZEaV9RNVFGdmZBSFg5WXpxWGN6TEVzLVlKcVBmVk96MEdEVzA4b1BvcmtUTGhNMF9KSHc5N2k0UGlqS2FVM2lSeEhQTE16WTc5TTFYUGpIbjNmSDU2aVgwNU0xb1ZlVS1uSldMTmc1Wk1KeGlaOEU4aGZVQmZsUEJ1cm5CaWduMVpNTm1KZ3E5N281aUJLcTA1Z1AyQ0lJN0w3YUR2NDNxWWxINnhwUUdpX2h3RVdIMUtZMk9zdnczQUlLMEVCNUlDaGJEWmpTNlNYZlc5aFg4dDNON1A2dkdxQ2Y0UQ?oc=5",
+       "publishedAt": "2026-11-22T14:00+05:30"
+      },
+      {
+       "source": "India Today",
+       "title": "RJD workers run amok at Nitish Setu, tear down banners of PM Modi, Bihar CM",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSHQ4Uk5VWEU0MVpfYmRSb21aMGtoZFFtWGJWRDZnSV8wSEItUnVFVDQwUGUwYmdQU0NIcl9EVFZzMkJRWWt0cGthOWc5X3VnWDdWM3UzRkpJejlaTmMyem9GUFpMWmVrR29Xdkx6Z1hONWlGN2tlaWFqTnpCSzJrdHBGcTlrY0pDVnFDZUdld0VEdlJpY0FrSGUtbEdWSHpTR1pKaHBfRFJ0OEpzcUtKTmpDZjh5T0FlN3RUWHFDVFNnOVZsb0c0eG9GZm0?oc=5",
+       "publishedAt": "2026-11-22T12:38+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nepal PM Balen Shah arrives in India for first visit; talks with PM Modi on Monday",
+     "link": "https://timesofindia.indiatimes.com/india/nepal-pm-balen-shah-arrives-in-india-for-first-visit-talks-with-pm-modi-on-monday-top-developments/articleshow/136070546.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Indian Express",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T18:08+05:30",
+     "score": 8.47,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136070572,imgsize-44854.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Nepal PM Balen Shah arrives in India for first visit; talks with PM Modi on Monday",
+       "link": "https://timesofindia.indiatimes.com/india/nepal-pm-balen-shah-arrives-in-india-for-first-visit-talks-with-pm-modi-on-monday-top-developments/articleshow/136070546.cms",
+       "publishedAt": "2026-11-22T14:10+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "India News Live Updates, 22 November 2026: Nepal PM Balendra Shah arrives in Delhi, to hold talks with PM Modi tomorrow",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZno2QklzXzRwZURGbTRIcTBKVzNtTkItS3NDd1UtVlVXaEVtTVV6SXRWZ1VCbk9jNDB1SC1IRmQtdXBESnA5dXhDcGlYU2JVRWxKeUx0cmVRc3pYRkdRbnRjODJfNEpBblMzdDNKY2IzN0xGWThMSVlndjZ3MGY0NG9fbDZEM1RtLURaLWIwUkFWV2FEM1hIdmotTW03NWJMWFVOZUZZWlNFOEl0N3QyWWZublVrMVdfY1NMNy00VllPUnU2ZHQ4UjRwRFFpMUVtR2k5VC1QemstMmlXWTQybFFaU1djaGZGSDI5d2EtTUY3aGJSdHfSAfwBQVVfeXFMTzdDVWczZVAwejV5WXl0MXRMYVlNT2NxYUg0WG53NHhrdWw2NU5UT0FRYlB3SVpUMXdITGl6Zm41NjBGQ2FhcFIzek5XSTAyanIwU1BDWGk1OWctQ3lhS0FBRUdhMm1zdjBoLXp0Mm9EYjlNT2lLZEtQUmlwMGE3bDk4dzhscDhudDc2SHRRQ2R1M3NUaEh4bEc0MjQwUFBoTDBfNk5PVVh5RWI2aTJsM08tZTB0UXhvbVkzcENiUW5XMzJoUVBuXzhGeDJuLUJJTUp6cmdIV0dnZGpXRGRVczJ6UVFqOHk5XzM0THoxbFhZczlXTG85X0VybzJK?oc=5",
+       "publishedAt": "2026-11-22T18:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Population up in 40 China-border villages': Shah in Arunachal amid anti-dam protests",
+     "link": "https://timesofindia.indiatimes.com/india/population-up-in-40-china-border-villages-amit-shah-reaches-out-to-arunachal-amid-dam-protests/articleshow/136071267.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "News On AIR",
+      "The Hindu",
+      "The Shillong Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T15:14+05:30",
+     "score": 7.23,
+     "summary": "Amit Shah unveiled key development initiatives in Arunachal Pradesh as part of the Vibrant Villages Programme, noting a population increase in 40 border villages that has curbed migration. He highlighted the need for self-reliance in food production while assuring local leaders of the Centre's ongoing support for development projects. Additionally, the Arunachal Pradesh Cooperative Vision 2047 was introduced…",
+     "image": "https://static.toiimg.com/photo/msid-136071427,imgsize-99142.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Population up in 40 China-border villages': Shah in Arunachal amid anti-dam protests",
+       "link": "https://timesofindia.indiatimes.com/india/population-up-in-40-china-border-villages-amit-shah-reaches-out-to-arunachal-amid-dam-protests/articleshow/136071267.cms",
+       "publishedAt": "2026-11-22T15:14+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Population up in 40 China-border villages': Amit Shah reaches out to Arunachal amid dam protests",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY1RDMThocVVCRVU2OWcwZXgtVFlwbUdRWEl0TjJzRWpyQVRVek9admNKVUdkbHVxN2xmNWVKbzFyVGVCMDlvb2F3U1V0OXN2NVhScmRsem1IeG1aMEk4MjdkS2lWSTVNR1hFZHJDcTBweGpBZElmTWxIaURjVHdsQkNrU1NkWkVweXh5RExnTElHVGNJNWJrZFkyWi1fLU9hbFI3N2VXbjNRV2lEbTRXVi0zVGs1NEtQa0NudG9iZWdmelVnYjBvWjZtOU1FS2xnRjJfdUplYzlCQk56a2F0NXZKYWljS2NWbktDZkxWMEFaeE1F?oc=5",
+       "publishedAt": "2026-11-22T15:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "COP31 climate talks on the brink as new draft deal faces scrutiny",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1BsQUNITi04TldycV8xbmpzWjNlQ2I5MHdaRWFJVU0zdm1RaDdhbDdkZXh6OUViT1RSNlcyaVNCanptTVFlMEsyd3dBTzJiUVRWYWlObF91dVhKS2d4d2tlSTRsdkxtbGdveWE5aTBCc2hLbGlsc2ZHQU1fMy02ZkxhQ1htSWRjY1dsdFI0eURHeEJ2MlpPMGR2MVB1V3dLUjRid052WHM4aXdjNlBBUmh4Z3pPSTTSAbwBQVVfeXFMT1lxS2U3cXZZNmlHLTNFUGpLZGpYREp6eGRrbUR3aDBkS0h3eXFWOXhZeElsV01VYjlXNFRMMjFYYmNWbVhWa3RXeVNJb3Yxa0xGcFhWbHZBd01DM0FmV3lpYVBZQmVxMjVvWTk4X1Y2YXJCSXc0ekxFWVpyVFhqYWp6MldQYjdyZFd4RThRLW9qM2JMMXNvREo0RS1wUkRSbm9kYUs0NGVhcHJqaWh4bGNJZW5MeG96aHlkN1E?oc=5",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "DW.com",
+      "Down To Earth",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T16:43+05:30",
+     "score": 7.23,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "COP31 climate talks on the brink as new draft deal faces scrutiny",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1BsQUNITi04TldycV8xbmpzWjNlQ2I5MHdaRWFJVU0zdm1RaDdhbDdkZXh6OUViT1RSNlcyaVNCanptTVFlMEsyd3dBTzJiUVRWYWlObF91dVhKS2d4d2tlSTRsdkxtbGdveWE5aTBCc2hLbGlsc2ZHQU1fMy02ZkxhQ1htSWRjY1dsdFI0eURHeEJ2MlpPMGR2MVB1V3dLUjRid052WHM4aXdjNlBBUmh4Z3pPSTTSAbwBQVVfeXFMT1lxS2U3cXZZNmlHLTNFUGpLZGpYREp6eGRrbUR3aDBkS0h3eXFWOXhZeElsV01VYjlXNFRMMjFYYmNWbVhWa3RXeVNJb3Yxa0xGcFhWbHZBd01DM0FmV3lpYVBZQmVxMjVvWTk4X1Y2YXJCSXc0ekxFWVpyVFhqYWp6MldQYjdyZFd4RThRLW9qM2JMMXNvREo0RS1wUkRSbm9kYUs0NGVhcHJqaWh4bGNJZW5MeG96aHlkN1E?oc=5",
+       "publishedAt": "2026-11-22T16:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "BBC",
+      "Reuters",
+      "The Hindu",
+      "The New York Times",
+      "The Times"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T16:40+05:30",
+     "score": 7.22,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+       "publishedAt": "2026-11-22T16:40+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-22T17:00+05:30",
    "generatedAt": "2026-11-22T17:13+05:30",
@@ -29371,186 +29545,6 @@
        "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
        "publishedAt": "2026-11-14T14:11+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-14T19:00+05:30",
-   "generatedAt": "2026-11-14T19:19+05:30",
-   "feeds": 16,
-   "headlines": 291,
-   "stories": [
-    {
-     "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
-     "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Rediff",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-14T17:13+05:30",
-     "score": 8.4,
-     "summary": "Tata Trusts chairman says the group’s owner “cannot die, cannot be bought and cannot retire”, and the Trusts will work with regulators to keep it that way.",
-     "image": "https://static.toiimg.com/photo/msid-135831698,imgsize-30372.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Will change Tata way': Noel warns Tata Sons listing may put profits ahead of philanthropy",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/will-change-the-tata-way-noel-warns-tata-sons-listing-could-put-profits-ahead-of-philanthropy/articleshow/135831024.cms",
-       "publishedAt": "2026-11-14T17:13+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Noel Tata worries market listing will change the 'Tata way'",
-       "link": "https://www.hindustantimes.com/india-news/noel-tata-worries-market-listing-will-change-the-tata-way-hindustan-times-leadership-summit-101794645066605.html",
-       "publishedAt": "2026-11-14T14:19+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Charity Owns Commerce, Listing Will Change The Tata Way: Noel Tata",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmRyNTZPbjYxdnQzTWpRNXU2elZqdlVpXzlpOEZtd3A5a2JTUE1lcGJOTWNkM1ZIT1ZkMVVsUkFTcUlNdFdreEZCYWplcVhoZDZFd1JDMlhtaWtZdEhpZmI0OGxzMVhWV1NBNnJQX0tSdDdfUlB4ekQ5NnJoQTJOWU5TX3M5ejNTbWNTR3VfRVhRaEFWQm1mdUdVRC1qUjNMUHE3X01IaUd3X2lIZVVEcEkxVm9JcmRwSWFsb0dSam4tTm9aNlHSAc4BQVVfeXFMUFhnQ2l1S0JlQVBTd05YcU9HU08tZ1YwUFJMM0VDbHF1dEY4blRhTjhsNElQVl9hWTg0V3o2ZkxUMTZabzNJaUhUYWtlM2xfenN3X2xTNGtOSUZKNlNRbDB2bTBKRDVfUVV3QXdfN09Hb1oxMzJ5SHBmOEZSMTlRVUJ0LTY4ZnI3azVwcThUaFRsWWZZeGg0OUZzN2ppbEZzQ09UTnZpYlp4eXVpc2FIVlFHVXdOcEdTMHZRdHlPYUtfN1pEaVNWRDlyQkI5WVE?oc=5",
-       "publishedAt": "2026-11-14T16:24+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft says services fully restored after global outage hits governments",
-     "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-     "source": "The Guardian",
-     "sources": [
-      "BBC",
-      "ET Government",
-      "Reuters",
-      "The Guardian",
-      "The Hindu"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T17:24+05:30",
-     "score": 7.18,
-     "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT…",
-     "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Microsoft says services fully restored after global outage hits governments",
-       "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-       "publishedAt": "2026-11-14T17:24+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTQ?oc=5",
-       "publishedAt": "2026-11-14T14:11+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-     "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "NDTV",
-      "Reuters",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T17:18+05:30",
-     "score": 7.16,
-     "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-       "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-       "publishedAt": "2026-11-14T17:13+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-14T17:11+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Voyager 1 nears one light-day from Earth",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/voyager-1-is-about-to-travel-one-light-day-from-earth-in-historic-milestone-its-26-billion-km-journey-equals-650000-trips-around-earth/articleshow/135834021.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "DJ Mag",
-      "Mashable",
-      "NASA (.gov)",
-      "Telegraph India",
-      "The Economic Times",
-      "TradingView"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T18:54+05:30",
-     "score": 6.98,
-     "summary": "Imagine sending a message to a spacecraft and having to wait an entire day just for it to arrive. Then imagine waiting another day for its reply. That is the extraordinary distance NASA's Voyager 1 is approaching, nearly half a century after it left Earth. The spacecraft is expected to cross the 16-billion-mile (26-billion-km) mark on Wednesday at 5:16 a.m. ET (10:16 GMT), according to NASA.Launched in September…",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Voyager 1 nears one light-day from Earth",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/voyager-1-is-about-to-travel-one-light-day-from-earth-in-historic-milestone-its-26-billion-km-journey-equals-650000-trips-around-earth/articleshow/135834021.cms",
-       "publishedAt": "2026-11-14T18:54+05:30"
-      },
-      {
-       "source": "Telegraph India",
-       "title": "Nasa’s Voyager 1 nears milestone 49 years after launch: One light-day from Earth",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUdCZlMteE9NbTRieWlOUGc4VG5uWTN6aXkzQlJvTUVMM25aSlF2ZmJ6SGtfTGZDUUFlOGNaQmZ2alI0S2F2WS1UeVhqYk5RQW1lNTFpQy16TXJxSF9STlpyU1VkR2psaDNxQXhQMlhXeVhreEF0WUhTRUVjYVItZVRqa29jemxYNGVIVHplZHlPLTdqdGVPSDg5RDhwTkw0eUZuNzRFWGE0ODhOY21MTWE1Y1ZWQzdjZ3VOYXN1WWlqX21SR3fSAcsBQVVfeXFMUENpU3VNR0ZJd3RvWVVkcEdNYVlKUloyT3lVX2JySjhhM3JJX2ZqeFgydzBpSHgzTzJjN3VlZm5zTFZQdEpuZnNFUEJqSWtHazJwNUp0ZVBwQkxRelVLWnA2MlBhbUJHcHFOZTZDY29nSWR4dWZhWGdoSldZV09WZFRZaEtyWWpMTlJMYWF0Xzk1bVJ0eHFINGdJLWZRRENNeTlYVlptRTViemRvS1NOTU16TEJWWklxRWhtN0RzNkRwT2NZNDBUOGNCR1k?oc=5",
-       "publishedAt": "2026-11-14T17:01+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
-     "link": "https://www.thehindu.com/news/national/puri-resigns-from-uttar-pradesh-rajya-sabha-seat-after-being-re-elected-from-mp/article71701657.ece",
-     "source": "The Hindu",
-     "sources": [
-      "ETV Bharat",
-      "Telegraph India",
-      "The Economic Times",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T17:39+05:30",
-     "score": 6.97,
-     "summary": "Hardeep Singh Puri was elected unopposed for the Madhya Pradesh seat on November 5, with his tenure ending on April 2, 2030",
-     "image": "https://th-i.thgim.com/public/incoming/lajsn/article71701672.ece/alternates/LANDSCAPE_1200/20261031544L.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
-       "link": "https://www.thehindu.com/news/national/puri-resigns-from-uttar-pradesh-rajya-sabha-seat-after-being-re-elected-from-mp/article71701657.ece",
-       "publishedAt": "2026-11-14T17:39+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Hardeep Singh Puri resigns from UP Rajya Sabha seat",
-       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/hardeep-singh-puri-resigns-from-up-rajya-sabha-seat-after-re-election-from-madhya-pradesh/articleshow/135829500.cms",
-       "publishedAt": "2026-11-14T15:36+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "BJP's Hardeep Singh Puri resigns as Rajya Sabha member from Uttar Pradesh",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjJnSWJFVHphNzNUNWhIRGNpbm0wU3liWmVXdnRPVkk4YkhFSzF1eF8tWEFaWmRXek9uUzQ1cDhIUTRiSUN2akN2RDBsLTh1S29YMTVTWEliLVdKYkNmZEh3UjkxbVI1OEtELXhLWFBwa0pGcDdpamZSVmJCRG9aS2xSd05URTh6S2RTMFlUVjFyQ194TWNUTC1lY0hwVHpCS2JnZkF6c2oxSlltRjJPMHJSQU9nNUd2WmFPMDNUbGZIS3FwTENKQkdEZ2RQVEVyNEZxS2lvaw?oc=5",
-       "publishedAt": "2026-11-14T13:23+05:30"
       }
      ]
     }
