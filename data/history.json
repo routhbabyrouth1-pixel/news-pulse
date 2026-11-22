@@ -1,6 +1,201 @@
 {
- "updated": "2026-11-22T23:11+05:30",
+ "updated": "2026-11-23T00:15+05:30",
  "hours": [
+  {
+   "hour": "2026-11-23T00:00+05:30",
+   "generatedAt": "2026-11-23T00:15+05:30",
+   "feeds": 16,
+   "headlines": 289,
+   "stories": [
+    {
+     "title": "UN climate talks collapse without a deal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "Euronews.com",
+      "The Guardian",
+      "The New York Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T23:34+05:30",
+     "score": 8.39,
+     "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
+     "image": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=1d4e5cb91f44ed77668a8862b38fa660",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "UN climate talks collapse without a deal",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+       "publishedAt": "2026-11-22T23:34+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Cop31 climate talks break down as key deal rejected",
+       "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+       "publishedAt": "2026-11-22T21:44+05:30"
+      },
+      {
+       "source": "Euronews.com",
+       "title": "COP31 climate talks fail after EU and others reject final deal proposal",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGl5VEVfNzFXQllnc2c0SEozc2FuWjJVRkcteml6S3ROa0pFZXZTUlRuSVJhRFdINFMyMnM4SzVzRlZjRFMtUkdoWjdmTGFwdnd1a1BoRW9ydTNCMlFmOThET054V3lPTl9HYWJ3WTRrMFI1aVJCanVsMk12YlRuMUFPVTMyV1Z2TE1WSUwzcmN5Q3pqOExXM09HdjRyQ2h0ZkJRc3Ewbkk5UjA?oc=5",
+       "publishedAt": "2026-11-22T19:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Rs 28,000-crore deal: Tata Steel sells two businesses",
+     "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-to-sell-tubes-pipes-business-and-tata-steel-colors-to-apl-apollo-for-rs-28000-crore/articleshow/136078094.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Business Standard",
+      "BusinessLine",
+      "CNBC TV18",
+      "ET Manufacturing",
+      "Moneycontrol.com",
+      "The Economic Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T22:36+05:30",
+     "score": 8.22,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Rs 28,000-crore deal: Tata Steel sells two businesses",
+       "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-to-sell-tubes-pipes-business-and-tata-steel-colors-to-apl-apollo-for-rs-28000-crore/articleshow/136078094.cms",
+       "publishedAt": "2026-11-22T21:17+05:30"
+      },
+      {
+       "source": "Business Standard",
+       "title": "Tata Steel announces ₹28,000 cr deal with APL Apollo Tubes for two units",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcFktbjdrUllSZDRjUElMZDEydVFhN09nZTEwVnY3MnlZSkhRVG1ldEcxbkUwc3NnOWhmYVNDWXpXY3dxejA1RlVJQmFvbVRXWC0xczdhN2pBaFNIRFctUEFYTTQtODA4UXhsLUhNOE11RnNkYWFSYVVkb2N6bTBBT0ppbVVYWGpHd0hNTUUwQ0ZpSUI3LUw1d3lrdTZKWUxZS0RycmU4bXhQWlpCeUFRMDhuYXlBaWhhNEtnM2tHSnF3Rjk3MEV0VUJkNFR0VmZwcEI5ZWdVVlBQUdIB3wFBVV95cUxPSWRoamVCaGpqT1Z1RlBpNi00UXVvdWRBWkVHdEN2LVRRS3I5MzViTTBLRHRPVDZ1SGNyVWVLUHdmeEEzcThoQUtVRVRxV3V1YmlMTHJhVmhqbVlwd0lEY2s5eXoxSk84cmpmZkR6WUZjVkU5S3NCOFVlMFBSeHNlb19TSTZFQ1hmTXVYTHBUdzJxYmo5cmxmVzBQbUp0MzRDTjViM0NkaWU4MjVmZ19fVGNmMVFYUHdkY2szVEIyVmM2U3JfRzgzOXFjS2E4eGtvZ3haR2JtQ3J3N3g0MUFv?oc=5",
+       "publishedAt": "2026-11-22T22:36+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Eight killed as speeding minivan rams into roadside tree in Tamil Nadu's Tiruchirappalli",
+     "link": "https://www.hindustantimes.com/india-news/eight-killed-as-speeding-minivan-rams-into-roadside-tree-in-tamil-nadus-tiruchirappalli-101795369432656.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "NarendraModi.in",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-22T23:29+05:30",
+     "score": 8.12,
+     "summary": "Preliminary investigation revealed that the driver of the van, identified as Rajesh, lost control of the vehicle due to overspeeding",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/22/1600x900/logo/Pawan-Khera-12_1776671339460_1776671353544_1795370216515_Osa9_d9a4c552-38ad-4c7d-b331-07f17a8424b9_dCC1.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Eight killed as speeding minivan rams into roadside tree in Tamil Nadu's Tiruchirappalli",
+       "link": "https://www.hindustantimes.com/india-news/eight-killed-as-speeding-minivan-rams-into-roadside-tree-in-tamil-nadus-tiruchirappalli-101795369432656.html",
+       "publishedAt": "2026-11-22T23:29+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Eight persons killed, two others injured as van rams roadside tree on State Highway in Tiruchi",
+       "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/eight-persons-killed-two-others-injured-as-van-rams-roadside-tree-on-state-highway-in-tiruchi/article71731469.ece",
+       "publishedAt": "2026-11-22T20:58+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "8 killed, 2 injured as car rams into tree in Tamil Nadu",
+       "link": "https://timesofindia.indiatimes.com/city/madurai/8-killed-2-injured-as-car-rams-into-tree-in-tamil-nadus-tiruchirappalli/articleshow/136076818.cms",
+       "publishedAt": "2026-11-22T20:13+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "8 killed, 2 injured as car rams into tree in Tamil Nadu's Tiruchirappalli",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeC1tdkduZF9lSEpUdUwwSzZGUGxNclVKeUk4a1JYU1JaajM3Mk5uOU82ZUVWT3QyczVldDllSFAxTEs2dUl2alROZzBOREJkeGlQeTFnaDdyYVVwTHg3cXNmTndJa1E2VEtWbVlsdS1vSXhhSC1fek0yREtrUThsZ1RWS09CLUozZlZWRUxsR2ZrYkNXN09OV0xDbmVxdUQ2eXRnR2Mxa3JQQllBOTBvZjZqNllDa0RVYWxxWVlkUEhYcmdzbWl3OS1TcFgtRDluVUNqQ0FNdWZDX1hyWFFZ0gHkAUFVX3lxTFA4TDZCMWNuZGFBdVZZcTFENDFRNDZKZERDT1NBU21tYkZEUFBjckV3ekh1amVuYzFiOXFmcnVHRGpPR09RanVPcktBUEEwcVJTVVp2d0wxMW8xOGtmdTYtZk8td1BORTkyT05uVGM0cUQ0WE1QZFBBazdHN09HS21IcU5GNVREckhhakpYSXZNQ0pxNEZWcWozajJTamNXdE9JS2xiMWVMZjY2YkVpVU04WmVkM1RxMmtGUkVDR3RxSGlLU0MyRjE5UWwtbk80X2hDMHFicXZIWW5JZWtVOGYxSVBVQg?oc=5",
+       "publishedAt": "2026-11-22T20:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Scene Box Office Collection Day 17",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SRFdZcGItSjFJTWhOTzczUzV2QU5lT2NyODlpZ0U0TjYwVjdxdnNaZV9mX2N5R2RxMkE1ZEFJS0R5NEhtZFFKSjR3eHg4SkFUaDUyVHB1T3IyNTFVSFBjczcwQ2t6WW9nX2tVWWVGZ1RNQjlZcnJRZDF3cDdUZw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-22T23:25+05:30",
+     "score": 7.93,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Scene Box Office Collection Day 17",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SRFdZcGItSjFJTWhOTzczUzV2QU5lT2NyODlpZ0U0TjYwVjdxdnNaZV9mX2N5R2RxMkE1ZEFJS0R5NEhtZFFKSjR3eHg4SkFUaDUyVHB1T3IyNTFVSFBjczcwQ2t6WW9nX2tVWWVGZ1RNQjlZcnJRZDF3cDdUZw?oc=5",
+       "publishedAt": "2026-11-22T23:25+05:30"
+      }
+     ]
+    },
+    {
+     "title": "FSSAI orders prosecution against Bisleri International for unsafe packaged drinking water",
+     "link": "https://www.thehindu.com/news/national/fssai-orders-prosecution-against-bisleri-international-for-unsafe-packaged-drinking-water/article71732196.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Moneycontrol.com",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-22T22:05+05:30",
+     "score": 7.81,
+     "summary": "\"The sample was found non-compliant with the prescribed bromate limits and declared unsafe under the FSS Act, 2006,\" the regulator said",
+     "image": "https://th-i.thgim.com/public/incoming/azcq3b/article71732204.ece/alternates/LANDSCAPE_1200/2026-11-22T160916Z_1391015199_RC2V2KA1VC1C_RTRMADP_3_INDIA-FOOD-SAFETY-BISLERI.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "FSSAI orders prosecution against Bisleri International for unsafe packaged drinking water",
+       "link": "https://www.thehindu.com/news/national/fssai-orders-prosecution-against-bisleri-international-for-unsafe-packaged-drinking-water/article71732196.ece",
+       "publishedAt": "2026-11-22T22:05+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "FSSAI sanctions prosecution against Bisleri International, flags ‘unsafe packaged drinking water’",
+       "link": "https://www.hindustantimes.com/india-news/fssai-sanctions-prosecution-against-bisleri-international-flags-unsafe-packaged-drinking-water-101795360763420.html",
+       "publishedAt": "2026-11-22T20:53+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "FSSAI sanctions prosecution against Bisleri over unsafe packaged drinking water",
+       "link": "https://timesofindia.indiatimes.com/india/fssai-sanctions-prosecution-against-bisleri-over-unsafe-packaged-drinking-water/articleshow/136077197.cms",
+       "publishedAt": "2026-11-22T20:38+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "FSSAI approves prosecution against Bisleri after packaged water sample found 'unsafe'",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1lTcVE5akxOWUNhU0NwQUs0V0FINWlOWXRrWjdmQUpEYlNNOWxEbXRQcVpNS2s5MjlmVlRBVVNHNDduZEFiX0JFRlQtYXdBVFVuUHlacER0ZzZvMTV4Smx5OFYwdWRaMnlvZTh0dDFJRjBlbklVQjVHVVV6Sml3Y05tS3JQdEFfRDJsZVdpWUx0cE5OOGNtQzR1cHZFM1lkbjNodVVGTXlNN0Fla1Q0eUdzWHg3NjJvOXJGLUFwZUdaeHBOY25lczF6LXlnOTRZcHpfYXFlaHRlSTNlSVF6VGRRUlI?oc=5",
+       "publishedAt": "2026-11-22T20:33+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-22T23:00+05:30",
    "generatedAt": "2026-11-22T23:11+05:30",
@@ -29388,174 +29583,6 @@
        "title": "'More important than heart': Australian PM caught making genital joke with climate minister at COP31 - wa",
        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb2szSjRyU0FySk5leUotV25WU0NreG5CLTBDYml3eEJnN0hKWTQyM1N0dmtydGZDaHJOR2dXcjZISXRRRlBERTdmNE5NUHRMcXdsYnp5ampjYmk2Zks0dzdDc2ZVb0lScThJeC1JQ2FLNWV1UHBXRjVhY29zU09xYTJNeXFhNWlhMUJudDFCOU5XUS1VYnQzRGF2VWxjelZqT0V2N1JBVDNxZWlwVzVvZGpzZndERFppNE85RVBHT2NhOXgwbFdPTUx2LUdERVZpeHJxR1NQTmpUTkdya0VZTl9FcmFXVERwQkRtYURiS0p0SVFtY3Z5UVFzRUJiNjBzazRWT1FPeDBRMllRZi1iaGJUWdIBmAJBVV95cUxNLXRsRDNKdUU0Y3p4eVRWbU5CeHVvaC1Nd3BhLUNmcmlPMnowSXJPSlRudFhmT0pXY2VLOFp4eVRNQngwYkNaNHVHMjk2WUM0QmpvVjU2bXV1SndDN0o4QWFDWFJIaHpJdnZVRWFMZDFudzhaTHktOXNOWm02UGlFdzJjcVZtczFVVGNFaWQtcThURGIwRjBCLUxTdkF5a3BueUF3ZU0zRHo1Z3dwSXMwdGk2T0Q0SHlRUDRtYUxrX2ItR2FPdVNNbmVKNmR1b09OVG9zZENxTXc4dVdZRmYwWGU4UmRLMkRSZENIZVZydWlIc3NVQUdZVDdFVzR3V2xOcHF6VzNSalh4d2FQdjdjRjV6UGxFdVNw?oc=5",
        "publishedAt": "2026-11-14T21:24+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T01:00+05:30",
-   "generatedAt": "2026-11-15T01:10+05:30",
-   "feeds": 16,
-   "headlines": 234,
-   "stories": [
-    {
-     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "Reuters",
-      "The Guardian",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T21:23+05:30",
-     "score": 7.87,
-     "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-14T21:23+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
-       "publishedAt": "2026-11-14T20:57+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Italy fines Meta €805m over accessing users' photos",
-     "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "Reuters",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-14T23:58+05:30",
-     "score": 7.84,
-     "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Italy fines Meta €805m over accessing users' photos",
-       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-14T23:58+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Italy fines Meta $887 million; must disable feature by default in 60 days",
-       "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-fined-887-million-for-accessing-android-users-photos-italian-regulator-cites-lack-of-co-operation-gives-60-day-deadline-to-disable-the-feature/articleshow/135838931.cms",
-       "publishedAt": "2026-11-14T22:44+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Italy fines Meta $880m over photo privacy",
-       "link": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
-       "publishedAt": "2026-11-14T21:46+05:30"
-      }
-     ]
-    },
-    {
-     "title": "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In Mumbai",
-     "link": "https://www.ndtv.com/india-news/mumbai-nariman-house-chabad-house-20-year-old-arrested-for-recce-of-26-11-target-nariman-house-in-mumbai-12327425#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "India TV News",
-      "Inshorts",
-      "NDTV",
-      "Rediff",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T21:28+05:30",
-     "score": 6.88,
-     "summary": "According to the police, the man identified as Yash Singh was working at the direction of foreign handlers and had been collecting photographs, vehicle details and precise location information about Jewish citizens.",
-     "image": "https://c.ndtvimg.com/2018-11/1gf86hcg_chabad-house-afp_625x300_23_November_18.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In Mumbai",
-       "link": "https://www.ndtv.com/india-news/mumbai-nariman-house-chabad-house-20-year-old-arrested-for-recce-of-26-11-target-nariman-house-in-mumbai-12327425#publisher=newsstand",
-       "publishedAt": "2026-11-14T21:28+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Australian PM caught making genital joke with climate minister at COP31 - watch",
-     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/more-important-than-heart-australian-pm-caught-making-genital-joke-with-climate-minister-at-cop31-watch/articleshow/135836793.cms",
-     "source": "Times of India",
-     "sources": [
-      "ABC News & Headlines – Australian Broadcasting Corporation",
-      "NDTV",
-      "SBS",
-      "SMH.com.au",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T21:24+05:30",
-     "score": 6.42,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135836978,imgsize-61716.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Australian PM caught making genital joke with climate minister at COP31 - watch",
-       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/more-important-than-heart-australian-pm-caught-making-genital-joke-with-climate-minister-at-cop31-watch/articleshow/135836793.cms",
-       "publishedAt": "2026-11-14T21:24+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'More important than heart': Australian PM caught making genital joke with climate minister at COP31 - wa",
-       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb2szSjRyU0FySk5leUotV25WU0NreG5CLTBDYml3eEJnN0hKWTQyM1N0dmtydGZDaHJOR2dXcjZISXRRRlBERTdmNE5NUHRMcXdsYnp5ampjYmk2Zks0dzdDc2ZVb0lScThJeC1JQ2FLNWV1UHBXRjVhY29zU09xYTJNeXFhNWlhMUJudDFCOU5XUS1VYnQzRGF2VWxjelZqT0V2N1JBVDNxZWlwVzVvZGpzZndERFppNE85RVBHT2NhOXgwbFdPTUx2LUdERVZpeHJxR1NQTmpUTkdya0VZTl9FcmFXVERwQkRtYURiS0p0SVFtY3Z5UVFzRUJiNjBzazRWT1FPeDBRMllRZi1iaGJUWdIBmAJBVV95cUxNLXRsRDNKdUU0Y3p4eVRWbU5CeHVvaC1Nd3BhLUNmcmlPMnowSXJPSlRudFhmT0pXY2VLOFp4eVRNQngwYkNaNHVHMjk2WUM0QmpvVjU2bXV1SndDN0o4QWFDWFJIaHpJdnZVRWFMZDFudzhaTHktOXNOWm02UGlFdzJjcVZtczFVVGNFaWQtcThURGIwRjBCLUxTdkF5a3BueUF3ZU0zRHo1Z3dwSXMwdGk2T0Q0SHlRUDRtYUxrX2ItR2FPdVNNbmVKNmR1b09OVG9zZENxTXc4dVdZRmYwWGU4UmRLMkRSZENIZVZydWlIc3NVQUdZVDdFVzR3V2xOcHF6VzNSalh4d2FQdjdjRjV6UGxFdVNw?oc=5",
-       "publishedAt": "2026-11-14T21:24+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Introspect own prejudices, stop lecturing': India hits back at US panel over Sharjeel Imam post",
-     "link": "https://timesofindia.indiatimes.com/india/introspect-on-your-own-prejudices-india-hits-back-at-us-religious-freedom-panel-over-sharjeel-imam-post/articleshow/135836188.cms",
-     "source": "Times of India",
-     "sources": [
-      "PGurus",
-      "Scroll.in",
-      "The Hindu",
-      "The Pamphlet",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T20:54+05:30",
-     "score": 6.37,
-     "summary": "Vinay Mohan Kwatra, India's ambassador to the US, criticized the USCIRF for its remarks about religious freedom. He stated that the commission lacks the authority to judge the rights of Indian citizens. His remarks came after the commission described jailed activist Sharjeel Imam as a person detained in India for his religious freedom advocacy.",
-     "image": "https://static.toiimg.com/photo/msid-135836404,imgsize-99527.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Introspect own prejudices, stop lecturing': India hits back at US panel over Sharjeel Imam post",
-       "link": "https://timesofindia.indiatimes.com/india/introspect-on-your-own-prejudices-india-hits-back-at-us-religious-freedom-panel-over-sharjeel-imam-post/articleshow/135836188.cms",
-       "publishedAt": "2026-11-14T20:54+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Introspect on your own prejudices': India hits back at US religious freedom panel over Sharjeel Imam pos",
-       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbGc1UlM5UWc0M2M0ODM3T2hWVmV2VElmN2xEc0tKa1dQOC01X1J3em5wQkpiT01JeUdOOWIzVEVlMnpHQmY2N1ZOODhOZzNjcDhXcVcwWnhZcEk3N2swc1BiYW9UbWg0R2x6Ump2cnB1MWtHa25pbU8xcmloNXQxMm1hM3BqTldYVGJ0dVFobUFkQmtRRGJDZ3Jyd1VmRE5zTklIc1lTRDVpeVZRNlRuOXpNNHRTUlZxTkFMYzdzS1VvdHpkV1laVDIyM2Nadmx1MWxkY1FsZ1c1X21zMzA3STRTaDJtRXVoeGxCWlFoR3BkNnc3UzNWTGo0VFo4dzZZ?oc=5",
-       "publishedAt": "2026-11-14T20:54+05:30"
       }
      ]
     }
