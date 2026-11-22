@@ -1,6 +1,190 @@
 {
- "updated": "2026-11-22T09:22+05:30",
+ "updated": "2026-11-22T10:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-22T10:00+05:30",
+   "generatedAt": "2026-11-22T10:27+05:30",
+   "feeds": 16,
+   "headlines": 133,
+   "stories": [
+    {
+     "title": "Aries Horoscope Today: November 22, 2026",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iaHY0NWw4VFQyS1BlYWlKMkxlcHZKbFRwQTBKOUVORHkwaS1laktVX3NJRHNudENkd2lIME4xbTNySGp4TUcxMUpocjhDMWJqdFZMSE1xWFoxRUVneEpvc2YwUlRNbmRxMm5YbGxvMTcyRHh2bGc?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "Chatelaine",
+      "Deccan Herald",
+      "GMA Network",
+      "Hindustan Times",
+      "India Today",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "eia.media"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-22T05:50+05:30",
+     "score": 10.44,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Aries Horoscope Today: November 22, 2026",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iaHY0NWw4VFQyS1BlYWlKMkxlcHZKbFRwQTBKOUVORHkwaS1laktVX3NJRHNudENkd2lIME4xbTNySGp4TUcxMUpocjhDMWJqdFZMSE1xWFoxRUVneEpvc2YwUlRNbmRxMm5YbGxvMTcyRHh2bGc?oc=5",
+       "publishedAt": "2026-11-22T05:50+05:30"
+      },
+      {
+       "source": "Deccan Herald",
+       "title": "Weekly Horoscope – November 22 to November 28, 2026: Check horoscope for all sun signs",
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdkJuNzRab2g3YWxYQkhJTzN3UVM4RTBpVHJlaUZNT0NuTEQ1TTZfbTd2UUhkbzAxR2htUldVVkZQTEh5YXdwWDEtR2pTYkZyQ3JBTDBVc3RuZl9nUmRNSWp4VjAzVmxJU2htX0E5S3VZVU5KUTRXUDB2czFfaTdwa3BVbXRYXzBFTzlDSHEwM0FsX19YV2JNLXhzZzdYQ0dpN1ktM1JfaGhmZ09rb2JtSFRkNnZCNVJVWWIxT3JOTEhfdnZmMEYzONIB1gFBVV95cUxPdUtqazNNR0k5ZzZ3bEUwbzJaalRMT3JQay13THhFeHN4VjB1TURYUFZveEc1SjJGOUEzbEV2Vm56LUNxQVJPVV9PcThUcERXOHF2SE0yeTZDLU9sNWZRdDdaNkFGUExhZ1JuUE5QY3VOTXh2UTAyX0c1eEthVGhCVlU5UDZMN2I2dmgwSEJOZHAwWXliRlBVeXgwWUZMMlVDNUFPRUtXWDhUYmktc1gtSDN4V2E2VkZKTUxfb3dTcjJFajZVNzFxdFVGZW0wTnRTODkycWhB?oc=5",
+       "publishedAt": "2026-11-22T05:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Video: Chaos As ICE Agents Drag Away Fliers At Seattle Airport Before Boarding",
+     "link": "https://www.ndtv.com/world-news/video-chaos-as-ice-agents-drag-away-fliers-at-seattle-airport-before-boarding-us-immigration-crackdown-12360660#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "CBS News",
+      "KING5.com",
+      "NDTV",
+      "Port of Seattle",
+      "The Seattle Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-22T08:16+05:30",
+     "score": 9.14,
+     "summary": "Video of the incident showed officers dragging away at least one person at Seattle-Tacoma International Airport as a woman screams that her daughter is being taken and she has a work permit.",
+     "image": "https://c.ndtvimg.com/2026-11/skkhk484_seattle_625x300_22_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Video: Chaos As ICE Agents Drag Away Fliers At Seattle Airport Before Boarding",
+       "link": "https://www.ndtv.com/world-news/video-chaos-as-ice-agents-drag-away-fliers-at-seattle-airport-before-boarding-us-immigration-crackdown-12360660#publisher=newsstand",
+       "publishedAt": "2026-11-22T08:16+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Watch: Masked ICE agents drag away two flyers at US airport during boarding",
+       "link": "https://timesofindia.indiatimes.com/world/us/watch-masked-ice-agents-drag-away-two-at-us-seattle-airport-spark-chaos-during-boarding/articleshow/136065874.cms",
+       "publishedAt": "2026-11-22T07:27+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Watch: Masked ICE agents drag away two at US’ Seattle airport, spark chaos during boarding",
+       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbnBOWnV5NlplRS05c05XZmlxQjJzenBmVG9faTlwcUVSc3hXOU1qNlFjcDVpZVZjLTl0SUxQOVBMUWd1OUxXbmg4OHRLdldNZ1d5SHRIQTdQWUlJbjhfTlJ4Vmx0OEtUc01qYmkxalpheHE0bHRUUTRVSWZaR3BaejJkX3RNeFlsVHkzNHRtWkN5MGRtdEI0MVRFSnBET1lkbmZNUzE0YWtWN1h6bGVNZF8yNDBiNWlJN2FneWJ0UUhvTHBjZW9LV3hDQk1BVXFOSFIta3ZWVExXSy1zUXhOenFwLVdweldEaHlHQjBabw?oc=5",
+       "publishedAt": "2026-11-22T07:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "At least nine killed, several injured as vehicle carrying pilgrims rams into truck in Rajasthan’s Kota",
+     "link": "https://www.thehindu.com/news/national/rajasthan/many-killed-several-injured-as-vehicle-carrying-pilgrims-rams-into-truck-in-rajasthans-kota/article71730542.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T09:41+05:30",
+     "score": 7.62,
+     "summary": "According to Additional District Collector Rajesh Joshi, the vehicle was carrying 16 people who were returning to Maharashtra after visiting Khatu Shyam when the accident occurred in the middle of the night",
+     "image": "https://th-i.thgim.com/public/incoming/rshza4/article71730544.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-22%20081436.png",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "At least nine killed, several injured as vehicle carrying pilgrims rams into truck in Rajasthan’s Kota",
+       "link": "https://www.thehindu.com/news/national/rajasthan/many-killed-several-injured-as-vehicle-carrying-pilgrims-rams-into-truck-in-rajasthans-kota/article71730542.ece",
+       "publishedAt": "2026-11-22T09:41+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "9 family members killed as pilgrims' vehicle crashes into truck in Rajasthan",
+       "link": "https://timesofindia.indiatimes.com/city/jaipur/9-devotees-returning-from-khatu-shyam-temple-killed-as-their-vehicle-rams-parked-truck-in-rajasthans-kota/articleshow/136065930.cms",
+       "publishedAt": "2026-11-22T07:39+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "9 Of Family Killed As Their Car Rams Parked Truck In Rajasthan's Kota",
+       "link": "https://www.ndtv.com/india-news/9-devotees-returning-from-khatu-shyam-temple-killed-as-their-vehicle-rams-parked-truck-in-rajasthans-kota-12360576#publisher=newsstand",
+       "publishedAt": "2026-11-22T07:31+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "9 killed, several injured as vehicle returning from Khatu Shyam rams parked truck on Rajasthan highway | India News",
+       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcEhsYklyejFXdlJfX213N2l2WkpaTFJXTkFpei02cEJISWZGTFYzZ3RwNVVDR3AyXzBYUnF4Ty1BbF94ZC1LaFlsU2loVzdQcGozbmJEbHFLYjQ5R2RTTG92THN2bG9fY2Jmb0VYcHdaRHBiOUY3MU9rZGthOTFWRjMzWHRnUFlGMjRuY2Fjd2ZOUmF2b1REcy1idklENHBRb3ZGdkZORU0xMW1maTVsWnpITjB5TlZ3OVN4dGJmQm0wdzBYUkM0Qkdndk5Ha0gyODktWEFkTlRON3VnYmhyYlVsMTNGU0FLa2xrS2Frb3B2TV83VU1N0gH8AUFVX3lxTE5XeUVFdDM3WHdsNjRQU0NCNS15SndRRDhqWkZ6aW9tN0dMSk5oZTBpNHd6MkcxVFpPNEZCc3h3cUJJNl91Y0Z3cTk3UGlqZVBtRXJkWjI0ZzZoOG95eWszYUdxd0I5VVcxaVN1a1dqNTY4UUZXRXZuQ1JKY0pENGhsbmJjX1dyVVZFNndlSVhCVW9wMjNTa0JFcWFpdkRoQlM1MG5JbjRISGhGdVpLRGk2WkRMQlUyZmc1T095UVcza0ZmeFVkUmtseWVmRF9ERzhoMFQzcFhPMlBhQWNUMnBzbHZ0QUxZNWNYbFZGTzRBeHBRR2ZFdXVtVERMaw?oc=5",
+       "publishedAt": "2026-11-22T07:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Fossil fuel dispute threatens to derail COP31 climate deal",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03c3R4cVlyV1I0cnJJdVFYbFk4VjlEOHZIRTE4NDNRM2tvNUxwY0EwbUQxZ1NlQl9KNVJZTkhJSHV0d1gxQ0hNTE9yRXRLd0l0NWtYM2k5NnZ0V0E?oc=5",
+     "source": "BBC",
+     "sources": [
+      "BBC",
+      "DW.com",
+      "Reuters",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T09:28+05:30",
+     "score": 7.34,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BBC",
+       "title": "Fossil fuel dispute threatens to derail COP31 climate deal",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03c3R4cVlyV1I0cnJJdVFYbFk4VjlEOHZIRTE4NDNRM2tvNUxwY0EwbUQxZ1NlQl9KNVJZTkhJSHV0d1gxQ0hNTE9yRXRLd0l0NWtYM2k5NnZ0V0E?oc=5",
+       "publishedAt": "2026-11-22T09:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Two Indian-origin persons killed in targeted shooting outside Canada Walmart",
+     "link": "https://timesofindia.indiatimes.com/world/us/organised-crime-suspected-two-indian-origin-persons-shot-dead-outside-canada-walmart-report/articleshow/136067289.cms",
+     "source": "Times of India",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "Telegraph India",
+      "The Avenue Mail",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T09:52+05:30",
+     "score": 7.15,
+     "summary": "The couple, identified as 23-year-old Gaganpreet (Garry) Rehal and 24-year-old Sukhjeet Kaur, were found with gunshot wounds in a parking lot.",
+     "image": "https://static.toiimg.com/photo/msid-136067304,imgsize-126314.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Two Indian-origin persons killed in targeted shooting outside Canada Walmart",
+       "link": "https://timesofindia.indiatimes.com/world/us/organised-crime-suspected-two-indian-origin-persons-shot-dead-outside-canada-walmart-report/articleshow/136067289.cms",
+       "publishedAt": "2026-11-22T09:52+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Indian-Origin Couple Killed Outside Canada Walmart, Targeted Shooting Likely",
+       "link": "https://www.ndtv.com/world-news/surrey-indian-origin-couple-killed-outside-canada-walmart-targeted-shooting-likely-12360788#publisher=newsstand",
+       "publishedAt": "2026-11-22T09:11+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-22T09:00+05:30",
    "generatedAt": "2026-11-22T09:22+05:30",
@@ -29480,195 +29664,6 @@
        "title": "U.S. FAA ground stop updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnN1WVpEek93bmZvMllzOGZrWGQxUVlIX2lxaHNqY0g1c0lHOTFDc1pwMUV1d0J2X2RuWFZjOWlxSnZ1R3ZGZDdZeGJSSWtDTHo2dm1VWVdTZXB3TzVzMy1TUUVnTW9UTG10NldQUlBHcTQ3VWRRSGFFOGxQVVZEaTFxM0dNcGVzRUp4b0hUZ28xdkRFVjd0dDlod1hLa3AyTG9kMWkzZHktZENQRkxFUFB2M0g0M1RxSU1tNzh1SGJ4X0tFQVV5eWUtUURzTXl1Tkl0RjdVZEZOVk1pTmfSAeQBQVVfeXFMTXRNQk5weURjMHQxNTBtYllXUlRueDlSMnY2elloZnE0VUU5a1ZYMWhMalFLT2FqV0tQX2huUVdPSXRrNkhqSVdoTmV0RFFOaktLamI1NHBOQUptcVE2NUVsdTkzYVhRRWk0YTJLMG9tWFUxaGpkLWUwWnR3Zk15YkhITUR1TFVXRUY1dVFNajdHeGVwTV9vQWJiX1dHTGd2YS1kMno2eVY5TGVfd2JNdFJCeXdZTmFnaktROTNnV3RwSTVVNGNTS25WYW9mOWMxWTVHV1VKcmNZWVh6M0l3X05HeG81?oc=5",
        "publishedAt": "2026-11-14T11:59+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-14T12:00+05:30",
-   "generatedAt": "2026-11-14T12:25+05:30",
-   "feeds": 16,
-   "headlines": 255,
-   "stories": [
-    {
-     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "Arab News",
-      "BBC",
-      "BBC News",
-      "CNN",
-      "Mint",
-      "NDTV",
-      "The Hindu"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-14T11:22+05:30",
-     "score": 9.32,
-     "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-14T11:22+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Trump, Xi, Putin To Hold Historic Meeting In China Next Week",
-       "link": "https://www.ndtv.com/world-news/donald-trump-xi-jinping-vladimir-putin-to-meet-next-week-at-apec-summit-in-china-12324669#publisher=newsstand",
-       "publishedAt": "2026-11-14T08:02+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "In a first, Trump to hold historic trilateral meeting with Xi, Putin in China next week | All you need to know",
-       "link": "https://www.livemint.com/news/us-news/in-a-first-trump-to-hold-historic-trilateral-meeting-with-xi-putin-in-china-next-week-all-you-need-to-know-11794620781785.html",
-       "publishedAt": "2026-11-14T07:22+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEQ5Q1VoVkdRb01adXJnWXVmNG5oaFl4SjJobDdyVVFaUV9YN1NXSEE3RlhvV3FnMGU4SDR4cllQTEpBM3FUX1pqNUZUOHJOOVBVTWhDQzJUUkk3VllqdG5NVUlQeVB6VU9rT3FaSDRud2xFMUNpRjZSdHR1bUJPWDFPd3NXMmlWOUtyVVlmQWk2eTZueThxNGZ6OWZRTWR5TUx0b3NfcFhwVVduaHRoZWR6bk9uYlp6YzNkX19iOHBwMGhvcVJlTW1pT3VQc3lsNFHSAdgBQVVfeXFMUG5mTEtnOGtRVjBKZGhucERSQmdvdFVxd1hQR1JMVjlXd1lsN0gzdEhnbkdTTjExQVhpZUpQYkFxRkt6aWFkS051V2h3ZkFqMktidTAtTWQ0Z3lqWVF3d3gxZ25xZVZfcEZLbXp0VHZnaktNUWZoVGRlUnd6djhEOTMteW9sU2ZYY0tFeTl6TlRnV3VkUjU3b1A1S0hVVUtZTUxIMnM5OXJxLUl1UWRXRDZXMktOZlc4b05ON1RoVHVyWHQxRk4tSGNQUEo1aWVBd3dOcF9DUVEz?oc=5",
-       "publishedAt": "2026-11-14T07:17+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft says services fully restored after for day-long global outage",
-     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC",
-      "BBC News",
-      "Reuters",
-      "The Conversation",
-      "The Hindu",
-      "The Japan Times"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T12:12+05:30",
-     "score": 8.46,
-     "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Microsoft says services fully restored after for day-long global outage",
-       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-14T12:12+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Microsoft Outage LIVE: Tech giant restores services across all affected systems after global outage",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
-       "publishedAt": "2026-11-14T12:06+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Gurnoor Brar added to Test squad, Kuldeep released as India go heavier on pace",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-gurnoor-brar-added-to-test-squad-kuldeep-yadav-released-as-india-go-heavier-on-pace/articleshow/135823318.cms",
-     "source": "Times of India",
-     "sources": [
-      "BCCI",
-      "Cricbuzz",
-      "ICC",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-14T10:46+05:30",
-     "score": 8.22,
-     "summary": "The two-Test series begins in Wellington on November 19. Gurnoor will join the Indian squad in Wellington and, as a result, will miss the fifth and final ODI against New Zealand on Sunday.",
-     "image": "https://static.toiimg.com/photo/msid-135823582,imgsize-104489.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Gurnoor Brar added to Test squad, Kuldeep released as India go heavier on pace",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-gurnoor-brar-added-to-test-squad-kuldeep-yadav-released-as-india-go-heavier-on-pace/articleshow/135823318.cms",
-       "publishedAt": "2026-11-14T10:46+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Brar joins India’s Test squad for NZ series",
-       "link": "https://economictimes.indiatimes.com/news/sports/cricket/gurnoor-brar-joins-indias-test-squad-for-new-zealand-series-kuldeep-yadav-released-for-domestic-cricket/articleshow/135822571.cms",
-       "publishedAt": "2026-11-14T09:52+05:30"
-      },
-      {
-       "source": "Cricbuzz",
-       "title": "NZ vs IND, 2026: Kuldeep Yadav released from Test squad; Gurnoor Brar included",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSm1SYmp4VnhrXzY0RkhfN3V2ZEpueDNLNmVUeDZmOEpfRHdXcDVDdXlPaEo1dFFaOHpjWVNBdGVEM3l1WlZ6QjFzZ0ZRMDE2anc1SHJDVmNwTGFleVpLRkZqREFwNXNFS21uN0Jhd2NEQVdSYVZKMFZPSkJYN2tNVFNzSW1jOGdkV1NtU1BkcDI5Z1ZpMVNTZmJ0eVBIUHl4UXJaTmFiQks?oc=5",
-       "publishedAt": "2026-11-14T10:33+05:30"
-      }
-     ]
-    },
-    {
-     "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
-     "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "CNN",
-      "The Economist",
-      "The Guardian",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T11:59+05:30",
-     "score": 7.68,
-     "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
-     "image": null,
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
-       "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
-       "publishedAt": "2026-11-14T09:02+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "U.S. FAA ground stop LIVE updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
-       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnN1WVpEek93bmZvMllzOGZrWGQxUVlIX2lxaHNqY0g1c0lHOTFDc1pwMUV1d0J2X2RuWFZjOWlxSnZ1R3ZGZDdZeGJSSWtDTHo2dm1VWVdTZXB3TzVzMy1TUUVnTW9UTG10NldQUlBHcTQ3VWRRSGFFOGxQVVZEaTFxM0dNcGVzRUp4b0hUZ28xdkRFVjd0dDlod1hLa3AyTG9kMWkzZHktZENQRkxFUFB2M0g0M1RxSU1tNzh1SGJ4X0tFQVV5eWUtUURzTXl1Tkl0RjdVZEZOVk1pTmfSAeQBQVVfeXFMTXRNQk5weURjMHQxNTBtYllXUlRueDlSMnY2elloZnE0VUU5a1ZYMWhMalFLT2FqV0tQX2huUVdPSXRrNkhqSVdoTmV0RFFOaktLamI1NHBOQUptcVE2NUVsdTkzYVhRRWk0YTJLMG9tWFUxaGpkLWUwWnR3Zk15YkhITUR1TFVXRUY1dVFNajdHeGVwTV9vQWJiX1dHTGd2YS1kMno2eVY5TGVfd2JNdFJCeXdZTmFnaktROTNnV3RwSTVVNGNTS25WYW9mOWMxWTVHV1VKcmNZWVh6M0l3X05HeG81?oc=5",
-       "publishedAt": "2026-11-14T11:59+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Kangana Ranaut booked over X post on Gandhis",
-     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/kangana-ranaut-booked-over-social-media-posts-on-gandhi-family-fir-registered/articleshow/135821383.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Deccan Herald",
-      "Moneycontrol.com",
-      "NDTV",
-      "Scroll.in",
-      "The Economic Times",
-      "The New Indian Express"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T09:05+05:30",
-     "score": 7.19,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Kangana Ranaut booked over X post on Gandhis",
-       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/kangana-ranaut-booked-over-social-media-posts-on-gandhi-family-fir-registered/articleshow/135821383.cms",
-       "publishedAt": "2026-11-14T08:59+05:30"
-      },
-      {
-       "source": "Moneycontrol.com",
-       "title": "Kangana Ranaut booked over 'mysterious foreigner' remark targeting Sonia Gandhi",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS204RDVDaEk0RTRnc2tUVzZ4Qnpnemd6NnFDb3VYVVRfOWExQ2hydE8wdk41X3VQeGh3TUMxeXJncUJzaXB2U0k3SWxRYS1jSXRIYW1kbW5JSUUySFUzZDAyZUlnOVNaQUJCV0o4T0s5d2lQV2tNbzZCZEJRWmc0QTNLTUswa3JadFhfU3l3X3JwZWUzMEdrMFFmYlNIUXFSNUxUMGh3SV9BMDRlcWNHa21BTWRjbmlURElxNllHcG9JcjYwOVN4ZmEzUdIB0AFBVV95cUxPT1BBcXlGMWN2ekhzWnZGTXdRaUg2UXh0M1d0RElCY3lfZXh5SEo0V1BpdWN3N1ZJc3FMQl80dlhFVnVhM0Z5ZXdEMVBPUzNhMHItUERSQll2OGlUaFJucXVSakhrdktwY2NrZzJPblNyUkFtTUQwNVRZX09ZZU51MFlCeDJlSGdRdkRMR29Bdkh0MW9ISWNmRGx3U2VVbGxZeE1Wc19ZUTdMWnFpR01QRXFucEpLcU0xUFAwVWp2ZkszeENabUVnN01vUWhoUTU1?oc=5",
-       "publishedAt": "2026-11-14T09:05+05:30"
       }
      ]
     }
