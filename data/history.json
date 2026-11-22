@@ -1,6 +1,166 @@
 {
- "updated": "2026-11-23T03:10+05:30",
+ "updated": "2026-11-23T04:13+05:30",
  "hours": [
+  {
+   "hour": "2026-11-23T04:00+05:30",
+   "generatedAt": "2026-11-23T04:13+05:30",
+   "feeds": 16,
+   "headlines": 189,
+   "stories": [
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 3",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSW5XYWRBUjBnbU5HYjFzMHpTcUZXb0R5MnNtWTg4cHhIRVI4QjgtLWVkeXVUeFk3b0FrTE85eGlGNWdDc21DMWRwaWdjX21yb3NxYXBqUGNHYXROaklvaG0xa3k1TGs1UldxZmZyZGdCVEl5Z0NQcXZpSG9ZWjFibUFXSEFuemZmdFd5N3h3?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Pragativadi",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "Telugu Cinema",
+      "The Hindu",
+      "The Times of India",
+      "Tupaki English"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-23T01:35+05:30",
+     "score": 10.63,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 3",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSW5XYWRBUjBnbU5HYjFzMHpTcUZXb0R5MnNtWTg4cHhIRVI4QjgtLWVkeXVUeFk3b0FrTE85eGlGNWdDc21DMWRwaWdjX21yb3NxYXBqUGNHYXROaklvaG0xa3k1TGs1UldxZmZyZGdCVEl5Z0NQcXZpSG9ZWjFibUFXSEFuemZmdFd5N3h3?oc=5",
+       "publishedAt": "2026-11-23T01:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
+     "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "ESPN India",
+      "Goal.com",
+      "Paddy Power News",
+      "Premier League",
+      "Sportstar"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-23T00:15+05:30",
+     "score": 7.84,
+     "summary": "Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
+       "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
+       "publishedAt": "2026-11-23T00:14+05:30"
+      },
+      {
+       "source": "ESPN India",
+       "title": "Will Mauricio Pochettino start strongly at Man United? What his career stats say",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVUlhMXkyQTRmSUhPMFFMUDNMY2RMVlFRM0hRSVJZXzFoTktSOTFIbWFOT2lBOUUtbmFKcGlrMmRKTnAwUUhBWXUteUZKTUVmNmdCTTZuY3B2aG5JU1dNZWdLSE1SbVhDNmNCMXp2NXdyM29yQmNPR1hYWFBmVGhSZXRwdEpnR2NmRFpPTkVxOHFZSUNyYjFQSmtoLUt0VEMxRlBHVjBaRQ?oc=5",
+       "publishedAt": "2026-11-22T23:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump threatens fresh strikes on Iran after New Year if talks fail",
+     "link": "https://timesofindia.indiatimes.com/world/us/trump-threatens-fresh-strikes-on-iran-after-new-year-if-talks-fail-accuses-tehran-of-stalling-negotiations/articleshow/136083179.cms",
+     "source": "Times of India",
+     "sources": [
+      "Financial Times",
+      "Fox News",
+      "Iran International",
+      "The Jerusalem Post",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T01:35+05:30",
+     "score": 6.64,
+     "summary": "US President Donald Trump has issued a warning to Iran regarding potential military strikes after New Year. He accused Tehran of stalling negotiations and escalating military aggression. Iranian officials were described as being more aggressive in their diplomatic efforts post-elections. The IRGC claimed responsibility for attacks on US military positions in Bahrain in recent conflicts. Additionally, anti-government…",
+     "image": "https://static.toiimg.com/photo/msid-136083188,imgsize-52436.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Trump threatens fresh strikes on Iran after New Year if talks fail",
+       "link": "https://timesofindia.indiatimes.com/world/us/trump-threatens-fresh-strikes-on-iran-after-new-year-if-talks-fail-accuses-tehran-of-stalling-negotiations/articleshow/136083179.cms",
+       "publishedAt": "2026-11-23T01:35+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Trump threatens fresh strikes on Iran after New Year if talks fail, accuses Tehran of stalling negotiatio",
+       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOY1k3NF9NOTJrMWxNNDNaZmNjZHoyc0JydnZJdFJqZUU5ZlJBUmV0QVhmY0VjUnYyY1BSNVFiMWlrd1BpVEFVcHZJbkhZbTdFeXB6OEpxQ3Fqb2J0T3ExTzlJaWV6Q0I5ajlIeG94OUlVTjgtNnVHRFM2aTFIanhleGpuZHpsSUNqSk5wYnlQVUx2RFVna0QwZ0xTWGx5Q2JWYkpOVWRMa0htd2I2d2kyaTBLNmRzMGVFY3hPVUJicjBYd3Q3UjBCRlozSlVEUl9scW9FOVRkSms4SWp5REJmOGV0SWJ0Q2Vqald6MzFuUG05SnpmZXpDMEFHSzl3cU8zdXN3QnNUNEQ?oc=5",
+       "publishedAt": "2026-11-23T01:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bangladesh unrest: Bengal CM Suvendu to write to EAM to extend minority entry cut-off",
+     "link": "https://timesofindia.indiatimes.com/india/bangladesh-unrest-bengal-cm-suvendu-to-write-to-eam-may-push-to-extend-minority-entry-cut-off/articleshow/136079971.cms",
+     "source": "Times of India",
+     "sources": [
+      "Magzter",
+      "MorungExpress",
+      "The New Indian Express",
+      "The Statesman",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T22:54+05:30",
+     "score": 6.33,
+     "summary": "West Bengal chief minister Suvendu Adhikari is set to contact external affairs minister S Jaishankar regarding violence in Bangladesh. He indicated that the state government may seek an extension for religious minorities fleeing Bangladesh to enter India. Adhikari mentioned significant public concern in West Bengal due to the unrest across the border. Meanwhile, the BJP leader has called for protests against the…",
+     "image": "https://static.toiimg.com/photo/msid-136080152,imgsize-79526.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Bangladesh unrest: Bengal CM Suvendu to write to EAM to extend minority entry cut-off",
+       "link": "https://timesofindia.indiatimes.com/india/bangladesh-unrest-bengal-cm-suvendu-to-write-to-eam-may-push-to-extend-minority-entry-cut-off/articleshow/136079971.cms",
+       "publishedAt": "2026-11-22T22:54+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Bangladesh unrest: Bengal CM Suvendu to write to EAM, may push to extend minority entry cut-off",
+       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaVpxTjF2b0VvWWxOZ0paUGhkVGozcldQc196QmxEc1VMT2RWOVBxVk1WRlg4ZFNTb2xPUEZWZ0N6UnNJcDdmS2ExcXotYkwtbUFvQnpvY0J3bUdmNXV1RU85cmRqdWJGNEM1d203NzRIMUZGS1VicW5Jc2xUUDVlc256Q2VqVm1QaDRMYlZyYmU3NExscVdJVFdIZFJOanRIMDMyM0l2LTU1SnB5VnBxR1dCQ05CbU5EVFZrbVBnYlF0RDVxa29lTEJFcUc0M1pOMHptbnVzUGhtM1dJVTAzLWVjOEtBVWQzdjZsbWFMLTNkcms?oc=5",
+       "publishedAt": "2026-11-22T22:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "What Is Apple (AAPL) Planning With Its New Autonomous AI Agent?",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkZLdmwyWGlObEo1YVNleUhDTEtRYlFmSUd5TUkwUUNOcm4wUi1ubVJGS2UwTjFtVWZoNHI0OUhELUNlTURHNmlCdVhrbVVUQmppRXk3OVJqX051VkpSOGZYeWlnVlc3aHRSeUZjYU02Y21uR0s3LWd4d3AzNjBEQ0MxZ2E1WE5qOWdya1VoZFd3b0VwTlNSQ0NzdE9BUQ?oc=5",
+     "source": "Yahoo Finance",
+     "sources": [
+      "Bloomberg.com",
+      "Firstpost",
+      "GSMArena.com",
+      "The Times of India",
+      "Yahoo Finance"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-23T01:36+05:30",
+     "score": 6.31,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Yahoo Finance",
+       "title": "What Is Apple (AAPL) Planning With Its New Autonomous AI Agent?",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkZLdmwyWGlObEo1YVNleUhDTEtRYlFmSUd5TUkwUUNOcm4wUi1ubVJGS2UwTjFtVWZoNHI0OUhELUNlTURHNmlCdVhrbVVUQmppRXk3OVJqX051VkpSOGZYeWlnVlc3aHRSeUZjYU02Y21uR0s3LWd4d3AzNjBEQ0MxZ2E1WE5qOWdya1VoZFd3b0VwTlNSQ0NzdE9BUQ?oc=5",
+       "publishedAt": "2026-11-23T01:36+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-23T03:00+05:30",
    "generatedAt": "2026-11-23T03:10+05:30",
@@ -29524,156 +29684,6 @@
        "title": "Itllu Arjuna Box Office Collection Day 2",
        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0FudlZoaXdkdUhFLUx2RGlyblpDSmMxMlNURmtvZ3hVemdPM215UE16c0lTNmliZjZGckZMcWhiMTY4NFZaSUxDOFkzUWxLOHYzeW1FRTROSXE5TzgxMF9DZTFTX1YwYXlDWTItNGlyVnRoa1JYTWlYbWM0SUJqS2pRT1pyUQ?oc=5",
        "publishedAt": "2026-11-15T01:33+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T05:00+05:30",
-   "generatedAt": "2026-11-15T05:04+05:30",
-   "feeds": 16,
-   "headlines": 120,
-   "stories": [
-    {
-     "title": "Itllu Arjuna Box Office Collection Day 2",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0FudlZoaXdkdUhFLUx2RGlyblpDSmMxMlNURmtvZ3hVemdPM215UE16c0lTNmliZjZGckZMcWhiMTY4NFZaSUxDOFkzUWxLOHYzeW1FRTROSXE5TzgxMF9DZTFTX1YwYXlDWTItNGlyVnRoa1JYTWlYbWM0SUJqS2pRT1pyUQ?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "Gulte",
-      "Rediff",
-      "Sacnilk",
-      "THE WEEK",
-      "The Hindu",
-      "The Times of India",
-      "Tupaki English",
-      "iDiva"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-15T01:33+05:30",
-     "score": 8.91,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Itllu Arjuna Box Office Collection Day 2",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0FudlZoaXdkdUhFLUx2RGlyblpDSmMxMlNURmtvZ3hVemdPM215UE16c0lTNmliZjZGckZMcWhiMTY4NFZaSUxDOFkzUWxLOHYzeW1FRTROSXE5TzgxMF9DZTFTX1YwYXlDWTItNGlyVnRoa1JYTWlYbWM0SUJqS2pRT1pyUQ?oc=5",
-       "publishedAt": "2026-11-15T01:33+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
-     "source": "Reuters",
-     "sources": [
-      "Al Arabiya English",
-      "Reuters",
-      "The Hindu",
-      "Xinhua",
-      "تسنیم"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T04:24+05:30",
-     "score": 6.64,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Reuters",
-       "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
-       "publishedAt": "2026-11-15T04:24+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Warriors vs Lions, Final, CSA T20 Challenge 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObTd3c01wTFJHamNhWGFkbU1vZU05enVLN0NUMGJ4dFNmbXlrZVFDZzJCbU1YTmUzMnAyOV9DUHN1aXcxUHA0V2F0X0tqRU4yWEdLRUphaWVSY2Z5MzEyV21URU1uUnUxMGZBZmlrTjZFVlBlSVppR251TFhFdXZjdFRvN2RRdmM3U0c3MHlhU0pnOG54M1FFYw?oc=5",
-     "source": "Cricbuzz",
-     "sources": [
-      "Cricbuzz",
-      "Cricket Fanatics Magazine",
-      "Cricket World",
-      "ESPN",
-      "India Today",
-      "SA Cricket Mag"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T01:07+05:30",
-     "score": 6.45,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricbuzz",
-       "title": "Warriors vs Lions, Final, CSA T20 Challenge 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObTd3c01wTFJHamNhWGFkbU1vZU05enVLN0NUMGJ4dFNmbXlrZVFDZzJCbU1YTmUzMnAyOV9DUHN1aXcxUHA0V2F0X0tqRU4yWEdLRUphaWVSY2Z5MzEyV21URU1uUnUxMGZBZmlrTjZFVlBlSVppR251TFhFdXZjdFRvN2RRdmM3U0c3MHlhU0pnOG54M1FFYw?oc=5",
-       "publishedAt": "2026-11-15T01:07+05:30"
-      },
-      {
-       "source": "Cricket World",
-       "title": "Latest cricket news, live scores and video",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWVSVTF1Q28tV3h1STRUanVRb3pBeVdpWUl6N0FsbDZQcnRFUm5XTEMzX1dzVzZrV1JDQzlDYUI1Q2RiN2FQV1E5LXR5N2xmTUVrOWEyY0NvaWxRUi1uYTVjZ3BlbEswZUlXSVZ4M2tDS0VNM25EYVYzT01zdnVldWdBbVFHTFluMGN4UUw5OC1KWEkyUFJrbHZlbmx1WnZicFdxcw?oc=5",
-       "publishedAt": "2026-11-14T23:43+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cong has asked for 181 seats, Akhilesh reveals for first time",
-     "link": "https://timesofindia.indiatimes.com/city/lucknow/cong-has-asked-for-181-seats-akhilesh-reveals-for-first-time/articleshow/135841769.cms",
-     "source": "Times of India",
-     "sources": [
-      "ETV Bharat",
-      "Inshorts",
-      "The New Indian Express",
-      "The Times of India",
-      "ThePrint",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T00:52+05:30",
-     "score": 6.41,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135841768,imgsize-7415415.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Cong has asked for 181 seats, Akhilesh reveals for first time",
-       "link": "https://timesofindia.indiatimes.com/city/lucknow/cong-has-asked-for-181-seats-akhilesh-reveals-for-first-time/articleshow/135841769.cms",
-       "publishedAt": "2026-11-15T00:52+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Cong has asked for 181 seats, Akhilesh reveals for first time",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQng4OVNNWGtmTUpTRVN4NUh6X0pwaGNZN3R4Z2RIbHptN3l4VUZXUlE1ZFVqZ3lFYnhrUTlGa1gxZ2hnYUJwdG9rOGhxVkpDQ1dZQ0UwSEFiNW5lU0QweGdIUkVBdUI2ODFrTXAyaVg2NXVIZWNNdEYwQk4zLVdUWFNTX0E1eWdhbWZoSEZxM2w4SzhkeFVrV3otalRzMlYzQktoajJNU0k4N2l2a2w2ZFdOdVJxT2RDcDhYZkhvWDNPNnBQVndrUVhFcU9rUHFm?oc=5",
-       "publishedAt": "2026-11-15T00:52+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Galaxy S27 Release Date: Samsung Bets Big On New 'Pro' Phone",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWNicEx4T21sSVEzYjJXQmNFSzdCYjNXdGVFdkpXYXJBNi1vel9kSkNTMjJpTlVENHhVY3dsTHFRUkhmQi04WDFlRU5YeEhNOV9qVk1KRXNaYW1TdXBvbkZrclM0OXdtQndqQTFlM01FS1drYVZOYi00NDRmWEhObmRTR3ZRZEVvN1hmMFFiMXRHdkljb01zRmhJMU9WZzhvT0JKQURXVDYyN3VXUmpLQUE5cVJ4MkZVX1UzQndzcw?oc=5",
-     "source": "Forbes",
-     "sources": [
-      "91Mobiles",
-      "Forbes",
-      "GSMArena.com",
-      "SammyGuru",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T01:58+05:30",
-     "score": 5.98,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Forbes",
-       "title": "Galaxy S27 Release Date: Samsung Bets Big On New 'Pro' Phone",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWNicEx4T21sSVEzYjJXQmNFSzdCYjNXdGVFdkpXYXJBNi1vel9kSkNTMjJpTlVENHhVY3dsTHFRUkhmQi04WDFlRU5YeEhNOV9qVk1KRXNaYW1TdXBvbkZrclM0OXdtQndqQTFlM01FS1drYVZOYi00NDRmWEhObmRTR3ZRZEVvN1hmMFFiMXRHdkljb01zRmhJMU9WZzhvT0JKQURXVDYyN3VXUmpLQUE5cVJ4MkZVX1UzQndzcw?oc=5",
-       "publishedAt": "2026-11-15T01:58+05:30"
       }
      ]
     }
