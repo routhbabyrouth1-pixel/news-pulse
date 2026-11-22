@@ -1,6 +1,196 @@
 {
- "updated": "2026-11-22T13:44+05:30",
+ "updated": "2026-11-22T15:16+05:30",
  "hours": [
+  {
+   "hour": "2026-11-22T15:00+05:30",
+   "generatedAt": "2026-11-22T15:16+05:30",
+   "feeds": 17,
+   "headlines": 289,
+   "stories": [
+    {
+     "title": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
+     "link": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "Crash.net",
+      "ESPN India",
+      "Formula 1",
+      "RacingNews365",
+      "Sky Sports",
+      "The Guardian",
+      "The Race"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-22T13:18+05:30",
+     "score": 9.92,
+     "summary": "Red Bull's Verstappen dug deep to fend off Antonelli and Russell in a race that saw a jaw-dropping 35 lead changes.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
+       "link": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+       "publishedAt": "2026-11-22T13:18+05:30"
+      },
+      {
+       "source": "Crash.net",
+       "title": "Formula 1 Las Vegas Grand Prix: Full race results",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONjViTXl6enIxSDRzT2p4TXFQcnRDei1TckZSek5sOHFzOFRya1ZXb2FNZXl3ZTdGNUtIc25jMDlOeGlaNjh4YjdLZnFVTU9iM0lGcnhFaHFiUTFQZTVCQXlzenhsUlV4cE5UTkdPZ0lyc012alRKendDZkNGR09RTHlDUE1UUXJEbExaN01oSENoMFlzQVE?oc=5",
+       "publishedAt": "2026-11-22T11:13+05:30"
+      },
+      {
+       "source": "RacingNews365",
+       "title": "2026 F1 Las Vegas Grand Prix results",
+       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRVWp6TnowQlVGM0VzcnkzMV9CWHM1SVBxTHNjR1dZNnZKRUlhN09EVTVEUFItY2dtNHJmbUxTMjdBY1kzVHRjcXNfelJRMWRaYl9mMU96WWNQRG1GdmZmU3VwVXpyUjY1NjNoczdWcw?oc=5",
+       "publishedAt": "2026-11-22T11:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "BJP Rajya Sabha MP Ramrao Wadkute dies of cardiac arrest in Delhi",
+     "link": "https://www.thehindu.com/news/national/bjp-maharashtra-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/article71730872.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "The Hindu",
+      "The Indian Express",
+      "The Shillong Times",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-22T13:17+05:30",
+     "score": 9.17,
+     "summary": "Hailing from Parbhani in Maharashtra's Marathwada region, Mr. Wadkute was elected to the Rajya Sabha in April this year",
+     "image": "https://th-i.thgim.com/public/incoming/5d8j10/article71730877.ece/alternates/LANDSCAPE_1200/HXtj2WoagAA8pjX.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "BJP Rajya Sabha MP Ramrao Wadkute dies of cardiac arrest in Delhi",
+       "link": "https://www.thehindu.com/news/national/bjp-maharashtra-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/article71730872.ece",
+       "publishedAt": "2026-11-22T13:17+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "BJP MP Ramrao Sakharam Wadkute dies of cardiac arrest, PM Modi offers condolences",
+       "link": "https://indianexpress.com/article/india/bjp-rajya-sabha-mp-ramrao-sakharam-wadkute-dies-cardiac-arrest-aiims-delhi-10973600/",
+       "publishedAt": "2026-11-22T12:57+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "BJP Rajya Sabha MP Ramrao Wadkute dies of cardiac arrest in Delhi",
+       "link": "https://timesofindia.indiatimes.com/india/bjp-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/articleshow/136069447.cms",
+       "publishedAt": "2026-11-22T12:45+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "BJP Rajya Sabha MP Ramrao Wadkute dies at 72",
+       "link": "https://www.hindustantimes.com/india-news/bjp-rajya-sabha-mp-ramrao-vadkute-dies-at-72-101795321557011.html",
+       "publishedAt": "2026-11-22T10:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Ramayana' box office Day 18: Ranbir starrer is set to cross Rs 935 crore net in India",
+     "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-rise-of-a-legend-box-office-collection-day-18-live-ranbir-kapoor-sai-pallavi-and-yash-starrer-is-set-to-cross-rs-935-crore-net-in-india-today/articleshow/136070847.cms",
+     "source": "Times of India",
+     "sources": [
+      "Deccan Chronicle",
+      "Sacnilk",
+      "Telugu Cinema",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-22T14:35+05:30",
+     "score": 7.93,
+     "summary": "Directed by Nitesh Tiwari, 'Ramayana: Rise of a Legend' features an impressive cast including Ranbir Kapoor, Sai Pallavi, and Yash. Despite receiving mixed reviews about character portrayals, the film has triumphed at the box office, grossing over Rs 1,096.89 crore in India and a staggering Rs 1,651.00 crore worldwide. Currently screening in 6,585 cinemas, it continues to attract audiences, with a sequel targeted…",
+     "image": "https://static.toiimg.com/photo/msid-136070900,imgsize-751205.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Ramayana' box office Day 18: Ranbir starrer is set to cross Rs 935 crore net in India",
+       "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-rise-of-a-legend-box-office-collection-day-18-live-ranbir-kapoor-sai-pallavi-and-yash-starrer-is-set-to-cross-rs-935-crore-net-in-india-today/articleshow/136070847.cms",
+       "publishedAt": "2026-11-22T14:35+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Box Office Collection Day 17 Live Updates: Ranbir Kapoor’s film third-fastest to hit Rs 900 cr India net, earns Rs 1,616 cr",
+       "link": "https://indianexpress.com/article/entertainment/bollywood/ramayana-collection-day-17-live-updates-ranbir-kapoor-film-earns-rs-1616-cr-10973371/",
+       "publishedAt": "2026-11-22T09:47+05:30"
+      },
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 4",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDNsdExib0pmc2gydW9lemd0WmVVSjFyeFh4Y0NZSFNLMGhlMUtVbGFNVmgwYXJOaDBLaXdhVWl0di1DZks2bU93MXpKSi10Mi1wbjJ0N21ISzRzM01vbFZnR0lKN0pfZW9RempLVXpXSVRmY1dtOERPeTVBcUhOSkNGYw?oc=5",
+       "publishedAt": "2026-11-22T13:20+05:30"
+      }
+     ]
+    },
+    {
+     "title": "COP31 climate talks close to final deal, summit president says",
+     "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "Down To Earth",
+      "NDTV",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-22T13:38+05:30",
+     "score": 7.23,
+     "summary": "New draft would acknowledge for the first time that global ⁠⁠⁠⁠⁠⁠⁠⁠warming is on course to pass 1.5°C.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "COP31 climate talks close to final deal, summit president says",
+       "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+       "publishedAt": "2026-11-22T10:21+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘Keep politics and sports separate’: Congress leaders reject Imran Masood's remarks on cricketer Siraj's exclusion from NZ test",
+     "link": "https://www.hindustantimes.com/india-news/keep-politics-and-sports-separate-congress-leaders-reject-imran-masoods-remarks-on-cricketer-sirajs-exclusion-from-nz-test-101795333786929.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Rediff",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-22T14:53+05:30",
+     "score": 7.15,
+     "summary": "Congress leaders Mumtaz Patel and Ranjeet Ranjan distanced themselves from Masood's remarks on Mohammed Siraj's exclusion from the Indian test team.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/22/1600x900/logo/mumtaz_patel_on_imran_masood_1795334085852_fep3_1795334089860_ezCT_c18fd486-07ea-46bd-bb98-802e1499c1a4_85mS.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "‘Keep politics and sports separate’: Congress leaders reject Imran Masood's remarks on cricketer Siraj's exclusion from NZ test",
+       "link": "https://www.hindustantimes.com/india-news/keep-politics-and-sports-separate-congress-leaders-reject-imran-masoods-remarks-on-cricketer-sirajs-exclusion-from-nz-test-101795333786929.html",
+       "publishedAt": "2026-11-22T14:53+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"Hate Politics\": Another Congress Leader Counters Imran Masood's Siraj Remark",
+       "link": "https://www.ndtv.com/india-news/congress-leader-mumtaz-patel-counters-party-mp-on-mohammed-siraj-row-slams-hate-politics-12361146#publisher=newsstand",
+       "publishedAt": "2026-11-22T13:39+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-22T13:00+05:30",
    "generatedAt": "2026-11-22T13:44+05:30",
@@ -29389,195 +29579,6 @@
        "title": "Assam Teen Stabs Mother, Then Falls To Death From Building",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTBHdU5qTUltLXJGQlcxUW5GSjZScjZMY0xycV9qSkwwckpfa2V3UlRKVUpSRE14enZqZWxxekF4SW9LRU1BUEdlUjhMSW9NRFJBbFo2YmIzY09Hd051NVgtT3lUdVFLNXRaWnp3RzEtQW1zYlhfc2xUd1hYRjhfdkdmNUM3aWRfc3lZQjRHVjdDNGtsWURKaGxmRjIwb3PSAacBQVVfeXFMTlU5d2Ytc1o0TG01OGg5S0tiVDVDQ0xSSFpnekNNc01tQ0JubzVTc0RmT1JlSDB6WC15WXFQV2xPdFh0VWRQdVkwUjZtaEZpblBFUG1vc2FxTHpQZEozOVhaMkJFYVJudXVYX3RDWjdQa1prVWVBZDd4blp3bG13WElrMkF3NzhyWEN5aWk5V2xCc1lqWWJ2d3FoTHhwaWctdThCNm1LOWM?oc=5",
        "publishedAt": "2026-11-14T11:28+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-14T16:00+05:30",
-   "generatedAt": "2026-11-14T16:10+05:30",
-   "feeds": 16,
-   "headlines": 311,
-   "stories": [
-    {
-     "title": "Sooryavanshi now youngest captain in men's T20",
-     "link": "https://economictimes.indiatimes.com/news/sports/cricket/15-year-old-vaibhav-sooryavanshi-becomes-youngest-captain-in-mens-t20-history/articleshow/135826312.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "BCCI",
-      "Cricinfo",
-      "Rajasthan Royals",
-      "Reuters",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-14T13:06+05:30",
-     "score": 8.99,
-     "summary": "The Bihar Cricket Association (BCA) announced a 17-member squad last Friday, naming Sooryavanshi captain for the first two matches of the tournament. Suraj Kashyap was appointed vice-captain.",
-     "image": "https://static.toiimg.com/photo/msid-135824756,imgsize-26304.cms",
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Sooryavanshi now youngest captain in men's T20",
-       "link": "https://economictimes.indiatimes.com/news/sports/cricket/15-year-old-vaibhav-sooryavanshi-becomes-youngest-captain-in-mens-t20-history/articleshow/135826312.cms",
-       "publishedAt": "2026-11-14T13:06+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Vaibhav Sooryavanshi breaks men's T20 world record at 15 years and 232 days",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-scripts-history-becomes-youngest-captain-in-mens-t20-cricket-history/articleshow/135824695.cms",
-       "publishedAt": "2026-11-14T11:47+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "India's Sooryavanshi becomes youngest captain in men's T20 history",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRV9YOGZqQ183c2N0U2phWWFPNGtQQVpweVo2OWRJQVVYWVl0WFltRVJ6YVpXZXlKX3BfVkZuUjQ5YnJFWDQtZldRNE9GWmxfWk93QVN1SXJHamNrOEkxa001cTh2V2lwcE5qTHlIWVJRaVlCd1pDV2tCSlR5bmxtUjlhSlNrSEpBdlV3SHJmWGN3Rll5ZENqSWJ4blprLXN0UFh1Qzd3WkljLWY2ckR5cW5B?oc=5",
-       "publishedAt": "2026-11-14T12:46+05:30"
-      }
-     ]
-    },
-    {
-     "title": "What we know about the ground stop and what to do if you're affected",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CNBC",
-      "CNN",
-      "The Guardian",
-      "The Hindu"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-14T13:12+05:30",
-     "score": 8.26,
-     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "What we know about the ground stop and what to do if you're affected",
-       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-14T13:12+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Airport chaos continues after US ground stop lifted – as it happened",
-       "link": "https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues",
-       "publishedAt": "2026-11-14T11:25+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "US air travel thrown into chaos after nationwide ground stop halts flights",
-       "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
-       "publishedAt": "2026-11-14T11:12+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "U.S. FAA ground stop updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
-       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnN1WVpEek93bmZvMllzOGZrWGQxUVlIX2lxaHNqY0g1c0lHOTFDc1pwMUV1d0J2X2RuWFZjOWlxSnZ1R3ZGZDdZeGJSSWtDTHo2dm1VWVdTZXB3TzVzMy1TUUVnTW9UTG10NldQUlBHcTQ3VWRRSGFFOGxQVVZEaTFxM0dNcGVzRUp4b0hUZ28xdkRFVjd0dDlod1hLa3AyTG9kMWkzZHktZENQRkxFUFB2M0g0M1RxSU1tNzh1SGJ4X0tFQVV5eWUtUURzTXl1Tkl0RjdVZEZOVk1pTmfSAeQBQVVfeXFMTXRNQk5weURjMHQxNTBtYllXUlRueDlSMnY2elloZnE0VUU5a1ZYMWhMalFLT2FqV0tQX2huUVdPSXRrNkhqSVdoTmV0RFFOaktLamI1NHBOQUptcVE2NUVsdTkzYVhRRWk0YTJLMG9tWFUxaGpkLWUwWnR3Zk15YkhITUR1TFVXRUY1dVFNajdHeGVwTV9vQWJiX1dHTGd2YS1kMno2eVY5TGVfd2JNdFJCeXdZTmFnaktROTNnV3RwSTVVNGNTS25WYW9mOWMxWTVHV1VKcmNZWVh6M0l3X05HeG81?oc=5",
-       "publishedAt": "2026-11-14T11:59+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Microsoft says services fully restored after day-long global outage",
-     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC",
-      "BBC News",
-      "ET Government",
-      "Reuters",
-      "The Conversation",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-14T14:11+05:30",
-     "score": 8.17,
-     "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Microsoft says services fully restored after day-long global outage",
-       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-14T12:12+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
-       "publishedAt": "2026-11-14T14:11+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Rahul Gandhi joins gig workers' bike rally in Hyderabad, launches welfare scheme",
-     "link": "https://www.hindustantimes.com/india-news/rahul-gandhi-revnath-reddy-joins-gig-workers-bike-rally-in-hyderabad-launches-telangana-gig-workers-social-security-and-welfare-scheme-101794643662646.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Deccan Chronicle",
-      "Hindustan Times",
-      "The Hindu",
-      "The New Indian Express",
-      "The Shillong Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-14T14:26+05:30",
-     "score": 7.96,
-     "summary": "Visuals showed Rahul Gandhi riding pillion on a scooty driven by a female gig worker, while Reddy was also seen riding pillion behind another worker.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/logo/PTI11-14-2026-000062B-0_1794643769116_ESQX_1794643795295_Tu2C_64332267-99ac-4827-ae69-41f4448cff74_M5t6.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Rahul Gandhi joins gig workers' bike rally in Hyderabad, launches welfare scheme",
-       "link": "https://www.hindustantimes.com/india-news/rahul-gandhi-revnath-reddy-joins-gig-workers-bike-rally-in-hyderabad-launches-telangana-gig-workers-social-security-and-welfare-scheme-101794643662646.html",
-       "publishedAt": "2026-11-14T14:26+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Watch: Rahul Gandhi rides pillion with gig worker during Hyderabad rally",
-       "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-rides-pillion-with-gig-workers-during-bike-rally-in-hyderabad-video/articleshow/135825877.cms",
-       "publishedAt": "2026-11-14T12:54+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Rahul Gandhi, Revanth Reddy ride pillion with gig workers during bike rally in Hyderabad - video",
-       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0sxZHo5XzFJelJfNXJVdkRqd0FlSVFlRV9LZTdTZlVwbFlpVUhLeTQ2MlozVkZxX1cwQlJBUzBMYVVOdDl3T1czSkFOQm5iN0RsMHVMSVl2OHE3NUdyZUpveFFCVW5hRDN2RllwR1dWeFBJbmMxTDhqT1dlN3kzRWJMenFlNXdHU2k0a0w2OG1tWVFySGFpNkl5SU91a0tFd3VmLU1obEQ5bmxVaXdoSzBwc2V1MzYyTV9vc1d5cWZCODVFNHVaTUpyeW15dVhGRFpOOHExQUpjWjh3SjZJMC1R?oc=5",
-       "publishedAt": "2026-11-14T12:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer kicks of 2nd week with a record 2nd Friday",
-     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWVhyTzlyOGkxTUpjX2xUMzh6ejBiLXlOSjN2bTdGRVd3MmRJN0J0M3VxVFZaRnNHcTVVdHNfcUNyVTdldXRXS0p1RXJJaUdSamw4eXc0SE9LMDZobmF3OHZmdEFLRE16NWRKMXM1YWMtRWx5Q0hBc05UejdNU0lLbHBXYmlRN05XQ2xVS2tXeVFXX000a2ZWWFdVbEFGYnV4VkNJRUYxc3BCRzRqclBUNzg4YVVGQlBpQU5ZVlJaQnFGR1dOSUMyeDI2WWdMXzhjbzZ0ZlJvMXA1eGJNNUt6OVVYdnBhYzgzX3pOa3N5NjhxM1Vva2hkcGxDcFAwVlh3Nnlz0gGIAkFVX3lxTFBlZF9EU25WS0REbTBqT1V0Y09SVldTWkVQa2JCTXd0cDRYZEQyUnRHUGRKTmdSclJxdExISWxZNEtkcjFxOUIyb0UzTkFsX0ZXLTRDZnlrTlcycVBFNjlMMC1OZEhMY0RLUFFaZ1ZpakFGUGNmb1o2ZVp1b01XU050UmJjbFRTQjZNa0pEZkgyZmpXM1IzNWh4X1RxWDI4bWQzN3dSUDBtcE5DYnR6dkNUVHliSFEtbV9vT3pFZUVPTVNLRFJxVHJhbkE5UXNpT2Rtb19VVGpBc29IazRJWlJaTFZkeHBxb0h4TWpYdVppUTJGeEkzczdOYmZXWTRjVy1jWXlDN1hPdw?oc=5",
-     "source": "Pinkvilla",
-     "sources": [
-      "Pinkvilla",
-      "Telegraph India",
-      "The Hindu",
-      "The News Minute",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-14T13:14+05:30",
-     "score": 7.01,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Pinkvilla",
-       "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer kicks of 2nd week with a record 2nd Friday",
-       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWVhyTzlyOGkxTUpjX2xUMzh6ejBiLXlOSjN2bTdGRVd3MmRJN0J0M3VxVFZaRnNHcTVVdHNfcUNyVTdldXRXS0p1RXJJaUdSamw4eXc0SE9LMDZobmF3OHZmdEFLRE16NWRKMXM1YWMtRWx5Q0hBc05UejdNU0lLbHBXYmlRN05XQ2xVS2tXeVFXX000a2ZWWFdVbEFGYnV4VkNJRUYxc3BCRzRqclBUNzg4YVVGQlBpQU5ZVlJaQnFGR1dOSUMyeDI2WWdMXzhjbzZ0ZlJvMXA1eGJNNUt6OVVYdnBhYzgzX3pOa3N5NjhxM1Vva2hkcGxDcFAwVlh3Nnlz0gGIAkFVX3lxTFBlZF9EU25WS0REbTBqT1V0Y09SVldTWkVQa2JCTXd0cDRYZEQyUnRHUGRKTmdSclJxdExISWxZNEtkcjFxOUIyb0UzTkFsX0ZXLTRDZnlrTlcycVBFNjlMMC1OZEhMY0RLUFFaZ1ZpakFGUGNmb1o2ZVp1b01XU050UmJjbFRTQjZNa0pEZkgyZmpXM1IzNWh4X1RxWDI4bWQzN3dSUDBtcE5DYnR6dkNUVHliSFEtbV9vT3pFZUVPTVNLRFJxVHJhbkE5UXNpT2Rtb19VVGpBc29IazRJWlJaTFZkeHBxb0h4TWpYdVppUTJGeEkzczdOYmZXWTRjVy1jWXlDN1hPdw?oc=5",
-       "publishedAt": "2026-11-14T13:14+05:30"
       }
      ]
     }
