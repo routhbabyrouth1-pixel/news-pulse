@@ -1,6 +1,190 @@
 {
- "updated": "2026-11-23T16:35+05:30",
+ "updated": "2026-11-23T17:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-23T17:00+05:30",
+   "generatedAt": "2026-11-23T17:26+05:30",
+   "feeds": 16,
+   "headlines": 338,
+   "stories": [
+    {
+     "title": "Box Office collection: Ramayana crosses Rs 944.94 cr net; earns Rs 2.19 crore by 1 pm",
+     "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-19-live-ranbir-kapoor-sai-pallavi-and-yash-starrer-earns-rs-2-19-crore-india-net-so-far/articleshow/136096233.cms",
+     "source": "Times of India",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Sacnilk",
+      "Telegraph India",
+      "Telugu360",
+      "The Hindu",
+      "The Times of India",
+      "Times of India",
+      "Wisevoter"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-23T17:11+05:30",
+     "score": 10.02,
+     "summary": "'Ramayana' earned Rs 2.19 crore India net by 1 pm on Day 19, per Sacnilk, taking its total to Rs 944.94 crore net and Rs 1,129.08 crore gross. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi and Yash, it released on November 5, 2026. Part two is tentatively set for Diwali 2028.",
+     "image": "https://static.toiimg.com/photo/msid-136096270,imgsize-141408.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Box Office collection: Ramayana crosses Rs 944.94 cr net; earns Rs 2.19 crore by 1 pm",
+       "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-19-live-ranbir-kapoor-sai-pallavi-and-yash-starrer-earns-rs-2-19-crore-india-net-so-far/articleshow/136096233.cms",
+       "publishedAt": "2026-11-23T14:44+05:30"
+      },
+      {
+       "source": "Sacnilk",
+       "title": "Scene Box Office Collection Day 18",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnTXF4OFRUaU15MmlTc05YckZ0SmR5cDdxVHRDVHZPZWp0QjA4R2FPZGxHNS1BZlF1enlnQVd1MkhmelFfM0c3NHBwblZNMThoM0NabHpIWGZmem9zN2ZDT2NKYVFCNFhEeTlLb3QtUjRLM3BkN3lmbjR1ajluUQ?oc=5",
+       "publishedAt": "2026-11-23T17:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "China-to-B'desh cargo ship seized: Chemicals onboard enough to make 100 missiles",
+     "link": "https://timesofindia.indiatimes.com/world/south-asia/indonesia-seizes-bangladesh-bound-cargo-ship-carrying-chemicals-from-china-that-could-make-100-missiles/articleshow/136099424.cms",
+     "source": "Times of India",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "National Herald",
+      "News18",
+      "The Shillong Times",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T16:31+05:30",
+     "score": 8.35,
+     "summary": "The Indonesian Navy detained the MV Star Line cargo vessel off Belawan while it was en route from China to Bangladesh. It was found carrying 405 tonnes of sodium perchlorate, a powerful oxidising agent used in explosives. Additionally, the vessel contained millions of unregistered 4G LTE SIM cards, raising further concerns. Investigations revealed inconsistencies in the ship’s registration documents and cargo…",
+     "image": "https://static.toiimg.com/photo/msid-136099635,imgsize-210422.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "China-to-B'desh cargo ship seized: Chemicals onboard enough to make 100 missiles",
+       "link": "https://timesofindia.indiatimes.com/world/south-asia/indonesia-seizes-bangladesh-bound-cargo-ship-carrying-chemicals-from-china-that-could-make-100-missiles/articleshow/136099424.cms",
+       "publishedAt": "2026-11-23T16:31+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Did China Smuggle Chemical For 100 Missiles To Bangladesh? Secret Cargo Seized",
+       "link": "https://www.ndtv.com/world-news/china-smuggled-chemical-for-100-missiles-to-bangladesh-secret-cargo-seized-12364946#publisher=newsstand",
+       "publishedAt": "2026-11-23T13:18+05:30"
+      }
+     ]
+    },
+    {
+     "title": "West Bengal to be renamed Paschim Banga",
+     "link": "https://www.thehindu.com/news/national/west-bengal-new-name-rename-paschim-banga/article71734146.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Statesman",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-23T16:24+05:30",
+     "score": 7.99,
+     "summary": "The State is referred to as ‘Paschim Banga’ in Bengali, and the Bharatiya Janata Party government wants the same name to be used in English",
+     "image": "https://th-i.thgim.com/public/incoming/2vagzi/article71734195.ece/alternates/LANDSCAPE_1200/PTI11_06_2026_000173B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "West Bengal to be renamed Paschim Banga",
+       "link": "https://www.thehindu.com/news/national/west-bengal-new-name-rename-paschim-banga/article71734146.ece",
+       "publishedAt": "2026-11-23T16:24+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "West Bengal to become 'Paschim Banga'? Proposal to be moved by CM Suvendu on Dec 9",
+       "link": "https://timesofindia.indiatimes.com/india/west-bengal-to-be-renamed-paschim-banga-proposal-to-be-tabled-in-assembly-on-dec-9-cm-suvendu/articleshow/136097737.cms",
+       "publishedAt": "2026-11-23T15:37+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "West Bengal to be renamed ‘Paschim Banga’; proposal to be tabled in assembly on December 9: CM Suvendu",
+       "link": "https://www.hindustantimes.com/india-news/west-bengal-to-be-renamed-paschim-banga-proposal-to-be-tabled-in-assembly-on-december-9-101795425240050.html",
+       "publishedAt": "2026-11-23T14:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Godhra train burning case: SC grants bail to life convict on medical grounds",
+     "link": "https://www.hindustantimes.com/india-news/godhra-train-burning-case-sc-grants-bail-to-life-convict-on-medical-grounds-101795422138002.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Bar and Bench",
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "Times of India",
+      "Verdictum"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-23T13:52+05:30",
+     "score": 7.47,
+     "summary": "The application was moved by Pada, who is accused of pelting stones at and setting fire to the S6 coach of the Sabarmati Express",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/The-state-submitted-that-the-petitioner-was-part-o_1795422130776_qRVU.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Godhra train burning case: SC grants bail to life convict on medical grounds",
+       "link": "https://www.hindustantimes.com/india-news/godhra-train-burning-case-sc-grants-bail-to-life-convict-on-medical-grounds-101795422138002.html",
+       "publishedAt": "2026-11-23T13:52+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Godhra train burning: SC grants medical bail to convict after over 17 yrs in jail",
+       "link": "https://timesofindia.indiatimes.com/india/godhra-train-burning-case-sc-grants-medical-bail-to-convict-after-over-17-years-in-jail/articleshow/136094659.cms",
+       "publishedAt": "2026-11-23T13:42+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Supreme Court Suspends Sentence Of Godhra Train Burning Convict On Medical Grounds",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTHhTU0VQemE5alJ2TGlqMlF4eHdBLVM2cTRnaV9zZTk4UXNjUE5XMkZwSDNXZDBpRHJuV1NmRzdZYkRWNG13ZHNPOFQzMlJBMGpmREJ5ZEJUMnVvNEZsWE83eVRoNkNtem9tME83TFV0d0tlZTJZY1BYMTdKSlJjQXNQTEpEUGxuZFJHdHBSRmZvUmtSdUFyQXRzTUlrLVZ6WGI1YXdxTF9aOWFUdnVVZUMxbzE5QzJkTjZZT3JHUFhnUdIBxwFBVV95cUxOeFdPbTM4Z3Bnclo4Wm5WLTJ2YnlWSDFGWW9OcUlhcmlrckhOb2VsRTgtQzVwYVdZYkFNY0F0eVpMRWFjYkd1VDlSNXcxc2VqZTVJLUw5X2VuZHkxMWl4bUt2VWZVak9fQlVKQzUtbk8zay1LU0tyNEZWVGNXT3VwRDJ6dzBzb2UzMUs3QXgzU0haS1Z5X3VLNHFZWnk3dHgwck5nNWo3MmdhU1ZHdzZTYTN3eTBTM1MxTk1WT1h5WVFnM29yUnRj?oc=5",
+       "publishedAt": "2026-11-23T13:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nepal PM India visit LIVE: PM Modi announces offshore campus of IIT in Nepal",
+     "link": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Telegraph India",
+      "The Hindu",
+      "The Shillong Times",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-23T16:56+05:30",
+     "score": 7.42,
+     "summary": "Establishment of offshore IIT campus in Nepal, scholarships to Nepali students in India, a development package of over ₹15,000 crore for Nepal announced",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Modi-referred-to-the-Saryu-Kamala-Express-weekly-c_1795429872327_awsG.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Nepal PM India visit LIVE: PM Modi announces offshore campus of IIT in Nepal",
+       "link": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
+       "publishedAt": "2026-11-23T16:56+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "India announces $1.6-billion package for Nepal as Modi, Balen Shah unveil joint vision to reset ties",
+       "link": "https://www.hindustantimes.com/india-news/india-unveils-1-6-billion-development-package-for-nepal-as-both-step-up-cooperation-101795429639378.html",
+       "publishedAt": "2026-11-23T15:57+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-23T16:00+05:30",
    "generatedAt": "2026-11-23T16:35+05:30",
@@ -29591,160 +29775,6 @@
        "title": "From kidneys to body tissues: Desperate Iranians put organs up for sale as war drags on, claims report",
        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONkpWTEY2cUo1dXNzV3MyRHZqQjdWOW5QeC1sT0NVbk53MDJBc3A2YUc3VV9ZMXR5UGFmY2NLQklvTkN0RlZmcmhJSm1YRkxSUXgycDZndUtfQ3h1R0VZUTZuV2JmWHJxb0JMUjFaQ2NjTTZqVi0xYTB6WEl4eE8zczg5WTgwQ2doYXB2OEJENFJTRWk5djRLbnR6WmhuV2FuTjh6QlBfaFQ3UVhIb2NYbjhBOXdmVHZScmJrX1Y2OUhxbVVQS0ctVTFTa3kzN25PR1JaV3BTRWVjSnhrVGhoXzBLV0RxNWNDY010eWNKY01TbEF4aGRqcXp3?oc=5",
        "publishedAt": "2026-11-15T14:00+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T14:00+05:30",
-   "generatedAt": "2026-11-15T14:21+05:30",
-   "feeds": 16,
-   "headlines": 245,
-   "stories": [
-    {
-     "title": "IndiGo flight returns to Pune after take-off as landing gear fails to retract",
-     "link": "https://timesofindia.indiatimes.com/india/indigo-flights-landing-gear-fails-to-retract-after-take-off-makes-safe-emergency-landing-in-pune/articleshow/135849085.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Pune Mirror",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T11:56+05:30",
-     "score": 7.35,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135849118,imgsize-75572.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "IndiGo flight returns to Pune after take-off as landing gear fails to retract",
-       "link": "https://timesofindia.indiatimes.com/india/indigo-flights-landing-gear-fails-to-retract-after-take-off-makes-safe-emergency-landing-in-pune/articleshow/135849085.cms",
-       "publishedAt": "2026-11-15T11:56+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "IndiGo flight’s landing gear fails to retract after take-off, makes safe emergency landing in Pune",
-       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS0RnM3ktQWZhM0xOSGdQZGt6YTBnMnJrN2dDVVg5VGo5MndkQmJWZjR2YzhRRUpDVnFCQm1LeHM2Z1pHNXhJMmxMRFN5cmxzMENGV20zNVRSdXo1UkkyMHZpMWU5Nzc4eFo3MVo1SnlvRUdHUTQ1cGNxREo4UmIzaHlJc2wxZnZsLXdXaF94VElfT09vZnpJYzRqQk5fUFB4cTBxSUFKSG5JT1A4ZDBfM1BySFpFZjcxdVV6LTZIeGlXU3BRdkdxT19lUFhYVEp4c0Fkb3R2U2lMUVNFZmpiZGhNV2ZmOTJFWnNBb3R0dlVNQzNUdFdz?oc=5",
-       "publishedAt": "2026-11-15T11:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Congress wants to contest 181 seats in 2027 UP polls, indicates Akhilesh",
-     "link": "https://www.thehindu.com/news/national/uttar-pradesh/congress-wants-to-contest-181-seats-in-2027-up-polls-indicates-akhilesh/article71704171.ece",
-     "source": "The Hindu",
-     "sources": [
-      "ANI News",
-      "Hindustan Times",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T12:25+05:30",
-     "score": 7.18,
-     "summary": "Asked if the demand was of 200 seats, he replied, \"A little less than that.\" When the interviewer suggested 180 seats, Mr. Yadav said, \"Add one more,\" indicating that the Congress has sought 181 seats from the SP",
-     "image": "https://th-i.thgim.com/public/incoming/21rkjl/article71704188.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiG0TGPV5Q5.3.jpg.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Congress wants to contest 181 seats in 2027 UP polls, indicates Akhilesh",
-       "link": "https://www.thehindu.com/news/national/uttar-pradesh/congress-wants-to-contest-181-seats-in-2027-up-polls-indicates-akhilesh/article71704171.ece",
-       "publishedAt": "2026-11-15T12:25+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 70 Cr on 2nd Saturday",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU2UxTjI3THR4NGFWLUZ6VG9uYjZIYUlHTk1LenU0dkZOQ3lfUjdIYk92WXJpeW5jdWVJX1l0Ty1PRDc2RXRKbS1WUnktcFFJQnZNMndoMHRQSF9PUWd1VzlLZjdrTWNMcS1tTU9LdlI0QUNDSlJKU0p0dlRSbjEzM1VPZ1VaT2x3ZDFQdWc2R1NaZVptVGcwZ1dFbldOcW9RODlNU0l1dkFGRUg2WEJZVzcyVEVmdnh5WUVxU2VVYVdiVWtxVVlLVVBKbWpIanJUSExHMTl1N0twY2FVTVJYOUFlMXFwX2w3enFyM25QT1ZMZ9IB9wFBVV95cUxOZkpiRnppWDRQdGFRUFdpbVpVVzdUejY1dlRTZmFhS3ZGdUR0dFJyenJsZWc4WVAtbVY5aDNlcGhWcjRKVHNmZlJHeE9RLWg5Mzl3RTZoY1NsZnpKVFd2eTlzTXV2cVVLS3cycWN4NWc4RWRiZVVSdGtVVWRCQVhxNHV5bVowTU9Eal8yU3lWY0R6eHpiV0V1Zk0tVlRwUUY1WVdfZlFBb09xLXBxS2M1Nm1hV2tFQ3F5XzAtWVUyaEE3OEFFdl9kMlFPTUgtRG1tOUh2aTZSNkcwaG5mcDBFaDE5YzdqZmY0MjMyUDRPOHF3M3FrSFc4?oc=5",
-     "source": "Pinkvilla",
-     "sources": [
-      "IMDb",
-      "Pinkvilla",
-      "Telegraph India",
-      "The News Minute",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T11:44+05:30",
-     "score": 7.06,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Pinkvilla",
-       "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 70 Cr on 2nd Saturday",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU2UxTjI3THR4NGFWLUZ6VG9uYjZIYUlHTk1LenU0dkZOQ3lfUjdIYk92WXJpeW5jdWVJX1l0Ty1PRDc2RXRKbS1WUnktcFFJQnZNMndoMHRQSF9PUWd1VzlLZjdrTWNMcS1tTU9LdlI0QUNDSlJKU0p0dlRSbjEzM1VPZ1VaT2x3ZDFQdWc2R1NaZVptVGcwZ1dFbldOcW9RODlNU0l1dkFGRUg2WEJZVzcyVEVmdnh5WUVxU2VVYVdiVWtxVVlLVVBKbWpIanJUSExHMTl1N0twY2FVTVJYOUFlMXFwX2w3enFyM25QT1ZMZ9IB9wFBVV95cUxOZkpiRnppWDRQdGFRUFdpbVpVVzdUejY1dlRTZmFhS3ZGdUR0dFJyenJsZWc4WVAtbVY5aDNlcGhWcjRKVHNmZlJHeE9RLWg5Mzl3RTZoY1NsZnpKVFd2eTlzTXV2cVVLS3cycWN4NWc4RWRiZVVSdGtVVWRCQVhxNHV5bVowTU9Eal8yU3lWY0R6eHpiV0V1Zk0tVlRwUUY1WVdfZlFBb09xLXBxS2M1Nm1hV2tFQ3F5XzAtWVUyaEE3OEFFdl9kMlFPTUgtRG1tOUh2aTZSNkcwaG5mcDBFaDE5YzdqZmY0MjMyUDRPOHF3M3FrSFc4?oc=5",
-       "publishedAt": "2026-11-15T11:44+05:30"
-      }
-     ]
-    },
-    {
-     "title": "2 planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
-     "link": "https://timesofindia.indiatimes.com/world/us/two-planes-collide-at-miami-airport-passenger-shares-footage-of-crushed-aircraft-nose/articleshow/135847604.cms",
-     "source": "Times of India",
-     "sources": [
-      "CBS News",
-      "CNN",
-      "Gulf Coast News and Weather",
-      "NDTV",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T10:22+05:30",
-     "score": 6.84,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135847706,imgsize-48190.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "2 planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
-       "link": "https://timesofindia.indiatimes.com/world/us/two-planes-collide-at-miami-airport-passenger-shares-footage-of-crushed-aircraft-nose/articleshow/135847604.cms",
-       "publishedAt": "2026-11-15T10:22+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Two planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
-       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONmN4VkNPZmpmUFJWcXVtaU5kS3FZM1plODgybXN4X3VVekJXeVM1aE9VMDdDMER0VHl6YUNqOXU5WnFIR2QxQ0VZYU1OSFVCd1ZLcU9qRjJlcGo0QWJJQ1ZvbWI4LTlaWHBPZmRWbERNNngyeDV3YnhSSWoxV0lmMktBOHp6eW1ldXpqaW5ZcWlSbWwtTlVJcmYwQ3hkcHF3a1Bjb3FtUDJSaGhjQTlQVldKYTd6RlZQOHJodlBzelZRX0xaTC1RRWozRXZVM1BtSEpkYkpCUTVNN2NKcWRKc1RScTB3UVgxR0ZKLQ?oc=5",
-       "publishedAt": "2026-11-15T10:22+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Four swordsmen: How China is reshaping its fighter jet fleet",
-     "link": "https://timesofindia.indiatimes.com/defence/international/four-swordsmen-how-china-is-reshaping-its-fighter-jet-fleet-with-j-35a-stealth-aircraft/articleshow/135849754.cms",
-     "source": "Times of India",
-     "sources": [
-      "China Military Online",
-      "EurAsian Times",
-      "Global Times",
-      "Military Watch Magazine",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T12:44+05:30",
-     "score": 6.77,
-     "summary": "China has expanded its PLAAF’s ‘three swordsmen’ fighter formation into four, adding the J-35A stealth fighter alongside the J-20, J-16 and J-10C. The development strengthens its network-centric warfare strategy, combining stealth, advanced sensors and firepower. China is now the second country, after the US, to operate two fifth-generation stealth fighters. The integrated formation also reflects growing competition…",
-     "image": "https://static.toiimg.com/photo/msid-135849888,imgsize-17202.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Four swordsmen: How China is reshaping its fighter jet fleet",
-       "link": "https://timesofindia.indiatimes.com/defence/international/four-swordsmen-how-china-is-reshaping-its-fighter-jet-fleet-with-j-35a-stealth-aircraft/articleshow/135849754.cms",
-       "publishedAt": "2026-11-15T12:44+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Four Swordsmen: How China is reshaping its fighter jet fleet with J-35A stealth aircraft",
-       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSml5dXY1WnpKclZwcjVaZWxNWEJLTXJNY1luVS1CV2o2N0JkMEJwUHNaNlMyTFdRQVlFLURfVkE3N3MzNlVlekpHMElaSnd6RGQ2MnkzWE94WGs2S3dMSkJGeW5mM1NWNWtvMHV3YU9UWmJSU3RGVmdDUmVSLXhqVjd3Uk1ESVVVUFJlWlpMb194bnFrQkROUTQ2VjZxZndBbkN5UjA3aW9uVU50UVBKdzY0R1VHZ1JQTV9RZ2JXZUl3b0VQZk1HUTk1N3lPdElhbjNoZlNnOERjWnVCVGU5THFwMjZvNFZVZ2NCTy1GOW5rVHlkSHNUejFEQTFJWFJs?oc=5",
-       "publishedAt": "2026-11-15T12:44+05:30"
       }
      ]
     }
