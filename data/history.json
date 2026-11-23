@@ -1,6 +1,174 @@
 {
- "updated": "2026-11-23T14:52+05:30",
+ "updated": "2026-11-23T16:35+05:30",
  "hours": [
+  {
+   "hour": "2026-11-23T16:00+05:30",
+   "generatedAt": "2026-11-23T16:35+05:30",
+   "feeds": 16,
+   "headlines": 330,
+   "stories": [
+    {
+     "title": "Box Office collection: Ramayana crosses Rs 944.94 cr net; earns Rs 2.19 crore by 1 pm",
+     "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-19-live-ranbir-kapoor-sai-pallavi-and-yash-starrer-earns-rs-2-19-crore-india-net-so-far/articleshow/136096233.cms",
+     "source": "Times of India",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "Telugu360",
+      "The Hindu",
+      "The Times of India",
+      "Times of India",
+      "Wisevoter"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-23T15:31+05:30",
+     "score": 10.9,
+     "summary": "'Ramayana' earned Rs 2.19 crore India net by 1 pm on Day 19, per Sacnilk, taking its total to Rs 944.94 crore net and Rs 1,129.08 crore gross. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi and Yash, it released on November 5, 2026. Part two is tentatively set for Diwali 2028.",
+     "image": "https://static.toiimg.com/photo/msid-136096270,imgsize-141408.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Box Office collection: Ramayana crosses Rs 944.94 cr net; earns Rs 2.19 crore by 1 pm",
+       "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-19-live-ranbir-kapoor-sai-pallavi-and-yash-starrer-earns-rs-2-19-crore-india-net-so-far/articleshow/136096233.cms",
+       "publishedAt": "2026-11-23T14:44+05:30"
+      },
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 5",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBQYzFFUGYwLTRBczV3SjZPRUdlSkhwTDAzY1pzRFAwR3NQSGdLQmlVclFPZVFSQjJWaUFTVy1aeDB6eXdVV0pUNUR0eV9jeFFrZ1NYaGtEVTNpcVl3Uk5ISktGMkFQQlNTMWdpZlMtaVdRcnVna0NURTRwUGxNUzZiNA?oc=5",
+       "publishedAt": "2026-11-23T15:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Fossil fuels fuel political fissures at UN climate talks",
+     "link": "https://economictimes.indiatimes.com/news/india/fossil-fuels-fuel-political-fissures-at-un-climate-talks-cop31/articleshow/136095851.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "BBC",
+      "Drishti IAS",
+      "The Economic Times",
+      "The Economist",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T14:32+05:30",
+     "score": 8.16,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Fossil fuels fuel political fissures at UN climate talks",
+       "link": "https://economictimes.indiatimes.com/news/india/fossil-fuels-fuel-political-fissures-at-un-climate-talks-cop31/articleshow/136095851.cms",
+       "publishedAt": "2026-11-23T14:32+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkRpNkxWeXdiVHlkMThkYUhfdnc2Zk1mNFZBQVZRakYzZkExcWRlMGZpb2x5My1TdTYyUUNfdHhMSkFXNUlHVWhMbUF5ZHplV3kzYlJ1bFc1MEUxS0ctZ0ZyVnhxRTN1Y2ZWTjdDZTNTTTUwdVg2MEsyc2ZKQWlBQUtoQzhwRTJIYnl3eTZDemVuN3F4Y1lNVmtEcG15bURqRzNHVmp1Y3daeHpfYU90VDBPQUhuUVhZemxzei1aRkRyajlwZnhoVHFZY9IB0gFBVV95cUxQTTFqTkRZaXdNNHN2SWJ6SVNzcElOT19qOXF2VXNyd3pwRjcxQlBGcWpyaXlsUmt1Q19YUWowZkdVU1A2QkFqd0pRNHFyLV9XS2k0SG13VXpfWkI5STRRMVVBcUcxS25zaTVKYjMzREZJV0pBMWpvVDI4X3F3RW1KdVVEUTlaNGVET0RhVkc2VzJaX0E5OGNiYWFOYkVwcnNoTk9zcUlrM3dCU3l3NWxfaUxwX2lIMnhHc2poa2pMbEwyakN4a2dFcS1IRWR2MkdKNFE?oc=5",
+       "publishedAt": "2026-11-23T13:16+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Rakesh Bedi recalls 'Ek Duuje Ke Liye' craze; says it was bigger than 'Dhurandhar';'I used to get death t",
+     "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOWm5oUnVUa3NIa0I3MkZxSnlfcVJHbGZZUW5fUlNDeHlUWURuYnpETTBCR0lhNUhXRzAtcDQ3VjZoaUtQQ2RPSHNaZXJHc0ZDanZfeDZfNUU4QlRocjNaSHozOEQ3VmtZNHpXY0U4T2NCQ2w0QnJicGEta01wWHJfM0lzM0RaZHNna3hHSHM1M1RWTHlLT2J5dXJUbDJOS0EyTkpZNFpKWXhHZFpXblFBVUZCb0JnM1pveFdHME9kVUdyMjUxYkszVGZnQ1otX2NXcVJ6bUdScTlWelJtcVA5RVBISFdTVk84ZnJKSEhxT1hRODZNYWJyOENiWHpUX3Z1N2dHZ0dDWkJKLVB6UmRQR1pJU3o2OHdYaHk1NXRFajhsckRKbDlCUjQ4bmZFbWFCNnFlajRQT1F0c25pazQxcExVNTdxUTTSAcwCQVVfeXFMTXVCcUo4M0U2QXAxTUk5MTYxRUJDYWtTM1NwM19Jd2NCdUhocjBycl9PNE5aTWU3Ty1sd3RiQmwwQjhvaFhYY25xclFUeVg5T2JFN1ZPZmwzVWtwVDJQc2w5b18yYUltMjl1OURjTGt5aEZfQnpuVnZZa1BnemxTWUxTTlhmLXFoRnFzakpvX1h1MWo2Rkgtem5pMGhRdGNLUXVFUVpuWXE2WFdEZm9tQmx6YVU4R2NjQjdPOGMyVlJ4bm9OODIxSjh0b1p3TFNpYVVYcFZ6X2YtTS16NlUydXE5OEU1MVZ2Um5tN0dOMmpyN3gwRl9GU0tuZ2lZZDhrVjNFTDZpVDJtNEp3TnI0ZUdtSVZoVUJWaXU1RHg1X2RUdlh2VG1YOUlQOVk3eVdlTHJ2Tmd6Tk0zdVZzVHFuUG12QnZ0eWh3c2xZNGg?oc=5",
+     "source": "The Times of India",
+     "sources": [
+      "Ahmedabad Mirror",
+      "Bollywood Hungama",
+      "India News Network",
+      "News On AIR",
+      "Pragativadi",
+      "The Times of India",
+      "www.pib.gov.in"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-23T11:15+05:30",
+     "score": 7.86,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Times of India",
+       "title": "Rakesh Bedi recalls 'Ek Duuje Ke Liye' craze; says it was bigger than 'Dhurandhar';'I used to get death t",
+       "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOWm5oUnVUa3NIa0I3MkZxSnlfcVJHbGZZUW5fUlNDeHlUWURuYnpETTBCR0lhNUhXRzAtcDQ3VjZoaUtQQ2RPSHNaZXJHc0ZDanZfeDZfNUU4QlRocjNaSHozOEQ3VmtZNHpXY0U4T2NCQ2w0QnJicGEta01wWHJfM0lzM0RaZHNna3hHSHM1M1RWTHlLT2J5dXJUbDJOS0EyTkpZNFpKWXhHZFpXblFBVUZCb0JnM1pveFdHME9kVUdyMjUxYkszVGZnQ1otX2NXcVJ6bUdScTlWelJtcVA5RVBISFdTVk84ZnJKSEhxT1hRODZNYWJyOENiWHpUX3Z1N2dHZ0dDWkJKLVB6UmRQR1pJU3o2OHdYaHk1NXRFajhsckRKbDlCUjQ4bmZFbWFCNnFlajRQT1F0c25pazQxcExVNTdxUTTSAcwCQVVfeXFMTXVCcUo4M0U2QXAxTUk5MTYxRUJDYWtTM1NwM19Jd2NCdUhocjBycl9PNE5aTWU3Ty1sd3RiQmwwQjhvaFhYY25xclFUeVg5T2JFN1ZPZmwzVWtwVDJQc2w5b18yYUltMjl1OURjTGt5aEZfQnpuVnZZa1BnemxTWUxTTlhmLXFoRnFzakpvX1h1MWo2Rkgtem5pMGhRdGNLUXVFUVpuWXE2WFdEZm9tQmx6YVU4R2NjQjdPOGMyVlJ4bm9OODIxSjh0b1p3TFNpYVVYcFZ6X2YtTS16NlUydXE5OEU1MVZ2Um5tN0dOMmpyN3gwRl9GU0tuZ2lZZDhrVjNFTDZpVDJtNEp3TnI0ZUdtSVZoVUJWaXU1RHg1X2RUdlh2VG1YOUlQOVk3eVdlTHJ2Tmd6Tk0zdVZzVHFuUG12QnZ0eWh3c2xZNGg?oc=5",
+       "publishedAt": "2026-11-23T11:15+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'I'm Proud Of It': AR Rahman Reveals He Turned Down 10-12 Films To Work On Ranbir Kapoor's Ramayana",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa19CZWgxOHIxU3VyWEE3dXlLWHBPLUEyeVRiTElKSWR1d0hnMC1wV1FQWnJKT3dPdEJhOW54aFBnQzFoOC01cXpqbnp6ZWY2S29yX3ZXaS1CSDc2TC1EMFlTaDd0T0VrSG1nZEN1WWYxOWp4M0lJd0tqd3h1dF9PX1VfLWhPWVdMaEEzbksxQ3RDZjN4UTU0VEl4LWxxUHdIVFpXS3FqOHhoSDhKejVxWF9MMkRFOXZ6VkpiSTU3b3JQT0U4MzZNV2VxdGxoektUZjRPR9IB3AFBVV95cUxQN3pNUXM2U01UYWxHYjNFYWV1ZzB0bnpzaXB5UHNNYncyVDIwczliUDk5VjB0YmVIZUhUZ2R4UnB4YlZta1JkR0duajNmaWFGQl9JOFhUdkVfd0EzNFdUenZSajJlOHJLdnRSMkpHelJMOEhTQ2lzdkFZOS02akt4QXV5cV9Lb3NnT2JYN3JtczdaeXBKa3hBWm1abTJObjU2aGFVdGhDYWJnZ0tRaTlRbzRUM2d4RHc4UUZrVWtkQXNxa3BLX3pIT1RjNWx5UTd4X2Viem9yUXFuWHRa?oc=5",
+     "source": "NDTV",
+     "sources": [
+      "Bollywood Hungama",
+      "Filmfare",
+      "MissMalini",
+      "NDTV",
+      "Telegraph India",
+      "iDiva"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T11:28+05:30",
+     "score": 7.65,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "'I'm Proud Of It': AR Rahman Reveals He Turned Down 10-12 Films To Work On Ranbir Kapoor's Ramayana",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa19CZWgxOHIxU3VyWEE3dXlLWHBPLUEyeVRiTElKSWR1d0hnMC1wV1FQWnJKT3dPdEJhOW54aFBnQzFoOC01cXpqbnp6ZWY2S29yX3ZXaS1CSDc2TC1EMFlTaDd0T0VrSG1nZEN1WWYxOWp4M0lJd0tqd3h1dF9PX1VfLWhPWVdMaEEzbksxQ3RDZjN4UTU0VEl4LWxxUHdIVFpXS3FqOHhoSDhKejVxWF9MMkRFOXZ6VkpiSTU3b3JQT0U4MzZNV2VxdGxoektUZjRPR9IB3AFBVV95cUxQN3pNUXM2U01UYWxHYjNFYWV1ZzB0bnpzaXB5UHNNYncyVDIwczliUDk5VjB0YmVIZUhUZ2R4UnB4YlZta1JkR0duajNmaWFGQl9JOFhUdkVfd0EzNFdUenZSajJlOHJLdnRSMkpHelJMOEhTQ2lzdkFZOS02akt4QXV5cV9Lb3NnT2JYN3JtczdaeXBKa3hBWm1abTJObjU2aGFVdGhDYWJnZ0tRaTlRbzRUM2d4RHc4UUZrVWtkQXNxa3BLX3pIT1RjNWx5UTd4X2Viem9yUXFuWHRa?oc=5",
+       "publishedAt": "2026-11-23T11:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Godhra train burning case: SC grants bail to life convict on medical grounds",
+     "link": "https://www.hindustantimes.com/india-news/godhra-train-burning-case-sc-grants-bail-to-life-convict-on-medical-grounds-101795422138002.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "Times of India",
+      "Verdictum"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-23T13:52+05:30",
+     "score": 7.61,
+     "summary": "The application was moved by Pada, who is accused of pelting stones at and setting fire to the S6 coach of the Sabarmati Express",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/The-state-submitted-that-the-petitioner-was-part-o_1795422130776_qRVU.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Godhra train burning case: SC grants bail to life convict on medical grounds",
+       "link": "https://www.hindustantimes.com/india-news/godhra-train-burning-case-sc-grants-bail-to-life-convict-on-medical-grounds-101795422138002.html",
+       "publishedAt": "2026-11-23T13:52+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Godhra train burning: SC grants medical bail to convict after over 17 yrs in jail",
+       "link": "https://timesofindia.indiatimes.com/india/godhra-train-burning-case-sc-grants-medical-bail-to-convict-after-over-17-years-in-jail/articleshow/136094659.cms",
+       "publishedAt": "2026-11-23T13:42+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Supreme Court Suspends Sentence Of Godhra Train Burning Convict On Medical Grounds",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTHhTU0VQemE5alJ2TGlqMlF4eHdBLVM2cTRnaV9zZTk4UXNjUE5XMkZwSDNXZDBpRHJuV1NmRzdZYkRWNG13ZHNPOFQzMlJBMGpmREJ5ZEJUMnVvNEZsWE83eVRoNkNtem9tME83TFV0d0tlZTJZY1BYMTdKSlJjQXNQTEpEUGxuZFJHdHBSRmZvUmtSdUFyQXRzTUlrLVZ6WGI1YXdxTF9aOWFUdnVVZUMxbzE5QzJkTjZZT3JHUFhnUdIBxwFBVV95cUxOeFdPbTM4Z3Bnclo4Wm5WLTJ2YnlWSDFGWW9OcUlhcmlrckhOb2VsRTgtQzVwYVdZYkFNY0F0eVpMRWFjYkd1VDlSNXcxc2VqZTVJLUw5X2VuZHkxMWl4bUt2VWZVak9fQlVKQzUtbk8zay1LU0tyNEZWVGNXT3VwRDJ6dzBzb2UzMUs3QXgzU0haS1Z5X3VLNHFZWnk3dHgwck5nNWo3MmdhU1ZHdzZTYTN3eTBTM1MxTk1WT1h5WVFnM29yUnRj?oc=5",
+       "publishedAt": "2026-11-23T13:19+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-23T14:00+05:30",
    "generatedAt": "2026-11-23T14:52+05:30",
@@ -29563,174 +29731,6 @@
      "sourceCount": 6,
      "publishedAt": "2026-11-15T12:44+05:30",
      "score": 6.77,
-     "summary": "China has expanded its PLAAF’s ‘three swordsmen’ fighter formation into four, adding the J-35A stealth fighter alongside the J-20, J-16 and J-10C. The development strengthens its network-centric warfare strategy, combining stealth, advanced sensors and firepower. China is now the second country, after the US, to operate two fifth-generation stealth fighters. The integrated formation also reflects growing competition…",
-     "image": "https://static.toiimg.com/photo/msid-135849888,imgsize-17202.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Four swordsmen: How China is reshaping its fighter jet fleet",
-       "link": "https://timesofindia.indiatimes.com/defence/international/four-swordsmen-how-china-is-reshaping-its-fighter-jet-fleet-with-j-35a-stealth-aircraft/articleshow/135849754.cms",
-       "publishedAt": "2026-11-15T12:44+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Four Swordsmen: How China is reshaping its fighter jet fleet with J-35A stealth aircraft",
-       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSml5dXY1WnpKclZwcjVaZWxNWEJLTXJNY1luVS1CV2o2N0JkMEJwUHNaNlMyTFdRQVlFLURfVkE3N3MzNlVlekpHMElaSnd6RGQ2MnkzWE94WGs2S3dMSkJGeW5mM1NWNWtvMHV3YU9UWmJSU3RGVmdDUmVSLXhqVjd3Uk1ESVVVUFJlWlpMb194bnFrQkROUTQ2VjZxZndBbkN5UjA3aW9uVU50UVBKdzY0R1VHZ1JQTV9RZ2JXZUl3b0VQZk1HUTk1N3lPdElhbjNoZlNnOERjWnVCVGU5THFwMjZvNFZVZ2NCTy1GOW5rVHlkSHNUejFEQTFJWFJs?oc=5",
-       "publishedAt": "2026-11-15T12:44+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T13:00+05:30",
-   "generatedAt": "2026-11-15T13:33+05:30",
-   "feeds": 15,
-   "headlines": 233,
-   "stories": [
-    {
-     "title": "2 planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
-     "link": "https://timesofindia.indiatimes.com/world/us/two-planes-collide-at-miami-airport-passenger-shares-footage-of-crushed-aircraft-nose/articleshow/135847604.cms",
-     "source": "Times of India",
-     "sources": [
-      "CNN",
-      "Gulf Coast News and Weather",
-      "NDTV",
-      "The Times of India",
-      "Times of India",
-      "WSVN"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T10:22+05:30",
-     "score": 7.22,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135847706,imgsize-48190.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "2 planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
-       "link": "https://timesofindia.indiatimes.com/world/us/two-planes-collide-at-miami-airport-passenger-shares-footage-of-crushed-aircraft-nose/articleshow/135847604.cms",
-       "publishedAt": "2026-11-15T10:22+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Two planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
-       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONmN4VkNPZmpmUFJWcXVtaU5kS3FZM1plODgybXN4X3VVekJXeVM1aE9VMDdDMER0VHl6YUNqOXU5WnFIR2QxQ0VZYU1OSFVCd1ZLcU9qRjJlcGo0QWJJQ1ZvbWI4LTlaWHBPZmRWbERNNngyeDV3YnhSSWoxV0lmMktBOHp6eW1ldXpqaW5ZcWlSbWwtTlVJcmYwQ3hkcHF3a1Bjb3FtUDJSaGhjQTlQVldKYTd6RlZQOHJodlBzelZRX0xaTC1RRWozRXZVM1BtSEpkYkpCUTVNN2NKcWRKc1RScTB3UVgxR0ZKLQ?oc=5",
-       "publishedAt": "2026-11-15T10:22+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Saudi Alliance Intercepts 2 Houthi Missiles, 3 Drones Targeting Riyadh",
-     "link": "https://www.ndtv.com/world-news/saudi-alliance-intercepts-2-houthi-missiles-3-drones-targeting-riyadh-12328633#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "Anadolu Ajansı",
-      "CGTN",
-      "NDTV",
-      "Organisation of Islamic Cooperation — OIC",
-      "ThePrint"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T11:48+05:30",
-     "score": 7.08,
-     "summary": "The Eastern Province, the economic powerhouse of Saudi Arabia, has been subject to multiple attacks by Houthis.",
-     "image": "https://c.ndtvimg.com/2026-11/ol64h1lk_houthi-missile-reuters_625x300_15_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Saudi Alliance Intercepts 2 Houthi Missiles, 3 Drones Targeting Riyadh",
-       "link": "https://www.ndtv.com/world-news/saudi-alliance-intercepts-2-houthi-missiles-3-drones-targeting-riyadh-12328633#publisher=newsstand",
-       "publishedAt": "2026-11-15T09:34+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-       "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-       "publishedAt": "2026-11-15T08:29+05:30"
-      }
-     ]
-    },
-    {
-     "title": "‘These tricks don’t work on me’: Eisenkot rejects Netanyahu’s 'unity govt' appeal",
-     "link": "https://timesofindia.indiatimes.com/world/middle-east/these-tricks-dont-work-on-me-eisenkot-rejects-netanyahus-unity-government-appeal/articleshow/135847553.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "Reuters",
-      "The Hindu",
-      "The Times of India",
-      "The Times of Israel",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T10:46+05:30",
-     "score": 7.03,
-     "summary": "Caretaker Prime Minister Benjamin Netanyahu reiterated his call for a national unity government. Gadi Eisenkot, his political rival, dismissed Netanyahu's appeal, viewing it as a strategy to create division. Eisenkot is currently negotiating to form his government, with a deadline of 28 days. Discussions are strained over the Knesset speaker election, with both sides presenting opposing candidates. Netanyahu's…",
-     "image": "https://static.toiimg.com/photo/msid-47529300.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "‘These tricks don’t work on me’: Eisenkot rejects Netanyahu’s 'unity govt' appeal",
-       "link": "https://timesofindia.indiatimes.com/world/middle-east/these-tricks-dont-work-on-me-eisenkot-rejects-netanyahus-unity-government-appeal/articleshow/135847553.cms",
-       "publishedAt": "2026-11-15T10:46+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "‘These tricks don’t work on me’: Eisenkot rejects Netanyahu’s 'unity government' appeal",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN2V6SmxETVpCaWJkTEFaZzZtNTU0Umk5eExMakFKVElsUWJrWFZzSzFfWjl1aFFRem1leU53b3V0bkN6UXZDMHhBOE5VUjhFdGZmVW40TGh3RTladlhxUF9pejg4bzJER1EtZWk5OEJUUnFRVEg5emlRU0hYMFJTSHl3eXRuMkhVWUpiUF9uekFwUlFDUDBuWnVzRjdRSUJrZ19yNVJVSXdOeV9RTXNldkhTa0VLLUE1ekh1MjR2OFZ5NzFaR0JSQ2J2RTRkRG85YUZ6Q0cza2dLZDgzeDJ4ZHRxQ0FvdS1fcFRzamF2R0FoQdIB9wFBVV95cUxNUWlVYWxfamZsNmdqRUd0Yk1xU3VNZEdmWEdCNUZoZXZCeEIwdFFFeEhoOEhxS2NMVXVzcUJ4Ymw1QkRzSmtVcDVsM0dZN0kxZ0tyZnNFRWRXZlk0UGxhVEg5YWxjNkZTT2RSNlBsSXBvN09QekFYNm5mQmF4aEJ6Nko1cENETU1helNLY1NwWkR0OEZYSDRqUXY4VDh1QUZFMHJWcklXelhRRmxRbHQ4bmV4QmpJMWl4UzNSTjBYamYtSEptdnVNTEE3U0NsWlVXVm8wcUpZV1BELUEwYkMzSHhabjNUMTk5RWxEUl8wbUUzQUFERWlj?oc=5",
-       "publishedAt": "2026-11-15T10:46+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Committed to ensure all inconsistencies in voter lists are addressed: EC to SC",
-     "link": "https://timesofindia.indiatimes.com/india/committed-to-ensure-all-inconsistencies-in-voter-lists-are-addressed-ec-to-sc/articleshow/135847963.cms",
-     "source": "Times of India",
-     "sources": [
-      "Deccan Chronicle",
-      "NewsBytes",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T10:44+05:30",
-     "score": 7.03,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135847978,imgsize-164948.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Committed to ensure all inconsistencies in voter lists are addressed: EC to SC",
-       "link": "https://timesofindia.indiatimes.com/india/committed-to-ensure-all-inconsistencies-in-voter-lists-are-addressed-ec-to-sc/articleshow/135847963.cms",
-       "publishedAt": "2026-11-15T10:44+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Committed to ensure all inconsistencies in voter lists are addressed: EC to SC",
-       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQWNKVS14SktwZXhPS2xCZVpJaEd3TGtrai1WZHd2OGxYbWJJclUxNnRjUDVlU0F1cDNycGJkWTB2WkhMdHZyZ0F2azVXOXl3NWxVQlBLM0FQNFdXbHZubUhheFFxdlpqWWlIVUJ2MzNSSDhtUlU5XzlwOGt3eG9Ka0JKYnFzNC1VM1E4N1RoaXlnbDJuQVlGcm5KZzQ3Z21qZHZCVEs0dF9MNGRsSmZrWjgxSTc1cWRraTQ0WWRwWFhBMFhWN0I2Sk1xWTdPY3hhN2NWZ1czRDRoYWFWVHc?oc=5",
-       "publishedAt": "2026-11-15T10:44+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Four swordsmen: How China is reshaping its fighter jet fleet",
-     "link": "https://timesofindia.indiatimes.com/defence/international/four-swordsmen-how-china-is-reshaping-its-fighter-jet-fleet-with-j-35a-stealth-aircraft/articleshow/135849754.cms",
-     "source": "Times of India",
-     "sources": [
-      "China Military Online",
-      "EurAsian Times",
-      "Global Times",
-      "Military Watch Magazine",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T12:44+05:30",
-     "score": 6.91,
      "summary": "China has expanded its PLAAF’s ‘three swordsmen’ fighter formation into four, adding the J-35A stealth fighter alongside the J-20, J-16 and J-10C. The development strengthens its network-centric warfare strategy, combining stealth, advanced sensors and firepower. China is now the second country, after the US, to operate two fifth-generation stealth fighters. The integrated formation also reflects growing competition…",
      "image": "https://static.toiimg.com/photo/msid-135849888,imgsize-17202.cms",
      "articles": [
