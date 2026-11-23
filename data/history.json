@@ -1,6 +1,224 @@
 {
- "updated": "2026-11-24T00:28+05:30",
+ "updated": "2026-11-24T01:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-24T01:00+05:30",
+   "generatedAt": "2026-11-24T01:30+05:30",
+   "feeds": 10,
+   "headlines": 221,
+   "stories": [
+    {
+     "title": "Republicans voice concerns over Jensen Huang’s Nvidia reinstatement after Trump urged board to rehire CEO – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "NDTV",
+      "The Economic Times",
+      "The Guardian",
+      "The Indian Express",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T01:14+05:30",
+     "score": 6.96,
+     "summary": "Several Republican lawmakers raise questions and concerns about Nvidia’s reinstatement of Jensen Huang, saying his ‘behavior does not support reinstatement’ Nvidia shares surge 33% on Huang‘s return – business live Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly half of its brutal losses from last…",
+     "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Republicans voice concerns over Jensen Huang’s Nvidia reinstatement after Trump urged board to rehire CEO – live",
+       "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+       "publishedAt": "2026-11-24T01:14+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "CEO Jensen Huang returns to Nvidia’s office",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss",
+       "publishedAt": "2026-11-24T01:10+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Jensen Huang Is Back At Nvidia, But Where Is Alice Huang?",
+       "link": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-nvidia-jensen-huang-is-back-at-nvidia-but-where-is-alice-huang-12367715#publisher=newsstand",
+       "publishedAt": "2026-11-24T00:33+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Huang back: Donald trumps Nvidia board",
+       "link": "https://timesofindia.indiatimes.com/world/us/huang-back-donald-trumps-nvidia-board/articleshow/136109539.cms",
+       "publishedAt": "2026-11-23T22:27+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "What Jensen Huang’s return means for Nvidia and the AI ecosystem",
+       "link": "https://indianexpress.com/article/explained/explained-ai/what-jensen-huangs-return-means-for-nvidia-and-the-ai-ecosystem-10975374/",
+       "publishedAt": "2026-11-23T20:17+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Trump backs Nvidia's reinstatement of Huang as CEO",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-backs-nvidia-boards-decision-to-reinstate-jensen-huang-as-ceo/articleshow/136106347.cms",
+       "publishedAt": "2026-11-23T20:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "CJP’s Saurav Das claims he was stopped at Delhi airport from travelling to U.K.",
+     "link": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "The Hindu",
+      "The Indian Express",
+      "Times of India"
+     ],
+     "sourceCount": 4,
+     "publishedAt": "2026-11-24T01:19+05:30",
+     "score": 4.97,
+     "summary": "In posts on X, Mr. Das said he was stopped at the immigration counter at the Delhi airport before boarding his 1 a.m. flight to London",
+     "image": "https://th-i.thgim.com/public/incoming/3qgwb2/article71736224.ece/alternates/LANDSCAPE_1200/PTI10_12_2026_000033A.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "CJP’s Saurav Das claims he was stopped at Delhi airport from travelling to U.K.",
+       "link": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece",
+       "publishedAt": "2026-11-24T01:19+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Coward government': CJP's Saurav Das says he was stopped from flying to London",
+       "link": "https://timesofindia.indiatimes.com/india/coward-government-cjps-saurav-das-says-he-was-stopped-from-flying-for-lecture-at-university-of-oxford/articleshow/136112962.cms",
+       "publishedAt": "2026-11-24T00:28+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "‘Stopped by Modi government’: CJP’s Saurav Das alleges he was barred from flying to London",
+       "link": "https://indianexpress.com/article/india/cjp-saurav-das-stopped-delhi-airport-oxford-lecture-10975536/",
+       "publishedAt": "2026-11-24T00:01+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "CJP's Saurav Das claims he was stopped at Delhi airport, barred from flying to London for Oxford lecture",
+       "link": "https://www.hindustantimes.com/india-news/cjps-saurav-das-says-stopped-at-delhi-airport-barred-from-flying-to-london-lecture-at-oxford-university-101795456221713.html",
+       "publishedAt": "2026-11-23T23:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia Live Updates: 'Mistake Corrected': Elon Musk On Jensen Huang's Return To Nvidia",
+     "link": "https://www.ndtv.com/world-news/nvidia-board-reinstates-jensen-huang-president-ceo-board-director-live-updates-live-updates-nvidia-stock-jumps-30-after-jensen-huang-returns-as-ceo-12367017#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "The Economic Times",
+      "The Indian Express",
+      "Times of India"
+     ],
+     "sourceCount": 4,
+     "publishedAt": "2026-11-24T00:18+05:30",
+     "score": 4.8,
+     "summary": "Nvidia Jensen Huang Reinstates News Live Updates: According to a statement released by the board, it received input from senior levels of the United States government, and based on that input, the board is confident that Jensen Huang's reinstatement poses no national security risk.",
+     "image": "https://c.ndtvimg.com/2026-11/72j6ddbo_jensen-nvidia-board_625x300_18_November_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Nvidia Live Updates: 'Mistake Corrected': Elon Musk On Jensen Huang's Return To Nvidia",
+       "link": "https://www.ndtv.com/world-news/nvidia-board-reinstates-jensen-huang-president-ceo-board-director-live-updates-live-updates-nvidia-stock-jumps-30-after-jensen-huang-returns-as-ceo-12367017#publisher=newsstand",
+       "publishedAt": "2026-11-24T00:18+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Elon Musk sends a message to Nvidia board on bringing back ousted CEO Jensen Huang",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-sends-a-message-to-nvidia-board-on-bringing-back-ousted-ceo-jensen-huang-says-the-mistake-has-been-/articleshow/136107226.cms",
+       "publishedAt": "2026-11-23T20:39+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Jensen Huang national treasure, US needs him: Donald Trump on his return as Nvidia CEO",
+       "link": "https://indianexpress.com/article/world/jensen-huuang-nvidia-ceo-donald-trump-national-security-10975345/",
+       "publishedAt": "2026-11-23T20:10+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Huang's return sends Nvidia shares soaring 33%",
+       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-shares-surge-27-as-jensen-huang-is-reinstated-as-ceo/articleshow/136105598.cms",
+       "publishedAt": "2026-11-23T19:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "\"A Handshake With Jensen Huang\": Why Tech Fought To Save Nvidia's Founder",
+     "link": "https://www.ndtv.com/world-news/a-handshake-with-jensen-huang-why-tech-fought-to-save-nvidias-founder-12368065#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "The Economic Times",
+      "Times of India"
+     ],
+     "sourceCount": 3,
+     "publishedAt": "2026-11-24T00:40+05:30",
+     "score": 3.86,
+     "summary": "The campaign to bring him back began within hours of his November 12 resignation, led by investors and executives with deep stakes in the AI boom, several of them with close ties to President Donald Trump.",
+     "image": "https://c.ndtvimg.com/2026-11/m78c4fa8_jensen-huang_625x300_17_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "\"A Handshake With Jensen Huang\": Why Tech Fought To Save Nvidia's Founder",
+       "link": "https://www.ndtv.com/world-news/a-handshake-with-jensen-huang-why-tech-fought-to-save-nvidias-founder-12368065#publisher=newsstand",
+       "publishedAt": "2026-11-24T00:40+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Huang comeback exposes Big Tech's founder problem",
+       "link": "https://economictimes.indiatimes.com/opinion/et-commentary/nvidias-huang-comeback-exposes-the-weakness-of-big-tech-governance/articleshow/136112116.cms",
+       "publishedAt": "2026-11-23T23:46+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Nvidia shares surge 35.5% as tech giant reinstates Jensen Huang as CEO, chairman",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-share-price-today-jensen-huang-back-as-ceo-of-ai-company-november-23-2026-stock-price-reaction/articleshow/136105677.cms",
+       "publishedAt": "2026-11-23T19:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "What Russian warship did Ukraine just sink?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "The Guardian"
+     ],
+     "sourceCount": 3,
+     "publishedAt": "2026-11-23T23:55+05:30",
+     "score": 3.74,
+     "summary": "Ukraine says it sank the Russian warship Merkury off the coast of Libya. Here's why the vessel is significant.",
+     "image": "https://i.guim.co.uk/img/media/3034b87937184d9bc9b3561e8cd4a6ff98b6556a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1db83e1b7176961a2aee98d6da53222a",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "What Russian warship did Ukraine just sink?",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
+       "publishedAt": "2026-11-23T23:55+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
+       "link": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
+       "publishedAt": "2026-11-23T21:30+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-23T21:11+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-24T00:00+05:30",
    "generatedAt": "2026-11-24T00:28+05:30",
@@ -29601,190 +29819,6 @@
        "title": "Planes Collide At Miami International Airport While Taxiing—One Day After Nationwide Ground Stop",
        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc1E1ellsT3Z3cVB0R2hsS0tzTUlKSHRDcWZqTVJlamljLWNOTGVlLU42azZ6blE2V05jbDJPUGdvYmRraU5lTl92ZjdiV2xhN2NDbDdMdWRMeHh0WTI0ZEJwR2xyeFlDRF9POFpYalFWbS0yTDQtWWY3dEt2VEpSbEx2dUs0ckhwSWx4cFlKM25EUkc1VnRWUHNFUFdLU01KVEx3dTZrMllPbEJwM0pxUjBFZFprcFAzdkR3YnlveTZzZWFYdVZvMThpZkd4emFWWk1Na0lOaFZ1d1p5V1Q5WFhCTQ?oc=5",
        "publishedAt": "2026-11-15T20:37+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T21:00+05:30",
-   "generatedAt": "2026-11-15T21:07+05:30",
-   "feeds": 16,
-   "headlines": 269,
-   "stories": [
-    {
-     "title": "Ramayana Part 1 box office collection Day 10 Live Updates: Ranbir Kapoor’s film crosses Rs 1,228 cr globally; earns over Rs 66 cr in India on Sunday",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZjhEMjA4bnp2WFVaM05SbHZoYVR4Q2x1VzVnblJOVFIyWVNLYUt1Y3ptdlFtUkhBRTN5d25id1h6dGo3czhLeTBLaGJKbHRtUWZFenk4UXdTYmtRVVdZbzJ1LThfQ3lYZkhGNkRKTlR5MGhqa0FyaHBmVjl6MVYzNFRGOVczQ3ozSEVZcVBBeTZfdjNvRzhIcGZYYmVyYnluMmxoM1UxNC1SaTNoaW1ST3laenNQYVZVS0gxcFhwX3QxMFFVZFpxdEFrT0J6VmlLTWd0S3ZDUl8tc2hkLTNvVmZJeHlWejJLamdPR1Z2LTY4dw?oc=5",
-     "source": "The Indian Express",
-     "sources": [
-      "Cinema Express",
-      "Deccan Chronicle",
-      "Newslaundry",
-      "Sacnilk",
-      "Telegraph India",
-      "The Economist",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-15T21:00+05:30",
-     "score": 10.19,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana Part 1 box office collection Day 10 Live Updates: Ranbir Kapoor’s film crosses Rs 1,228 cr globally; earns over Rs 66 cr in India on Sunday",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZjhEMjA4bnp2WFVaM05SbHZoYVR4Q2x1VzVnblJOVFIyWVNLYUt1Y3ptdlFtUkhBRTN5d25id1h6dGo3czhLeTBLaGJKbHRtUWZFenk4UXdTYmtRVVdZbzJ1LThfQ3lYZkhGNkRKTlR5MGhqa0FyaHBmVjl6MVYzNFRGOVczQ3ozSEVZcVBBeTZfdjNvRzhIcGZYYmVyYnluMmxoM1UxNC1SaTNoaW1ST3laenNQYVZVS0gxcFhwX3QxMFFVZFpxdEFrT0J6VmlLTWd0S3ZDUl8tc2hkLTNvVmZJeHlWejJLamdPR1Z2LTY4dw?oc=5",
-       "publishedAt": "2026-11-15T21:00+05:30"
-      },
-      {
-       "source": "Sacnilk",
-       "title": "Donga Naa Koduku Box Office Collection Day 3",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWdMT0tTeFNRb2ZRbUFVZGRYVVoyODF3cGVBUjZoektpSThWeDdBUVVYTjUzWlE0U28zeGZrcElJS1Y1SVg5ejZUU0cwdEhhQ2dIbDdtTWRFbVJ4SGl5QkthOHE1M08ydUFqTWREM3ZzZmlPNkhfVXpFU09HSVlwOG5fWWpvQkJGSXZn?oc=5",
-       "publishedAt": "2026-11-15T19:22+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Parliament winter session likely in early December, govt eyes push for delimitation-linked women’s quota bill",
-     "link": "https://www.hindustantimes.com/india-news/winter-session-may-begin-in-december-first-week-government-eyes-push-for-delimitation-linked-womens-quota-bill-101794739002430.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Business Standard",
-      "Hindustan Times",
-      "Telegraph India",
-      "The Economic Times",
-      "The Hindu",
-      "The Shillong Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-15T16:16+05:30",
-     "score": 8.49,
-     "summary": "The govt is keen to push through the Constitution amendment bill, which seeks to expand the Lok Sabha's strength from the existing 543 seats.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/parliament_1794739155708_HOEC_1794739155868_R8NU_1124f069-d632-4c00-9755-4122330b22a2_RNvR.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Parliament winter session likely in early December, govt eyes push for delimitation-linked women’s quota bill",
-       "link": "https://www.hindustantimes.com/india-news/winter-session-may-begin-in-december-first-week-government-eyes-push-for-delimitation-linked-womens-quota-bill-101794739002430.html",
-       "publishedAt": "2026-11-15T16:16+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Parl Winter Session in Dec; Women's bill on agenda",
-       "link": "https://economictimes.indiatimes.com/news/india/winter-session-likely-in-first-week-of-december-govt-may-push-womens-quota-bill/articleshow/135852937.cms",
-       "publishedAt": "2026-11-15T15:55+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Parliament winter session likely in 1st week of Dec; delimitation bill to be in focus",
-       "link": "https://timesofindia.indiatimes.com/india/parliament-winter-session-likely-in-1st-week-of-december-delimitation-bill-likely-to-be-in-focus/articleshow/135852930.cms",
-       "publishedAt": "2026-11-15T15:48+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Parliament winter session likely in 1st week of December; delimitation bill to be in focus",
-       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONURXVG5ZaVFZMEF0cGJVTHlNV1dOSUdreWxOS0dibV9TQlhoNWtONXpBV2hlbjhhaUdqZ1BTMl9Dem5zVWdIR3N0Nnl6ZUZCb1RmVmtJWGx0NnlHcDNINGZhR3hjS0RLNXZVSmdjd3diRGV1QkU2RFpGd0VFSGliQjBzSTIxTk5WdmxoMnZTMXNfdlhNOENoY2hVYTdKYmc0WkVyUFRhc3laM1hwUTRLZHB5eUdUckFkeUxYOHFCSVpYY3dGdmFJeExCSmJoNU5sTVNsSml4TXAyMmFXNWZCSXNHUVEyNjZDTHhoOTgxdXpJOVVlbGdv?oc=5",
-       "publishedAt": "2026-11-15T15:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "5th encounter since BJP came to power in West Bengal: Man accused of firing at cop killed",
-     "link": "https://timesofindia.indiatimes.com/city/kolkata/5th-encounter-since-bjp-came-to-power-in-west-bengal-man-accused-of-firing-at-cop-killed/articleshow/135857386.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T19:22+05:30",
-     "score": 8.21,
-     "summary": "Ratan Sheikh, a history-sheeter, was killed during a shootout with police while evading arrest. He had previously shot a constable, injuring him during the arrest attempt. This incident marks the fifth police encounter since the BJP took power in West Bengal. Chief Minister Suvendu Adhikari emphasized that criminals have no place in the state. The police reacted firmly to Sheikh's aggressive attempt to evade…",
-     "image": "https://static.toiimg.com/photo/msid-135858109,imgsize-71666.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "5th encounter since BJP came to power in West Bengal: Man accused of firing at cop killed",
-       "link": "https://timesofindia.indiatimes.com/city/kolkata/5th-encounter-since-bjp-came-to-power-in-west-bengal-man-accused-of-firing-at-cop-killed/articleshow/135857386.cms",
-       "publishedAt": "2026-11-15T19:22+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "5th encounter since BJP came to power in West Bengal: Man accused of firing at cop killed",
-       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeEhwUmYwaFUzaU9kaGlZenRRN2VVa2VPUkVxSnh5a1NWSVI5RW0tcDhxdWVPVEhJeDJoUUF6MjNMbWxaME52VlhoNFMxMHJBTll1U1hpcVdMTFpYVEtjVUJYUndyMjRfcmVDY0IzSk1ZbTdnbTVEVEF0aHJvQ014WjgwX2lVMUtiYjhnb3NPTWpXOHBRaFhfUWRHNnZzal9vWmdVWTM2eXdGd2Q3WGdTcVluWUVlYk1GeHY4U0ROWGo4Q3EtT00zU19FdkRyV0p5SG9CRW53TEI2SHd0Q01GWXM3azBVamZWaVA1MU9LUzJWSmJCRXc?oc=5",
-       "publishedAt": "2026-11-15T19:22+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Empty promises': Biden's explosive charge against Netanyahu over Gaza deaths",
-     "link": "https://timesofindia.indiatimes.com/world/middle-east/no-intention-of-keeping-promises-bidens-explosive-revelations-about-netanyahus-gaza-war/articleshow/135855540.cms",
-     "source": "Times of India",
-     "sources": [
-      "Haaretz",
-      "Hindustan Times",
-      "NDTV",
-      "The Times of India",
-      "Times of India",
-      "Ynetnews"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T17:51+05:30",
-     "score": 7.21,
-     "summary": "Joe Biden has revealed his frustrations in private conversations with Israeli Prime Minister Benjamin Netanyahu regarding the Gaza conflict. As civilian casualties increased, Biden urged Netanyahu to take greater precautions to protect Palestinian lives. Despite acknowledging the impact on Israel's international standing, Netanyahu's actions often contradicted his promises. Biden criticized Netanyahu for…",
-     "image": "https://static.toiimg.com/photo/msid-135855635,imgsize-119218.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Empty promises': Biden's explosive charge against Netanyahu over Gaza deaths",
-       "link": "https://timesofindia.indiatimes.com/world/middle-east/no-intention-of-keeping-promises-bidens-explosive-revelations-about-netanyahus-gaza-war/articleshow/135855540.cms",
-       "publishedAt": "2026-11-15T17:51+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'No intention of keeping promises': Biden's explosive revelations about Netanyahu's Gaza war",
-       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQX19PRnpteDNXWllXeWJVNllKX2g5V3BMUS1FS3dRb1cydFZkZXNySEE2bHBuR0o0TUJPZlNab05PWXVraVNHMHgyQ2lIdlU5Y1V0blhNWWxoZjVWdWM0Z3EwaUlaNVE2YjRGSU1GZmNJSktsd3VhX2dQQ1lxdWs0Q3hEX2FzRWYxUUlXMlVlbWMyend0SWNNaldUNUIzUmI2eFdTRDY0ZHhYXzBXUFlITnZDdWdwNkpraGxrTEtvWjhyM0l3MXA4MVY2Ykw2Y2RyVFhqXzJSM2RxNXFhb0dpbkpWdHJVd1ZKc2tsdi12MkZJRHAzb1U4TkNLZ9IBgAJBVV95cUxORm0yZ0VxSlA1NV85QXNTX21rSlpYeXdJRUlXSzI4R0FZclJjN0R0SmE5VHFaaUF2MnhMZ3NfMjZUNUdGT3ZOSFVYeXhhSThVVlkta2plak5XVE43ZXU2d00wc280RV83anZYTjhtN096UHBhZW81QWg0Zy1seXp3MThCdVJWdEZOQ1FuQktDc2J2T21ZdUNmRkNNeEJnOTJwR3JxYkFCcHlkN2xnOXNCMWhTRUhCTWsyUlBoWW1ZbUxhbWJ5RDhMWWhrLVpvYVVNNFdqSzFUcXdOSmtkWnM3RV9GRnJYaXp5UmladENfQWN5UTlqaUVoWmZLTzRBem82?oc=5",
-       "publishedAt": "2026-11-15T17:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Iran targets US military base in Bahrain with drone attack",
-     "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "The Guardian",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T19:12+05:30",
-     "score": 7.18,
-     "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Iran targets US military base in Bahrain with drone attack",
-       "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-15T19:12+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
-       "publishedAt": "2026-11-15T17:45+05:30"
       }
      ]
     }
