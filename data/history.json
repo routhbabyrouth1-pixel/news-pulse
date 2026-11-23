@@ -1,6 +1,201 @@
 {
- "updated": "2026-11-23T22:30+05:30",
+ "updated": "2026-11-23T23:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-23T23:00+05:30",
+   "generatedAt": "2026-11-23T23:27+05:30",
+   "feeds": 16,
+   "headlines": 258,
+   "stories": [
+    {
+     "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "CNBC",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-23T23:06+05:30",
+     "score": 11.44,
+     "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly half of its brutal losses from last week, which was one of its worst since the…",
+     "image": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=e633ec1bbe2c14257a07187d55bac276",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+       "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+       "publishedAt": "2026-11-23T23:06+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Jensen Huang Is Back At Nvidia, But Where Is Alice Huang?",
+       "link": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-nvidia-jensen-huang-is-back-at-nvidia-but-where-is-alice-huang-12367715#publisher=newsstand",
+       "publishedAt": "2026-11-23T22:26+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Huang out, Huang back: Why Trump intervened in Nvidia's CEO drama",
+       "link": "https://timesofindia.indiatimes.com/world/us/huang-out-huang-back-why-donald-trump-intervened-in-nvidias-ceo-drama/articleshow/136108611.cms",
+       "publishedAt": "2026-11-23T21:53+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
+       "publishedAt": "2026-11-23T20:53+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Trump backs Nvidia's reinstatement of Huang as CEO",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-backs-nvidia-boards-decision-to-reinstate-jensen-huang-as-ceo/articleshow/136106347.cms",
+       "publishedAt": "2026-11-23T20:12+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdG9sQTRJOUNIWlFvRTdLUkIxbkNzdnBURVBpVGRVcVBSUi1EcWxsUkNRNkdRM2JfRG9qZ1piS0JnMWtBY1M2Y1gzVnktdmZ5RnRIMlRtS3RHa3VPYlVfM0ZoX3pXOHQ0T0tfcVJpX3dqSGRhSVMxV193bGo0Vy1EQjlsNU9Xdkp3LUFuSDQ4VE4zOU5lV0wzTm9QY2FiZGRqOHkyN3lfZHBVajBfM0E2aFRwLVM1Y0l3aVgtQk5DNUtrZ29NMmNJ0gHOAUFVX3lxTE96UjU3bmJXODJIcnpacWVXTDR6UldtbTZtNW5qLVF5ci04S21pZXVkN3gzbWdoTUNvMFVxUmVSeWN1MGZETjRfWnk4SnFRdVpkQXFqLXo5NVRsdkNWYjlVdkRQSmI4QVFGZjJncXd0TnVUTlVVRFZDOVZKbklRUkFLY1dPam1lQXpQa0pERmxBLUJpdzg3MTNvV3RqamZGcWZSc09JLXNfNVFwbWctZ3lUWENYYmxRTW5sczZKeU5pdUdlLTM0MlJmNmp0c3Nn?oc=5",
+       "publishedAt": "2026-11-23T20:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "How much, if anything, have you seen and heard about the release of the video game Grand Theft Auto 6?",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NblRUUG5PdTlvY2VvR2RnWjBlelFwdVJneWRCLWhTV1ZqbERaMXczYUNwWE1Oel9uUmR6enBHSE8tVk1jWWhac2Zlc2VqalFfMy1OMm9heGZOTTN4NUI1cVZTaUhYUQ?oc=5",
+     "source": "YouGov",
+     "sources": [
+      "Creative Bloq",
+      "Gulf News",
+      "Her Campus",
+      "India Today",
+      "LBC",
+      "SMH.com.au",
+      "The Conversation",
+      "The Verge",
+      "Yahoo",
+      "YouGov"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-23T22:05+05:30",
+     "score": 10.86,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "YouGov",
+       "title": "How much, if anything, have you seen and heard about the release of the video game Grand Theft Auto 6?",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NblRUUG5PdTlvY2VvR2RnWjBlelFwdVJneWRCLWhTV1ZqbERaMXczYUNwWE1Oel9uUmR6enBHSE8tVk1jWWhac2Zlc2VqalFfMy1OMm9heGZOTTN4NUI1cVZTaUhYUQ?oc=5",
+       "publishedAt": "2026-11-23T22:05+05:30"
+      },
+      {
+       "source": "The Conversation",
+       "title": "What Grand Theft Auto VI can teach us about virtual romance",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTdrWTdvWFdQbTNXT2d5OFJlalRMckRkN2htV3EySFFLeElKYldKT3R2d1VuQzRaN0JrNktETWtfOC1NTXB3aUczc09qUFNGb2tndHJJSkpUcG9KaFZRbDN4WUdGOGFYb21jS3ZLMnM0eXVzMEVUS3FhbldUZmtTRjBjMlVJcHdDek9rRjkwRzRBbDJSaVFaTk1R?oc=5",
+       "publishedAt": "2026-11-23T17:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ENE Repeat Box Office Collection Day 5",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBQYzFFUGYwLTRBczV3SjZPRUdlSkhwTDAzY1pzRFAwR3NQSGdLQmlVclFPZVFSQjJWaUFTVy1aeDB6eXdVV0pUNUR0eV9jeFFrZ1NYaGtEVTNpcVl3Uk5ISktGMkFQQlNTMWdpZlMtaVdRcnVna0NURTRwUGxNUzZiNA?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Sacnilk",
+      "THE WEEK",
+      "Telugu Cinema",
+      "Telugu360",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-23T21:48+05:30",
+     "score": 8.76,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 5",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBQYzFFUGYwLTRBczV3SjZPRUdlSkhwTDAzY1pzRFAwR3NQSGdLQmlVclFPZVFSQjJWaUFTVy1aeDB6eXdVV0pUNUR0eV9jeFFrZ1NYaGtEVTNpcVl3Uk5ISktGMkFQQlNTMWdpZlMtaVdRcnVna0NURTRwUGxNUzZiNA?oc=5",
+       "publishedAt": "2026-11-23T21:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Hear pleas by deleted voters first, Supreme Court directs Bengal SIR tribunals",
+     "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-sir-supreme-court-orders-eci-calcutta-high-court-to-increase-tribunals-hearing-appeals/article71734188.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "Scroll.in",
+      "The Hindu",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T22:08+05:30",
+     "score": 7.0,
+     "summary": "The court directed the ECI to increase the number of tribunals and relocate them to central hubs of Kolkata to facilitate expeditious disposal of the backlog of pending appeals",
+     "image": "https://th-i.thgim.com/public/incoming/g0rcaj/article71734189.ece/alternates/LANDSCAPE_1200/TH04-KDR--REVISG7BGOOMFJ.3.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Hear pleas by deleted voters first, Supreme Court directs Bengal SIR tribunals",
+       "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-sir-supreme-court-orders-eci-calcutta-high-court-to-increase-tribunals-hearing-appeals/article71734188.ece",
+       "publishedAt": "2026-11-23T22:08+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Deleted voters’ appeals to get priority, Supreme Court tells Bengal SIR tribunals",
+       "link": "https://www.hindustantimes.com/india-news/deleted-voters-appeals-to-get-priority-supreme-court-tells-bengal-sir-tribunals-101795438702289.html",
+       "publishedAt": "2026-11-23T18:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India announces  ₹15k-cr package for Nepal as PM Shah wraps up maiden visit",
+     "link": "https://www.livemint.com/news/india/india-announces-rs-15k-cr-package-for-nepal-as-pm-shah-wraps-up-maiden-visit-11795437079875.html",
+     "source": "Mint",
+     "sources": [
+      "BBC",
+      "Ministry of External Affairs",
+      "Mint",
+      "NarendraModi.in",
+      "Telegraph India",
+      "The New Indian Express"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T19:19+05:30",
+     "score": 6.81,
+     "summary": "The development cooperation package is aimed at supporting Nepal’s reconstruction efforts following the devastating floods in August, strengthening its long-term development and improving its capacity to deal with future disasters.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/23/1600x900/logo/NEPAL-FLOODS--30_1787804353861_1787804370268_717cb038-f0b2-4168-b219-7635132f101e_1795441345833_9LiY_f6f3e2f9-c85b-42b9-9c1a-a7114649d973_llPs.JPG",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "India announces  ₹15k-cr package for Nepal as PM Shah wraps up maiden visit",
+       "link": "https://www.livemint.com/news/india/india-announces-rs-15k-cr-package-for-nepal-as-pm-shah-wraps-up-maiden-visit-11795437079875.html",
+       "publishedAt": "2026-11-23T19:19+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Nepal PM Balendra Shah visit: India to give $1.62bn economic package",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BSHRycnFnTGJEUzFNUElLc1NZSV8yczlGNnFXdWJKa2NhRDBZb2R0bkhsZF9RRXpmOG42LW9kYjdKbUIzamZMcno0ajlJa1l5V2dxbmdVVnA4RUk?oc=5",
+       "publishedAt": "2026-11-23T19:09+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-23T22:00+05:30",
    "generatedAt": "2026-11-23T22:30+05:30",
@@ -29585,178 +29780,6 @@
        "title": "Nvidia Employee Shares Emotional Account Of Jensen Huang's Support During Sister's Cancer Battle",
        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUdLQXMxZHNjYjRZRnQ3Sng2bVNkZnRzTGdDRWlwOW9HTUpqUS1MSDgtYWFxUzZfbUptZjZaeXNyQlE3Zm9UcWhwSDRQRk5sVGFNZHFHUG85OGxBTWZfdGFxeEk4OXo1WFFmY0J3dkpCaGMwR0pXUktPdU41WDlqS1NRQzFTOW94U04tekZWOEhUT0Jua2MwZldQbVFOVGZXcmdmdmp4RkJnR0NKNnZmaVp6S1d3NWttdkZkTmZqd3lld9IBygFBVV95cUxOVUxYMWRteS1tbkdiT29hOVRaY1BIc00zbDJJNGZRTkJrbzloVDBhR1pRSE5qS21YRm00dTBkM3FzQVZ3X0h0RlhmNHJHWU1pWGhoMkxnbTd0SnhVM2ZlMV8teW52VERvQUlWdTJ3cWZzNEtPanJOajltUTNBenMzYnk0ak9DX053ZlJJbnk1ODBpcU9RXzczdGxIWkNUVFdpM01zN2pPbjNObGpzMl9VMWJOTEplY1U5Y3otTjlFZFZKZzJaeGJYMEZB?oc=5",
        "publishedAt": "2026-11-15T17:20+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T19:00+05:30",
-   "generatedAt": "2026-11-15T19:21+05:30",
-   "feeds": 16,
-   "headlines": 280,
-   "stories": [
-    {
-     "title": "Ramayana Part 1 box office collection Day 10 Live Updates: Ranbir Kapoor’s film crosses Rs 1,228 cr globally; earns over Rs 54 cr in India on Sunday",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZjhEMjA4bnp2WFVaM05SbHZoYVR4Q2x1VzVnblJOVFIyWVNLYUt1Y3ptdlFtUkhBRTN5d25id1h6dGo3czhLeTBLaGJKbHRtUWZFenk4UXdTYmtRVVdZbzJ1LThfQ3lYZkhGNkRKTlR5MGhqa0FyaHBmVjl6MVYzNFRGOVczQ3ozSEVZcVBBeTZfdjNvRzhIcGZYYmVyYnluMmxoM1UxNC1SaTNoaW1ST3laenNQYVZVS0gxcFhwX3QxMFFVZFpxdEFrT0J6VmlLTWd0S3ZDUl8tc2hkLTNvVmZJeHlWejJLamdPR1Z2LTY4d9IB-AFBVV95cUxNQ0g4NVpmSU1wYzk2V1dQUkN6bGZGcVIxNWhGbmNSOFZGb3dPbWZZRlA3Z3NlRDM2Y09GVE9iQlA0UHVGT2ZxTlVwckoxMjZ6ejBFbUNVWGE2WnlfVUl3S012b202bjF4cXdXNVY1ZXZDMlliNXMySHBZeWxUZGM1bXBQMGpXcmpwUk5RblB5dWZZa2VUMldMSlpaNDV2Tk50QmdkY3l4R0JLdVlWa2swbTEySnF6RDFPaGZvQ3NPd3lSUjlPN1pGUXNxb2loWVJEMENxa3llY0s2c1E5bm1hMFJTWGJidWxGcWp2M3R6cndlQl9na3VibA?oc=5",
-     "source": "The Indian Express",
-     "sources": [
-      "Cinema Express",
-      "Deccan Chronicle",
-      "Sacnilk",
-      "Telegraph India",
-      "The Economist",
-      "The Hindu",
-      "The Indian Express",
-      "The News Minute",
-      "The Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-15T19:00+05:30",
-     "score": 10.44,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana Part 1 box office collection Day 10 Live Updates: Ranbir Kapoor’s film crosses Rs 1,228 cr globally; earns over Rs 54 cr in India on Sunday",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZjhEMjA4bnp2WFVaM05SbHZoYVR4Q2x1VzVnblJOVFIyWVNLYUt1Y3ptdlFtUkhBRTN5d25id1h6dGo3czhLeTBLaGJKbHRtUWZFenk4UXdTYmtRVVdZbzJ1LThfQ3lYZkhGNkRKTlR5MGhqa0FyaHBmVjl6MVYzNFRGOVczQ3ozSEVZcVBBeTZfdjNvRzhIcGZYYmVyYnluMmxoM1UxNC1SaTNoaW1ST3laenNQYVZVS0gxcFhwX3QxMFFVZFpxdEFrT0J6VmlLTWd0S3ZDUl8tc2hkLTNvVmZJeHlWejJLamdPR1Z2LTY4d9IB-AFBVV95cUxNQ0g4NVpmSU1wYzk2V1dQUkN6bGZGcVIxNWhGbmNSOFZGb3dPbWZZRlA3Z3NlRDM2Y09GVE9iQlA0UHVGT2ZxTlVwckoxMjZ6ejBFbUNVWGE2WnlfVUl3S012b202bjF4cXdXNVY1ZXZDMlliNXMySHBZeWxUZGM1bXBQMGpXcmpwUk5RblB5dWZZa2VUMldMSlpaNDV2Tk50QmdkY3l4R0JLdVlWa2swbTEySnF6RDFPaGZvQ3NPd3lSUjlPN1pGUXNxb2loWVJEMENxa3llY0s2c1E5bm1hMFJTWGJidWxGcWp2M3R6cndlQl9na3VibA?oc=5",
-       "publishedAt": "2026-11-15T19:00+05:30"
-      },
-      {
-       "source": "Sacnilk",
-       "title": "Donga Naa Koduku Box Office Collection Day 3",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWdMT0tTeFNRb2ZRbUFVZGRYVVoyODF3cGVBUjZoektpSThWeDdBUVVYTjUzWlE0U28zeGZrcElJS1Y1SVg5ejZUU0cwdEhhQ2dIbDdtTWRFbVJ4SGl5QkthOHE1M08ydUFqTWREM3ZzZmlPNkhfVXpFU09HSVlwOG5fWWpvQkJGSXZn?oc=5",
-       "publishedAt": "2026-11-15T16:22+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Empty promises': Biden's explosive charge against Netanyahu over Gaza deaths",
-     "link": "https://timesofindia.indiatimes.com/world/middle-east/no-intention-of-keeping-promises-bidens-explosive-revelations-about-netanyahus-gaza-war/articleshow/135855540.cms",
-     "source": "Times of India",
-     "sources": [
-      "Haaretz",
-      "Hindustan Times",
-      "NewsBytes",
-      "Pragativadi",
-      "The Times of India",
-      "Times of India",
-      "Ynetnews"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T17:51+05:30",
-     "score": 8.13,
-     "summary": "Joe Biden has revealed his frustrations in private conversations with Israeli Prime Minister Benjamin Netanyahu regarding the Gaza conflict. As civilian casualties increased, Biden urged Netanyahu to take greater precautions to protect Palestinian lives. Despite acknowledging the impact on Israel's international standing, Netanyahu's actions often contradicted his promises. Biden criticized Netanyahu for…",
-     "image": "https://static.toiimg.com/photo/msid-135855635,imgsize-119218.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Empty promises': Biden's explosive charge against Netanyahu over Gaza deaths",
-       "link": "https://timesofindia.indiatimes.com/world/middle-east/no-intention-of-keeping-promises-bidens-explosive-revelations-about-netanyahus-gaza-war/articleshow/135855540.cms",
-       "publishedAt": "2026-11-15T17:51+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'No intention of keeping promises': Biden's explosive revelations about Netanyahu's Gaza war",
-       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQX19PRnpteDNXWllXeWJVNllKX2g5V3BMUS1FS3dRb1cydFZkZXNySEE2bHBuR0o0TUJPZlNab05PWXVraVNHMHgyQ2lIdlU5Y1V0blhNWWxoZjVWdWM0Z3EwaUlaNVE2YjRGSU1GZmNJSktsd3VhX2dQQ1lxdWs0Q3hEX2FzRWYxUUlXMlVlbWMyend0SWNNaldUNUIzUmI2eFdTRDY0ZHhYXzBXUFlITnZDdWdwNkpraGxrTEtvWjhyM0l3MXA4MVY2Ykw2Y2RyVFhqXzJSM2RxNXFhb0dpbkpWdHJVd1ZKc2tsdi12MkZJRHAzb1U4TkNLZw?oc=5",
-       "publishedAt": "2026-11-15T17:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Parliament winter session likely in early December, govt eyes push for delimitation-linked women’s quota bill",
-     "link": "https://www.hindustantimes.com/india-news/winter-session-may-begin-in-december-first-week-government-eyes-push-for-delimitation-linked-womens-quota-bill-101794739002430.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "Rediff",
-      "Telegraph India",
-      "The Hindu",
-      "The Shillong Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T16:16+05:30",
-     "score": 7.52,
-     "summary": "The govt is keen to push through the Constitution amendment bill, which seeks to expand the Lok Sabha's strength from the existing 543 seats.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/parliament_1794739155708_HOEC_1794739155868_R8NU_1124f069-d632-4c00-9755-4122330b22a2_RNvR.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Parliament winter session likely in early December, govt eyes push for delimitation-linked women’s quota bill",
-       "link": "https://www.hindustantimes.com/india-news/winter-session-may-begin-in-december-first-week-government-eyes-push-for-delimitation-linked-womens-quota-bill-101794739002430.html",
-       "publishedAt": "2026-11-15T16:16+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Parliament winter session likely in 1st week of Dec; delimitation bill to be in focus",
-       "link": "https://timesofindia.indiatimes.com/india/parliament-winter-session-likely-in-1st-week-of-december-delimitation-bill-likely-to-be-in-focus/articleshow/135852930.cms",
-       "publishedAt": "2026-11-15T15:48+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Parliament winter session likely in 1st week of December; delimitation bill to be in focus",
-       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONURXVG5ZaVFZMEF0cGJVTHlNV1dOSUdreWxOS0dibV9TQlhoNWtONXpBV2hlbjhhaUdqZ1BTMl9Dem5zVWdIR3N0Nnl6ZUZCb1RmVmtJWGx0NnlHcDNINGZhR3hjS0RLNXZVSmdjd3diRGV1QkU2RFpGd0VFSGliQjBzSTIxTk5WdmxoMnZTMXNfdlhNOENoY2hVYTdKYmc0WkVyUFRhc3laM1hwUTRLZHB5eUdUckFkeUxYOHFCSVpYY3dGdmFJeExCSmJoNU5sTVNsSml4TXAyMmFXNWZCSXNHUVEyNjZDTHhoOTgxdXpJOVVlbGdv?oc=5",
-       "publishedAt": "2026-11-15T15:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Arshdeep Singh & Co. swing it India's way to secure 3-1 series win vs New Zealand",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-co-swing-it-indias-way-to-secure-3-1-series-win/articleshow/135852572.cms",
-     "source": "Times of India",
-     "sources": [
-      "BCCI",
-      "Cricinfo",
-      "ICC",
-      "Rediff",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T17:49+05:30",
-     "score": 7.49,
-     "summary": "India achieved a 22-run victory against New Zealand in the final ODI match. The match saw a fierce bowling effort, leading to crucial wickets at important moments. Mohammed Siraj, Yash Thakur, and Axar Patel played significant roles in the victory. This win allowed India to win the series 3-1, strengthening their position in white-ball cricket. The team's relentless approach was evident throughout the match…",
-     "image": "https://static.toiimg.com/photo/msid-135856446,imgsize-604430.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Arshdeep Singh & Co. swing it India's way to secure 3-1 series win vs New Zealand",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-co-swing-it-indias-way-to-secure-3-1-series-win/articleshow/135852572.cms",
-       "publishedAt": "2026-11-15T15:26+05:30"
-      },
-      {
-       "source": "Cricinfo",
-       "title": "Arshdeep and Co help India defend 209 for 3-1 series win",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVBNU3RYTWw3LWd1MnhlSVpTbUxlMDAzMk9MSFZJQUMwQWpUZ1p4Q2xCendUX3RBTkFsZC0yMUowNl90VUx4NGtXRC1kdGczX19md2YtSzZzaGF4U09OWjRBYmVvYmdrQlB0WU9QWExNWjlwRDdaTEhJR3U5Z2VrUFpWXzBueVlLTnBvbEc2RHE1cTlfMW1kdG5BdW1ZMHFPZEdZYVBUTndGamJEN2N3NFpWd2hiZmNBclE?oc=5",
-       "publishedAt": "2026-11-15T17:49+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Megaspeed says Alice Huang left the company in August 2025",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGhZTlZ0MDBVVUhqYkJMZmtuTk5OazlET0NjTVN5WDZsWTZPSUJjemowSWtRN09mSUdhUmUtdHRnamVjeHp4U0g2ak1VUW51NEZfaW5hM2c0X25DVkVHeG93Q1hHcW5oUlhUMDN1RFVrSDdFZG01RjdyT1pkQmc4MjJxdzhCUnNHZFhPRE9hQ21oczRBVVl2aVpFQWo?oc=5",
-     "source": "Reuters",
-     "sources": [
-      "BBC",
-      "Reuters",
-      "The Hindu",
-      "The Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T17:30+05:30",
-     "score": 7.19,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Reuters",
-       "title": "Megaspeed says Alice Huang left the company in August 2025",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGhZTlZ0MDBVVUhqYkJMZmtuTk5OazlET0NjTVN5WDZsWTZPSUJjemowSWtRN09mSUdhUmUtdHRnamVjeHp4U0g2ak1VUW51NEZfaW5hM2c0X25DVkVHeG93Q1hHcW5oUlhUMDN1RFVrSDdFZG01RjdyT1pkQmc4MjJxdzhCUnNHZFhPRE9hQ21oczRBVVl2aVpFQWo?oc=5",
-       "publishedAt": "2026-11-15T17:30+05:30"
       }
      ]
     }
