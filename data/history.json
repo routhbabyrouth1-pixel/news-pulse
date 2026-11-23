@@ -1,6 +1,195 @@
 {
- "updated": "2026-11-23T13:00+05:30",
+ "updated": "2026-11-23T14:52+05:30",
  "hours": [
+  {
+   "hour": "2026-11-23T14:00+05:30",
+   "generatedAt": "2026-11-23T14:52+05:30",
+   "feeds": 16,
+   "headlines": 320,
+   "stories": [
+    {
+     "title": "Nepal PM Balen Shah India Visit LIVE Updates: India, Nepal Ink 8 Agreements During PM Balen Shah's New Delhi Visit",
+     "link": "https://www.ndtv.com/india-news/nepal-pm-balen-shah-india-visit-live-updates-pm-narendra-modi-meeting-today-india-nepal-relations-key-agenda-energy-hydropower-infrastructure-climate-12363775#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "News On AIR",
+      "The Hindu",
+      "The Shillong Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-23T14:43+05:30",
+     "score": 8.73,
+     "summary": "Nepal PM Balen Shah India Visit LIVE Updates: Balen Shah arrived in New Delhi on Sunday for a two-day State visit to India at the invitation of PM Narendra Modi.",
+     "image": "https://c.ndtvimg.com/2026-11/e01roetc_balen-shah_625x300_23_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Nepal PM Balen Shah India Visit LIVE Updates: India, Nepal Ink 8 Agreements During PM Balen Shah's New Delhi Visit",
+       "link": "https://www.ndtv.com/india-news/nepal-pm-balen-shah-india-visit-live-updates-pm-narendra-modi-meeting-today-india-nepal-relations-key-agenda-energy-hydropower-infrastructure-climate-12363775#publisher=newsstand",
+       "publishedAt": "2026-11-23T13:52+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "PM Modi holds bilateral talks with Nepal Prime Minister Balendra Shah; trade, investment, connectivity on agenda",
+       "link": "https://www.thehindu.com/news/national/pm-modi-holds-bilateral-talks-with-nepal-prime-minister-balendra-shah-trade-investment-connectivity-on-agenda/article71733786.ece",
+       "publishedAt": "2026-11-23T13:51+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "PM Modi, Nepal PM hold bilateral talks; connectivity, trade, energy on agenda",
+       "link": "https://timesofindia.indiatimes.com/india/pm-modi-nepal-pm-hold-bilateral-talks-connectivity-trade-energy-on-agenda/articleshow/136091026.cms",
+       "publishedAt": "2026-11-23T11:21+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Nepal PM India visit LIVE: India-Nepal ties ‘as firm as Himalayas, vast as oceans,’ says Balen Shah",
+       "link": "https://www.hindustantimes.com/india-news/nepal-pm-india-visit-live-updates-balendra-balen-shah-pm-modi-meeting-ayodhya-janakpur-train-railway-bilateral-talks-101795403583195.html",
+       "publishedAt": "2026-11-23T09:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Five takeaways from the failed climate talks COP31",
+     "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "Financial Times",
+      "Reuters",
+      "The Economist",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T13:16+05:30",
+     "score": 8.23,
+     "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce9/live/11961550-e704-11f1-8d78-e5a497181e56.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Five takeaways from the failed climate talks COP31",
+       "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-23T12:03+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkRpNkxWeXdiVHlkMThkYUhfdnc2Zk1mNFZBQVZRakYzZkExcWRlMGZpb2x5My1TdTYyUUNfdHhMSkFXNUlHVWhMbUF5ZHplV3kzYlJ1bFc1MEUxS0ctZ0ZyVnhxRTN1Y2ZWTjdDZTNTTTUwdVg2MEsyc2ZKQWlBQUtoQzhwRTJIYnl3eTZDemVuN3F4Y1lNVmtEcG15bURqRzNHVmp1Y3daeHpfYU90VDBPQUhuUVhZemxzei1aRkRyajlwZnhoVHFZY9IB0gFBVV95cUxQTTFqTkRZaXdNNHN2SWJ6SVNzcElOT19qOXF2VXNyd3pwRjcxQlBGcWpyaXlsUmt1Q19YUWowZkdVU1A2QkFqd0pRNHFyLV9XS2k0SG13VXpfWkI5STRRMVVBcUcxS25zaTVKYjMzREZJV0pBMWpvVDI4X3F3RW1KdVVEUTlaNGVET0RhVkc2VzJaX0E5OGNiYWFOYkVwcnNoTk9zcUlrM3dCU3l3NWxfaUxwX2lIMnhHc2poa2pMbEwyakN4a2dFcS1IRWR2MkdKNFE?oc=5",
+       "publishedAt": "2026-11-23T13:16+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Five takeaways from the failed climate talks COP31",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NWFdXOXBqenhpMmhHNzlYTnpBeU5JLWY4ZkptU3hjT1RFRWdjY0d4ZzJZN281TmYzcDIyVUFEbmZMd1A1NkkzbEFKX2RPU3k4bnRDZEZnVVlyV28?oc=5",
+       "publishedAt": "2026-11-23T12:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Delhi court issues non-bailable warrant against Dhruv Rathee in 2018 defamation case",
+     "link": "https://timesofindia.indiatimes.com/india/delhi-court-issues-non-bailable-warrant-against-dhruv-rathee-in-2018-defamation-case/articleshow/136094111.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "Moneycontrol.com",
+      "NDTV",
+      "Scroll.in",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-23T13:24+05:30",
+     "score": 8.13,
+     "summary": "The case stems from a defamation complaint filed by Vikas Sanskrityayan over a video titled “BJP IT Cell Part II”, which Rathee produced and uploaded in 2018.",
+     "image": "https://static.toiimg.com/photo/msid-136094176,imgsize-37216.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Delhi court issues non-bailable warrant against Dhruv Rathee in 2018 defamation case",
+       "link": "https://timesofindia.indiatimes.com/india/delhi-court-issues-non-bailable-warrant-against-dhruv-rathee-in-2018-defamation-case/articleshow/136094111.cms",
+       "publishedAt": "2026-11-23T13:24+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Delhi court issues non-bailable warrant against Dhruv Rathee in 2018 defamation case",
+       "link": "https://www.hindustantimes.com/india-news/delhi-court-issues-non-bailable-warrant-against-youtuber-dhruv-rathee-in-2018-defamation-case-101795419745615.html",
+       "publishedAt": "2026-11-23T13:15+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Delhi court issues non-bailable warrant against Dhruv Rathee in 2018 defamation case",
+       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTHFDS2hBR19lMmpHa3pBcUxtRlJBWjdPbk9zU3hkdDZkaWNhV2YxNkE3Mnk1Z1JhM05JX01zMlNyVGFPOHRFTUx6dEtEUHpmOGJmMFhqN2dTT2dJek1qc1R0VmpuVC1lTl9vOFZDMHpiZFEtMS1ORGJWM19VVzR2U3cweGUzSTU0RDJwNW5Kblk1b0NMdkxiSVZzQWRXa2xyN0RnZnl3Ml9UT0RwWGh1eFhrQTdweDBQZnNLazB1YjJwUWZFYno0Z1ViZjZ3Sk1iaFlTWldLeER1Y1N0NVNEZkNhZ2RmNlE?oc=5",
+       "publishedAt": "2026-11-23T13:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Scene Box Office Collection Day 18",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnTXF4OFRUaU15MmlTc05YckZ0SmR5cDdxVHRDVHZPZWp0QjA4R2FPZGxHNS1BZlF1enlnQVd1MkhmelFfM0c3NHBwblZNMThoM0NabHpIWGZmem9zN2ZDT2NKYVFCNFhEeTlLb3QtUjRLM3BkN3lmbjR1ajluUQ?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Sacnilk",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Wisevoter"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-23T14:16+05:30",
+     "score": 7.97,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Scene Box Office Collection Day 18",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnTXF4OFRUaU15MmlTc05YckZ0SmR5cDdxVHRDVHZPZWp0QjA4R2FPZGxHNS1BZlF1enlnQVd1MkhmelFfM0c3NHBwblZNMThoM0NabHpIWGZmem9zN2ZDT2NKYVFCNFhEeTlLb3QtUjRLM3BkN3lmbjR1ajluUQ?oc=5",
+       "publishedAt": "2026-11-23T14:16+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India flexes its power muscles, but China leads",
+     "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-a-major-powerhouse-in-asia-pm-modi-second-most-effective-regional-leader-power-index-2026/articleshow/136093464.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Bloomberg.com",
+      "Moneycontrol.com",
+      "NDTV",
+      "The Economic Times",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T13:00+05:30",
+     "score": 7.44,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "India flexes its power muscles, but China leads",
+       "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-a-major-powerhouse-in-asia-pm-modi-second-most-effective-regional-leader-power-index-2026/articleshow/136093464.cms",
+       "publishedAt": "2026-11-23T13:00+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "India strengthens position as Asia's third-largest power, narrows gap with China: Asia Power Index...",
+       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRUlpVmVOcEQyc0V0eHR2WkFZYkhtY2RZa085UGluam03QzFaSk5XQ01WQWFiYXBWM25kZkpKRkpJN3ROeFY0cGRScVJQODhMLTdCek9SMVNQZXBlZ3FwV0puQW5xOHQzdUNSdmtoSExyWXphWThjVDlzbkV4RXhXNTAyTW9NclhoUGk1dXBHTFlRb0dCdVR1eHpLSktENTdLanV2dVBQS1JBdDFiUEZWMTZRZGJCdkw0cEs0WGNNU0FaNXBINnVyaWVFa1p6SEhlMjJZbTFpM3o0Mmk5cE13WnlrVmdmeWo5amxfRGlzcV91dkR0QzlzUTNn0gH_AUFVX3lxTE9MdXBiMlo5Z1lSVDc2NS12XzZrMmRYTDEyT2R2SThwUmVlS0U4bnVFdGFxVmxyeUlHUC0xeEczYlNibkROMkV1S0lfeWt4b21lcmUtSFN0Yl9OTXhyRzhwQ1A0X3FSZlZ0NkZSZHB5ZzhmenVjZXVxSkppaUE1UEFhbjV2ZHpGbEVkNm5pMHJYQVcxd010OVd0c0xmTXNzd1hsODU4WmotT0UtR215RVpjSnhVQXV3Qlh4cElZUzFJVlRNcWVpWjN5MUk4TWRQaFJLalZMVzlTc3I3WkxNZ3lOM09BczNaSlNsbkNpV0VRTDhzaTFqSjFVRVZLbzFMQQ?oc=5",
+       "publishedAt": "2026-11-23T10:29+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-23T13:00+05:30",
    "generatedAt": "2026-11-23T13:00+05:30",
@@ -29556,189 +29745,6 @@
        "title": "Four Swordsmen: How China is reshaping its fighter jet fleet with J-35A stealth aircraft",
        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSml5dXY1WnpKclZwcjVaZWxNWEJLTXJNY1luVS1CV2o2N0JkMEJwUHNaNlMyTFdRQVlFLURfVkE3N3MzNlVlekpHMElaSnd6RGQ2MnkzWE94WGs2S3dMSkJGeW5mM1NWNWtvMHV3YU9UWmJSU3RGVmdDUmVSLXhqVjd3Uk1ESVVVUFJlWlpMb194bnFrQkROUTQ2VjZxZndBbkN5UjA3aW9uVU50UVBKdzY0R1VHZ1JQTV9RZ2JXZUl3b0VQZk1HUTk1N3lPdElhbjNoZlNnOERjWnVCVGU5THFwMjZvNFZVZ2NCTy1GOW5rVHlkSHNUejFEQTFJWFJs?oc=5",
        "publishedAt": "2026-11-15T12:44+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T12:00+05:30",
-   "generatedAt": "2026-11-15T12:28+05:30",
-   "feeds": 17,
-   "headlines": 273,
-   "stories": [
-    {
-     "title": "2 planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
-     "link": "https://timesofindia.indiatimes.com/world/us/two-planes-collide-at-miami-airport-passenger-shares-footage-of-crushed-aircraft-nose/articleshow/135847604.cms",
-     "source": "Times of India",
-     "sources": [
-      "CBS News",
-      "CNN",
-      "Inshorts",
-      "NDTV",
-      "The Times of India",
-      "Times of India",
-      "WPLG Local 10"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T11:48+05:30",
-     "score": 9.39,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135847706,imgsize-48190.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "2 planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
-       "link": "https://timesofindia.indiatimes.com/world/us/two-planes-collide-at-miami-airport-passenger-shares-footage-of-crushed-aircraft-nose/articleshow/135847604.cms",
-       "publishedAt": "2026-11-15T10:22+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "2 Planes Collide At Miami Airport Day After Flight Chaos Across US",
-       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm9yU1ZyUnVQN280T3ZEa2ZBWDlRV1ktWmF4MGFXQk5iSXJ3eDlxMVhDRTNLZkhPejE5bXdoa2x6UkJaQ3hPdUVDbWFONmo1b3dhM25nY2w3WXBkM0xIc1Z0ODRlN2Z5VkZoMThtaFpDMG4wLTQ4Wm5hMkMydXdRaDNwbXU2cE9UYUtmeDE1NWRQTnFESFhUY1l0Yy1aOFFxZTJPQlJZWS1DMHVoRGczYmhKSlJ1dHBiTUo0eldReDRtU1BBanlFeg?oc=5",
-       "publishedAt": "2026-11-15T11:48+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Two planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
-       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONmN4VkNPZmpmUFJWcXVtaU5kS3FZM1plODgybXN4X3VVekJXeVM1aE9VMDdDMER0VHl6YUNqOXU5WnFIR2QxQ0VZYU1OSFVCd1ZLcU9qRjJlcGo0QWJJQ1ZvbWI4LTlaWHBPZmRWbERNNngyeDV3YnhSSWoxV0lmMktBOHp6eW1ldXpqaW5ZcWlSbWwtTlVJcmYwQ3hkcHF3a1Bjb3FtUDJSaGhjQTlQVldKYTd6RlZQOHJodlBzelZRX0xaTC1RRWozRXZVM1BtSEpkYkpCUTVNN2NKcWRKc1RScTB3UVgxR0ZKLQ?oc=5",
-       "publishedAt": "2026-11-15T10:22+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Ramayana box office collection Day 10 Live Updates: Yash-starrer nears Rs 700 crore net mark in India, records biggest second Saturday ever",
-     "link": "https://indianexpress.com/article/entertainment/bollywood/ramayana-part-1-box-office-collection-day-1-live-updates-ranbir-kapoor-film-earns-rs-1228-cr-10963278/",
-     "source": "The Indian Express",
-     "sources": [
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Indian Express",
-      "The News Minute",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T10:00+05:30",
-     "score": 8.09,
-     "summary": "",
-     "image": "https://images.indianexpress.com/2026/11/ramayana-blog-2.jpg",
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana box office collection Day 10 Live Updates: Yash-starrer nears Rs 700 crore net mark in India, records biggest second Saturday ever",
-       "link": "https://indianexpress.com/article/entertainment/bollywood/ramayana-part-1-box-office-collection-day-1-live-updates-ranbir-kapoor-film-earns-rs-1228-cr-10963278/",
-       "publishedAt": "2026-11-15T08:23+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Ramayana Box Office Collection Day 10: Ranbir Kapoor's Film Crosses Rs 1,200 Crore Mark Worldwide",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3I1d2NEeDJlbkVvNmpUOGpUNWV2cnRGeWJ3eGdHcnRwT1VPeDNsV19vd3NKRG5wRUFseFV5ck5ScFFHQXE0M0dzeUNMWmFCX3hhUG05SDVPNGFxSGF1d19LNXg2ZG5wSUdwSW8yRmFfdENLdXh6WXNPS3pPTzhKSWlsbDlYVUhTTmxEWXBlNWhKSlIwcy1IbGVOTkJrMjluVmdvd1ZkNXJwQWd4SEJaQTgzTjZVV0Y2YXhvVFJBeEZiT0pDRDk3UDAtUFh1anQ5bnhJNUd30gHeAUFVX3lxTFBDbUhfbkNzdjNEUGdERU5TTjV4QzkxVWdSOE1kUHA3TUx2M3IzRkw2QTlrc1J1Z2l1TjlpTGxpM0s3bmU5aGxCU2VrUG1reUFyakpZeVN6aHBYeEtfV1pEdm1UcndtZHRZd3BFYnJIRnJZcGc1d3JXZm9KcDNxajhvdW9kNzhjLTdsMnpVdlVjeEJadDBrN3dtaTdwLW9sUjlzQV90SldpeHRQMWxfaENuT0lVMkY5LXl4NmdaVUstQmgxT2c3LVJqd3ZDazhYVm1rQlB3VzdLMmRydWFXUQ?oc=5",
-       "publishedAt": "2026-11-15T10:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "18-year-old woman found murdered in West Delhi boutique, lookout for relative",
-     "link": "https://indianexpress.com/article/cities/delhi/18-year-old-boutique-employee-found-dead-west-delhi-changing-room-10963679/",
-     "source": "The Indian Express",
-     "sources": [
-      "ANI News",
-      "India Today",
-      "NDTV",
-      "Rediff",
-      "The Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T11:55+05:30",
-     "score": 8.06,
-     "summary": "An 18-year-old woman named Shabnam was allegedly murdered inside a clothing showroom in Moti Nagar, Delhi. The suspect, reportedly a former friend, attacked her in a trial room using a sharp weapon. The incident occurred just before the store was to close for the day. Investigators suspect the motive may involve unrequited love and damaging personal relations between the two.",
-     "image": "https://images.indianexpress.com/2026/11/shabnam.jpg",
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "18-year-old woman found murdered in West Delhi boutique, lookout for relative",
-       "link": "https://indianexpress.com/article/cities/delhi/18-year-old-boutique-employee-found-dead-west-delhi-changing-room-10963679/",
-       "publishedAt": "2026-11-15T11:55+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "18-year-old found murdered inside trial room in Delhi; suspect on the run",
-       "link": "https://timesofindia.indiatimes.com/city/delhi/18-year-old-found-murdered-inside-trial-room-in-delhi-suspect-on-the-run/articleshow/135847906.cms",
-       "publishedAt": "2026-11-15T10:50+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "18-year-old found murdered inside trial room in Delhi; suspect on the run",
-       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcS1iQmZ6VjZIZXRBbFZySEFKQkdUSkpPUGxQY3pGZXJIZENhWThpdkh5SmRuMkR0RE9MVmJIRHVSZ1R0cGwwTTM0UWxlZEtqLWlxbmQzZmw1N0w3bGZkRzBaVjA0YWtqLVN0Z3BWcDBwV2s1akZ1TGhvakh2bzBuWTV1dm5DVmdoVWJFb3lReU54dHNhc0JTSFFIT1BkSFVnTzI4ZHd5dkZBMk9PdmJ6SGlzOGtpNTUtUGRlcjVIcVVsbVJHS1BhVGJUTVdHa3h3SElMTkpleDMxaFlHMlE?oc=5",
-       "publishedAt": "2026-11-15T10:50+05:30"
-      }
-     ]
-    },
-    {
-     "title": "‘These tricks don’t work on me’: Eisenkot rejects Netanyahu’s 'unity govt' appeal",
-     "link": "https://timesofindia.indiatimes.com/world/middle-east/these-tricks-dont-work-on-me-eisenkot-rejects-netanyahus-unity-government-appeal/articleshow/135847553.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "Middle East Monitor",
-      "TRT World",
-      "The Japan Times",
-      "The Times of India",
-      "The Times of Israel",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T10:46+05:30",
-     "score": 7.74,
-     "summary": "Caretaker Prime Minister Benjamin Netanyahu reiterated his call for a national unity government. Gadi Eisenkot, his political rival, dismissed Netanyahu's appeal, viewing it as a strategy to create division. Eisenkot is currently negotiating to form his government, with a deadline of 28 days. Discussions are strained over the Knesset speaker election, with both sides presenting opposing candidates. Netanyahu's…",
-     "image": "https://static.toiimg.com/photo/msid-47529300.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "‘These tricks don’t work on me’: Eisenkot rejects Netanyahu’s 'unity govt' appeal",
-       "link": "https://timesofindia.indiatimes.com/world/middle-east/these-tricks-dont-work-on-me-eisenkot-rejects-netanyahus-unity-government-appeal/articleshow/135847553.cms",
-       "publishedAt": "2026-11-15T10:46+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Netanyahu sends plea to Eisenkot for unity government",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-       "publishedAt": "2026-11-15T07:03+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "‘These tricks don’t work on me’: Eisenkot rejects Netanyahu’s 'unity government' appeal",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN2V6SmxETVpCaWJkTEFaZzZtNTU0Umk5eExMakFKVElsUWJrWFZzSzFfWjl1aFFRem1leU53b3V0bkN6UXZDMHhBOE5VUjhFdGZmVW40TGh3RTladlhxUF9pejg4bzJER1EtZWk5OEJUUnFRVEg5emlRU0hYMFJTSHl3eXRuMkhVWUpiUF9uekFwUlFDUDBuWnVzRjdRSUJrZ19yNVJVSXdOeV9RTXNldkhTa0VLLUE1ekh1MjR2OFZ5NzFaR0JSQ2J2RTRkRG85YUZ6Q0cza2dLZDgzeDJ4ZHRxQ0FvdS1fcFRzamF2R0FoQdIB9wFBVV95cUxNUWlVYWxfamZsNmdqRUd0Yk1xU3VNZEdmWEdCNUZoZXZCeEIwdFFFeEhoOEhxS2NMVXVzcUJ4Ymw1QkRzSmtVcDVsM0dZN0kxZ0tyZnNFRWRXZlk0UGxhVEg5YWxjNkZTT2RSNlBsSXBvN09QekFYNm5mQmF4aEJ6Nko1cENETU1helNLY1NwWkR0OEZYSDRqUXY4VDh1QUZFMHJWcklXelhRRmxRbHQ4bmV4QmpJMWl4UzNSTjBYamYtSEptdnVNTEE3U0NsWlVXVm8wcUpZV1BELUEwYkMzSHhabjNUMTk5RWxEUl8wbUUzQUFERWlj?oc=5",
-       "publishedAt": "2026-11-15T10:46+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India: 209/10(42.1) | IND vs NZ 5th ODI Match - Live Cricket Score, Full Scorecard, Bay Oval, Mount Maunganui",
-     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTkZ1cGJhYllMNFh2YzBfaklwTjJwMFg0SnFJSl83NVBvaDBCcG9ZQmJjN3FZU2lLM3hWbnJSVERpWV9MdWdaQjJCRGp3M3Bkc2hRTUc4cHF2c0RkRFVXTng2WWxHRlh2amd1bDh0bGlKaHE0UmdqbnRTaWEzWjU0bF9FVUJxVlBfMnFzSkhna3R2SHRuUVZuSjAwMTl4Y0p3UnRiTFgwbk41alpMQ3FBdms5Q0otZThvWVd2SVR0NmhKQzI3Nkhxb29lX3V1UzN0bDZHSWR1QVRhOVZTdi1LWGk2UFRtdVBRT1JSRG42bFI5SGducjBIdUwxdEhoa1hXZ3ItMlo0S1ZGQmpNek9zUFhB?oc=5",
-     "source": "The Indian Express",
-     "sources": [
-      "Cricbuzz",
-      "Deccan Herald",
-      "Rediff",
-      "Sportstar",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T11:51+05:30",
-     "score": 7.39,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "India: 209/10(42.1) | IND vs NZ 5th ODI Match - Live Cricket Score, Full Scorecard, Bay Oval, Mount Maunganui",
-       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTkZ1cGJhYllMNFh2YzBfaklwTjJwMFg0SnFJSl83NVBvaDBCcG9ZQmJjN3FZU2lLM3hWbnJSVERpWV9MdWdaQjJCRGp3M3Bkc2hRTUc4cHF2c0RkRFVXTng2WWxHRlh2amd1bDh0bGlKaHE0UmdqbnRTaWEzWjU0bF9FVUJxVlBfMnFzSkhna3R2SHRuUVZuSjAwMTl4Y0p3UnRiTFgwbk41alpMQ3FBdms5Q0otZThvWVd2SVR0NmhKQzI3Nkhxb29lX3V1UzN0bDZHSWR1QVRhOVZTdi1LWGk2UFRtdVBRT1JSRG42bFI5SGducjBIdUwxdEhoa1hXZ3ItMlo0S1ZGQmpNek9zUFhB?oc=5",
-       "publishedAt": "2026-11-15T11:51+05:30"
       }
      ]
     }
