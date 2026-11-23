@@ -1,6 +1,197 @@
 {
- "updated": "2026-11-23T20:30+05:30",
+ "updated": "2026-11-23T21:32+05:30",
  "hours": [
+  {
+   "hour": "2026-11-23T21:00+05:30",
+   "generatedAt": "2026-11-23T21:32+05:30",
+   "feeds": 16,
+   "headlines": 310,
+   "stories": [
+    {
+     "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "Telegraph India",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India",
+      "Times of India",
+      "TradingView"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-23T21:18+05:30",
+     "score": 12.46,
+     "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly half of its brutal losses from last week, which was one of its worst since the 2008 financial crisis. Rallies for AI stocks had the Nasdaq…",
+     "image": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=e633ec1bbe2c14257a07187d55bac276",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+       "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+       "publishedAt": "2026-11-23T21:18+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
+       "publishedAt": "2026-11-23T20:53+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Trump backs Nvidia's reinstatement of Huang as CEO",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-backs-nvidia-boards-decision-to-reinstate-jensen-huang-as-ceo/articleshow/136106347.cms",
+       "publishedAt": "2026-11-23T20:12+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Nvidia Live Updates: Nvidia Stock Jumps 30% After Jensen Huang Returns As CEO",
+       "link": "https://www.ndtv.com/world-news/nvidia-board-reinstates-jensen-huang-president-ceo-board-director-live-updates-live-updates-nvidia-stock-jumps-30-after-jensen-huang-returns-as-ceo-12367017#publisher=newsstand",
+       "publishedAt": "2026-11-23T19:59+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'National treasure': Donald Trump hails Jensen Huang's return as Nvidia CEO",
+       "link": "https://timesofindia.indiatimes.com/world/us/great-patriot-and-national-treasure-trump-hails-jensen-huangs-return-as-nvidia-ceo/articleshow/136106114.cms",
+       "publishedAt": "2026-11-23T19:55+05:30"
+      },
+      {
+       "source": "TradingView",
+       "title": "Nvidia reinstates Jensen Huang as CEO",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWU2bkwxa3FKUV9CQjhZRURNanJwaUZLUHV3dGlKQ0xfRWdyMktHck9CWE1xOVpUMGd1Y3U0bmdQUjNQemdmNmFfYU4wZE5PVjFucHowNDdtalpPNTRwWVBYcEpnYl84MW5lWnB3dzdRWU1EbEpjcm9YMUJLVDdwajdOdmFtREtaUTZLUEJsOGVaaURjdEVVcDFZQVcyYnJyZms0d2tFR19hZVU?oc=5",
+       "publishedAt": "2026-11-23T19:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 4",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHpFRVlpMElRNDFuR2czMUFtYTJaNkJKUVVlUXpCSXRJNTYwcFVGMWw2RzNIZGoxTVAzd2RWVC1hTGJkdXZXTWlCdThOQTNKcC13RWdDb0xRalNXa1R1bGtiWFhKUU00ZEJpaGl1c3h3WE0wNk9kc3pKUXJFYWt0NmI1SHJtQThDcFk2Q2NB?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Pinkvilla",
+      "Sacnilk",
+      "THE WEEK",
+      "Telugu360",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-23T21:03+05:30",
+     "score": 8.95,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 4",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHpFRVlpMElRNDFuR2czMUFtYTJaNkJKUVVlUXpCSXRJNTYwcFVGMWw2RzNIZGoxTVAzd2RWVC1hTGJkdXZXTWlCdThOQTNKcC13RWdDb0xRalNXa1R1bGtiWFhKUU00ZEJpaGl1c3h3WE0wNk9kc3pKUXJFYWt0NmI1SHJtQThDcFk2Q2NB?oc=5",
+       "publishedAt": "2026-11-23T21:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gukesh vs Sindarov World C'ship: When and where to watch live in India",
+     "link": "https://timesofindia.indiatimes.com/sports/chess/gukesh-vs-javokhir-sindarov-world-chess-championship-2026-when-and-where-to-watch-live-streaming-in-india/articleshow/136101538.cms",
+     "source": "Times of India",
+     "sources": [
+      "Chess.com",
+      "ESPN India",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T18:14+05:30",
+     "score": 7.2,
+     "summary": "India's Gukesh Dommaraju will defend his world title against Uzbekistan's Javokhir Sindarov in the 2026 FIDE World Chess Championship, beginning November 24 in Geneva. The historic contest features two 20-year-olds and 14 classical games. The winner will receive the larger share of the USD 2.5 million prize fund. Matches begin at 7:30 PM IST, streaming live on FIDE's YouTube and Twitch channels.",
+     "image": "https://static.toiimg.com/photo/msid-136103346,imgsize-83171.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Gukesh vs Sindarov World C'ship: When and where to watch live in India",
+       "link": "https://timesofindia.indiatimes.com/sports/chess/gukesh-vs-javokhir-sindarov-world-chess-championship-2026-when-and-where-to-watch-live-streaming-in-india/articleshow/136101538.cms",
+       "publishedAt": "2026-11-23T18:14+05:30"
+      },
+      {
+       "source": "Chess.com",
+       "title": "Vishy Anand's Gukesh-Sindarov World Championship Predictions",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbGdUVUN0dHEwTS1vejRCVThWOU5wMWZKZFZPYlVoMXV3WDBDV2lYMlpWNy1xck9BNGNMZGZrMFlZaEJGTDJtTmRuOUNxajFxSnBGZHRnLUdmUWE2UjNYS0c5WUZGUWw2Z2VKZmJJVkNkRWpaUHY2WG9vR2VuaDNwZ3ZHVkYzM2Z5Z1REelVsMjMyTGts?oc=5",
+       "publishedAt": "2026-11-23T16:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia shares surge 35.5% as tech giant reinstates Jensen Huang as CEO, chairman",
+     "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-share-price-today-jensen-huang-back-as-ceo-of-ai-company-november-23-2026-stock-price-reaction/articleshow/136105677.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNBC",
+      "Investing.com",
+      "MarketWatch",
+      "The New Indian Express",
+      "The New York Times",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T20:51+05:30",
+     "score": 7.18,
+     "summary": "The decision represents a big departure of course for Nvidia's board, which had ruled out Huang's reinstatement only days earlier. Jensen Huang stepped down on November 12 following disclosures about extramarital relationships, including one involving a businesswoman suspected by US authorities of spying for China. Beijing has denied the allegation.",
+     "image": "https://static.toiimg.com/photo/msid-136105711,imgsize-442565.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Nvidia shares surge 35.5% as tech giant reinstates Jensen Huang as CEO, chairman",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-share-price-today-jensen-huang-back-as-ceo-of-ai-company-november-23-2026-stock-price-reaction/articleshow/136105677.cms",
+       "publishedAt": "2026-11-23T19:42+05:30"
+      },
+      {
+       "source": "MarketWatch",
+       "title": "Stock Market Today: Nasdaq surges 7.4%, S&P 500 and Dow jump after Nvidia reinstates Jensen Huang; Nvidia shares up 30% — live updates",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlFY2RjMXEwMk83LVpKcEY1QmhtTk03YmRoSUhkS0FUTkhpYnlIR3drVUNnVDJPLXJRR0RHR2VkNGk0R1AyUmpPZEQwUlFqeWUwSUtQME00YkxQcDRIbERLSXZoU2xMcmF4VVRwMkVLaG52d2RpSjR0eFZqMWZwOWVQQ3JkYTFYRkZ1ZldlS3ZVSGRPYXlxQnBGQ1JuT0QxVGJhLXY1MHhSdmMtdFE?oc=5",
+       "publishedAt": "2026-11-23T20:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Iran says it will use ‘all available means’ to counter US blockade",
+     "link": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Euronews",
+      "Reuters",
+      "The Times of India",
+      "The Times of Israel"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-23T18:34+05:30",
+     "score": 7.0,
+     "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Iran says it will use ‘all available means’ to counter US blockade",
+       "link": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+       "publishedAt": "2026-11-23T18:34+05:30"
+      },
+      {
+       "source": "The Times of Israel",
+       "title": "Iran says it will use all available tools against US naval blockade",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQW1lNE85X2RXWFl6LXlhcnFfYWV3R1pWZnZ5UFVPaWVrTy04MFIyRndvS1RKYUZxTlVNekRfcUlqeE83T2h5Y2I2RWJSUkkybnliUDNwQ0RkYU54VnE4cHNhZHB6TGE2M3hkN05panQtVEF2MERHNjg1Sjk1allic05razJYNGNzYW1vdkl4SzFSZ29pTzRkM0ZYRkhzZzDSAaQBQVVfeXFMTWo5MEtXSHpmV0VaWUVjUTdUd0tRNGl6eG9KUDJLVTJuMmZtQUxqcVVmaGUzLWRna3BETllzajUxbkhTVGdqNEJvUnZGUWpKbEFwWDY1NThNX2E1bUhGdVQzQXQxdFZvLTc2d0lPM0YyX2NOWlNKRzRCeW1nS1A1dTBZWEhDY0xzNWJ2dlpYQW9MMElxbEpWNzd2WmhrZ19MTXY3c18?oc=5",
+       "publishedAt": "2026-11-23T17:04+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-23T20:00+05:30",
    "generatedAt": "2026-11-23T20:30+05:30",
@@ -29537,228 +29728,6 @@
        "title": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review - GSMArena.com news",
        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5",
        "publishedAt": "2026-11-15T15:31+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T17:00+05:30",
-   "generatedAt": "2026-11-15T17:08+05:30",
-   "feeds": 16,
-   "headlines": 274,
-   "stories": [
-    {
-     "title": "IndiGo Guwahati-bound flight returns safely to Pune after landing gear fails to retract",
-     "link": "https://timesofindia.indiatimes.com/india/indigo-guwahati-bound-flight-returns-safely-to-pune-after-landing-gear-fails-to-retract/articleshow/135852933.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "Inshorts",
-      "Mint",
-      "NDTV",
-      "Nagpur Today",
-      "Rising Kashmir",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-15T15:45+05:30",
-     "score": 10.27,
-     "summary": "An IndiGo Airbus A320 encountered a landing gear malfunction shortly after departing from Pune. Prioritizing safety, the flight returned to Pune International Airport. After approximately two hours of holding to deplete fuel and assess the gear, the aircraft landed without incident. To ensure minimal disruption, IndiGo arranged an alternate flight for the passengers, reinforcing the airline's commitment to their…",
-     "image": "https://static.toiimg.com/photo/msid-135852954,imgsize-61018.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "IndiGo Guwahati-bound flight returns safely to Pune after landing gear fails to retract",
-       "link": "https://timesofindia.indiatimes.com/india/indigo-guwahati-bound-flight-returns-safely-to-pune-after-landing-gear-fails-to-retract/articleshow/135852933.cms",
-       "publishedAt": "2026-11-15T15:45+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "Guwahati-bound IndiGo flight returns to Pune due to technical snag; all passengers safe — Here's all you need to know",
-       "link": "https://www.livemint.com/news/india/guwahatibound-indigo-flight-returns-to-pune-due-to-technical-snag-all-passengers-safe-heres-all-you-need-to-know-11794729353995.html",
-       "publishedAt": "2026-11-15T14:17+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Guwahati-bound IndiGo flight returns to Pune due to technical issue; all 192 persons onboard safe",
-       "link": "https://www.thehindu.com/news/national/guwahati-bound-indigo-flight-returns-to-pune-due-to-technical-issue-all-192-persons-onboard-safe/article71704295.ece",
-       "publishedAt": "2026-11-15T12:40+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Guwahati-bound IndiGo flight carrying 193 passengers returns to Pune after landing gear malfunction",
-       "link": "https://www.hindustantimes.com/india-news/guwahatibound-indigo-flight-carrying-193-passengers-returns-to-pune-after-landing-gear-malfunction-101794723897032.html",
-       "publishedAt": "2026-11-15T11:58+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Guwahati-Bound IndiGo Flight Returns To Pune As Landing Gear Fails To Retract",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUFRaHI1TEN5LUg1V2tyMTVyZEctc3lmM0dPMXVST29HT2FxekRGVXY0clNmODRmdk1hdGNaMF9Bd1ozUHdxLXYwbXRtOGw4YlBCQ050NzJ5UEZNVkZDMm1lbEZVSGtndUhwcGgzdzZORThocHk4Q0ZvUG5KZVkzN01Sc0Y5UkxzREJGZGVid0N4QWRqQ1VtOTBRYTdCTmtpX3V2eUxPR0xHRDEwZUFnTHA5S3d0d0hXd2fSAcIBQVVfeXFMUDlfNHNOY2RiX2h3bmFlWXoyQkRjR3ctY2ZNNU5Ga0g3d3FaMm1UN3VmQW5aM3lLMXR2LUtEVjRuNHJId1A5Mm5PT2lJdlJPYWtYZEh2UTZuVURLdVIwOG1KSWdzNFIwMHJXWTJ5VWU3TW9XUnhrRjM2OWJvaFpWWnc2SklLS2hPTEd6OEpqR3RSdWlialJuR2VIcXVvQi1nNThQWV9za2lyTXktZzQwMVRTdmdIeUc1bW8zMGR5Ykxsbmc?oc=5",
-       "publishedAt": "2026-11-15T12:30+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "IndiGo flight’s landing gear fails to retract after take-off, makes safe emergency landing in Pune",
-       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS0RnM3ktQWZhM0xOSGdQZGt6YTBnMnJrN2dDVVg5VGo5MndkQmJWZjR2YzhRRUpDVnFCQm1LeHM2Z1pHNXhJMmxMRFN5cmxzMENGV20zNVRSdXo1UkkyMHZpMWU5Nzc4eFo3MVo1SnlvRUdHUTQ1cGNxREo4UmIzaHlJc2wxZnZsLXdXaF94VElfT09vZnpJYzRqQk5fUFB4cTBxSUFKSG5JT1A4ZDBfM1BySFpFZjcxdVV6LTZIeGlXU3BRdkdxT19lUFhYVEp4c0Fkb3R2U2lMUVNFZmpiZGhNV2ZmOTJFWnNBb3R0dlVNQzNUdFdz?oc=5",
-       "publishedAt": "2026-11-15T11:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Will India get preferential US market access, lower tariffs than rivals? Here's what Piyush Goyal said",
-     "link": "https://www.livemint.com/news/will-india-get-preferential-us-market-access-lower-tariffs-than-rivals-heres-what-piyush-goyal-said-11794739193904.html",
-     "source": "Mint",
-     "sources": [
-      "Mint",
-      "Moneycontrol.com",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T16:26+05:30",
-     "score": 8.26,
-     "summary": "India will get preferential access to the US market, with lower tariffs than competing countries under the proposed bilateral trade agreement, Commerce Minister Piyush Goyal said.&nbsp;",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/goyal_1782207220783_1782207229237_6cabb77e-aab7-42ba-9156-fad9da48b672_1794739432319_nMjP_c0153060-3d24-4104-8a22-8e878e8c471d_2jbi.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Will India get preferential US market access, lower tariffs than rivals? Here's what Piyush Goyal said",
-       "link": "https://www.livemint.com/news/will-india-get-preferential-us-market-access-lower-tariffs-than-rivals-heres-what-piyush-goyal-said-11794739193904.html",
-       "publishedAt": "2026-11-15T16:26+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Preferential access already agreed': Goyal's big update on India-US trade deal",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/preferential-trade-access-already-agreed-piyush-goyals-big-update-on-india-us-trade-deal/articleshow/135851339.cms",
-       "publishedAt": "2026-11-15T14:05+05:30"
-      },
-      {
-       "source": "Moneycontrol.com",
-       "title": "India-US trade deal: Lower tariffs than rival nations 'already agreed', says Piyush Goyal",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0dybEw0N0ZjWnloYTZqLUcyTDlORmpwZmVidWN3WFZ1VjdObHE5aTY5VG9SZmdNR21KdU1RZlNhc1hVYTZKNERMOC1QR19uaXhQUVNWNktDdzJ0WVRMNEFIN0F2Y0ZuMGJWaTZvMXJtZzJhTzh4Zmkwd2tUWXdRcFVOeUZkVENiNFpPRmJZaUs5emozUnE1RHRRZkxyR1c1MFJxb1JFc2NVQmx0UzBabmFoc2NkUXljN2lqbWpOMjNGcHB2UmI3RTFwOE9ybF8xYVZTdmhB0gHbAUFVX3lxTFA1aXBuQTg4R2Fsd0lpSmw3SXN0YXdFZno1UWpROTVlTHJULUw3dlBfaV9iYW9DXzFxWjZjVkNLYnVpQkdiODQ1cFhoN0xuLVRQU0xpZkdUR1RzbjF0WXV0OEpKNC1wTW9iZV9MdXdBbk9kRnl0bHJ3WVA0NzVKWXdOWml4djRwb0lqQzRJVHFwLUE3OWtKazdlcW12YTd0MXZqeTN5VEVUcnNUeUF5TG03UjU2Vm5EMlZzc1Fuc0Vmb0hyQVRtbkJyZERCX1pBSkRQMmNpeDJKSjdibw?oc=5",
-       "publishedAt": "2026-11-15T13:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "\"Somebody Hit Us\": Pilot Remarks After Miami Airport Collision",
-     "link": "https://www.ndtv.com/world-news/somebody-hit-us-pilots-chilling-audio-after-copa-and-ups-boeing-miami-airport-collision-12329190#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "ABC News - Breaking News, Latest News and Videos",
-      "CNN",
-      "NDTV",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T15:40+05:30",
-     "score": 8.26,
-     "summary": "While both airlines pledged cooperation with the FAA inquiry, air traffic control (ATC) audio and preliminary regulator findings indicate a breakdown in ground clearance protocols",
-     "image": "https://c.ndtvimg.com/2026-11/h1sugip_miami_625x300_15_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "\"Somebody Hit Us\": Pilot Remarks After Miami Airport Collision",
-       "link": "https://www.ndtv.com/world-news/somebody-hit-us-pilots-chilling-audio-after-copa-and-ups-boeing-miami-airport-collision-12329190#publisher=newsstand",
-       "publishedAt": "2026-11-15T15:40+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Somebody hit us': Audio captures moment jets collided at Miami airport",
-       "link": "https://timesofindia.indiatimes.com/world/us/somebody-hit-us-audio-captures-moment-jets-collided-at-miami-airport/articleshow/135852224.cms",
-       "publishedAt": "2026-11-15T15:08+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Somebody hit us': Audio captures moment jets collided at Miami airport",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcEp4T2RielRDcGt6ZHZ0SC1EdzlFUmxjckJ6U2JVUW54ZG9tSzhaaVpMclVWM2lONk5jWTVTeDFVY21Nb3ZKWWRURDZRVWxIbno3anpsdjR0VzBrNlRETWs5dklNVWstd1VxQXFGZmUzcmNqMUcyeHpyOTN3WTg2YllRaHM0VWhMOFhzMHNHNW1CakozTkVIZ2RKMDRJZmpjRVdNQlB5Vy1ZT3BUVDE3RjE1Y3BWM2VqM09aTFQtRzFhZlRuZnctOUY5SDh6WjdaNWVsZUln?oc=5",
-       "publishedAt": "2026-11-15T15:08+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Chinese Spy' Alice Huang Left Company In 2025: Megaspeed Amid Nvidia Row",
-     "link": "https://www.ndtv.com/world-news/chinese-spy-alice-huang-left-company-in-2025-megaspeed-amid-nvidia-row-12329594#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "BBC",
-      "Hindustan Times",
-      "NDTV",
-      "Reuters",
-      "The Hindu",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T15:05+05:30",
-     "score": 7.87,
-     "summary": "Megaspeed said it would not comment on alice Huang's personal and private matters.",
-     "image": "https://c.ndtvimg.com/2026-11/70hpm3jc_nvidia-spy-reuters_625x300_15_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "'Chinese Spy' Alice Huang Left Company In 2025: Megaspeed Amid Nvidia Row",
-       "link": "https://www.ndtv.com/world-news/chinese-spy-alice-huang-left-company-in-2025-megaspeed-amid-nvidia-row-12329594#publisher=newsstand",
-       "publishedAt": "2026-11-15T15:05+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Megaspeed says Alice Huang exited company in 2025, stays silent on 'personal matters'",
-       "link": "https://timesofindia.indiatimes.com/business/international-business/megaspeed-says-alice-huang-exited-company-in-2025-stays-silent-on-personal-matters/articleshow/135852225.cms",
-       "publishedAt": "2026-11-15T15:01+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "‘Alice Huang left in August 2025’: Megaspeed’s first reaction on Chinese businesswoman amid Nvidia spy row | World News",
-       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYVNVY3QwZzhERFJreTg0Q3QzcGV4TUZCeEdrOUJoY0c2Q0dnMms1YXRLdFpxQWNXOXpwQjN3Zkp2SEFYMlNONWY5RllZaGxJb0w3aUw2elo3TDFNQTdSdmVQOHhQNHFKRlI2V1FmQWVWYlp2WmxCZnhINDlRNC1yREFLQTFKa3hweHozampMMkZQcUtKLVpWcUd3N09SUUZ2Y1dsZnNfSHFUeDdTMlBPTjNST3ZteVgzdHE1QlJrUkpZMjJCRnBuQlNwb2IzMUVIM0lxd05ocm5wMWFPalRuTFZSMC1iN0dwWEp1Nk9lUVgtOGQtN29McW4zcEJ6UVFYNGoxbEVnZXJTdUxjRGfSAZMCQVVfeXFMUDFsQ0hxdngyZEFZcG5Va3p4SUZUbTUyQXhwdlpBNDBDWi1uQzF4TmhVdENQQnJoNE5FZV9ld1lxNU1VNld1djVsaXdxbjgzZTlBc0VibDVXTWxjZVRkUld0MmZNUUJYcE5SclVwY2QwYjBBNWo5S3l0WDBQSVFDamFaM2w2NF9Oc0xaUWFscElHeEVzLUIyalN1Rm56NVBGaEx4Y3VvR1VXTUc2TC1EZzRGRWlSbThJSmF2eDRadzFONFo3ZE5tckFUS0prb19pcWFXMzdmY2Z1M0U1aTN0V0c3NURqSDZEdHU3MEppdlpfZ3BXdkpXTWVzdUhuUXlubW5wUHpxR2dlMjdrLXR2dEdWSXc?oc=5",
-       "publishedAt": "2026-11-15T14:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Major accident averted as empty Vande Bharat travels 463 km with faulty brakes",
-     "link": "https://timesofindia.indiatimes.com/india/major-accident-averted-as-empty-vande-bharat-travels-463-km-with-faulty-brakes/articleshow/135852471.cms",
-     "source": "Times of India",
-     "sources": [
-      "Deccan Herald",
-      "Hindustan Times",
-      "National Herald",
-      "Telegraph India",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T15:20+05:30",
-     "score": 7.76,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135852536,imgsize-120380.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Major accident averted as empty Vande Bharat travels 463 km with faulty brakes",
-       "link": "https://timesofindia.indiatimes.com/india/major-accident-averted-as-empty-vande-bharat-travels-463-km-with-faulty-brakes/articleshow/135852471.cms",
-       "publishedAt": "2026-11-15T15:20+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Ranchi division allows empty Vande Bharat to travel 463 km with faulty brakes; probe on",
-       "link": "https://www.hindustantimes.com/india-news/ranchi-division-allows-empty-vande-bharat-to-travel-463-km-with-faulty-brakes-probe-on-101794730606291.html",
-       "publishedAt": "2026-11-15T13:46+05:30"
-      },
-      {
-       "source": "Deccan Herald",
-       "title": "Empty Vande Bharat travels 463 km with faulty brakes; probe on",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFFRMGVQeDhRMVpMeC03aGl1Mkw3MThzMFRMU1h2enVJbjZETnNjWmNYbE1pMGFabE9BN3NWaG5pU2EtQmxJV0pIb3VqU01XcDMzMnpkYkpOTF9pcmplVkhYQU1BWC0xSTlqeno1OXNZbDhZQ3I4OG42d2FDYzhKSFY4dl9yYzBjQWR0ODZZV3N3cUxSRFdFR0liUUN2dVVocHJnSmd5SQ?oc=5",
-       "publishedAt": "2026-11-15T14:04+05:30"
       }
      ]
     }
