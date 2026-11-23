@@ -1,6 +1,199 @@
 {
- "updated": "2026-11-23T18:44+05:30",
+ "updated": "2026-11-23T20:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-23T20:00+05:30",
+   "generatedAt": "2026-11-23T20:30+05:30",
+   "feeds": 16,
+   "headlines": 329,
+   "stories": [
+    {
+     "title": "Hacker sentenced for leaking Grand Theft Auto VI clips during cybercrime spree",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkc3TWRPOTBCLTVUTEtwYkJJNzRPc2ptLXBCeHJkdHI0eUl2SXFIYmo2RUsyQUZRUlFQOHBVQzgtT1NnVl9ieVVvR3dkdHE3SXhzR3A0QXltMU5ZVlR1YjRJSU1HZ0FpU1E1MDV1SXpHZUdIWlpNd0xLZTBGUlprN0ZwTkx0THkxSVFhTVdENTJoYXpORkh1cjJCRHRWMjl5c3QxRWdCV2VtRmpXOTZvV0dQS0c?oc=5",
+     "source": "Sky News",
+     "sources": [
+      "BBC",
+      "Diplomacy and Law",
+      "Gulf News",
+      "Sky News",
+      "The Conversation",
+      "The Independent",
+      "The Verge",
+      "WIRED",
+      "Yahoo"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-23T19:29+05:30",
+     "score": 9.88,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sky News",
+       "title": "Hacker sentenced for leaking Grand Theft Auto VI clips during cybercrime spree",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkc3TWRPOTBCLTVUTEtwYkJJNzRPc2ptLXBCeHJkdHI0eUl2SXFIYmo2RUsyQUZRUlFQOHBVQzgtT1NnVl9ieVVvR3dkdHE3SXhzR3A0QXltMU5ZVlR1YjRJSU1HZ0FpU1E1MDV1SXpHZUdIWlpNd0xLZTBGUlprN0ZwTkx0THkxSVFhTVdENTJoYXpORkh1cjJCRHRWMjl5c3QxRWdCV2VtRmpXOTZvV0dQS0c?oc=5",
+       "publishedAt": "2026-11-23T19:29+05:30"
+      },
+      {
+       "source": "The Conversation",
+       "title": "What Grand Theft Auto VI can teach us about virtual romance",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTdrWTdvWFdQbTNXT2d5OFJlalRMckRkN2htV3EySFFLeElKYldKT3R2d1VuQzRaN0JrNktETWtfOC1NTXB3aUczc09qUFNGb2tndHJJSkpUcG9KaFZRbDN4WUdGOGFYb21jS3ZLMnM0eXVzMEVUS3FhbldUZmtTRjBjMlVJcHdDek9rRjkwRzRBbDJSaVFaTk1R?oc=5",
+       "publishedAt": "2026-11-23T17:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Can't Wait To Get Back To Work': Jensen Huang On Return As Nvidia Boss Amid Scandal",
+     "link": "https://www.ndtv.com/world-news/honoured-cant-wait-to-get-back-to-work-jensen-huang-on-reinstatement-as-nvidia-ceo-12366959#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "Business Insider",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Guardian",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-23T20:14+05:30",
+     "score": 9.45,
+     "summary": "Huang, who founded Nvidia in 1993, was reinstated as its CEO 11 days after he resigned over an affair with a woman whom US intelligence agencies suspect of spying for China.",
+     "image": "https://c.ndtvimg.com/2026-11/hbdhl3rs_jensen-huang-nvidia-exit_625x300_12_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "'Can't Wait To Get Back To Work': Jensen Huang On Return As Nvidia Boss Amid Scandal",
+       "link": "https://www.ndtv.com/world-news/honoured-cant-wait-to-get-back-to-work-jensen-huang-on-reinstatement-as-nvidia-ceo-12366959#publisher=newsstand",
+       "publishedAt": "2026-11-23T20:14+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Nvidia board reinstates Jensen Huang as CEO",
+       "link": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss",
+       "publishedAt": "2026-11-23T19:54+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Jensen Huang reinstated as Nvidia CEO",
+       "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+       "publishedAt": "2026-11-23T19:45+05:30"
+      },
+      {
+       "source": "Business Insider",
+       "title": "Nvidia Reinstates Jensen Huang As CEO",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbUhUVXhQMXRKaGtNdXN3MTV3UTdhVzJjZzVvcTdLU0JZZnoxWGlaU1FpYkdfU211MWpzbmN0SHZ3ZGFLT1BMV1hkV2k4ajIwYVJhaVd5ZE9vUmVpcjhJN1cxTmhvN1o4R0twOVFZMEk5RFZpTUwwT1BkWW1LY0xURzdXcVRHcDcyUFlqSjdCbGo1SXJp?oc=5",
+       "publishedAt": "2026-11-23T19:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ENE Repeat Box Office Collection Day 5",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBQYzFFUGYwLTRBczV3SjZPRUdlSkhwTDAzY1pzRFAwR3NQSGdLQmlVclFPZVFSQjJWaUFTVy1aeDB6eXdVV0pUNUR0eV9jeFFrZ1NYaGtEVTNpcVl3Uk5ISktGMkFQQlNTMWdpZlMtaVdRcnVna0NURTRwUGxNUzZiNA?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Pinkvilla",
+      "Sacnilk",
+      "THE WEEK",
+      "Telugu360",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-23T18:36+05:30",
+     "score": 8.72,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 5",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBQYzFFUGYwLTRBczV3SjZPRUdlSkhwTDAzY1pzRFAwR3NQSGdLQmlVclFPZVFSQjJWaUFTVy1aeDB6eXdVV0pUNUR0eV9jeFFrZ1NYaGtEVTNpcVl3Uk5ISktGMkFQQlNTMWdpZlMtaVdRcnVna0NURTRwUGxNUzZiNA?oc=5",
+       "publishedAt": "2026-11-23T18:36+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Deleted voters’ appeals to get priority, Supreme Court tells Bengal SIR tribunals",
+     "link": "https://www.hindustantimes.com/india-news/deleted-voters-appeals-to-get-priority-supreme-court-tells-bengal-sir-tribunals-101795438702289.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-23T18:28+05:30",
+     "score": 8.16,
+     "summary": "The Supreme Court directed Bengal’s 19 SIR appellate tribunals to prioritise appeals by voters whose names were deleted from electoral rolls.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Of-38-31-lakh-appeals-filed-over-Bengal-s-SIR--22-_1795438693810_0MXG.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Deleted voters’ appeals to get priority, Supreme Court tells Bengal SIR tribunals",
+       "link": "https://www.hindustantimes.com/india-news/deleted-voters-appeals-to-get-priority-supreme-court-tells-bengal-sir-tribunals-101795438702289.html",
+       "publishedAt": "2026-11-23T18:28+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Hear pleas of deleted voters first, SC tells Bengal SIR tribunals",
+       "link": "https://timesofindia.indiatimes.com/india/sc-directs-west-bengal-sir-tribunals-to-prioritise-appeals-challenging-voter-exclusion/articleshow/136097298.cms",
+       "publishedAt": "2026-11-23T15:47+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "West Bengal SIR: Supreme Court orders ECI, Calcutta High Court to increase Tribunals hearing appeals",
+       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSGNCdFFuUk9YUzB4aWt0eWIzekxwYXJTR0o5ZUZmektqNzJnY1pxRTdZYVdQSG1HY0tzVWk0SlNzU3VNWXRnVjJFMVVseF9FOGY3SURfQnVUWVQ4NG0wT0JITHJvRFNtTkczU2xBcWpvMW5HUm83QXRqeUZhVlQ2dHh2Q2x0RnVfVmhCREhDSmlZZEJ5Y3NVQ3NSQ3RPVXVTVDhzSDU4Sk94UjhzNF9IeUFwbGlvV2Y1cDVIcDlZNW9oVXJOYy1DLUxxLWd2bDVSd2VSbzlZR3hCVTNiRkt6MEFxRlo2eElBclBCdnMwS1JBWC1ZSXdKWV9oY0pJZ9IBhAJBVV95cUxOa2VlYXV5dFRGbTJGekVueVVCWW1lNk1uNHl1NEl1RWtYdExIYTlXVk1qMkp0REdKN0ZKMEtIdURnSjlsODEwUktOMzQtX243SWNUeU9iT2NxLVNCN1RVd1FYVUpuN19FbWpaa0gtT2ZCa2djUzJoRlpNTnF2aGZPSUtvb1YtOEtnVzAycjktakdsX0owYXI5QVJEVWptVmdqWlVJTGtmRnpyLWtwcUV1VVRSUjZYb1EyVXRZVXZsa3dOOHRLRmxhLThMUXJ1RkoyZlJORlg3NFpEVFVfM0YyMm5SVWJRNTVXLXBIV2xobUtfZ2VsU0xXbFBlSG9hTFkzcjA1VQ?oc=5",
+       "publishedAt": "2026-11-23T15:36+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "West Bengal SIR | Defer Appeals Against Inclusions, Prioritise Appeals Filed By Deleted Voters : Supreme...",
+       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZTJubGIySmhKYnNzTVNmVUhZdVhNMjJHVzRpTDVSa3JlZlN2S2RPZ3hmNXJXallHenN2WXhjWU5PQ3Y3U2NhOUtDN0VjdDdFbE05a1c1bFFFVW9SdVp4ekRTRlNVZXQtaEZLSnhwT0lFNmVadEgtdUR2MjZkUHZpVFh5bk5IUTluNWJBS1Q1UmpxNUxMSHhrVGJyc05adE1wWTZsTzRyTl9GMElzSXJMNG1FWDBEWGNuNzlzdlgzSHhjQVJheVJJSGMtbUdMVTNhR2NrTGlFanFQOXd5LVVLYUNVV2JERTBOSXNfVU5qNVFMeFk1SVNsZlRUNmVLS1HSAYQCQVVfeXFMTzJzNnhiUjRReWM4eFhwelVrX2ZDS3NxaHoxNkd2ckIwMXdBeldyUS05TE1rY1ctOE8wcy1RSkxFVUt1RWd2RGM3YXIta2FxMFFvRTQxUmpBc1hFakpjU3ZBbnhvbGVrSXZoa21IU21ka3lsUVhJVXl3UUxpV05VWm1uZzJJeF8xcm1oMm53TGtRZ1otaWZweW5fN2ZRWkEyb1Rnc01QTzJ5NGlTb1B4MXRfV3NfTHExU2h2ZzVlRTJxVnJEX09iOG1Ga3dhNWs4bWpqNFY5SDBveFdnVjlyRVhIWFdQRVYtNGdPbDNxSmZpNWZKQ3JrNXRJek1Ic0h3YmFuaVY?oc=5",
+       "publishedAt": "2026-11-23T15:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gukesh vs Sindarov World C'ship: When and where to watch live in India",
+     "link": "https://timesofindia.indiatimes.com/sports/chess/gukesh-vs-javokhir-sindarov-world-chess-championship-2026-when-and-where-to-watch-live-streaming-in-india/articleshow/136101538.cms",
+     "source": "Times of India",
+     "sources": [
+      "Chess.com",
+      "ESPN India",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T18:14+05:30",
+     "score": 7.37,
+     "summary": "India's Gukesh Dommaraju will defend his world title against Uzbekistan's Javokhir Sindarov in the 2026 FIDE World Chess Championship, beginning November 24 in Geneva. The historic contest features two 20-year-olds and 14 classical games. The winner will receive the larger share of the USD 2.5 million prize fund. Matches begin at 7:30 PM IST, streaming live on FIDE's YouTube and Twitch channels.",
+     "image": "https://static.toiimg.com/photo/msid-136103346,imgsize-83171.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Gukesh vs Sindarov World C'ship: When and where to watch live in India",
+       "link": "https://timesofindia.indiatimes.com/sports/chess/gukesh-vs-javokhir-sindarov-world-chess-championship-2026-when-and-where-to-watch-live-streaming-in-india/articleshow/136101538.cms",
+       "publishedAt": "2026-11-23T18:14+05:30"
+      },
+      {
+       "source": "Chess.com",
+       "title": "Vishy Anand's Gukesh-Sindarov World Championship Predictions",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbGdUVUN0dHEwTS1vejRCVThWOU5wMWZKZFZPYlVoMXV3WDBDV2lYMlpWNy1xck9BNGNMZGZrMFlZaEJGTDJtTmRuOUNxajFxSnBGZHRnLUdmUWE2UjNYS0c5WUZGUWw2Z2VKZmJJVkNkRWpaUHY2WG9vR2VuaDNwZ3ZHVkYzM2Z5Z1REelVsMjMyTGts?oc=5",
+       "publishedAt": "2026-11-23T16:27+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-23T18:00+05:30",
    "generatedAt": "2026-11-23T18:44+05:30",
@@ -29566,200 +29759,6 @@
        "title": "Empty Vande Bharat travels 463 km with faulty brakes; probe on",
        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFFRMGVQeDhRMVpMeC03aGl1Mkw3MThzMFRMU1h2enVJbjZETnNjWmNYbE1pMGFabE9BN3NWaG5pU2EtQmxJV0pIb3VqU01XcDMzMnpkYkpOTF9pcmplVkhYQU1BWC0xSTlqeno1OXNZbDhZQ3I4OG42d2FDYzhKSFY4dl9yYzBjQWR0ODZZV3N3cUxSRFdFR0liUUN2dVVocHJnSmd5SQ?oc=5",
        "publishedAt": "2026-11-15T14:04+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T16:00+05:30",
-   "generatedAt": "2026-11-15T16:12+05:30",
-   "feeds": 16,
-   "headlines": 274,
-   "stories": [
-    {
-     "title": "Arshdeep Singh & Co. swing it India's way to secure 3-1 series win vs New Zealand",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-co-swing-it-indias-way-to-secure-3-1-series-win/articleshow/135852572.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricbuzz",
-      "Cricinfo",
-      "India Today",
-      "Rediff",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T15:47+05:30",
-     "score": 8.43,
-     "summary": "India achieved a 22-run victory against New Zealand in the final ODI match. The match saw a fierce bowling effort, leading to crucial wickets at important moments. Mohammed Siraj, Yash Thakur, and Axar Patel played significant roles in the victory. This win allowed India to win the series 3-1, strengthening their position in white-ball cricket. The team's relentless approach was evident throughout the match…",
-     "image": "https://static.toiimg.com/photo/msid-135852599,imgsize-151070.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Arshdeep Singh & Co. swing it India's way to secure 3-1 series win vs New Zealand",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-co-swing-it-indias-way-to-secure-3-1-series-win/articleshow/135852572.cms",
-       "publishedAt": "2026-11-15T15:26+05:30"
-      },
-      {
-       "source": "Cricinfo",
-       "title": "Arshdeep and Co help India defend 209 for 3-1 series win",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVBNU3RYTWw3LWd1MnhlSVpTbUxlMDAzMk9MSFZJQUMwQWpUZ1p4Q2xCendUX3RBTkFsZC0yMUowNl90VUx4NGtXRC1kdGczX19md2YtSzZzaGF4U09OWjRBYmVvYmdrQlB0WU9QWExNWjlwRDdaTEhJR3U5Z2VrUFpWXzBueVlLTnBvbEc2RHE1cTlfMW1kdG5BdW1ZMHFPZEdZYVBUTndGamJEN2N3NFpWd2hiZmNBclE?oc=5",
-       "publishedAt": "2026-11-15T15:47+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Guwahati-bound IndiGo flight returns to Pune due to technical snag; all passengers safe — Here's all you need to know",
-     "link": "https://www.livemint.com/news/india/guwahatibound-indigo-flight-returns-to-pune-due-to-technical-snag-all-passengers-safe-heres-all-you-need-to-know-11794729353995.html",
-     "source": "Mint",
-     "sources": [
-      "Hindustan Times",
-      "Mint",
-      "NDTV",
-      "Nagpur Today",
-      "The Hindu",
-      "The Times of India",
-      "guwahati Plus News"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T14:17+05:30",
-     "score": 8.18,
-     "summary": "IndiGo reportedly arranged an alternate aircraft from Bengaluru to Pune to facilitate the affected passengers' onward journey to Guwahati.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/INDIGO-ORDER--0_1794730895253_37Er_1794730921125_aHCk_acd135e2-ec04-42ab-ada9-763005cccac4_xE9X.JPG",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Guwahati-bound IndiGo flight returns to Pune due to technical snag; all passengers safe — Here's all you need to know",
-       "link": "https://www.livemint.com/news/india/guwahatibound-indigo-flight-returns-to-pune-due-to-technical-snag-all-passengers-safe-heres-all-you-need-to-know-11794729353995.html",
-       "publishedAt": "2026-11-15T14:17+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Guwahati-bound IndiGo flight returns to Pune due to technical issue; all 192 persons onboard safe",
-       "link": "https://www.thehindu.com/news/national/guwahati-bound-indigo-flight-returns-to-pune-due-to-technical-issue-all-192-persons-onboard-safe/article71704295.ece",
-       "publishedAt": "2026-11-15T12:40+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Guwahati-bound IndiGo flight carrying 193 passengers returns to Pune after landing gear malfunction",
-       "link": "https://www.hindustantimes.com/india-news/guwahatibound-indigo-flight-carrying-193-passengers-returns-to-pune-after-landing-gear-malfunction-101794723897032.html",
-       "publishedAt": "2026-11-15T11:58+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Guwahati-Bound IndiGo Flight Returns To Pune As Landing Gear Fails To Retract",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUFRaHI1TEN5LUg1V2tyMTVyZEctc3lmM0dPMXVST29HT2FxekRGVXY0clNmODRmdk1hdGNaMF9Bd1ozUHdxLXYwbXRtOGw4YlBCQ050NzJ5UEZNVkZDMm1lbEZVSGtndUhwcGgzdzZORThocHk4Q0ZvUG5KZVkzN01Sc0Y5UkxzREJGZGVid0N4QWRqQ1VtOTBRYTdCTmtpX3V2eUxPR0xHRDEwZUFnTHA5S3d0d0hXd2fSAcIBQVVfeXFMUDlfNHNOY2RiX2h3bmFlWXoyQkRjR3ctY2ZNNU5Ga0g3d3FaMm1UN3VmQW5aM3lLMXR2LUtEVjRuNHJId1A5Mm5PT2lJdlJPYWtYZEh2UTZuVURLdVIwOG1KSWdzNFIwMHJXWTJ5VWU3TW9XUnhrRjM2OWJvaFpWWnc2SklLS2hPTEd6OEpqR3RSdWlialJuR2VIcXVvQi1nNThQWV9za2lyTXktZzQwMVRTdmdIeUc1bW8zMGR5Ykxsbmc?oc=5",
-       "publishedAt": "2026-11-15T12:30+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Major accident averted as empty Vande Bharat travels 463 km with faulty brakes",
-     "link": "https://timesofindia.indiatimes.com/india/major-accident-averted-as-empty-vande-bharat-travels-463-km-with-faulty-brakes/articleshow/135852471.cms",
-     "source": "Times of India",
-     "sources": [
-      "Deccan Herald",
-      "Hindustan Times",
-      "National Herald",
-      "Telegraph India",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T15:20+05:30",
-     "score": 7.93,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135852536,imgsize-120380.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Major accident averted as empty Vande Bharat travels 463 km with faulty brakes",
-       "link": "https://timesofindia.indiatimes.com/india/major-accident-averted-as-empty-vande-bharat-travels-463-km-with-faulty-brakes/articleshow/135852471.cms",
-       "publishedAt": "2026-11-15T15:20+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Ranchi division allows empty Vande Bharat to travel 463 km with faulty brakes; probe on",
-       "link": "https://www.hindustantimes.com/india-news/ranchi-division-allows-empty-vande-bharat-to-travel-463-km-with-faulty-brakes-probe-on-101794730606291.html",
-       "publishedAt": "2026-11-15T13:46+05:30"
-      },
-      {
-       "source": "Deccan Herald",
-       "title": "Empty Vande Bharat travels 463 km with faulty brakes; probe on",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFFRMGVQeDhRMVpMeC03aGl1Mkw3MThzMFRMU1h2enVJbjZETnNjWmNYbE1pMGFabE9BN3NWaG5pU2EtQmxJV0pIb3VqU01XcDMzMnpkYkpOTF9pcmplVkhYQU1BWC0xSTlqeno1OXNZbDhZQ3I4OG42d2FDYzhKSFY4dl9yYzBjQWR0ODZZV3N3cUxSRFdFR0liUUN2dVVocHJnSmd5SQ?oc=5",
-       "publishedAt": "2026-11-15T14:04+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Yemeni forces withdraw from Bab el-Mandeb as Houthis cement foothold",
-     "link": "https://timesofindia.indiatimes.com/world/middle-east/addressing-existing-threats-yemeni-forces-withdraw-from-bab-el-mandeb-as-houthis-cement-foothold/articleshow/135852506.cms",
-     "source": "Times of India",
-     "sources": [
-      "Reuters",
-      "The Lufkin Daily News",
-      "The Times of India",
-      "Times of India",
-      "Ynetnews",
-      "شبكة تواصل الإخبارية"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T15:23+05:30",
-     "score": 7.61,
-     "summary": "In a significant development, Saudi backed Yemeni forces have declared their withdrawal from the critical Bab el-Mandeb area, ceding control to the Houthis. This manoeuvre is aimed at bolstering security in Aden and surrounding areas. With the Houthis ramping up aggression towards southern regions, concerns have emerged over the impact on global shipping routes. The withdrawal follows a previously established truce…",
-     "image": "https://static.toiimg.com/photo/msid-135852579,imgsize-1922593.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Yemeni forces withdraw from Bab el-Mandeb as Houthis cement foothold",
-       "link": "https://timesofindia.indiatimes.com/world/middle-east/addressing-existing-threats-yemeni-forces-withdraw-from-bab-el-mandeb-as-houthis-cement-foothold/articleshow/135852506.cms",
-       "publishedAt": "2026-11-15T15:23+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Yemen government forces withdraw from area near Bab el-Mandeb Strait, Houthis in control",
-       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
-       "publishedAt": "2026-11-15T14:10+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Somebody hit us': Audio captures moment jets collided at Miami airport",
-     "link": "https://timesofindia.indiatimes.com/world/us/somebody-hit-us-audio-captures-moment-jets-collided-at-miami-airport/articleshow/135852224.cms",
-     "source": "Times of India",
-     "sources": [
-      "ABC News - Breaking News, Latest News and Videos",
-      "CNN",
-      "Gulf Coast News and Weather",
-      "NDTV",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T15:08+05:30",
-     "score": 7.57,
-     "summary": "While both airlines pledged cooperation with the FAA inquiry, air traffic control (ATC) audio and preliminary regulator findings indicate a breakdown in ground clearance protocols",
-     "image": "https://static.toiimg.com/photo/msid-135852342,imgsize-69700.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Somebody hit us': Audio captures moment jets collided at Miami airport",
-       "link": "https://timesofindia.indiatimes.com/world/us/somebody-hit-us-audio-captures-moment-jets-collided-at-miami-airport/articleshow/135852224.cms",
-       "publishedAt": "2026-11-15T15:08+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "\"Somebody Hit Us\": Pilot's Chilling Audio After Miami Airport Collision",
-       "link": "https://www.ndtv.com/world-news/somebody-hit-us-pilots-chilling-audio-after-copa-and-ups-boeing-miami-airport-collision-12329190#publisher=newsstand",
-       "publishedAt": "2026-11-15T12:38+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Somebody hit us': Audio captures moment jets collided at Miami airport",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcEp4T2RielRDcGt6ZHZ0SC1EdzlFUmxjckJ6U2JVUW54ZG9tSzhaaVpMclVWM2lONk5jWTVTeDFVY21Nb3ZKWWRURDZRVWxIbno3anpsdjR0VzBrNlRETWs5dklNVWstd1VxQXFGZmUzcmNqMUcyeHpyOTN3WTg2YllRaHM0VWhMOFhzMHNHNW1CakozTkVIZ2RKMDRJZmpjRVdNQlB5Vy1ZT3BUVDE3RjE1Y3BWM2VqM09aTFQtRzFhZlRuZnctOUY5SDh6WjdaNWVsZUln?oc=5",
-       "publishedAt": "2026-11-15T15:08+05:30"
       }
      ]
     }
