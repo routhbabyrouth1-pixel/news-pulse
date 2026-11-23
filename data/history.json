@@ -1,6 +1,174 @@
 {
- "updated": "2026-11-24T02:21+05:30",
+ "updated": "2026-11-24T03:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-24T03:00+05:30",
+   "generatedAt": "2026-11-24T03:21+05:30",
+   "feeds": 16,
+   "headlines": 191,
+   "stories": [
+    {
+     "title": "Godzilla Minus Zero Box Office Collection Day 4",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeTFvV1B0NzJGQ1JDTlJtN3hMbVVNTDhBQ05zTGJpcXdaV3Q3ZFNZVU93WU1qZ2N4N2xVeTQzeVNncjNLRHBFb2swTlFWRnpkaHY5T3NxWXVTU3VUNG95WVlUc3ZjUF9hcGcxSHZvTWFtUlNLaGY4QUt1Y0JMdTFsZW1IS1JLcElWYXdkSkRMcw?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Ars Technica",
+      "Collider",
+      "Deccan Chronicle",
+      "Hindustan Times",
+      "NDTV",
+      "NDTV Profit",
+      "Sacnilk",
+      "THE WEEK",
+      "Telugu Cinema",
+      "Telugu360",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 12,
+     "publishedAt": "2026-11-24T00:44+05:30",
+     "score": 12.64,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Godzilla Minus Zero Box Office Collection Day 4",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeTFvV1B0NzJGQ1JDTlJtN3hMbVVNTDhBQ05zTGJpcXdaV3Q3ZFNZVU93WU1qZ2N4N2xVeTQzeVNncjNLRHBFb2swTlFWRnpkaHY5T3NxWXVTU3VUNG95WVlUc3ZjUF9hcGcxSHZvTWFtUlNLaGY4QUt1Y0JMdTFsZW1IS1JLcElWYXdkSkRMcw?oc=5",
+       "publishedAt": "2026-11-24T00:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "CJP’s Saurav Das claims he was stopped at Delhi airport from travelling to U.K.",
+     "link": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece",
+     "source": "The Hindu",
+     "sources": [
+      "ANI News",
+      "Hindustan Times",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-24T01:19+05:30",
+     "score": 9.16,
+     "summary": "In posts on X, Mr. Das said he was stopped at the immigration counter at the Delhi airport before boarding his 1 a.m. flight to London",
+     "image": "https://th-i.thgim.com/public/incoming/3qgwb2/article71736224.ece/alternates/LANDSCAPE_1200/PTI10_12_2026_000033A.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "CJP’s Saurav Das claims he was stopped at Delhi airport from travelling to U.K.",
+       "link": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece",
+       "publishedAt": "2026-11-24T01:19+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Coward government': CJP's Saurav Das says he was stopped from flying to London",
+       "link": "https://timesofindia.indiatimes.com/india/coward-government-cjps-saurav-das-says-he-was-stopped-from-flying-for-lecture-at-university-of-oxford/articleshow/136112962.cms",
+       "publishedAt": "2026-11-24T00:28+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "CJP's Saurav Das claims he was stopped at Delhi airport, barred from flying to London for Oxford lecture",
+       "link": "https://www.hindustantimes.com/india-news/cjps-saurav-das-says-stopped-at-delhi-airport-barred-from-flying-to-london-lecture-at-oxford-university-101795456221713.html",
+       "publishedAt": "2026-11-23T23:24+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Coward government': CJP's Saurav Das says he was stopped from flying for lecture at University of Oxfor",
+       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOamJZa0ItZjhxd0pPbWo0ZXNKM0NKb1NEcGpES0pOam5ueGtFXzhtNW53WHN5dG9kMDZpcmNVMERXMmlRZHFQTmUtRktNaURfdkQ1VjVMZkNvelV1bllISUREbU5Jb25IazhrVm5JVUNKQy1kdWwwQjhYYTdicUZKeUo4ZEZuVXhQMjFJY3NrZTRucXlsRWs2SEtkdlVaZlJEZEVIc3Nfd29mZzdBRVR4ODJvVnVpMGpndm1EX3BEblpBbXZiUE5vOXFkRkpERnlFMTNzaXVFbFNBdGtTVWJ1Z01fcjM1VzdYVzMxSEVsRzcxZG1kTG1FZGJYbE5idw?oc=5",
+       "publishedAt": "2026-11-24T00:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUdmOUFLaEppLU9uMl80V2x1RTg4YWg3VUc5cWZsVzNfUWJBN2pFY3BhTndKanI0U2gzZHMzZVdpeWlkVkdBMkxGZkEtNFYyYmhteTQ5MHM0NnhkN2lfVk1WcDRxZDluQzVXNll2OWhodnVmaG9qNm15SWdweEM4YmxSWXVKd21mNW9uWW82MHUyWlJLTEE?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "Bloomberg.com",
+      "CNBC",
+      "CTech",
+      "Financial Times",
+      "Moneycontrol.com",
+      "Reuters",
+      "WSJ"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-24T00:01+05:30",
+     "score": 7.94,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUdmOUFLaEppLU9uMl80V2x1RTg4YWg3VUc5cWZsVzNfUWJBN2pFY3BhTndKanI0U2gzZHMzZVdpeWlkVkdBMkxGZkEtNFYyYmhteTQ5MHM0NnhkN2lfVk1WcDRxZDluQzVXNll2OWhodnVmaG9qNm15SWdweEM4YmxSWXVKd21mNW9uWW82MHUyWlJLTEE?oc=5",
+       "publishedAt": "2026-11-24T00:01+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Uttar Pradesh polls: SP, Congress kick off seat-sharing talks",
+     "link": "https://www.thehindu.com/news/national/uttar-pradesh/sp-congress-kick-off-seat-sharing-talks-for-up-polls/article71735827.ece",
+     "source": "The Hindu",
+     "sources": [
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-23T22:44+05:30",
+     "score": 5.48,
+     "summary": "The meeting held at the residence of Congress Rajya Sabha MP Pramod Tiwari in New Delhi lasted just about 20 minutes, and the two sides are likely meet again November 24 to take the negotiations forward",
+     "image": "https://th-i.thgim.com/public/incoming/lbmnmn/article71735897.ece/alternates/LANDSCAPE_1200/PTI11_23_2026_000133B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Uttar Pradesh polls: SP, Congress kick off seat-sharing talks",
+       "link": "https://www.thehindu.com/news/national/uttar-pradesh/sp-congress-kick-off-seat-sharing-talks-for-up-polls/article71735827.ece",
+       "publishedAt": "2026-11-23T22:44+05:30"
+      },
+      {
+       "source": "The New Indian Express",
+       "title": "UP polls: SP-Congress seat-sharing talks last 15 minutes, final agreement in three days",
+       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQazNLU0FhQW8zbmROM2ZNMW1HR2xySFZYNUNxNlZOX2dqN3Roa19nNHdBTUZJMWNSTVpRd3ltRFlwd0phWXVsNE1teFFQa1dnUjRYcUVUMlZHeWFMMWt0a3ppdU5DTUhzancwakg2OU9LbE13b0ZhYUFuQ1lQLVh6Sk5sZGV5SUZ3eFBxV0xUcVhRYkhrbU9QWGRiSmRMbWVmZ25ZalgyWjVoT3QzNk9TNjBfUFhSV09xRzNGWDBEYlRxN01zbF9RcXV4YVZwXzZQbkwteEVTT1RYdlhGQkNTYlZwdGZVdw?oc=5",
+       "publishedAt": "2026-11-23T21:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+     "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "The Guardian",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-23T21:55+05:30",
+     "score": 5.47,
+     "summary": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+       "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+       "publishedAt": "2026-11-23T21:53+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-24T02:00+05:30",
    "generatedAt": "2026-11-24T02:21+05:30",
@@ -29666,164 +29834,6 @@
        "title": "‘Agar khilaaf hain hone do, kisi ke baap ka Hindustan thodi hai’: Diljit Dosanjh takes stage in Indore de",
        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQaUNPZk41Qloxdm9Sd2lqbi1NWVU5cm4zM0NOWTRjc1Y2YnZJZlZ1TkMyTkhzS01qRU4xUjIwYUFoQ2g4V2NfYWxrZHZzVjg4UlhKMWhsM0V2ckxpaVhDLWVldUk5eG1PeXZaQkkzMjFQY2EtODdmSDhqQUVDMzU2eFU5UXFuclZ4dk15aTlscGxDT01tdzdha3drLVI4VWxQUFRPXzRweXFIek5xejBVQVBIVWVsb1o3eDJaX3U2clI1b2hlMjZzeHJDYlZfSVM5QndnRGNOVnF6TndIYnNtNXpJZmh4ZzBmZVRaSTRrRWdTRlprOVppX0FVTTlqdUFZR1ZTRFB5bzFMUldIVUFFOG8td2Qya3FsOE80S2xicm1faGdrb2c?oc=5",
        "publishedAt": "2026-11-15T22:32+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T23:00+05:30",
-   "generatedAt": "2026-11-15T23:04+05:30",
-   "feeds": 16,
-   "headlines": 250,
-   "stories": [
-    {
-     "title": "Itllu Arjuna Box Office Collection Day 3",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "Cinema Express",
-      "Deccan Chronicle",
-      "Gulte",
-      "Sacnilk",
-      "The Economist",
-      "The Hindu",
-      "The Indian Express",
-      "The News Minute",
-      "The Times of India",
-      "Tupaki English"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-15T22:45+05:30",
-     "score": 12.44,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Itllu Arjuna Box Office Collection Day 3",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
-       "publishedAt": "2026-11-15T22:45+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana Part 1 box office collection Day 10 Live Updates: Ranbir Kapoor’s film crosses Rs 1,228 cr globally; reaches Rs 75 cr mark in India on Sunday",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZjhEMjA4bnp2WFVaM05SbHZoYVR4Q2x1VzVnblJOVFIyWVNLYUt1Y3ptdlFtUkhBRTN5d25id1h6dGo3czhLeTBLaGJKbHRtUWZFenk4UXdTYmtRVVdZbzJ1LThfQ3lYZkhGNkRKTlR5MGhqa0FyaHBmVjl6MVYzNFRGOVczQ3ozSEVZcVBBeTZfdjNvRzhIcGZYYmVyYnluMmxoM1UxNC1SaTNoaW1ST3laenNQYVZVS0gxcFhwX3QxMFFVZFpxdEFrT0J6VmlLTWd0S3ZDUl8tc2hkLTNvVmZJeHlWejJLamdPR1Z2LTY4d9IB-AFBVV95cUxNQ0g4NVpmSU1wYzk2V1dQUkN6bGZGcVIxNWhGbmNSOFZGb3dPbWZZRlA3Z3NlRDM2Y09GVE9iQlA0UHVGT2ZxTlVwckoxMjZ6ejBFbUNVWGE2WnlfVUl3S012b202bjF4cXdXNVY1ZXZDMlliNXMySHBZeWxUZGM1bXBQMGpXcmpwUk5RblB5dWZZa2VUMldMSlpaNDV2Tk50QmdkY3l4R0JLdVlWa2swbTEySnF6RDFPaGZvQ3NPd3lSUjlPN1pGUXNxb2loWVJEMENxa3llY0s2c1E5bm1hMFJTWGJidWxGcWp2M3R6cndlQl9na3VibA?oc=5",
-       "publishedAt": "2026-11-15T22:23+05:30"
-      }
-     ]
-    },
-    {
-     "title": "In latest ‘encounter’, West Bengal police kill a man accused of shooting at a constable two days ago",
-     "link": "https://www.thehindu.com/news/national/west-bengal/man-accused-of-opening-fire-at-cop-in-bengals-santiniketan-killed-in-police-encounter/article71705045.ece",
-     "source": "The Hindu",
-     "sources": [
-      "NDTV",
-      "Rediff",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T22:07+05:30",
-     "score": 7.34,
-     "summary": "This is the fifth instance of an accused killed in police firing in West Bengal, within six months of the BJP coming to power in the State; this was an “extrajudicial execution”, says civil society group",
-     "image": "https://th-i.thgim.com/public/news/national/scvfub/article71705077.ece/alternates/LANDSCAPE_1200/iStock-1332902346.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "In latest ‘encounter’, West Bengal police kill a man accused of shooting at a constable two days ago",
-       "link": "https://www.thehindu.com/news/national/west-bengal/man-accused-of-opening-fire-at-cop-in-bengals-santiniketan-killed-in-police-encounter/article71705045.ece",
-       "publishedAt": "2026-11-15T22:07+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trump blames Biden for aviation chaos, presses Congress for ATC funding",
-     "link": "https://timesofindia.indiatimes.com/world/us/trump-blames-biden-for-aviation-chaos-presses-congress-for-atc-funding/articleshow/135858445.cms",
-     "source": "Times of India",
-     "sources": [
-      "CGTN",
-      "CNA",
-      "NDTV",
-      "The New York Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T20:19+05:30",
-     "score": 7.29,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135858509,imgsize-1761317.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Trump blames Biden for aviation chaos, presses Congress for ATC funding",
-       "link": "https://timesofindia.indiatimes.com/world/us/trump-blames-biden-for-aviation-chaos-presses-congress-for-atc-funding/articleshow/135858445.cms",
-       "publishedAt": "2026-11-15T20:19+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Trump blames Biden for aviation chaos, presses Congress for ATC funding",
-       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdkRaVUh5UXhHS3NmdzcyQmNfNF9YaU85SlJNQTdHTWFvRDBJZ0RsUmhrOGNQUnpYUWROLW5FaDRCcDBpTXZ0cGNMUF9aT2tSOHVQVVd5TmxLSWlpX1piNXA4ZEtwbm4ybGFWTk4tcUNHOEhBNnRYaGhhOG5oQTZHcER4VE1GV3FTcDFTaE5tTDQ3Q2kwYkU4c0pyY1VVVkQtRHZ6cXZBZjFuZFF5YjRzWnY3akVITm9LMHFaMTY3VEZvclVYczdZYlR2UE5KQlJIVGwtR0xIV0s?oc=5",
-       "publishedAt": "2026-11-15T20:19+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Netanyahu Made Promises He Had No Intention To Keep': Biden In Memoir",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUN4SExQRy12dE5tNWRCUlB2M0s0NzhGdVIxcjU0dW1uX3YxYnhmNGVvNjNGakFlRC1xS1Z1U3otbWRySnlWU0lNdXEtWWIzcElwQ3cxNU4xeWczMkFrUzRqOWdVanVCdDRzcEpMb3VfaGNTMkt4NkxvZnBLQklacjh3YmhEckwzdWRndDl4ejJQbnoxTXotbGFGUzhKN2dfdURzY0xsWXRHZ1JRQkxDMnFfbHZzd0RYNVFhajBLaC1RZXdrRU1XaWRBYkJrRVVjZXow?oc=5",
-     "source": "NDTV",
-     "sources": [
-      "Haaretz",
-      "NDTV",
-      "NewsBytes",
-      "The Times of India",
-      "Ynetnews"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T20:32+05:30",
-     "score": 7.08,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "'Netanyahu Made Promises He Had No Intention To Keep': Biden In Memoir",
-       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUN4SExQRy12dE5tNWRCUlB2M0s0NzhGdVIxcjU0dW1uX3YxYnhmNGVvNjNGakFlRC1xS1Z1U3otbWRySnlWU0lNdXEtWWIzcElwQ3cxNU4xeWczMkFrUzRqOWdVanVCdDRzcEpMb3VfaGNTMkt4NkxvZnBLQklacjh3YmhEckwzdWRndDl4ejJQbnoxTXotbGFGUzhKN2dfdURzY0xsWXRHZ1JRQkxDMnFfbHZzd0RYNVFhajBLaC1RZXdrRU1XaWRBYkJrRVVjZXow?oc=5",
-       "publishedAt": "2026-11-15T20:32+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Nearly 2,200 migrants reach Canary Islands in two days, Spain says",
-     "link": "https://www.thehindu.com/news/national/nearly-2200-migrants-reach-canary-islands-in-two-days-spain-says/article71705702.ece",
-     "source": "The Hindu",
-     "sources": [
-      "ABC News - Breaking News, Latest News and Videos",
-      "Al Jazeera",
-      "Euronews.com",
-      "Reuters",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T23:00+05:30",
-     "score": 7.02,
-     "summary": "Spain declared a migration emergency on the islands on November 11 following a rise in arrivals in recent weeks, particularly from sub-Saharan Africa",
-     "image": "https://th-i.thgim.com/public/incoming/ll068s/article71705703.ece/alternates/LANDSCAPE_1200/2026-11-12T193226Z_188193535_RC2HMOAF3FWG_RTRMADP_3_MIGRATION-EUROPE-SPAIN-CANARY-ISLANDS.JPG",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Nearly 2,200 migrants reach Canary Islands in two days, Spain says",
-       "link": "https://www.thehindu.com/news/national/nearly-2200-migrants-reach-canary-islands-in-two-days-spain-says/article71705702.ece",
-       "publishedAt": "2026-11-15T23:00+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Record number of migrants arrive in Spain’s Canary Islands",
-       "link": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
-       "publishedAt": "2026-11-15T20:46+05:30"
       }
      ]
     }
