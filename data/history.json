@@ -1,6 +1,209 @@
 {
- "updated": "2026-11-23T21:32+05:30",
+ "updated": "2026-11-23T22:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-23T22:00+05:30",
+   "generatedAt": "2026-11-23T22:30+05:30",
+   "feeds": 16,
+   "headlines": 295,
+   "stories": [
+    {
+     "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+     "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "CNBC",
+      "Inc.com",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Economic Times",
+      "The Economist",
+      "The Guardian",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-23T22:19+05:30",
+     "score": 13.47,
+     "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+       "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-23T22:19+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+       "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+       "publishedAt": "2026-11-23T22:18+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Huang out, Huang back: Why Trump intervened in Nvidia's CEO drama",
+       "link": "https://timesofindia.indiatimes.com/world/us/huang-out-huang-back-why-donald-trump-intervened-in-nvidias-ceo-drama/articleshow/136108611.cms",
+       "publishedAt": "2026-11-23T21:53+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Nvidia Live Updates: 'Mistake Corrected': Elon Musk On Jensen Huang's Return To Nvidia",
+       "link": "https://www.ndtv.com/world-news/nvidia-board-reinstates-jensen-huang-president-ceo-board-director-live-updates-live-updates-nvidia-stock-jumps-30-after-jensen-huang-returns-as-ceo-12367017#publisher=newsstand",
+       "publishedAt": "2026-11-23T21:23+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
+       "publishedAt": "2026-11-23T20:53+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Trump backs Nvidia's reinstatement of Huang as CEO",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-backs-nvidia-boards-decision-to-reinstate-jensen-huang-as-ceo/articleshow/136106347.cms",
+       "publishedAt": "2026-11-23T20:12+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdG9sQTRJOUNIWlFvRTdLUkIxbkNzdnBURVBpVGRVcVBSUi1EcWxsUkNRNkdRM2JfRG9qZ1piS0JnMWtBY1M2Y1gzVnktdmZ5RnRIMlRtS3RHa3VPYlVfM0ZoX3pXOHQ0T0tfcVJpX3dqSGRhSVMxV193bGo0Vy1EQjlsNU9Xdkp3LUFuSDQ4VE4zOU5lV0wzTm9QY2FiZGRqOHkyN3lfZHBVajBfM0E2aFRwLVM1Y0l3aVgtQk5DNUtrZ29NMmNJ0gHOAUFVX3lxTE96UjU3bmJXODJIcnpacWVXTDR6UldtbTZtNW5qLVF5ci04S21pZXVkN3gzbWdoTUNvMFVxUmVSeWN1MGZETjRfWnk4SnFRdVpkQXFqLXo5NVRsdkNWYjlVdkRQSmI4QVFGZjJncXd0TnVUTlVVRFZDOVZKbklRUkFLY1dPam1lQXpQa0pERmxBLUJpdzg3MTNvV3RqamZGcWZSc09JLXNfNVFwbWctZ3lUWENYYmxRTW5sczZKeU5pdUdlLTM0MlJmNmp0c3Nn?oc=5",
+       "publishedAt": "2026-11-23T20:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "How much, if anything, have you seen and heard about the release of the video game Grand Theft Auto 6?",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NblRUUG5PdTlvY2VvR2RnWjBlelFwdVJneWRCLWhTV1ZqbERaMXczYUNwWE1Oel9uUmR6enBHSE8tVk1jWWhac2Zlc2VqalFfMy1OMm9heGZOTTN4NUI1cVZTaUhYUQ?oc=5",
+     "source": "YouGov",
+     "sources": [
+      "Creative Bloq",
+      "GamingBolt",
+      "Gulf News",
+      "Her Campus",
+      "India Today",
+      "LBC",
+      "SMH.com.au",
+      "The Conversation",
+      "The Verge",
+      "YouGov"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-23T22:05+05:30",
+     "score": 11.01,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "YouGov",
+       "title": "How much, if anything, have you seen and heard about the release of the video game Grand Theft Auto 6?",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NblRUUG5PdTlvY2VvR2RnWjBlelFwdVJneWRCLWhTV1ZqbERaMXczYUNwWE1Oel9uUmR6enBHSE8tVk1jWWhac2Zlc2VqalFfMy1OMm9heGZOTTN4NUI1cVZTaUhYUQ?oc=5",
+       "publishedAt": "2026-11-23T22:05+05:30"
+      },
+      {
+       "source": "The Conversation",
+       "title": "What Grand Theft Auto VI can teach us about virtual romance",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTdrWTdvWFdQbTNXT2d5OFJlalRMckRkN2htV3EySFFLeElKYldKT3R2d1VuQzRaN0JrNktETWtfOC1NTXB3aUczc09qUFNGb2tndHJJSkpUcG9KaFZRbDN4WUdGOGFYb21jS3ZLMnM0eXVzMEVUS3FhbldUZmtTRjBjMlVJcHdDek9rRjkwRzRBbDJSaVFaTk1R?oc=5",
+       "publishedAt": "2026-11-23T17:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ENE Repeat Box Office Collection Day 5",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBQYzFFUGYwLTRBczV3SjZPRUdlSkhwTDAzY1pzRFAwR3NQSGdLQmlVclFPZVFSQjJWaUFTVy1aeDB6eXdVV0pUNUR0eV9jeFFrZ1NYaGtEVTNpcVl3Uk5ISktGMkFQQlNTMWdpZlMtaVdRcnVna0NURTRwUGxNUzZiNA?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Sacnilk",
+      "THE WEEK",
+      "Telugu Cinema",
+      "Telugu360",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-23T21:48+05:30",
+     "score": 8.92,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 5",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBQYzFFUGYwLTRBczV3SjZPRUdlSkhwTDAzY1pzRFAwR3NQSGdLQmlVclFPZVFSQjJWaUFTVy1aeDB6eXdVV0pUNUR0eV9jeFFrZ1NYaGtEVTNpcVl3Uk5ISktGMkFQQlNTMWdpZlMtaVdRcnVna0NURTRwUGxNUzZiNA?oc=5",
+       "publishedAt": "2026-11-23T21:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Israel must prepare for another Iran war, ex-Mossad chief warns Tehran deal won't hold",
+     "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-must-prepare-for-another-iran-war-ex-mossad-chief-says-warns-tehran-deal-will-never-hold/articleshow/136108760.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "Euronews",
+      "Reuters",
+      "The Times of India",
+      "The Times of Israel",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T21:45+05:30",
+     "score": 7.37,
+     "summary": "As Israel contemplates military action against Iran amid escalating tensions, former Mossad chief David Barnea proposes war as a means to destabilize Iran's regime. Caretaker Prime Minister Benjamin Netanyahu is pushing for US backing on immediate strikes, but faces resistance from Gadi Eisenkot. Meanwhile, US President Donald Trump is advocating for diplomacy and economic measures rather than military intervention…",
+     "image": "https://static.toiimg.com/photo/msid-136108803,imgsize-43092.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Israel must prepare for another Iran war, ex-Mossad chief warns Tehran deal won't hold",
+       "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-must-prepare-for-another-iran-war-ex-mossad-chief-says-warns-tehran-deal-will-never-hold/articleshow/136108760.cms",
+       "publishedAt": "2026-11-23T21:45+05:30"
+      },
+      {
+       "source": "The Times of Israel",
+       "title": "Ex-Mossad chief: Israel must go to war against Iran ‘as soon as all conditions allow’",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQW1lNE85X2RXWFl6LXlhcnFfYWV3R1pWZnZ5UFVPaWVrTy04MFIyRndvS1RKYUZxTlVNekRfcUlqeE83T2h5Y2I2RWJSUkkybnliUDNwQ0RkYU54VnE4cHNhZHB6TGE2M3hkN05panQtVEF2MERHNjg1Sjk1allic05razJYNGNzYW1vdkl4SzFSZ29pTzRkM0ZYRkhzZzDSAaQBQVVfeXFMTWo5MEtXSHpmV0VaWUVjUTdUd0tRNGl6eG9KUDJLVTJuMmZtQUxqcVVmaGUzLWRna3BETllzajUxbkhTVGdqNEJvUnZGUWpKbEFwWDY1NThNX2E1bUhGdVQzQXQxdFZvLTc2d0lPM0YyX2NOWlNKRzRCeW1nS1A1dTBZWEhDY0xzNWJ2dlpYQW9MMElxbEpWNzd2WmhrZ19MTXY3c18?oc=5",
+       "publishedAt": "2026-11-23T17:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Hear pleas by deleted voters first, Supreme Court directs Bengal SIR tribunals",
+     "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-sir-supreme-court-orders-eci-calcutta-high-court-to-increase-tribunals-hearing-appeals/article71734188.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "Scroll.in",
+      "The Hindu",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-23T22:08+05:30",
+     "score": 7.24,
+     "summary": "The court directed the ECI to increase the number of tribunals and relocate them to central hubs of Kolkata to facilitate expeditious disposal of the backlog of pending appeals",
+     "image": "https://th-i.thgim.com/public/incoming/g0rcaj/article71734189.ece/alternates/LANDSCAPE_1200/TH04-KDR--REVISG7BGOOMFJ.3.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Hear pleas by deleted voters first, Supreme Court directs Bengal SIR tribunals",
+       "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-sir-supreme-court-orders-eci-calcutta-high-court-to-increase-tribunals-hearing-appeals/article71734188.ece",
+       "publishedAt": "2026-11-23T22:08+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Deleted voters’ appeals to get priority, Supreme Court tells Bengal SIR tribunals",
+       "link": "https://www.hindustantimes.com/india-news/deleted-voters-appeals-to-get-priority-supreme-court-tells-bengal-sir-tribunals-101795438702289.html",
+       "publishedAt": "2026-11-23T18:28+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-23T21:00+05:30",
    "generatedAt": "2026-11-23T21:32+05:30",
@@ -29554,180 +29757,6 @@
        "title": "Megaspeed says Alice Huang left the company in August 2025",
        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGhZTlZ0MDBVVUhqYkJMZmtuTk5OazlET0NjTVN5WDZsWTZPSUJjemowSWtRN09mSUdhUmUtdHRnamVjeHp4U0g2ak1VUW51NEZfaW5hM2c0X25DVkVHeG93Q1hHcW5oUlhUMDN1RFVrSDdFZG01RjdyT1pkQmc4MjJxdzhCUnNHZFhPRE9hQ21oczRBVVl2aVpFQWo?oc=5",
        "publishedAt": "2026-11-15T17:30+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-15T18:00+05:30",
-   "generatedAt": "2026-11-15T18:16+05:30",
-   "feeds": 16,
-   "headlines": 276,
-   "stories": [
-    {
-     "title": "Arshdeep Singh & Co. swing it India's way to secure 3-1 series win vs New Zealand",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-co-swing-it-indias-way-to-secure-3-1-series-win/articleshow/135852572.cms",
-     "source": "Times of India",
-     "sources": [
-      "BCCI",
-      "Cricinfo",
-      "ICC",
-      "Rediff",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T15:46+05:30",
-     "score": 8.08,
-     "summary": "India achieved a 22-run victory against New Zealand in the final ODI match. The match saw a fierce bowling effort, leading to crucial wickets at important moments. Mohammed Siraj, Yash Thakur, and Axar Patel played significant roles in the victory. This win allowed India to win the series 3-1, strengthening their position in white-ball cricket. The team's relentless approach was evident throughout the match…",
-     "image": "https://static.toiimg.com/photo/msid-135852599,imgsize-151070.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Arshdeep Singh & Co. swing it India's way to secure 3-1 series win vs New Zealand",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-co-swing-it-indias-way-to-secure-3-1-series-win/articleshow/135852572.cms",
-       "publishedAt": "2026-11-15T15:26+05:30"
-      },
-      {
-       "source": "Cricinfo",
-       "title": "Arshdeep and Co help India defend 209 for 3-1 series win",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVBNU3RYTWw3LWd1MnhlSVpTbUxlMDAzMk9MSFZJQUMwQWpUZ1p4Q2xCendUX3RBTkFsZC0yMUowNl90VUx4NGtXRC1kdGczX19md2YtSzZzaGF4U09OWjRBYmVvYmdrQlB0WU9QWExNWjlwRDdaTEhJR3U5Z2VrUFpWXzBueVlLTnBvbEc2RHE1cTlfMW1kdG5BdW1ZMHFPZEdZYVBUTndGamJEN2N3NFpWd2hiZmNBclE?oc=5",
-       "publishedAt": "2026-11-15T15:46+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Will India get preferential US market access, lower tariffs than rivals? Here's what Piyush Goyal said",
-     "link": "https://www.livemint.com/news/will-india-get-preferential-us-market-access-lower-tariffs-than-rivals-heres-what-piyush-goyal-said-11794739193904.html",
-     "source": "Mint",
-     "sources": [
-      "Deccan Herald",
-      "Mint",
-      "Moneycontrol.com",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T16:26+05:30",
-     "score": 7.99,
-     "summary": "India will get preferential access to the US market, with lower tariffs than competing countries under the proposed bilateral trade agreement, Commerce Minister Piyush Goyal said.&nbsp;",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/goyal_1782207220783_1782207229237_6cabb77e-aab7-42ba-9156-fad9da48b672_1794739432319_nMjP_c0153060-3d24-4104-8a22-8e878e8c471d_2jbi.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Will India get preferential US market access, lower tariffs than rivals? Here's what Piyush Goyal said",
-       "link": "https://www.livemint.com/news/will-india-get-preferential-us-market-access-lower-tariffs-than-rivals-heres-what-piyush-goyal-said-11794739193904.html",
-       "publishedAt": "2026-11-15T16:26+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Preferential access already agreed': Goyal's big update on India-US trade deal",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/preferential-trade-access-already-agreed-piyush-goyals-big-update-on-india-us-trade-deal/articleshow/135851339.cms",
-       "publishedAt": "2026-11-15T14:05+05:30"
-      },
-      {
-       "source": "Moneycontrol.com",
-       "title": "India-US trade deal: Lower tariffs than rival nations 'already agreed', says Piyush Goyal",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0dybEw0N0ZjWnloYTZqLUcyTDlORmpwZmVidWN3WFZ1VjdObHE5aTY5VG9SZmdNR21KdU1RZlNhc1hVYTZKNERMOC1QR19uaXhQUVNWNktDdzJ0WVRMNEFIN0F2Y0ZuMGJWaTZvMXJtZzJhTzh4Zmkwd2tUWXdRcFVOeUZkVENiNFpPRmJZaUs5emozUnE1RHRRZkxyR1c1MFJxb1JFc2NVQmx0UzBabmFoc2NkUXljN2lqbWpOMjNGcHB2UmI3RTFwOE9ybF8xYVZTdmhB0gHbAUFVX3lxTFA1aXBuQTg4R2Fsd0lpSmw3SXN0YXdFZno1UWpROTVlTHJULUw3dlBfaV9iYW9DXzFxWjZjVkNLYnVpQkdiODQ1cFhoN0xuLVRQU0xpZkdUR1RzbjF0WXV0OEpKNC1wTW9iZV9MdXdBbk9kRnl0bHJ3WVA0NzVKWXdOWml4djRwb0lqQzRJVHFwLUE3OWtKazdlcW12YTd0MXZqeTN5VEVUcnNUeUF5TG03UjU2Vm5EMlZzc1Fuc0Vmb0hyQVRtbkJyZERCX1pBSkRQMmNpeDJKSjdibw?oc=5",
-       "publishedAt": "2026-11-15T13:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Major accident averted as empty Vande Bharat travels 463 km with faulty brakes",
-     "link": "https://timesofindia.indiatimes.com/india/major-accident-averted-as-empty-vande-bharat-travels-463-km-with-faulty-brakes/articleshow/135852471.cms",
-     "source": "Times of India",
-     "sources": [
-      "Deccan Herald",
-      "Hindustan Times",
-      "Telegraph India",
-      "The New Indian Express",
-      "The Times of India",
-      "TheWire.in",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-15T15:20+05:30",
-     "score": 7.56,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135852536,imgsize-120380.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Major accident averted as empty Vande Bharat travels 463 km with faulty brakes",
-       "link": "https://timesofindia.indiatimes.com/india/major-accident-averted-as-empty-vande-bharat-travels-463-km-with-faulty-brakes/articleshow/135852471.cms",
-       "publishedAt": "2026-11-15T15:20+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Ranchi division allows empty Vande Bharat to travel 463 km with faulty brakes; probe on",
-       "link": "https://www.hindustantimes.com/india-news/ranchi-division-allows-empty-vande-bharat-to-travel-463-km-with-faulty-brakes-probe-on-101794730606291.html",
-       "publishedAt": "2026-11-15T13:46+05:30"
-      },
-      {
-       "source": "Deccan Herald",
-       "title": "Empty Vande Bharat travels 463 km with faulty brakes; probe on",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFFRMGVQeDhRMVpMeC03aGl1Mkw3MThzMFRMU1h2enVJbjZETnNjWmNYbE1pMGFabE9BN3NWaG5pU2EtQmxJV0pIb3VqU01XcDMzMnpkYkpOTF9pcmplVkhYQU1BWC0xSTlqeno1OXNZbDhZQ3I4OG42d2FDYzhKSFY4dl9yYzBjQWR0ODZZV3N3cUxSRFdFR0liUUN2dVVocHJnSmd5SQ?oc=5",
-       "publishedAt": "2026-11-15T14:04+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
-     "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-     "source": "The Guardian",
-     "sources": [
-      "Al Jazeera",
-      "CNBC",
-      "CNN",
-      "The Guardian",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T17:51+05:30",
-     "score": 7.43,
-     "summary": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet Iranian media are reporting that their Foreign Minister Abbas Araqchi will be in Oman on Tuesday for talks with his Omani counterpart. Oman, along with Qatar, has been one of the key negotiators in ceasefire and peace talks between Tehran and Washington. The Southern Armed Forces announce the implementation of a redeployment…",
-     "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
-       "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-       "publishedAt": "2026-11-15T17:51+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
-       "publishedAt": "2026-11-15T17:45+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review - GSMArena.com news",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5",
-     "source": "GSMArena.com",
-     "sources": [
-      "Android Police",
-      "Forbes",
-      "GSMArena.com",
-      "SammyGuru",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T15:31+05:30",
-     "score": 7.04,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "GSMArena.com",
-       "title": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review - GSMArena.com news",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5",
-       "publishedAt": "2026-11-15T15:31+05:30"
       }
      ]
     }
