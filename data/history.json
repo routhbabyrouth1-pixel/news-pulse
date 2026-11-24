@@ -1,6 +1,213 @@
 {
- "updated": "2026-11-24T12:42+05:30",
+ "updated": "2026-11-24T14:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-24T14:00+05:30",
+   "generatedAt": "2026-11-24T14:30+05:30",
+   "feeds": 12,
+   "headlines": 273,
+   "stories": [
+    {
+     "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "Financial Times",
+      "Forbes",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "The Economic Times",
+      "The Guardian",
+      "The Hindu",
+      "The New York Times"
+     ],
+     "sourceCount": 12,
+     "publishedAt": "2026-11-24T11:54+05:30",
+     "score": 12.67,
+     "summary": "Huang's reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
+       "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+       "publishedAt": "2026-11-24T11:54+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+       "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-24T10:06+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Krishnamoorthi seeks hearing with Nvidia CEO Huang",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/us-congressman-krishnamoorthi-demands-public-congressional-hearing-with-nvidia-ceo-jensen-huang/articleshow/136119394.cms",
+       "publishedAt": "2026-11-24T09:54+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Jensen Huang Confessed To More Affairs Before Returning As Nvidia CEO: Report",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcTNoR0VYbC1kd0JSTXM1Z01IcW9uNGMwRG1uOVA3N2VqbUJWMVVkLVhjSVNoY2pnbzdRa1VSWUJiRktTWUJmVEE1M2NyU0d1STZjLUFlZXF0bzFkY2h2R3M2Qlk2YlU1RTR0bDRob0g1TFV6OVMyVFdsMEVYX0tFWkYwVVB0ZzJ5VWt2TE1CcGlSLTlvOVVud1F2Sm9tV3ZxdmN2eUNLMk9nek04Z3FuZW5aenpPV2Vr?oc=5",
+       "publishedAt": "2026-11-24T10:01+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘Bada bhai becomes CM’: Amit Shah pitches Sukhbir Badal as face of BJP-SAD alliance in Punjab",
+     "link": "https://www.hindustantimes.com/india-news/bada-bhai-becomes-cm-amit-shah-pitches-sukhbir-singh-badal-as-face-of-bjp-sad-alliance-in-punjab-101795509015212.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-24T14:06+05:30",
+     "score": 10.43,
+     "summary": "The BJP and Shiromani Akali Dal announced their alliance for the upcoming Punjab Assembly polls on Tuesday.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/PTI11-24-2026-000102B-0_1795509193606_wwJL_1795509235509_ZQsp_11014757-a0de-4d18-973b-c652966aac58_40tE.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "‘Bada bhai becomes CM’: Amit Shah pitches Sukhbir Badal as face of BJP-SAD alliance in Punjab",
+       "link": "https://www.hindustantimes.com/india-news/bada-bhai-becomes-cm-amit-shah-pitches-sukhbir-singh-badal-as-face-of-bjp-sad-alliance-in-punjab-101795509015212.html",
+       "publishedAt": "2026-11-24T14:06+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Bada bhai will be CM': Amit Shah after BJP-SAD announce alliance in Punjab",
+       "link": "https://timesofindia.indiatimes.com/india/bada-bhai-will-be-cm-amit-shah-after-bjp-sad-announce-alliance-in-punjab/articleshow/136123852.cms",
+       "publishedAt": "2026-11-24T14:03+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Punjab polls 2027: Amit Shah hints who will be CM",
+       "link": "https://economictimes.indiatimes.com/news/elections/assembly-elections/punjab/who-will-be-cm-if-bjp-akali-dal-alliance-wins-punjab-elections-in-2027-amit-shah-answers/articleshow/136124259.cms",
+       "publishedAt": "2026-11-24T13:56+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "BJP, Akalis Ally In Punjab, Amit Shah Says \"Bada Bhai\" Will Be Chief Minister",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeENHOTllUlZXRVE1NUFaN2g1MEwwUWEwdndjM3hBa1Y5VUMtc29CYWVNRldrSk5DY2ZHWFB0c29XVGdPR2Z3aUszMUZRbXowc0NTcXJfa19aTUU2WEJSQmFzNzJxWUl1N2Q1UWlnc0FVbU9IMUxRMURoajVFa25oSUN2aWp2Z3hpUURhYzNIYU5xc0NRZTRzSnFtMjVkek8xMmkzcE5UMmVaVHlld1pZcVV2SzZzRW8?oc=5",
+       "publishedAt": "2026-11-24T13:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
+     "link": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-24T13:05+05:30",
+     "score": 9.51,
+     "summary": "Hasina urges Dhaka to arrange her return on the national airline, as government says she can only be extradited.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5191/live/b1f565b0-e7c1-11f1-b55c-09f84acff1b4.jpg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
+       "link": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
+       "publishedAt": "2026-11-24T13:05+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+       "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-24T11:53+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Sheikh Hasina seeks to return to Bangladesh on Victory Day, asks for Biman flight from Delhi",
+       "link": "https://www.livemint.com/news/world/sheikh-hasina-seeks-to-return-to-bangladesh-on-victory-day-asks-for-biman-flight-from-delhi-11795495923829.html",
+       "publishedAt": "2026-11-24T10:46+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FQWpjSnU2cHlDQTZNSDJTNHFKbGJKSFNGS3ZKdkZsTS02Wk5tRFNRV0JEd2Iyd3d3LTRWLUVUY096aTFqMGhaVW81Ql9mMVNQdGtsV3hYdHQ2Mm8?oc=5",
+       "publishedAt": "2026-11-24T11:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pope Francis' Private Diary Reveals Visions Of Devil And Hell",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUZqMGEtTnJBODlaZHluZ1BXQkhmbGtnS2REUlJGUS0wM2sxTUloaHRBZG9laFJSRHV5TnRpMFd6S2VyU1BGNWh0RkJ1bkxFdm1tMGl4eXNXQTRiT1JxSnZ3dDd4U1pzLWxsWUtjVnJOV1I0U1pWNXZHclRvNFV4N3VxaVJyZ2FMSnZtVmdkaHlDMWZjM3JnTmpUM2ZwYUp6eWJB0gGrAUFVX3lxTFB3VS1uUE1RZTQ1OWVmYU1LN3BfSVJVSnFBc1BINXRPZnd3LVk5SnJuRS1NYk94eTdwbkJEWEZYVGQzRGNnVEx5d0lqdzRGM05GbzFZQ2ZiZjlFVkZ5SmV5Sm5xWkFyNXZMXzZLQ2wxN3VzSFFVRlFHZjVxbURqR05qaU1ncXJjam4yQnpQcERyaWFOdmhLQU82ejlxeThHN1ZaX1AwUjk5RU5DYw?oc=5",
+     "source": "NDTV",
+     "sources": [
+      "CNN",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "Vatican News"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-24T12:42+05:30",
+     "score": 7.2,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Pope Francis' Private Diary Reveals Visions Of Devil And Hell",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUZqMGEtTnJBODlaZHluZ1BXQkhmbGtnS2REUlJGUS0wM2sxTUloaHRBZG9laFJSRHV5TnRpMFd6S2VyU1BGNWh0RkJ1bkxFdm1tMGl4eXNXQTRiT1JxSnZ3dDd4U1pzLWxsWUtjVnJOV1I0U1pWNXZHclRvNFV4N3VxaVJyZ2FMSnZtVmdkaHlDMWZjM3JnTmpUM2ZwYUp6eWJB0gGrAUFVX3lxTFB3VS1uUE1RZTQ1OWVmYU1LN3BfSVJVSnFBc1BINXRPZnd3LVk5SnJuRS1NYk94eTdwbkJEWEZYVGQzRGNnVEx5d0lqdzRGM05GbzFZQ2ZiZjlFVkZ5SmV5Sm5xWkFyNXZMXzZLQ2wxN3VzSFFVRlFHZjVxbURqR05qaU1ncXJjam4yQnpQcERyaWFOdmhLQU82ejlxeThHN1ZaX1AwUjk5RU5DYw?oc=5",
+       "publishedAt": "2026-11-24T12:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "11 killed as bus collides with truck in UAE's Ras Al Khaimah",
+     "link": "https://timesofindia.indiatimes.com/world/middle-east/11-killed-as-bus-collides-with-truck-in-uaes-ras-al-khaimah/articleshow/136121525.cms",
+     "source": "Times of India",
+     "sources": [
+      "Gulf News",
+      "Khaleej Times",
+      "Reuters",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T11:43+05:30",
+     "score": 6.6,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136121673,imgsize-84528.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "11 killed as bus collides with truck in UAE's Ras Al Khaimah",
+       "link": "https://timesofindia.indiatimes.com/world/middle-east/11-killed-as-bus-collides-with-truck-in-uaes-ras-al-khaimah/articleshow/136121525.cms",
+       "publishedAt": "2026-11-24T11:43+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Bus and truck collision kills 11 in UAE's Ras Al Khaimah",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMFM2TDhwNU9ELWxXVHpJVnZ6ZmV2SHJmVjZUaXIxWHM5d3lZV3Z2djNYazdBRDVxVmFnV3JhcnlXc0NhR29QZHkyWUVDN2dPcDRtZ2tJRjVHbm5ia3d6T0I4QUxwcUJueW9Hd3h3Y09sanZhVE5XMHFlSldpVFRRWGVRSmdHVEsxbUdnTmNHdkoyWGNY?oc=5",
+       "publishedAt": "2026-11-24T11:12+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-24T12:00+05:30",
    "generatedAt": "2026-11-24T12:42+05:30",
@@ -29874,147 +30081,6 @@
        "title": "China confirms first Xi-Trump-Putin summit on November 19",
        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTHhNa2J6WGdIWUVjT01BR3ZyOThPX0VIQVAzcmJ5Y2Exb1plT1ZNb0JWT0lrajd1MDZFRE9kbVpiVTNOam9BcEhOeUVFSEQ3RHR1YjRqcTk5SEpOa0VZVVpnSFhUYkpoSDBLRmtzLWhFcnEwY05ka1RzUHhpWGwyV1ZKUHVka1dTcnMtVmdrQ1ZsVUVnMVVHRW5qYk81cEw0RTAwaGtIYVl6WWxGY2IzUDdQblZ5Wm9waDZoYndR0gHEAUFVX3lxTE9YOTNYNDlQYkdoZjJrSE1HUWRFeDMwVmw1Z1JRTjN4eGpQZXhPYjVNNDdXQmVTS015S1AybkhDY1QwWlJlX04wcHBFUmRjRERBVHVReVJTZWZmQ29sWnA0dE1tdk1FWkhpc0o0Y3NoSG5rTlowbV93dTJaZ2lQWWcwMjZmMjhmODhUd2REZUQ3N3RCdF9DNVlGZU1pUU1NVWxjekY0Z3RlRVlTTU9UajRCTlZKQnRYTmo4dl9oSXVUOFdRc0E?oc=5",
        "publishedAt": "2026-11-16T07:27+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-16T09:00+05:30",
-   "generatedAt": "2026-11-16T09:38+05:30",
-   "feeds": 16,
-   "headlines": 182,
-   "stories": [
-    {
-     "title": "Horoscope Today: November 16, 2026",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zZThpaDRVOHU1bmpaNUFZWEwxMk96Unp4WmgyMXFUVlA0X2UxV2wtTkRVeFNVNjNVdlZXc182Rlg3dzUyR19XN3czX3RzSjVJZ0JNUjF3YUE5YVp3M1d2NU1DZVgzVnJ4RjRzU3dn?oc=5",
-     "source": "Vogue India",
-     "sources": [
-      "Dainik Jagran MP CG",
-      "Deccan Herald",
-      "ETV Bharat",
-      "Grazia",
-      "Hindustan Times",
-      "India Today",
-      "News18",
-      "Odisha TV",
-      "The Economic Times",
-      "The Times of India",
-      "Toronto Star",
-      "Vogue India"
-     ],
-     "sourceCount": 14,
-     "publishedAt": "2026-11-16T06:00+05:30",
-     "score": 14.58,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Vogue India",
-       "title": "Horoscope Today: November 16, 2026",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zZThpaDRVOHU1bmpaNUFZWEwxMk96Unp4WmgyMXFUVlA0X2UxV2wtTkRVeFNVNjNVdlZXc182Rlg3dzUyR19XN3czX3RzSjVJZ0JNUjF3YUE5YVp3M1d2NU1DZVgzVnJ4RjRzU3dn?oc=5",
-       "publishedAt": "2026-11-16T06:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "PM Modi to attend Asean, East Asia summits in Manila; what's on agenda",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSXA0aEpEUGljSHZYSGZ4RUxkOVV5OHVuTTVuWndwdDZ0TlRJY3pMU1ZtVkJnQkZZUElRbFIydzlHcXVYN1puOWxPNEktWl80SnNpaExtU1ZaOFpZS2x5dGFNc3pBaVVQTktDblZTNFhjMl9WRXZmeDM5LUJrNVdvNGpTdlJkaGR2WjdCeUVUbG9UZXJGeEY2OTI5NTNGN2ZvdDlkV2xnV3lGRl9RNkZKb0c5VDlzZGhSU3B1SkxobHpPREFyVy11TmlGRFVxcURI?oc=5",
-     "source": "The Times of India",
-     "sources": [
-      "Hindustan Times",
-      "Jagran Josh",
-      "PM India",
-      "The Hindu",
-      "The Times of India",
-      "The Tribune"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-16T07:00+05:30",
-     "score": 8.06,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Times of India",
-       "title": "PM Modi to attend Asean, East Asia summits in Manila; what's on agenda",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSXA0aEpEUGljSHZYSGZ4RUxkOVV5OHVuTTVuWndwdDZ0TlRJY3pMU1ZtVkJnQkZZUElRbFIydzlHcXVYN1puOWxPNEktWl80SnNpaExtU1ZaOFpZS2x5dGFNc3pBaVVQTktDblZTNFhjMl9WRXZmeDM5LUJrNVdvNGpTdlJkaGR2WjdCeUVUbG9UZXJGeEY2OTI5NTNGN2ZvdDlkV2xnV3lGRl9RNkZKb0c5VDlzZGhSU3B1SkxobHpPREFyVy11TmlGRFVxcURI?oc=5",
-       "publishedAt": "2026-11-16T07:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Jensen Huang Eyes Comeback As Nvidia CEO, Allies Form 'War Room': Report",
-     "link": "https://www.ndtv.com/world-news/jensen-huang-eyes-comeback-as-nvidia-ceo-allies-form-war-room-report-12331461#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "CNBC",
-      "NDTV",
-      "NVIDIA Newsroom",
-      "The Guardian",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T08:20+05:30",
-     "score": 7.28,
-     "summary": "The report comes days after the FT reported that Nvidia's board had approached British chipmaker Arm Holdings CEO Rene Haas to find new CEO.",
-     "image": "https://c.ndtvimg.com/2026-11/s0l519uk_jensen-huang-reuters_625x300_16_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Jensen Huang Eyes Comeback As Nvidia CEO, Allies Form 'War Room': Report",
-       "link": "https://www.ndtv.com/world-news/jensen-huang-eyes-comeback-as-nvidia-ceo-allies-form-war-room-report-12331461#publisher=newsstand",
-       "publishedAt": "2026-11-16T08:20+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Apple launches an AI health tool as part of a research study",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRENhOV9sbFBJdS1ZM1ZCRU1HOXAwcVhZdEkwOXphREo4dU1IdnBmeHVnaTIzQW1KYjMwN1VRV3RfUXh5SzBoT19xVV9RdnFVWk9fTnd1WFhyVjVWMkNzN1ZBa2xNVFYzbm9Kc0VzallGVFYybnNodjAzRTRWSmQ5RjVnc3ppRzJEaWpZdmQtTkVnY3RMUWswUDVR0gGfAUFVX3lxTE1ySlpWclhiWV9zQnc2dUxfcG9xeHZQMGZWRnhsSTc2dG1qMXJnSjNPeDg4TE9WaVk2aGoxVEFWX2ttamhyRnYxMlZrS0xyRkthSjRDdzRVRG1RZTRVOXp1Y1FVbEJEQ0xHQzV3SkhXX0d3SF9VQUxKNGxFNzNCLXNmUng2TkUzRjhVLUVJYXpNTWNPbVlVeVRQOThnQ2dWVQ?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "sources": [
-      "ABC News - Breaking News, Latest News and Videos",
-      "Apple",
-      "Fierce Healthcare",
-      "STAT",
-      "TechCrunch"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T07:14+05:30",
-     "score": 7.1,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "ABC News - Breaking News, Latest News and Videos",
-       "title": "Apple launches an AI health tool as part of a research study",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRENhOV9sbFBJdS1ZM1ZCRU1HOXAwcVhZdEkwOXphREo4dU1IdnBmeHVnaTIzQW1KYjMwN1VRV3RfUXh5SzBoT19xVV9RdnFVWk9fTnd1WFhyVjVWMkNzN1ZBa2xNVFYzbm9Kc0VzallGVFYybnNodjAzRTRWSmQ5RjVnc3ppRzJEaWpZdmQtTkVnY3RMUWswUDVR0gGfAUFVX3lxTE1ySlpWclhiWV9zQnc2dUxfcG9xeHZQMGZWRnhsSTc2dG1qMXJnSjNPeDg4TE9WaVk2aGoxVEFWX2ttamhyRnYxMlZrS0xyRkthSjRDdzRVRG1RZTRVOXp1Y1FVbEJEQ0xHQzV3SkhXX0d3SF9VQUxKNGxFNzNCLXNmUng2TkUzRjhVLUVJYXpNTWNPbVlVeVRQOThnQ2dWVQ?oc=5",
-       "publishedAt": "2026-11-16T07:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1RucjZ4VXNEU1dsQXR0QVJlTXlwM2dVSmM3d0VxdjFsZU8tbE9hT01qVXVjVHlWWWV3Rk9jblZlczBwU2NaY2djZ0o4dkxzdkxyN0FnTjk2MEt4X0Y4WktXU2VjaDhDbzdkazVQM044RDhEZlJUaWVQVklyT2xCcVpSdlU?oc=5",
-     "source": "Financial Times",
-     "sources": [
-      "Al Jazeera",
-      "CGTN",
-      "Financial Times",
-      "Reuters",
-      "The Hindu"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T07:11+05:30",
-     "score": 7.09,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Financial Times",
-       "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1RucjZ4VXNEU1dsQXR0QVJlTXlwM2dVSmM3d0VxdjFsZU8tbE9hT01qVXVjVHlWWWV3Rk9jblZlczBwU2NaY2djZ0o4dkxzdkxyN0FnTjk2MEt4X0Y4WktXU2VjaDhDbzdkazVQM044RDhEZlJUaWVQVklyT2xCcVpSdlU?oc=5",
-       "publishedAt": "2026-11-16T07:11+05:30"
       }
      ]
     }
