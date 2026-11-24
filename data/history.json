@@ -1,6 +1,182 @@
 {
- "updated": "2026-11-24T06:33+05:30",
+ "updated": "2026-11-24T07:48+05:30",
  "hours": [
+  {
+   "hour": "2026-11-24T07:00+05:30",
+   "generatedAt": "2026-11-24T07:48+05:30",
+   "feeds": 16,
+   "headlines": 111,
+   "stories": [
+    {
+     "title": "7 Cool Cars We’d Rock in Grand Theft Auto VI",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWJGLXpLd2k2TkplakUwMnIybkV1bHd6LXVNX2pZeUlhNUhZdGV4Zng0Z2YydDdJb2F0aVdsWWpZZVJSaXExdzVxZlZQZEhrbW5ORUdOdHR2UGt6SXJaQTI4blRRQzg2cVdHNkZuM2RMYTNCZGlESnNVY3VNaEVBdU5NeU1lYnhjU3p1VTEtOVRtdw?oc=5",
+     "source": "Hagerty",
+     "sources": [
+      "AppleInsider",
+      "Beebom",
+      "CNET",
+      "CarScoops",
+      "GameDaily",
+      "Hagerty",
+      "IGN",
+      "Mashable",
+      "NewsBreak: Local News & Alerts",
+      "Polygon.com",
+      "XBOX Wire",
+      "ZDNET"
+     ],
+     "sourceCount": 14,
+     "publishedAt": "2026-11-24T04:03+05:30",
+     "score": 14.5,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Hagerty",
+       "title": "7 Cool Cars We’d Rock in Grand Theft Auto VI",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWJGLXpLd2k2TkplakUwMnIybkV1bHd6LXVNX2pZeUlhNUhZdGV4Zng0Z2YydDdJb2F0aVdsWWpZZVJSaXExdzVxZlZQZEhrbW5ORUdOdHR2UGt6SXJaQTI4blRRQzg2cVdHNkZuM2RMYTNCZGlESnNVY3VNaEVBdU5NeU1lYnhjU3p1VTEtOVRtdw?oc=5",
+       "publishedAt": "2026-11-24T04:03+05:30"
+      },
+      {
+       "source": "XBOX Wire",
+       "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1hHaFNKenloc0xyaG1vVWpJZFR4SlZOcF8taGNRWlk1TUUtTEg3Um5vSkZMQ3BWbTNraFNhWUNIalVmaHVvbFhXWmgxQ1pSOTdHZlN3SDMtMzJmVk5xeURpZ0ZSd3BES244cWhPb3otQmtJUHhqNFZVN3lnUDhwQlJNa1B5M0pacDl1cTAtNNIBlAFBVV95cUxQRnBQa0tCc245S0pfV1JoUl9WS1NWeF9uc2ZyZGhsZi1JazNuN2FYUndVcVpCRFR0a0xpSktQT1ZicEFFenNzOV9aX3ctU1I4ekNhb1o4NkJiVGVEa0F6NGtZY0VGRXZWSjZ1NU5MSUNnZ3dXRnZJVHlMUEQ0Q1RraDktX2RMajVNLXF1WEJzajRzQVJB?oc=5",
+       "publishedAt": "2026-11-24T03:10+05:30"
+      },
+      {
+       "source": "games.gg",
+       "title": "Grand Theft Auto 6 Clonin' Keys Mission: Steal the Zorrusso for Randy",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUEhxVXY4STFidlFfNVZ5NHNNanBpdk9Ma1Q3azc2Rm9jamstOGpKYjZvTWFKYmd3S2l5RGctUDFzYXE5U3FPazVMWXYyb2pHRVBBbGEtX0ZnQ2cwLTMxd0Y0TmtidG1lM2xqbTBmdy14YXM4WTQ1OU54aElheGlLRjJ1OGRjQmVEVEZfRlBSYmphUHBmbUJBQkVPVQ?oc=5",
+       "publishedAt": "2026-11-24T02:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "NZ vs IND, 2026: Blair Tickner ruled out of second India Test with hamstring injury; Matt Fisher called up",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWFZRVlPMFo0bW1hVUV6WTZIYnN6QjJwRldybmhRdWhqYmYtYW5jNUFfUVo2anhGMWxuV0NDTGRFU0tZR05GQXNNb1BtdWxiaE5zMXYxSU1ZdW8wc0c5WkIwSlZvVmJJMDQ2MmJwUF93U3N5b29xaUJVZjJQLXJNRmdTbmFNM1c0bU5Kb0k1eC00ai04MUszdktIbUt2VzUza21uWDZaTUo?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "ICC",
+      "Sportstar",
+      "Stuff",
+      "iSPORT.in"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-24T06:25+05:30",
+     "score": 5.96,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "NZ vs IND, 2026: Blair Tickner ruled out of second India Test with hamstring injury; Matt Fisher called up",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWFZRVlPMFo0bW1hVUV6WTZIYnN6QjJwRldybmhRdWhqYmYtYW5jNUFfUVo2anhGMWxuV0NDTGRFU0tZR05GQXNNb1BtdWxiaE5zMXYxSU1ZdW8wc0c5WkIwSlZvVmJJMDQ2MmJwUF93U3N5b29xaUJVZjJQLXJNRmdTbmFNM1c0bU5Kb0k1eC00ai04MUszdktIbUt2VzUza21uWDZaTUo?oc=5",
+       "publishedAt": "2026-11-24T06:25+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+     "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "NDTV",
+      "The Guardian",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-24T07:17+05:30",
+     "score": 5.91,
+     "summary": "Singapore-based company entangled in scandal over alleged spy Alice Huang’s affair with Jensen Huang The US commerce department published an official notice on Monday adding the Singapore-based company Megaspeed, and its subsidiaries in Thailand and Malaysia, to a trade blacklist. Megaspeed, an Nvidia partner which has been under investigation by US authorities since 2024 over whether it diverted AI chips to China…",
+     "image": "https://i.guim.co.uk/img/media/c0617e3a04f0554259687e37ed2a80796ad3a623/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=5008e11d41bb54401d680d8bcbf82767",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+       "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+       "publishedAt": "2026-11-24T07:17+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "US blacklists Megaspeed, firm linked to alleged Chinese spy in Nvidia scandal",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-blacklists-nvidia-linked-megaspeed-over-alleged-ai-chip-diversion-to-china/articleshow/136116753.cms",
+       "publishedAt": "2026-11-24T06:39+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
+       "link": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
+       "publishedAt": "2026-11-24T06:22+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+       "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-24T04:46+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "US To Blacklist Megaspeed Chip Firm Linked To Nvidia Scandal: Report",
+       "link": "https://www.ndtv.com/world-news/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-report-12368237#publisher=newsstand",
+       "publishedAt": "2026-11-24T02:58+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US Eyes Iran As Possible Culprit In Dozens Of New Cyberattacks Against Ships: WSJ",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1RVENrSy1NRWZPZ1NZX2tvbThuNEZheHFweGs1RW9YV0ZEc0tYRHdZWXhpZ3VxWkMzNWxuaTA5UUpXcGM0cDh0WmlWSDB2c25yYzhvYnZmdW4yR3pVaHRQQjl1LWtob0VyMENmaTVNTmJtemhoX3h2bUY4Q2cxemJuaUNYblFhM0pNdNIBkgFBVV95cUxNUUk5WmJ4OW1FMUZkMjlncDg5YTROSjh1OC1oY2xEYVM1V0syWnpuckZCUks2YmY4a2RiV3VQLV9oeHdPMktiUzhULTY5eE8zZndUUmR3dkJpdGhxV0hUemROamlBVHNkMnYwMTU4T2hJQjdLT3FFQ0ZPOThSOUNnNTM1dC1VbGc3d3A4eTZPejFFQQ?oc=5",
+     "source": "Forex Factory",
+     "sources": [
+      "Financial Times",
+      "Forex Factory",
+      "Reuters",
+      "The Maritime Executive",
+      "The Next Web"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-24T05:32+05:30",
+     "score": 5.68,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Forex Factory",
+       "title": "US Eyes Iran As Possible Culprit In Dozens Of New Cyberattacks Against Ships: WSJ",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1RVENrSy1NRWZPZ1NZX2tvbThuNEZheHFweGs1RW9YV0ZEc0tYRHdZWXhpZ3VxWkMzNWxuaTA5UUpXcGM0cDh0WmlWSDB2c25yYzhvYnZmdW4yR3pVaHRQQjl1LWtob0VyMENmaTVNTmJtemhoX3h2bUY4Q2cxemJuaUNYblFhM0pNdNIBkgFBVV95cUxNUUk5WmJ4OW1FMUZkMjlncDg5YTROSjh1OC1oY2xEYVM1V0syWnpuckZCUks2YmY4a2RiV3VQLV9oeHdPMktiUzhULTY5eE8zZndUUmR3dkJpdGhxV0hUemROamlBVHNkMnYwMTU4T2hJQjdLT3FFQ0ZPOThSOUNnNTM1dC1VbGc3d3A4eTZPejFFQQ?oc=5",
+       "publishedAt": "2026-11-24T05:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Identifying phage host receptors using TraDIS",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wMHp2THRNM1JJRXJXdHZMSFVqeklvRXNsSWpBc3Q2WWFQQmpUazdiUW9vdFhSZF9DMV9oYUttMWlYZ2RWRk5jWTlERFdGeVhoS085LVNFVGhodTZo?oc=5",
+     "source": "ASM Journals",
+     "sources": [
+      "ASM Journals",
+      "Hoodline",
+      "The Badger Herald",
+      "The Shillong Times",
+      "WBUR"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-24T03:11+05:30",
+     "score": 5.27,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "ASM Journals",
+       "title": "Identifying phage host receptors using TraDIS",
+       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wMHp2THRNM1JJRXJXdHZMSFVqeklvRXNsSWpBc3Q2WWFQQmpUazdiUW9vdFhSZF9DMV9oYUttMWlYZ2RWRk5jWTlERFdGeVhoS085LVNFVGhodTZo?oc=5",
+       "publishedAt": "2026-11-24T03:11+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-24T06:00+05:30",
    "generatedAt": "2026-11-24T06:33+05:30",
@@ -29635,178 +29811,6 @@
        "title": "‘Agar khilaaf hain hone do, kisi ke baap ka Hindustan thodi hai’: Diljit Dosanjh takes stage in Indore de",
        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQaUNPZk41Qloxdm9Sd2lqbi1NWVU5cm4zM0NOWTRjc1Y2YnZJZlZ1TkMyTkhzS01qRU4xUjIwYUFoQ2g4V2NfYWxrZHZzVjg4UlhKMWhsM0V2ckxpaVhDLWVldUk5eG1PeXZaQkkzMjFQY2EtODdmSDhqQUVDMzU2eFU5UXFuclZ4dk15aTlscGxDT01tdzdha3drLVI4VWxQUFRPXzRweXFIek5xejBVQVBIVWVsb1o3eDJaX3U2clI1b2hlMjZzeHJDYlZfSVM5QndnRGNOVnF6TndIYnNtNXpJZmh4ZzBmZVRaSTRrRWdTRlprOVppX0FVTTlqdUFZR1ZTRFB5bzFMUldIVUFFOG8td2Qya3FsOE80S2xicm1faGdrb2c?oc=5",
        "publishedAt": "2026-11-15T22:32+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-16T03:00+05:30",
-   "generatedAt": "2026-11-16T03:06+05:30",
-   "feeds": 16,
-   "headlines": 192,
-   "stories": [
-    {
-     "title": "Itllu Arjuna Box Office Collection Day 3",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "IMDb",
-      "NDTV Profit",
-      "Sacnilk",
-      "Telegraph India",
-      "The Economic Times",
-      "The Economist",
-      "The Hindu",
-      "The Indian Express",
-      "The News Minute",
-      "The Times of India",
-      "Tupaki English"
-     ],
-     "sourceCount": 11,
-     "publishedAt": "2026-11-16T01:32+05:30",
-     "score": 13.24,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Itllu Arjuna Box Office Collection Day 3",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
-       "publishedAt": "2026-11-16T01:32+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana Part 1 box office collection Day 10 Live Updates: Ranbir Kapoor’s film crosses Rs 1,228 cr globally; reaches Rs 75 cr mark in India on Sunday",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZjhEMjA4bnp2WFVaM05SbHZoYVR4Q2x1VzVnblJOVFIyWVNLYUt1Y3ptdlFtUkhBRTN5d25id1h6dGo3czhLeTBLaGJKbHRtUWZFenk4UXdTYmtRVVdZbzJ1LThfQ3lYZkhGNkRKTlR5MGhqa0FyaHBmVjl6MVYzNFRGOVczQ3ozSEVZcVBBeTZfdjNvRzhIcGZYYmVyYnluMmxoM1UxNC1SaTNoaW1ST3laenNQYVZVS0gxcFhwX3QxMFFVZFpxdEFrT0J6VmlLTWd0S3ZDUl8tc2hkLTNvVmZJeHlWejJLamdPR1Z2LTY4d9IB-AFBVV95cUxNQ0g4NVpmSU1wYzk2V1dQUkN6bGZGcVIxNWhGbmNSOFZGb3dPbWZZRlA3Z3NlRDM2Y09GVE9iQlA0UHVGT2ZxTlVwckoxMjZ6ejBFbUNVWGE2WnlfVUl3S012b202bjF4cXdXNVY1ZXZDMlliNXMySHBZeWxUZGM1bXBQMGpXcmpwUk5RblB5dWZZa2VUMldMSlpaNDV2Tk50QmdkY3l4R0JLdVlWa2swbTEySnF6RDFPaGZvQ3NPd3lSUjlPN1pGUXNxb2loWVJEMENxa3llY0s2c1E5bm1hMFJTWGJidWxGcWp2M3R6cndlQl9na3VibA?oc=5",
-       "publishedAt": "2026-11-15T22:23+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'They need dramatic shakeup': Bessent urges Nvidia to look outside firm for new CEO",
-     "link": "https://timesofindia.indiatimes.com/world/us/they-need-dramatic-shakeup-trump-aide-bessent-urges-nvidia-to-look-outside-company-for-new-ceo/articleshow/135861178.cms",
-     "source": "Times of India",
-     "sources": [
-      "Bloomberg.com",
-      "CNBC",
-      "Financial Times",
-      "Reuters",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T22:40+05:30",
-     "score": 7.76,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135861340,imgsize-60704.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'They need dramatic shakeup': Bessent urges Nvidia to look outside firm for new CEO",
-       "link": "https://timesofindia.indiatimes.com/world/us/they-need-dramatic-shakeup-trump-aide-bessent-urges-nvidia-to-look-outside-company-for-new-ceo/articleshow/135861178.cms",
-       "publishedAt": "2026-11-15T22:40+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Bessent says Nvidia must 'go outside the company' to find new CEO",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5",
-       "publishedAt": "2026-11-15T21:55+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Yash Thakur joins Sachin, Dhoni in unwanted list after ODI debut against NZ",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/yash-thakur-joins-sachin-tendulkar-ms-dhoni-in-unwanted-list-after-odi-debut-against-new-zealand/articleshow/135859364.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricinfo",
-      "ICC",
-      "Sportstar",
-      "Telegraph India",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T21:10+05:30",
-     "score": 7.51,
-     "summary": "Yash Thakur made his ODI debut against New Zealand but was dismissed for a duck on Sunday. He joined the list of 18 Indian players who have scored ducks in their debut matches. While India struggled with bat early on, they managed to secure a 22-run victory in the fifth ODI. The win allowed India to clinch the series 3-1 following New Zealand's consecutive home series victories.",
-     "image": "https://static.toiimg.com/photo/msid-135859374,imgsize-116682.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Yash Thakur joins Sachin, Dhoni in unwanted list after ODI debut against NZ",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/yash-thakur-joins-sachin-tendulkar-ms-dhoni-in-unwanted-list-after-odi-debut-against-new-zealand/articleshow/135859364.cms",
-       "publishedAt": "2026-11-15T21:10+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Yash Thakur joins Sachin Tendulkar, MS Dhoni in unwanted list after ODI debut against New Zealand",
-       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVXIzTjBjaXp1ek9kZkNtSmF4eTY1ZFRnR21IN2JERmtEMWo0ekJpNl8tNGJuQWp3dURXM1JlcW1wRXN2NGJFQ0RmRVFQdTFwcEsybm15bjZJWGowUHJYY3RNYlp1Nl96OWlkQjlJaVcyR2xaZnd4RlpiNmRXckdDMzhQSm4yc0lKUF9yc3pWa2VMcDJVR2lvZnM0SjBJOTQxSlkyMjVYNUZGUXV4THlZRy00MkVidXB6bHhqd2Q5Y01TeXZBay1JVFZjLWdxTHJ4eWMtamtMNHAzeWNncXlJbWxpd0FJMXNUTVdzamNRWE5jNmVOZlBYVEpOeHhoRVltVE9ZY0lmRnJwUHdVZ0sxc1Z0ZUNkNEVVa3V4dE1rcw?oc=5",
-       "publishedAt": "2026-11-15T21:10+05:30"
-      }
-     ]
-    },
-    {
-     "title": "5 Killed, 11 Injured As Car Collides With Truck In Punjab's Fazilka",
-     "link": "https://www.ndtv.com/india-news/5-killed-11-injured-as-car-collides-with-truck-in-punjabs-fazilka-12331045#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "ANI News",
-      "NDTV",
-      "The Hawk",
-      "The Times of India",
-      "The Tribune",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-15T23:59+05:30",
-     "score": 6.78,
-     "summary": "The accident occurred near Theh Kalandar while they were returning from a wedding ceremony.",
-     "image": "https://c.ndtvimg.com/2026-11/csf0b1vo_punjab_625x300_15_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "5 Killed, 11 Injured As Car Collides With Truck In Punjab's Fazilka",
-       "link": "https://www.ndtv.com/india-news/5-killed-11-injured-as-car-collides-with-truck-in-punjabs-fazilka-12331045#publisher=newsstand",
-       "publishedAt": "2026-11-15T23:59+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "5 killed, 11 injured as car collides with pickup in Punjab",
-       "link": "https://timesofindia.indiatimes.com/city/chandigarh/5-killed-11-injured-as-car-collides-with-pickup-in-punjab/articleshow/135861869.cms",
-       "publishedAt": "2026-11-15T23:01+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "5 killed, 11 injured as car collides with pickup in Punjab",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVUlUaGJQNDVUaXlGOUVmd3NQNjdpSlNYRURRUFhKT1FTdmdEeXlaejFfMWpKVlF0dDZpQWpOQzlGUEpEdDRlZTNuQld2VmVUVjVJX1p5WGJocDFNRHp4Mlh6UV9nSEpIV29jbU9WdWlILUJURWhXYWJfMmVMbmZQckNGMEl6MGVoZkFNVm54eVJNdGc3d2VYdjZtWW9yUU5OaHlSY2phR1dKS2xCN000cDhZaG1fTGRkVkpKSzBQLVh5UVY5amRHR2hwbXlrVXZV?oc=5",
-       "publishedAt": "2026-11-15T23:01+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Former Pakistan Army captain Rehman Gul takes charge as Baloch Liberation Army chief: Report | World News",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON3Z2a3FueGQ1WTZySnFhWmtzb2FDWlBfOG1ZOXVld0xJMDdTT0RFbzRvcjZXMHJPLTI0WlpvRm5vMHRQMWVlb3hLVm8yTFU0TGpXU1JaS3pwLU1UTmpJZmRld2tBRnlnVGNqUTlVcS1aY1Z5QkpqbE1hdXVUM0hlODktZUczN1E1cGtldzRmdmt5dkQtTllCb0ZjaUVJSmpLMkZnUFk5ZDBiZThJanY3c2dNRzN3LV9EWEkzOHQ2WXdYMmpJWHVkazk1d0pCM0htaUFhNFZodl8yRkp5Y1hZLUxlS1RLT1lpSnpjRWEtRdIB9AFBVV95cUxNVDBBb1BaN0xtazhzZEJMZEp0ZjliS1dmQ0tvRnBJSmVQNVJBdC1LUHpoVkZTYk9Hb3UyMzFVbjZXdV9QUVQ0TDgtaXY0ZkJuOHBzdEJEVENHN3RjTVUzN05QYm4zZ2ZCXzk5UDNaWlhoRExKcmRaQTJINTFGMVBwMWZiaWhUVWFWSEVtZWoydGdjRzAtV0g0Y0lnUktKMTI3NW96Z3hLbnpYbFJFT0hpbncyT0dMVXRnWm1iOXBoeV9QTmhpekJ3TXRPcUxyOHA1Y1BQbnRhX0hlSDcwal9ZZEVYN25mbDZlS0M2SU14Rm0xSGhh?oc=5",
-     "source": "Hindustan Times",
-     "sources": [
-      "Bhaskar English",
-      "Hindustan Times",
-      "India Today",
-      "Moneycontrol.com",
-      "PICSS"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-15T21:26+05:30",
-     "score": 6.56,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Former Pakistan Army captain Rehman Gul takes charge as Baloch Liberation Army chief: Report | World News",
-       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON3Z2a3FueGQ1WTZySnFhWmtzb2FDWlBfOG1ZOXVld0xJMDdTT0RFbzRvcjZXMHJPLTI0WlpvRm5vMHRQMWVlb3hLVm8yTFU0TGpXU1JaS3pwLU1UTmpJZmRld2tBRnlnVGNqUTlVcS1aY1Z5QkpqbE1hdXVUM0hlODktZUczN1E1cGtldzRmdmt5dkQtTllCb0ZjaUVJSmpLMkZnUFk5ZDBiZThJanY3c2dNRzN3LV9EWEkzOHQ2WXdYMmpJWHVkazk1d0pCM0htaUFhNFZodl8yRkp5Y1hZLUxlS1RLT1lpSnpjRWEtRdIB9AFBVV95cUxNVDBBb1BaN0xtazhzZEJMZEp0ZjliS1dmQ0tvRnBJSmVQNVJBdC1LUHpoVkZTYk9Hb3UyMzFVbjZXdV9QUVQ0TDgtaXY0ZkJuOHBzdEJEVENHN3RjTVUzN05QYm4zZ2ZCXzk5UDNaWlhoRExKcmRaQTJINTFGMVBwMWZiaWhUVWFWSEVtZWoydGdjRzAtV0g0Y0lnUktKMTI3NW96Z3hLbnpYbFJFT0hpbncyT0dMVXRnWm1iOXBoeV9QTmhpekJ3TXRPcUxyOHA1Y1BQbnRhX0hlSDcwal9ZZEVYN25mbDZlS0M2SU14Rm0xSGhh?oc=5",
-       "publishedAt": "2026-11-15T21:26+05:30"
       }
      ]
     }
