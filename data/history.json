@@ -1,6 +1,212 @@
 {
- "updated": "2026-11-24T10:33+05:30",
+ "updated": "2026-11-24T11:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-24T11:00+05:30",
+   "generatedAt": "2026-11-24T11:30+05:30",
+   "feeds": 17,
+   "headlines": 324,
+   "stories": [
+    {
+     "title": "India news Live Updates, 24 November 2026: Over 5,600 cops guard Thirupparankundram hill in Madurai ahead of Deepathoon lamp lighting",
+     "link": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-24-november-2026-thirupparankundram-security-deepathoon-delhi-road-sweeping-machines-delay-10975898/",
+     "source": "The Indian Express",
+     "sources": [
+      "Business Today",
+      "ETV Bharat",
+      "Hindustan Times",
+      "India Today",
+      "Odisha TV",
+      "OrissaPOST",
+      "The Economic Times",
+      "The Indian Express",
+      "The Times of India",
+      "Vogue India"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-24T09:52+05:30",
+     "score": 10.91,
+     "summary": "Viduthalai Chiruthaigal Katchi (VCK) chief Thol. Thirumavalavan confirmed that police denied the party permission to hold a procession in the area on Tuesday.",
+     "image": "https://images.indianexpress.com/2026/11/Photo-2026-11-24T093508.287.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "India news Live Updates, 24 November 2026: Over 5,600 cops guard Thirupparankundram hill in Madurai ahead of Deepathoon lamp lighting",
+       "link": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-24-november-2026-thirupparankundram-security-deepathoon-delhi-road-sweeping-machines-delay-10975898/",
+       "publishedAt": "2026-11-24T09:52+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Security tightened at Madurai hill ahead of ceremonial lamp lighting ritual",
+       "link": "https://www.hindustantimes.com/india-news/security-tightened-at-madurai-hill-ahead-of-lamp-lighting-festival-deepathoon-arulmigu-subramaniya-swamy-temple-101795489224621.html",
+       "publishedAt": "2026-11-24T08:42+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Gemini Horoscope Today: November 24, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fMkdWb09CbENaN3VBWEVndUN2SlNVOTdpcU5sV2ZGVF9kN3BBV0FXV3NaUXlIbzR4aEVpNHR6WmlPc25xdnM4WExPMUcteXVxRElQcEtQNjZUX3o0Z19FMnQ5ZTl1SU1XMDRvVENBbUphTDFNR3B3?oc=5",
+       "publishedAt": "2026-11-24T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pakistan jolted by 4.1 magnitude earthquake",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-jolted-by-4-1-magnitude-earthquake/articleshow/136120541.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "Mint",
+      "NDTV",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-24T11:01+05:30",
+     "score": 9.11,
+     "summary": "As HT reported earlier, jolts were also felt in various parts of Bihar, including Purnea, Katihar, Araria, Kishanganj, Saharsa, Madhepura, Supaul, etc.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/Reuters_Seismograph_2020-07-23T180035Z_1740852222__1795495921352_oDgV_1795495921617_aor8_40075906-dcb4-4804-8325-bee41c14a3fe_5Lbq.jpg",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Pakistan jolted by 4.1 magnitude earthquake",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-jolted-by-4-1-magnitude-earthquake/articleshow/136120541.cms",
+       "publishedAt": "2026-11-24T11:01+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Tremors felt in North Bengal, Sikkim as 5.3 magnitude earthquake jolts Nepal",
+       "link": "https://www.hindustantimes.com/india-news/tremors-felt-in-north-bengal-sikkim-as-5-3-magnitude-earthquake-jolts-nepal-101795495156370.html",
+       "publishedAt": "2026-11-24T10:27+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "5.3 Magnitude Earthquake Hits Nepal, Tremors Felt Across India, Bhutan, China",
+       "link": "https://www.ndtv.com/world-news/5-3-magnitude-earthquake-hits-nepal-tremors-felt-across-india-bhutan-china-12368620#publisher=newsstand",
+       "publishedAt": "2026-11-24T08:36+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Earthquake of magnitude 5.3 strikes Nepal's Koshi province, tremors felt in parts of India",
+       "link": "https://www.livemint.com/news/world/earthquake-magnitude-5-3-strikes-nepal-koshi-tremors-felt-in-india-bihar-sikkim-latest-news-11795485690333.html",
+       "publishedAt": "2026-11-24T07:37+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "5.3 magnitude earthquake jolts Nepal; tremors felt across parts of eastern India",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc0t3al9wdmFRSG9IQm1ZR1otcThFa29XczV5aXM5T0dFYkp3aG5RY0l3QmZJQVh1TUdZa0lrZ1kxM3ZfUzZaNllDWEVvYmVXYmx3MXV1akVEcmJFQ0JBZFM1V3BFNUZJa2FoT0Y5QWpYWW56RnNlX0NjU2VNTE1QX29udHdQelREZTdZOHVrSnlieXg5eHZ5YnBPWmQ0dHE3Q2JXQm1sbmswbmtxNXlpVzFnUmxHajU3MnZaUVYxZzllS2JGSHlqU2JSa3ZhZw?oc=5",
+       "publishedAt": "2026-11-24T07:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sheikh Hasina seeks to return to Bangladesh on Victory Day, asks for Biman flight from Delhi",
+     "link": "https://www.livemint.com/news/world/sheikh-hasina-seeks-to-return-to-bangladesh-on-victory-day-asks-for-biman-flight-from-delhi-11795495923829.html",
+     "source": "Mint",
+     "sources": [
+      "Mint",
+      "NDTV",
+      "Reuters",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-24T10:46+05:30",
+     "score": 8.38,
+     "summary": "Ousted Prime Minister Sheikh Hasina has reportedly urged the Bangladeshi government to arrange her return on the flag carrier, Biman Bangladesh Airlines.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/Hasina_1795495982847_glE4_1795495982985_1P65_490e3859-da57-458c-a73e-5bd118293c1b_MtF5.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Sheikh Hasina seeks to return to Bangladesh on Victory Day, asks for Biman flight from Delhi",
+       "link": "https://www.livemint.com/news/world/sheikh-hasina-seeks-to-return-to-bangladesh-on-victory-day-asks-for-biman-flight-from-delhi-11795495923829.html",
+       "publishedAt": "2026-11-24T10:46+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Sheikh Hasina To Return To Bangladesh On December 16 After 2 Years In India",
+       "link": "https://www.ndtv.com/world-news/sheikh-hasina-to-return-to-bangladesh-on-december-16-after-2-years-report-12368756#publisher=newsstand",
+       "publishedAt": "2026-11-24T09:21+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Sheikh Hasina requests Dec 16 return, picks Bangladesh Victory Day for comeback",
+       "link": "https://timesofindia.indiatimes.com/world/south-asia/sheikh-hasina-requests-december-16-return-picks-bangladesh-victory-day-for-comeback/articleshow/136118389.cms",
+       "publishedAt": "2026-11-24T09:11+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5",
+       "publishedAt": "2026-11-24T08:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock market holiday today: Are BSE, NSE closed on November 24 for Guru Nanak Jayanti",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-are-bse-nse-closed-on-november-24-for-guru-nanak-jayanti/articleshow/136118430.cms",
+     "source": "Times of India",
+     "sources": [
+      "Business Standard",
+      "Jagran Josh",
+      "Livemint",
+      "NDTV",
+      "The Times of India",
+      "Times of India",
+      "Upstox"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-24T09:09+05:30",
+     "score": 8.36,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136118551,imgsize-144835.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Stock market holiday today: Are BSE, NSE closed on November 24 for Guru Nanak Jayanti",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-are-bse-nse-closed-on-november-24-for-guru-nanak-jayanti/articleshow/136118430.cms",
+       "publishedAt": "2026-11-24T09:09+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too?",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQmlMUlRkZDVudkRmMF9SQ016dE1Vb1dVQnBEc3RvUHpxaGgtZUUwTXZwd3NFbUxYMjZwZWVsQkdTd3VpOFN5NFRaMFc1Z3Z6WDZGeFJTNFVrRUpaR1JTeVNKVHpRVmFJT29HUGdRU3NZX29tVUZ0MWZueE1NN056QTVHaE5Obk9WbnA4UHBtLUJuMlZkemNoRnM1NWFwUHRONlh4MHhxa05OenhaSmxnR09sSmM0dnNaSEtqdk9TTlhGSGxLR1dTNnZVc3lyVWw0aEpUWlA3VkFYd9IB4gFBVV95cUxQdkZUcTRIc3oyRTRJd05wNEFTelhHQ05US1RXMzIydERjX1VPNi1HV0FjRXZoSEdkVTZsbnpRRHFOX0xvQ2hfOXJPSXJCM21wNVdranVpcmtWQmFESmx1QjNLMUxLc3ZOYUQ1M1NJQkVldTY5UElYaWpCOE9QTC1NNG8xU3h6bl9NYUNtYUt5WTVoSEdyOEVTSXFWa3Z1c3JzWEdsVzN4MjNQVmNvRUN2MmVBd3otajMxa0cxMURxQ2o1UUw5WEdaSnIxMm0teUNHWVdYVFNHN2NTVnhtbnVwRjBn?oc=5",
+       "publishedAt": "2026-11-24T06:49+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkxXYjZDcEV1OENMUFpwT2VQdFhnLXk0WlI5eEk3U3BuU0FjU2IzLVhOMHF3VjN4Rll3TlBMaEw2STl4OF94TFU4R1hZSEpiejBVaDJhRktPakRucm9CZEZ6ZHhJRVhuTmU5TVpSYW80MUtSRFlSczlacV9PM2dqWDliSHRWWTJNVkFoVkhzS0zSAZYBQVVfeXFMTUFuX0ZxSkliTGxLNm4zV3BWTFk2M0QyaTc0elRtOFhzdm5FVTlBeTNIQlh2TUU2UW1sOG5MNDhrQnp3UllfaUFSa0xSUk1SQmRmUEFHNUI2ajVEQWFXR2tidW41ZlJkNGtMb0FZcy10dFpOUEFrUzV6TGQyN19DQzc4YVpZYlpkSE05d3N4UzZmN0c5NTNR?oc=5",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Ministry of External Affairs",
+      "NarendraModi.in",
+      "PM India",
+      "Telegraph India",
+      "The New Indian Express"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T07:20+05:30",
+     "score": 7.8,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkxXYjZDcEV1OENMUFpwT2VQdFhnLXk0WlI5eEk3U3BuU0FjU2IzLVhOMHF3VjN4Rll3TlBMaEw2STl4OF94TFU4R1hZSEpiejBVaDJhRktPakRucm9CZEZ6ZHhJRVhuTmU5TVpSYW80MUtSRFlSczlacV9PM2dqWDliSHRWWTJNVkFoVkhzS0zSAZYBQVVfeXFMTUFuX0ZxSkliTGxLNm4zV3BWTFk2M0QyaTc0elRtOFhzdm5FVTlBeTNIQlh2TUU2UW1sOG5MNDhrQnp3UllfaUFSa0xSUk1SQmRmUEFHNUI2ajVEQWFXR2tidW41ZlJkNGtMb0FZcy10dFpOUEFrUzV6TGQyN19DQzc4YVpZYlpkSE05d3N4UzZmN0c5NTNR?oc=5",
+       "publishedAt": "2026-11-24T07:20+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-24T10:00+05:30",
    "generatedAt": "2026-11-24T10:33+05:30",
@@ -29727,148 +29933,6 @@
        "title": "RBI may raise interest rates to 6.25%, but this time the pain could be greater for India",
        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLWJYVE4xNzJQbTFpTXNUYXpkT2VpM0Ffc3BGM09KUF95RDVQbFZ0NU5YTXdTeUJ3dlc2MUozaGZBNjNnb3FVeEVjY25Gamoxb0I1MVF1U1E1eGxaZ2JsaGNUUHhuZFVaNGFfdVdMQVFDZ2xMZ1JzZWx0NTQ3N0xhRFRMeDlmRHBYekxWelNLZXVhdTN1YnAzQzNsOUpwUmppS3JtYm9kZU5BVk9WYUU3TUJfQ1p0M3BuRk0zLTZzZVFic2hKSGw4YXhldUZ4N2tvUzh0YnQ4N2VHUHM?oc=5",
        "publishedAt": "2026-11-16T07:29+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-16T06:00+05:30",
-   "generatedAt": "2026-11-16T06:47+05:30",
-   "feeds": 16,
-   "headlines": 85,
-   "stories": [
-    {
-     "title": "Those using Form 6 to re-enroll won't be prosecuted: EC to SC",
-     "link": "https://timesofindia.indiatimes.com/india/those-using-form-6-to-re-enroll-wont-be-prosecuted-ec-to-sc/articleshow/135867900.cms",
-     "source": "Times of India",
-     "sources": [
-      "Telegraph India",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "TheWire.in",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-16T04:12+05:30",
-     "score": 8.07,
-     "summary": "The Election Commission has committed to include every eligible citizen in the electoral rolls during the current process. No legal action will be taken against individuals for re-registering to vote through Form 6. Voters are advised to ensure their names are not listed in other constituencies before applying. Additionally, those previously removed erroneously can submit fresh forms for their names to be reinstated.",
-     "image": "https://static.toiimg.com/photo/msid-135867915,imgsize-240300.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Those using Form 6 to re-enroll won't be prosecuted: EC to SC",
-       "link": "https://timesofindia.indiatimes.com/india/those-using-form-6-to-re-enroll-wont-be-prosecuted-ec-to-sc/articleshow/135867900.cms",
-       "publishedAt": "2026-11-16T04:12+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Those using Form 6 to re-enroll won't be prosecuted: EC to SC",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmtBVGlJWl9pSWk3WF91ZGNoUTJXbU9KUzdQa2xCLWFYbndJdTlKbW5YOEdHOWdhUnNUYTJ2ZUNfbnFpQ1lmLWZlNVE3VjlFMk1rdjZhMXAtOGhBdHJ6R0lNZ29WUlFNcWlKc01UZHR6UXM3TzN6X0JFZURIMzVIUEl0bDRpaWhTNlVIckNTUHF3R2o5cWdCckFqLUdTVzEtWmp5Vnp5QVA5WElNRDNPOGh6dS1tY3lEQV9wNTFjTlBVTTVuclE?oc=5",
-       "publishedAt": "2026-11-16T04:12+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Itllu Arjuna Box Office Collection Day 3",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "IMDb",
-      "NDTV Profit",
-      "Sacnilk",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "Tupaki English"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-16T01:32+05:30",
-     "score": 7.19,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Itllu Arjuna Box Office Collection Day 3",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
-       "publishedAt": "2026-11-16T01:32+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
-     "source": "WSJ",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "CNN",
-      "The Guardian",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T05:55+05:30",
-     "score": 6.23,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "WSJ",
-       "title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
-       "publishedAt": "2026-11-16T05:55+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFBHRGhFVUVMRGtZTjJ0dXRaZE9JLWY0cEVhMUhMdDRmNzczeVpEaTFKVjVJMjR6RjlidUc1SGJNcWYtNjF2c0M3SE1HY1ZSc1NzeWR5VDRpdUJ4dHBYb2xWSEZKdXdUakdudjRGWC1TYWFTWlE0UW1NQ3JqY1FjOGNvMmlCZlFISGx0Vmg0cWhWYjIwTF9VMFdNSWF0cWV1UWswZS1HWERVVFFoUE5qYVBYNUpIazN5TGtQeG5zbWVMMktUcUZyWXNR?oc=5",
-     "source": "Bloomberg.com",
-     "sources": [
-      "Bloomberg.com",
-      "Forbes",
-      "PhoneArena",
-      "The Mac Observer",
-      "The Verge"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T06:17+05:30",
-     "score": 6.13,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Bloomberg.com",
-       "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFBHRGhFVUVMRGtZTjJ0dXRaZE9JLWY0cEVhMUhMdDRmNzczeVpEaTFKVjVJMjR6RjlidUc1SGJNcWYtNjF2c0M3SE1HY1ZSc1NzeWR5VDRpdUJ4dHBYb2xWSEZKdXdUakdudjRGWC1TYWFTWlE0UW1NQ3JqY1FjOGNvMmlCZlFISGx0Vmg0cWhWYjIwTF9VMFdNSWF0cWV1UWswZS1HWERVVFFoUE5qYVBYNUpIazN5TGtQeG5zbWVMMktUcUZyWXNR?oc=5",
-       "publishedAt": "2026-11-16T06:17+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUwwOU9GSGNFQi1LQUVnamwzUmNsdGU3SlIzSHVZTVRCQ3phT1NOdWRoZmxGaElGRkRsd0wzb1NPMWZWN21qLTZVcVVKaE90TXJjeUVmb0p6YTF2aE5qeVBteWxaQ3pnbVlWU29nbWh5UlcwNk5Oa09CVGhmRG9vV25fX0xMUmhwbm1FbHQxM19Yb05uRWV5dVo4WDlqdW4xdm9XeC1zTVpjSDZnVWVnZU5MRHFvekVJWkplQUtqQlJSeEZsN2dFTlZYbVhpeVhVMlRYa0s3aw?oc=5",
-     "source": "90.5 WESA",
-     "sources": [
-      "90.5 WESA",
-      "NASA (.gov)",
-      "Phys.org",
-      "Reuters",
-      "www.theweek.in"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T04:11+05:30",
-     "score": 5.61,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "90.5 WESA",
-       "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUwwOU9GSGNFQi1LQUVnamwzUmNsdGU3SlIzSHVZTVRCQ3phT1NOdWRoZmxGaElGRkRsd0wzb1NPMWZWN21qLTZVcVVKaE90TXJjeUVmb0p6YTF2aE5qeVBteWxaQ3pnbVlWU29nbWh5UlcwNk5Oa09CVGhmRG9vV25fX0xMUmhwbm1FbHQxM19Yb05uRWV5dVo4WDlqdW4xdm9XeC1zTVpjSDZnVWVnZU5MRHFvekVJWkplQUtqQlJSeEZsN2dFTlZYbVhpeVhVMlRYa0s3aw?oc=5",
-       "publishedAt": "2026-11-16T04:11+05:30"
       }
      ]
     }
