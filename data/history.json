@@ -1,6 +1,152 @@
 {
- "updated": "2026-11-25T04:26+05:30",
+ "updated": "2026-11-25T05:19+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T05:00+05:30",
+   "generatedAt": "2026-11-25T05:19+05:30",
+   "feeds": 16,
+   "headlines": 189,
+   "stories": [
+    {
+     "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
+     "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+     "source": "The Guardian",
+     "sources": [
+      "Chess News | ChessBase",
+      "Chess.com",
+      "ChessBase India",
+      "ESPN India",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T02:50+05:30",
+     "score": 7.34,
+     "summary": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in modern chess. The Berlin famously helped…",
+     "image": "https://i.guim.co.uk/img/media/ff74655d2b2693af717a530bd7a81126acee9c9d/514_0_6633_5307/master/6633.jpg?width=140&quality=85&auto=format&fit=max&s=7f4b9a09b4ff8b14dd673ecb2af4a689",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
+       "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+       "publishedAt": "2026-11-25T01:34+05:30"
+      },
+      {
+       "source": "Chess.com",
+       "title": "Gukesh Survives Pressure To Hold Sindarov To Draw In World Championship Game 1",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JNFZPLTctTkQ4Qk1abDI4UHR6QlNuT1hnR3pmWDRINGx1UTkxRjRvb2lNcHg3RTA4SUFrODdhRnJ0Z0VyWEY3LVpiNldaQ3p2bkxrYnlzb3VlU05OQ0IzelFHRzhLQWoxUi1mUEM2ZF9JRmx2LV9aaVZEOWs4Zw?oc=5",
+       "publishedAt": "2026-11-25T02:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Black Friday Streaming Deals Offered By Disney+, HBO Max, Paramount+, Peacock & More",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWcyUjFNNndhcWF0ZzF4VzBkMnkyc05aOEZNdHlORWFZVXFkVURCakJ3dWx2UF9SaVh6WmFvRVlfa1dZMFpKdkd4Yk8zUmdob1RIZDBNTlJmdnNISEV2WlU0aUhGSDhEaHNUN2NwN2dNTTBqb1FzMUI2UzBaUk52N2RpU2w3NUhPSlNVaTJ1U3RYdVRJN2pQQzU2RnBoYTRGd1BnYg?oc=5",
+     "source": "Deadline",
+     "sources": [
+      "Deadline",
+      "Louder",
+      "Mashable",
+      "The Verge",
+      "Yahoo"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T03:19+05:30",
+     "score": 7.17,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Deadline",
+       "title": "Black Friday Streaming Deals Offered By Disney+, HBO Max, Paramount+, Peacock & More",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWcyUjFNNndhcWF0ZzF4VzBkMnkyc05aOEZNdHlORWFZVXFkVURCakJ3dWx2UF9SaVh6WmFvRVlfa1dZMFpKdkd4Yk8zUmdob1RIZDBNTlJmdnNISEV2WlU0aUhGSDhEaHNUN2NwN2dNTTBqb1FzMUI2UzBaUk52N2RpU2w3NUhPSlNVaTJ1U3RYdVRJN2pQQzU2RnBoYTRGd1BnYg?oc=5",
+       "publishedAt": "2026-11-25T03:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sooryavanshi, 15, blasts 204 off 53 balls for India A",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekZyYkNiWlh4RzFIOW9BRkFJaHdTSzhxcERlbmlkZS1NSzdqS3R6WmwxWEJzd21adkE4MEJKMTA5aG0zUVZUT1NxNmdXX2NqR2p4SHV1emRMYXdyaHI5ekYyTFlWelZyb1B4M2hGQkZtUUh5VGVJRWRrU1pCRnRjYTNiM213MTAzQVhWeVFhNERSZnQtc0dEUVNMTGg?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Reuters",
+      "Telegraph India"
+     ],
+     "sourceCount": 4,
+     "publishedAt": "2026-11-25T04:41+05:30",
+     "score": 6.4,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Sooryavanshi, 15, blasts 204 off 53 balls for India A",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekZyYkNiWlh4RzFIOW9BRkFJaHdTSzhxcERlbmlkZS1NSzdqS3R6WmwxWEJzd21adkE4MEJKMTA5aG0zUVZUT1NxNmdXX2NqR2p4SHV1emRMYXdyaHI5ekYyTFlWelZyb1B4M2hGQkZtUUh5VGVJRWRrU1pCRnRjYTNiM213MTAzQVhWeVFhNERSZnQtc0dEUVNMTGg?oc=5",
+       "publishedAt": "2026-11-25T04:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+     "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T23:37+05:30",
+     "score": 6.35,
+     "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+       "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-24T23:37+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Saurav Das CJP: Indian government has 'lost the plot' says 'cockroach' party leader after being barred from UK flight",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VNUtERkNONUJCS0FzdTgzcW1QQlJzX0lLQ0tqaEpOLTZ0WnRUaEl6TE9zQ2JKLWdjc2VtRjBnUWJtOG9QdmsyZ3hJcXRYMnNETVphVE9JWFB0bEk?oc=5",
+       "publishedAt": "2026-11-24T23:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia's Huang said he violated code of conduct, source says",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOREIyb09ET2cwa3ZHekpYQnpBWFo5YlBseEduVVpKTUJsM3UzWXhCVHk2SFlNempwczc3NFpjWWtsLTBuQzkwX01DSWowcUFhaVVxOVZrNEh1YXJLcHJwenRhc3VyQWVkSW1zRll3NXRKTWhlTnhwZ1Y3RXhaNl9wakY0OGNid0x4RkdjNThHSGZMdVVVYTgxV2xZZDR5NVZzNXk3RXczTU1RUThya1JrRFV5Wnp3a3V3bzVDaWljbnlWN20t?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "CNBC",
+      "NVIDIA Newsroom",
+      "Reuters",
+      "The Guardian",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T03:48+05:30",
+     "score": 6.0,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Nvidia's Huang said he violated code of conduct, source says",
+       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOREIyb09ET2cwa3ZHekpYQnpBWFo5YlBseEduVVpKTUJsM3UzWXhCVHk2SFlNempwczc3NFpjWWtsLTBuQzkwX01DSWowcUFhaVVxOVZrNEh1YXJLcHJwenRhc3VyQWVkSW1zRll3NXRKTWhlTnhwZ1Y3RXhaNl9wakY0OGNid0x4RkdjNThHSGZMdVVVYTgxV2xZZDR5NVZzNXk3RXczTU1RUThya1JrRFV5Wnp3a3V3bzVDaWljbnlWN20t?oc=5",
+       "publishedAt": "2026-11-25T03:48+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T04:00+05:30",
    "generatedAt": "2026-11-25T04:26+05:30",
@@ -29859,146 +30005,6 @@
        "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
        "publishedAt": "2026-11-17T02:14+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T04:00+05:30",
-   "generatedAt": "2026-11-17T04:15+05:30",
-   "feeds": 12,
-   "headlines": 177,
-   "stories": [
-    {
-     "title": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "Rediff",
-      "Telegraph India",
-      "The Hindu",
-      "The News Minute",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T02:35+05:30",
-     "score": 8.22,
-     "summary": "Andhra fishermen, still awaiting compensation for Cyclone Arnab’s losses, are told to stay ashore till November 20",
-     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/4dag1z/article71707041.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%2012.15.06%20PM.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
-       "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
-       "publishedAt": "2026-11-16T22:34+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "LIVE: Cyclone Akvan to develop into severe storm by November 17 evening; heavy rain to batter Andhra, Tamil Nadu, Bengal",
-       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjI?oc=5",
-       "publishedAt": "2026-11-17T02:35+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Threat actor use of AI becoming routine, warns Google",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzAxcmw3ZTFnemoxX2Zkb0R4XzhkY25YR19fNDVGZzlQSzJWdVlxSmlnWjdjbTNNVGQ5ZkFwbEp0OG5QVmpjX3VBZDBRTm5NVE90enZfcGE2U1g0MExQTHM3UmFUSXVWeW5TTlJaSEZUOU1fdGsxWkt6YWtxbDlRVGxtSUk2T3J5MURRd0prcnQ5NXFDWm9mUHdlWTFJdTQ?oc=5",
-     "source": "Computer Weekly",
-     "sources": [
-      "Computer Weekly",
-      "Google Cloud",
-      "The Hacker News",
-      "The Next Web",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T02:30+05:30",
-     "score": 5.85,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Computer Weekly",
-       "title": "Threat actor use of AI becoming routine, warns Google",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzAxcmw3ZTFnemoxX2Zkb0R4XzhkY25YR19fNDVGZzlQSzJWdVlxSmlnWjdjbTNNVGQ5ZkFwbEp0OG5QVmpjX3VBZDBRTm5NVE90enZfcGE2U1g0MExQTHM3UmFUSXVWeW5TTlJaSEZUOU1fdGsxWkt6YWtxbDlRVGxtSUk2T3J5MURRd0prcnQ5NXFDWm9mUHdlWTFJdTQ?oc=5",
-       "publishedAt": "2026-11-17T02:30+05:30"
-      }
-     ]
-    },
-    {
-     "title": "US set to lose measles-free certification",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KUzBfU0tPSFd4emx0bHI1MThnYkItbktrcl8xMmt3bklNcXUxSVhVOWNaSFpJUEdyT2pOT0swcFRRU3hLQmFRUlpmdUtPa2pGQXp1MjlDNzg5Wm9adUhvSndWZVBZdUNyX3RuVkRJNy1WM0w5OF9VMWl3?oc=5",
-     "source": "Medical Xpress",
-     "sources": [
-      "CNN",
-      "Medical Xpress",
-      "Reuters",
-      "The New York Times",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T02:50+05:30",
-     "score": 5.8,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Medical Xpress",
-       "title": "US set to lose measles-free certification",
-       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KUzBfU0tPSFd4emx0bHI1MThnYkItbktrcl8xMmt3bklNcXUxSVhVOWNaSFpJUEdyT2pOT0swcFRRU3hLQmFRUlpmdUtPa2pGQXp1MjlDNzg5Wm9adUhvSndWZVBZdUNyX3RuVkRJNy1WM0w5OF9VMWl3?oc=5",
-       "publishedAt": "2026-11-17T02:50+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Jay Shah re-elected unopposed as ICC chair after board clears way for bigger IPL",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnJGaVpNaVN5cUJQMV9RTTMtdjdyTEVGTF9wdVlTSEs0YWFSc1poZDA3ekFLbHhpV3FadmtmUUFJcTU5c2hlaks5N0QyWF9fUkY0WkNBczBMWUZrMVI1eTM1Y2lTWHFjOFFxMjhrcmxqZlBJNVQ2N2NWQU81TmVLYUFYV1g5b1dHZnlR?oc=5",
-     "source": "The Guardian",
-     "sources": [
-      "BCCI",
-      "Cricbuzz",
-      "ESPN",
-      "ICC",
-      "The Guardian"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T23:49+05:30",
-     "score": 5.51,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Jay Shah re-elected unopposed as ICC chair after board clears way for bigger IPL",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnJGaVpNaVN5cUJQMV9RTTMtdjdyTEVGTF9wdVlTSEs0YWFSc1poZDA3ekFLbHhpV3FadmtmUUFJcTU5c2hlaks5N0QyWF9fUkY0WkNBczBMWUZrMVI1eTM1Y2lTWHFjOFFxMjhrcmxqZlBJNVQ2N2NWQU81TmVLYUFYV1g5b1dHZnlR?oc=5",
-       "publishedAt": "2026-11-16T23:49+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Oppo Reno17 launched with 8,000 mAh battery, Snapdragon chipset, and four 50 MP cameras",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXhPUWdMZG8zRElKTHVWbTFzNkJYZGZJeFk2cHlUNFhMYTdpZW1VX1F2cjh2ckNlMnNvUmNFX1puZmVseFBjQkhUTzlnZGE3MWlQS0JsdmdzQVl0bjF5NkVWeExpb25Idms0dXRnTURxNVZWQXNmZWsxaURaNkV2VHAyQWdzNHg3LXdtMXpRZ3lVZEdKTS1oYkd3THpaSG96SjFCTHY4R05SYnRfRzlQV1lQckxPaFp1dGdKb3BDYmtyemhJUDJsb2dB?oc=5",
-     "source": "Notebookcheck",
-     "sources": [
-      "91Mobiles",
-      "FoneArena.com",
-      "GSMArena.com",
-      "India Today",
-      "Notebookcheck"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T23:02+05:30",
-     "score": 5.5,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Notebookcheck",
-       "title": "Oppo Reno17 launched with 8,000 mAh battery, Snapdragon chipset, and four 50 MP cameras",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXhPUWdMZG8zRElKTHVWbTFzNkJYZGZJeFk2cHlUNFhMYTdpZW1VX1F2cjh2ckNlMnNvUmNFX1puZmVseFBjQkhUTzlnZGE3MWlQS0JsdmdzQVl0bjF5NkVWeExpb25Idms0dXRnTURxNVZWQXNmZWsxaURaNkV2VHAyQWdzNHg3LXdtMXpRZ3lVZEdKTS1oYkd3THpaSG96SjFCTHY4R05SYnRfRzlQV1lQckxPaFp1dGdKb3BDYmtyemhJUDJsb2dB?oc=5",
-       "publishedAt": "2026-11-16T23:02+05:30"
       }
      ]
     }
