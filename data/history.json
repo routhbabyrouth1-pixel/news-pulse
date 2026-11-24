@@ -1,6 +1,176 @@
 {
- "updated": "2026-11-25T00:27+05:30",
+ "updated": "2026-11-25T01:30+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T01:00+05:30",
+   "generatedAt": "2026-11-25T01:30+05:30",
+   "feeds": 17,
+   "headlines": 291,
+   "stories": [
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 5",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2s4LUxNNWxNVmF5clFXMEh0QWhfaDFkbG9sbVN2bFlETDVsb0FXRUNRTEtEcnRpTFpHb3FvMmc0cXFmejdDazFLcFRwQS1TTjEyeDhoV1RCbEthd1pEamo2SHpvcEhUUndWVjJCMENTOXRXbkZqbXU0UDY2Mkh0Y2lIQk4xMGxyNkNfRFVB?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Pinkvilla",
+      "Sacnilk",
+      "THE WEEK",
+      "Telugu360",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-25T00:43+05:30",
+     "score": 8.92,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 5",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2s4LUxNNWxNVmF5clFXMEh0QWhfaDFkbG9sbVN2bFlETDVsb0FXRUNRTEtEcnRpTFpHb3FvMmc0cXFmejdDazFLcFRwQS1TTjEyeDhoV1RCbEthd1pEamo2SHpvcEhUUndWVjJCMENTOXRXbkZqbXU0UDY2Mkh0Y2lIQk4xMGxyNkNfRFVB?oc=5",
+       "publishedAt": "2026-11-25T00:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
+     "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+     "source": "The Guardian",
+     "sources": [
+      "Chess.com",
+      "ChessBase India",
+      "ESPN India",
+      "Telegraph India",
+      "The Guardian",
+      "The Hindu",
+      "The Indian Express"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T00:43+05:30",
+     "score": 8.62,
+     "summary": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in…",
+     "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
+       "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+       "publishedAt": "2026-11-25T00:43+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Gukesh battles Sindarov, clock in Game 1 before escaping with a draw",
+       "link": "https://indianexpress.com/article/sports/chess/gukesh-sindarov-game-1-draw-world-championship-2026-10977132/",
+       "publishedAt": "2026-11-25T00:30+05:30"
+      },
+      {
+       "source": "Chess.com",
+       "title": "How To Watch FIDE World Championship 2026 Game 1",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JNFZPLTctTkQ4Qk1abDI4UHR6QlNuT1hnR3pmWDRINGx1UTkxRjRvb2lNcHg3RTA4SUFrODdhRnJ0Z0VyWEY3LVpiNldaQ3p2bkxrYnlzb3VlU05OQ0IzelFHRzhLQWoxUi1mUEM2ZF9JRmx2LV9aaVZEOWs4Zw?oc=5",
+       "publishedAt": "2026-11-24T22:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Indians among 13 killed in UAE bus-truck crash, 14 injured",
+     "link": "https://timesofindia.indiatimes.com/india/indians-among-13-killed-in-uae-bus-truck-crash-14-injured/articleshow/136136806.cms",
+     "source": "Times of India",
+     "sources": [
+      "Gulf News",
+      "Hindustan Times",
+      "NDTV",
+      "Reuters",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-24T22:03+05:30",
+     "score": 7.58,
+     "summary": "In a heartbreaking incident in Ras Al Khaimah, thirteen lives were tragically lost, including several Indian nationals, as confirmed by the Indian consulate in Dubai. A bus with 41 passengers collided with a parked truck, resulting in this devastating accident. Emergency teams quickly responded, transporting the injured to local hospitals for care. The consulate has established a helpline for those seeking further…",
+     "image": "https://static.toiimg.com/photo/msid-136136922,imgsize-61557.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Indians among 13 killed in UAE bus-truck crash, 14 injured",
+       "link": "https://timesofindia.indiatimes.com/india/indians-among-13-killed-in-uae-bus-truck-crash-14-injured/articleshow/136136806.cms",
+       "publishedAt": "2026-11-24T22:03+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Indians among 13 killed in UAE’s Ras Al Khaimah bus-truck collision",
+       "link": "https://indianexpress.com/article/india/indians-killed-uae-ras-al-khaimah-bus-truck-collision-10976934/",
+       "publishedAt": "2026-11-24T21:17+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Indians among 13 killed in UAE bus-truck accident; Indian consulate assures all possible assistance",
+       "link": "https://www.hindustantimes.com/india-news/indians-among-13-killed-in-uae-accident-indian-consulate-assures-all-possible-assistance-101795534235905.html",
+       "publishedAt": "2026-11-24T21:01+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Indians Among 13 Killed In Bus-Truck Collision In UAE",
+       "link": "https://www.ndtv.com/world-news/indians-among-13-killed-in-bus-truck-collision-in-uae-12371888#publisher=newsstand",
+       "publishedAt": "2026-11-24T20:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Karthigai deepam lit only at traditional spot atop Thirupparankundram hills",
+     "link": "https://www.thehindu.com/news/cities/Madurai/karthigai-deepam-lit-only-at-traditional-spot-atop-thirupparankundram-hills/article71738876.ece",
+     "source": "The Hindu",
+     "sources": [
+      "LawBeat",
+      "NDTV",
+      "PGurus",
+      "The Hindu",
+      "The News Minute"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T01:12+05:30",
+     "score": 7.45,
+     "summary": "Madurai Collector submitted before the Madurai Bench of the Madras High Court that the administration was taking steps to comply with the Supreme Court order",
+     "image": "https://th-i.thgim.com/public/incoming/hvpvnb/article71739120.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-24%20at%2019.15.29.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Karthigai deepam lit only at traditional spot atop Thirupparankundram hills",
+       "link": "https://www.thehindu.com/news/cities/Madurai/karthigai-deepam-lit-only-at-traditional-spot-atop-thirupparankundram-hills/article71738876.ece",
+       "publishedAt": "2026-11-25T01:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "Bloomberg.com",
+      "MarketWatch",
+      "Reuters",
+      "Telegraph India",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T00:18+05:30",
+     "score": 7.3,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
+       "publishedAt": "2026-11-25T00:18+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T00:00+05:30",
    "generatedAt": "2026-11-25T00:27+05:30",
@@ -29839,205 +30009,6 @@
        "title": "GTA 6 Leaker Arion Kurtaj Admits Rockstar Hack, Extortion Bid in London Court",
        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tU0hXWkpFdGVQa1dLMUF0LU1FdFNURERDMzB5Zm5vTFlacG4xMEJzekU2TjVQQ1h0c3QzOEx0MUJub01ydWNrUzRNUWU5YUdqV0hIeU5fYnRkSXNicERHN2szMWxNU0Q5MGZxcXA2V3FyUmhJUEE?oc=5",
        "publishedAt": "2026-11-16T23:35+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T00:00+05:30",
-   "generatedAt": "2026-11-17T00:23+05:30",
-   "feeds": 16,
-   "headlines": 294,
-   "stories": [
-    {
-     "title": "Robert Pattinson named the new James Bond; actor to take 007 legacy into new era",
-     "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-named-the-new-james-bond-the-batman-star-to-take-the-007-legacy-into-a-new-era-dream-come-true-is-an-understatement/articleshow/135894427.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "Rolling Stone",
-      "The Economic Times",
-      "The Guardian",
-      "Times of India",
-      "Variety",
-      "www.007.com"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-16T21:06+05:30",
-     "score": 8.95,
-     "summary": "Confirmed at last! Robert Pattinson will embody the legendary role of James Bond, following in Daniel Craig's footsteps. After much speculation, the news comes as the franchise gears up for its 26th film, directed by the acclaimed Denis Villeneuve. Producers express confidence that this new chapter will soar to remarkable heights, leaving audiences thrilled to see how Pattinson will navigate the complex world of 007.",
-     "image": "https://static.toiimg.com/photo/msid-135894636,imgsize-390184.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Robert Pattinson named the new James Bond; actor to take 007 legacy into new era",
-       "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-named-the-new-james-bond-the-batman-star-to-take-the-007-legacy-into-a-new-era-dream-come-true-is-an-understatement/articleshow/135894427.cms",
-       "publishedAt": "2026-11-16T21:06+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Robert Pattinson is the new James Bond",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/robert-pattinson-becomes-seventh-james-bond-from-twilight-heartthrob-to-007-how-he-landed-iconic-role/articleshow/135894440.cms",
-       "publishedAt": "2026-11-16T20:59+05:30"
-      },
-      {
-       "source": "Rolling Stone",
-       "title": "Robert Pattinson Is the Next James Bond",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmhrUFRKY3JhcktiZGdBNFduTUt0Q0N0ZXdQdXJGSWNKcFIxWmRFaGZJLXZfT0JiRkxlcFVKYXpYQXkyNnUta2FuSXRYTjZ5THIxVGVyNGJEZlpIdEFqV0lRXzc1MHNmY0ZaZHh1RUdOR2prNkE3Qm5oM1dWaTJZWjRGU3Q2VXczVmtPYlJZa0VENDM1bFRpMExCNHpGUQ?oc=5",
-       "publishedAt": "2026-11-16T21:04+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trump hints at meeting Kim Jong Un in China, says Xi could play role",
-     "link": "https://timesofindia.indiatimes.com/world/us/trump-hints-at-meeting-kim-jong-un-in-china-says-xi-could-play-role/articleshow/135896438.cms",
-     "source": "Times of India",
-     "sources": [
-      "Bloomberg.com",
-      "NDTV",
-      "Reuters",
-      "The Independent",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-16T22:45+05:30",
-     "score": 7.8,
-     "summary": "Donald Trump said he plans to talk about Russia's war in Ukraine during the highly anticipated meeting with Xi and Putin in China.",
-     "image": "https://static.toiimg.com/photo/msid-135896576,imgsize-1179027.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Trump hints at meeting Kim Jong Un in China, says Xi could play role",
-       "link": "https://timesofindia.indiatimes.com/world/us/trump-hints-at-meeting-kim-jong-un-in-china-says-xi-could-play-role/articleshow/135896438.cms",
-       "publishedAt": "2026-11-16T22:21+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Nuclear Talks With Russia, China, Meet With Kim Jong Un: Trump's Asia Agenda",
-       "link": "https://www.ndtv.com/world-news/nuclear-talks-with-russia-china-meet-with-kim-jong-un-trumps-asia-agenda-12335036#publisher=newsstand",
-       "publishedAt": "2026-11-16T20:59+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Trump says he might meet with North Korea's Kim Jong Un in China",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb29EcDdndEN4TW9IeVFRVnVQTV9YVzNZVHUyT0F3aElTeTFQMFU2X05QUXR3c01hVVlrTEotZjVhU3YwNFZuTlUyZDVfM2pTTjNGTHR1Q25GalEtUFByZTFKLUd4TV84UU9vUngxd245SktvQ00tbWNOMDZ0WkRoVDV3OXh6UWxMZ0t3aWVuSC01U2VYclVHX2k1ZnpnTHFTSTh3bw?oc=5",
-       "publishedAt": "2026-11-16T22:45+05:30"
-      }
-     ]
-    },
-    {
-     "title": "41-year wait, just 2 series wins: India's difficult Test history in NZ by numbers",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/41-year-wait-just-2-series-wins-indias-difficult-test-history-in-new-zealand-by-numbers/articleshow/135895423.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricbuzz",
-      "Rediff",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-16T22:00+05:30",
-     "score": 7.35,
-     "summary": "India gears up for an exciting two-match Test series against New Zealand at the picturesque Basin Reserve in Wellington, set to kick off on November 19. With New Zealand’s recent dominance over India, winning their last three encounters, the challenge is steep. India's players, with minimal experience in local conditions, must focus on acclimatization to improve their chances in this revived cricket rivalry.",
-     "image": "https://static.toiimg.com/photo/msid-135895529,imgsize-1445171.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "41-year wait, just 2 series wins: India's difficult Test history in NZ by numbers",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/41-year-wait-just-2-series-wins-indias-difficult-test-history-in-new-zealand-by-numbers/articleshow/135895423.cms",
-       "publishedAt": "2026-11-16T22:00+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "41-year wait, just 2 series wins: India's difficult Test history in New Zealand by numbers",
-       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNT2ZrVTEyYXRJZHR2YlNHemN2c1hueDJpck5uRjNYb1UwcGw1ZU5sbzBCdl9POVZpNDJYSlFrS1ZXTll2dFVVNk9Ib2poRVlucmVLSWxNVGttLU1ZbFJZWWJKQUozZUJneUp4OHdXQWVSMkxPOE5MOHZ4Yk91dGZpVG5LampaOWVpeXZSMFJDdGxtTkdFa2FGTUt3blFzOUt1c2ppaGowM1BjYXpvX2l1S3VqOFVsa0sxbE1tMEVVdzdLYTlDSEl2MkVnaFp5OWJUcnpKYjNhbm1zX2d4TlpobkEwZDNhQ3dVU2poeHhzc2YzUnc5b0g1MDZ1eWc4VU9SQzlIdFU5SzZqSXFrWWtCTUI1aw?oc=5",
-       "publishedAt": "2026-11-16T22:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
-     "link": "https://www.thehindu.com/books/sonia-gandhi-memoir-belonging-a-journey-of-love-launch-event/article71708274.ece",
-     "source": "The Hindu",
-     "sources": [
-      "BBC",
-      "Telegraph India",
-      "The Hindu",
-      "The Quint",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T22:59+05:30",
-     "score": 7.27,
-     "summary": "Several INDIA bloc leaders, including Samajwadi Party chief Akhilesh Yadav and TMC’s Abhishek Banerjee, Tamil Nadu Chief Minister C. Joseph Vijay and BJP leader Amarinder Singh attended the launch of Sonia Gandhi’s memoir on Monday, November 16",
-     "image": "https://th-i.thgim.com/public/incoming/dbwpbh/article71708539.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%207.37.40%20PM.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
-       "link": "https://www.thehindu.com/books/sonia-gandhi-memoir-belonging-a-journey-of-love-launch-event/article71708274.ece",
-       "publishedAt": "2026-11-16T22:59+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-     "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
-     "source": "The Guardian",
-     "sources": [
-      "Al Jazeera",
-      "BBC News",
-      "Mint",
-      "NDTV",
-      "The Guardian",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T00:00+05:30",
-     "score": 6.94,
-     "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining Silicon Valley heavyweights in backing the reinstatement of the AI figurehead. The US president referred to a tech industry campaign for Huang’s rehabilitation, saying a “big group” of people would like him back.…",
-     "image": "https://i.guim.co.uk/img/media/7f67412f0366dc2ae41bf00eadde0fe0b8e1c6d0/817_89_6141_4914/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=f383d71329a6f68ee1d040041748f913",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-       "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
-       "publishedAt": "2026-11-17T00:00+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-       "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-16T23:36+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
-       "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
-       "publishedAt": "2026-11-16T22:54+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "‘Jensen Huang was much more than CEO’: China-based Nvidia engineer says he quit after CEO exit- here is why",
-       "link": "https://www.livemint.com/news/trends/jensen-huang-was-much-more-than-ceo-china-based-nvidia-engineer-says-he-quit-after-ceo-exit-11794848559310.html",
-       "publishedAt": "2026-11-16T22:51+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Trump's \"Beautiful Woman From China\" Remark As He Backs Huang's Nvidia Return",
-       "link": "https://www.ndtv.com/world-news/not-a-bad-idea-donald-trump-on-jensen-huangs-return-to-nvidia-12334873#publisher=newsstand",
-       "publishedAt": "2026-11-16T22:37+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'He learnt a big lesson': Trump 'wouldn't mind' Huang's return as Nvidia CEO",
-       "link": "https://timesofindia.indiatimes.com/business/international-business/he-learnt-a-big-lesson-trump-says-he-wouldnt-mind-if-jensen-huang-gets-reinstated-as-nvidia-ceo/articleshow/135893526.cms",
-       "publishedAt": "2026-11-16T20:37+05:30"
       }
      ]
     }
