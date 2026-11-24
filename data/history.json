@@ -1,6 +1,162 @@
 {
- "updated": "2026-11-25T02:22+05:30",
+ "updated": "2026-11-25T03:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T03:00+05:30",
+   "generatedAt": "2026-11-25T03:26+05:30",
+   "feeds": 16,
+   "headlines": 223,
+   "stories": [
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 5",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2s4LUxNNWxNVmF5clFXMEh0QWhfaDFkbG9sbVN2bFlETDVsb0FXRUNRTEtEcnRpTFpHb3FvMmc0cXFmejdDazFLcFRwQS1TTjEyeDhoV1RCbEthd1pEamo2SHpvcEhUUndWVjJCMENTOXRXbkZqbXU0UDY2Mkh0Y2lIQk4xMGxyNkNfRFVB?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Pinkvilla",
+      "Sacnilk",
+      "THE WEEK",
+      "Telugu360",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-25T00:43+05:30",
+     "score": 8.61,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 5",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2s4LUxNNWxNVmF5clFXMEh0QWhfaDFkbG9sbVN2bFlETDVsb0FXRUNRTEtEcnRpTFpHb3FvMmc0cXFmejdDazFLcFRwQS1TTjEyeDhoV1RCbEthd1pEamo2SHpvcEhUUndWVjJCMENTOXRXbkZqbXU0UDY2Mkh0Y2lIQk4xMGxyNkNfRFVB?oc=5",
+       "publishedAt": "2026-11-25T00:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "HBO Max's Black Friday deal is top dog once again: Get half off a year of streaming",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WYU03Ykt0QzlfRU43cUhucGdaeFU3OTVPN2Znak5CdXlXN0pLWDgwejR6eVFGX0NKMkljbUg2T0l2T2hNaUFGanVtcUpXUDBzWnZyYV96bFpmWVQwNkJiZVl4SzZjTURYTDY4SG5pZlJjRWREbE1YZjlR?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "Louder",
+      "Mashable",
+      "The Verge",
+      "Treasure Coast News",
+      "Yahoo"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T01:13+05:30",
+     "score": 7.13,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "HBO Max's Black Friday deal is top dog once again: Get half off a year of streaming",
+       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WYU03Ykt0QzlfRU43cUhucGdaeFU3OTVPN2Znak5CdXlXN0pLWDgwejR6eVFGX0NKMkljbUg2T0l2T2hNaUFGanVtcUpXUDBzWnZyYV96bFpmWVQwNkJiZVl4SzZjTURYTDY4SG5pZlJjRWREbE1YZjlR?oc=5",
+       "publishedAt": "2026-11-25T01:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+     "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T23:37+05:30",
+     "score": 6.66,
+     "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+       "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-24T23:37+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Saurav Das CJP: Indian government has 'lost the plot' says 'cockroach' party leader after being barred from UK flight",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VNUtERkNONUJCS0FzdTgzcW1QQlJzX0lLQ0tqaEpOLTZ0WnRUaEl6TE9zQ2JKLWdjc2VtRjBnUWJtOG9QdmsyZ3hJcXRYMnNETVphVE9JWFB0bEk?oc=5",
+       "publishedAt": "2026-11-24T23:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
+     "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+     "source": "The Guardian",
+     "sources": [
+      "Chess.com",
+      "ChessBase India",
+      "ESPN India",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T02:03+05:30",
+     "score": 6.52,
+     "summary": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in modern chess. The Berlin famously helped…",
+     "image": "https://i.guim.co.uk/img/media/ff74655d2b2693af717a530bd7a81126acee9c9d/514_0_6633_5307/master/6633.jpg?width=140&quality=85&auto=format&fit=max&s=7f4b9a09b4ff8b14dd673ecb2af4a689",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
+       "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+       "publishedAt": "2026-11-25T01:34+05:30"
+      },
+      {
+       "source": "Chess.com",
+       "title": "Gukesh Survives Pressure To Hold Sindarov To Draw In World Championship Game 1",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JNFZPLTctTkQ4Qk1abDI4UHR6QlNuT1hnR3pmWDRINGx1UTkxRjRvb2lNcHg3RTA4SUFrODdhRnJ0Z0VyWEY3LVpiNldaQ3p2bkxrYnlzb3VlU05OQ0IzelFHRzhLQWoxUi1mUEM2ZF9JRmx2LV9aaVZEOWs4Zw?oc=5",
+       "publishedAt": "2026-11-25T02:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic Stock Drops Below $83 IPO Price On Day 4 Of Trading",
+     "link": "https://www.ndtv.com/world-news/anthropic-stock-drops-below-83-ipo-price-on-day-4-of-trading-12372365#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Business Insider",
+      "Digg",
+      "Financial Times",
+      "NDTV",
+      "Reuters",
+      "The Motley Fool"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T22:55+05:30",
+     "score": 6.36,
+     "summary": "About 10 minutes into trading, shares of the artificial intelligence company stood at $80.14, down 8.6 per cent.",
+     "image": "https://c.ndtvimg.com/2026-05/44jeg4kk_anthropic_625x300_07_May_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Anthropic Stock Drops Below $83 IPO Price On Day 4 Of Trading",
+       "link": "https://www.ndtv.com/world-news/anthropic-stock-drops-below-83-ipo-price-on-day-4-of-trading-12372365#publisher=newsstand",
+       "publishedAt": "2026-11-24T22:55+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
+       "publishedAt": "2026-11-24T22:29+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T02:00+05:30",
    "generatedAt": "2026-11-25T02:22+05:30",
@@ -29843,181 +29999,6 @@
        "title": "3 US Aircraft Carriers Operating In Middle East",
        "link": "https://www.ndtv.com/world-news/3-us-aircraft-carriers-operating-in-middle-east-12335914#publisher=newsstand",
        "publishedAt": "2026-11-17T01:41+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T02:00+05:30",
-   "generatedAt": "2026-11-17T02:18+05:30",
-   "feeds": 14,
-   "headlines": 238,
-   "stories": [
-    {
-     "title": "British actor Robert Pattinson named as new James Bond",
-     "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC News",
-      "Rolling Stone",
-      "The Economic Times",
-      "The Guardian",
-      "Times of India",
-      "Variety",
-      "www.007.com"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-16T23:43+05:30",
-     "score": 8.63,
-     "summary": "The actor called the studio's decision a 'dream come true'.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "British actor Robert Pattinson named as new James Bond",
-       "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
-       "publishedAt": "2026-11-16T23:43+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "When will we see Robert Pattinson as Bond in cinemas?",
-       "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-16T22:48+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Robert Pattinson named the new James Bond; actor to take 007 legacy into new era",
-       "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-named-the-new-james-bond-the-batman-star-to-take-the-007-legacy-into-a-new-era-dream-come-true-is-an-understatement/articleshow/135894427.cms",
-       "publishedAt": "2026-11-16T21:06+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Robert Pattinson is the new James Bond",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/robert-pattinson-becomes-seventh-james-bond-from-twilight-heartthrob-to-007-how-he-landed-iconic-role/articleshow/135894440.cms",
-       "publishedAt": "2026-11-16T20:59+05:30"
-      },
-      {
-       "source": "Rolling Stone",
-       "title": "Robert Pattinson Is the Next James Bond",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmhrUFRKY3JhcktiZGdBNFduTUt0Q0N0ZXdQdXJGSWNKcFIxWmRFaGZJLXZfT0JiRkxlcFVKYXpYQXkyNnUta2FuSXRYTjZ5THIxVGVyNGJEZlpIdEFqV0lRXzc1MHNmY0ZaZHh1RUdOR2prNkE3Qm5oM1dWaTJZWjRGU3Q2VXczVmtPYlJZa0VENDM1bFRpMExCNHpGUQ?oc=5",
-       "publishedAt": "2026-11-16T21:04+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "Telegraph India",
-      "The Hindu",
-      "The New Indian Express",
-      "The News Minute",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T00:34+05:30",
-     "score": 7.08,
-     "summary": "Andhra fishermen, still awaiting compensation for Cyclone Arnab’s losses, are told to stay ashore till November 20",
-     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/4dag1z/article71707041.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%2012.15.06%20PM.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
-       "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
-       "publishedAt": "2026-11-16T22:34+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "LIVE: Cyclone Akvan to develop into severe storm by November 17 evening; heavy rain to batter Andhra, Tamil Nadu, Bengal",
-       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjI?oc=5",
-       "publishedAt": "2026-11-17T00:34+05:30"
-      }
-     ]
-    },
-    {
-     "title": "UBL vs RDC, 25th Match, Abu Dhabi T10 2026 - Commentary",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmZ2Q184V0ROR3gya0VUa05MZnJxM0JTc1RfTHV3RGxfS1ZWU2xaejlMSl96aXplY0tFeTBXUXVLUWQ2bjhPNnU2Z1lYMlMwV1k0ZGpCazAtdmJJWHJ2eHZ2N1hVdXBCdFdMR3JOdXBhdGZqQmNIakNiaElWN0ExdW40WkVlVGNhODh0eGQ0aHktQ0UzVHg0?oc=5",
-     "source": "Cricbuzz",
-     "sources": [
-      "BDCricTime",
-      "CricTracker",
-      "Cricbuzz",
-      "Cricket World",
-      "Khaleej Times",
-      "The Stats Zone"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T02:01+05:30",
-     "score": 7.04,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricbuzz",
-       "title": "UBL vs RDC, 25th Match, Abu Dhabi T10 2026 - Commentary",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmZ2Q184V0ROR3gya0VUa05MZnJxM0JTc1RfTHV3RGxfS1ZWU2xaejlMSl96aXplY0tFeTBXUXVLUWQ2bjhPNnU2Z1lYMlMwV1k0ZGpCazAtdmJJWHJ2eHZ2N1hVdXBCdFdMR3JOdXBhdGZqQmNIakNiaElWN0ExdW40WkVlVGNhODh0eGQ0aHktQ0UzVHg0?oc=5",
-       "publishedAt": "2026-11-17T02:01+05:30"
-      }
-     ]
-    },
-    {
-     "title": "41-year wait, just 2 series wins: India's difficult Test history in NZ by numbers",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/41-year-wait-just-2-series-wins-indias-difficult-test-history-in-new-zealand-by-numbers/articleshow/135895423.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricbuzz",
-      "Rediff",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-16T22:00+05:30",
-     "score": 7.03,
-     "summary": "India gears up for an exciting two-match Test series against New Zealand at the picturesque Basin Reserve in Wellington, set to kick off on November 19. With New Zealand’s recent dominance over India, winning their last three encounters, the challenge is steep. India's players, with minimal experience in local conditions, must focus on acclimatization to improve their chances in this revived cricket rivalry.",
-     "image": "https://static.toiimg.com/photo/msid-135895529,imgsize-1445171.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "41-year wait, just 2 series wins: India's difficult Test history in NZ by numbers",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/41-year-wait-just-2-series-wins-indias-difficult-test-history-in-new-zealand-by-numbers/articleshow/135895423.cms",
-       "publishedAt": "2026-11-16T22:00+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "41-year wait, just 2 series wins: India's difficult Test history in New Zealand by numbers",
-       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNT2ZrVTEyYXRJZHR2YlNHemN2c1hueDJpck5uRjNYb1UwcGw1ZU5sbzBCdl9POVZpNDJYSlFrS1ZXTll2dFVVNk9Ib2poRVlucmVLSWxNVGttLU1ZbFJZWWJKQUozZUJneUp4OHdXQWVSMkxPOE5MOHZ4Yk91dGZpVG5LampaOWVpeXZSMFJDdGxtTkdFa2FGTUt3blFzOUt1c2ppaGowM1BjYXpvX2l1S3VqOFVsa0sxbE1tMEVVdzdLYTlDSEl2MkVnaFp5OWJUcnpKYjNhbm1zX2d4TlpobkEwZDNhQ3dVU2poeHhzc2YzUnc5b0g1MDZ1eWc4VU9SQzlIdFU5SzZqSXFrWWtCTUI1aw?oc=5",
-       "publishedAt": "2026-11-16T22:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "From childhood tales to reality: Raichandani lives his India-Pakistan dream",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd19zcWI5MXdwanZxd3RDUUpyWFVMc194NV9YM1Rlc2IyTEpBMF83N00wZ0tXT0xkQmpYOXFCV3FiLVRleFVBZ1BRQlhkTVFxSHd2LVkzOXZnalQ2ajEwc3hLdWlEX2lRS25yZVlLMC1kOGh5RENxc3d3Vy1DWEs0MzdkWnNUbHFiQklDS2FMQnAzUHQtdWZnOVZqT2hRbUJzWHR5Wm9wbm14aU9LMW1DOVNqckhsVmpjR1pwU0l30gHPAUFVX3lxTFBMU3Rha3prR3lueUo1X3Z5alpSSVpGLUpCLW91SUtuS3lDZHRBNlRJUHpvRnBfRjB0OWtlYjdIVXNoWjVkellzNUJLbHB3WUZxNWRUdmpWOTRWRVlXZm0tQS1XY1g1d3U3SzFHLXc5bkUwbDdDNEdGRDNZc0RlNGY4aW13TEd1ZGdkVU0xYW5fSmEwY0pxa3ZOdHY3ekVpS21ySUhldlUzSE9uWGtLa0czYzNHQVpFN05DUzZvenE3Qk8taC1nLVA2ZlhUTks5MA?oc=5",
-     "source": "Cricinfo",
-     "sources": [
-      "BCCI",
-      "Cricinfo",
-      "Rediff",
-      "Sportstar",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T20:29+05:30",
-     "score": 6.53,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricinfo",
-       "title": "From childhood tales to reality: Raichandani lives his India-Pakistan dream",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd19zcWI5MXdwanZxd3RDUUpyWFVMc194NV9YM1Rlc2IyTEpBMF83N00wZ0tXT0xkQmpYOXFCV3FiLVRleFVBZ1BRQlhkTVFxSHd2LVkzOXZnalQ2ajEwc3hLdWlEX2lRS25yZVlLMC1kOGh5RENxc3d3Vy1DWEs0MzdkWnNUbHFiQklDS2FMQnAzUHQtdWZnOVZqT2hRbUJzWHR5Wm9wbm14aU9LMW1DOVNqckhsVmpjR1pwU0l30gHPAUFVX3lxTFBMU3Rha3prR3lueUo1X3Z5alpSSVpGLUpCLW91SUtuS3lDZHRBNlRJUHpvRnBfRjB0OWtlYjdIVXNoWjVkellzNUJLbHB3WUZxNWRUdmpWOTRWRVlXZm0tQS1XY1g1d3U3SzFHLXc5bkUwbDdDNEdGRDNZc0RlNGY4aW13TEd1ZGdkVU0xYW5fSmEwY0pxa3ZOdHY3ekVpS21ySUhldlUzSE9uWGtLa0czYzNHQVpFN05DUzZvenE3Qk8taC1nLVA2ZlhUTks5MA?oc=5",
-       "publishedAt": "2026-11-16T20:29+05:30"
       }
      ]
     }
