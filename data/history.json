@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-24T09:27+05:30",
+ "updated": "2026-11-24T10:33+05:30",
  "hours": [
+  {
+   "hour": "2026-11-24T10:00+05:30",
+   "generatedAt": "2026-11-24T10:33+05:30",
+   "feeds": 16,
+   "headlines": 222,
+   "stories": [
+    {
+     "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+     "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+     "source": "The Guardian",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNBC",
+      "NDTV",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-24T09:10+05:30",
+     "score": 8.07,
+     "summary": "Singapore-based company entangled in scandal over alleged spy Alice Huang’s affair with Jensen Huang The US commerce department published an official notice on Monday adding the Singapore-based company Megaspeed, and its subsidiaries in Thailand and Malaysia, to a trade blacklist. Megaspeed, an Nvidia partner which has been under investigation by US authorities since 2024 over whether it diverted AI chips to China…",
+     "image": "https://i.guim.co.uk/img/media/c0617e3a04f0554259687e37ed2a80796ad3a623/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=5008e11d41bb54401d680d8bcbf82767",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+       "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+       "publishedAt": "2026-11-24T07:17+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO",
+       "link": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
+       "publishedAt": "2026-11-24T06:22+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+       "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-24T04:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sheikh Hasina To Return To Bangladesh On December 16 After 2 Years In India",
+     "link": "https://www.ndtv.com/world-news/sheikh-hasina-to-return-to-bangladesh-on-december-16-after-2-years-report-12368756#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "Rediff.com",
+      "Reuters",
+      "The Business Standard",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T09:21+05:30",
+     "score": 7.55,
+     "summary": "This is the first time Hasina, who has hinted at her eventual return for months, has set a specific date for her homecoming.",
+     "image": "https://c.ndtvimg.com/2026-08/3ai05ukk_sheikh-hasina_625x300_06_August_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Sheikh Hasina To Return To Bangladesh On December 16 After 2 Years In India",
+       "link": "https://www.ndtv.com/world-news/sheikh-hasina-to-return-to-bangladesh-on-december-16-after-2-years-report-12368756#publisher=newsstand",
+       "publishedAt": "2026-11-24T09:21+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Sheikh Hasina requests Dec 16 return, picks Bangladesh Victory Day for comeback",
+       "link": "https://timesofindia.indiatimes.com/world/south-asia/sheikh-hasina-requests-december-16-return-picks-bangladesh-victory-day-for-comeback/articleshow/136118389.cms",
+       "publishedAt": "2026-11-24T09:11+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5",
+       "publishedAt": "2026-11-24T08:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock market holiday today: Are BSE, NSE closed on November 24 for Guru Nanak Jayanti",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-are-bse-nse-closed-on-november-24-for-guru-nanak-jayanti/articleshow/136118430.cms",
+     "source": "Times of India",
+     "sources": [
+      "Business Standard",
+      "Livemint",
+      "Moneycontrol.com",
+      "NDTV",
+      "Times of India",
+      "Upstox"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T09:09+05:30",
+     "score": 7.52,
+     "summary": "Stock Market News: Trading in equity derivatives will also remain suspended. The currency derivatives segment will remain closed as well.",
+     "image": "https://static.toiimg.com/photo/msid-136118551,imgsize-144835.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Stock market holiday today: Are BSE, NSE closed on November 24 for Guru Nanak Jayanti",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-are-bse-nse-closed-on-november-24-for-guru-nanak-jayanti/articleshow/136118430.cms",
+       "publishedAt": "2026-11-24T09:09+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too?",
+       "link": "https://www.ndtv.com/business-news/stock-market-holiday-november-24-nse-nifty-bse-sensex-shut-for-guru-nanak-jayanti-are-banks-closed-12368491#publisher=newsstand",
+       "publishedAt": "2026-11-24T06:49+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Earthquake in Nepal triggers tremors across north Bengal, Sikkim",
+     "link": "https://www.thehindu.com/news/national/earthquake-in-nepal-west-bengal-sikkim-triggers-tremors/article71737091.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Business Standard",
+      "India Today",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T09:09+05:30",
+     "score": 7.14,
+     "summary": "The tremors were felt at around 7 a.m., prompting people in several areas to rush out of their homes",
+     "image": "https://th-i.thgim.com/public/sport/cricket/52rboh/article71737104.ece/alternates/LANDSCAPE_1200/Seismology.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Earthquake in Nepal triggers tremors across north Bengal, Sikkim",
+       "link": "https://www.thehindu.com/news/national/earthquake-in-nepal-west-bengal-sikkim-triggers-tremors/article71737091.ece",
+       "publishedAt": "2026-11-24T09:09+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "5.3 Magnitude Earthquake Hits Nepal, Tremors Felt Across India, Bhutan, China",
+       "link": "https://www.ndtv.com/world-news/5-3-magnitude-earthquake-hits-nepal-tremors-felt-across-india-bhutan-china-12368620#publisher=newsstand",
+       "publishedAt": "2026-11-24T08:36+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "5.3 magnitude earthquake jolts Nepal; tremors felt across parts of eastern India",
+       "link": "https://timesofindia.indiatimes.com/world/south-asia/magnitude-5-3-earthquake-strikes-nepals-koshi-province/articleshow/136117310.cms",
+       "publishedAt": "2026-11-24T07:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkxXYjZDcEV1OENMUFpwT2VQdFhnLXk0WlI5eEk3U3BuU0FjU2IzLVhOMHF3VjN4Rll3TlBMaEw2STl4OF94TFU4R1hZSEpiejBVaDJhRktPakRucm9CZEZ6ZHhJRVhuTmU5TVpSYW80MUtSRFlSczlacV9PM2dqWDliSHRWWTJNVkFoVkhzS0zSAZYBQVVfeXFMTUFuX0ZxSkliTGxLNm4zV3BWTFk2M0QyaTc0elRtOFhzdm5FVTlBeTNIQlh2TUU2UW1sOG5MNDhrQnp3UllfaUFSa0xSUk1SQmRmUEFHNUI2ajVEQWFXR2tidW41ZlJkNGtMb0FZcy10dFpOUEFrUzV6TGQyN19DQzc4YVpZYlpkSE05d3N4UzZmN0c5NTNR?oc=5",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Ministry of External Affairs",
+      "NarendraModi.in",
+      "Telegraph India",
+      "The New Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-24T07:20+05:30",
+     "score": 6.96,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkxXYjZDcEV1OENMUFpwT2VQdFhnLXk0WlI5eEk3U3BuU0FjU2IzLVhOMHF3VjN4Rll3TlBMaEw2STl4OF94TFU4R1hZSEpiejBVaDJhRktPakRucm9CZEZ6ZHhJRVhuTmU5TVpSYW80MUtSRFlSczlacV9PM2dqWDliSHRWWTJNVkFoVkhzS0zSAZYBQVVfeXFMTUFuX0ZxSkliTGxLNm4zV3BWTFk2M0QyaTc0elRtOFhzdm5FVTlBeTNIQlh2TUU2UW1sOG5MNDhrQnp3UllfaUFSa0xSUk1SQmRmUEFHNUI2ajVEQWFXR2tidW41ZlJkNGtMb0FZcy10dFpOUEFrUzV6TGQyN19DQzc4YVpZYlpkSE05d3N4UzZmN0c5NTNR?oc=5",
+       "publishedAt": "2026-11-24T07:20+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-24T09:00+05:30",
    "generatedAt": "2026-11-24T09:27+05:30",
@@ -29689,141 +29869,6 @@
        "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUwwOU9GSGNFQi1LQUVnamwzUmNsdGU3SlIzSHVZTVRCQ3phT1NOdWRoZmxGaElGRkRsd0wzb1NPMWZWN21qLTZVcVVKaE90TXJjeUVmb0p6YTF2aE5qeVBteWxaQ3pnbVlWU29nbWh5UlcwNk5Oa09CVGhmRG9vV25fX0xMUmhwbm1FbHQxM19Yb05uRWV5dVo4WDlqdW4xdm9XeC1zTVpjSDZnVWVnZU5MRHFvekVJWkplQUtqQlJSeEZsN2dFTlZYbVhpeVhVMlRYa0s3aw?oc=5",
        "publishedAt": "2026-11-16T04:11+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-16T05:00+05:30",
-   "generatedAt": "2026-11-16T05:14+05:30",
-   "feeds": 16,
-   "headlines": 112,
-   "stories": [
-    {
-     "title": "Itllu Arjuna Box Office Collection Day 3",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "IMDb",
-      "NDTV Profit",
-      "Sacnilk",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "Tupaki English"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-16T01:32+05:30",
-     "score": 7.45,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Itllu Arjuna Box Office Collection Day 3",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQ5TEtoNGVMQmZsNXMtdjYtcGtqWTBoVmExR2g0WWYwdjdnVEViektOLS1jU1AwZjhPM0t5UVdWUG16ZS1KT3ZfSERpZ3drMl9INmZ5OTNuLTBENFJpMU02Qmd0TlItWmtJQkxsVkxJRnZqX0xuWW1jZGNyOVdfNG43cmZWdw?oc=5",
-       "publishedAt": "2026-11-16T01:32+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFBHRGhFVUVMRGtZTjJ0dXRaZE9JLWY0cEVhMUhMdDRmNzczeVpEaTFKVjVJMjR6RjlidUc1SGJNcWYtNjF2c0M3SE1HY1ZSc1NzeWR5VDRpdUJ4dHBYb2xWSEZKdXdUakdudjRGWC1TYWFTWlE0UW1NQ3JqY1FjOGNvMmlCZlFISGx0Vmg0cWhWYjIwTF9VMFdNSWF0cWV1UWswZS1HWERVVFFoUE5qYVBYNUpIazN5TGtQeG5zbWVMMktUcUZyWXNR?oc=5",
-     "source": "Bloomberg.com",
-     "sources": [
-      "Bloomberg.com",
-      "Forbes",
-      "PhoneArena",
-      "The Mac Observer",
-      "The Verge"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T04:01+05:30",
-     "score": 6.01,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Bloomberg.com",
-       "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFBHRGhFVUVMRGtZTjJ0dXRaZE9JLWY0cEVhMUhMdDRmNzczeVpEaTFKVjVJMjR6RjlidUc1SGJNcWYtNjF2c0M3SE1HY1ZSc1NzeWR5VDRpdUJ4dHBYb2xWSEZKdXdUakdudjRGWC1TYWFTWlE0UW1NQ3JqY1FjOGNvMmlCZlFISGx0Vmg0cWhWYjIwTF9VMFdNSWF0cWV1UWswZS1HWERVVFFoUE5qYVBYNUpIazN5TGtQeG5zbWVMMktUcUZyWXNR?oc=5",
-       "publishedAt": "2026-11-16T04:01+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUwwOU9GSGNFQi1LQUVnamwzUmNsdGU3SlIzSHVZTVRCQ3phT1NOdWRoZmxGaElGRkRsd0wzb1NPMWZWN21qLTZVcVVKaE90TXJjeUVmb0p6YTF2aE5qeVBteWxaQ3pnbVlWU29nbWh5UlcwNk5Oa09CVGhmRG9vV25fX0xMUmhwbm1FbHQxM19Yb05uRWV5dVo4WDlqdW4xdm9XeC1zTVpjSDZnVWVnZU5MRHFvekVJWkplQUtqQlJSeEZsN2dFTlZYbVhpeVhVMlRYa0s3aw?oc=5",
-     "source": "90.5 WESA",
-     "sources": [
-      "90.5 WESA",
-      "NASA (.gov)",
-      "Phys.org",
-      "Reuters",
-      "www.theweek.in"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T04:11+05:30",
-     "score": 5.87,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "90.5 WESA",
-       "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUwwOU9GSGNFQi1LQUVnamwzUmNsdGU3SlIzSHVZTVRCQ3phT1NOdWRoZmxGaElGRkRsd0wzb1NPMWZWN21qLTZVcVVKaE90TXJjeUVmb0p6YTF2aE5qeVBteWxaQ3pnbVlWU29nbWh5UlcwNk5Oa09CVGhmRG9vV25fX0xMUmhwbm1FbHQxM19Yb05uRWV5dVo4WDlqdW4xdm9XeC1zTVpjSDZnVWVnZU5MRHFvekVJWkplQUtqQlJSeEZsN2dFTlZYbVhpeVhVMlRYa0s3aw?oc=5",
-       "publishedAt": "2026-11-16T04:11+05:30"
-      }
-     ]
-    },
-    {
-     "title": "As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan",
-     "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-diabetes-spikes-in-kashmir-the-health-lens-turns-to-the-fabled-wazwan/article71705566.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Rising Kashmir",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T03:00+05:30",
-     "score": 5.67,
-     "summary": "Subsistence agriculture and labour-intensive living has been replaced by urbanisation and declining physical activity, while traditional dietary patterns persist largely unchanged, the doctor-authors of Diabetes Simplified for Kashmir say",
-     "image": "https://th-i.thgim.com/public/incoming/mrnbmu/article71705568.ece/alternates/LANDSCAPE_1200/8A.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan",
-       "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-diabetes-spikes-in-kashmir-the-health-lens-turns-to-the-fabled-wazwan/article71705566.ece",
-       "publishedAt": "2026-11-16T01:09+05:30"
-      }
-     ]
-    },
-    {
-     "title": "SpaceX completes first-ever spaceship capture",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEpuQmNMLUd4TWRNTkdFSngzaTFwTWFYcWJOb294Wl8xeEVDVjJuaXFiejVjeHR4WUo5OFhUeXlMY3E5Y1RJc0ktTnhLZ1d5MFVwNUVQM0FDV1hTMUtCSWptR2NiXy1TaS11b3BuYVJFQnR1SWM0bG51X21aRGV0ZjhvUC3SAYQBQVVfeXFMUG9OR0xZNGhZaHg2Y1RvUVhtcWZiVkVaLVhDSDVSbGlCUGxtNWRycy1kS0JRczRWZkdJSzJuV0tXYVVOa0xsd3UyUk15dHRvdXVBaXNkSzRwWkF6U1ptRWlDbTAwel9UcTdxcEUybWQ0QnBiLWdYbXc1ODVIR1VJcUZkX3lR?oc=5",
-     "source": "DW.com",
-     "sources": [
-      "CNN",
-      "DW.com",
-      "Reuters",
-      "Space",
-      "The Economist"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T02:48+05:30",
-     "score": 5.64,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "DW.com",
-       "title": "SpaceX completes first-ever spaceship capture",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEpuQmNMLUd4TWRNTkdFSngzaTFwTWFYcWJOb294Wl8xeEVDVjJuaXFiejVjeHR4WUo5OFhUeXlMY3E5Y1RJc0ktTnhLZ1d5MFVwNUVQM0FDV1hTMUtCSWptR2NiXy1TaS11b3BuYVJFQnR1SWM0bG51X21aRGV0ZjhvUC3SAYQBQVVfeXFMUG9OR0xZNGhZaHg2Y1RvUVhtcWZiVkVaLVhDSDVSbGlCUGxtNWRycy1kS0JRczRWZkdJSzJuV0tXYVVOa0xsd3UyUk15dHRvdXVBaXNkSzRwWkF6U1ptRWlDbTAwel9UcTdxcEUybWQ0QnBiLWdYbXc1ODVIR1VJcUZkX3lR?oc=5",
-       "publishedAt": "2026-11-16T02:48+05:30"
       }
      ]
     }
