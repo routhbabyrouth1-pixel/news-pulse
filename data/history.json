@@ -1,6 +1,242 @@
 {
- "updated": "2026-11-24T11:30+05:30",
+ "updated": "2026-11-24T12:42+05:30",
  "hours": [
+  {
+   "hour": "2026-11-24T12:00+05:30",
+   "generatedAt": "2026-11-24T12:42+05:30",
+   "feeds": 16,
+   "headlines": 285,
+   "stories": [
+    {
+     "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Bloomberg.com",
+      "CNBC",
+      "Financial Times",
+      "NDTV",
+      "NVIDIA Newsroom",
+      "Semafor",
+      "The Economic Times",
+      "The New York Times",
+      "Times of India"
+     ],
+     "sourceCount": 13,
+     "publishedAt": "2026-11-24T11:54+05:30",
+     "score": 14.62,
+     "summary": "Huang's reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.",
+     "image": "https://c.ndtvimg.com/2026-11/cf0lhpf8_jensen-huang-nvidia_625x300_18_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
+       "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+       "publishedAt": "2026-11-24T11:54+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Jensen Huang Confessed To More Affairs Before Returning As Nvidia CEO: Report",
+       "link": "https://www.ndtv.com/world-news/jensen-huang-confessed-to-more-affairs-before-returning-as-nvidia-ceo-report-12369005#publisher=newsstand",
+       "publishedAt": "2026-11-24T10:50+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+       "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-24T10:06+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Krishnamoorthi seeks hearing with Nvidia CEO Huang",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/us-congressman-krishnamoorthi-demands-public-congressional-hearing-with-nvidia-ceo-jensen-huang/articleshow/136119394.cms",
+       "publishedAt": "2026-11-24T09:54+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "What Jensen Huang’s return as Nvidia CEO means for Colette Kress",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/what-jensen-huangs-return-as-nvidia-ceo-means-for-colette-kress-heres-what-company-says/articleshow/136117678.cms",
+       "publishedAt": "2026-11-24T08:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+     "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express",
+      "The New Indian Express",
+      "Times of India"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-24T11:53+05:30",
+     "score": 12.36,
+     "summary": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5191/live/b1f565b0-e7c1-11f1-b55c-09f84acff1b4.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+       "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-24T11:53+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "'Sheikh Hasina Is Terrorist, Can Only Return In Handcuffs': Bangladesh On Ex-PM's Homecoming Call",
+       "link": "https://www.ndtv.com/world-news/sheikh-hasina-is-terrorist-can-only-return-in-handcuffs-bangladesh-on-ex-pms-homecoming-call-12369327#publisher=newsstand",
+       "publishedAt": "2026-11-24T11:46+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Sheikh Hasina seeks to return to Bangladesh on Victory Day, asks for Biman flight from Delhi",
+       "link": "https://www.livemint.com/news/world/sheikh-hasina-seeks-to-return-to-bangladesh-on-victory-day-asks-for-biman-flight-from-delhi-11795495923829.html",
+       "publishedAt": "2026-11-24T10:46+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "HT Morning News Brief Nov 24: Madurai security tightened, Hasina seeks return to Bangladesh, Vijay Sethupathi at Emmys",
+       "link": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-nov-24-madurai-security-tightened-hasina-seeks-return-to-bangladesh-vijay-sethupathi-at-emmys-101795491706997.html",
+       "publishedAt": "2026-11-24T09:42+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Sheikh Hasina requests Dec 16 return, picks Bangladesh Victory Day for comeback",
+       "link": "https://timesofindia.indiatimes.com/world/south-asia/sheikh-hasina-requests-december-16-return-picks-bangladesh-victory-day-for-comeback/articleshow/136118389.cms",
+       "publishedAt": "2026-11-24T09:11+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16, spokesperson says",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb0VkWFJ5VGdOWkFhWS0yTE51ODJZc0xBMmZpSk94S3Vab25xbThZUTdSQ05TTmtpYmpzaVBKc3NxQWthMmFYWnNweTgyNGJQUFVyS0ZzV2VpZFVLdEVTa3lkN3F3cTljSmVTcUgwbTRpTTB6ZTRHODY0YUJzRmI0NEdyakZuclZLbTVTVHIwSjBkckc4bFdmMmpOVmNHMEZzUTdhNUh0SHMwY1lzbGdIYXZnSFJEejRRal9F0gHCAUFVX3lxTE1LaDJGdDc3Ni1DejdoR3k2LVRRSUgyQUQ4UmdmeEpTVlVONC1sMEV2RG5zMEtxNzV2MkNUb2I0cnJYdnZlVmxBOGtLWk90MnJRbEZNMko4WFlXZmExa2FaSlNNUWhRTC0wcEFkTURVS3d4RXg0SUZmaUR4MkllWXgtZUpURXdHa2dabTBuLWVSdThXRV9IdHpXeFVfMVBidTRneTF6VWxYWURmajc5ZzFoNHVjdnpzN1BpdGRRWVJTMG9B?oc=5",
+       "publishedAt": "2026-11-24T09:55+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pakistan jolted by 4.1 magnitude earthquake",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-jolted-by-4-1-magnitude-earthquake/articleshow/136120541.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Reuters",
+      "Rising Kashmir",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-24T11:01+05:30",
+     "score": 9.22,
+     "summary": "As HT reported earlier, jolts were also felt in various parts of Bihar, including Purnea, Katihar, Araria, Kishanganj, Saharsa, Madhepura, Supaul, etc.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/Reuters_Seismograph_2020-07-23T180035Z_1740852222__1795495921352_oDgV_1795495921617_aor8_40075906-dcb4-4804-8325-bee41c14a3fe_5Lbq.jpg",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Pakistan jolted by 4.1 magnitude earthquake",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-jolted-by-4-1-magnitude-earthquake/articleshow/136120541.cms",
+       "publishedAt": "2026-11-24T11:01+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Tremors felt in North Bengal, Sikkim as 5.3 magnitude earthquake jolts Nepal",
+       "link": "https://www.hindustantimes.com/india-news/tremors-felt-in-north-bengal-sikkim-as-5-3-magnitude-earthquake-jolts-nepal-101795495156370.html",
+       "publishedAt": "2026-11-24T10:27+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Earthquake of magnitude 5.3 strikes Nepal's Koshi province, tremors felt in parts of India",
+       "link": "https://www.livemint.com/news/world/earthquake-magnitude-5-3-strikes-nepal-koshi-tremors-felt-in-india-bihar-sikkim-latest-news-11795485690333.html",
+       "publishedAt": "2026-11-24T07:37+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "5.3 Magnitude Earthquake Hits Nepal, Tremors Felt Across India, Bhutan, China",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGdRSWw2SUFjZWwxQVFIR0M4dUZhNF96aXRnRWxqTmVoV2lhUm8zVl9RbW92Umwyd2JaYlRKLUhyTkhhdEhfaXJFSHVuTzRGQnpfeEVEMllFV1JPUzI5RlBXdGk2Q0puTGstVUtkNUhTMERLY0xVWm1pLXhlaENRd1dlQmc5MXhjekxjWWs2aWw3TGk3Z2U1TFYzZ0FWNXhlTWhNMkFUbHdkVE9Ec253WFpLcGw2Zw?oc=5",
+       "publishedAt": "2026-11-24T08:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Latest cricket news, live scores and video",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZjdWdm1raDRmN1M5eVMycFNIUFpHQTFKLXpBcFhIc2c1N0tQLWRiaU85OVQ2bDdfazlHUHAtODJWd25iWlRaRTVELWR0YktnLTVLemdlVGtLNm1nUWR2TE5YS1ZNTDlDODZaRmU3Z0txUnJZWnRfTTktMzdjV28?oc=5",
+     "source": "Cricket World",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "Cricket World",
+      "India Today",
+      "Sportsdunia",
+      "The Shillong Times",
+      "The Sports Room",
+      "TheTopBookies"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-24T11:40+05:30",
+     "score": 8.94,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricket World",
+       "title": "Latest cricket news, live scores and video",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZjdWdm1raDRmN1M5eVMycFNIUFpHQTFKLXpBcFhIc2c1N0tQLWRiaU85OVQ2bDdfazlHUHAtODJWd25iWlRaRTVELWR0YktnLTVLemdlVGtLNm1nUWR2TE5YS1ZNTDlDODZaRmU3Z0txUnJZWnRfTTktMzdjV28?oc=5",
+       "publishedAt": "2026-11-24T11:40+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "SER 56/3 (9) (Shivam Tiwari 32(28) Arjun Sharma 3(7)) | Services vs Meghalaya, Final, Syed Mushtaq Ali Trophy Plate 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWtrUkU4emZ3RDhldFFlMDhqOWVacUFobzZxeTBhcll1ajBncTJkWDdqNUlERndNME5VRnVNc2otdnFHcnZtb0g3Z2dqWnhkYjlTM0pYNUJMMUszMUhrVmlGQ2lRVF9yOXFCVXpKQk9UaGgtai0zdXlESEtFSUJpT2FTck1kTTdpaWRHQVBfcU95ZUdaOXZRX0hYTXhwVGdnSFVCdnYtSQ?oc=5",
+       "publishedAt": "2026-11-24T10:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Former envoy on India's relief package for Nepal",
+     "link": "https://economictimes.indiatimes.com/news/india/india-stepped-up-to-the-plate-with-rs-15000-crore-relief-package-for-nepal-former-envoy-manjeev-singh-puri/articleshow/136121747.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Al Jazeera",
+      "ET Infra",
+      "Ministry of External Affairs",
+      "NarendraModi.in",
+      "Telegraph India",
+      "The Economic Times"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T11:48+05:30",
+     "score": 8.35,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Former envoy on India's relief package for Nepal",
+       "link": "https://economictimes.indiatimes.com/news/india/india-stepped-up-to-the-plate-with-rs-15000-crore-relief-package-for-nepal-former-envoy-manjeev-singh-puri/articleshow/136121747.cms",
+       "publishedAt": "2026-11-24T11:48+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkxXYjZDcEV1OENMUFpwT2VQdFhnLXk0WlI5eEk3U3BuU0FjU2IzLVhOMHF3VjN4Rll3TlBMaEw2STl4OF94TFU4R1hZSEpiejBVaDJhRktPakRucm9CZEZ6ZHhJRVhuTmU5TVpSYW80MUtSRFlSczlacV9PM2dqWDliSHRWWTJNVkFoVkhzS0zSAZYBQVVfeXFMTUFuX0ZxSkliTGxLNm4zV3BWTFk2M0QyaTc0elRtOFhzdm5FVTlBeTNIQlh2TUU2UW1sOG5MNDhrQnp3UllfaUFSa0xSUk1SQmRmUEFHNUI2ajVEQWFXR2tidW41ZlJkNGtMb0FZcy10dFpOUEFrUzV6TGQyN19DQzc4YVpZYlpkSE05d3N4UzZmN0c5NTNR?oc=5",
+       "publishedAt": "2026-11-24T07:20+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-24T11:00+05:30",
    "generatedAt": "2026-11-24T11:30+05:30",
@@ -29779,160 +30015,6 @@
        "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1RucjZ4VXNEU1dsQXR0QVJlTXlwM2dVSmM3d0VxdjFsZU8tbE9hT01qVXVjVHlWWWV3Rk9jblZlczBwU2NaY2djZ0o4dkxzdkxyN0FnTjk2MEt4X0Y4WktXU2VjaDhDbzdkazVQM044RDhEZlJUaWVQVklyT2xCcVpSdlU?oc=5",
        "publishedAt": "2026-11-16T07:11+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-16T08:00+05:30",
-   "generatedAt": "2026-11-16T08:24+05:30",
-   "feeds": 16,
-   "headlines": 118,
-   "stories": [
-    {
-     "title": "Trade, Indo-Pacific in focus as PM Modi heads to Manila for Asean, Quad summits",
-     "link": "https://www.hindustantimes.com/india-news/trade-indo-pacific-in-focus-as-pm-modi-heads-to-manila-for-asean-quad-summits-101794793365384.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "Inshorts",
-      "News On AIR",
-      "PM India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-16T07:12+05:30",
-     "score": 9.3,
-     "summary": "PM Modi’s meetings with Asean and other world leaders in Manila are expected to focus on boosting trade, investment, strengthening maritime security cooperation",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/16/1600x900/logo/PM-Narendra-Modi-is-also-expected-to-join-the-lead_1794793417376_B7dn.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Trade, Indo-Pacific in focus as PM Modi heads to Manila for Asean, Quad summits",
-       "link": "https://www.hindustantimes.com/india-news/trade-indo-pacific-in-focus-as-pm-modi-heads-to-manila-for-asean-quad-summits-101794793365384.html",
-       "publishedAt": "2026-11-16T07:12+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "PM Modi to attend Asean summit in Manila today; what's on agenda",
-       "link": "https://timesofindia.indiatimes.com/india/pm-modi-to-attend-asean-east-asia-summits-in-manila-whats-on-agenda/articleshow/135869305.cms",
-       "publishedAt": "2026-11-16T07:00+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "PM Modi to attend Asean, East Asia summits in Manila; what's on agenda",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSXA0aEpEUGljSHZYSGZ4RUxkOVV5OHVuTTVuWndwdDZ0TlRJY3pMU1ZtVkJnQkZZUElRbFIydzlHcXVYN1puOWxPNEktWl80SnNpaExtU1ZaOFpZS2x5dGFNc3pBaVVQTktDblZTNFhjMl9WRXZmeDM5LUJrNVdvNGpTdlJkaGR2WjdCeUVUbG9UZXJGeEY2OTI5NTNGN2ZvdDlkV2xnV3lGRl9RNkZKb0c5VDlzZGhSU3B1SkxobHpPREFyVy11TmlGRFVxcURI?oc=5",
-       "publishedAt": "2026-11-16T07:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1RucjZ4VXNEU1dsQXR0QVJlTXlwM2dVSmM3d0VxdjFsZU8tbE9hT01qVXVjVHlWWWV3Rk9jblZlczBwU2NaY2djZ0o4dkxzdkxyN0FnTjk2MEt4X0Y4WktXU2VjaDhDbzdkazVQM044RDhEZlJUaWVQVklyT2xCcVpSdlU?oc=5",
-     "source": "Financial Times",
-     "sources": [
-      "CGTN",
-      "CNN",
-      "Financial Times",
-      "Reuters",
-      "The Hindu"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T07:12+05:30",
-     "score": 7.3,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Financial Times",
-       "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1RucjZ4VXNEU1dsQXR0QVJlTXlwM2dVSmM3d0VxdjFsZU8tbE9hT01qVXVjVHlWWWV3Rk9jblZlczBwU2NaY2djZ0o4dkxzdkxyN0FnTjk2MEt4X0Y4WktXU2VjaDhDbzdkazVQM044RDhEZlJUaWVQVklyT2xCcVpSdlU?oc=5",
-       "publishedAt": "2026-11-16T07:12+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Pannun case: US govt seeks 24-year jail, Nikhil Gupta pleads for 12",
-     "link": "https://timesofindia.indiatimes.com/world/us/us-govt-seeks-24-year-jail-nikhil-gupta-pleads-for-12/articleshow/135868221.cms",
-     "source": "Times of India",
-     "sources": [
-      "Daily Pioneer",
-      "PGurus",
-      "THE WEEK",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-16T04:53+05:30",
-     "score": 6.51,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135868225,imgsize-59992.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Pannun case: US govt seeks 24-year jail, Nikhil Gupta pleads for 12",
-       "link": "https://timesofindia.indiatimes.com/world/us/us-govt-seeks-24-year-jail-nikhil-gupta-pleads-for-12/articleshow/135868221.cms",
-       "publishedAt": "2026-11-16T04:53+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "US govt seeks 24-year jail, Nikhil Gupta pleads for 12",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUVscG9ucFFhdFFFeGZIVnA2OUZBbGJINjFsUURZczVNdXFtQUE4eUNFNEVnM2E1WEROMW5Ja3VTaDkyWFpMM25NN290SXJZSDRWVHVWVEZrX0k0bVhJeU42dlZiNU5Da0FxOHRsS0k3RHFwMEpidjBVaTdvZHNId2wzdlVub1ZtS2Izai1GdTVWdU9pZVZNdjEySWlucUQ0Mk9rNnZDRl93bkl2Q1B5dkdJWnFwdEhLZDQ2bTV3aHpGZw?oc=5",
-       "publishedAt": "2026-11-16T04:53+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFBHRGhFVUVMRGtZTjJ0dXRaZE9JLWY0cEVhMUhMdDRmNzczeVpEaTFKVjVJMjR6RjlidUc1SGJNcWYtNjF2c0M3SE1HY1ZSc1NzeWR5VDRpdUJ4dHBYb2xWSEZKdXdUakdudjRGWC1TYWFTWlE0UW1NQ3JqY1FjOGNvMmlCZlFISGx0Vmg0cWhWYjIwTF9VMFdNSWF0cWV1UWswZS1HWERVVFFoUE5qYVBYNUpIazN5TGtQeG5zbWVMMktUcUZyWXNR?oc=5",
-     "source": "Bloomberg",
-     "sources": [
-      "Bloomberg",
-      "Forbes",
-      "MLQ.ai",
-      "PhoneArena",
-      "The Verge"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T07:01+05:30",
-     "score": 5.96,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Bloomberg",
-       "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFBHRGhFVUVMRGtZTjJ0dXRaZE9JLWY0cEVhMUhMdDRmNzczeVpEaTFKVjVJMjR6RjlidUc1SGJNcWYtNjF2c0M3SE1HY1ZSc1NzeWR5VDRpdUJ4dHBYb2xWSEZKdXdUakdudjRGWC1TYWFTWlE0UW1NQ3JqY1FjOGNvMmlCZlFISGx0Vmg0cWhWYjIwTF9VMFdNSWF0cWV1UWswZS1HWERVVFFoUE5qYVBYNUpIazN5TGtQeG5zbWVMMktUcUZyWXNR?oc=5",
-       "publishedAt": "2026-11-16T07:01+05:30"
-      }
-     ]
-    },
-    {
-     "title": "RBI may raise interest rates to 6.25%, but this time the pain could be greater for India",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLWJYVE4xNzJQbTFpTXNUYXpkT2VpM0Ffc3BGM09KUF95RDVQbFZ0NU5YTXdTeUJ3dlc2MUozaGZBNjNnb3FVeEVjY25Gamoxb0I1MVF1U1E1eGxaZ2JsaGNUUHhuZFVaNGFfdVdMQVFDZ2xMZ1JzZWx0NTQ3N0xhRFRMeDlmRHBYekxWelNLZXVhdTN1YnAzQzNsOUpwUmppS3JtYm9kZU5BVk9WYUU3TUJfQ1p0M3BuRk0zLTZzZVFic2hKSGw4YXhldUZ4N2tvUzh0YnQ4N2VHUHM?oc=5",
-     "source": "Moneycontrol.com",
-     "sources": [
-      "Business Standard",
-      "Inshorts",
-      "Moneycontrol.com",
-      "The Economic Times",
-      "rajasthan.economictimes.indiatimes.com"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T07:29+05:30",
-     "score": 5.93,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Moneycontrol.com",
-       "title": "RBI may raise interest rates to 6.25%, but this time the pain could be greater for India",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLWJYVE4xNzJQbTFpTXNUYXpkT2VpM0Ffc3BGM09KUF95RDVQbFZ0NU5YTXdTeUJ3dlc2MUozaGZBNjNnb3FVeEVjY25Gamoxb0I1MVF1U1E1eGxaZ2JsaGNUUHhuZFVaNGFfdVdMQVFDZ2xMZ1JzZWx0NTQ3N0xhRFRMeDlmRHBYekxWelNLZXVhdTN1YnAzQzNsOUpwUmppS3JtYm9kZU5BVk9WYUU3TUJfQ1p0M3BuRk0zLTZzZVFic2hKSGw4YXhldUZ4N2tvUzh0YnQ4N2VHUHM?oc=5",
-       "publishedAt": "2026-11-16T07:29+05:30"
       }
      ]
     }
