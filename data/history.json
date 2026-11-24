@@ -1,6 +1,215 @@
 {
- "updated": "2026-11-24T17:27+05:30",
+ "updated": "2026-11-24T18:43+05:30",
  "hours": [
+  {
+   "hour": "2026-11-24T18:00+05:30",
+   "generatedAt": "2026-11-24T18:43+05:30",
+   "feeds": 15,
+   "headlines": 284,
+   "stories": [
+    {
+     "title": "Directionless alliance: Punjab Congress chief slams BJP-SAD pact for State polls",
+     "link": "https://www.thehindu.com/news/national/punjab/directionless-alliance-punjab-congress-chief-slams-bjp-sad-pact-for-state-polls/article71737836.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Shillong Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-24T15:30+05:30",
+     "score": 10.21,
+     "summary": "Both the parties, the Punjab Congress chief claimed, lacked any development agenda or roadmap for taking the border state on the path of progress and prosperity",
+     "image": "https://th-i.thgim.com/public/incoming/l3exgl/article71737854.ece/alternates/LANDSCAPE_1200/PTI11_21_2026_000269B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Directionless alliance: Punjab Congress chief slams BJP-SAD pact for State polls",
+       "link": "https://www.thehindu.com/news/national/punjab/directionless-alliance-punjab-congress-chief-slams-bjp-sad-pact-for-state-polls/article71737836.ece",
+       "publishedAt": "2026-11-24T14:54+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘Bada bhai becomes CM, Akali Dal is the elder brother’: Amit Shah after BJP, SAD announce alliance for Punjab polls",
+       "link": "https://www.hindustantimes.com/india-news/bada-bhai-becomes-cm-amit-shah-pitches-sukhbir-singh-badal-as-face-of-bjp-sad-alliance-in-punjab-101795509015212.html",
+       "publishedAt": "2026-11-24T14:06+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Bada bhai will be CM': Amit Shah after BJP-SAD announce alliance in Punjab",
+       "link": "https://timesofindia.indiatimes.com/india/bada-bhai-will-be-cm-amit-shah-after-bjp-sad-announce-alliance-in-punjab/articleshow/136123852.cms",
+       "publishedAt": "2026-11-24T14:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thirupparankundram 'deepathoon' row LIVE: Karthigai Deepam lit at traditional spot",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The News Minute"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-24T18:38+05:30",
+     "score": 9.49,
+     "summary": "Despite the Supreme Court's recent interim order allowing lighting of lamp on the controversial 'deepathoon' atop the hill in Madurai district, the maha deepam was lit at the traditional spot at Uchipillayar deepa mandapam on Tuesday (November 24, 2026).",
+     "image": "https://th-i.thgim.com/public/incoming/dcjqyz/article71737876.ece/alternates/LANDSCAPE_1200/9871_15_11_2026_21_3_46_1_TPKSOORASAMHARAM__01.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Thirupparankundram 'deepathoon' row LIVE: Karthigai Deepam lit at traditional spot",
+       "link": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
+       "publishedAt": "2026-11-24T18:38+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"10,000 Cops To Arrest Hindu Activists\": Tamil Nadu BJP Chief Amid Deepam Row",
+       "link": "https://www.ndtv.com/india-news/10-000-cops-to-arrest-hindu-activists-tamil-nadu-bjp-chief-amid-deepam-row-12370851#publisher=newsstand",
+       "publishedAt": "2026-11-24T18:04+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Tamil Nadu BJP chief Nainar Nagenthran held ahead of ‘Karthigai Deepam’ lighting in Madurai",
+       "link": "https://www.hindustantimes.com/india-news/tamil-nadu-bjp-chief-nainar-nagendran-arrested-ahead-of-karthigai-deepam-lighting-in-madurai-101795516728311.html",
+       "publishedAt": "2026-11-24T16:29+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Deepam row: TN BJP chief placed under house arrest",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/karthigai-deepam-row-tamil-nadu-bjp-chief-nainar-nagenthran-placed-under-house-arrest/articleshow/136123045.cms",
+       "publishedAt": "2026-11-24T13:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ramayana Box Office Collection Day 19 Live Updates: Ranbir Kapoor film makes Critics Choice Awards shortlist; earns over Rs 1700 cr",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdktEcVl0RE5JbU04TlFvTFlwaFVQSzZTVDE2U2oxaVN1bnZueGFLNnRZcERVczM0QnJQdmw1OXpUSmx3bzFSdlZsZmxmemtmVlR1Y0o3dzZBUDZRY0FEb0ZnUWp2cjRfaHJya3k2dDN2YzZKckJiRUlGZ1o5c3JSa0wtMHRhR0F3Y2Q3YmJaaU9WcE0yZlIyZktqdVlXWjNIUTJsT1BvTi1hUjBucWR1NHg3M0F4NWxjVUhJbzFPbU94TzFXbGd0ODVLX05jRDRBdERaMDRTeDhKQdIB4AFBVV95cUxQUVh3X0cwMnM5eE1SSDFSTHJDZldXS3BuTHoxS3dCd1B6TUtaYXdsYnVQRy1ZeGNsOHhkTzRYVjdGdVNjQ1F2VGRYY05pZWZ3bTF4OUl1S21CN05xU0lzQXJRdEhWV2M2b21oUVFrMUUyazFqSUZ5OFY4RXFYVk1sYjVoM2dRZFBYQ0tEa0dMbW8yRkRCYXZhRDl0SkRTYWxpUk94WXlvbjhjbEVQMVhkRzM2U3Y5RUxZM2hEVzNKVHFMVTZETW1KRmxuVzZqVFFyQXl2eW1mT0NpRWRFQVYyYg?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "NDTV",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-24T17:50+05:30",
+     "score": 9.35,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Box Office Collection Day 19 Live Updates: Ranbir Kapoor film makes Critics Choice Awards shortlist; earns over Rs 1700 cr",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdktEcVl0RE5JbU04TlFvTFlwaFVQSzZTVDE2U2oxaVN1bnZueGFLNnRZcERVczM0QnJQdmw1OXpUSmx3bzFSdlZsZmxmemtmVlR1Y0o3dzZBUDZRY0FEb0ZnUWp2cjRfaHJya3k2dDN2YzZKckJiRUlGZ1o5c3JSa0wtMHRhR0F3Y2Q3YmJaaU9WcE0yZlIyZktqdVlXWjNIUTJsT1BvTi1hUjBucWR1NHg3M0F4NWxjVUhJbzFPbU94TzFXbGd0ODVLX05jRDRBdERaMDRTeDhKQdIB4AFBVV95cUxQUVh3X0cwMnM5eE1SSDFSTHJDZldXS3BuTHoxS3dCd1B6TUtaYXdsYnVQRy1ZeGNsOHhkTzRYVjdGdVNjQ1F2VGRYY05pZWZ3bTF4OUl1S21CN05xU0lzQXJRdEhWV2M2b21oUVFrMUUyazFqSUZ5OFY4RXFYVk1sYjVoM2dRZFBYQ0tEa0dMbW8yRkRCYXZhRDl0SkRTYWxpUk94WXlvbjhjbEVQMVhkRzM2U3Y5RUxZM2hEVzNKVHFMVTZETW1KRmxuVzZqVFFyQXl2eW1mT0NpRWRFQVYyYg?oc=5",
+       "publishedAt": "2026-11-24T17:50+05:30"
+      },
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 5",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2s4LUxNNWxNVmF5clFXMEh0QWhfaDFkbG9sbVN2bFlETDVsb0FXRUNRTEtEcnRpTFpHb3FvMmc0cXFmejdDazFLcFRwQS1TTjEyeDhoV1RCbEthd1pEamo2SHpvcEhUUndWVjJCMENTOXRXbkZqbXU0UDY2Mkh0Y2lIQk4xMGxyNkNfRFVB?oc=5",
+       "publishedAt": "2026-11-24T16:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Priyanka Gandhi slapped boy who called her uncle Sanjay Gandhi a ‘chor’ in school after Emergency",
+     "link": "https://www.hindustantimes.com/india-news/priyanka-gandhi-slapped-boy-who-called-her-uncle-sanjay-gandhi-a-chor-in-school-after-emergency-101795513629852.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Moneycontrol.com",
+      "NDTV",
+      "News18",
+      "Rediff.com",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-24T15:27+05:30",
+     "score": 7.67,
+     "summary": "Priyanka Gandhi narrated the incident during a conversation with her mother Sonia Gandhi and her brother Rahul Gandhi,",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/PTI07-28-2026-000404B-0_175242624946_178524263598_1795513915521_DqQg_1795513915901_K37c_54c0ea21-6aff-4e07-a421-7b53af1ea013_pT7U.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Priyanka Gandhi slapped boy who called her uncle Sanjay Gandhi a ‘chor’ in school after Emergency",
+       "link": "https://www.hindustantimes.com/india-news/priyanka-gandhi-slapped-boy-who-called-her-uncle-sanjay-gandhi-a-chor-in-school-after-emergency-101795513629852.html",
+       "publishedAt": "2026-11-24T15:27+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "‘Chor hai tera chacha’: When Priyanka slapped a boy in school over Emergency taunts",
+       "link": "https://timesofindia.indiatimes.com/india/chor-hai-tera-chacha-when-priyanka-gandhi-slapped-a-boy-in-school-over-emergency-taunts/articleshow/136126198.cms",
+       "publishedAt": "2026-11-24T15:25+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "'Chor Hai Tera Chacha': When Priyanka Gandhi Slapped Boy In School For Teasing Her",
+       "link": "https://www.ndtv.com/india-news/chor-hai-tera-chacha-when-priyanka-gandhi-slapped-boy-in-school-for-teasing-her-12370005#publisher=newsstand",
+       "publishedAt": "2026-11-24T15:14+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "‘Chor hai tera chacha’: When Priyanka Gandhi slapped a boy in school over Emergency taunts",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQa1o2dHRQbGdxMmlwSUtsWkdZVnhJZW9QNWRyaFNuTmc4X0F3TnU5YjJCWlZFTFNqZVo1M1o2aGg3bTNCTVBrbXhmeHFqTXBVYTlMV19vSlBsVWpQckRwTzhwSDhoNGhKYTNINVlteG54dHpQeGZrNVp4U1NVZU8taTB3eVFvRE9YNEVBWF9sOUQ4LTRhVEVHOUdPSFdQYmRtbG5BTkNDQmJsaW9jRTlyd3FQMHBLeVpNOURhanByN3ZBeVhoSmhDRU85c2VrYlF3OENZUWF2Yzc4LWI4SVBUMU1ZNEJWVEVOUk9jWTVXOGE?oc=5",
+       "publishedAt": "2026-11-24T15:25+05:30"
+      },
+      {
+       "source": "Rediff.com",
+       "title": "When Priyanka Gandhi slapped boy who teased her after Emergency",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMDBnVkZsWjBkNENnUjg0dG1rcWVUU2NRcnpxLXdvTTMzajByOEEwMm5xbVFmTU9OZmFhMW1BbXdRbkUxeXp0anJ1U2lGanVXWGkxb0txem85Uk5MT1hUcENhT1I3QkdIb1ZfSVEyYWVwZmNQMmY1ZDFaRGZSbFZ0dXRNQlJXSGdZU0o1Nm53aHM0NVJJQnVRSEVVcUdueVdEU3lzdEpwYmlRd052N3ZZeWtoSjBMbDdKQ1pBcHZTbzhUVDB4YkVCZ3h3NHVaelBtQ2FCT0xiSWlrRllUbGc?oc=5",
+       "publishedAt": "2026-11-24T14:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Vaibhav Sooryavanshi creates history! Smashes fastest-ever hundred in List A",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-creates-history-smashes-fastest-ever-hundred-in-list-a-cricket-with-28-ball-ton/articleshow/136128063.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "Cricinfo",
+      "ICC",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-24T17:02+05:30",
+     "score": 7.22,
+     "summary": "In a stunning display of skill, Vaibhav Sooryavanshi made cricket history by scoring the fastest century in List A cricket for India A against the UAE. He reached the milestone in just 28 balls, highlighting India A's remarkable achievement of a team century in five overs. Though the UAE amassed 249 runs, Harpreet Singh Bhatia's 130 runs didn't diminish Sooryavanshi's pivotal role in propelling India A toward the…",
+     "image": "https://static.toiimg.com/photo/msid-136128080,imgsize-91304.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Vaibhav Sooryavanshi creates history! Smashes fastest-ever hundred in List A",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-creates-history-smashes-fastest-ever-hundred-in-list-a-cricket-with-28-ball-ton/articleshow/136128063.cms",
+       "publishedAt": "2026-11-24T16:42+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Vaibhav Sooryavanshi slams fastest 100 and 200 in List A cricket",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlFZLUZIeDUtcGR6ZmlmSm5hSldhc1VlMG1SN2JiV3Y0RjExZjAzQnZfdXlkeTUyZVlEQmZLZXdfeGdCdTFjTUNvdm5iTUhpNVhpUjNRY25CNGJhYkJybG1UcGt3UDJkRlVoMUxXUVEwakg4SG1BU2pqNjVvQkpQMlVIbUN0ZFY3MmFUeWlrdU81dUVCT2xoclhHTDJIS3c0bDNkSWUyQnVoZWFmT0xLUVpsZXR3eENuXzRkcGpyREbSAdIBQVVfeXFMUFk1YWw2V0lIVWNqMURTQ1BIYWNHSFFieE5icDdCVU5jeVBHYmgyZ2JVZlVtbFJfNDBtUVBwT0U2dzZzZ0pmMnAwRkF6VzdTcXVxM1pmS2RZMzh5dWs4enZGYmNsaGtjQmxRWG9CdnZQd2cxWEdnRGlDeURjd050VWJMUmFlWGpGMkNOZDdvNGwteDRnZHZjclZXa2ROakVNU1dzM043dDZQdnNGdWdESDhUZ0ZNZGJ4OWdETVlIdnBOWEEyRUdaSk81R0NROVhNRWNB?oc=5",
+       "publishedAt": "2026-11-24T17:02+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-24T17:00+05:30",
    "generatedAt": "2026-11-24T17:27+05:30",
@@ -29881,202 +30090,6 @@
        "title": "17 dead as 2 mass shootings rock South Africa within 24 hours",
        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/17-dead-as-2-mass-shootings-rock-south-africa-within-24-hours/articleshow/135884485.cms",
        "publishedAt": "2026-11-16T16:20+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-16T16:00+05:30",
-   "generatedAt": "2026-11-16T16:09+05:30",
-   "feeds": 16,
-   "headlines": 315,
-   "stories": [
-    {
-     "title": "Bilkis Bano case: Supreme Court suspends sentence, grants bail to two convicts",
-     "link": "https://www.thehindu.com/news/national/bilkis-bano-case-supreme-court-suspends-sentence-grants-bail-to-two-convicts/article71707334.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "Live Law",
-      "NDTV",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "TheWire.in",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-16T15:49+05:30",
-     "score": 9.7,
-     "summary": "\"Having heard the parties, it suffices to state that the appellants have been incarcerated for a period of more than 17 years, and also the fact remains that one of the appellants has a severe handicap. Certainly, there are issues to be decided in the appeal, both on fact and law,\" says Supreme Court",
-     "image": "https://th-i.thgim.com/public/incoming/p53xtx/article71707346.ece/alternates/LANDSCAPE_1200/PTI01_08_2024_000059B.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Bilkis Bano case: Supreme Court suspends sentence, grants bail to two convicts",
-       "link": "https://www.thehindu.com/news/national/bilkis-bano-case-supreme-court-suspends-sentence-grants-bail-to-two-convicts/article71707334.ece",
-       "publishedAt": "2026-11-16T15:49+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Bilkis Bano case: SC suspends sentence, grants bail to 2 convicts",
-       "link": "https://www.hindustantimes.com/india-news/bilkis-bano-case-sc-suspends-sentence-grants-bail-to-2-convicts-101794819237766.html",
-       "publishedAt": "2026-11-16T14:23+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "2 Convicts In Bilkis Bano Case Get Bail From Supreme Court After 17 Years In Jail",
-       "link": "https://www.ndtv.com/india-news/2-convicts-in-bilkis-bano-case-get-bail-from-supreme-court-after-17-year-jail-12332722#publisher=newsstand",
-       "publishedAt": "2026-11-16T13:55+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Bilkis Bano gang-rape case: SC grants bail, suspends life sentence of two convicts",
-       "link": "https://timesofindia.indiatimes.com/india/bilkis-bano-gangrape-case-sc-suspends-life-sentence-of-two-convicts-grants-bail/articleshow/135878052.cms",
-       "publishedAt": "2026-11-16T13:41+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Terrorist killed in J&K's Kulgam encounter days after attack on CRPF personnel",
-     "link": "https://timesofindia.indiatimes.com/india/2-terrorists-killed-in-jk-kulgam-encounter-days-after-attack-on-crpf-personnel/articleshow/135878975.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "Moneycontrol.com",
-      "NDTV",
-      "Rising Kashmir",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-16T14:19+05:30",
-     "score": 9.2,
-     "summary": "A massive search and combing operation had been underway in Kulgam for the past four days to track down the terrorists responsible for the attack.",
-     "image": "https://static.toiimg.com/photo/msid-135879212,imgsize-1705633.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Terrorist killed in J&K's Kulgam encounter days after attack on CRPF personnel",
-       "link": "https://timesofindia.indiatimes.com/india/2-terrorists-killed-in-jk-kulgam-encounter-days-after-attack-on-crpf-personnel/articleshow/135878975.cms",
-       "publishedAt": "2026-11-16T14:19+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Terrorists behind CRPF attack trapped in Kulgam, encounter underway",
-       "link": "https://www.hindustantimes.com/india-news/lateef-bhat-killed-kulgam-encounter-kashmir-crpf-attack-terrorist-trapped-101794817992183.html",
-       "publishedAt": "2026-11-16T14:10+05:30"
-      },
-      {
-       "source": "Moneycontrol.com",
-       "title": "LeT terrorist Lateef Bhat, suspected to be behind Kulgam attack killed by security forces",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONmJLT2ZuZHN6WVIzSGkwOXhIeEZTQ1R1Rl9xaTZmVUc3VWJQSFhyeWJIRXFMOGplSUVsM0JFemk2bWhDd1g2a3RlYk85U0Z5Y2IzeWdLd0liSWVIaFRrQWJzTGJfTnVPcWVGUmxDak9wYW1fVVBYYllHUnRiQ01WVGFzZGdxQlFCTXBZaDB3bmpsYm4wYmhESzRIVW4zLVJUUzRGaGtxUHprSlBaQlFXSVc1ZkVPSnRZY0ZRbE5hRk5iQXBrWEsyX3pGSklVMnlCQjhYN1U2M1lwQdIB3wFBVV95cUxNTG5Rd3NSSkU1YUk0MEc4bXh2TXo0SFZmLTBrN2FnM2VQZXpMVDZWeG5lM0h0Wk9kOC1jNUk5b1VsWUFya0h5aXJOSldyWHBISUpST2FUV3hCcEptcHp3SENEWlNBOEFUa1BaLVo4ZTBBTlBuZHVkSkl2a0p5ZnptVGIzcVpVc203WEVWMERlMUpZZF85S0tXSEd1N0FmMUpFcE50OV9yZmpQZ2R1ZV9BaUNvajBQa0hIN2hZQXQwWTNQSUExSFozNGNUWGdVWFB5WUo3ZTNUenZyb1FrcE5v?oc=5",
-       "publishedAt": "2026-11-16T14:03+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Lashkar Terrorist Linked To CRPF Camp Attack Killed In J&K Encounter",
-       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZjNpVklEenpsWkw2VU5hU0RDMG5yMnRHMy1ZQy1zY3RUdTJsZ2EtZ3JSb2NMVEoxdVFYRUg3XzFrVzkzVkV4ZzlPRHEzRWl6bGhQdXFDeGVXYUp2RFNxbVJ1T19XdDJuUzl5NDlkNEFndjBMWWhCaVZMVjFWcnVubGc5VVFod1REZFU3eldGaUpjUlM2aXpoMzhuT2lUY3RMOHVkMkUtX0FUSHhtR01QTGlDaEhrTXp4bll6Z1dEX0g0dV9BMjVVM2RmWWpHekNGem9V?oc=5",
-       "publishedAt": "2026-11-16T14:02+05:30"
-      }
-     ]
-    },
-    {
-     "title": "China says Xi, Trump, Putin to discuss 'world peace'",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/china-says-xi-trump-putin-to-discuss-world-peace/articleshow/135883578.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Al Jazeera",
-      "CGTN",
-      "CNBC",
-      "Financial Times",
-      "The Economic Times",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-16T15:52+05:30",
-     "score": 8.45,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "China says Xi, Trump, Putin to discuss 'world peace'",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/china-says-xi-trump-putin-to-discuss-world-peace/articleshow/135883578.cms",
-       "publishedAt": "2026-11-16T15:52+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "China confirms first Xi-Trump-Putin summit in Shenzhen on November 19",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTHhNa2J6WGdIWUVjT01BR3ZyOThPX0VIQVAzcmJ5Y2Exb1plT1ZNb0JWT0lrajd1MDZFRE9kbVpiVTNOam9BcEhOeUVFSEQ3RHR1YjRqcTk5SEpOa0VZVVpnSFhUYkpoSDBLRmtzLWhFcnEwY05ka1RzUHhpWGwyV1ZKUHVka1dTcnMtVmdrQ1ZsVUVnMVVHRW5qYk81cEw0RTAwaGtIYVl6WWxGY2IzUDdQblZ5Wm9waDZoYndR0gHEAUFVX3lxTE9YOTNYNDlQYkdoZjJrSE1HUWRFeDMwVmw1Z1JRTjN4eGpQZXhPYjVNNDdXQmVTS015S1AybkhDY1QwWlJlX04wcHBFUmRjRERBVHVReVJTZWZmQ29sWnA0dE1tdk1FWkhpc0o0Y3NoSG5rTlowbV93dTJaZ2lQWWcwMjZmMjhmODhUd2REZUQ3N3RCdF9DNVlGZU1pUU1NVWxjekY0Z3RlRVlTTU9UajRCTlZKQnRYTmo4dl9oSXVUOFdRc0E?oc=5",
-       "publishedAt": "2026-11-16T13:49+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Wholesale inflation jumps to 12.29% in October due to rising crude and power prices",
-     "link": "https://timesofindia.indiatimes.com/business/india-business/wholesale-inflation-jumps-to-12-29-in-october-due-to-rising-crude-and-power-prices/articleshow/135876550.cms",
-     "source": "Times of India",
-     "sources": [
-      "ET Government",
-      "Moneycontrol.com",
-      "Telegraph India",
-      "The Hindu",
-      "TheWire.in",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-16T13:12+05:30",
-     "score": 7.26,
-     "summary": "In October, wholesale inflation in India surged to 12.29%, up from 11.39% in September. This increase was largely driven by a dramatic rise in fuel and power prices, which skyrocketed to 32.84%. While crude petroleum and natural gas prices soared by 70.80%, primary food articles experienced only a slight inflation uptick. Meanwhile, manufactured goods showed minor easing, resulting in a cumulative WPI inflation of…",
-     "image": "https://static.toiimg.com/photo/msid-135877215,imgsize-135740.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Wholesale inflation jumps to 12.29% in October due to rising crude and power prices",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/wholesale-inflation-jumps-to-12-29-in-october-due-to-rising-crude-and-power-prices/articleshow/135876550.cms",
-       "publishedAt": "2026-11-16T13:12+05:30"
-      },
-      {
-       "source": "Moneycontrol.com",
-       "title": "Wholesale inflation rises to 12.29% in October as fuel and power prices surge",
-       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeDFYdFdzUTBmc19HbW1PYWd0amEtTzNOV2V4cUtSU3Ata3hQd3NfN2JPTDhHeVU4QTBsaVZSaXl2SGlMaVJVb0ZnUWR0cldXdVd1NHRjS3EtckU2U2hwYWllbWx0NVJvTllUdFZrSWtvNXhhVXRxaGY0ZU5RUjFLSTdGaUZPT2ZyZDhlN2pVckI1enF1T2FWQWU5bExrc3lQeDBldzFZNDZBSWJEdG1OZnlUQTVUdW05OWVQLTREX2lXREphajJwcXRKN0pJNXNfUnlrSy1lNEjSAd4BQVVfeXFMTjZGek8tSlhUaEFUVzhrUlQzQXc5ZW1SSXdoZzc5ek1PSnRVbmJ2XzNnYXhhLUJueVNlT2FUNnBSQlppamhxZno5cU9PR0p6Ql9ESGVWcElWLTA1RmRKeUpSWU5SUFFBbE9PTVpwNGFrWnhTYmZSRDcyUm1ES29xTE9rTUp0NFZDMFZYamZLSFFabldPWUl6MllXMG5LdFpxaWVzX2tnVXVDbWsxaTdkQXJzd1p1VWxrRzBsa1pDNVNfX3luSWV5ZHh4Zl9Ub3IydTg3UzQ1dXRyZUdOdFdn?oc=5",
-       "publishedAt": "2026-11-16T12:16+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Sandpapergate row: Khawaja reveals why he kept David Warner in the dark",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/sandpapergate-row-he-was-shocked-usman-khawaja-reveals-why-he-kept-david-warner-in-the-dark/articleshow/135878980.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricinfo",
-      "ESPN India",
-      "Sky Sports",
-      "The Guardian",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-16T14:47+05:30",
-     "score": 7.07,
-     "summary": "Usman Khawaja disclosed that David Warner only learned about his writing on the ball-tampering scandal two months prior to publication. Khawaja had promised Warner in 2020 to address the controversy, and he finally informed him before the release. Warner expressed surprise upon receiving the chapter about the scandal just a week earlier. Khawaja's account has rekindled discussions surrounding the 2018 incident…",
-     "image": "https://static.toiimg.com/photo/msid-135880160,imgsize-40065.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Sandpapergate row: Khawaja reveals why he kept David Warner in the dark",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/sandpapergate-row-he-was-shocked-usman-khawaja-reveals-why-he-kept-david-warner-in-the-dark/articleshow/135878980.cms",
-       "publishedAt": "2026-11-16T14:47+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Sandpapergate row: Usman Khawaja reveals 'awkward' conversation with Steve Smith",
-       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUE1lUDh6N25Wa3RTQml2ajZMbFBUQ1dib1lQX1J6VnlEVUhIWkd5SElHeHl4bzlEZGdFOFNNdWpVd2pXRk41anJmUE5TblU4b0xRTUNjT2NwR0d6NXU3elpCOVU1c1REOHRDMk40UVN6N2JMdVh1Sl9iN0NFVGRHeG0ycElrYTZWSnFPZVVUa2VibUcwVkpoWHoxeUdVdmt6Mk1XRlZuY2hJUm4xSkNRNnhoTER5aGRFbGYwaURaVG5MUGk5UUF3WHBYUUw5T2dRY0hNc2NvbHNtYmdXOGVzaHdmek8yaGE0c3ZDT2VZNGlYVUV1bHhtS1k2am1uUQ?oc=5",
-       "publishedAt": "2026-11-16T12:43+05:30"
       }
      ]
     }
