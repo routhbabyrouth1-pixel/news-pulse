@@ -1,6 +1,159 @@
 {
- "updated": "2026-11-24T18:43+05:30",
+ "updated": "2026-11-24T20:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-24T20:00+05:30",
+   "generatedAt": "2026-11-24T20:27+05:30",
+   "feeds": 16,
+   "headlines": 267,
+   "stories": [
+    {
+     "title": "Thirupparankundram 'deepathoon' row LIVE: Karthigai Deepam lit at traditional spot despite Supreme Court order",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Live Law",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-24T19:34+05:30",
+     "score": 7.35,
+     "summary": "Defying the Supreme Court's recent interim order that allowed the lighting of lamp on the controversial 'deepathoon' atop the hill in Madurai district, the maha deepam was lit at the traditional spot at Uchipillayar deepa mandapam on November 24",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Thirupparankundram 'deepathoon' row LIVE: Karthigai Deepam lit at traditional spot despite Supreme Court order",
+       "link": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
+       "publishedAt": "2026-11-24T19:34+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Karthigai Deepam lit in Thiruvannamalai",
+       "link": "https://economictimes.indiatimes.com/news/india/karthigai-deepam-lit-in-thiruvannamalai-usual-spot-at-tirupparankundram/articleshow/136131718.cms",
+       "publishedAt": "2026-11-24T18:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Vaibhav Sooryavanshi slams fastest 100 and 200 in List A cricket",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlFZLUZIeDUtcGR6ZmlmSm5hSldhc1VlMG1SN2JiV3Y0RjExZjAzQnZfdXlkeTUyZVlEQmZLZXdfeGdCdTFjTUNvdm5iTUhpNVhpUjNRY25CNGJhYkJybG1UcGt3UDJkRlVoMUxXUVEwakg4SG1BU2pqNjVvQkpQMlVIbUN0ZFY3MmFUeWlrdU81dUVCT2xoclhHTDJIS3c0bDNkSWUyQnVoZWFmT0xLUVpsZXR3eENuXzRkcGpyREbSAdIBQVVfeXFMUFk1YWw2V0lIVWNqMURTQ1BIYWNHSFFieE5icDdCVU5jeVBHYmgyZ2JVZlVtbFJfNDBtUVBwT0U2dzZzZ0pmMnAwRkF6VzdTcXVxM1pmS2RZMzh5dWs4enZGYmNsaGtjQmxRWG9CdnZQd2cxWEdnRGlDeURjd050VWJMUmFlWGpGMkNOZDdvNGwteDRnZHZjclZXa2ROakVNU1dzM043dDZQdnNGdWdESDhUZ0ZNZGJ4OWdETVlIdnBOWEEyRUdaSk81R0NROVhNRWNB?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "ICC",
+      "Sportstar",
+      "Telegraph India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-24T18:34+05:30",
+     "score": 7.19,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "Vaibhav Sooryavanshi slams fastest 100 and 200 in List A cricket",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlFZLUZIeDUtcGR6ZmlmSm5hSldhc1VlMG1SN2JiV3Y0RjExZjAzQnZfdXlkeTUyZVlEQmZLZXdfeGdCdTFjTUNvdm5iTUhpNVhpUjNRY25CNGJhYkJybG1UcGt3UDJkRlVoMUxXUVEwakg4SG1BU2pqNjVvQkpQMlVIbUN0ZFY3MmFUeWlrdU81dUVCT2xoclhHTDJIS3c0bDNkSWUyQnVoZWFmT0xLUVpsZXR3eENuXzRkcGpyREbSAdIBQVVfeXFMUFk1YWw2V0lIVWNqMURTQ1BIYWNHSFFieE5icDdCVU5jeVBHYmgyZ2JVZlVtbFJfNDBtUVBwT0U2dzZzZ0pmMnAwRkF6VzdTcXVxM1pmS2RZMzh5dWs4enZGYmNsaGtjQmxRWG9CdnZQd2cxWEdnRGlDeURjd050VWJMUmFlWGpGMkNOZDdvNGwteDRnZHZjclZXa2ROakVNU1dzM043dDZQdnNGdWdESDhUZ0ZNZGJ4OWdETVlIdnBOWEEyRUdaSk81R0NROVhNRWNB?oc=5",
+       "publishedAt": "2026-11-24T18:34+05:30"
+      }
+     ]
+    },
+    {
+     "title": "GTA VI’s jaw-dropping success: in figures",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1RUTTlkdFdoR0NDNWFDTlBsS2xlN2JmLXc5UElWeFBTZnZnTDRTQUxjeF9hQlVZNGJwNDVqMnpMUHdna1lmV2tXYXZ0M3UycXE5RWFETjM5eWpROE1qYV9BUlkzeXFNaWtwOFRSTWVEcmE0ZkF6aElFREdSd2JTYlVfWQ?oc=5",
+     "source": "The Guardian",
+     "sources": [
+      "Amazon Web Services",
+      "BBC",
+      "PlayStation.Blog",
+      "Rockstar Games",
+      "Team-BHP",
+      "The Guardian"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T18:30+05:30",
+     "score": 7.17,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "GTA VI’s jaw-dropping success: in figures",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1RUTTlkdFdoR0NDNWFDTlBsS2xlN2JmLXc5UElWeFBTZnZnTDRTQUxjeF9hQlVZNGJwNDVqMnpMUHdna1lmV2tXYXZ0M3UycXE5RWFETjM5eWpROE1qYV9BUlkzeXFNaWtwOFRSTWVEcmE0ZkF6aElFREdSd2JTYlVfWQ?oc=5",
+       "publishedAt": "2026-11-24T18:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
+     "link": "https://www.aljazeera.com/sports/2026/11/24/records-tumble-as-indian-teen-sooryavanshi-smashes-53-ball-204-against-uae?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "Cricbuzz",
+      "Cricinfo",
+      "ICC",
+      "Sportstar",
+      "Telegraph India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T19:22+05:30",
+     "score": 7.07,
+     "summary": "The 15-year-old Sooryavanshi struck a staggering 28 sixes, the most ever in a senior men's innings.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
+       "link": "https://www.aljazeera.com/sports/2026/11/24/records-tumble-as-indian-teen-sooryavanshi-smashes-53-ball-204-against-uae?traffic_source=rss",
+       "publishedAt": "2026-11-24T19:22+05:30"
+      },
+      {
+       "source": "Cricinfo",
+       "title": "Sooryavanshi smashes List A records to down UAE with whirlwind 204 off 53",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORnIxeVpCT2NFaFp0YVpkMGhXcmFrVTV3Tk1MSUVkTTVQNl9WNTZtTXp3MC1MX1Q5TWNCT0g2Mm0xVkRZcnBGQ2pUdzdBazRtM2NaOFotOWpmdW05eXdhOFpoLUVqUmFzQW40UEVudTdqNWFTTlhZcXc1aDI0MWoydmgtTzRHakoxckdKNExmZGltU0p3dW1aaDN2UXlIajJIcENOMzNLQm42Ml9uSnlqUUFaZXJVR2pKYXh1RFFRb1RsWTAwLU5WazBsWURyQXV4U0lmQ3BUdnd4X3lFcW9sYWNCZG4?oc=5",
+       "publishedAt": "2026-11-24T18:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
+     "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+     "source": "The Guardian",
+     "sources": [
+      "Chess.com",
+      "ChessBase India",
+      "ESPN India",
+      "The Guardian",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-24T20:13+05:30",
+     "score": 6.71,
+     "summary": "Youngest title match in chess history starts Tuesday Sindarov, Gukesh open with Berlin defense of Ruy Lopez Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin…",
+     "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
+       "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+       "publishedAt": "2026-11-24T20:13+05:30"
+      },
+      {
+       "source": "Chess.com",
+       "title": "How To Watch FIDE World Championship 2026 Game 1",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JNFZPLTctTkQ4Qk1abDI4UHR6QlNuT1hnR3pmWDRINGx1UTkxRjRvb2lNcHg3RTA4SUFrODdhRnJ0Z0VyWEY3LVpiNldaQ3p2bkxrYnlzb3VlU05OQ0IzelFHRzhLQWoxUi1mUEM2ZF9JRmx2LV9aaVZEOWs4Zw?oc=5",
+       "publishedAt": "2026-11-24T18:52+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-24T18:00+05:30",
    "generatedAt": "2026-11-24T18:43+05:30",
@@ -29921,175 +30074,6 @@
        "title": "LSG set to trade Shami to RR for Sam Curran",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0UxRVROcUNlSHFiWDFNZEpoWTRDMk85Nm1vWXVnVU1WMzRnMHEtdXFINFRHNVhtVWRqYklrUGhnSEpJM2tQQlp4Y3NMY2ZZSi1INW5jSDNWMWdTMUFydG95cU9Ca3dRbFVORVZPbHEtcUJ4ZmdwNU5PdmEzQTBXQ1lDSGxycnpIb2I2aU5KelNhYXJhSVHSAacBQVVfeXFMUDdkdnQ0YzNhV2U2ajRvV1dRbjdVUS1MdkpsejJjd3c5QmtuUmx2UDdGUkRrQTFHUW0wSDYteWtTcXR5dk90LXNBV2hxSmt2aEJieWYzb2FuUzlyRGlCd3JyZ0NhRHhDZ0tza3Q1Uk1jSzFJemtKS1NEN0JFdF91WjNlSFloT3ktZjlpUU1qdEFqc2tGN29zMTdpclVnc3BxbFFDU2djTDA?oc=5",
        "publishedAt": "2026-11-16T18:50+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-16T17:00+05:30",
-   "generatedAt": "2026-11-16T17:33+05:30",
-   "feeds": 10,
-   "headlines": 331,
-   "stories": [
-    {
-     "title": "Bilkis Bano case: Supreme Court suspends sentence, grants bail to two convicts",
-     "link": "https://www.thehindu.com/news/national/bilkis-bano-case-supreme-court-suspends-sentence-grants-bail-to-two-convicts/article71707334.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "The Hindu",
-      "The Indian Express",
-      "Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T15:49+05:30",
-     "score": 5.71,
-     "summary": "\"Having heard the parties, it suffices to state that the appellants have been incarcerated for a period of more than 17 years, and also the fact remains that one of the appellants has a severe handicap. Certainly, there are issues to be decided in the appeal, both on fact and law,\" says Supreme Court",
-     "image": "https://th-i.thgim.com/public/incoming/p53xtx/article71707346.ece/alternates/LANDSCAPE_1200/PTI01_08_2024_000059B.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Bilkis Bano case: Supreme Court suspends sentence, grants bail to two convicts",
-       "link": "https://www.thehindu.com/news/national/bilkis-bano-case-supreme-court-suspends-sentence-grants-bail-to-two-convicts/article71707334.ece",
-       "publishedAt": "2026-11-16T15:49+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Supreme Court suspends life sentences of Bilkis Bano convicts, grants them bail",
-       "link": "https://indianexpress.com/article/legal-news/bilkis-bano-gangrape-gujarat-riots-2002-bail-2-convicts-10965164/",
-       "publishedAt": "2026-11-16T14:27+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Bilkis Bano case: SC suspends sentence, grants bail to 2 convicts",
-       "link": "https://www.hindustantimes.com/india-news/bilkis-bano-case-sc-suspends-sentence-grants-bail-to-2-convicts-101794819237766.html",
-       "publishedAt": "2026-11-16T14:23+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "2 Convicts In Bilkis Bano Case Get Bail From Supreme Court After 17 Years In Jail",
-       "link": "https://www.ndtv.com/india-news/2-convicts-in-bilkis-bano-case-get-bail-from-supreme-court-after-17-year-jail-12332722#publisher=newsstand",
-       "publishedAt": "2026-11-16T13:55+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Bilkis Bano gang-rape case: SC grants bail, suspends life sentence of two convicts",
-       "link": "https://timesofindia.indiatimes.com/india/bilkis-bano-gangrape-case-sc-suspends-life-sentence-of-two-convicts-grants-bail/articleshow/135878052.cms",
-       "publishedAt": "2026-11-16T13:41+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Lakshmi Venu challenges TVS family settlement, seeks partition of father's assets",
-     "link": "https://timesofindia.indiatimes.com/business/india-business/lakshmi-venu-challenges-tvs-family-settlement-seeks-partition-of-fathers-assets/articleshow/135887382.cms",
-     "source": "Times of India",
-     "sources": [
-      "NDTV",
-      "Times of India"
-     ],
-     "sourceCount": 2,
-     "publishedAt": "2026-11-16T17:22+05:30",
-     "score": 2.97,
-     "summary": "TVS Family Dispute: In a partition notice addressed to her father, Lakshmi has asked him to ensure a fair and lawful division of the assets.",
-     "image": "https://static.toiimg.com/photo/msid-135888137,imgsize-88440.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Lakshmi Venu challenges TVS family settlement, seeks partition of father's assets",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/lakshmi-venu-challenges-tvs-family-settlement-seeks-partition-of-fathers-assets/articleshow/135887382.cms",
-       "publishedAt": "2026-11-16T17:22+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "TVS Family Feud Deepens: Lakshmi Venu Seeks Equal Share In Father's Assets",
-       "link": "https://www.ndtv.com/business-news/tvs-family-feud-deepens-lakshmi-venu-seeks-equal-share-in-father-venu-srinivasan-assets-12333132#publisher=newsstand",
-       "publishedAt": "2026-11-16T15:27+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Belgium’s Romelu Lukaku retires from international football",
-     "link": "https://indianexpress.com/article/sports/football/belgiums-romelu-lukaku-retires-from-international-football-10965455/",
-     "source": "The Indian Express",
-     "sources": [
-      "The Indian Express",
-      "Times of India"
-     ],
-     "sourceCount": 2,
-     "publishedAt": "2026-11-16T17:18+05:30",
-     "score": 2.96,
-     "summary": "Romelu Lukaku has retired from international football at 33, ending a 16-year Belgium career as the country's all-time leading goalscorer with 94 goals in 135 appearances. The Fenerbahçe striker represented Belgium at four World Cups and three European Championships, including their historic third-place finish in 2018. His departure marks the end of an era for Belgium's golden generation.",
-     "image": "https://images.indianexpress.com/2026/11/Lukaku-retires.jpg",
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Belgium’s Romelu Lukaku retires from international football",
-       "link": "https://indianexpress.com/article/sports/football/belgiums-romelu-lukaku-retires-from-international-football-10965455/",
-       "publishedAt": "2026-11-16T17:18+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Lukaku retires as Belgium's highest goalscorer with 94 goals in 135 appearances",
-       "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/its-been-a-wonderful-ride-belgiums-highest-goalscorer-romelu-lukaku-retires-from-international-duty-at-33/articleshow/135884114.cms",
-       "publishedAt": "2026-11-16T17:02+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India wants to become the world’s No.1 nation to ensure nobody can dictate terms to us: V-P Radhakrishnan",
-     "link": "https://www.thehindu.com/news/national/india-wants-to-become-worlds-no1-nation-to-ensure-nobody-can-dictate-terms-to-us-vice-president/article71707566.ece",
-     "source": "The Hindu",
-     "sources": [
-      "The Economic Times",
-      "The Hindu"
-     ],
-     "sourceCount": 2,
-     "publishedAt": "2026-11-16T16:45+05:30",
-     "score": 2.86,
-     "summary": "C.P. Radhakrishnan said this while addressing a function after inaugurating the new Iconic Tower academic building at the Sri Sri University campus",
-     "image": "https://th-i.thgim.com/public/incoming/mwja8a/article71707591.ece/alternates/LANDSCAPE_1200/PTI09_09_2026_RPT064B.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "India wants to become the world’s No.1 nation to ensure nobody can dictate terms to us: V-P Radhakrishnan",
-       "link": "https://www.thehindu.com/news/national/india-wants-to-become-worlds-no1-nation-to-ensure-nobody-can-dictate-terms-to-us-vice-president/article71707566.ece",
-       "publishedAt": "2026-11-16T16:45+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "India aims to be world's No. 1 nation: VP",
-       "link": "https://economictimes.indiatimes.com/news/india/india-wants-to-become-worlds-no-1-nation-to-ensure-nobody-can-dictate-terms-to-us-vice-president/articleshow/135884642.cms",
-       "publishedAt": "2026-11-16T16:15+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Two mass shootings in South Africa leave 17 dead",
-     "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC News",
-      "Times of India"
-     ],
-     "sourceCount": 2,
-     "publishedAt": "2026-11-16T16:27+05:30",
-     "score": 2.82,
-     "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Two mass shootings in South Africa leave 17 dead",
-       "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-16T16:27+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "17 dead as 2 mass shootings rock South Africa within 24 hours",
-       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/17-dead-as-2-mass-shootings-rock-south-africa-within-24-hours/articleshow/135884485.cms",
-       "publishedAt": "2026-11-16T16:20+05:30"
       }
      ]
     }
