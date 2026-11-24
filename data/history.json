@@ -1,6 +1,165 @@
 {
- "updated": "2026-11-24T22:37+05:30",
+ "updated": "2026-11-25T00:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T00:00+05:30",
+   "generatedAt": "2026-11-25T00:27+05:30",
+   "feeds": 16,
+   "headlines": 251,
+   "stories": [
+    {
+     "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+     "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "Press Trust of India",
+      "Scroll.in",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-24T23:37+05:30",
+     "score": 9.11,
+     "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+       "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-24T23:37+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VNUtERkNONUJCS0FzdTgzcW1QQlJzX0lLQ0tqaEpOLTZ0WnRUaEl6TE9zQ2JKLWdjc2VtRjBnUWJtOG9QdmsyZ3hJcXRYMnNETVphVE9JWFB0bEk?oc=5",
+       "publishedAt": "2026-11-24T23:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "ENE Repeat Box Office Collection Day 6",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0g1Vk5ObVpaMm5GcTJRUTFaRzktMGRpVUszOEppcWtId2pwd0VlVkRfT25jd0xzSlVPcHZnNzVuWmFPcmZod1laaUxuazZxTlNDa3Q4dzNIWGF3Nm1UT0MtdmNYc1Z2dkJsMnN3eFVJV3o4Mi1iNkNfOVhIakljRHJKVQ?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Pinkvilla",
+      "Sacnilk",
+      "THE WEEK",
+      "Telugu360",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-24T23:07+05:30",
+     "score": 8.84,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 6",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0g1Vk5ObVpaMm5GcTJRUTFaRzktMGRpVUszOEppcWtId2pwd0VlVkRfT25jd0xzSlVPcHZnNzVuWmFPcmZod1laaUxuazZxTlNDa3Q4dzNIWGF3Nm1UT0MtdmNYc1Z2dkJsMnN3eFVJV3o4Mi1iNkNfOVhIakljRHJKVQ?oc=5",
+       "publishedAt": "2026-11-24T23:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "From fastest ton to most sixes: List of records Sooryavanshi created against UAE",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/from-fastest-double-century-to-most-sixes-list-of-records-vaibhav-sooryavanshi-shattered-with-his-204-against-uae/articleshow/136135915.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Sky Sports",
+      "The Guardian",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-24T22:11+05:30",
+     "score": 8.12,
+     "summary": "In a stunning display of batting prowess during the Asia Cup, Vaibhav Sooryavanshi smashed an incredible 204 runs off just 53 balls against the UAE. His performance set a new benchmark with a whopping 28 sixes and seven fours, while also achieving the fastest century in List A cricket history at a mere 28 balls. India A clinched the match, successfully chasing a target of 250 runs.",
+     "image": "https://static.toiimg.com/photo/msid-136137053,imgsize-91622.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "From fastest ton to most sixes: List of records Sooryavanshi created against UAE",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/from-fastest-double-century-to-most-sixes-list-of-records-vaibhav-sooryavanshi-shattered-with-his-204-against-uae/articleshow/136135915.cms",
+       "publishedAt": "2026-11-24T22:11+05:30"
+      },
+      {
+       "source": "Sky Sports",
+       "title": "Vaibhav Sooryavanshi smashes fastest hundred and double century in List A cricket during India A's victory over UAE",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYlZyTVIySk9UQk94QzRic1NqcElZVTU2MTYyTXZUSGZzdDVKZ1ZSeVR3cWtWb0xYeFRMMWpMY0FnclYyZmhlU2FlVDkyenp1YnZ5MXJXWmNOMFFXalBjRlk3NU90Y3BSMEMzZXhiNXd1RjMzb0NFcUVjaGxJbGpVV3ppODFrOGVXMlQ4Zzg1UzVCTVRiSDlmVHRoc3lQWFpRUXV0dUhtdWx0LUlaZmtpWmVvenROVHpKRDZjaU5JZW9wQWlCdmFRSTRYMThFX3JjWWR5Y180S20yU1N2aEUxbWhCZktDOElaZzlmRlZ4YWJJR29r?oc=5",
+       "publishedAt": "2026-11-24T18:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
+     "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+     "source": "The Guardian",
+     "sources": [
+      "Chess.com",
+      "ChessBase India",
+      "ESPN India",
+      "Telegraph India",
+      "The Guardian",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T00:04+05:30",
+     "score": 7.69,
+     "summary": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in…",
+     "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
+       "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+       "publishedAt": "2026-11-25T00:04+05:30"
+      },
+      {
+       "source": "Chess.com",
+       "title": "How To Watch FIDE World Championship 2026 Game 1",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JNFZPLTctTkQ4Qk1abDI4UHR6QlNuT1hnR3pmWDRINGx1UTkxRjRvb2lNcHg3RTA4SUFrODdhRnJ0Z0VyWEY3LVpiNldaQ3p2bkxrYnlzb3VlU05OQ0IzelFHRzhLQWoxUi1mUEM2ZF9JRmx2LV9aaVZEOWs4Zw?oc=5",
+       "publishedAt": "2026-11-24T22:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "HBO Max's Black Friday deal is top dog once again: Get half off a year of streaming",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WYU03Ykt0QzlfRU43cUhucGdaeFU3OTVPN2Znak5CdXlXN0pLWDgwejR6eVFGX0NKMkljbUg2T0l2T2hNaUFGanVtcUpXUDBzWnZyYV96bFpmWVQwNkJiZVl4SzZjTURYTDY4SG5pZlJjRWREbE1YZjlR?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "AppleInsider",
+      "Business Insider",
+      "Louder",
+      "Mashable",
+      "Treasure Coast News"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-24T23:34+05:30",
+     "score": 7.35,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "HBO Max's Black Friday deal is top dog once again: Get half off a year of streaming",
+       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WYU03Ykt0QzlfRU43cUhucGdaeFU3OTVPN2Znak5CdXlXN0pLWDgwejR6eVFGX0NKMkljbUg2T0l2T2hNaUFGanVtcUpXUDBzWnZyYV96bFpmWVQwNkJiZVl4SzZjTURYTDY4SG5pZlJjRWREbE1YZjlR?oc=5",
+       "publishedAt": "2026-11-24T23:34+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-24T22:00+05:30",
    "generatedAt": "2026-11-24T22:37+05:30",
@@ -29879,181 +30038,6 @@
        "title": "'He learnt a big lesson': Trump 'wouldn't mind' Huang's return as Nvidia CEO",
        "link": "https://timesofindia.indiatimes.com/business/international-business/he-learnt-a-big-lesson-trump-says-he-wouldnt-mind-if-jensen-huang-gets-reinstated-as-nvidia-ceo/articleshow/135893526.cms",
        "publishedAt": "2026-11-16T20:37+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-16T23:00+05:30",
-   "generatedAt": "2026-11-16T23:28+05:30",
-   "feeds": 16,
-   "headlines": 285,
-   "stories": [
-    {
-     "title": "Robert Pattinson named the new James Bond; actor to take 007 legacy into new era",
-     "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-named-the-new-james-bond-the-batman-star-to-take-the-007-legacy-into-a-new-era-dream-come-true-is-an-understatement/articleshow/135894427.cms",
-     "source": "Times of India",
-     "sources": [
-      "BBC",
-      "Puck",
-      "Rolling Stone",
-      "The Economic Times",
-      "The Guardian",
-      "Times of India",
-      "Variety"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-16T21:06+05:30",
-     "score": 9.1,
-     "summary": "Confirmed at last! Robert Pattinson will embody the legendary role of James Bond, following in Daniel Craig's footsteps. After much speculation, the news comes as the franchise gears up for its 26th film, directed by the acclaimed Denis Villeneuve. Producers express confidence that this new chapter will soar to remarkable heights, leaving audiences thrilled to see how Pattinson will navigate the complex world of 007.",
-     "image": "https://static.toiimg.com/photo/msid-135894636,imgsize-390184.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Robert Pattinson named the new James Bond; actor to take 007 legacy into new era",
-       "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-named-the-new-james-bond-the-batman-star-to-take-the-007-legacy-into-a-new-era-dream-come-true-is-an-understatement/articleshow/135894427.cms",
-       "publishedAt": "2026-11-16T21:06+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Robert Pattinson is the new James Bond",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/robert-pattinson-becomes-seventh-james-bond-from-twilight-heartthrob-to-007-how-he-landed-iconic-role/articleshow/135894440.cms",
-       "publishedAt": "2026-11-16T20:59+05:30"
-      },
-      {
-       "source": "Rolling Stone",
-       "title": "Robert Pattinson Is the Next James Bond",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmhrUFRKY3JhcktiZGdBNFduTUt0Q0N0ZXdQdXJGSWNKcFIxWmRFaGZJLXZfT0JiRkxlcFVKYXpYQXkyNnUta2FuSXRYTjZ5THIxVGVyNGJEZlpIdEFqV0lRXzc1MHNmY0ZaZHh1RUdOR2prNkE3Qm5oM1dWaTJZWjRGU3Q2VXczVmtPYlJZa0VENDM1bFRpMExCNHpGUQ?oc=5",
-       "publishedAt": "2026-11-16T21:04+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
-     "link": "https://www.thehindu.com/books/sonia-gandhi-memoir-belonging-a-journey-of-love-launch-event/article71708274.ece",
-     "source": "The Hindu",
-     "sources": [
-      "BBC",
-      "Hindustan Times",
-      "Telegraph India",
-      "The Hindu",
-      "The Quint",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-16T22:59+05:30",
-     "score": 8.07,
-     "summary": "Several INDIA bloc leaders, including Samajwadi Party chief Akhilesh Yadav and TMC’s Abhishek Banerjee, Tamil Nadu Chief Minister C. Joseph Vijay and BJP leader Amarinder Singh attended the launch of Sonia Gandhi’s memoir on Monday, November 16",
-     "image": "https://th-i.thgim.com/public/incoming/dbwpbh/article71708539.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%207.37.40%20PM.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
-       "link": "https://www.thehindu.com/books/sonia-gandhi-memoir-belonging-a-journey-of-love-launch-event/article71708274.ece",
-       "publishedAt": "2026-11-16T22:59+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "‘Papa would be proud of you’: Son Rahul Gandhi gets emotional at Sonia’s memoir launch",
-       "link": "https://timesofindia.indiatimes.com/india/papa-would-be-proud-of-you-son-rahul-gandhi-gets-emotional-at-sonias-memoir-launch/articleshow/135895746.cms",
-       "publishedAt": "2026-11-16T22:06+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "‘My father belonged to her’: Rahul Gandhi’s heartfelt tribute to Sonia Gandhi at memoir launch",
-       "link": "https://www.hindustantimes.com/india-news/rahul-gandhi-tribute-to-sonia-gandhi-at-memoir-launch-rajiv-gandhi-belonged-to-her-101794846053444.html",
-       "publishedAt": "2026-11-16T22:02+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'I may not return alive': Ex-Pakistan PM Imran Khan seeks urgent medical help",
-     "link": "https://timesofindia.indiatimes.com/world/pakistan/i-may-not-return-alive-imran-khan-asks-courts-for-treatment-says-22-hour-isolation-is-killing-him/articleshow/135893352.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "NDTV",
-      "Reuters",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-16T20:20+05:30",
-     "score": 7.23,
-     "summary": "Imran Khan has appealed to Pakistan's top courts for urgent medical care for himself and his wife. He claims that his health has deteriorated significantly during solitary confinement, where he is held for up to 22 hours daily. Khan alleges that authorities neglected previous court orders regarding his medical treatment and communication with family. He expressed concern for his wife's rapidly declining vision and…",
-     "image": "https://static.toiimg.com/photo/msid-135893397,imgsize-52558.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'I may not return alive': Ex-Pakistan PM Imran Khan seeks urgent medical help",
-       "link": "https://timesofindia.indiatimes.com/world/pakistan/i-may-not-return-alive-imran-khan-asks-courts-for-treatment-says-22-hour-isolation-is-killing-him/articleshow/135893352.cms",
-       "publishedAt": "2026-11-16T20:20+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
-       "link": "https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care?traffic_source=rss",
-       "publishedAt": "2026-11-16T19:15+05:30"
-      }
-     ]
-    },
-    {
-     "title": "From childhood tales to reality: Raichandani lives his India-Pakistan dream",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd19zcWI5MXdwanZxd3RDUUpyWFVMc194NV9YM1Rlc2IyTEpBMF83N00wZ0tXT0xkQmpYOXFCV3FiLVRleFVBZ1BRQlhkTVFxSHd2LVkzOXZnalQ2ajEwc3hLdWlEX2lRS25yZVlLMC1kOGh5RENxc3d3Vy1DWEs0MzdkWnNUbHFiQklDS2FMQnAzUHQtdWZnOVZqT2hRbUJzWHR5Wm9wbm14aU9LMW1DOVNqckhsVmpjR1pwU0l30gHPAUFVX3lxTFBMU3Rha3prR3lueUo1X3Z5alpSSVpGLUpCLW91SUtuS3lDZHRBNlRJUHpvRnBfRjB0OWtlYjdIVXNoWjVkellzNUJLbHB3WUZxNWRUdmpWOTRWRVlXZm0tQS1XY1g1d3U3SzFHLXc5bkUwbDdDNEdGRDNZc0RlNGY4aW13TEd1ZGdkVU0xYW5fSmEwY0pxa3ZOdHY3ekVpS21ySUhldlUzSE9uWGtLa0czYzNHQVpFN05DUzZvenE3Qk8taC1nLVA2ZlhUTks5MA?oc=5",
-     "source": "Cricinfo",
-     "sources": [
-      "BCCI",
-      "Cricinfo",
-      "Rediff",
-      "Sportstar",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-16T20:29+05:30",
-     "score": 7.0,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricinfo",
-       "title": "From childhood tales to reality: Raichandani lives his India-Pakistan dream",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd19zcWI5MXdwanZxd3RDUUpyWFVMc194NV9YM1Rlc2IyTEpBMF83N00wZ0tXT0xkQmpYOXFCV3FiLVRleFVBZ1BRQlhkTVFxSHd2LVkzOXZnalQ2ajEwc3hLdWlEX2lRS25yZVlLMC1kOGh5RENxc3d3Vy1DWEs0MzdkWnNUbHFiQklDS2FMQnAzUHQtdWZnOVZqT2hRbUJzWHR5Wm9wbm14aU9LMW1DOVNqckhsVmpjR1pwU0l30gHPAUFVX3lxTFBMU3Rha3prR3lueUo1X3Z5alpSSVpGLUpCLW91SUtuS3lDZHRBNlRJUHpvRnBfRjB0OWtlYjdIVXNoWjVkellzNUJLbHB3WUZxNWRUdmpWOTRWRVlXZm0tQS1XY1g1d3U3SzFHLXc5bkUwbDdDNEdGRDNZc0RlNGY4aW13TEd1ZGdkVU0xYW5fSmEwY0pxa3ZOdHY3ekVpS21ySUhldlUzSE9uWGtLa0czYzNHQVpFN05DUzZvenE3Qk8taC1nLVA2ZlhUTks5MA?oc=5",
-       "publishedAt": "2026-11-16T20:29+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Need the Day Off to Play ‘GTA 6’? Xbox and DJ Khaled’s ‘Dr. Xbox’ Have a PTO Excuse Note for You",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMEFVYzN2NWp3aXV4Y1l3czRlNDVmZEh3QzBYU3B6UGZ5X0hzYzVzRUI3U2xhaEFPYXM5NWF0dTRPY2RnVm1HU1kwYXR2OHlzVFJFS3FFVDZYX1lsMWhHMC0ycGRhWl95V0pkd1Q5X2xaZFY5UGFqV051YmVvWC04cjg2eUFvWlppVWc?oc=5",
-     "source": "Variety",
-     "sources": [
-      "Around Prague",
-      "Notebookcheck",
-      "The Guardian",
-      "The Times of India",
-      "TweakTown",
-      "Variety"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-16T22:05+05:30",
-     "score": 6.82,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Variety",
-       "title": "Need the Day Off to Play ‘GTA 6’? Xbox and DJ Khaled’s ‘Dr. Xbox’ Have a PTO Excuse Note for You",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMEFVYzN2NWp3aXV4Y1l3czRlNDVmZEh3QzBYU3B6UGZ5X0hzYzVzRUI3U2xhaEFPYXM5NWF0dTRPY2RnVm1HU1kwYXR2OHlzVFJFS3FFVDZYX1lsMWhHMC0ycGRhWl95V0pkd1Q5X2xaZFY5UGFqV051YmVvWC04cjg2eUFvWlppVWc?oc=5",
-       "publishedAt": "2026-11-16T22:05+05:30"
-      },
-      {
-       "source": "Notebookcheck",
-       "title": "Xbox is encouraging gamers to take a day off from work to play GTA 6",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnVEeHRyclp1ZXJmSE5kZ29VbVBxNEtXc1FnbUF5cWd2QXFnTFVvODB6azNTbzZNdF9URFdXOFRZazlEZ0YxU2d3WkJVcndGa2VYSUcxSzdaaHlTNTA0XzlxNmxmNkVCd0dIOW9wOVBTV1l5RzF3UEliU3EtN2hqWFJHZEUtTmw2d1ZyRERTQzdjV0VMN0U2a2hwRU12dlFxOEFoQTdaRTlhSk5qNzZvalAwOA?oc=5",
-       "publishedAt": "2026-11-16T19:55+05:30"
       }
      ]
     }
