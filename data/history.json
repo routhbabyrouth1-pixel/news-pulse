@@ -1,6 +1,214 @@
 {
- "updated": "2026-11-25T17:29+05:30",
+ "updated": "2026-11-25T18:46+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T18:00+05:30",
+   "generatedAt": "2026-11-25T18:46+05:30",
+   "feeds": 16,
+   "headlines": 328,
+   "stories": [
+    {
+     "title": "Murder accused attacked outside Pune court",
+     "link": "https://www.thehindu.com/news/national/maharashtra/murder-accused-attacked-outside-pune-court/article71742295.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-25T17:34+05:30",
+     "score": 9.3,
+     "summary": "While the attackers fled, police recovered two pistols and a magazine from the spot, an official said",
+     "image": "https://th-i.thgim.com/public/incoming/okcnf4/article71742331.ece/alternates/LANDSCAPE_1200/iStock-579777946%201.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Murder accused attacked outside Pune court",
+       "link": "https://www.thehindu.com/news/national/maharashtra/murder-accused-attacked-outside-pune-court/article71742295.ece",
+       "publishedAt": "2026-11-25T17:34+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Murder Accused's Hand Chopped Off With Machete, Then Shot Outside Pune Court",
+       "link": "https://www.ndtv.com/pune-news/murder-accuseds-hand-chopped-off-with-machete-then-shot-dead-outside-pune-court-12374587#publisher=newsstand",
+       "publishedAt": "2026-11-25T15:22+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Murder accused hacked with sickles, shot outside Pune court",
+       "link": "https://www.hindustantimes.com/india-news/man-attacked-with-sickles-shot-at-outside-pune-shivajinagar-court-assailants-flee-101795595444135.html",
+       "publishedAt": "2026-11-25T14:13+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Shooting outside Pune court: Assailants chop off man's hand before fleeing on bikes",
+       "link": "https://timesofindia.indiatimes.com/city/pune/mans-hand-chopped-off-in-sickle-assault-2-injured-as-assailants-open-fire-outside-pune-court/articleshow/136153900.cms",
+       "publishedAt": "2026-11-25T14:03+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Murder accused attacked with weapons outside Pune court, critically injured",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUFNac3VSSS0wNU1IWGxwQ3JBdnVLQ1hMQ1ROTV9UTkdBOEltUlFCazVzbnpqNEMyb2lnRVR2c2RuRk03bTJ2NFduQWN4M2Q4UlJZemlyNy1kczUxdlk1bldQM2FhNXBsRHhwdzF6SlY1eVNseWY4dXgtckZMLUNWMkpBMVdQdEdVOFdiaHJaNVJWd3I5TnhPU0N4VUJnYWFxUk4tTWNn0gGsAUFVX3lxTE1ZUTQwa19iTV9jbk5hMGlRQWMyTXFsRFQ3VUNucXhhRjZsSU0tbHR1aEc4WXNLX1dzQVFpbkstWmxoc1E2NWQ4RFBGMjYzTUl2OFhUc2ZtTlFLTGpTclhFNjV2SGZSRHV2dU51bXVxTlIzZjc1QWlkMVNZX09QUVBDWjZqQktqdkpYWnpBZ0Nwd1FsUDZKOHd1S3ZFTmFRZG5nSFRXRFM0M1JfYks?oc=5",
+       "publishedAt": "2026-11-25T13:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Comedian Yash Maheshwari booked in Patna over remarks on women observing Chhath",
+     "link": "https://www.thehindu.com/todays-paper/tp-national/comedian-yash-maheshwari-booked-in-patna-over-remarks-on-women-observing-chhath/article71742426.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T17:59+05:30",
+     "score": 8.37,
+     "summary": "The FIR was filed by the Patna Police after concerns that Yash Maheshwari's comments could affect social harmony and create hostility between communities.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/25/1600x900/yash_1795600390214_dic6_1795600390313_tmgG_dde7ef0e-43d7-4974-83bd-f6ee55a058c7_KNc2.png",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Comedian Yash Maheshwari booked in Patna over remarks on women observing Chhath",
+       "link": "https://www.thehindu.com/todays-paper/tp-national/comedian-yash-maheshwari-booked-in-patna-over-remarks-on-women-observing-chhath/article71742426.ece",
+       "publishedAt": "2026-11-25T17:59+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "FIR filed after comedian Yash Maheshwari's ‘derogatory’ remarks on Bihar women, Chhath Puja",
+       "link": "https://www.hindustantimes.com/india-news/fir-filed-after-comedian-yash-maheshwaris-derogatory-remarks-on-bihar-women-chhath-puja-101795600154274.html",
+       "publishedAt": "2026-11-25T15:53+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "YouTuber Yash Maheshwari's remarks on married women's sindoor during Chhath spark outrage; Patna Police r",
+       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOc2hEMU5rZm1JYWJNRnlyWUdoeDd3dHcza1hYdVBOQTNYQ3o4ZDRxM21jWmttQVBqRkVUc01WMDB3NW5IVlBBV0ZjcnFYZDR6UWxhZllYeGJtUE82Y0dOYlMwU2p5Nzdua2o1eUh5ck9zZHJOc2p0dWJGeElTTFRkR3VRMnh6T3VJd1J0ZmNBQ2RlSEc0TTFJU0FCNXJ1dGpMeks5MHJidkhGb1BqSXRHRXR6Rmg1d05vbTFmSlR1LU81LTlOMElNcC1lM2FQUUpXcFVkb2ozWmdGaUtDTHQybTdocDRZZkE2Z2FxZnJiMktQbFQ3LXVuWWQtbVRCYk1kMi1USVg1T0tTY2NnanF6UDdOV3o?oc=5",
+       "publishedAt": "2026-11-25T17:20+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Whether Yogi ji or someone else': Maurya says BJP's CM face to be decided after polls",
+     "link": "https://timesofindia.indiatimes.com/india/whether-yogi-ji-or-someone-else-keshav-prasad-maurya-says-bjps-cm-face-will-be-decided-after-assembly-polls/articleshow/136159067.cms",
+     "source": "Times of India",
+     "sources": [
+      "ANI News",
+      "Hindustan Times",
+      "India Today",
+      "Moneycontrol.com",
+      "The Times of India",
+      "Times of India",
+      "https://www.indiagazette.com/"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T16:40+05:30",
+     "score": 7.75,
+     "summary": "Maurya explained the Bharatiya Janata Party does not generally announce a chief minister candidate in advance",
+     "image": "https://static.toiimg.com/photo/msid-136159085,imgsize-65230.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Whether Yogi ji or someone else': Maurya says BJP's CM face to be decided after polls",
+       "link": "https://timesofindia.indiatimes.com/india/whether-yogi-ji-or-someone-else-keshav-prasad-maurya-says-bjps-cm-face-will-be-decided-after-assembly-polls/articleshow/136159067.cms",
+       "publishedAt": "2026-11-25T16:40+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "‘Could be Yogi or someone else’: Keshav Prasad Maurya says BJP will pick CM after polls",
+       "link": "https://www.hindustantimes.com/india-news/could-be-yogi-adityanath-or-someone-else-up-deputy-cm-maurya-says-bjp-will-pick-cm-after-polls-101795597791794.html",
+       "publishedAt": "2026-11-25T14:39+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Whether Yogi ji or someone else': Keshav Prasad Maurya says BJP's CM face will be decided after UP assem",
+       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRzNtbXptc21BeHI4aGxkZ0stS3BpemdOcmw5OWg1QmY4dnZtYWVqTnFjc2dfaHlfR1RXLUtWb0JyaDFNcS03dmVGSmRiZjdDWkhHa3pPQWFNY1kxZzk3TDNOckpiSURxbmRYQ3NHXzhXWXVOTzNvUEprTmhuMEhjQm02NHdNRWZQYnNrUHdkSkQ2eVpRS2Y5b2NTOXM1NTktWnd5NGt2ajVJaEFMSHBIS19NM080WjczVElHbW9udVRTOFllSDNJc3pQaEp0ZXNrdWU0SnAxN2g5aVUybFJxWnRvZ2xWR1RycUcxaGdQaWNULWw0TTUxWUNiZFpXdnRnUWtXUmZn?oc=5",
+       "publishedAt": "2026-11-25T16:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stokes eligible, Brook banned: Why two England stars have different auction status?",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ben-stokes-eligible-harry-brook-banned-why-two-england-stars-have-different-ipl-2027-auction-status/articleshow/136158052.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "IPL",
+      "Rediff.com",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T17:57+05:30",
+     "score": 7.61,
+     "summary": "Ben Stokes registered for the IPL 2027 mini-auction, having missed the previous mega-auction. Harry Brook, however, is banned from the IPL until 2028 following his withdrawal after being picked by Delhi Capitals. The BCCI's regulations impose stricter penalties for players who withdraw after the auction. These measures aim to protect franchises from losing contracted players unexpectedly. Other players, including…",
+     "image": "https://static.toiimg.com/photo/msid-136161234,imgsize-104442.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Stokes eligible, Brook banned: Why two England stars have different auction status?",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ben-stokes-eligible-harry-brook-banned-why-two-england-stars-have-different-ipl-2027-auction-status/articleshow/136158052.cms",
+       "publishedAt": "2026-11-25T17:57+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "Why Stokes can enter the IPL 2027 auction but Brook can't",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPckhvMWR5dDlvT2RKUDZ1bHllaXVtR09CTjFSR3hZZ19HZDQ1a0VRVVpraUo3N2hwZFI0YUl1UUkxSWRGWnF6MFRDMFdvNzFjUXQxcWdhRVdhRzg2TnVUeHhsZVBRSjIxWnJYQWtkcVNrdGg4OHdLRkxqczdYWi0wVTJLdDQyNjVvQTVXU1prU2s2cGxKUHoxR1ZuQUlvb3h4N2lN?oc=5",
+       "publishedAt": "2026-11-25T14:38+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi",
+     "link": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "Scroll.in",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T17:09+05:30",
+     "score": 7.48,
+     "summary": "The top court directs the Congress leader to be impleaded as a party in the High Court case",
+     "image": "https://th-i.thgim.com/public/incoming/hvvlsv/article71662966.ece/alternates/LANDSCAPE_1200/20261101410L.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi",
+       "link": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
+       "publishedAt": "2026-11-25T17:09+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Supreme Court sets aside Allahabad HC order directing probe into Rahul Gandhi’s assets, orders fresh hearing",
+       "link": "https://www.hindustantimes.com/india-news/supreme-court-sets-aside-allahabad-hc-order-directing-probe-into-rahul-gandhi-s-assets-orders-fresh-hearing-101795597229111.html",
+       "publishedAt": "2026-11-25T14:41+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Supreme Court Sets Aside Allahabad HC Order For CBI, ED Verification Of Complaint Against Rahul Gandhi's...",
+       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNejZwWTM1ZE02dmp0QnB1eGRYdW9Ob0Z5YkdqRENhVUlJUlA2Ukxoa3NhdEowYzZlNU4xdE5McjJvNE1ULTRjWHl1V1ZJc3R2VDh5NHI4RW9zSmNiRWdwRWFyQkM1S0hkamVUc2JjMlYtQ2dlUGNVS2NJcVkxMEhwbHFIQzhDREhFZDlQaG9ZZFdBa2RVbGNlOUY2b3BhX3lON21MQWwyS0s4WlJkQ0owSzZWNHBSa3FBOGRnT2Izck11Zjlwck8yaWw2WTkzVEs0UTd4cVMtOWF1a3A0SnR3NnBndFFINk5PNlMwR0tMeGZxY3R6RjJ5dU15MjVhYTJBY01z0gGIAkFVX3lxTE84czlSNWY2Z2VISTdhMjEzekdNQ3BfYlVicmR5OGtKQmc0M0R4QkZvMXRrUEVYVlY1NUktdUdSWGJ1eHpTVndYUlplWFZVckJ2c3o0dlBUQWVmOEttMGVRQnhBTy1MejF3VVk5bHBUZklEbU5MOUdMekl0ajBiTnpnVHp5aTljY3Z1anNQLTRtb3JyNmxEOHRKYXotT09lUHA1NEQ4MWViUi1lOEUyWEE2YnVlU2FMeEpCMDBaTDZkd2ZXWnl6cHdtcEljRWpjTEFaeElkQ29aVmluU0NDSjZKT0M4Wm5oNEVWSHBwcHQxZXp0bVFaejZIaUNLRzdLSXc4TjRVcVZpTw?oc=5",
+       "publishedAt": "2026-11-25T13:19+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T17:00+05:30",
    "generatedAt": "2026-11-25T17:29+05:30",
@@ -29824,214 +30032,6 @@
        "title": "‘Constructive and trusted’: PM Modi on Quad partnership at Manila Summit",
        "link": "https://www.hindustantimes.com/india-news/constructive-and-trusted-partnership-pm-modi-on-quad-partnership-at-manila-summit-101794913706456.html",
        "publishedAt": "2026-11-17T16:42+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T16:00+05:30",
-   "generatedAt": "2026-11-17T16:29+05:30",
-   "feeds": 17,
-   "headlines": 439,
-   "stories": [
-    {
-     "title": "'There is no CSK without Dhoni': N Srinivasan",
-     "link": "https://economictimes.indiatimes.com/news/sports/cricket/there-is-no-csk-without-ms-dhoni-n-srinivasan-as-former-skipper-calls-time-on-ipl-career/articleshow/135921780.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Cricbuzz",
-      "Cricinfo",
-      "Rediff",
-      "The Economic Times",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-17T16:19+05:30",
-     "score": 10.47,
-     "summary": "Mahendra Singh Dhoni will take on the role of mentor for Chennai Super Kings starting in the 2027 IPL season. The franchise expressed their intention to keep Dhoni involved, even after his retirement from playing. Owner N Srinivasan lauded his invaluable contributions, while co-owner Rupa Gurunath pointed out that his vast experience will be pivotal in guiding the younger players.",
-     "image": "https://static.toiimg.com/photo/msid-135920222,imgsize-103712.cms",
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "'There is no CSK without Dhoni': N Srinivasan",
-       "link": "https://economictimes.indiatimes.com/news/sports/cricket/there-is-no-csk-without-ms-dhoni-n-srinivasan-as-former-skipper-calls-time-on-ipl-career/articleshow/135921780.cms",
-       "publishedAt": "2026-11-17T16:19+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Best decision I ever took': Srinivasan's tribute to Dhoni after IPL retirement",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-no-csk-without-ms-dhoni-n-srinivasans-emotional-message-calls-signing-thala-in-2008-his-best-decision/articleshow/135919783.cms",
-       "publishedAt": "2026-11-17T15:29+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "As CSK mentor, MS Dhoni’s task is to transform them into champions again",
-       "link": "https://indianexpress.com/article/sports/cricket/csk-mentor-ms-dhoni-task-transform-them-champions-10966649/",
-       "publishedAt": "2026-11-17T15:08+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Dhoni ends IPL playing career as CSK appoints him team mentor",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWXVoU0YzYkphRXpEQmN1UU1LNGdyWWNlVTFQbWc3a3prc0o5Uk1xZy1hOG16eGotdWpVQVZEbVNPV3hIaXcwS3V3OE9sOFJGTXJlYVdGcFhSRmJLQ2lTTkRidDZ5QVV5UWJ5Nko4b0tpVTQwZThieTBoLUpxQ2t6WGdnd21YQU1OaUpVZlFTS3M4SlhXSTh0bzF1TTZBSUFYbVdPalI1dlJaQ0ZNX0RCTS05QTJkX0QwRVHSAcABQVVfeXFMTTloVkNUYjEwRExXWDV1Sm5Jd2xONFFYWlpZd2l1bGlJRmxBOG11TXdzdV9XcnhQWXRoV1Rqc2I3MklZWGtBSUphRlpROHQ0RVF3WWxHMkhpZUxtRkNUMnVWcnRuZkJpc1VKVDN4TktEckVYRE1SbnM4aFRvYU9UdWhKcHNnRnNKSldTaGZPT05IUWdpcXNfTm9ZZkoyQ3BlTS1HQTd4S2RrMl8xQ19rTW9LUEdYN2xJbHJIUmpzZEdP?oc=5",
-       "publishedAt": "2026-11-17T15:06+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Instagram updates recommendation algorithm in India to limit suggestive, violent content",
-     "link": "https://indianexpress.com/article/technology/tech-news-technology/meta-instagram-recommendation-algorithm-india-update-10966647/",
-     "source": "The Indian Express",
-     "sources": [
-      "Deccan Herald",
-      "Facebook",
-      "Hindustan Times",
-      "Reuters",
-      "Telegraph India",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T15:10+05:30",
-     "score": 7.82,
-     "summary": "Meta, which owns and operates Facebook and Instagram, said its systems now use “more capable AI models” that check content before it is recommended.",
-     "image": "https://images.indianexpress.com/2025/09/Instagram.jpg",
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Instagram updates recommendation algorithm in India to limit suggestive, violent content",
-       "link": "https://indianexpress.com/article/technology/tech-news-technology/meta-instagram-recommendation-algorithm-india-update-10966647/",
-       "publishedAt": "2026-11-17T15:10+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Tuned Instagram systems in India to curb sexually suggestive, violent content: Meta",
-       "link": "https://www.hindustantimes.com/india-news/tuned-instagram-systems-in-india-to-curb-sexually-suggestive-violent-content-meta-101794907276660.html",
-       "publishedAt": "2026-11-17T15:00+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Meta says it tuned Instagram to curb suggestive, violent content in India",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG10R1FZNlE4T3JRLTdzVURBOXUxY3EycmJidHF1el9GV3c2QnFzYzZHVkg4ZjFfTF83UkNkS1JQYXBCS2FfVmRtcm12VnFYSnM5NXZuSUxPd3RSaWF1a3FsRFlOT19aT00yd3Nqakx0WnNDSk5NLUFxVG9jNkxhY29LbEdBeTBOV1c0NDk4OEhRN1dZVEo5c2d1TGFXSkRUcHFEWjFTSFpaMXk0aVF3bFFpQkE?oc=5",
-       "publishedAt": "2026-11-17T10:53+05:30"
-      }
-     ]
-    },
-    {
-     "title": "3-year-old among 2 killed in Northeast Delhi building collapse",
-     "link": "https://indianexpress.com/article/cities/delhi/3-year-old-killed-northeast-delhi-building-collapse-10966497/",
-     "source": "The Indian Express",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Telegraph India",
-      "The Indian Express",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T14:06+05:30",
-     "score": 7.77,
-     "summary": "A building in Jwala Nagar, east Delhi collapsed on Tuesday morning, resulting in fatalities and injuries. Two individuals, a three-year-old girl and a thirty-year-old man, were declared dead at the hospital. Four other occupants, aged between 22 and 35, were injured and received medical attention. The building, owned by Surendar Singh, was approximately 40-50 years old and housed multiple tenants. Authorities are…",
-     "image": "https://images.indianexpress.com/2026/11/northeast-delhi-building-collapse.jpg",
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "3-year-old among 2 killed in Northeast Delhi building collapse",
-       "link": "https://indianexpress.com/article/cities/delhi/3-year-old-killed-northeast-delhi-building-collapse-10966497/",
-       "publishedAt": "2026-11-17T14:06+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Another building collapses in Delhi; 3-year-old child among two dead",
-       "link": "https://timesofindia.indiatimes.com/city/delhi/another-building-collapse-in-delhi-child-dies-as-old-house-caves-in-7-8-rescued/articleshow/135912764.cms",
-       "publishedAt": "2026-11-17T12:00+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Two, including three-year-old, killed in house collapse in Delhi's Vivek Vihar",
-       "link": "https://www.hindustantimes.com/india-news/shahdara-house-collapse-death-toll-news-delhi-building-collapse-vivek-vihar-kasturba-nagar-101794894802805.html",
-       "publishedAt": "2026-11-17T11:38+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Supreme Court stays conviction of SP leader Azam Khan in fake birth certificate case",
-     "link": "https://indianexpress.com/article/legal-news/azam-khan-fake-birth-certificate-case-supreme-court-order-10966392/",
-     "source": "The Indian Express",
-     "sources": [
-      "Deccan Herald",
-      "Hindustan Times",
-      "Live Law",
-      "The Indian Express",
-      "The Times of India",
-      "ThePrint",
-      "Verdictum"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T12:30+05:30",
-     "score": 7.55,
-     "summary": "A bench of justices Dipankar Datta and Sheel Nagu also stayed the conviction of Khan’s son and wife in the same case.",
-     "image": "https://images.indianexpress.com/2026/10/azam.jpg",
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Supreme Court stays conviction of SP leader Azam Khan in fake birth certificate case",
-       "link": "https://indianexpress.com/article/legal-news/azam-khan-fake-birth-certificate-case-supreme-court-order-10966392/",
-       "publishedAt": "2026-11-17T12:30+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Supreme Court junks UP's plea against HC stay on Azam Khan's conviction in fake birth certificate case",
-       "link": "https://www.hindustantimes.com/india-news/supreme-court-junks-uttar-pradesh-plea-against-hc-stay-on-azam-khans-conviction-in-fake-birth-certificate-case-101794896341509.html",
-       "publishedAt": "2026-11-17T11:58+05:30"
-      },
-      {
-       "source": "Live Law",
-       "title": "Supreme Court Upholds Stay On Azam Khan's Conviction In Forged Birth Certificate Case, Gives Same Relief...",
-       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQmJhRVBHS0FxcmlYdGx0YXdaTFA0TTJ0MkRSaHZFWnVmbXdTeGxNYmIwTUFkell6VWpqeUZEeENReVpsdW50OXcxdnRObUJXcGVnbjBDalM3MTBKbUk0VF9XcEMxWWFLOWR3YXVfQjlOSXVsSHVMNXRDR3llUFJEVmxDaThGVUh1alA1cXJMRDZwdmVhUmZiVHlZSUJDcUdEMGdtU2QxSUhfZDVpZW1fcW5iR19lNkk5MGZpNjY2dTgzbHd3bWc1dXVjM1d6bjlNcTRtaVc5SkpNdUhSZ2g3Y1drTkhDejFwNUZzONIB8gFBVV95cUxORVlZTU44RFlYYlQ0RmVzeUlzblZuNkx0UjBCZHZEdS1zMVhDMGVrcWtsVDc5S1VxUU43NWZhWXY0X1dRd2plT0hubzZxUXZ1c09QbEpuMER5UmFCVjQwTDR1WjM5QW40Sy1zWEJIMk9xYzRSemU2R01Zb3ZUQk1ZOTJpYXJqTFJDN1dBb0pJYkpZNDEyQkpKaW5Ia1lTMGZGVlRTZXVTWWlMdmV1RVdKVHpKQ1UybFpHdVlzMHNZZDAxcFE2UDUwazM2OW1LekVFV21DWDJDdE1wQ0ozUUxHMUhtV3ZtM0JnREdUYkZwRWNqdw?oc=5",
-       "publishedAt": "2026-11-17T10:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "ASEAN Summit LIVE updates: President Trump arrives in Manila to hold discussions with Quad leaders",
-     "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Al Jazeera",
-      "NDTV",
-      "The Hindu",
-      "The Times of India",
-      "TheWire.in"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T16:10+05:30",
-     "score": 7.45,
-     "summary": "In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese",
-     "image": "https://c.ndtvimg.com/2026-11/gbgqgluc_modi_625x300_17_November_26.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "ASEAN Summit LIVE updates: President Trump arrives in Manila to hold discussions with Quad leaders",
-       "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
-       "publishedAt": "2026-11-17T16:10+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "US President Trump arrives in Manila ahead of ASEAN summit",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
-       "publishedAt": "2026-11-17T15:43+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "PM Modi In Manila For Quad Summit, India-Philippines Defence Ties In Focus",
-       "link": "https://www.ndtv.com/world-news/pm-narendra-modi-in-manila-for-quad-summit-india-philippines-defence-ties-in-focus-12338296#publisher=newsstand",
-       "publishedAt": "2026-11-17T15:39+05:30"
       }
      ]
     }
