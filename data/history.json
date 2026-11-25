@@ -1,6 +1,178 @@
 {
- "updated": "2026-11-25T20:32+05:30",
+ "updated": "2026-11-25T21:35+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T21:00+05:30",
+   "generatedAt": "2026-11-25T21:35+05:30",
+   "feeds": 16,
+   "headlines": 335,
+   "stories": [
+    {
+     "title": "US GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaldQVC1ZTlBhSFg0U3BSSWNYNC0yNU5EYnhjYmhqRU0zN2ZQRHNyWVNid1N0dFhRZ2E4UHhZNDdvVDhNQ2h0MXVDN3dSOTF3M25jdTFTaG9zWXpxekhaTDR6d0NQQjdrdjhZZ3M1Y2k2bVZjUE5ScXdsanBTQnI4S3RNazFGaWVUbzFIdDFhZ2p0TUJw0gGaAUFVX3lxTE1HbDQydUpDcEtHSm44azFkaG94bHdncFI1ZnJ4eUQwMDdiS0tHRlNXOVlhbWZibWtQMGI0anBGY2xTZm9IOTZYY1k4NmR2REkxR19RRjhHVzc5VzRueGJSQllEWjU4amF2SHQ1OG9SSEExLVE1d09XUXBCbld2eEdoWmRvZkFCNlgxSXpZajBlQ0M3cmdBUEY4OHc?oc=5",
+     "source": "Forex Factory",
+     "sources": [
+      "Bloomberg",
+      "Forex Factory",
+      "Investing.com South Africa",
+      "Kitco",
+      "Reuters",
+      "The Lufkin Daily News",
+      "The Times of India",
+      "TradingView",
+      "www.tmgm.com"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-25T19:04+05:30",
+     "score": 9.83,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Forex Factory",
+       "title": "US GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaldQVC1ZTlBhSFg0U3BSSWNYNC0yNU5EYnhjYmhqRU0zN2ZQRHNyWVNid1N0dFhRZ2E4UHhZNDdvVDhNQ2h0MXVDN3dSOTF3M25jdTFTaG9zWXpxekhaTDR6d0NQQjdrdjhZZ3M1Y2k2bVZjUE5ScXdsanBTQnI4S3RNazFGaWVUbzFIdDFhZ2p0TUJw0gGaAUFVX3lxTE1HbDQydUpDcEtHSm44azFkaG94bHdncFI1ZnJ4eUQwMDdiS0tHRlNXOVlhbWZibWtQMGI0anBGY2xTZm9IOTZYY1k4NmR2REkxR19RRjhHVzc5VzRueGJSQllEWjU4amF2SHQ1OG9SSEExLVE1d09XUXBCbld2eEdoWmRvZkFCNlgxSXpZajBlQ0M3cmdBUEY4OHc?oc=5",
+       "publishedAt": "2026-11-25T19:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump announces new trade tariffs: Which countries are affected?",
+     "link": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "CNBC",
+      "Reuters",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T20:24+05:30",
+     "score": 8.3,
+     "summary": "The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Trump announces new trade tariffs: Which countries are affected?",
+       "link": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+       "publishedAt": "2026-11-25T20:24+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Trump announces new tariffs on countries including India, undeterred by midterms defeat",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5",
+       "publishedAt": "2026-11-25T19:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Comedian Yash Maheshwari booked in Patna over remarks on women observing Chhath",
+     "link": "https://www.thehindu.com/todays-paper/tp-national/comedian-yash-maheshwari-booked-in-patna-over-remarks-on-women-observing-chhath/article71742426.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "The Hindu",
+      "The Indian Express",
+      "The New Indian Express",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T21:30+05:30",
+     "score": 8.08,
+     "summary": "The FIR was filed by the Patna Police after concerns that Yash Maheshwari's comments could affect social harmony and create hostility between communities.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/25/1600x900/yash_1795600390214_dic6_1795600390313_tmgG_dde7ef0e-43d7-4974-83bd-f6ee55a058c7_KNc2.png",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Comedian Yash Maheshwari booked in Patna over remarks on women observing Chhath",
+       "link": "https://www.thehindu.com/todays-paper/tp-national/comedian-yash-maheshwari-booked-in-patna-over-remarks-on-women-observing-chhath/article71742426.ece",
+       "publishedAt": "2026-11-25T21:30+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "FIR filed after comedian Yash Maheshwari's ‘derogatory’ remarks on Bihar women, Chhath Puja",
+       "link": "https://www.hindustantimes.com/india-news/fir-filed-after-comedian-yash-maheshwaris-derogatory-remarks-on-bihar-women-chhath-puja-101795600154274.html",
+       "publishedAt": "2026-11-25T15:53+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "YouTuber Yash Maheshwari's remarks on married women's sindoor during Chhath spark outrage; Patna Police r",
+       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOc2hEMU5rZm1JYWJNRnlyWUdoeDd3dHcza1hYdVBOQTNYQ3o4ZDRxM21jWmttQVBqRkVUc01WMDB3NW5IVlBBV0ZjcnFYZDR6UWxhZllYeGJtUE82Y0dOYlMwU2p5Nzdua2o1eUh5ck9zZHJOc2p0dWJGeElTTFRkR3VRMnh6T3VJd1J0ZmNBQ2RlSEc0TTFJU0FCNXJ1dGpMeks5MHJidkhGb1BqSXRHRXR6Rmg1d05vbTFmSlR1LU81LTlOMElNcC1lM2FQUUpXcFVkb2ozWmdGaUtDTHQybTdocDRZZkE2Z2FxZnJiMktQbFQ3LXVuWWQtbVRCYk1kMi1USVg1T0tTY2NnanF6UDdOV3o?oc=5",
+       "publishedAt": "2026-11-25T17:20+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Pak show Dar-e-Nijaat’s screenings cancelled in Bengaluru after backlash",
+     "link": "https://www.hindustantimes.com/india-news/pakistan-tv-serial-dar-e-nijaat-screenings-cancelled-in-bengaluru-amid-protests-police-flag-lack-of-permission-101795606949650.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Deccan Chronicle",
+      "Hindustan Times",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T17:21+05:30",
+     "score": 7.79,
+     "summary": "The screenings of Pakistan TV serial Dar-e-Nijaat were to be held on November 28 and December 5 at two separate venues in Bengaluru.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/25/1600x900/paktvseries_1795607193119_Hs5z_1795607193282_WwPK_104acd55-f10d-46f1-a849-0aa9d459620a_gcyT.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Pak show Dar-e-Nijaat’s screenings cancelled in Bengaluru after backlash",
+       "link": "https://www.hindustantimes.com/india-news/pakistan-tv-serial-dar-e-nijaat-screenings-cancelled-in-bengaluru-amid-protests-police-flag-lack-of-permission-101795606949650.html",
+       "publishedAt": "2026-11-25T17:21+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Two private screenings of Pakistani drama ‘Dar-e-Nijaat’ cancelled in Bengaluru",
+       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekU4MzZKOHFHLWNxRTluSWkwRkcxc2FteUw5djhoVk1zeUk5U2VFZ3o3bEVWcTc5Wi1fbmdYLXdQSkZ2RWFZZy12ZDJyNEFLUHNaTzgxUHB0cXZpWEliWlRPRHNfSDAtT0ZoaUZob0VIcS1QSE4xVk9QVEpWSU9FVmEwOTNWM1lreUY4OGg2SkpuZkg1RDFFZHVJeERsX3djWWQ3NGhjOHNwN1lRb1FJckd5QWZGcTdfMzdkTTA3TlN0MFByYjZqLUFfOVR2RTBxazlXWWgyYUx6YTB4?oc=5",
+       "publishedAt": "2026-11-25T17:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stokes eligible, Brook banned: Why two England stars have different auction status?",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ben-stokes-eligible-harry-brook-banned-why-two-england-stars-have-different-ipl-2027-auction-status/articleshow/136158052.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "IPL",
+      "Rediff.com",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T20:36+05:30",
+     "score": 7.59,
+     "summary": "Ben Stokes registered for the IPL 2027 mini-auction, having missed the previous mega-auction. Harry Brook, however, is banned from the IPL until 2028 following his withdrawal after being picked by Delhi Capitals. The BCCI's regulations impose stricter penalties for players who withdraw after the auction. These measures aim to protect franchises from losing contracted players unexpectedly. Other players, including…",
+     "image": "https://static.toiimg.com/photo/msid-136161234,imgsize-104442.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Stokes eligible, Brook banned: Why two England stars have different auction status?",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ben-stokes-eligible-harry-brook-banned-why-two-england-stars-have-different-ipl-2027-auction-status/articleshow/136158052.cms",
+       "publishedAt": "2026-11-25T17:57+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "Why Stokes can enter the IPL 2027 auction but Brook can't",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObHNFMHhfZ3NBVE5kWTZaUnNRS3V3dlQ2Ry1TbnZFQnJmM0JkQ2RJX0d1X3ZkMWgxc3d2YVAzR0F5Ukl0bEFoQkVZWlZxcVdtdFhOTFFEUXhCb0RoUHlORURVTWxCYzVBcHdRWTR2d3ktb2U2aENoYTB6NHVaclNLc3hNeFFraV9GYUM1Q1BMQTdkNUJ3RmszcE43TEJId0VXeUVyNC1kcXFSUUROR1pWN0JtVUJKd1dGNnBZRXAtNng?oc=5",
+       "publishedAt": "2026-11-25T20:36+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T20:00+05:30",
    "generatedAt": "2026-11-25T20:32+05:30",
@@ -29840,178 +30012,6 @@
        "title": "'We don't have data based on religion': UP CEO on claim 'Hindu voters' were deleted in SIR",
        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYUY1MXFKMDRMd0NxcnppSVJ0M2NxcWFwemxDdjg4X3JCYllWYlZGMmpFM3pUeFdLMjM0cFEySkV0d09OTnQxTm1vTEZFZkNmcl85dXlQdXBCU3FwTGRsM2c3QVNzNGhETnZoYXhycXBlSjNJV19aTzNJOXFnUkswU1ZaRzAwVThsVG1pS2Zzcnd4XzByUzM4TEtNRmMyWndyZjFIU2NfR1hfREdSYzh0SklUZFUxUUpqNWNqUjlCbjdqOXF5c29ESVotVUJMNmlpenlWX29CcTVmUzFLdlJDZVNCUkR3bDZKX0hDeWRia2pOdEI0Z1NCNkJ5YnZwcVRIdG1yNnVvSnVfM2h6S3pN?oc=5",
        "publishedAt": "2026-11-17T14:57+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T18:00+05:30",
-   "generatedAt": "2026-11-17T18:30+05:30",
-   "feeds": 16,
-   "headlines": 329,
-   "stories": [
-    {
-     "title": "India raises 'strong objection' to exclusion in Turkey's UNGA draft on UN-OIC cooperation",
-     "link": "https://www.hindustantimes.com/india-news/india-raises-strong-objection-to-exclusion-in-turkey-unga-draft-on-un-oic-cooperation-101794912773784.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "India Today",
-      "News On AIR",
-      "NewsBytes",
-      "The Times of India",
-      "Times of India",
-      "UN Meetings Coverage and Press Releases"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T16:27+05:30",
-     "score": 7.75,
-     "summary": "India, along with Armenia, Cyprus, Greece, Israel and the United States, voted against the resolution. Turkiye was the resolution's facilitator.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/UNGA_1794913040150_DC5n_1794913040340_3crE_6877ea9c-f9b9-443a-b00f-3df8864c5972_pOcr.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "India raises 'strong objection' to exclusion in Turkey's UNGA draft on UN-OIC cooperation",
-       "link": "https://www.hindustantimes.com/india-news/india-raises-strong-objection-to-exclusion-in-turkey-unga-draft-on-un-oic-cooperation-101794912773784.html",
-       "publishedAt": "2026-11-17T16:27+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "India slams Turkey over 'intentional' exclusion from UNGA draft consultations",
-       "link": "https://timesofindia.indiatimes.com/india/blatant-and-intentional-india-slams-turkey-over-exclusion-from-unga-draft-consultations/articleshow/135921139.cms",
-       "publishedAt": "2026-11-17T15:59+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Blatant and intentional': India slams Turkey over exclusion from UNGA draft consultations",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMFV1UTRRWlJaYk1kcE9nbEU0LUZBWXlZdVlUTkl3QWxKRnVYdHFUNjN5TGJiOXVtYlVJV3ZJT3VsWUJya0dLSU14TnVuVWxZRFFnRUs5eXFvQVFSSzBiOXBpNnFHYk9IV0tHU3FOQ2FxRmRVN0Z3M2oxR2ppVXdPZmtBX2RHWGVjRW1jaUFVOGNYTGhERTFMVHp4RUlGZWs3WXBWRUtOX0VRY3lEMmlwcEhHQnY1ZGVlWDVUdlF5a2ZMWEpBUi1PYmxiNnV5LXA3dXAwMy1EUW5GSjdVSVo3V1dNRE9HZ0ZLS2gw?oc=5",
-       "publishedAt": "2026-11-17T15:59+05:30"
-      }
-     ]
-    },
-    {
-     "title": "ASEAN Summit LIVE updates: Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
-     "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "The New York Times"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T18:22+05:30",
-     "score": 7.48,
-     "summary": "In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese",
-     "image": "https://c.ndtvimg.com/2026-11/djt6vhu_trump_625x300_17_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "ASEAN Summit LIVE updates: Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
-       "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
-       "publishedAt": "2026-11-17T18:22+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Quad Leaders Summit LIVE Updates: Quad trusted Partnership For India, Says PM Modi",
-       "link": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
-       "publishedAt": "2026-11-17T18:17+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "‘Constructive and trusted’: PM Modi on Quad partnership at Manila Summit",
-       "link": "https://www.hindustantimes.com/india-news/constructive-and-trusted-partnership-pm-modi-on-quad-partnership-at-manila-summit-101794913706456.html",
-       "publishedAt": "2026-11-17T16:42+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Bilkis Bano moves out of Gujarat after bail to 2 convicts, says her uncle",
-     "link": "https://www.hindustantimes.com/india-news/scared-once-again-bilkis-bano-s-uncle-says-she-s-left-gujarat-after-bail-to-2-convicts-101794910710221.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "Live Law",
-      "NDTV",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T15:48+05:30",
-     "score": 7.3,
-     "summary": "In a separate statement, Bilkis Bano said she was “scared once again” after the court ruling",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/Bilkis-Bano-at-a-press-conference-in-New-Delhi-in-_1794910702163_J5Q7.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Bilkis Bano moves out of Gujarat after bail to 2 convicts, says her uncle",
-       "link": "https://www.hindustantimes.com/india-news/scared-once-again-bilkis-bano-s-uncle-says-she-s-left-gujarat-after-bail-to-2-convicts-101794910710221.html",
-       "publishedAt": "2026-11-17T15:48+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Fresh tears of pain, shock, disbelief': Bilkis Bano after SC grants bail to convicts",
-       "link": "https://timesofindia.indiatimes.com/india/i-am-scared-once-again-bilkis-bano-releases-statement-after-sc-grants-bail-to-two-convicts/articleshow/135914851.cms",
-       "publishedAt": "2026-11-17T12:38+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Bilkis Bano says Supreme Court did not inform or hear her before granting bail to two convicts; vows to fight order",
-       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxON1pfN1J3My1sblQ4U3JFZTNJV0lCMG5vV055dU52MEphVUwxZmRidTZWQjJsSjRZcWZsdU5WOU9fTXAwd0JRcEVFQnhZa1BSWDh0STlwaE5IeW1sOG5fVV9wN29BdUg4RkJWN1RCd2VjN29PUHdqNXVpUkRJYUpEb1BicU1CZDJ4QWpXaUdrMUVEdy15d0RGNW9qSjFmQzF5QXd4RWY0eHZ4YUN0eWFmSGNnMzFMQThSZEhIUHNvTWJuTVdsU2ZGeWZ5cDhGY3Ria0p0R041d0JhWmFUWFptOVIzSWU4SmlwZjFjWFZrMGVrT2hxYU9LcmUzN2ItaU1SUjFZ?oc=5",
-       "publishedAt": "2026-11-17T13:10+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Inside CSK: How Dhoni broke the news to the maangement",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWV8yamhubUh6VmN3ZnlJdVpWQjZGVlc2OGNkd1piTEtzM1VKeGw5RWJkUXRNdHFtMTlPU3VwaGlfd0N3LXg5MVVaZWhPNUh2bC04a2NUVFNhYXJXNm10Z3RmSkw0U2wxZHNSVG9BTjdJd0VkRHFVMDF2ckNRV0tTbXdjTi1xYnhhR3otRVVva08yTmszdVlPNk1pR1hKaDA?oc=5",
-     "source": "Cricbuzz",
-     "sources": [
-      "Cricbuzz",
-      "Cricinfo",
-      "Rediff",
-      "Telegraph India",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T17:04+05:30",
-     "score": 7.26,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricbuzz",
-       "title": "Inside CSK: How Dhoni broke the news to the maangement",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWV8yamhubUh6VmN3ZnlJdVpWQjZGVlc2OGNkd1piTEtzM1VKeGw5RWJkUXRNdHFtMTlPU3VwaGlfd0N3LXg5MVVaZWhPNUh2bC04a2NUVFNhYXJXNm10Z3RmSkw0U2wxZHNSVG9BTjdJd0VkRHFVMDF2ckNRV0tTbXdjTi1xYnhhR3otRVVva08yTmszdVlPNk1pR1hKaDA?oc=5",
-       "publishedAt": "2026-11-17T17:04+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVZabWpya243cEtndWEyQnc1TXhYYUhUVUZvRXA5cTcwU1ZtenJqVHhLajNxLWNLLWRVRXE2LWZrRGpCN3duOVNJY1RhSGZYT3c1aWFaalVMcVg2X1M1alNCN0M2VUl0dnV2MmJBZDBoZE5OZDVhY2FRaFZWdm85SFFNT1Zld1YxZk16YjJrV1JvbGhPMHFsekJ1RXZfendZZlF3Vm5rZUNYS2xBTTdzQ1VFRThTQWdvc29Jamd5aUIwbXMtTU1mVlVR0gHQAUFVX3lxTE5UQlZRUzBfYjliTF9iQnBHaXctU1luaEs5cWIyaUxhUWVPTGwtenN1c3BPelpUWGh1UTdFR2toOGNEOEozSVZRSnFsRDNVWS1YaVFYeGFnLTBwSXE4MlF1VkF4bzdHN0d5UmhxRVV5SkpDN2l6cHdjd3hiN0NwQzg1WlRIdGV6TXFwanQ1UV9taTlOU3FFRjVESW1fVldUbXlqMkFGQlRBSk1ac0lNQVBLN2hFZmFFS2h2RVl3dlVybXBfSXpaYVNReUFzODJUQ1k?oc=5",
-     "source": "BusinessLine",
-     "sources": [
-      "BusinessLine",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T16:31+05:30",
-     "score": 7.17,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "BusinessLine",
-       "title": "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVZabWpya243cEtndWEyQnc1TXhYYUhUVUZvRXA5cTcwU1ZtenJqVHhLajNxLWNLLWRVRXE2LWZrRGpCN3duOVNJY1RhSGZYT3c1aWFaalVMcVg2X1M1alNCN0M2VUl0dnV2MmJBZDBoZE5OZDVhY2FRaFZWdm85SFFNT1Zld1YxZk16YjJrV1JvbGhPMHFsekJ1RXZfendZZlF3Vm5rZUNYS2xBTTdzQ1VFRThTQWdvc29Jamd5aUIwbXMtTU1mVlVR0gHQAUFVX3lxTE5UQlZRUzBfYjliTF9iQnBHaXctU1luaEs5cWIyaUxhUWVPTGwtenN1c3BPelpUWGh1UTdFR2toOGNEOEozSVZRSnFsRDNVWS1YaVFYeGFnLTBwSXE4MlF1VkF4bzdHN0d5UmhxRVV5SkpDN2l6cHdjd3hiN0NwQzg1WlRIdGV6TXFwanQ1UV9taTlOU3FFRjVESW1fVldUbXlqMkFGQlRBSk1ac0lNQVBLN2hFZmFFS2h2RVl3dlVybXBfSXpaYVNReUFzODJUQ1k?oc=5",
-       "publishedAt": "2026-11-17T16:31+05:30"
       }
      ]
     }
