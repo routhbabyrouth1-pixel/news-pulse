@@ -1,6 +1,154 @@
 {
- "updated": "2026-11-26T02:24+05:30",
+ "updated": "2026-11-26T03:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-26T03:00+05:30",
+   "generatedAt": "2026-11-26T03:26+05:30",
+   "feeds": 16,
+   "headlines": 229,
+   "stories": [
+    {
+     "title": "Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2!",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NcGIzbkR4cVNNSHpqSzdkTmJGY2R5U0NXN2ktcjFwR0NjbldjaWc4VVlydkhoSlV1OFBZblpiVlFYVzBKRnJESmtDRy13TVI0UU1mRHhmcVNhWGdBRmZRN3FURQ?oc=5",
+     "source": "IMDb",
+     "sources": [
+      "Deccan Chronicle",
+      "Gulte",
+      "IMDb",
+      "IndiaGlitz",
+      "NDTV",
+      "Nagaland Post",
+      "Pinkvilla",
+      "Sacnilk",
+      "The Hindu",
+      "The Times of India",
+      "iDiva"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-26T02:00+05:30",
+     "score": 13.26,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "IMDb",
+       "title": "Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2!",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NcGIzbkR4cVNNSHpqSzdkTmJGY2R5U0NXN2ktcjFwR0NjbldjaWc4VVlydkhoSlV1OFBZblpiVlFYVzBKRnJESmtDRy13TVI0UU1mRHhmcVNhWGdBRmZRN3FURQ?oc=5",
+       "publishedAt": "2026-11-26T02:00+05:30"
+      },
+      {
+       "source": "Sacnilk",
+       "title": "O.M Operation Mole Box Office Collection Day 6",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmNmUFRZdnRaQkQwcC1wWHhRWWZST3JzSGM5WHZSMTNMWGhVXzRCaVRHQWNmZmtzRi0xQ1R4aUdjR2RwUXY2bkRfYmNFTTRPSEc2eVFBX0NLTmpRTVJ3b251SXlTWEdRN2lmMXBiZnBSREJHdm1pZXlJdE1YZm1JM3RiOGhYT2RuYjl5cFpNY1o?oc=5",
+       "publishedAt": "2026-11-26T00:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "Bloomberg",
+      "CNBC",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T23:56+05:30",
+     "score": 8.92,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+       "publishedAt": "2026-11-25T23:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "FIDE World Championship 2026 Game 2: London System Battle Ends In 20-Move Draw",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTdmZVbVlTSkt2VnA3ckNwSzZMal9ZTGlyYl9HWXBfTWZkVzNyQWhWUWJydjVYeGpqMFdDZlA2ZGQzbUtIOVNpUWM5bEFEc0ZSVGhKMVNJWmozVHV6Si1ZamFJdXFfZGpqUjNyZjJqRVdqNTQtQkNVU0hOWU5zdw?oc=5",
+     "source": "Chess.com",
+     "sources": [
+      "Chess.com",
+      "ChessBase India",
+      "ESPN India",
+      "Telegraph India",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T01:00+05:30",
+     "score": 7.1,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Chess.com",
+       "title": "FIDE World Championship 2026 Game 2: London System Battle Ends In 20-Move Draw",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTdmZVbVlTSkt2VnA3ckNwSzZMal9ZTGlyYl9HWXBfTWZkVzNyQWhWUWJydjVYeGpqMFdDZlA2ZGQzbUtIOVNpUWM5bEFEc0ZSVGhKMVNJWmozVHV6Si1ZamFJdXFfZGpqUjNyZjJqRVdqNTQtQkNVU0hOWU5zdw?oc=5",
+       "publishedAt": "2026-11-26T01:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Winners Of The 47th Blue Dragon Film Awards",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb3VWM1RxQjJSMmdoY20wTDZxd0lLYjJXYm9Ud2JTZGU3ZkE2UW1aLVJWZDdmMTZCYVV4Q1pVeWdLSmNTNjdXRDlJdkYxQmpFWnFheGFTWHNwTktybi1yQV90cWlmalBjMWt0eVJjRGk5a2VkcHFER0F2RzdNeVJITVhrWW1nU18xUGdKNmZR?oc=5",
+     "source": "Soompi",
+     "sources": [
+      "Chosunbiz",
+      "Korea JoongAng Daily",
+      "Soompi",
+      "Vietnam.vn",
+      "매일경제",
+      "스포츠조선"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T21:50+05:30",
+     "score": 6.44,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Soompi",
+       "title": "Winners Of The 47th Blue Dragon Film Awards",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb3VWM1RxQjJSMmdoY20wTDZxd0lLYjJXYm9Ud2JTZGU3ZkE2UW1aLVJWZDdmMTZCYVV4Q1pVeWdLSmNTNjdXRDlJdkYxQmpFWnFheGFTWHNwTktybi1yQV90cWlmalBjMWt0eVJjRGk5a2VkcHFER0F2RzdNeVJITVhrWW1nU18xUGdKNmZR?oc=5",
+       "publishedAt": "2026-11-25T21:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Markets News, Nov. 25, 2026: Nasdaq, S&P 500 Close Lower as AI Trade Remains Under Pressure; Nvidia Falls 4%",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjhSdzBFWmRZeGtpYnpQT1cteVNuVG5BUzhGd282NWNydGgtZmIxZkhJbmhJVWZJVk5rd1JGTHBXN2xQY21RWkJobDVPeXdjQ20tQzRxaE5wUmQxOU9Cc0pUOUV0QzdTMFdTSmZ2SG5oaVJGZ3RFMWZSSE9ZSzdfUVNkdTZyZHg4S3JRNXRnZm1mVHM0dGVmN2NR?oc=5",
+     "source": "Investopedia",
+     "sources": [
+      "BBC",
+      "Bloomberg",
+      "CNBC",
+      "Investopedia",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T01:26+05:30",
+     "score": 6.42,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Investopedia",
+       "title": "Markets News, Nov. 25, 2026: Nasdaq, S&P 500 Close Lower as AI Trade Remains Under Pressure; Nvidia Falls 4%",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjhSdzBFWmRZeGtpYnpQT1cteVNuVG5BUzhGd282NWNydGgtZmIxZkhJbmhJVWZJVk5rd1JGTHBXN2xQY21RWkJobDVPeXdjQ20tQzRxaE5wUmQxOU9Cc0pUOUV0QzdTMFdTSmZ2SG5oaVJGZ3RFMWZSSE9ZSzdfUVNkdTZyZHg4S3JRNXRnZm1mVHM0dGVmN2NR?oc=5",
+       "publishedAt": "2026-11-26T01:26+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-26T02:00+05:30",
    "generatedAt": "2026-11-26T02:24+05:30",
@@ -29587,184 +29735,6 @@
        "title": "IPL 2027: Gujarat Titans retention list, released players and remaining purse",
        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOY1NWVDhjRVlwdWprb254V1hWUV9vRWFYVmZKWkJWaFZsZDlPOTV0clhvSmFvNjlaYzViNU1rYjhBMWNGVnNtUFFKaWU4YWRtS0N3cDMyb3FtT1RieXFDaXgzQlB4WFplN3U1eUIwY1RpWE9oY1hKaHk4OGFUTV9EQ3pyeVJWYkNmVXh6Q185NEZid0VTT29KZ3pST25xaUFQWVhIR2ZSRWRpa0ZoUGJFRk5Cb1owSmFtZzVRR3pqVlJGQ0FRQjJnU05ibXdWWW5NTWN6NXI0U051U0tVaFBRczNuT2F5RkRnbHVoajU2a19kbnRRVVREWE1kT1jSAYICQVVfeXFMTm9OSFBtOGV2dEVjNHJQcFNtMHVWMWpQUVlKSFZ5djhMZTdRTVhUSFY3LVBHUEtrTUZKV2p3bU4wREpOVDV2TFRVakNQT1l5ZHB4eHE1RVQyb2RGa0JJT2V3MjBCSmlCR1dDa01wbHNaY1NORC1WZjExRWpsMWdVTERGXzJncG13Z1lEdHJQa3pZSmNwdzd4b2tDLWVTc3NIanFwMWt6RzlmbEVyaERFc1JJVkNSZzNweUJjcWxfMHJDNW1kQ1VSUkxvakJUMmtUMmZUcDZ2Tzg2SFFZLTZmYXNYRGIxbnNFN2VxU053LXcwaGhjUGJtZ1ROOEE1RkI5S2NB?oc=5",
        "publishedAt": "2026-11-17T21:24+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T01:00+05:30",
-   "generatedAt": "2026-11-18T01:31+05:30",
-   "feeds": 13,
-   "headlines": 233,
-   "stories": [
-    {
-     "title": "Gujarat Titans retained players list IPL 2027",
-     "link": "https://economictimes.indiatimes.com/news/sports/gujarat-titans-retained-players-list-ipl-2027-shubman-gill-sai-sudharsan-rashid-khan-among-22-players-check-full-squad/articleshow/135932410.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Home of Gujarat Titans",
-      "Inshorts",
-      "Jagran Josh",
-      "Sportstar",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "Times of India",
-      "Yahoo Sports",
-      "www.indiagazette.com"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-17T21:46+05:30",
-     "score": 10.63,
-     "summary": "All ten IPL franchises have completed the process of retaining and releasing players before the IPL 2027 auction. Focus will now shift towards the upcoming auction where teams strategize to fill squad gaps. Each franchise's remaining purse will significantly influence their auction strategies. The complete breakdown of retained, released players, and financial resources remains available. IPL fans can look forward…",
-     "image": "https://static.toiimg.com/photo/msid-135926421,imgsize-61814.cms",
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Gujarat Titans retained players list IPL 2027",
-       "link": "https://economictimes.indiatimes.com/news/sports/gujarat-titans-retained-players-list-ipl-2027-shubman-gill-sai-sudharsan-rashid-khan-among-22-players-check-full-squad/articleshow/135932410.cms",
-       "publishedAt": "2026-11-17T21:46+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "IPL 2027 retention: Full list of retained and released players, remaining purse",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-retention-list-full-list-of-retained-and-released-players-remaining-purse-of-all-10-teams/articleshow/135926264.cms",
-       "publishedAt": "2026-11-17T21:06+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "IPL 2027: Gujarat Titans retention list, released players and remaining purse",
-       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOY1NWVDhjRVlwdWprb254V1hWUV9vRWFYVmZKWkJWaFZsZDlPOTV0clhvSmFvNjlaYzViNU1rYjhBMWNGVnNtUFFKaWU4YWRtS0N3cDMyb3FtT1RieXFDaXgzQlB4WFplN3U1eUIwY1RpWE9oY1hKaHk4OGFUTV9EQ3pyeVJWYkNmVXh6Q185NEZid0VTT29KZ3pST25xaUFQWVhIR2ZSRWRpa0ZoUGJFRk5Cb1owSmFtZzVRR3pqVlJGQ0FRQjJnU05ibXdWWW5NTWN6NXI0U051U0tVaFBRczNuT2F5RkRnbHVoajU2a19kbnRRVVREWE1kT1jSAYICQVVfeXFMTm9OSFBtOGV2dEVjNHJQcFNtMHVWMWpQUVlKSFZ5djhMZTdRTVhUSFY3LVBHUEtrTUZKV2p3bU4wREpOVDV2TFRVakNQT1l5ZHB4eHE1RVQyb2RGa0JJT2V3MjBCSmlCR1dDa01wbHNaY1NORC1WZjExRWpsMWdVTERGXzJncG13Z1lEdHJQa3pZSmNwdzd4b2tDLWVTc3NIanFwMWt6RzlmbEVyaERFc1JJVkNSZzNweUJjcWxfMHJDNW1kQ1VSUkxvakJUMmtUMmZUcDZ2Tzg2SFFZLTZmYXNYRGIxbnNFN2VxU053LXcwaGhjUGJtZ1ROOEE1RkI5S2NB?oc=5",
-       "publishedAt": "2026-11-17T21:24+05:30"
-      }
-     ]
-    },
-    {
-     "title": "National Security Agency network for internal communications goes down",
-     "link": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
-     "source": "The Guardian",
-     "sources": [
-      "CNN",
-      "Forbes",
-      "Forex Factory",
-      "NDTV",
-      "Reuters",
-      "The Guardian",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-18T00:30+05:30",
-     "score": 8.92,
-     "summary": "NSA issues ‘code yellow’ as NSANet, used by staff to share classified material, including top-secret intelligence, fails The National Security Agency said on Tuesday that it had experienced “temporary degradation” during scheduled routine maintenance, after reports that its classified internal communications network had gone down. In a statement, the agency said some internal systems were affected but that…",
-     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "National Security Agency network for internal communications goes down",
-       "link": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
-       "publishedAt": "2026-11-18T00:30+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Highly Classified US National Security Communications Network Down: Report",
-       "link": "https://www.ndtv.com/world-news/highly-classified-us-national-security-communications-network-down-report-12340389#publisher=newsstand",
-       "publishedAt": "2026-11-17T22:40+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Top secret US national security communications network goes down: Report",
-       "link": "https://timesofindia.indiatimes.com/world/us/americas-spy-agency-goes-dark-nsas-classified-internal-network-goes-down-no-cyberattack-evidence-yet-report/articleshow/135932100.cms",
-       "publishedAt": "2026-11-17T21:21+05:30"
-      },
-      {
-       "source": "Forex Factory",
-       "title": "CNN Reports US National Security Communications Network Has Gone Down",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmNhWWNYcEJiRWktOWVTOUYyU3FDWTdkSDRUT09rdWFWRzBuNjRab1hXYlJTOW9ySXJtT19SS2xMaDFTYzh4ZWNGYlp5dl90bEFtTGxja2FWV2piSUtPUVl1OWgtcHhibVhiQ0hNV1ZTRW12UTgyQWRYVHA2U3JHS0IzcldpQmNUVllFeE1UWWd5RzBlQldpUHhVLTVXNnppQUdZ0gGoAUFVX3lxTE5fenhBbVBRZXFpaGdJZk51bXhqMlVBeE5hRTMwajRrc2xmd0stdmRJeThyVEczNUR6UDJVamV2RDdVRk1OeTB4RDBjeE5WWVRxUXZjYTZ6bzJaWHA2X1dVVkVtN1RIMVlKTnNLYV9PWnMzczRERHVoY2I1QTNfdmYtdXo2LUdMd0Ywb0I4X3hQM0puTmdCaEVhZDA0VTRhOEROWjc1OURIMQ?oc=5",
-       "publishedAt": "2026-11-17T21:44+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHWFY0aVN0S3V4bnVMR0lKMmM5aXdTcmJUVExJcTRlYXpHTlU1NHJBcXdvTlhKZVotNlFJV01tUi1IV3E0OTVRVWp6Yi1LNHpNWkF0cm5XTVBLWW8?oc=5",
-     "source": "BBC",
-     "sources": [
-      "BBC",
-      "Fast Company",
-      "NDTV",
-      "The Guardian",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T22:49+05:30",
-     "score": 7.05,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "BBC",
-       "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHWFY0aVN0S3V4bnVMR0lKMmM5aXdTcmJUVExJcTRlYXpHTlU1NHJBcXdvTlhKZVotNlFJV01tUi1IV3E0OTVRVWp6Yi1LNHpNWkF0cm5XTVBLWW8?oc=5",
-       "publishedAt": "2026-11-17T22:49+05:30"
-      }
-     ]
-    },
-    {
-     "title": "World News Live Updates: Quad leaders raise alarm over economic coercion, back free maritime movement",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR0dqU0ZGZWZIUHFpRDQwMlRXcFBYTS1DVFR0MUpEc3BBcG5EY0FPdE0wUGlUTnVrVk9yei00eXZlZDJqNWNDTmpRbHNxTzJZYmNFOExXTzdvWWpUVjE0c0JHLUdqd0JPYUR6VElaYjlkeGVGaVRnbGRSeG83S1dZUWJEMjVzTFdQcnhKX3VVekoxNkE1a3lhcThOZk1jeHhfaG5BQXptaE5nZk1fQ25fMkxndkN5RnJQdE5ONVctdkEwc3B5c29CWUVJSGVydUpzbUF6VjNn0gHcAUFVX3lxTFA4Ry1IMWxhb2c4aENCb2lJTWVfSjZoeW56WGZveE44Zy1pWTAwTFJqQnNnNk1qSlRscC10MmZuckRCekFiaEw4MnVSbEhYeng1dkhxVXRsWkhOVEpZaldldjVPNkhrMjB3M09nSjByMDFSYXZmem1IZWVvN3RIX3BncVB6T21Wc20xdG5oQlUtMGFQWEViQmVpaXNtYzVZX0s1a3V4NnBEV3lBRjJhcVhyM1EwNm42N0RZVXVkdkxfQWhRTzVDTEljVWdpbE1lSEQwOWRxekNFalJIMW0?oc=5",
-     "source": "The Indian Express",
-     "sources": [
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T22:31+05:30",
-     "score": 7.0,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "World News Live Updates: Quad leaders raise alarm over economic coercion, back free maritime movement",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR0dqU0ZGZWZIUHFpRDQwMlRXcFBYTS1DVFR0MUpEc3BBcG5EY0FPdE0wUGlUTnVrVk9yei00eXZlZDJqNWNDTmpRbHNxTzJZYmNFOExXTzdvWWpUVjE0c0JHLUdqd0JPYUR6VElaYjlkeGVGaVRnbGRSeG83S1dZUWJEMjVzTFdQcnhKX3VVekoxNkE1a3lhcThOZk1jeHhfaG5BQXptaE5nZk1fQ25fMkxndkN5RnJQdE5ONVctdkEwc3B5c29CWUVJSGVydUpzbUF6VjNn0gHcAUFVX3lxTFA4Ry1IMWxhb2c4aENCb2lJTWVfSjZoeW56WGZveE44Zy1pWTAwTFJqQnNnNk1qSlRscC10MmZuckRCekFiaEw4MnVSbEhYeng1dkhxVXRsWkhOVEpZaldldjVPNkhrMjB3M09nSjByMDFSYXZmem1IZWVvN3RIX3BncVB6T21Wc20xdG5oQlUtMGFQWEViQmVpaXNtYzVZX0s1a3V4NnBEV3lBRjJhcVhyM1EwNm42N0RZVXVkdkxfQWhRTzVDTEljVWdpbE1lSEQwOWRxekNFalJIMW0?oc=5",
-       "publishedAt": "2026-11-17T22:31+05:30"
-      }
-     ]
-    },
-    {
-     "title": "2026 SAFF Championship Final: India beat Pakistan 2–1; secures record 10th title",
-     "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-beat-10-man-pakistan-21-in-dhaka-final-to-complete-three-peat-and-lift-record-10th-saff-crown/articleshow/135932517.cms",
-     "source": "Times of India",
-     "sources": [
-      "AIFF",
-      "Al Jazeera",
-      "ESPN India",
-      "Sportstar",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T22:07+05:30",
-     "score": 6.81,
-     "summary": "India staged a dramatic 2–1 comeback against arch-rivals Pakistan in Dhaka to win the 2026 SAFF Championship, securing a historic three-peat and a record 10th title. Trailing to Alamgir Ghazi’s stoppage-time strike, the Blue Tigers capitalized on Junaid Shah’s 59th-minute red card. Suhail Ahmad Bhat equalized instantly before Sandip Mandi’s 88th-minute header sealed an unforgettable regional triumph.",
-     "image": "https://static.toiimg.com/photo/msid-135933541,imgsize-133624.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "2026 SAFF Championship Final: India beat Pakistan 2–1; secures record 10th title",
-       "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-beat-10-man-pakistan-21-in-dhaka-final-to-complete-three-peat-and-lift-record-10th-saff-crown/articleshow/135932517.cms",
-       "publishedAt": "2026-11-17T22:07+05:30"
-      },
-      {
-       "source": "Sportstar",
-       "title": "India vs Pakistan Highlights, SAFF Championship 2026 final: IND 2-1 PAK; Blue Tigers win 10th title",
-       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZF9VUjg0SmlrckxiX0UtcjVreU5QZ1UzLVVTRjdnUGdHTS1pdUo4TnQ3UVJ3YnVwa2t3MEc2c181SUx5bDdZZ1FXMFZCOWlDb2xtNDZNM3VENi1Pd1ZfWmhRVEU5bzRnSDU5TWV6aVBGS3UzN1hYNGd5VE80VVVYcU1oR3RJOEZTc1VBTGprYlVhZjBoSDV2NlJ3b1V6Qjl2Yk1KTmNKNnVoS3RGczI5RHo3bGNFVm5ILVNpWTlCZ0hvc1pUS1pPQXdiTUpfakdra2YzcWpfV0JzQWFn0gHjAUFVX3lxTFBDeUM0MzVRRHExTm02ZGgwRzJGOWZfclNyRXNhRTVMMXFNUU9qeEJlWXpOTVdoeW1JMUlpNFFqZGg3dW9IS2ZqTkJvMW4yRmd3T0IxOGt6clNtdDNZeFc4eVBIa1pCZ3dSdlY0RzhkcjJzMkt2b1ptNUMyMlRybGVsV3ZwaWtIeUZYTG5YeVVaYUkwSUo1QzNzODl1SklWc2QwMlA4YXhaNXVCV044emc1bktxRU5pbkFUNVItbm5CQnI2T0J2cDFINUxaMXlfbXNXTktUM3JWMVBIbkh5Z3llNnFr?oc=5",
-       "publishedAt": "2026-11-17T21:55+05:30"
       }
      ]
     }
