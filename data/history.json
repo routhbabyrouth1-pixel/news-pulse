@@ -1,6 +1,184 @@
 {
- "updated": "2026-11-25T18:46+05:30",
+ "updated": "2026-11-25T20:32+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T20:00+05:30",
+   "generatedAt": "2026-11-25T20:32+05:30",
+   "feeds": 15,
+   "headlines": 320,
+   "stories": [
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 6",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTZjVks1NG1lQ0J1MWp4WXgwS2h6SGwyOC03WFhjeFRaQ0p6T0ZSWU02ZjRZbjh4Q1NGMzUwN3FuVE15WEFSMUsyQVYxOUlUWHhhSnB2OGxtYlNCZnpLaTNmdVg1aTBvQktHam9DQl84NzRyZkFQS0FsSmJxbGZ6bklZd29LQzBaSF9zTlpR?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "IMDb",
+      "NDTV",
+      "Nagaland Post",
+      "Rediff.com",
+      "Sacnilk",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-25T18:15+05:30",
+     "score": 9.77,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 6",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTZjVks1NG1lQ0J1MWp4WXgwS2h6SGwyOC03WFhjeFRaQ0p6T0ZSWU02ZjRZbjh4Q1NGMzUwN3FuVE15WEFSMUsyQVYxOUlUWHhhSnB2OGxtYlNCZnpLaTNmdVg1aTBvQktHam9DQl84NzRyZkFQS0FsSmJxbGZ6bklZd29LQzBaSF9zTlpR?oc=5",
+       "publishedAt": "2026-11-25T18:15+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Comedian Yash Maheshwari booked in Patna over remarks on women observing Chhath",
+     "link": "https://www.thehindu.com/todays-paper/tp-national/comedian-yash-maheshwari-booked-in-patna-over-remarks-on-women-observing-chhath/article71742426.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T19:43+05:30",
+     "score": 8.08,
+     "summary": "The FIR was filed by the Patna Police after concerns that Yash Maheshwari's comments could affect social harmony and create hostility between communities.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/25/1600x900/yash_1795600390214_dic6_1795600390313_tmgG_dde7ef0e-43d7-4974-83bd-f6ee55a058c7_KNc2.png",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Comedian Yash Maheshwari booked in Patna over remarks on women observing Chhath",
+       "link": "https://www.thehindu.com/todays-paper/tp-national/comedian-yash-maheshwari-booked-in-patna-over-remarks-on-women-observing-chhath/article71742426.ece",
+       "publishedAt": "2026-11-25T19:43+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "FIR filed after comedian Yash Maheshwari's ‘derogatory’ remarks on Bihar women, Chhath Puja",
+       "link": "https://www.hindustantimes.com/india-news/fir-filed-after-comedian-yash-maheshwaris-derogatory-remarks-on-bihar-women-chhath-puja-101795600154274.html",
+       "publishedAt": "2026-11-25T15:53+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "YouTuber Yash Maheshwari's remarks on married women's sindoor during Chhath spark outrage; Patna Police r",
+       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOc2hEMU5rZm1JYWJNRnlyWUdoeDd3dHcza1hYdVBOQTNYQ3o4ZDRxM21jWmttQVBqRkVUc01WMDB3NW5IVlBBV0ZjcnFYZDR6UWxhZllYeGJtUE82Y0dOYlMwU2p5Nzdua2o1eUh5ck9zZHJOc2p0dWJGeElTTFRkR3VRMnh6T3VJd1J0ZmNBQ2RlSEc0TTFJU0FCNXJ1dGpMeks5MHJidkhGb1BqSXRHRXR6Rmg1d05vbTFmSlR1LU81LTlOMElNcC1lM2FQUUpXcFVkb2ozWmdGaUtDTHQybTdocDRZZkE2Z2FxZnJiMktQbFQ3LXVuWWQtbVRCYk1kMi1USVg1T0tTY2NnanF6UDdOV3o?oc=5",
+       "publishedAt": "2026-11-25T17:20+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stokes eligible, Brook banned: Why two England stars have different auction status?",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ben-stokes-eligible-harry-brook-banned-why-two-england-stars-have-different-ipl-2027-auction-status/articleshow/136158052.cms",
+     "source": "Times of India",
+     "sources": [
+      "Cricbuzz",
+      "IPL",
+      "The Hindu",
+      "The New Indian Express",
+      "Times of India",
+      "sports.economictimes.indiatimes.com"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T17:57+05:30",
+     "score": 7.32,
+     "summary": "Ben Stokes registered for the IPL 2027 mini-auction, having missed the previous mega-auction. Harry Brook, however, is banned from the IPL until 2028 following his withdrawal after being picked by Delhi Capitals. The BCCI's regulations impose stricter penalties for players who withdraw after the auction. These measures aim to protect franchises from losing contracted players unexpectedly. Other players, including…",
+     "image": "https://static.toiimg.com/photo/msid-136161234,imgsize-104442.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Stokes eligible, Brook banned: Why two England stars have different auction status?",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ben-stokes-eligible-harry-brook-banned-why-two-england-stars-have-different-ipl-2027-auction-status/articleshow/136158052.cms",
+       "publishedAt": "2026-11-25T17:57+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "Why Stokes can enter the IPL 2027 auction but Brook can't",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObHNFMHhfZ3NBVE5kWTZaUnNRS3V3dlQ2Ry1TbnZFQnJmM0JkQ2RJX0d1X3ZkMWgxc3d2YVAzR0F5Ukl0bEFoQkVZWlZxcVdtdFhOTFFEUXhCb0RoUHlORURVTWxCYzVBcHdRWTR2d3ktb2U2aENoYTB6NHVaclNLc3hNeFFraV9GYUM1Q1BMQTdkNUJ3RmszcE43TEJId0VXeUVyNC1kcXFSUUROR1pWN0JtVUJKd1dGNnBZRXAtNng?oc=5",
+       "publishedAt": "2026-11-25T14:38+05:30"
+      }
+     ]
+    },
+    {
+     "title": "SC sets aside Allahabad HC order on CBI, ED enquiries into disproportionate assets complaint against Rahul Gandhi",
+     "link": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "Scroll.in",
+      "The Hindu",
+      "The Times of India",
+      "Verdictum"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T19:57+05:30",
+     "score": 7.15,
+     "summary": "Three-judge bench led by CJI India Surya Kant directs the Opposition leader be impleaded as a party, while relegating the case back to the High Court to be heard from the very threshold in open court by a fresh Bench of judges",
+     "image": "https://th-i.thgim.com/public/incoming/hvvlsv/article71662966.ece/alternates/LANDSCAPE_1200/20261101410L.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "SC sets aside Allahabad HC order on CBI, ED enquiries into disproportionate assets complaint against Rahul Gandhi",
+       "link": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
+       "publishedAt": "2026-11-25T19:57+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Supreme Court sets aside Allahabad HC order directing probe into Rahul Gandhi’s assets, orders fresh hearing",
+       "link": "https://www.hindustantimes.com/india-news/supreme-court-sets-aside-allahabad-hc-order-directing-probe-into-rahul-gandhi-s-assets-orders-fresh-hearing-101795597229111.html",
+       "publishedAt": "2026-11-25T14:41+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Cabinet approves ₹11,000-crore scheme for domestic manufacturing of construction equipment",
+     "link": "https://www.thehindu.com/news/national/cabinet-approves-11000-crore-scheme-to-boost-cie-manufacturing-ecosystem-in-india/article71742124.ece",
+     "source": "The Hindu",
+     "sources": [
+      "NDTV",
+      "News On AIR",
+      "PM India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T20:18+05:30",
+     "score": 7.05,
+     "summary": "The scheme aims to incentivise manufacturing of technologically advanced equipment",
+     "image": "https://th-i.thgim.com/public/incoming/n7xyh2/article71743194.ece/alternates/LANDSCAPE_1200/bl24-Think2-DCiGI0GRA79S.5.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Cabinet approves ₹11,000-crore scheme for domestic manufacturing of construction equipment",
+       "link": "https://www.thehindu.com/news/national/cabinet-approves-11000-crore-scheme-to-boost-cie-manufacturing-ecosystem-in-india/article71742124.ece",
+       "publishedAt": "2026-11-25T20:18+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Cabinet Clears Rs 11,000-Crore Push For Construction Equipment Manufacturing",
+       "link": "https://www.ndtv.com/india-news/cabinet-clears-rs-11-000-crore-push-for-construction-equipment-manufacturing-12376238#publisher=newsstand",
+       "publishedAt": "2026-11-25T19:05+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Why India is betting Rs 11,000 crore on construction, infrastructure equipment manufacturing - explained",
+       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQLU5qUWlZNmJ2LUFDdU43bi14TVJXM2tpTWRJZzkxQnRfcFhOZkMtZHdjbmJpbjZlYTN6ZGRpS1BjaDZTc2Y0dGpkZ2dSMVBfaFZocmN0ckpsUXJjSU1UWEtWUDZGSWZWWW1zOU9aNUtVekFjSm1BaVRkUXlsVGZWZVpkLVFBME1ybVB1VzZkWjRtek9mS3Bob1lDcXpyVWFmMEdjS3ZMSVhXMUp4d3JyNkt1OUd0ci0xMFAyeDMzajhtb1JCRVI4Y3FMTnQ2NG1tbTU4U1hUc0h6YVJBeEdEbTlIdFdDMWFTYjljdTFBV2ZwbElzRlE1ZVNKZWdBMkNScUl4TVlzVmJHb0oxZ242T29Iekk?oc=5",
+       "publishedAt": "2026-11-25T17:08+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T18:00+05:30",
    "generatedAt": "2026-11-25T18:46+05:30",
@@ -29834,204 +30012,6 @@
        "title": "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows",
        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVZabWpya243cEtndWEyQnc1TXhYYUhUVUZvRXA5cTcwU1ZtenJqVHhLajNxLWNLLWRVRXE2LWZrRGpCN3duOVNJY1RhSGZYT3c1aWFaalVMcVg2X1M1alNCN0M2VUl0dnV2MmJBZDBoZE5OZDVhY2FRaFZWdm85SFFNT1Zld1YxZk16YjJrV1JvbGhPMHFsekJ1RXZfendZZlF3Vm5rZUNYS2xBTTdzQ1VFRThTQWdvc29Jamd5aUIwbXMtTU1mVlVR0gHQAUFVX3lxTE5UQlZRUzBfYjliTF9iQnBHaXctU1luaEs5cWIyaUxhUWVPTGwtenN1c3BPelpUWGh1UTdFR2toOGNEOEozSVZRSnFsRDNVWS1YaVFYeGFnLTBwSXE4MlF1VkF4bzdHN0d5UmhxRVV5SkpDN2l6cHdjd3hiN0NwQzg1WlRIdGV6TXFwanQ1UV9taTlOU3FFRjVESW1fVldUbXlqMkFGQlRBSk1ac0lNQVBLN2hFZmFFS2h2RVl3dlVybXBfSXpaYVNReUFzODJUQ1k?oc=5",
        "publishedAt": "2026-11-17T16:31+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T17:00+05:30",
-   "generatedAt": "2026-11-17T17:19+05:30",
-   "feeds": 16,
-   "headlines": 335,
-   "stories": [
-    {
-     "title": "Sensex falls 400 pts from day's high, Nifty below 25,400: Key reasons behind market paring gains",
-     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRjlsbzFrT2FxcWZENGE2QXVhZm96VjRsaGtmcUlvUEMtOE9fSmxlelg5Y2ZoRnlDZkVwTk9JRXI4Z3Z6NzJETEZnaUw1UUNmYm8ybllCWUpVU2tVUDVlQmZQYzM0bGRRTmZvV2YyOEtqMXl2UWpBM3lpRnY1eVh2UVlrWVFWR0dScTJlSE5GRFVrMElGUDZkVl9HVTRISWhNUkpoazVWczBUYVJyMDVkQkNERWtiTHdGNE5fclFvbFJLTDdwVWlvNUM4aE0wYkR2WE9jV2ZzX2VHM1dsZE1mcDhJZkVTdE54akFibHJxb3ZQOW1ZbzU1VHN6SjdvNjBQUWVHUTlaa1Z3SzBfWF9J0gGUAkFVX3lxTE9saXZreThISTJ2bXhHczNGaGFieTBpZWEtcFhsQ25sYjZ2X3lnb0VLbmw5NmdFTXBWLWtTeWZIYV9pa3o0eW15ZWdWZGJ4S1B1LUxrWE1lTC1wdmtnNjRKOU1oM25wM3NTZDBvelBzLVJxcTBZajZkYXloVENfbFY3N09RREgwbDdZVU5HUzZSRTg4SHFOSkxwNW1OcWtTaXJ5dXhWM0hoRkF5X1FjdklYdTJ2OHhDckxMV18tSVNPV0FHT1czNjBISmpMTjB3UktRV0NzaU9PRXBNSW1qZm5CZE1OMWRUVWxBLUVwVERNNzBuaVoxWWVaME42VThpTlB4aUNHWmJLSkl1S00zN2N4M21xVw?oc=5",
-     "source": "Moneycontrol.com",
-     "sources": [
-      "Livemint",
-      "Moneycontrol.com",
-      "NDTV",
-      "National Herald",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "TradingView",
-      "Upstox"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-17T13:31+05:30",
-     "score": 10.87,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Moneycontrol.com",
-       "title": "Sensex falls 400 pts from day's high, Nifty below 25,400: Key reasons behind market paring gains",
-       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRjlsbzFrT2FxcWZENGE2QXVhZm96VjRsaGtmcUlvUEMtOE9fSmxlelg5Y2ZoRnlDZkVwTk9JRXI4Z3Z6NzJETEZnaUw1UUNmYm8ybllCWUpVU2tVUDVlQmZQYzM0bGRRTmZvV2YyOEtqMXl2UWpBM3lpRnY1eVh2UVlrWVFWR0dScTJlSE5GRFVrMElGUDZkVl9HVTRISWhNUkpoazVWczBUYVJyMDVkQkNERWtiTHdGNE5fclFvbFJLTDdwVWlvNUM4aE0wYkR2WE9jV2ZzX2VHM1dsZE1mcDhJZkVTdE54akFibHJxb3ZQOW1ZbzU1VHN6SjdvNjBQUWVHUTlaa1Z3SzBfWF9J0gGUAkFVX3lxTE9saXZreThISTJ2bXhHczNGaGFieTBpZWEtcFhsQ25sYjZ2X3lnb0VLbmw5NmdFTXBWLWtTeWZIYV9pa3o0eW15ZWdWZGJ4S1B1LUxrWE1lTC1wdmtnNjRKOU1oM25wM3NTZDBvelBzLVJxcTBZajZkYXloVENfbFY3N09RREgwbDdZVU5HUzZSRTg4SHFOSkxwNW1OcWtTaXJ5dXhWM0hoRkF5X1FjdklYdTJ2OHhDckxMV18tSVNPV0FHT1czNjBISmpMTjB3UktRV0NzaU9PRXBNSW1qZm5CZE1OMWRUVWxBLUVwVERNNzBuaVoxWWVaME42VThpTlB4aUNHWmJLSkl1S00zN2N4M21xVw?oc=5",
-       "publishedAt": "2026-11-17T13:31+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Why is market rising today? Sensex jumps 700 pts, Nifty hits 9-month high. 4 factors behind today’s gains",
-       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNT2dDTFBybVJia2FQdFRndC1scWw3UHFQeEtRZ09TdmFyd1lXcm1VcldOUk1BSS1xM2Qwc1lzTWVNajRReWsxQlJKcjhadktuX0hsTE04THVuQXRTQXVRaEdmYjVLTlh3N0tUcm1QZEpSa3pFNmJNbjAtd1BCcC1FRUhTZEtDUWQwNG9EU1g0OEhBS1ZvbHljV0llNG4xZF8tVTY1b0FXOUFwdXRBdjVReG5DOVlNYXhhVEF3Tzh3ZjFUeW14bjMzMHBQOE5UVTN2Um9KRmphSmNyZWUxZXEyTzJXaDlDNnZNWFBIVW56SGVYSzBmUF9pNUlhQ2hVa3VMUkZramtnRXFTWERlWFI4ek1zUHNPQ1BNTEJ4eENzeGZJWE9W0gGqAkFVX3lxTE9KbTBuQzNiQ3V5eVJoZV8tald2NDYtb21xbEREZmhXY0tfT2lYc1V5dVdiZXhva3paYXpCNkpKUmFjUW5UNlY5NnQ4eUl4V0Y0VDd2OXprV19vdHBua0pCLUJHb25lWWdSY1E3Q01PYnBuaUMxNkRhQVZTOE1aSGp0TTJnUXBWcXFfTkt0TVFMa1FtZENRMlJfa1Z4Vm81LTRNT3JFU0d3RDV6S1pDOEVfdEYyTlgybUo4eGo0Mm11c01tTy1EVDlXelBWVi05UHdTSmZWaWIyRzZDWjhyZWM5UHlFemVFSERZNWUxclRJRXY1U0F1Q3JTZXpxZURhSlF4SWdodllXdFRuWDRmU3UxdEtJSkRhUGFXMnBLdzJLY1Nmd1JjWTcwZFE?oc=5",
-       "publishedAt": "2026-11-17T12:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Bilkis Bano moves out of Gujarat after bail to 2 convicts, says her uncle",
-     "link": "https://www.hindustantimes.com/india-news/scared-once-again-bilkis-bano-s-uncle-says-she-s-left-gujarat-after-bail-to-2-convicts-101794910710221.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "BBC",
-      "Hindustan Times",
-      "NDTV",
-      "Scroll.in",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-17T15:48+05:30",
-     "score": 9.5,
-     "summary": "In a separate statement, Bilkis Bano said she was “scared once again” after the court ruling",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/Bilkis-Bano-at-a-press-conference-in-New-Delhi-in-_1794910702163_J5Q7.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Bilkis Bano moves out of Gujarat after bail to 2 convicts, says her uncle",
-       "link": "https://www.hindustantimes.com/india-news/scared-once-again-bilkis-bano-s-uncle-says-she-s-left-gujarat-after-bail-to-2-convicts-101794910710221.html",
-       "publishedAt": "2026-11-17T15:48+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Bilkis Bano says Supreme Court did not inform or hear her before granting bail to two convicts; vows to fight order",
-       "link": "https://www.thehindu.com/news/national/bilkis-bano-says-supreme-court-did-not-inform-or-hear-her-before-granting-bail-to-two-convicts-vows-to-fight-order/article71710839.ece",
-       "publishedAt": "2026-11-17T14:22+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Fresh tears of pain, shock, disbelief': Bilkis Bano after SC grants bail to convicts",
-       "link": "https://timesofindia.indiatimes.com/india/i-am-scared-once-again-bilkis-bano-releases-statement-after-sc-grants-bail-to-two-convicts/articleshow/135914851.cms",
-       "publishedAt": "2026-11-17T12:38+05:30"
-      },
-      {
-       "source": "BBC",
-       "title": "Bilkis Bano: Gujarat riots gang-rape survivor 'heartbroken' after Supreme Court bail for two convicts",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrbkhyM3B0UkJvenUzNUNXNU83S0xXeGxsdGZsNG1hb3JWaHN3QnJ0UUtyX0VOaEw2SGs4Vnd0dUFTbnlQc1FDRG9Wc2RqRUhzTmJsdXRZTTEwWlU?oc=5",
-       "publishedAt": "2026-11-17T14:57+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Tough man, great leader': Trump heaps praise on PM Modi at crucial Quad meeting",
-     "link": "https://timesofindia.indiatimes.com/india/hes-a-tough-man-trump-praises-pm-modi-ahead-of-key-quad-meeting/articleshow/135922816.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "The Guardian",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T17:12+05:30",
-     "score": 9.48,
-     "summary": "PM Modi, US President Donald Trump, Japanese Prime Minister Sanae Takaichi and Australian PM Anthony Albanese posed for a photo together in Manila.",
-     "image": "https://static.toiimg.com/photo/msid-135922849,imgsize-1346744.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Tough man, great leader': Trump heaps praise on PM Modi at crucial Quad meeting",
-       "link": "https://timesofindia.indiatimes.com/india/hes-a-tough-man-trump-praises-pm-modi-ahead-of-key-quad-meeting/articleshow/135922816.cms",
-       "publishedAt": "2026-11-17T16:40+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "‘Modi is a very tough man’: Trump’s big praise during Quad Summit meet",
-       "link": "https://www.hindustantimes.com/india-news/modi-is-a-very-tough-man-donald-trump-big-praise-during-quad-summit-meet-albanese-japan-australia-asean-video-101794912954712.html",
-       "publishedAt": "2026-11-17T16:30+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "World News Live Updates: ‘Modi is a tough man,’ says Trump at Quad meet",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR0dqU0ZGZWZIUHFpRDQwMlRXcFBYTS1DVFR0MUpEc3BBcG5EY0FPdE0wUGlUTnVrVk9yei00eXZlZDJqNWNDTmpRbHNxTzJZYmNFOExXTzdvWWpUVjE0c0JHLUdqd0JPYUR6VElaYjlkeGVGaVRnbGRSeG83S1dZUWJEMjVzTFdQcnhKX3VVekoxNkE1a3lhcThOZk1jeHhfaG5BQXptaE5nZk1fQ25fMkxndkN5RnJQdE5ONVctdkEwc3B5c29CWUVJSGVydUpzbUF6VjNn0gHcAUFVX3lxTFA4Ry1IMWxhb2c4aENCb2lJTWVfSjZoeW56WGZveE44Zy1pWTAwTFJqQnNnNk1qSlRscC10MmZuckRCekFiaEw4MnVSbEhYeng1dkhxVXRsWkhOVEpZaldldjVPNkhrMjB3M09nSjByMDFSYXZmem1IZWVvN3RIX3BncVB6T21Wc20xdG5oQlUtMGFQWEViQmVpaXNtYzVZX0s1a3V4NnBEV3lBRjJhcVhyM1EwNm42N0RZVXVkdkxfQWhRTzVDTEljVWdpbE1lSEQwOWRxekNFalJIMW0?oc=5",
-       "publishedAt": "2026-11-17T17:12+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India raises 'strong objection' to exclusion in Turkey's UNGA draft on UN-OIC cooperation",
-     "link": "https://www.hindustantimes.com/india-news/india-raises-strong-objection-to-exclusion-in-turkey-unga-draft-on-un-oic-cooperation-101794912773784.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "India Today",
-      "News On AIR",
-      "NewsBytes",
-      "The Times of India",
-      "Times of India",
-      "UN Meetings Coverage and Press Releases"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T16:27+05:30",
-     "score": 7.94,
-     "summary": "India, along with Armenia, Cyprus, Greece, Israel and the United States, voted against the resolution. Turkiye was the resolution's facilitator.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/UNGA_1794913040150_DC5n_1794913040340_3crE_6877ea9c-f9b9-443a-b00f-3df8864c5972_pOcr.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "India raises 'strong objection' to exclusion in Turkey's UNGA draft on UN-OIC cooperation",
-       "link": "https://www.hindustantimes.com/india-news/india-raises-strong-objection-to-exclusion-in-turkey-unga-draft-on-un-oic-cooperation-101794912773784.html",
-       "publishedAt": "2026-11-17T16:27+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "India slams Turkey over 'intentional' exclusion from UNGA draft consultations",
-       "link": "https://timesofindia.indiatimes.com/india/blatant-and-intentional-india-slams-turkey-over-exclusion-from-unga-draft-consultations/articleshow/135921139.cms",
-       "publishedAt": "2026-11-17T15:59+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Blatant and intentional': India slams Turkey over exclusion from UNGA draft consultations",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMFV1UTRRWlJaYk1kcE9nbEU0LUZBWXlZdVlUTkl3QWxKRnVYdHFUNjN5TGJiOXVtYlVJV3ZJT3VsWUJya0dLSU14TnVuVWxZRFFnRUs5eXFvQVFSSzBiOXBpNnFHYk9IV0tHU3FOQ2FxRmRVN0Z3M2oxR2ppVXdPZmtBX2RHWGVjRW1jaUFVOGNYTGhERTFMVHp4RUlGZWs3WXBWRUtOX0VRY3lEMmlwcEhHQnY1ZGVlWDVUdlF5a2ZMWEpBUi1PYmxiNnV5LXA3dXAwMy1EUW5GSjdVSVo3V1dNRE9HZ0ZLS2gw?oc=5",
-       "publishedAt": "2026-11-17T15:59+05:30"
-      }
-     ]
-    },
-    {
-     "title": "ASEAN Summit LIVE updates: Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
-     "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "PM India",
-      "The Hindu",
-      "The New Indian Express"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T17:13+05:30",
-     "score": 7.48,
-     "summary": "In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/Modi_1794913741677_JA6U_1794913741808_An4M_ceb8e49f-f2ba-470c-97c6-cfac59975c3b_vpAt.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "ASEAN Summit LIVE updates: Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
-       "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
-       "publishedAt": "2026-11-17T17:13+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "‘Constructive and trusted’: PM Modi on Quad partnership at Manila Summit",
-       "link": "https://www.hindustantimes.com/india-news/constructive-and-trusted-partnership-pm-modi-on-quad-partnership-at-manila-summit-101794913706456.html",
-       "publishedAt": "2026-11-17T16:42+05:30"
       }
      ]
     }
