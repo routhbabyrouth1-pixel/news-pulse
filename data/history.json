@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-25T06:39+05:30",
+ "updated": "2026-11-25T08:25+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T08:00+05:30",
+   "generatedAt": "2026-11-25T08:25+05:30",
+   "feeds": 17,
+   "headlines": 197,
+   "stories": [
+    {
+     "title": "Chinese link suspected after CIA cybersecurity breach in US",
+     "link": "https://indianexpress.com/article/world/us-news/cia-us-cybersecurity-breach-osint-artex-ai-hacking-tool-china-10977355/",
+     "source": "The Indian Express",
+     "sources": [
+      "AP News",
+      "CNN",
+      "Mint",
+      "The Hindu",
+      "The Indian Express",
+      "The New York Times",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T07:43+05:30",
+     "score": 9.38,
+     "summary": "The CIA and two other US intelligence agencies have detected a cybersecurity breach involving unclassified information. The attack reportedly involved an AI tool linked to cyberattacks worldwide, with initial indications pointing to possible Chinese involvement.",
+     "image": "https://images.indianexpress.com/2026/11/CIA-data-breach.png",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Chinese link suspected after CIA cybersecurity breach in US",
+       "link": "https://indianexpress.com/article/world/us-news/cia-us-cybersecurity-breach-osint-artex-ai-hacking-tool-china-10977355/",
+       "publishedAt": "2026-11-25T07:43+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "US spy agencies hit by cybersecurity breach; CIA and DNI’s office affected, unclassified information exposed",
+       "link": "https://www.livemint.com/news/us-news/us-spy-agencies-hit-by-cybersecurity-breach-cia-and-dni-s-office-affected-unclassified-information-exposed-11795569734020.html",
+       "publishedAt": "2026-11-25T07:10+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaVVpTTNSTFNDVVU2MWtVZVRHZDNJVkh1MDdpb3hldkpsSUYzcHBPSzhYN04xVkZsWWF6ME5rOFBHLWVkWEttNXVMY0d3YnNxMUpzclhMelo1WjhiYTJWeVBJX0h3WlAzeVNIR3Vpb282OC1GbUhjS3BRcjRWS2NEdUh1d0c1NE5NakhoSk1SU196Q0JmbUNrc09tczRiTkFVOFBnOUhMZnJOR0lxVU5BNl8xRHVNaWp6dlUzdmlUajI3WmhQYl9WQmRTaGF0VjNUaGoyZkVqQXZ2bUtIblV3WVdB0gHoAUFVX3lxTE5jZ1R4WU9faDZ1aU1qa3BYcERnMHpQdTRJMFZqWWtkOGRtN2M1R2Y5d3dVdFRyLW5DeUtxby1QOVowT2hwaVB2TlZEdS1wdV84VDBzbWtmQWVhTDFYTkd2NUk2ZDYxZnpjY0FvcmQwQmRKeDVEaEZGc1NCYWlyeWZoMkRpeEJDR2VjUUcxLUJjQ3lTVnV1b0xQNGtIVG9nSVE1RlhYYlI1ejQ3eFRHNUJxcGY1U2hWekdZaWdZLTVQZHpNZXRaWmtsbkdjOFJnUmtqTVo1OVVnOTNqRlZaOXNkZk9KbzU0WmU?oc=5",
+       "publishedAt": "2026-11-25T03:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Horoscope Today: November 25, 2026",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84cmFWbmliTllucWF4R3AzZmJaNGVVNXoxVExDNzdLQXFnOWRQRjRoVmlkU2k2VkJ3c2hrc2t2czBJNl9SY2VrWjl0WlNpdmlRYjl2NHFBa1lBemdpSmpibkQ4TlJtc19VbndKMHlB?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "ETV Bharat",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "YourTango"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-25T06:00+05:30",
+     "score": 8.81,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 25, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84cmFWbmliTllucWF4R3AzZmJaNGVVNXoxVExDNzdLQXFnOWRQRjRoVmlkU2k2VkJ3c2hrc2t2czBJNl9SY2VrWjl0WlNpdmlRYjl2NHFBa1lBemdpSmpibkQ4TlJtc19VbndKMHlB?oc=5",
+       "publishedAt": "2026-11-25T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB?oc=5",
+     "source": "BBC",
+     "sources": [
+      "BBC",
+      "CGTN",
+      "Global Times",
+      "NDTV",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T05:08+05:30",
+     "score": 6.95,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BBC",
+       "title": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB?oc=5",
+       "publishedAt": "2026-11-25T05:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India Among Nations On Team Trump's Hit List For New US Tariffs: Report",
+     "link": "https://www.ndtv.com/world-news/team-trump-plans-new-wave-of-us-tariffs-india-china-on-hit-list-report-12373086#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC",
+      "NDTV",
+      "Telegraph India",
+      "The Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T07:36+05:30",
+     "score": 6.61,
+     "summary": "The USTR announcement will likely mean higher tariffs for the targeted countries and will likely cover most products exported from those nations.",
+     "image": "https://c.ndtvimg.com/2026-11/al90ni34_donald-trump_625x300_10_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "India Among Nations On Team Trump's Hit List For New US Tariffs: Report",
+       "link": "https://www.ndtv.com/world-news/team-trump-plans-new-wave-of-us-tariffs-india-china-on-hit-list-report-12373086#publisher=newsstand",
+       "publishedAt": "2026-11-25T07:36+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Shenzhou 24: China launches space mission with Pakistani astronaut on historic journey",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB?oc=5",
+     "source": "BBC",
+     "sources": [
+      "BBC",
+      "CGTN",
+      "Global Times",
+      "NDTV",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T05:08+05:30",
+     "score": 6.2,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BBC",
+       "title": "Shenzhou 24: China launches space mission with Pakistani astronaut on historic journey",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB?oc=5",
+       "publishedAt": "2026-11-25T05:08+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T06:00+05:30",
    "generatedAt": "2026-11-25T06:39+05:30",
@@ -29874,146 +30024,6 @@
        "title": "Ties with Asean crucial for India's Act East Policy: PM",
        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVRzT3ZSR1ZaeVg3OXdheXNQWWNvMER4QWVMcXNZWDgzeU5XdXVoMjBtWTdTLW9VYXNfLWRKSTYwMXpZZmFQWkMzaFhpVWlyQlg2c0pkd3NWQVBnUm05SnB5WmwxakFvTlRhY3BFaXJaQXZUeFJTZnB0LWNIN3o4X21JRHhWdEZWbGZId1A1X0t0clY1ZG9nS1dqM09NbWV6THRUV3QteEFJQm9ZZjJ0TmZ5OHZ3U1ZycUFBVk5B?oc=5",
        "publishedAt": "2026-11-17T05:38+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T06:00+05:30",
-   "generatedAt": "2026-11-17T06:30+05:30",
-   "feeds": 13,
-   "headlines": 123,
-   "stories": [
-    {
-     "title": "LIVE: Cyclone Akvan to develop into severe storm by November 17 evening; heavy rain to batter Andhra, Tamil Nadu, Bengal | Hindustan Times",
-     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjLSAY4CQVVfeXFMTkZ1R1g5ckZEWm4zQ3ZCRFlrUEtrM2NEODBEazhNQnFiNUdHN0RVdWlQUFJoUHo3N2pSQS0yOWtkT1RNSXJvRTVybGhVMWVDOHlHR3c1UElNVTVoTEVwaVd6dE9sem5mWGxPYl9mT08wdTQtRV9IdzUycHRNSnJGSWloQ3FrNFYzNEtUVk9nNE5CSkZBRUgzQXpMS19rRHA0MF9TcEs0eTBNWlVNOE5sY25sS0JPRkFUWXVfWW9pS283em9vamFVRjlSQklIdGFIdkUyckJKc2NZXzdCaVB0REpWYlBYMFo3NTl4OEtkVTlpaXhaU2lLX2ZLSC10OElwdDUwX1NoYjY3U3I5Z3hR?oc=5",
-     "source": "Hindustan Times",
-     "sources": [
-      "Deccan Chronicle",
-      "Hindustan Times",
-      "Telegraph India",
-      "The News Minute",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T03:36+05:30",
-     "score": 7.02,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "LIVE: Cyclone Akvan to develop into severe storm by November 17 evening; heavy rain to batter Andhra, Tamil Nadu, Bengal | Hindustan Times",
-       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjLSAY4CQVVfeXFMTkZ1R1g5ckZEWm4zQ3ZCRFlrUEtrM2NEODBEazhNQnFiNUdHN0RVdWlQUFJoUHo3N2pSQS0yOWtkT1RNSXJvRTVybGhVMWVDOHlHR3c1UElNVTVoTEVwaVd6dE9sem5mWGxPYl9mT08wdTQtRV9IdzUycHRNSnJGSWloQ3FrNFYzNEtUVk9nNE5CSkZBRUgzQXpMS19rRHA0MF9TcEs0eTBNWlVNOE5sY25sS0JPRkFUWXVfWW9pS283em9vamFVRjlSQklIdGFIdkUyckJKc2NZXzdCaVB0REpWYlBYMFo3NTl4OEtkVTlpaXhaU2lLX2ZLSC10OElwdDUwX1NoYjY3U3I5Z3hR?oc=5",
-       "publishedAt": "2026-11-17T03:36+05:30"
-      }
-     ]
-    },
-    {
-     "title": "IBM in talks for 2 large projects in India: CEO Arvind Krishna",
-     "link": "https://timesofindia.indiatimes.com/business/india-business/ibm-in-talks-for-2-large-projects-in-india-ceo-krishna/articleshow/135905284.cms",
-     "source": "Times of India",
-     "sources": [
-      "LinkedIn",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India",
-      "indica News"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T05:03+05:30",
-     "score": 7.01,
-     "summary": "IBM CEO Arvind Krishna remained upbeat on India, saying the company is expanding its footprint in the country and is hiring more.",
-     "image": "https://static.toiimg.com/photo/msid-135905283,imgsize-65814.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "IBM in talks for 2 large projects in India: CEO Arvind Krishna",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/ibm-in-talks-for-2-large-projects-in-india-ceo-krishna/articleshow/135905284.cms",
-       "publishedAt": "2026-11-17T05:03+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "IBM in talks for 2 large projects in India: CEO Krishna",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNkUyREd1QVFKUXVQZlBLUXJhbmVJU1BtQ3M1MGxHVHVxbjEtcTRVMjRTNVMzVXFrZkVJV3RFX2FPM044bEFEVGo4akZSekpyMTdLcWdvdVFwZkpxWEluaEUxenB3SXphcTktTWp5QTBtaXl2M2pDZXdUYWttVlB5NmF1by1ZQmNndmZnTXUtTjVNQUllbmU1bkRjRXRYaEpxNjBsdVpGSU1JVm9tcXVoRXZnd0lYOHdVUFFEd2hyQWc2eV9ydXEzbTliSEtCVnVVS1llRmd3OA?oc=5",
-       "publishedAt": "2026-11-17T05:03+05:30"
-      }
-     ]
-    },
-    {
-     "title": "U.S. loses measles-elimination status, erasing decades of progress",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3EtY1JzbmcwVS1OQWZ3dlAzWUNxSmNOOG9WNXRxMzY2R3l6WU1IcWFYQ0VPeXZqVnUzVnF6YUM0WWJYNkFOTU1iSWVZUGRMcnEtSUJETGxoOU9pZnBoMlBzMFBlVjdrRmFyZU8yRWJjU1oxdVFnXzNWQlkxMUsxeFlwSkVKRTR0Y2h5VTFB?oc=5",
-     "source": "NBC News",
-     "sources": [
-      "EdSource",
-      "NBC News",
-      "Reuters",
-      "The New York Times",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T06:11+05:30",
-     "score": 5.99,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "NBC News",
-       "title": "U.S. loses measles-elimination status, erasing decades of progress",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3EtY1JzbmcwVS1OQWZ3dlAzWUNxSmNOOG9WNXRxMzY2R3l6WU1IcWFYQ0VPeXZqVnUzVnF6YUM0WWJYNkFOTU1iSWVZUGRMcnEtSUJETGxoOU9pZnBoMlBzMFBlVjdrRmFyZU8yRWJjU1oxdVFnXzNWQlkxMUsxeFlwSkVKRTR0Y2h5VTFB?oc=5",
-       "publishedAt": "2026-11-17T06:11+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Three Observations from Germany’s 5-0 demolition of Xavi’s Netherlands",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1QyNHVsbG5VeXpYeUpSUnlsYkRSQlVBekk4ZFRCdE10T1BucGdaQzhqS19YNmZyOVBsSUVudW1VTkJ5WlEzQ1pqTGVhRkpmYlYtRTVKaU5aa0FZajN6N3lOZHY1ZEpESnJQYU5QRF9fbmxjRXVaNDhBdUZxN25NLXJSX2tmZzY3ZXNwY2FpT3IwTlpLUWs1dWpxejhsYktvMVZmN0ZYeWp0aWVLajFweTJTQ1g5TC1kQUE5X2tRbmhXbkdSbWJXa3hYaFFDWlBfMV9qemRFbmlfUQ?oc=5",
-     "source": "Bavarian Football Works",
-     "sources": [
-      "Al Jazeera",
-      "Bavarian Football Works",
-      "ESPN India",
-      "Goal.com",
-      "UEFA.com"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T04:25+05:30",
-     "score": 5.7,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Bavarian Football Works",
-       "title": "Three Observations from Germany’s 5-0 demolition of Xavi’s Netherlands",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1QyNHVsbG5VeXpYeUpSUnlsYkRSQlVBekk4ZFRCdE10T1BucGdaQzhqS19YNmZyOVBsSUVudW1VTkJ5WlEzQ1pqTGVhRkpmYlYtRTVKaU5aa0FZajN6N3lOZHY1ZEpESnJQYU5QRF9fbmxjRXVaNDhBdUZxN25NLXJSX2tmZzY3ZXNwY2FpT3IwTlpLUWs1dWpxejhsYktvMVZmN0ZYeWp0aWVLajFweTJTQ1g5TC1kQUE5X2tRbmhXbkdSbWJXa3hYaFFDWlBfMV9qemRFbmlfUQ?oc=5",
-       "publishedAt": "2026-11-17T04:25+05:30"
-      }
-     ]
-    },
-    {
-     "title": "UNICEF: Children make up 35% of Ebola deaths in DR Congo outbreak",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW1takkzV1p6RG9GbUVieTBQcDRGemhyTG96TXpCS2lDdG85d0xDRWJnLU02RGxDX0VVbXlXOWdGV3JIdWQwXzN2ZzM4Y1VfYW5CWjJBcXN5SURuOTFzRTVxNlJoUkY2UVlQTEc3OEJTZTFwMDFKVVdwU1N5TXI0QzVlQ0FKeHRZNTg0MGxSZTE?oc=5",
-     "source": "CIDRAP",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "CIDRAP",
-      "The Hindu",
-      "Unicef"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T02:35+05:30",
-     "score": 5.39,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "CIDRAP",
-       "title": "UNICEF: Children make up 35% of Ebola deaths in DR Congo outbreak",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW1takkzV1p6RG9GbUVieTBQcDRGemhyTG96TXpCS2lDdG85d0xDRWJnLU02RGxDX0VVbXlXOWdGV3JIdWQwXzN2ZzM4Y1VfYW5CWjJBcXN5SURuOTFzRTVxNlJoUkY2UVlQTEc3OEJTZTFwMDFKVVdwU1N5TXI0QzVlQ0FKeHRZNTg0MGxSZTE?oc=5",
-       "publishedAt": "2026-11-17T02:35+05:30"
       }
      ]
     }
