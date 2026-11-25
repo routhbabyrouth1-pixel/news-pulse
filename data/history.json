@@ -1,6 +1,148 @@
 {
- "updated": "2026-11-25T05:19+05:30",
+ "updated": "2026-11-25T06:39+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T06:00+05:30",
+   "generatedAt": "2026-11-25T06:39+05:30",
+   "feeds": 16,
+   "headlines": 157,
+   "stories": [
+    {
+     "title": "ENE Repeat Box Office Collection Day 6",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0g1Vk5ObVpaMm5GcTJRUTFaRzktMGRpVUszOEppcWtId2pwd0VlVkRfT25jd0xzSlVPcHZnNzVuWmFPcmZod1laaUxuazZxTlNDa3Q4dzNIWGF3Nm1UT0MtdmNYc1Z2dkJsMnN3eFVJV3o4Mi1iNkNfOVhIakljRHJKVQ?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Sacnilk",
+      "THE WEEK",
+      "Telugu360",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T05:07+05:30",
+     "score": 7.86,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 6",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0g1Vk5ObVpaMm5GcTJRUTFaRzktMGRpVUszOEppcWtId2pwd0VlVkRfT25jd0xzSlVPcHZnNzVuWmFPcmZod1laaUxuazZxTlNDa3Q4dzNIWGF3Nm1UT0MtdmNYc1Z2dkJsMnN3eFVJV3o4Mi1iNkNfOVhIakljRHJKVQ?oc=5",
+       "publishedAt": "2026-11-25T05:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "China launches Shenzhou-24 with first Pakistani astronaut to its space station",
+     "link": "https://timesofindia.indiatimes.com/world/china/china-launches-shenzhou-24-spacecraft-carrying-first-pakistani-astronaut-to-its-space-station-90-experiments-planned/articleshow/136144937.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CGTN",
+      "NDTV",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T06:20+05:30",
+     "score": 7.2,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136145015,imgsize-68350.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "China launches Shenzhou-24 with first Pakistani astronaut to its space station",
+       "link": "https://timesofindia.indiatimes.com/world/china/china-launches-shenzhou-24-spacecraft-carrying-first-pakistani-astronaut-to-its-space-station-90-experiments-planned/articleshow/136144937.cms",
+       "publishedAt": "2026-11-25T06:20+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Shenzhou 24: China launches space mission with Pakistani astronaut on historic journey",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB?oc=5",
+       "publishedAt": "2026-11-25T05:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Israel's Eisenkot clinches first coalition agreement in bid to form government",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVR5QS1fSDJ5YWoyNmRLQ0t2Vm1lZTdWdDlXaU5MakhodlR5QmJyRlhKLTc0dmZuZ2pTYVNwYllvQTIxblMwcm1FZHhPRUl5RWJfRFoxRWNjREZLWjh1MGFlSUUxeDlHdVpIeWlxQmY4dFlDZE55SHFtZkVXazhXWFZiVVZXbkZSX2xySnE1MWtOLWk5ZldQSU10eUtuUjJwM2VEOEc3TExPVDBRekZZc1FsSmhfYWFMYjNZRlVPWGdVWFE?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "Al Jazeera",
+      "Daily Sabah",
+      "NDTV",
+      "Reuters",
+      "The Times of Israel"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T04:09+05:30",
+     "score": 7.08,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Israel's Eisenkot clinches first coalition agreement in bid to form government",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVR5QS1fSDJ5YWoyNmRLQ0t2Vm1lZTdWdDlXaU5MakhodlR5QmJyRlhKLTc0dmZuZ2pTYVNwYllvQTIxblMwcm1FZHhPRUl5RWJfRFoxRWNjREZLWjh1MGFlSUUxeDlHdVpIeWlxQmY4dFlDZE55SHFtZkVXazhXWFZiVVZXbkZSX2xySnE1MWtOLWk5ZldQSU10eUtuUjJwM2VEOEc3TExPVDBRekZZc1FsSmhfYWFMYjNZRlVPWGdVWFE?oc=5",
+       "publishedAt": "2026-11-25T04:09+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "Bloomberg.com",
+      "CNBC",
+      "Financial Times",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T02:17+05:30",
+     "score": 6.77,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
+       "publishedAt": "2026-11-25T02:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gukesh Survives Pressure To Hold Sindarov To Draw In World Championship Game 1",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JNFZPLTctTkQ4Qk1abDI4UHR6QlNuT1hnR3pmWDRINGx1UTkxRjRvb2lNcHg3RTA4SUFrODdhRnJ0Z0VyWEY3LVpiNldaQ3p2bkxrYnlzb3VlU05OQ0IzelFHRzhLQWoxUi1mUEM2ZF9JRmx2LV9aaVZEOWs4Zw?oc=5",
+     "source": "Chess.com",
+     "sources": [
+      "Chess.com",
+      "ChessBase India",
+      "ESPN India",
+      "Telegraph India",
+      "The New Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T02:50+05:30",
+     "score": 6.11,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Chess.com",
+       "title": "Gukesh Survives Pressure To Hold Sindarov To Draw In World Championship Game 1",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JNFZPLTctTkQ4Qk1abDI4UHR6QlNuT1hnR3pmWDRINGx1UTkxRjRvb2lNcHg3RTA4SUFrODdhRnJ0Z0VyWEY3LVpiNldaQ3p2bkxrYnlzb3VlU05OQ0IzelFHRzhLQWoxUi1mUEM2ZF9JRmx2LV9aaVZEOWs4Zw?oc=5",
+       "publishedAt": "2026-11-25T02:50+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T05:00+05:30",
    "generatedAt": "2026-11-25T05:19+05:30",
@@ -29872,139 +30014,6 @@
        "title": "UNICEF: Children make up 35% of Ebola deaths in DR Congo outbreak",
        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW1takkzV1p6RG9GbUVieTBQcDRGemhyTG96TXpCS2lDdG85d0xDRWJnLU02RGxDX0VVbXlXOWdGV3JIdWQwXzN2ZzM4Y1VfYW5CWjJBcXN5SURuOTFzRTVxNlJoUkY2UVlQTEc3OEJTZTFwMDFKVVdwU1N5TXI0QzVlQ0FKeHRZNTg0MGxSZTE?oc=5",
        "publishedAt": "2026-11-17T02:35+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T05:00+05:30",
-   "generatedAt": "2026-11-17T05:12+05:30",
-   "feeds": 13,
-   "headlines": 130,
-   "stories": [
-    {
-     "title": "LIVE: Cyclone Akvan to develop into severe storm by November 17 evening; heavy rain to batter Andhra, Tamil Nadu, Bengal",
-     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjI?oc=5",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "Rediff",
-      "Telegraph India",
-      "The News Minute",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T03:36+05:30",
-     "score": 7.23,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "LIVE: Cyclone Akvan to develop into severe storm by November 17 evening; heavy rain to batter Andhra, Tamil Nadu, Bengal",
-       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjI?oc=5",
-       "publishedAt": "2026-11-17T03:36+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Exclusive | Cyber Startup Corma Raises $125 Million for Defensive AI Agents",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2ZsNi15QXlUaXlMV3VCQzR3aTRlRmc5OEJSTW1fYkpaek92VFhUT2k1UGFfOGIwOEJmRlBSbGI0bktSTXAtUVdCcDBpZmVfbFlseVdOdWhxT21kU09iRDV3bjJjSmo4ZENaUElycXhsZ1ZOZ29PYmpLOHdaS21mRlhaQXlMemhXVHVIZmlhMllYVjdKWDFuRFVpOEhrdVU1RTZodWZrV0o3NzdQSFE?oc=5",
-     "source": "WSJ",
-     "sources": [
-      "Business Wire",
-      "CTech",
-      "PYMNTS.com",
-      "Unite.AI",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T04:45+05:30",
-     "score": 5.95,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "WSJ",
-       "title": "Exclusive | Cyber Startup Corma Raises $125 Million for Defensive AI Agents",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2ZsNi15QXlUaXlMV3VCQzR3aTRlRmc5OEJSTW1fYkpaek92VFhUT2k1UGFfOGIwOEJmRlBSbGI0bktSTXAtUVdCcDBpZmVfbFlseVdOdWhxT21kU09iRDV3bjJjSmo4ZENaUElycXhsZ1ZOZ29PYmpLOHdaS21mRlhaQXlMemhXVHVIZmlhMllYVjdKWDFuRFVpOEhrdVU1RTZodWZrV0o3NzdQSFE?oc=5",
-       "publishedAt": "2026-11-17T04:45+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Adani project stopped after Rs 227 crore wildlife fee cut to Rs 2.27 crore",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU180ejFxZUxPb1RTTTRwZi05MGtkR2x1MTRiQi1weDdMTU45UzUxYXh6OFBzdXhOSXFpZXo4UEhzcHJrVFdaTWdKazAwUVZ1cVBXMFI2TDAtUDN6dTZVOGZvZS1BWWY5VEhUUUZnc2twSGZmMWdCUkhJQ3VXbGY0YlBheDNLOUthWjBMcGx2Sm1mWS1fQ3FvMXhnUG9Eamx5V2dLaXFzQ2wtcllZdWZXb19sSXpnVVljdWZjeF9sONIBxgFBVV95cUxNdEQ2VUZZVXhDems5M3BEWUZab2M4RHdfQzZ6NjJFWGQ2MWNId0V4d01CSUMxYVo5ZVVmdXlObDZRbU5QeU14dUZhY3lUaUhvcExRbTRCd2hlTC1kVU1kSy1YNnd5VEo2bE16UW9rQ1lTTGRaaUo5QzF2eVUtZURhT1lVWENTNmlXV0RNbk1VNXlDQ3dNeWRGNU1BTlJxeGQ0VllDNEtiT1FFNlNSVElsX192WkxOcmJ0aEZmX3U4REdiRFZtUGc?oc=5",
-     "source": "The Indian Express",
-     "sources": [
-      "BusinessLine",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India",
-      "TheWire.in"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T02:52+05:30",
-     "score": 5.65,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Adani project stopped after Rs 227 crore wildlife fee cut to Rs 2.27 crore",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU180ejFxZUxPb1RTTTRwZi05MGtkR2x1MTRiQi1weDdMTU45UzUxYXh6OFBzdXhOSXFpZXo4UEhzcHJrVFdaTWdKazAwUVZ1cVBXMFI2TDAtUDN6dTZVOGZvZS1BWWY5VEhUUUZnc2twSGZmMWdCUkhJQ3VXbGY0YlBheDNLOUthWjBMcGx2Sm1mWS1fQ3FvMXhnUG9Eamx5V2dLaXFzQ2wtcllZdWZXb19sSXpnVVljdWZjeF9sONIBxgFBVV95cUxNdEQ2VUZZVXhDems5M3BEWUZab2M4RHdfQzZ6NjJFWGQ2MWNId0V4d01CSUMxYVo5ZVVmdXlObDZRbU5QeU14dUZhY3lUaUhvcExRbTRCd2hlTC1kVU1kSy1YNnd5VEo2bE16UW9rQ1lTTGRaaUo5QzF2eVUtZURhT1lVWENTNmlXV0RNbk1VNXlDQ3dNeWRGNU1BTlJxeGQ0VllDNEtiT1FFNlNSVElsX192WkxOcmJ0aEZmX3U4REdiRFZtUGc?oc=5",
-       "publishedAt": "2026-11-17T02:52+05:30"
-      }
-     ]
-    },
-    {
-     "title": "UNICEF: Children make up 35% of Ebola deaths in DR Congo outbreak",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW1takkzV1p6RG9GbUVieTBQcDRGemhyTG96TXpCS2lDdG85d0xDRWJnLU02RGxDX0VVbXlXOWdGV3JIdWQwXzN2ZzM4Y1VfYW5CWjJBcXN5SURuOTFzRTVxNlJoUkY2UVlQTEc3OEJTZTFwMDFKVVdwU1N5TXI0QzVlQ0FKeHRZNTg0MGxSZTE?oc=5",
-     "source": "CIDRAP",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "CIDRAP",
-      "The Hindu",
-      "Unicef"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T02:35+05:30",
-     "score": 5.6,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "CIDRAP",
-       "title": "UNICEF: Children make up 35% of Ebola deaths in DR Congo outbreak",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW1takkzV1p6RG9GbUVieTBQcDRGemhyTG96TXpCS2lDdG85d0xDRWJnLU02RGxDX0VVbXlXOWdGV3JIdWQwXzN2ZzM4Y1VfYW5CWjJBcXN5SURuOTFzRTVxNlJoUkY2UVlQTEc3OEJTZTFwMDFKVVdwU1N5TXI0QzVlQ0FKeHRZNTg0MGxSZTE?oc=5",
-       "publishedAt": "2026-11-17T02:35+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
-     "source": "WSJ",
-     "sources": [
-      "CNBC",
-      "Investing.com South Africa",
-      "TradingView",
-      "WSJ",
-      "kalkine.ca"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T02:14+05:30",
-     "score": 5.54,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "WSJ",
-       "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
-       "publishedAt": "2026-11-17T02:14+05:30"
       }
      ]
     }
