@@ -1,6 +1,184 @@
 {
- "updated": "2026-11-25T23:23+05:30",
+ "updated": "2026-11-26T00:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-26T00:00+05:30",
+   "generatedAt": "2026-11-26T00:21+05:30",
+   "feeds": 16,
+   "headlines": 285,
+   "stories": [
+    {
+     "title": "Best Black Friday noise-cancelling headphones deals 2026: 27 deals sourced by an expert",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTRhekc4RHdNNDdFQWplakRCTC1VQzVycVlCRlktbUJoZGlYQnVsTDFZc1YxNHRtRzVLUlRQRWppVlloRFBmUzk1YjNwbFJIOW5mMktXSEh4YlFtalU2Smp4WWRQLUw2Wm5GTkRlSDVzNnR5Z1pQdXV2UkxtV0daczJpLTJmSWtnb1E?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "Android Authority",
+      "Gizmodo",
+      "Mashable",
+      "Rolling Stone",
+      "ScreenRant",
+      "TechRadar",
+      "Trusted Reviews",
+      "What Hi-Fi?",
+      "ZDNET"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-25T23:07+05:30",
+     "score": 11.29,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "Best Black Friday noise-cancelling headphones deals 2026: 27 deals sourced by an expert",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTRhekc4RHdNNDdFQWplakRCTC1VQzVycVlCRlktbUJoZGlYQnVsTDFZc1YxNHRtRzVLUlRQRWppVlloRFBmUzk1YjNwbFJIOW5mMktXSEh4YlFtalU2Smp4WWRQLUw2Wm5GTkRlSDVzNnR5Z1pQdXV2UkxtV0daczJpLTJmSWtnb1E?oc=5",
+       "publishedAt": "2026-11-25T23:07+05:30"
+      },
+      {
+       "source": "ScreenRant",
+       "title": "Kindle Black Friday Deals 2026: Best E-Reader Sales & Which To Buy",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DS3NVTUhpQ25aRENKWXRmanN4bF9ROEU5b0xyWFhuR1pta0lEX2oyMU5FY3JlYXEwLV9SeGNwSEVHbDJqdERHOS1IOG4ybFJSeDJBMmdKd2Q1Zld0OE4tUWlUa1hWTEdLUUhfOXBIRGJ5bUctQTM4?oc=5",
+       "publishedAt": "2026-11-25T20:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US announces new tariffs on host of countries including China",
+     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC News",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in",
+      "WSJ"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T21:51+05:30",
+     "score": 9.08,
+     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "US announces new tariffs on host of countries including China",
+       "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-25T21:51+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Trump announces new trade tariffs: Which countries are affected?",
+       "link": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+       "publishedAt": "2026-11-25T20:24+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. announces new 25% tariffs on India, second-highest among 14 countries against whom action was taken",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5",
+       "publishedAt": "2026-11-25T19:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US Proposes 25% Tariff On India. It Could Come Down With Trade Deal",
+     "link": "https://www.ndtv.com/india-news/us-proposes-25-tariff-on-india-it-could-come-down-with-trade-deal-12377080#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T23:56+05:30",
+     "score": 8.43,
+     "summary": "These new tariffs would not be added to existing ones aimed at combating forced labour or certain sector-specific tariffs, a senior US official said.",
+     "image": "https://c.ndtvimg.com/2023-02/u21on5eo_us-india_625x300_10_February_23.jpg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "US Proposes 25% Tariff On India. It Could Come Down With Trade Deal",
+       "link": "https://www.ndtv.com/india-news/us-proposes-25-tariff-on-india-it-could-come-down-with-trade-deal-12377080#publisher=newsstand",
+       "publishedAt": "2026-11-25T21:39+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "US proposes up to 25% ‘excess capacity’ tariff on India, 17% if trade deal is signed",
+       "link": "https://www.hindustantimes.com/india-news/us-proposes-25-per-cent-excess-capacity-tariff-on-india-says-it-won-t-stack-on-existing-duties-101795612473250.html",
+       "publishedAt": "2026-11-25T18:48+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+       "publishedAt": "2026-11-25T23:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nasdaq sinks about 4% as AI rout, fresh Trump tariffs spook Wall St",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "BBC",
+      "Bloomberg",
+      "Bloomberg.com",
+      "CNBC",
+      "Reuters",
+      "WSJ"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T20:08+05:30",
+     "score": 7.05,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Nasdaq sinks about 4% as AI rout, fresh Trump tariffs spook Wall St",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+       "publishedAt": "2026-11-25T20:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+     "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Reuters",
+      "The Hindu",
+      "The Times of Israel"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T23:18+05:30",
+     "score": 6.9,
+     "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90a4/live/02d1fbb0-e8d5-11f1-99b6-a35a62fa4264.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+       "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-25T19:36+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Israeli strike in Gaza kills senior Hamas official, his wife and children",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjhScXl6TmVkaUZxMzJLaW1XOTN1dEpRY1d2b3llSkdpSU14VWlNekt3dFlac2c2TDUxdngzdy1Mek5xWjdZaWJEZ3BCanhQS2lZT2VjajRibmxkYk5LOHVvV1JMX3NpVEpWOXZRUV9mT1piZWotanZlaUYxSTdiQllJdnZ6cm5XRGtHWGRSV1QtZ1JieS1PYzlXQUVZOG4y0gGmAUFVX3lxTE41SFVvaGJDZThRdmdkWTluZFdUVC1lX19tUldWTW52Z0ZncUZJRnA5akdXbnpvbGJGTW5CR21GM09BUUJTaW5GY0NFZEhsMmJtME1jZ18wNnpMSlhQRGp4WjBZWkdtYlNDUHpRYXVHaXB5UFdFRzFWbDdhaGRfSG1GT1FlVDFENUdkWFZueFFjRkNvanFFcWJRNy1BVjFPNkxnSFU5R2c?oc=5",
+       "publishedAt": "2026-11-25T23:18+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T23:00+05:30",
    "generatedAt": "2026-11-25T23:23+05:30",
@@ -29730,226 +29908,6 @@
        "source": "Times of India",
        "title": "1 Indian seafarer missing, 2 hurt after LPG tanker targeted in Hormuz strait",
        "link": "https://timesofindia.indiatimes.com/india/two-indian-seafarers-hurt-1-missing-after-tanker-targeted-in-hormuz-strait/articleshow/135929328.cms",
-       "publishedAt": "2026-11-17T19:58+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T22:00+05:30",
-   "generatedAt": "2026-11-17T22:29+05:30",
-   "feeds": 16,
-   "headlines": 324,
-   "stories": [
-    {
-     "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-     "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-     "source": "The Guardian",
-     "sources": [
-      "BBC News",
-      "Bloomberg.com",
-      "NDTV",
-      "NVIDIA Newsroom",
-      "Reuters",
-      "The Guardian",
-      "The Times of India",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-17T22:10+05:30",
-     "score": 9.99,
-     "summary": "Huang makes first statement since resigning, while board of directors is not considering reinstating him, reports say Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday. “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these…",
-     "image": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=140&quality=85&auto=format&fit=max&s=e781e01e252cac8c959bad73617d521f",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-       "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-       "publishedAt": "2026-11-17T22:10+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Jensen Huang says he would return as Nvidia boss if asked by the board",
-       "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-17T22:09+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "\"Would Be Honoured To Return As Nvidia CEO\": Jensen Huang Breaks Silence",
-       "link": "https://www.ndtv.com/world-news/would-be-honoured-to-return-as-ceo-jensen-huangs-first-statement-since-resignation-12340480#publisher=newsstand",
-       "publishedAt": "2026-11-17T22:08+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'I own my mistakes': Jensen Huang breaks silence on return as CEO after Nvidia scandal",
-       "link": "https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-speaks-for-the-first-time-after-his-resignation-says-willing-to-return-as-nvidia-ceo-if/articleshow/135933093.cms",
-       "publishedAt": "2026-11-17T21:54+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Nvidia's Huang signals willingness to return as CEO; board creates national security panel",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5",
-       "publishedAt": "2026-11-17T21:52+05:30"
-      }
-     ]
-    },
-    {
-     "title": "How can you play GTA early?",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/gta-6-new-zealand-trick-explained-how-to-play-gta-6-early-on-ps5-and-xbox-series-xs-by-changing-timezone-settings/articleshow/135930880.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "GAMINGbible",
-      "GameWatcher",
-      "IGN",
-      "Indian Television Dot Com",
-      "Insider Gaming",
-      "Mashable",
-      "NDTV",
-      "The Economic Times",
-      "dev.ua"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-17T20:43+05:30",
-     "score": 9.73,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "How can you play GTA early?",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/gta-6-new-zealand-trick-explained-how-to-play-gta-6-early-on-ps5-and-xbox-series-xs-by-changing-timezone-settings/articleshow/135930880.cms",
-       "publishedAt": "2026-11-17T20:43+05:30"
-      },
-      {
-       "source": "Mashable",
-       "title": "How long it takes to play GTA 6: Playthrough and achievements",
-       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tRDFvWlltR3JGUnFpeWpZSHNCZHp3TXJlTURwbGJheVRobE50Q2JrRy05Z2h6TUR1RUFXMU1XR2hDbmFjUEJwZFFBTVhNTkFqX2dzY0w3Y1duLUxZUWtBc1daemo5Z0NHR3FPMUZJd0s1ZEQ1bHBPX05B?oc=5",
-       "publishedAt": "2026-11-17T17:33+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-     "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CNN",
-      "NDTV",
-      "Reuters",
-      "The Guardian",
-      "The Times of Israel"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-17T22:12+05:30",
-     "score": 9.7,
-     "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a331/live/4e364d80-e287-11f1-b166-176de21e2352.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-       "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-17T22:12+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
-       "link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
-       "publishedAt": "2026-11-17T21:33+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "\"They Are Crazy\": Trump On Reported Iranian 'Dirty Bomb' Plot In Washington",
-       "link": "https://www.ndtv.com/world-news/us-iran-war-they-are-crazy-trump-on-reported-iranian-dirty-bomb-plot-in-washington-12339810#publisher=newsstand",
-       "publishedAt": "2026-11-17T19:45+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVVnUzJMMDJJUTh1NTl4Vy1VU2U0bjEzVkRGWFBtamliVkRZQkZud2VuZ25YSDc0VzM5aXhQWWN2YTBFSTRaV1BSNUE3aWp5bmpsV0ZSMDMyT2YxcW5LekhIVEt6Tm9Od1ItNUs1U0ZOd2tfeTJSdkJhVVEtbUFzV2d0Z1NGa0doNGljVlhVOUJNS1UwYXFjVVRxMEY2OTRGY1lHQzcxRTlXR2VnVkh3QjRENEd0VTFPMjRJdmk3bVpXUEVWS3RV?oc=5",
-       "publishedAt": "2026-11-17T18:38+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Highly Classified US National Security Communications Network Down: Report",
-     "link": "https://www.ndtv.com/world-news/highly-classified-us-national-security-communications-network-down-report-12340389#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "CNN",
-      "Forex Factory",
-      "Gulf News",
-      "NDTV",
-      "The Times of India",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T21:29+05:30",
-     "score": 8.33,
-     "summary": "The agency was working to understand the scope of the problem, but there was no immediate evidence of a cyberattack",
-     "image": "https://i.ndtvimg.com/i/2018-05/nsa-reuters_650x400_51525517943.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Highly Classified US National Security Communications Network Down: Report",
-       "link": "https://www.ndtv.com/world-news/highly-classified-us-national-security-communications-network-down-report-12340389#publisher=newsstand",
-       "publishedAt": "2026-11-17T21:26+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Top secret US national security communications network goes down: Report",
-       "link": "https://timesofindia.indiatimes.com/world/us/americas-spy-agency-goes-dark-nsas-classified-internal-network-goes-down-no-cyberattack-evidence-yet-report/articleshow/135932100.cms",
-       "publishedAt": "2026-11-17T21:21+05:30"
-      },
-      {
-       "source": "Forex Factory",
-       "title": "CNN Reports US National Security Communications Network Has Gone Down",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmNhWWNYcEJiRWktOWVTOUYyU3FDWTdkSDRUT09rdWFWRzBuNjRab1hXYlJTOW9ySXJtT19SS2xMaDFTYzh4ZWNGYlp5dl90bEFtTGxja2FWV2piSUtPUVl1OWgtcHhibVhiQ0hNV1ZTRW12UTgyQWRYVHA2U3JHS0IzcldpQmNUVllFeE1UWWd5RzBlQldpUHhVLTVXNnppQUdZ0gGoAUFVX3lxTE5fenhBbVBRZXFpaGdJZk51bXhqMlVBeE5hRTMwajRrc2xmd0stdmRJeThyVEczNUR6UDJVamV2RDdVRk1OeTB4RDBjeE5WWVRxUXZjYTZ6bzJaWHA2X1dVVkVtN1RIMVlKTnNLYV9PWnMzczRERHVoY2I1QTNfdmYtdXo2LUdMd0Ywb0I4X3hQM0puTmdCaEVhZDA0VTRhOEROWjc1OURIMQ?oc=5",
-       "publishedAt": "2026-11-17T21:29+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India condemns attack on LPG tanker carrying 24 Indians in Strait of Hormuz; MEA says 1 missing",
-     "link": "https://www.hindustantimes.com/india-news/india-condemns-attack-on-lpg-tanker-carrying-24-indians-in-strait-of-hormuz-1-seafarer-missing-mea-the-targeting-must-end-101794926651905.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "Rising Kashmir",
-      "Telegraph India",
-      "The New Indian Express",
-      "The Shillong Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T20:21+05:30",
-     "score": 7.83,
-     "summary": "The MEA said the Indian embassy in Oman was closely monitoring the ongoing search and rescue operations in coordination with Omani authorities.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/ANI-20261112320-0_1794927687099_H7oB_1794927700529_lqhv_17b0aac8-b6e2-45cd-965e-eab849ea13a1_rQST.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "India condemns attack on LPG tanker carrying 24 Indians in Strait of Hormuz; MEA says 1 missing",
-       "link": "https://www.hindustantimes.com/india-news/india-condemns-attack-on-lpg-tanker-carrying-24-indians-in-strait-of-hormuz-1-seafarer-missing-mea-the-targeting-must-end-101794926651905.html",
-       "publishedAt": "2026-11-17T20:21+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "1 Indian seafarer missing, 2 hurt after LPG tanker targeted in Hormuz strait",
-       "link": "https://timesofindia.indiatimes.com/india/two-indian-seafarers-hurt-1-missing-after-tanker-targeted-in-hormuz-strait/articleshow/135929328.cms",
-       "publishedAt": "2026-11-17T19:58+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Two Indian seafarers hurt, 1 missing after tanker targeted in Hormuz Strait",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUppaC13U1FTaFlIdHBCdXhHUndxYjltTHEyNG9aVDctOGVBbGpnZkxtbmg5a2ZLTFJFSWRPY0tzam1jMG5nTFRuWEZzZE5mR1pkOXkwX2J2WW9TT3l5eDAtY1V4WFFpbUdSMFVjYlJFNkxTbzNsVTVYYlZYYktyWTdPRHAzQ2p4QmU3SDJVdUlpNUp4TVV4Z1ZDQkc3Z3ZXd1d2eDR4a08zRnc3ZlFXZ3dSanJMQkg1RG9lMzcwV1R1OFpvdi0xWlpvYk9xUHBZaER1Z3N6a3RaQQ?oc=5",
        "publishedAt": "2026-11-17T19:58+05:30"
       }
      ]
