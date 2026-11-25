@@ -1,6 +1,167 @@
 {
- "updated": "2026-11-25T14:34+05:30",
+ "updated": "2026-11-25T15:42+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T15:00+05:30",
+   "generatedAt": "2026-11-25T15:42+05:30",
+   "feeds": 16,
+   "headlines": 299,
+   "stories": [
+    {
+     "title": "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi",
+     "link": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "INDToday",
+      "Live Law",
+      "Scroll.in",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T15:23+05:30",
+     "score": 8.7,
+     "summary": "The top court directs the Congress leader to be impleaded as a party in the High Court case",
+     "image": "https://th-i.thgim.com/public/incoming/hvvlsv/article71662966.ece/alternates/LANDSCAPE_1200/20261101410L.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi",
+       "link": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
+       "publishedAt": "2026-11-25T15:23+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Supreme Court sets aside Allahabad HC order directing probe into Rahul Gandhi’s assets, orders fresh hearing",
+       "link": "https://www.hindustantimes.com/india-news/supreme-court-sets-aside-allahabad-hc-order-directing-probe-into-rahul-gandhi-s-assets-orders-fresh-hearing-101795597229111.html",
+       "publishedAt": "2026-11-25T14:41+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Supreme Court Sets Aside Allahabad HC Order For CBI, ED Verification Of Complaint Against Rahul Gandhi's...",
+       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNejZwWTM1ZE02dmp0QnB1eGRYdW9Ob0Z5YkdqRENhVUlJUlA2Ukxoa3NhdEowYzZlNU4xdE5McjJvNE1ULTRjWHl1V1ZJc3R2VDh5NHI4RW9zSmNiRWdwRWFyQkM1S0hkamVUc2JjMlYtQ2dlUGNVS2NJcVkxMEhwbHFIQzhDREhFZDlQaG9ZZFdBa2RVbGNlOUY2b3BhX3lON21MQWwyS0s4WlJkQ0owSzZWNHBSa3FBOGRnT2Izck11Zjlwck8yaWw2WTkzVEs0UTd4cVMtOWF1a3A0SnR3NnBndFFINk5PNlMwR0tMeGZxY3R6RjJ5dU15MjVhYTJBY01z0gGIAkFVX3lxTE84czlSNWY2Z2VISTdhMjEzekdNQ3BfYlVicmR5OGtKQmc0M0R4QkZvMXRrUEVYVlY1NUktdUdSWGJ1eHpTVndYUlplWFZVckJ2c3o0dlBUQWVmOEttMGVRQnhBTy1MejF3VVk5bHBUZklEbU5MOUdMekl0ajBiTnpnVHp5aTljY3Z1anNQLTRtb3JyNmxEOHRKYXotT09lUHA1NEQ4MWViUi1lOEUyWEE2YnVlU2FMeEpCMDBaTDZkd2ZXWnl6cHdtcEljRWpjTEFaeElkQ29aVmluU0NDSjZKT0M4Wm5oNEVWSHBwcHQxZXp0bVFaejZIaUNLRzdLSXc4TjRVcVZpTw?oc=5",
+       "publishedAt": "2026-11-25T13:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "UP woman escapes hotel room after assault, ex-boyfriend drags her back",
+     "link": "https://timesofindia.indiatimes.com/city/meerut/meerut-woman-escapes-hotel-after-night-of-assault-ex-boyfriend-catches-her-drag-her-back-in-crowded-market-flees-on-rooftop-as-cops-arrive/articleshow/136147721.cms",
+     "source": "Times of India",
+     "sources": [
+      "India Today",
+      "Moneycontrol.com",
+      "News18",
+      "Rediff.com",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T11:05+05:30",
+     "score": 7.73,
+     "summary": "A 24-year-old woman escaped a hotel in Meerut where her ex-boyfriend confined and assaulted her. She reported that he chased her after she fled the hotel room on Tuesday. The incident was captured on CCTV and prompted police intervention following alerts from passersby. The suspect, identified as Mohd Salman, fled across rooftops when police arrived at the scene quickly.",
+     "image": "https://static.toiimg.com/photo/msid-136149000,imgsize-16403800.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "UP woman escapes hotel room after assault, ex-boyfriend drags her back",
+       "link": "https://timesofindia.indiatimes.com/city/meerut/meerut-woman-escapes-hotel-after-night-of-assault-ex-boyfriend-catches-her-drag-her-back-in-crowded-market-flees-on-rooftop-as-cops-arrive/articleshow/136147721.cms",
+       "publishedAt": "2026-11-25T09:54+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Caught on cam: Meerut woman escapes hotel after night-long assault, ex-boyfriend tries to drag her back",
+       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQVN6aTNUWGVOZjJ6eU9meW04c1NFR01ZSEZfVDRPVHVqQVVQNjk5SjFGYjZLVDhaMXhUY3ZnTFdrV0J1cUphQjh5VzJ2aVd2TWNWcElDUTdpOTRIV2o5Vm44RlRpcEJDU2xqa2djbFJ6VXNINWU1R0xLdGhjRnI1MWhJUFZ2ZERZT1ZLWFFPTl9vNDhJNE94bnZLOXJUZWNYS1JYeEd6d0RpaU0xdllkd0NQNUM0N1FhZ3dzU1FyY21EbkRIb1BDQV9ncjhfT3BjZk0tdUhCMHdSTWFVMHhZbnV2YkZId0RxSEM0SlJtQjcwQkZPaUFaQtIB_gFBVV95cUxNb3FfN1RNWTQ5Tzh2c1hwZlFDUVRoUS1RclpPMkdDQnZBdnhtX0JrQ0RmX2FkQU1zRG9hbmFhSXlLbmpmeGRTWmk1VnRxalR3cVdyRjNqRnhYWnFHWFRFWjJ1a1RpUl9EWjcwNlVaTXNaUi1kZTNOQ1FxQ0U3Nk1RbkgyYkwxZWV0SGtYX2xXb1lqQzFuQ3NfTmk5X1dfZmEyWlpWQlRMRlZYQ254cEp0ZFhJZzN5Z2pNT0tjc1BwcDRib05kSUZEMWNVcHEyMDN1bUdzYmJkVF9DZVUyUWhuczdwRkQ1UzVWMmhWNlRZdDBVQ21mRHU0U3UtbjB3dw?oc=5",
+       "publishedAt": "2026-11-25T11:05+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "UP woman escapes hotel after night of assault, ex-boyfriend catches her, drags her back in crowded market",
+       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNNlZXOWxHaEVNVmpKNHhEWms5djRMbUZwYnMzTlZIT0doOEJ6WXYzanJFNUtkd2k4N21oQmxXSG1DYTd5ZFJPb29mYzcyVEVtT0RLcXNEay1ZaUphMnFQRUF2Y0pmcUlPOVdFMGRySFdKRmtSMGNmLU1UcWE3djIxMGJHd2ZPZTNQZEJCaXhiSTUzU2gwNFBiRXVBT1BaaFg5RlNPbl9mem1yVXQxNHhVTUJwczlkV3RXNVlzNmZBSGtwT3pQUkhRNzRzVDhNWkNzNDZ4MW1NNEJrZDE2ODRqazZ3LWJVVXl1aXYzbzFwbUtMemdNdGZYOUhockpnalhGU3h5RVp4UVlTVjh5Y0dITTBHRkFNQ2VLVXZReHIybnhaNTZwS1NmX0k3Q3VVMXV1RjJaczVSdw?oc=5",
+       "publishedAt": "2026-11-25T09:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock Market LIVE: Sensex off day's high, up 1000-pts; Nifty below 25,700; APL Apollo at 52-week low",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN1pPY2RyVVVVS3A5R0JVMkxuQVZnd0d1MUNFYUpnN0ZEZTJiY24ySmF0eU1hemNlSXgwT3dGX2pRTjdZSmZNcW90WEI5bFgyUFRrSFNkazdGZ3JidlR5WVQzMG14cDUxcDNqM2xibklMX25vYkpiRURjaGVZOXE4ODR2QkRkSXlIRVRTRVJFMHRCSno2eGRiWmluanJTQXpreDFvTGVETUlFbjJDN3k3aVBSbkxmWmN0Tkt3Y1M1MFlRODRtNExlY2ZoVGlwYzBhd3R5ZHpWTzRfY3l6RUREMU5GYlYxajB0enBwc3UzbmnSAfYBQVVfeXFMTld6aTdrVllLbEMzcFNaQXY5cFh3OXJwYU9rWFgzenhkUnJienpFcmdfWHhQaW9XMjdOX3I2S0xRdTBDNHF4bk5ycS1rSjZNcXlrdHd6YTBOSGl5VnM0dmQ0T1JhMlJ5UW9lTDEwMDJZc3kzNWsyTkZMWVM3a1lmN1poaGplRGlTZm9rUGJoRVZyQjZNN0x1NkJGVEI1MkxYcHY5OFhxQVBkNGQxV09fYUtNeVVlVndQaXNCUkhEdkxrQzJ4cUU5LVh6SGxxenlZYjVIb1FvaGoxQnItX3NPMHlJWkRTZGFidHhrX2ljaE5vMzBuMU5B?oc=5",
+     "source": "Business Standard",
+     "sources": [
+      "Business Standard",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T15:38+05:30",
+     "score": 7.49,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Business Standard",
+       "title": "Stock Market LIVE: Sensex off day's high, up 1000-pts; Nifty below 25,700; APL Apollo at 52-week low",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN1pPY2RyVVVVS3A5R0JVMkxuQVZnd0d1MUNFYUpnN0ZEZTJiY24ySmF0eU1hemNlSXgwT3dGX2pRTjdZSmZNcW90WEI5bFgyUFRrSFNkazdGZ3JidlR5WVQzMG14cDUxcDNqM2xibklMX25vYkpiRURjaGVZOXE4ODR2QkRkSXlIRVRTRVJFMHRCSno2eGRiWmluanJTQXpreDFvTGVETUlFbjJDN3k3aVBSbkxmWmN0Tkt3Y1M1MFlRODRtNExlY2ZoVGlwYzBhd3R5ZHpWTzRfY3l6RUREMU5GYlYxajB0enBwc3UzbmnSAfYBQVVfeXFMTld6aTdrVllLbEMzcFNaQXY5cFh3OXJwYU9rWFgzenhkUnJienpFcmdfWHhQaW9XMjdOX3I2S0xRdTBDNHF4bk5ycS1rSjZNcXlrdHd6YTBOSGl5VnM0dmQ0T1JhMlJ5UW9lTDEwMDJZc3kzNWsyTkZMWVM3a1lmN1poaGplRGlTZm9rUGJoRVZyQjZNN0x1NkJGVEI1MkxYcHY5OFhxQVBkNGQxV09fYUtNeVVlVndQaXNCUkhEdkxrQzJ4cUU5LVh6SGxxenlZYjVIb1FvaGoxQnItX3NPMHlJWkRTZGFidHhrX2ljaE5vMzBuMU5B?oc=5",
+       "publishedAt": "2026-11-25T15:38+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump administration shelves business deal proposals to persuade Russia to end Ukraine war: Report | World News",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSDdQY05zU0Q0T29yaTZrRGlQMWpXeFoyeEJUTHF4a2p1R0ZYN2VPLXBmdE8tUGNDNk4wQXJ1YS1WakVCcXpQdmNxeEk5YTRzdVdRWURhX0ZHbURlYzRvNUpWQURqZ1NDNmQ4X19Oa1hwVzVBRTN6RXg3VFJ0TTQ3NElOTXJVM0ZyWVoxLXVEcElIaGRRRXk0blhRMk5fY0NDMHZtNm1oM3QzZ3FuVkNVcjF3ajVCSlVQTXhEQXprWDJyNmpHRV9nREI0aDhRc3F6WkJpaV9RcHR1bGtLYnE1ZFNfQnJtM0M5bG0xb2JzQnFxUdIB9wFBVV95cUxQZ1VyWURSQm1hQlRicEhVZnN2blZ6YzhDemlTVXNadFg4Q0RmSmZ5NUFZTGVpQUN3clVaTlU3Q2g3SnFOdlBLZC1PaG9ZLUJwR2NCcXpnLXB3NGdRcGRTMlA1bGtWUEZWSHQwR3ktWnpEVmJhLTZJUEdoUmR0RThFUjJhY0ZHbmg1XzJMTW16eTJkQmlhaS14MUxVTFJZT2hWNU1USU8zU1RCSHh4dmZ2aDR2a1MyVEx4c0k4Mm9RaHAzdEFxWEZlNjVnTER1Tm8zRGR0eGZqRGZHVVJBWllrZzNLOWVyUnVJUGl5UXd5VXEwQ2NSSnd3?oc=5",
+     "source": "Hindustan Times",
+     "sources": [
+      "Financial Times",
+      "Gazeta Express",
+      "Hindustan Times",
+      "Reuters",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T13:18+05:30",
+     "score": 7.1,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Trump administration shelves business deal proposals to persuade Russia to end Ukraine war: Report | World News",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSDdQY05zU0Q0T29yaTZrRGlQMWpXeFoyeEJUTHF4a2p1R0ZYN2VPLXBmdE8tUGNDNk4wQXJ1YS1WakVCcXpQdmNxeEk5YTRzdVdRWURhX0ZHbURlYzRvNUpWQURqZ1NDNmQ4X19Oa1hwVzVBRTN6RXg3VFJ0TTQ3NElOTXJVM0ZyWVoxLXVEcElIaGRRRXk0blhRMk5fY0NDMHZtNm1oM3QzZ3FuVkNVcjF3ajVCSlVQTXhEQXprWDJyNmpHRV9nREI0aDhRc3F6WkJpaV9RcHR1bGtLYnE1ZFNfQnJtM0M5bG0xb2JzQnFxUdIB9wFBVV95cUxQZ1VyWURSQm1hQlRicEhVZnN2blZ6YzhDemlTVXNadFg4Q0RmSmZ5NUFZTGVpQUN3clVaTlU3Q2g3SnFOdlBLZC1PaG9ZLUJwR2NCcXpnLXB3NGdRcGRTMlA1bGtWUEZWSHQwR3ktWnpEVmJhLTZJUEdoUmR0RThFUjJhY0ZHbmg1XzJMTW16eTJkQmlhaS14MUxVTFJZT2hWNU1USU8zU1RCSHh4dmZ2aDR2a1MyVEx4c0k4Mm9RaHAzdEFxWEZlNjVnTER1Tm8zRGR0eGZqRGZHVVJBWllrZzNLOWVyUnVJUGl5UXd5VXEwQ2NSSnd3?oc=5",
+       "publishedAt": "2026-11-25T13:18+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thirupparankundram row LIVE: T.N. files status report in Supreme Court, apologises for non-lighting of lamp at ‘deepathoon’",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFZmN21oMDJtdUI3YkJWX0hPUU1zNVZjTnphbHhuWHpWTW9pcV9qZTg3ZjdjYURJM0JVLXExQ21vc1hYMWNIV1VNNHdjalpibXRsVkdFMlBuTWdaYnRQMmJVMjdfYnlLVTRqdFdrdjNpN0tjY1ZpeVd6aUhTdWRGcWh2MVpQVlQ2Y2VFVXI1REpON1BCUmdpUlBCRDhhYUNraFJkM1RmaXNoMnFPMTA2WVFBaHQ0RWJ0d3NFU3BncUpmX01wTGNiZFFCSVVfODJKVTlMcENyRWppUG16SWlwZdIB5wFBVV95cUxQRVMxTWk2RHpVaHdVTkJOdnBGWnJlbjFXYlRlcG54NG9LXzVwS2NET3Atd3RzREQyMWdJV3JhcDhpVkw2bUlXb2FsV09mZUp5X0hCREFndXpkVmF0SkszSVRMRmxNdGNVU01LbThLWWtjcDVtNnlVR2FTWDdlb3lVYld6X2RaRjNCc3VsVWYtdFN3SEM1Z2hGYjVBQ2RIdkd3d0hsclltbHVuajNGUm5xWjUtMkprMW1JcXNnb2k3Y3U5cUFXblZNVEs5dXdyZ0JiRXNiLTBoTkgzdHJaclU2ZUZfeXNJMlU?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T13:03+05:30",
+     "score": 7.06,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Thirupparankundram row LIVE: T.N. files status report in Supreme Court, apologises for non-lighting of lamp at ‘deepathoon’",
+       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFZmN21oMDJtdUI3YkJWX0hPUU1zNVZjTnphbHhuWHpWTW9pcV9qZTg3ZjdjYURJM0JVLXExQ21vc1hYMWNIV1VNNHdjalpibXRsVkdFMlBuTWdaYnRQMmJVMjdfYnlLVTRqdFdrdjNpN0tjY1ZpeVd6aUhTdWRGcWh2MVpQVlQ2Y2VFVXI1REpON1BCUmdpUlBCRDhhYUNraFJkM1RmaXNoMnFPMTA2WVFBaHQ0RWJ0d3NFU3BncUpmX01wTGNiZFFCSVVfODJKVTlMcENyRWppUG16SWlwZdIB5wFBVV95cUxQRVMxTWk2RHpVaHdVTkJOdnBGWnJlbjFXYlRlcG54NG9LXzVwS2NET3Atd3RzREQyMWdJV3JhcDhpVkw2bUlXb2FsV09mZUp5X0hCREFndXpkVmF0SkszSVRMRmxNdGNVU01LbThLWWtjcDVtNnlVR2FTWDdlb3lVYld6X2RaRjNCc3VsVWYtdFN3SEM1Z2hGYjVBQ2RIdkd3d0hsclltbHVuajNGUm5xWjUtMkprMW1JcXNnb2k3Y3U5cUFXblZNVEs5dXdyZ0JiRXNiLTBoTkgzdHJaclU2ZUZfeXNJMlU?oc=5",
+       "publishedAt": "2026-11-25T13:03+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T14:00+05:30",
    "generatedAt": "2026-11-25T14:34+05:30",
@@ -29869,194 +30030,6 @@
        "title": "India to host 2029 Champions Trophy & co-host ODI World Cup in 2031",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnZOZzJYckNXNlU4eWZObFRhcFZxLUtCT2pIRnoxdnZCNGg0MTBONEx6STd5ajNhanBBa0FYSzRGS0lOVlN1bV9fTldoclJtUnJMMzQ5bHdzNjhlR1pqUkRFbnhJc3Myc2lHWlVvZXVYUjYtdncta2VvWGlzZEozd3ItUC11elM5eF9IcFE5M1N0Z05iZFE?oc=5",
        "publishedAt": "2026-11-17T15:10+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T14:00+05:30",
-   "generatedAt": "2026-11-17T14:27+05:30",
-   "feeds": 16,
-   "headlines": 324,
-   "stories": [
-    {
-     "title": "‘World needs peace, stability and predictability’, says PM Modi at Asean-India summit in Philippines",
-     "link": "https://www.hindustantimes.com/india-news/world-needs-peace-stability-and-predictability-says-pm-modi-at-asean-india-summit-in-philippines-101794900656291.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "ET Government",
-      "Hindustan Times",
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "TheWire.in",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T13:11+05:30",
-     "score": 9.29,
-     "summary": "Prime Minister Narendra Modi arrived in the Philippines on Monday to attend the summit and the 21st East Asia Summit, which is also being held in the country.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/PTI11-17-2026-000063B-0_1794900739468_38Ju_1794900771830_6rs6_988e3264-48cb-4fa7-bf8a-d64190fe6a5d_9cSZ.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "‘World needs peace, stability and predictability’, says PM Modi at Asean-India summit in Philippines",
-       "link": "https://www.hindustantimes.com/india-news/world-needs-peace-stability-and-predictability-says-pm-modi-at-asean-india-summit-in-philippines-101794900656291.html",
-       "publishedAt": "2026-11-17T13:11+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "‘World needs peace, stability’: PM Modi in Manila",
-       "link": "https://economictimes.indiatimes.com/news/india/world-needs-peace-stability-and-predictability-pm-modi-at-asean-summit-in-manila/articleshow/135913983.cms",
-       "publishedAt": "2026-11-17T12:19+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'World needs peace, stability and predictability': PM Modi at India-Asean summit",
-       "link": "https://timesofindia.indiatimes.com/india/today-world-needs-peace-stability-more-than-ever-top-quotes-from-pm-modis-address-at-asean-summit/articleshow/135913582.cms",
-       "publishedAt": "2026-11-17T11:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Supreme Court junks UP's plea against HC stay on Azam Khan's conviction in fake birth certificate case",
-     "link": "https://www.hindustantimes.com/india-news/supreme-court-junks-uttar-pradesh-plea-against-hc-stay-on-azam-khans-conviction-in-fake-birth-certificate-case-101794896341509.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Deccan Herald",
-      "Hindustan Times",
-      "Live Law",
-      "Mid-Day",
-      "ThePrint",
-      "Times of India",
-      "Verdictum"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T11:58+05:30",
-     "score": 7.8,
-     "summary": "A bench of justices Dipankar Datta and Sheel Nagu also stayed the conviction of Khan’s son and wife in the same case.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/azam_khan_1794896381765_Uk27_1794896381868_rTcG_f93c5ed4-4d01-4671-9dc2-9e39057c0823_SGDd.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Supreme Court junks UP's plea against HC stay on Azam Khan's conviction in fake birth certificate case",
-       "link": "https://www.hindustantimes.com/india-news/supreme-court-junks-uttar-pradesh-plea-against-hc-stay-on-azam-khans-conviction-in-fake-birth-certificate-case-101794896341509.html",
-       "publishedAt": "2026-11-17T11:58+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "SC rejects UP govt's plea against stay on Azam Khan's conviction",
-       "link": "https://timesofindia.indiatimes.com/india/forged-birth-certificate-case-sc-rejects-up-govts-plea-against-stay-on-azam-khans-conviction/articleshow/135911846.cms",
-       "publishedAt": "2026-11-17T10:55+05:30"
-      },
-      {
-       "source": "Live Law",
-       "title": "Supreme Court Upholds Stay On Azam Khan's Conviction In Forged Birth Certificate Case, Gives Same Relief...",
-       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQmJhRVBHS0FxcmlYdGx0YXdaTFA0TTJ0MkRSaHZFWnVmbXdTeGxNYmIwTUFkell6VWpqeUZEeENReVpsdW50OXcxdnRObUJXcGVnbjBDalM3MTBKbUk0VF9XcEMxWWFLOWR3YXVfQjlOSXVsSHVMNXRDR3llUFJEVmxDaThGVUh1alA1cXJMRDZwdmVhUmZiVHlZSUJDcUdEMGdtU2QxSUhfZDVpZW1fcW5iR19lNkk5MGZpNjY2dTgzbHd3bWc1dXVjM1d6bjlNcTRtaVc5SkpNdUhSZ2g3Y1drTkhDejFwNUZzONIB8gFBVV95cUxORVlZTU44RFlYYlQ0RmVzeUlzblZuNkx0UjBCZHZEdS1zMVhDMGVrcWtsVDc5S1VxUU43NWZhWXY0X1dRd2plT0hubzZxUXZ1c09QbEpuMER5UmFCVjQwTDR1WjM5QW40Sy1zWEJIMk9xYzRSemU2R01Zb3ZUQk1ZOTJpYXJqTFJDN1dBb0pJYkpZNDEyQkpKaW5Ia1lTMGZGVlRTZXVTWWlMdmV1RVdKVHpKQ1UybFpHdVlzMHNZZDAxcFE2UDUwazM2OW1LekVFV21DWDJDdE1wQ0ozUUxHMUhtV3ZtM0JnREdUYkZwRWNqdw?oc=5",
-       "publishedAt": "2026-11-17T10:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Delhi HC pulls up Kejriwal, 5 AAP leaders; gives them last opportunity to file responses in contempt case",
-     "link": "https://www.hindustantimes.com/india-news/hc-pulls-up-kejriwal-5-aap-leaders-gives-them-last-opportunity-to-file-responses-in-contempt-case-101794899406706.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Bar and Bench",
-      "Hindustan Times",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T12:40+05:30",
-     "score": 7.79,
-     "summary": "Justice Swarana Kanta Sharma initiated the contempt case over allegedly defamatory social media posts against her.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/Former-Delhi-chief-minister-Arvind-Kejriwal---HT-P_1794899398733_cAO1.jpeg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Delhi HC pulls up Kejriwal, 5 AAP leaders; gives them last opportunity to file responses in contempt case",
-       "link": "https://www.hindustantimes.com/india-news/hc-pulls-up-kejriwal-5-aap-leaders-gives-them-last-opportunity-to-file-responses-in-contempt-case-101794899406706.html",
-       "publishedAt": "2026-11-17T12:40+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Taking us for a ride': HC pulls up Kejriwal, AAP leaders over posts against Delhi judge",
-       "link": "https://timesofindia.indiatimes.com/india/taking-us-for-a-ride-hc-pulls-up-kejriwal-aap-leaders-over-posts-against-delhi-judge-with-a-warning/articleshow/135914260.cms",
-       "publishedAt": "2026-11-17T12:19+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "\"Taking Us For A Ride\": Delhi High Court Pulls Up Arvind Kejriwal, Other AAP Leaders In Contempt Case",
-       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDBuRnVpU292X01wWWNrdXpsNkM4OEMwQW1SeUprMWQ3bGNsRDhXOWZwQ0pVMmtyMFg3dXVVU0ROcDFQYWttLWVFZUNSSjFHdGNyZ0s2eWxNenk5WjJWV2tGZjZzM0dtdnV2VDdZUXg4X3ZyMXBlZEx6N1NQYmV2Y3U1QVMwXy1oUVZhdFpTWVBKdHlrRld1T19fRHpuVjlPcktteUlMYXRzZUxzRFl4eEpRbzktSlo1dEVSQl9YcnItZy1kbmJNd3plY3FJZXFhSXFLXw?oc=5",
-       "publishedAt": "2026-11-17T12:04+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Bilkis Bano expresses shock, disbelief at SC order suspending sentences of 2 convicts",
-     "link": "https://www.hindustantimes.com/india-news/bilkis-bano-expresses-shock-disbelief-at-sc-order-suspending-sentences-of-2-convicts-101794901752700.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "Live Law",
-      "NDTV",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T13:19+05:30",
-     "score": 7.56,
-     "summary": "",
-     "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_india3_1751287297962_1751287304722.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Bilkis Bano expresses shock, disbelief at SC order suspending sentences of 2 convicts",
-       "link": "https://www.hindustantimes.com/india-news/bilkis-bano-expresses-shock-disbelief-at-sc-order-suspending-sentences-of-2-convicts-101794901752700.html",
-       "publishedAt": "2026-11-17T13:19+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Fresh tears of pain, shock, disbelief': Bilkis Bano after SC grants bail to convicts",
-       "link": "https://timesofindia.indiatimes.com/india/i-am-scared-once-again-bilkis-bano-releases-statement-after-sc-grants-bail-to-two-convicts/articleshow/135914851.cms",
-       "publishedAt": "2026-11-17T12:38+05:30"
-      },
-      {
-       "source": "Live Law",
-       "title": "Bilkis Bano Expresses Shock Over Supreme Court Order Suspending Sentences Of Men Convicted For Gang-Rape...",
-       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTnNWMnE2WVBrSnRyQXRUbnlSZnFhWnZ3REFaVE5xRzc2d3QyWGpuSmRrWXZWZ2t5VUdmUHE1SDJOaWlETjZWclQxRDdJQ2VKWmpCODZSM1pnNk0xSUdJWk42U2JBZHcyUE1ybVgxc1JoTHZWU2NoeUw1TDVKNWRfNkdrYVEzOU96MEJmWVI1bDRjQ1lSNmZoZGo4eWx4WXp1ZVNOd1E0RGRtb0JJdGtEc3dBR0puU0Vyd0x1MlpDRndmZEk4R1BaTFhWN0FSZTlmTktTTi1hR0NuZWI1LTZXZVprb2E4YVhnVldqZDBlaXlrejNwYjRDcGxzTHVDZUpiOGF4etIBigJBVV95cUxPRDkwNzVvR1BLTU9sVGJ6NE13Yk1LTHVkenJOakJCdFlTZEpQSnd6YmpEM3BGcUJlUVJsT3liczgwa3BVRmlLN3R2TTAxczN2ZnlmS2x1dk9IRGpWTGRLNk5WRTB6anRJc3lVYXdiY1QydzFDNWRjb2dCS2xMQm85ZGNFT1NHTW9LbTRqT1dhS2Jjb21jUzBrTXc1bFVXYnZDWXVudTVTYzNvVkhwak9sUzAwT1VhR3lmc3FvbVVmSXRQdVM3aDZlQk5hbDE5Z0JYdkZ1aGh0N0NEdnRZbHVONkdPeGhmYVotcURKM3ZXRmh3N2E0SlFRdUV2aTNaZFFKcWswaEJ4SVQxUQ?oc=5",
-       "publishedAt": "2026-11-17T12:04+05:30"
-      }
-     ]
-    },
-    {
-     "title": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
-     "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
-     "source": "The Hindu",
-     "sources": [
-      "ET Government",
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "TheWire.in"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T14:18+05:30",
-     "score": 7.47,
-     "summary": "In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
-       "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
-       "publishedAt": "2026-11-17T14:11+05:30"
       }
      ]
     }
