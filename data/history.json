@@ -1,6 +1,199 @@
 {
- "updated": "2026-11-25T09:30+05:30",
+ "updated": "2026-11-25T10:36+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T10:00+05:30",
+   "generatedAt": "2026-11-25T10:36+05:30",
+   "feeds": 16,
+   "headlines": 231,
+   "stories": [
+    {
+     "title": "After Ensuring His Nvidia Comeback, Trump Says He May Pardon Jensen Huang",
+     "link": "https://www.ndtv.com/world-news/after-ensuring-his-nvidia-comeback-trump-says-he-may-pardon-jensen-huang-12373243#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC",
+      "CNBC",
+      "CNN",
+      "Mint",
+      "NDTV",
+      "The Economic Times",
+      "The Economist",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-25T08:44+05:30",
+     "score": 11.19,
+     "summary": "Trump also said he has thought about having the US government take a stake in Nvidia, saying, \"It's probably not too late.\"",
+     "image": "https://c.ndtvimg.com/2026-11/56qsvsvs_trump-jensen-huang_625x300_25_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "After Ensuring His Nvidia Comeback, Trump Says He May Pardon Jensen Huang",
+       "link": "https://www.ndtv.com/world-news/after-ensuring-his-nvidia-comeback-trump-says-he-may-pardon-jensen-huang-12373243#publisher=newsstand",
+       "publishedAt": "2026-11-25T08:44+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Trump says Huang pardon is ‘always an option’",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-jensen-huang-pardon-is-always-an-option-floats-us-stake-in-nvidia/articleshow/136145963.cms",
+       "publishedAt": "2026-11-25T07:54+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Trump says pardon to Nvidia CEO Jensen Huang ‘an option’ but wants him to ‘tell the truth’ to Congress",
+       "link": "https://www.livemint.com/news/us-news/trump-willing-to-pardon-jensen-huang-if-necessary-says-i-want-him-to-just-tell-the-truth-before-congress-next-week-11795569164841.html",
+       "publishedAt": "2026-11-25T06:50+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "‘Always an option’: Trump open to pardoning Nvidia CEO Jensen Huang",
+       "link": "https://timesofindia.indiatimes.com/world/us/its-always-an-option-trump-open-to-pardoning-nvidia-ceo-jensen-huang-urges-him-not-to-plead-fifth-before-congress/articleshow/136144738.cms",
+       "publishedAt": "2026-11-25T05:57+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Nvidia's Jensen Huang says he is in therapy as comeback rally fades",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUVDaGNpcDdfWkJ0ZEpvTXRkSmNxVm5Ha1hZbjZSRnRvOWRRaFB6cWNxNU5odTl5dl9lT19LenRFaVA2ZUFpR1RsZjBqdTVjcTJOTFp0ck9HU3BVb3loUVVmczhLN253WkhNRUlfUjdxelJYNnk5dW1QQTFndkJhem1hb2VJb1JFSGstVUxXLVNodlVfUEZtWnlYa1FaZVE5YzFMZHlfazl2MGNSZGdMcHFtUGNXbG1BYWs3UTBiMnhmakJodURoRzN30gHQAUFVX3lxTE5TbUMtbUZlTVp4QVhVS2ttVl9WdzMwY21lRGY2Q2N1aWtwS3RJSTJUQTJJQ1EzcmF1U0M1RlV0akdxVUw2c1JCblhoTHAxVi0xbEh4VWpOLUx1QmJwWWpkZ1BWOHE5RER3MWlqQ2lUb1dLd2NNUUx0VEVFNFpwT0JDRmtGTnhQaDdPYkh6N3ljcm1DQk9jMW1VVEx2bG1IRDg5dGRwQy0zVjJuUFlqblJhZThTVDBHMVJDRFBXbWFKR1BNLTRrOUVMZDh3YTNHeDE?oc=5",
+       "publishedAt": "2026-11-25T07:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Aries Horoscope Today: November 25, 2026",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tYmRYY3MwcERjalMwVm5LLXdRaWRpQlgzS0ppQjBWM0xBNDVNc2xzSnU4QWg4enJzaG9fOXF3NVVORTQ5LU1FVjh6MkgzMW1pSDIzTU50Mm81V2dINUVhekh0UWhNSy1tbHRFVmlfdmNsdlF0c3c?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "ETV Bharat",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "Yahoo",
+      "YourTango"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-25T05:50+05:30",
+     "score": 9.3,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Aries Horoscope Today: November 25, 2026",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tYmRYY3MwcERjalMwVm5LLXdRaWRpQlgzS0ppQjBWM0xBNDVNc2xzSnU4QWg4enJzaG9fOXF3NVVORTQ5LU1FVjh6MkgzMW1pSDIzTU50Mm81V2dINUVhekh0UWhNSy1tbHRFVmlfdmNsdlF0c3c?oc=5",
+       "publishedAt": "2026-11-25T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "China launches Shenzhou-24 carrying first Pakistani astronaut to space station",
+     "link": "https://timesofindia.indiatimes.com/world/china/china-launches-shenzhou-24-spacecraft-carrying-first-pakistani-astronaut-to-its-space-station-90-experiments-planned/articleshow/136144937.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T06:47+05:30",
+     "score": 7.86,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136146938,imgsize-99197.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "China launches Shenzhou-24 carrying first Pakistani astronaut to space station",
+       "link": "https://timesofindia.indiatimes.com/world/china/china-launches-shenzhou-24-spacecraft-carrying-first-pakistani-astronaut-to-its-space-station-90-experiments-planned/articleshow/136144937.cms",
+       "publishedAt": "2026-11-25T06:20+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "China’s Shenzhou-24 space flight takes off with Pakistani national as first foreign astronaut",
+       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeVZocTdxaWY0XzhlRkltTlZ6ZV83TlFNZkpqOEd5NmlVc2dBOE00Q01Sdy1KQzd0Uy0xYjRFSndKQ2hScVNZVWRXTHU2WFFPaTI4V3ViZHZiSzlrdFdtZUM2ekR3WURiZkt6TWpLdEYwRkphT2xyZ2h4dERtcVFGU2pMdUpnNlZPX2VyOXVBSHd1QTBTMVpUU0Z3bWx5Q0NaQ1VnUW9JcjlUeTJOSG9BemVTcWZoeXdMaGJtekpxNHo3SGhUMUp0MUlTSS1uZVZEMFY2MDNwUnl1bVRfbF9fZFhQeFlyejVHdVHSAfABQVVfeXFMTkFabUtBTUQzdTlXN0VlM0VnVVlxQVh6R0Q3MEZ6bkFaQ1g2RjVmT3dmVmdoamJvcU9BWldPUHlKMTRkYXlLdTRZTVpwa0ZaeVRveFlhVFRNaUpOc1k3MElROW8xZTZQTWQ4S0lCdEhMcnY4LTM5T3FKVGxqU0VNZTJfTWhkUVU5YmVrbnlxVjBGX0p2M0x6dTA3bnN5dUR5WmV3YzEwQUpmTEY4TU96cjhPeHpzUDVWbnhyUjRKT0ZOazFkOGdyektpOVkwbk50a2VERTlad1NnQUZJODBPVEtHUGRSTnFkZlVfNDY3ajAx?oc=5",
+       "publishedAt": "2026-11-25T06:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "6 missing after Cessna plane crashes off Mississippi coast in US",
+     "link": "https://timesofindia.indiatimes.com/world/us/2-children-among-6-feared-missing-after-aircraft-crashes-into-waters-off-mississippi/articleshow/136146338.cms",
+     "source": "Times of India",
+     "sources": [
+      "CNN",
+      "Corsicana Daily Sun",
+      "KTBS 3",
+      "The Guardian",
+      "The Times of India",
+      "Times of India",
+      "WLOX"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T08:26+05:30",
+     "score": 7.7,
+     "summary": "A search operation is under way off Mississippi’s coast after a Cessna aircraft carrying six people, including two children, crashed near Horn Island on Tuesday. The US Coast Guard has deployed rescue teams and recovered aircraft debris, a life raft and three life jackets. However, no passengers had been located as of the latest update. The NTSB will lead the investigation.",
+     "image": "https://static.toiimg.com/photo/msid-136146498,imgsize-1707039.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "6 missing after Cessna plane crashes off Mississippi coast in US",
+       "link": "https://timesofindia.indiatimes.com/world/us/2-children-among-6-feared-missing-after-aircraft-crashes-into-waters-off-mississippi/articleshow/136146338.cms",
+       "publishedAt": "2026-11-25T08:26+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Rescue crews search for six people after plane crash off Mississippi coast",
+       "link": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
+       "publishedAt": "2026-11-25T07:47+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "2 children among 6 feared missing after aircraft crashes into waters off Mississippi",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekltMjFvdFYwdzVSTm9LYll5V1kxSlAzMVRBck1CTzAxajVIZ21KT1A2RjQ3aXk5WkpVR1NYUjlLd3lhb1NXN0xwazM2dDduMUJwVjgyNjRRQ1YwellLQU16cDA2WmdnVHg2R1kwcWxSd1N3aU4ydl85aGI2M3dIVllidWRaVmRQOHVhYXF3ZVQxQ2pCM2ZMV2lYaUh6ejhnRHFETE5EVnBXbGNWQjZiemxDLVlDU1hvN1Q0T054VHJoLUp1Z2gzdUxjTjIwT1JSbXg2MGdqOGVueEthcHBNLWJ2N1lsenMwMGZB?oc=5",
+       "publishedAt": "2026-11-25T08:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gadi Eisenkot Clinches 1st Coalition Partner In Race To Become Israel's PM",
+     "link": "https://www.ndtv.com/world-news/gadi-eisenkot-clinches-1st-coalition-partner-in-race-to-become-israels-pm-12373393#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "Daily Sabah",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The Times of Israel"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T10:22+05:30",
+     "score": 7.46,
+     "summary": "Eisenkot's centre-right Yashar party and patchwork coalition partners hold just 48 seats. But they have potential allies in the parties representing Israel's Arab minority, which hold 19 seats and are aligned with Eisenkot in their vehement opposition to Netanyahu.",
+     "image": "https://c.ndtvimg.com/2026-11/l2vpavn_middle-east_625x300_25_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Gadi Eisenkot Clinches 1st Coalition Partner In Race To Become Israel's PM",
+       "link": "https://www.ndtv.com/world-news/gadi-eisenkot-clinches-1st-coalition-partner-in-race-to-become-israels-pm-12373393#publisher=newsstand",
+       "publishedAt": "2026-11-25T10:22+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+       "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+       "publishedAt": "2026-11-25T07:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T09:00+05:30",
    "generatedAt": "2026-11-25T09:30+05:30",
@@ -29827,209 +30020,6 @@
        "title": "Iran planning dirty bomb attack in Washington, US intel warns",
        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFIxa1RQcGhUd3p3R0Rua0pPYzBUNmJfMFhzZlVfbXE5WFBPWlF1cmpoa2dWSFBRZm5mM1FndWlTY2Vvcy11T0ZDY0hheVA0Wmo4RzJ3al96dXJNbS1wTmRnQVdid29MeHAwUTAwRjQ1UUtjYmdsejdjYUVXR3JGWXdHYzNVdGdOY3lMNFc1N1NrVWtlT2diV09KX29IVEx0OVkyU3VHSFZqNUZjdFBYbWJiN1hLSVE2aDVaMXgzZ05CS2w5NkZaQnY3MA?oc=5",
        "publishedAt": "2026-11-17T06:47+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T09:00+05:30",
-   "generatedAt": "2026-11-17T09:22+05:30",
-   "feeds": 12,
-   "headlines": 167,
-   "stories": [
-    {
-     "title": "United Airlines says ‘widespread’ system outage resolved",
-     "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-     "source": "The Guardian",
-     "sources": [
-      "AP News",
-      "CNN",
-      "NDTV",
-      "Reuters",
-      "The Economic Times",
-      "The Guardian",
-      "The New York Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-17T08:27+05:30",
-     "score": 10.03,
-     "summary": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground stop on all US flights. “We have resolved a technology issue that delayed flight departures. While some flights were…",
-     "image": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=28983698125cd7b39a7adedf7e96dd07",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "United Airlines says ‘widespread’ system outage resolved",
-       "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-       "publishedAt": "2026-11-17T08:27+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "United Airlines faces outage; 21 flights cancelled",
-       "link": "https://economictimes.indiatimes.com/nri/latest-updates/united-airlines-faces-tech-outage-days-after-faa-disruption-418-flights-delayed-21-cancelled/articleshow/135906553.cms",
-       "publishedAt": "2026-11-17T06:18+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "United Airlines tech outage: What happened during 2-hour flight disruption",
-       "link": "https://timesofindia.indiatimes.com/world/us/united-airlines-hit-by-system-outage-days-after-nationwide-ground-stop-issue-resolved-within-hours/articleshow/135906026.cms",
-       "publishedAt": "2026-11-17T05:38+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "United Airlines Resolves Technology Issue After Widespread Outage",
-       "link": "https://www.ndtv.com/world-news/united-airlines-resolves-technology-issue-after-widespread-outage-12336157#publisher=newsstand",
-       "publishedAt": "2026-11-17T05:20+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "United Airlines hit by system outage days after nationwide ground stop; issue resolved within hours",
-       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWUN3bWpSSGpuc0FyZ1o1eGNla256N2VzUDJPbjBUOWlxQW55VzlqTkhsandTSXlvMEhFMFM4U1NleVZIVmdrNGI3UkpQRms4aDJZaGVURkQ0ellfU1cwWVpMaFZCMmtsTEZHNk5mX05NdkNPOFU4X195dFAtX0xuRXdxU19uMFhDdW4tSVlZcTkweUxMLUhVdm50bGVpRndDcEFMTjkzTFhQYURoM01oQmxRR3lxNnJORG5pZHQxSXpianNuRmhxdXFUd2N4bk0tUHFBY0RJRER4WFN1bW9MYzFMQmhoWjlacU5lSWxWWFdGQ3dwT2hodU1tQnUtUdIBgwJBVV95cUxNLVpPVWNxdE9SVTZhWldXaHRtV0cwUnBaRDZTQ3k0eUFZV1lIaWZhcXp4WkdJdFlhVm4wLTR2MVBadTFHd2dYN0FVaXpPMXc2QXEtNlVMMEFrTUNta1REZ3p5YzZFVUY0aE9PN1RxSVBUS2FNREp3eEU0RlVfRFlqaEh6VVp5TG1EV29xdHR1dFlVYS1YNW0yYW9JNFJXWVdwRmlkN2Z5Rng2OW5uX1ktalNJODMzOGtRd2pfeDlZWlpJNWVwN0pTZkkwMHFBVG56NExnLXFkeGpnTzB1b080ZjY1akxYdzI3VEFEOEx2QTJYVDM4VEQ5NEQxc3BsTXczYWdz?oc=5",
-       "publishedAt": "2026-11-17T05:38+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Iran planning ‘dirty bomb’, chemical weapon attack on Trump officials in Washington, warns US intelligence: Report",
-     "link": "https://www.livemint.com/news/us-news/iran-planning-dirty-bomb-chemical-weapon-attack-on-trump-officials-in-washington-warns-us-intelligence-report-11794882364671.html",
-     "source": "Mint",
-     "sources": [
-      "CNN",
-      "Hindustan Times",
-      "Israel Hayom",
-      "Mint",
-      "People.com",
-      "The Times of India",
-      "The Times of Israel",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-17T08:10+05:30",
-     "score": 8.91,
-     "summary": "US intelligence has reportedly identified detailed Iranian plans for potential attacks on US soil, including the use of unconventional weapons. CNN says the plotting is not considered evidence of an imminent attack, and sources say it is unclear whether Iran has operatives in place.&nbsp;",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/TrumpKhamenei_1794883051345_PmES_1794883051461_A4zQ_cb26db7d-4f65-457c-9d44-37af3dbb5089_XaXs.png",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Iran planning ‘dirty bomb’, chemical weapon attack on Trump officials in Washington, warns US intelligence: Report",
-       "link": "https://www.livemint.com/news/us-news/iran-planning-dirty-bomb-chemical-weapon-attack-on-trump-officials-in-washington-warns-us-intelligence-report-11794882364671.html",
-       "publishedAt": "2026-11-17T08:10+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Iran planning dirty bomb attack in Washington, US intel warns",
-       "link": "https://timesofindia.indiatimes.com/world/us/iran-planning-dirty-bomb-attack-in-washington-us-intel-warns/articleshow/135906822.cms",
-       "publishedAt": "2026-11-17T06:47+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "US intelligence suggests Iran planning to detonate ‘dirty bomb’ in Washington DC to target Trump officials: Report | Hindustan Times",
-       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVVg2MGZJaExDTlMzcDVZeTdHaGVyQ3RJTG1RbXpERmxHRUMwZmN4YjRXOFo2TGhmeVNBYnFxZ2hFZy1VeTRWMFNNdURHSXJyTHltd2xsd1NDSE53UE1rbU9GcHhhbjQ4MUhrQ2pMb3VJMV96OTl0Y1RkWWpZX3U4NVlUVUo4cUhreVFfTzBKTkI1OVVKX0huc1V3V19IakV2RXFnNzVUMWFIVXFOd1diYzdIZms2ZjZySDFXRU5temt2QUtuMXhPd2syc2x1UmRKR1Q0dVllY2xBRnBDdkI4cDBKSkNBMXpSU3ktVUpVTW1MeFIxZDNwTWdXUkxHbUNCSjBIbElR?oc=5",
-       "publishedAt": "2026-11-17T06:57+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Iran planning dirty bomb attack in Washington, US intel warns",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFIxa1RQcGhUd3p3R0Rua0pPYzBUNmJfMFhzZlVfbXE5WFBPWlF1cmpoa2dWSFBRZm5mM1FndWlTY2Vvcy11T0ZDY0hheVA0Wmo4RzJ3al96dXJNbS1wTmRnQVdid29MeHAwUTAwRjQ1UUtjYmdsejdjYUVXR3JGWXdHYzNVdGdOY3lMNFc1N1NrVWtlT2diV09KX29IVEx0OVkyU3VHSFZqNUZjdFBYbWJiN1hLSVE2aDVaMXgzZ05CS2w5NkZaQnY3MA?oc=5",
-       "publishedAt": "2026-11-17T06:47+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Odisha Deploys 74 Rescue Teams, Starts Evacuation As Cyclone Akvan Set To Hit Andhra",
-     "link": "https://www.ndtv.com/india-news/odisha-deploys-74-rescue-teams-starts-evacuation-as-cyclone-akvan-set-to-hit-andhra-pradesh-12336282#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Telangana Today",
-      "Telegraph India",
-      "The Hindu",
-      "The News Minute"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T08:40+05:30",
-     "score": 7.63,
-     "summary": "Cyclone Akvan: Odisha is likely to receive \"heavy rainfall, but not extremely heavy rainfall\" as experienced during the Cyclone Arnab that had made landfall in Andhra Pradesh on October 28, IMD Director General Mrutunjay Mohapatra said.",
-     "image": "https://c.ndtvimg.com/2026-11/r4gf9u1k_cyclone-akvan-source-unsplash_625x300_16_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Odisha Deploys 74 Rescue Teams, Starts Evacuation As Cyclone Akvan Set To Hit Andhra",
-       "link": "https://www.ndtv.com/india-news/odisha-deploys-74-rescue-teams-starts-evacuation-as-cyclone-akvan-set-to-hit-andhra-pradesh-12336282#publisher=newsstand",
-       "publishedAt": "2026-11-17T07:10+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "LIVE: Cyclone Akvan likely to turn ‘severe’ today; Odisha deploys 74 rescue teams, AP on alert | Hindustan Times",
-       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYUN6ZUloUVhiMTlfQzB1M01oWHRYaGpuMTRockxPVkFfYzBRYk1KQzNzMWY1enFvVVUzUHlhZk9DZmpzMnZqa2JvYmZJeXNzM1JaOXNfM2ZxRHFXTlJBX21jcHN1QWhXOGZUdmkwYnFYbGpqcWVRNDZ5dTBLX3N0M1RWZm1rRV92VElNOFJKeDk2elVCQm5XR1E1RkViWVhueWFLaVpfaHVUVXZva2czSmE3YXFGUERlZ0F6MElFWm84QUViY0Jib0psMlBoclNZWEVYMTNZU2ZyMFpqVnBudWJJY256YVFTY0UwbEw0ODQ2c0wzN09Nd2daYVRUWUhsS21rbWdCbjLSAY4CQVVfeXFMTkZ1R1g5ckZEWm4zQ3ZCRFlrUEtrM2NEODBEazhNQnFiNUdHN0RVdWlQUFJoUHo3N2pSQS0yOWtkT1RNSXJvRTVybGhVMWVDOHlHR3c1UElNVTVoTEVwaVd6dE9sem5mWGxPYl9mT08wdTQtRV9IdzUycHRNSnJGSWloQ3FrNFYzNEtUVk9nNE5CSkZBRUgzQXpMS19rRHA0MF9TcEs0eTBNWlVNOE5sY25sS0JPRkFUWXVfWW9pS283em9vamFVRjlSQklIdGFIdkUyckJKc2NZXzdCaVB0REpWYlBYMFo3NTl4OEtkVTlpaXhaU2lLX2ZLSC10OElwdDUwX1NoYjY3U3I5Z3hR?oc=5",
-       "publishedAt": "2026-11-17T08:40+05:30"
-      }
-     ]
-    },
-    {
-     "title": "6 Killed, 20 Injured After Bus Falls Into Ravine In Uttarakhand's Tehri Garhwal",
-     "link": "https://www.ndtv.com/india-news/uttarakhand-bus-accident-6-killed-20-injured-after-bus-falls-into-ravine-in-uttarakhands-tehri-garhwal-12336415#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "ANI News",
-      "India Today",
-      "Moneycontrol.com",
-      "NDTV",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T08:32+05:30",
-     "score": 7.05,
-     "summary": "According to officials, the bus fell into a deep ravine near Gular Bazar, triggering a major rescue response. Teams from the State Disaster Response Force (SDRF) posts at Byasi and Dhalwala were immediately deployed to the site",
-     "image": "https://c.ndtvimg.com/2026-11/8t9fe14c_tehri-bus-accident-ani_625x300_17_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "6 Killed, 20 Injured After Bus Falls Into Ravine In Uttarakhand's Tehri Garhwal",
-       "link": "https://www.ndtv.com/india-news/uttarakhand-bus-accident-6-killed-20-injured-after-bus-falls-into-ravine-in-uttarakhands-tehri-garhwal-12336415#publisher=newsstand",
-       "publishedAt": "2026-11-17T08:32+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "6 dead, 20 injured as bus falls into ravine in Uttarakhand",
-       "link": "https://timesofindia.indiatimes.com/city/dehradun/bus-plunges-into-100-metre-deep-gorge-in-uttarakhand-20-passengers-rescued/articleshow/135907146.cms",
-       "publishedAt": "2026-11-17T07:13+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Ramayana nears Rs 800 crore: Film earns Rs 32 crore on day 12",
-     "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-part-1-box-office-collection-day-12-ranbir-kapoor-and-yashs-epic-closes-in-on-rs-800-crore-mark-earns-rs-32-crore-on-second-monday/articleshow/135906564.cms",
-     "source": "Times of India",
-     "sources": [
-      "Telegraph India",
-      "The Economist",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T09:00+05:30",
-     "score": 7.0,
-     "summary": "Ramayana, starring Ranbir Kapoor, Sai Pallavi and Yash, earned Rs 32 crore net on day 12, down 57.3% from day 11. Its India total now stands at Rs 792.60 crore, led by the Hindi version. Directed by Nitesh Tiwari, the film will open IFFI’s BRICS segment in Goa on November 20.",
-     "image": "https://static.toiimg.com/photo/msid-135906583,imgsize-358907.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Ramayana nears Rs 800 crore: Film earns Rs 32 crore on day 12",
-       "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-part-1-box-office-collection-day-12-ranbir-kapoor-and-yashs-epic-closes-in-on-rs-800-crore-mark-earns-rs-32-crore-on-second-monday/articleshow/135906564.cms",
-       "publishedAt": "2026-11-17T06:21+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana Part 1 Box Office Collection Day 12 LIVE Updates: Ranbir Kapoor-starrer earns over Rs 1,437 crore",
-       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOGdBbmlrQ0lzQmRpWGVBRjRNS0Q4Z0hUc1ZzaUUxM0Q1T3Nyc1QxX2lvOGIxZHNJMDFOTEJqZ3lmc294dlMtbHRuM3JXeVFvYVVPb3E3R1ZKRFlkeTJZY0VERnk0NXR3dUE3Z2x1cTNCbldGMFl6S0VqeVJta2hRWkU0MWxhcnQwWDVOYzhjdHdLY21ubDJ3UXNlc2tEY2RneE5zcDZMcTdHQnY0RkhaQUlzbUVncHczTzVYVnBRdVJieUhHbWJqTkVMLXBYTFJzTkZMWEhzaW9sY1BGMGlyOGJkVERtRkl5UWfSAfABQVVfeXFMT2tmSTVxN1RybVBCMFNaTVVweE9iVzlDN3JDRXRLZnFMMEVRMWpMNlpiaHBFREktU3ZXWmNFUi1EdThqclF2YmtVcFlQSzlpeEVoRXNFOGtieUJvMTRjcUUtMzdVaWZldWt3RVBSM0ZOM3ZxNDNhZGMtUFRnUnRnNTF4UDJMamVvQ1ZCUnpXbThXYW12NDZkcVZ5eHJzbzhCYVg1WHN5c0tBZk5lZ0hZYm9nWVJSaHlFQjRZMnVKMkltU2pGSDFLak82X3p4ZEVoZFRYNXFfZ28zMDVrc3hRelpvb2lNRHB0QXdUV1dQY0Et?oc=5",
-       "publishedAt": "2026-11-17T09:00+05:30"
       }
      ]
     }
