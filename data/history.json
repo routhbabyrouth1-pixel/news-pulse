@@ -1,6 +1,205 @@
 {
- "updated": "2026-11-25T12:46+05:30",
+ "updated": "2026-11-25T14:34+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T14:00+05:30",
+   "generatedAt": "2026-11-25T14:34+05:30",
+   "feeds": 16,
+   "headlines": 289,
+   "stories": [
+    {
+     "title": "SC issues notice to Delhi Police on pleas by Sharjeel Imam, Umar Khalid seeking bail in UAPA case",
+     "link": "https://www.thehindu.com/news/national/sharjeel-imam-umar-khalid-bail-supreme-court-notice-to-delhi-police-on-pleas-in-uapa-delhi-riots-case/article71741295.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-25T13:14+05:30",
+     "score": 9.28,
+     "summary": "In their pleas before the top court, the activists have sought bail, contending that the prosecution has failed to examine protected witnesses and the one-year embargo imposed by the Supreme Court is nearing its expiry",
+     "image": "https://th-i.thgim.com/public/incoming/e52unt/article71741302.ece/alternates/LANDSCAPE_1200/doc7d2j62t90awg32fx7st.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "SC issues notice to Delhi Police on pleas by Sharjeel Imam, Umar Khalid seeking bail in UAPA case",
+       "link": "https://www.thehindu.com/news/national/sharjeel-imam-umar-khalid-bail-supreme-court-notice-to-delhi-police-on-pleas-in-uapa-delhi-riots-case/article71741295.ece",
+       "publishedAt": "2026-11-25T13:14+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"Not Today\": Top Court Denies Interim Bail To Sharjeel Imam, Umar Khalid",
+       "link": "https://www.ndtv.com/india-news/not-today-supreme-court-denies-interim-bail-to-sharjeel-imam-umar-khalid-delhi-riots-2020-case-12373916#publisher=newsstand",
+       "publishedAt": "2026-11-25T13:01+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "SC declines to hear interim bail pleas of Umar Khalid, Sharjeel Imam pending UAPA ruling",
+       "link": "https://www.hindustantimes.com/india-news/sc-refuses-interim-bail-for-umar-khalid-sharjeel-imam-says-will-await-larger-bench-uapa-decision-101795591129391.html",
+       "publishedAt": "2026-11-25T12:48+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "SC refuses interim bail to Umar Khalid, Sharjeel Imam, asks Delhi Police to respond",
+       "link": "https://timesofindia.indiatimes.com/india/sc-refuses-interim-bail-to-umar-khalid-sharjeel-imam-asks-delhi-police-to-respond/articleshow/136150616.cms",
+       "publishedAt": "2026-11-25T11:54+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "SC denies Umar Khalid interim bail",
+       "link": "https://economictimes.indiatimes.com/news/india/delhi-riots-sc-denies-interim-bail-to-umar-khalid-sharjeel-imam/articleshow/136150611.cms",
+       "publishedAt": "2026-11-25T11:54+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Supreme Court Issues Notice To Delhi Police On Umar Khalid, Sharjeel Imam Bail Pleas; Refuses To Consider ...",
+       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPT0RPdXNNLWdwcDdsQWtPeUswUnFIY0tXVUc4MC1MMXBwMzl5R3Vrdk9yV3QtTmtOYlUtVXVLeW1uXzQwOEZNb0F0MFVSb2V3RzNic1RneGJBSTk4Y1g2UmczQjFfSVAyYVlHQlF0c0ZkOGNPczZRR3dseVFmdmxEdnJFMW1UUXJxeWdxb3lUNHdGNGxsSjNXcVB4ZV8wWWtLU3ZmVUpsa0xTNVlxaDREUUlxT2tQNzhCVVI2dk5EaTJoaWo0QV9nbVFqMWtHR2paMm8xeVRnZnZ5endNY3g1LUxXeFRQRThjNG1qVVJ5ejlrYXdsMlpz0gH8AUFVX3lxTE13ZmQ2dnhVNGpqbmgyQWRnaWRJNVhONjA5OWtCc3BwS2t6SVFNNC1USW1zWEhUOXo5c1lfaU1sQWRLbklONGQ0UTMxRGRCWUx2TjBzSEVCVDU5eXR4eDkxRW5GWmxrZjl6ZS1yXzlPSF80eDgwRExKTEZZdGx1U1FsV2szTklxOG8wclFQcE5Qa0hYX0d4MjVyZFZYeG94XzRJa0dmWTJRUUdJcjYwTzdLSjY0UVNvcWlFSFlKVmxXcGYwRkg2bmhmaFpOQUo0c3NETGs0RkZtZS1tOGtqQW9hZUFOem5DNUZSaEcwU1p1OXYybGQzNmlrbDRyUQ?oc=5",
+       "publishedAt": "2026-11-25T11:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "At least two Indians among 11 injured in Houthi attack in Riyadh; New Delhi condemns strike",
+     "link": "https://www.thehindu.com/news/national/houthi-attack-in-saudi-capital-riyadh-indians-injured/article71740914.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Al Jazeera",
+      "Hindustan Times",
+      "Ministry of External Affairs",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Indian Express"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T12:55+05:30",
+     "score": 8.48,
+     "summary": "Saudi Arabia's Civil Defence said a tower in Riyadh's King Abdullah Financial District came under what it described as a \"terrorist attack\" by Houthi militia",
+     "image": "https://th-i.thgim.com/public/incoming/w695gi/article71740917.ece/alternates/LANDSCAPE_1200/2026-11-24T172418Z_1883247986_RC2AUOAQ8FSH_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "At least two Indians among 11 injured in Houthi attack in Riyadh; New Delhi condemns strike",
+       "link": "https://www.thehindu.com/news/national/houthi-attack-in-saudi-capital-riyadh-indians-injured/article71740914.ece",
+       "publishedAt": "2026-11-25T12:55+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "India condemns Houthi strike on Riyadh",
+       "link": "https://economictimes.indiatimes.com/nri/latest-updates/we-call-for-immediate-cessation-of-attacks-india-condemns-houthi-strike-on-riyadh-financial-district-2-indians-injured/articleshow/136148313.cms",
+       "publishedAt": "2026-11-25T10:08+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "India condemns Riyadh tower attack that injured 2 Indians, calls for end to strikes",
+       "link": "https://www.hindustantimes.com/india-news/india-condemns-riyadh-tower-attack-that-injured-2-indians-calls-for-end-to-strikes-101795580997656.html",
+       "publishedAt": "2026-11-25T10:02+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "US-Iran News Live Updates: 2 Indians among 11 injured in Saudi attack",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN3ZxbkdTVmVwTnVlcHhLSUxNcXZPcjY0WHhFdGkzdXpyMFNIQXpSQUtnQmU5azZUMVdpc1ZHSVhNYmtjcTR1bmZIQmFZRm1PNjY0R2xaMDFqUXJiY0tfWi1mZGtmMEZESWd4eEdBQmVFaWs1VDItTUVMRjNDQkhUaWdVZFd4eEVJcVZjQ2o1dG13UVptVU8yTW9BcC0zZUljeTNvNFg2VDhYTXFKTGhScUtLd2RWNktCWEk2TFZlMEhIT1FhMTJXRklaYzJHX0tTeXFWb1lYVTF4SV9tMVE?oc=5",
+       "publishedAt": "2026-11-25T12:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Flipkart's Kalyan Krishnamurthy steps down as CEO",
+     "link": "https://timesofindia.indiatimes.com/business/india-business/flipkarts-kalyan-krishnamurthy-steps-down-as-ceo/articleshow/136153645.cms",
+     "source": "Times of India",
+     "sources": [
+      "Inc42",
+      "Moneycontrol.com",
+      "Rediff MoneyWiz",
+      "The Economic Times",
+      "Times of India",
+      "afaqs!"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T13:51+05:30",
+     "score": 7.63,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136153756,imgsize-45693.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Flipkart's Kalyan Krishnamurthy steps down as CEO",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/flipkarts-kalyan-krishnamurthy-steps-down-as-ceo/articleshow/136153645.cms",
+       "publishedAt": "2026-11-25T13:51+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Kalyan Krishnamurthy to leave Walmart-owned Flipkart after 10-year CEO run",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWUs3RWE3SnEtTnN1TVllN3FQS1l5eHF5blV1eGpZZDQ5MHlpb2MxSFJQQU5nZTJrTk1xbXRkUk5OZkw3dDNMSlZ6dDBUWThrLUdQd0xoWXA2b19oRHIxUnFsY2xjVEo5Ylg1V09CWHZOTW9LekgyelJJSGZGbkt3bS1haDdUSWF6N1hCRk9lNlVud2d0dFF3Wk1tckpOUXVUcHZKYnlHNzBrM1YwSV91aTh5WnNtXy10dWZCWHAzRnB4Y09OYXd2VDRQeWlsMW9MeXBlVFp30gHbAUFVX3lxTFA0V0ZXa2wwLWx1cEl0cFoxRDJXcUd0NEtIcWUtYWhLNHJ2aWEwR1pQWUFLTFJuVEg3WGhCa2FySV9xR2NZaU5mM1lBZEg4Vm5ZYkd6Rm85UUVpdFUzRDhfYUMtblpibEx2TmlrZGhuUlFrQ3B5RzdZQkgzYUZFX0NxWnpVRG10MzJXWm5lcVVVc3h3WlRUR2R1T0lYZVZBUGhkMk95QVZfZldUZ1pISWVVWUtUTmZGZnlsVURCYWhKREFTcWE2N0plQ2RleDJWNEdET0FBM2Nxd3UySQ?oc=5",
+       "publishedAt": "2026-11-25T12:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock Market LIVE: Sensex gains 1,600 pts, Nifty tops 25,800; APL Apollo shares hit 52-week low",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN1pPY2RyVVVVS3A5R0JVMkxuQVZnd0d1MUNFYUpnN0ZEZTJiY24ySmF0eU1hemNlSXgwT3dGX2pRTjdZSmZNcW90WEI5bFgyUFRrSFNkazdGZ3JidlR5WVQzMG14cDUxcDNqM2xibklMX25vYkpiRURjaGVZOXE4ODR2QkRkSXlIRVRTRVJFMHRCSno2eGRiWmluanJTQXpreDFvTGVETUlFbjJDN3k3aVBSbkxmWmN0Tkt3Y1M1MFlRODRtNExlY2ZoVGlwYzBhd3R5ZHpWTzRfY3l6RUREMU5GYlYxajB0enBwc3Uzbmk?oc=5",
+     "source": "Business Standard",
+     "sources": [
+      "Business Standard",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T14:30+05:30",
+     "score": 7.49,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Business Standard",
+       "title": "Stock Market LIVE: Sensex gains 1,600 pts, Nifty tops 25,800; APL Apollo shares hit 52-week low",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN1pPY2RyVVVVS3A5R0JVMkxuQVZnd0d1MUNFYUpnN0ZEZTJiY24ySmF0eU1hemNlSXgwT3dGX2pRTjdZSmZNcW90WEI5bFgyUFRrSFNkazdGZ3JidlR5WVQzMG14cDUxcDNqM2xibklMX25vYkpiRURjaGVZOXE4ODR2QkRkSXlIRVRTRVJFMHRCSno2eGRiWmluanJTQXpreDFvTGVETUlFbjJDN3k3aVBSbkxmWmN0Tkt3Y1M1MFlRODRtNExlY2ZoVGlwYzBhd3R5ZHpWTzRfY3l6RUREMU5GYlYxajB0enBwc3Uzbmk?oc=5",
+       "publishedAt": "2026-11-25T14:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thirupparankundram row: Madurai District Collector says Devasthanam did not authorise lamp-lighting team",
+     "link": "https://www.thehindu.com/news/national/supreme-court-hearing-on-deepathoon-case-madurai-tamil-nadu/article71741225.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Bar and Bench",
+      "India Today",
+      "Live Law",
+      "NDTV",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T14:04+05:30",
+     "score": 7.42,
+     "summary": "The Board of Trustees’ resolution recorded their unanimous decision to light the lamp at the traditional place “on the basis of historical continuity, Agamic evidence and the opinions of the Sthanikars”",
+     "image": "https://th-i.thgim.com/public/incoming/jxpbws/article71741236.ece/alternates/LANDSCAPE_1200/gmoorthy_karthigai.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Thirupparankundram row: Madurai District Collector says Devasthanam did not authorise lamp-lighting team",
+       "link": "https://www.thehindu.com/news/national/supreme-court-hearing-on-deepathoon-case-madurai-tamil-nadu/article71741225.ece",
+       "publishedAt": "2026-11-25T14:04+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Couldn't Do Deepathoon Lamp Lighting As Temple Devasthanam Didn't Authorise : Madurai Collector To...",
+       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcEQyWkZrUjRkS2VlU1FZYkR6cXIzV0xmVkU2NzRRYVlsMWhYNnRscGlFVURyWU5OOGgwRUhsOEp2NURNc21BR0lfUVlWeDk2cVh1TEFLWEFKblZxeUthMVNGanVnU0lmTS1FS1ZGMTVKdkhlQjJldFgwMllicmgxaVJqd1paQUUxZjFSVk9FSmE4V3FWWTlCLUFWR0oxRExxeS02S3E2YVNDS1NSb3E0OUtkSkxjV2R5cHNnM1FjdXg3SFZUMnFiZTBQNjJxaGRwVEhCY0laR25iSkZ5X1NrSnRyN0plcU9ycnowcGZTMWExaHpvT2hiMVdIVHXSAYICQVVfeXFMT0ZjWm1PNXJiNXNYb29GdExWSlpIVUlOaUp3SGJSV3pGMFNEbFoxdU80WmVxS2x3bmxraVp5Y0ZkSXJpb210SVVqdms4emQwUlFmeGtBd1plaERHWlI5cjRnSG1zSlVXcDdpd053RGFsM28xc1R4U0FZR05JdkZZTjRZNFFaQllqdzUzNmpnWDlEb1FBQk0weHI3WmFXM0xnZDFxeWUzUFF2TTRUNFBuaExkZEZMbU40aE5laTkwUWFPNUJQdTl4eUxWdDRKTmVJSDdwTFFFd1FmTE5VQVZhbXk3QURETm4xWFpPN2VLSzQtLXlMaWFjUHFCNXN4Rm95MUtB?oc=5",
+       "publishedAt": "2026-11-25T12:39+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T12:00+05:30",
    "generatedAt": "2026-11-25T12:46+05:30",
@@ -29858,194 +30057,6 @@
        "title": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
        "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
        "publishedAt": "2026-11-17T14:11+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T12:00+05:30",
-   "generatedAt": "2026-11-17T12:43+05:30",
-   "feeds": 12,
-   "headlines": 250,
-   "stories": [
-    {
-     "title": "Cyclone 'Akvan' LIVE updates: Akvan to become a severe cyclone tonight",
-     "link": "https://www.thehindu.com/news/national/cyclone-akvan-cyclonic-storm-forms-over-bay-of-bengal-andhra-pradesh-november-17-2026-live-updates/article71710277.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "Mint",
-      "NDTV",
-      "News On AIR",
-      "Rediff",
-      "Telegraph India",
-      "The Hindu"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T12:31+05:30",
-     "score": 8.18,
-     "summary": "The clouds associated with the system are projected to bring light to moderate rainfall at some parts of Tamil Nadu, Puducherry, Telangana, Andhra Pradesh, Odisha and West Bengal",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/Image_1794889970526_BV5q_1794889978830_8CFn_e00ffc9d-e0a8-499f-92fe-235691e7fd84_GdaH.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone 'Akvan' LIVE updates: Akvan to become a severe cyclone tonight",
-       "link": "https://www.thehindu.com/news/national/cyclone-akvan-cyclonic-storm-forms-over-bay-of-bengal-andhra-pradesh-november-17-2026-live-updates/article71710277.ece",
-       "publishedAt": "2026-11-17T12:31+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "HT morning news brief Nov 17: Cyclone Akvan likely to turn 'severe' today; Gangster Goldy Dhillon's death threats to Amitabh Bachchan",
-       "link": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-17-cyclone-akvan-amitabh-bachchan-death-threats-ipl-2027-us-iran-war-jpmorgan-chase-banks-101794885957909.html",
-       "publishedAt": "2026-11-17T10:04+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "IMD weather update: ‘Yellow’ alert issued for Andhra, Odisha as Cyclone Akvan turns ‘very severe’ ahead of landfall",
-       "link": "https://www.livemint.com/news/india/imd-weather-update-yellow-alert-issued-for-andhra-odisha-as-cyclone-akvan-turns-very-severe-ahead-of-landfall-11794878693669.html",
-       "publishedAt": "2026-11-17T07:17+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Iran Plans To Detonate 'Dirty Bomb' In Washington, Warns US Intel: Report",
-     "link": "https://www.ndtv.com/world-news/iran-plans-to-use-dirty-bomb-in-washington-finds-new-us-intel-report-12337221#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "CNN",
-      "Israel Hayom",
-      "Mint",
-      "NDTV",
-      "The Times of India",
-      "The Times of Israel",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-17T12:08+05:30",
-     "score": 8.01,
-     "summary": "Another concern is Iran possibly using a chemical weapon against US officials. Several experts believe the American troops are not prepared to tackle it.",
-     "image": "https://c.ndtvimg.com/2026-11/b896husk_iran-dirty-bomb-reuters_625x300_17_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Iran Plans To Detonate 'Dirty Bomb' In Washington, Warns US Intel: Report",
-       "link": "https://www.ndtv.com/world-news/iran-plans-to-use-dirty-bomb-in-washington-finds-new-us-intel-report-12337221#publisher=newsstand",
-       "publishedAt": "2026-11-17T12:08+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "Iran planning ‘dirty bomb’, chemical weapon attack on Trump officials in Washington, warns US intelligence: Report",
-       "link": "https://www.livemint.com/news/us-news/iran-planning-dirty-bomb-chemical-weapon-attack-on-trump-officials-in-washington-warns-us-intelligence-report-11794882364671.html",
-       "publishedAt": "2026-11-17T08:10+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Iran planning dirty bomb attack in Washington, US intel warns",
-       "link": "https://timesofindia.indiatimes.com/world/us/iran-planning-dirty-bomb-attack-in-washington-us-intel-warns/articleshow/135906822.cms",
-       "publishedAt": "2026-11-17T06:47+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Iran planning dirty bomb attack in Washington, US intel warns",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFIxa1RQcGhUd3p3R0Rua0pPYzBUNmJfMFhzZlVfbXE5WFBPWlF1cmpoa2dWSFBRZm5mM1FndWlTY2Vvcy11T0ZDY0hheVA0Wmo4RzJ3al96dXJNbS1wTmRnQVdid29MeHAwUTAwRjQ1UUtjYmdsejdjYUVXR3JGWXdHYzNVdGdOY3lMNFc1N1NrVWtlT2diV09KX29IVEx0OVkyU3VHSFZqNUZjdFBYbWJiN1hLSVE2aDVaMXgzZ05CS2w5NkZaQnY3MA?oc=5",
-       "publishedAt": "2026-11-17T06:47+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Watch: PM Modi visits Gurudwara Khalsa Diwan in Manila, offers prayers",
-     "link": "https://timesofindia.indiatimes.com/india/watch-pm-modi-visits-gurudwara-khalsa-diwan-in-manila-offers-prayers/articleshow/135909296.cms",
-     "source": "Times of India",
-     "sources": [
-      "ET Government",
-      "The Hindu",
-      "The Shillong Times",
-      "The Times of India",
-      "TheWire.in",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T09:26+05:30",
-     "score": 7.95,
-     "summary": "Prime Minister Narendra Modi visited Gurudwara Khalsa Diwan in Manila while attending the 49th Asean Summit. He offered prayers and expressed his feelings of gratitude on social media. Several dignitaries, including senator H.E Francis Joseph Escudero, attended the visit. Established in 1901, Gurudwara Khalsa Diwan is the oldest in the Philippines and serves the Sikh community. It plays a vital role in linking the…",
-     "image": "https://static.toiimg.com/photo/msid-135909729,imgsize-1923828.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Watch: PM Modi visits Gurudwara Khalsa Diwan in Manila, offers prayers",
-       "link": "https://timesofindia.indiatimes.com/india/watch-pm-modi-visits-gurudwara-khalsa-diwan-in-manila-offers-prayers/articleshow/135909296.cms",
-       "publishedAt": "2026-11-17T09:26+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Watch: PM Modi visits Gurudwara Khalsa Diwan in Manila, offers prayers",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMm5lcDFOSzZZTy00MVo5d1NqSUpWMzRJemZfTjJ4dnZFbEdKZm9lY1NDNXVVN0ZTMy1XbXEzTjkyQV9QNGJSVWdHdHNHZVpCeTFxNWVQRlFGU25aT2JiOElXcUdPWUU3MWZSM3BGZEwwc3pRakQ0MjhzbDRmd05kYjdsX2lzNTItRjhsSUxNT0V5VVJQcjFIVEM2enJ1RVBwaGQ2cUpBQzVJT29sYl93ZzNhUnE1TXRRR2JQU3ZPajVxT3h4QW5MOVk5Y3dEYkd0UkE?oc=5",
-       "publishedAt": "2026-11-17T09:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "LeT commander’s associate killed in Kulgam encounter; hunt for him continues",
-     "link": "https://www.hindustantimes.com/india-news/let-commander-s-associate-killed-in-jammu-and-kashmir-kulgam-encounter-hunt-for-him-continues-crpf-post-attack-injured-soldiers-101794880432902.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Greater Kashmir",
-      "Hindustan Times",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T10:10+05:30",
-     "score": 7.33,
-     "summary": "The encounter took place at Laroo village, where security forces and militants exchanged fire on Monday morning.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/PTI11-16-2026-000287A-0_1794880966080_PbMV_1794880984299_S9at_f0feb879-b962-48d6-9893-33edf9c6ecc1_Ko0T.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "LeT commander’s associate killed in Kulgam encounter; hunt for him continues",
-       "link": "https://www.hindustantimes.com/india-news/let-commander-s-associate-killed-in-jammu-and-kashmir-kulgam-encounter-hunt-for-him-continues-crpf-post-attack-injured-soldiers-101794880432902.html",
-       "publishedAt": "2026-11-17T07:35+05:30"
-      },
-      {
-       "source": "Greater Kashmir",
-       "title": "Umar Nisar Dar killed in Kulgam encounter; hunt on for LeT commander Lateef Bhat: officials",
-       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVjNhNk9va1BMTnRVa0N6RTgyQl9pVktSUzJHandlZjBaQXV3Ui15bjcyWldwa21nYnpQVW9UWEtnZ3BTWjFtdUZZeU85VjEyQmxRMlBWYTlXQXYyM3pFd3NfUjJWQzhNT3B3RWwxcVduaHpTTUtRZkNZSU8tNWhJNE5FMVlPS1hTbzBXU2xaOEdfcTJNbzgybzJicmxmYm8xOUhoRUdvVGJISi1NeE1vbnFka0k3bGRvQnRXM2hHWEVrZ1JKTkZOMm1qU0lwQWo3QWZR0gHYAUFVX3lxTE9vY1hCQTVnek1vek9qbUJZSEpwMy1rVjhIV1hKU1JRSEJzeVRPWEltQjhFOVMwUDNCZWJDaF8tbTJXaEw1cEQ3bzFSY2plQlYyREdwOWZkNFRqWGN5RHVYNDFxWjJWMTVCNEYyQkN5SEhxaWdHblpuVk42eFdyWVBSRXEyeV93TWIxLVVOclFPc2NKRFI0eE56cUdYekwzMDJrY0N4LW9sX1RNdUpLTmxWUXZ4SGhnSU9nWkF1d3IySG1GVXJkV1QwRkNZX1FPc21jVUFieDN1cQ?oc=5",
-       "publishedAt": "2026-11-17T10:10+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India faces 'acute' aircraft shortage, needs more than 1,000 planes: Piyush Goyal",
-     "link": "https://timesofindia.indiatimes.com/business/india-business/india-faces-acute-aircraft-shortage-needs-more-than-1000-planes-piyush-goyal/articleshow/135908619.cms",
-     "source": "Times of India",
-     "sources": [
-      "Fortune India",
-      "Logistics Insider",
-      "NDTV",
-      "Telegraph India",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T09:05+05:30",
-     "score": 6.58,
-     "summary": "In an effort to address soaring air traffic demands, India plans to procure an extra 1,000 civilian aircraft. The government has underscored the importance of expedited delivery from credible manufacturers to increase the fleet size. This expansion is set to enhance air connectivity with Egypt, paving the way for new flight options.",
-     "image": "https://static.toiimg.com/photo/msid-135909081,imgsize-48470.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "India faces 'acute' aircraft shortage, needs more than 1,000 planes: Piyush Goyal",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/india-faces-acute-aircraft-shortage-needs-more-than-1000-planes-piyush-goyal/articleshow/135908619.cms",
-       "publishedAt": "2026-11-17T09:05+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "India faces 'acute' aircraft shortage, needs more than 1,000 planes: Piyush Goyal",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSHMwZ1Y2QXJ4VmdjcTRJTEtXVHpHRlV6Y0haTDZlQmJ5TzJ1X3dlRFl0QXA1Vjh4di1kMnptbzZDLVRzLXhaMkI5MmNRY2wyRklNVHo2V2VZSWtURzRDV0hUUEMtQnBJTzFkTXU5Y091WDBnaS00cDVxeWNVemloMWM4OVMxWlA3NkwxSk9LRGVpaHpaMHNudGljRVdXYW9vakJlQ2VkMm56cHVyR2czLTNNUThvdUZ2ajBaemR3elFZdTJJUXdpYl8xUEItZUxrX0VLTFhHUWU0QXIwTlZaYTdpbmo2ZDM3QkhUVVJlUVJJVEFk?oc=5",
-       "publishedAt": "2026-11-17T09:05+05:30"
       }
      ]
     }
