@@ -1,6 +1,185 @@
 {
- "updated": "2026-11-25T22:36+05:30",
+ "updated": "2026-11-25T23:23+05:30",
  "hours": [
+  {
+   "hour": "2026-11-25T23:00+05:30",
+   "generatedAt": "2026-11-25T23:23+05:30",
+   "feeds": 16,
+   "headlines": 304,
+   "stories": [
+    {
+     "title": "ENE Repeat Box Office Collection Day 7",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDNTQlJkOGVtWjhkajJhOGEySWtqSlR3RlZVeFZlQWhTSm5JdU9VRWgwb2Qwb1hZNjJjTU9mUVU4Z2FaMk85dlAyYzNSY0JKdE43VXI5ZEx5a1Y1UTRSUXQtVFVjVE5RR1FKZjFzSnRYbTNiT2J0MHk3d2ljU3RrYUR6UQ?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Deccan Chronicle",
+      "Gulte",
+      "IMDb",
+      "IndiaGlitz",
+      "NDTV",
+      "Rediff.com",
+      "Sacnilk",
+      "THE WEEK",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-25T22:45+05:30",
+     "score": 12.39,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDNTQlJkOGVtWjhkajJhOGEySWtqSlR3RlZVeFZlQWhTSm5JdU9VRWgwb2Qwb1hZNjJjTU9mUVU4Z2FaMk85dlAyYzNSY0JKdE43VXI5ZEx5a1Y1UTRSUXQtVFVjVE5RR1FKZjFzSnRYbTNiT2J0MHk3d2ljU3RrYUR6UQ?oc=5",
+       "publishedAt": "2026-11-25T22:45+05:30"
+      },
+      {
+       "source": "IMDb",
+       "title": "Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2!",
+       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14LWZ3YVExX3BnbnF1UG1QdEJMR2VQTWVYNnk3dDlrSTMwVjJrbUdaR1J4UWJxWDdyS1VaQWxETDdNWjB6TFhJUTZCRzVSMG5kS0h2R0ViNkJTd2hvcVZ4RkpnN0JfSGs?oc=5",
+       "publishedAt": "2026-11-25T17:31+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump announces new trade tariffs: Which countries are affected?",
+     "link": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "NDTV",
+      "Scroll.in",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T21:55+05:30",
+     "score": 9.26,
+     "summary": "The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.",
+     "image": "https://c.ndtvimg.com/2025-04/5h5bn5sc_donald-trump-tariffs-announcement-afp_625x300_03_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Trump announces new trade tariffs: Which countries are affected?",
+       "link": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+       "publishedAt": "2026-11-25T20:24+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "US Proposes Up To 20% Tariffs On 14 Countries Including India, China",
+       "link": "https://www.ndtv.com/world-news/us-proposes-up-to-20-tariffs-on-14-countries-including-india-china-12376400#publisher=newsstand",
+       "publishedAt": "2026-11-25T19:33+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. announces new 25% tariffs on India, second-highest among 14 countries against whom action was taken",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5",
+       "publishedAt": "2026-11-25T21:55+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US Proposes 25% Tariff On India. It Could Come Down With Trade Deal",
+     "link": "https://www.ndtv.com/india-news/us-proposes-25-tariff-on-india-it-could-come-down-with-trade-deal-12377080#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Reuters",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-25T21:39+05:30",
+     "score": 9.21,
+     "summary": "These new tariffs would not be added to existing ones aimed at combating forced labour or certain sector-specific tariffs, a senior US official said.",
+     "image": "https://c.ndtvimg.com/2023-02/u21on5eo_us-india_625x300_10_February_23.jpg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "US Proposes 25% Tariff On India. It Could Come Down With Trade Deal",
+       "link": "https://www.ndtv.com/india-news/us-proposes-25-tariff-on-india-it-could-come-down-with-trade-deal-12377080#publisher=newsstand",
+       "publishedAt": "2026-11-25T21:39+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "US proposes up to 25% ‘excess capacity’ tariff on India, 17% if trade deal is signed",
+       "link": "https://www.hindustantimes.com/india-news/us-proposes-25-per-cent-excess-capacity-tariff-on-india-says-it-won-t-stack-on-existing-duties-101795612473250.html",
+       "publishedAt": "2026-11-25T18:48+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+       "publishedAt": "2026-11-25T19:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Chennai Regional Passport Office asked Saurav Das to clarify place of birth, advised not to use passport: MEA",
+     "link": "https://www.thehindu.com/news/national/saurav-das-served-show-cause-notice-over-passport-details-after-inputs-from-relevant-authorities-mea/article71742773.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-25T23:12+05:30",
+     "score": 8.47,
+     "summary": "The co-convenor of the Cockroach Janata Party was stopped from boarding a flight to London at the Indira Gandhi International Airport here on Monday night after failing to respond to a show-cause notice",
+     "image": "https://th-i.thgim.com/public/incoming/sp4ndd/article71743643.ece/alternates/LANDSCAPE_1200/TH24-Vijaita-SuGICGRFIL6.7.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Chennai Regional Passport Office asked Saurav Das to clarify place of birth, advised not to use passport: MEA",
+       "link": "https://www.thehindu.com/news/national/saurav-das-served-show-cause-notice-over-passport-details-after-inputs-from-relevant-authorities-mea/article71742773.ece",
+       "publishedAt": "2026-11-25T23:12+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Saurav Das was asked for clarification on place of birth, advised not to use passport for 7 days: MEA",
+       "link": "https://www.hindustantimes.com/india-news/mea-on-saurav-das-london-travel-curb-show-cause-notice-over-birthplace-query-passport-application-process-101795610014748.html",
+       "publishedAt": "2026-11-25T18:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gukesh plays quick draw with white pieces in game 2 of World Chess Championship",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHFPU2RPZzZweW9iUTZsY0cxb3F3Nk50VUh6UlpIeXV0SmVnVF9YUW8tQncxN3VlbURBN1JHVTBaQnFCY0pVV080Y3pQcExyMG1FWUQ0ZW1VNmc0OEdnMHRJR19iQ0RJdU14UTlYNXdvT01weGQzaDNoLS1rNnNCUmhNb3NFMDktQm5WMmF3d1h2MUxJQzRFcHhGc2xBV0psdWxIMkU1MkN1OHdRTjNwWQ?oc=5",
+     "source": "ESPN India",
+     "sources": [
+      "ChessBase India",
+      "ESPN India",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-25T17:45+05:30",
+     "score": 6.56,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "ESPN India",
+       "title": "Gukesh plays quick draw with white pieces in game 2 of World Chess Championship",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHFPU2RPZzZweW9iUTZsY0cxb3F3Nk50VUh6UlpIeXV0SmVnVF9YUW8tQncxN3VlbURBN1JHVTBaQnFCY0pVV080Y3pQcExyMG1FWUQ0ZW1VNmc0OEdnMHRJR19iQ0RJdU14UTlYNXdvT01weGQzaDNoLS1rNnNCUmhNb3NFMDktQm5WMmF3d1h2MUxJQzRFcHhGc2xBV0psdWxIMkU1MkN1OHdRTjNwWQ?oc=5",
+       "publishedAt": "2026-11-25T17:45+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-25T22:00+05:30",
    "generatedAt": "2026-11-25T22:36+05:30",
@@ -29772,204 +29951,6 @@
        "title": "Two Indian seafarers hurt, 1 missing after tanker targeted in Hormuz Strait",
        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUppaC13U1FTaFlIdHBCdXhHUndxYjltTHEyNG9aVDctOGVBbGpnZkxtbmg5a2ZLTFJFSWRPY0tzam1jMG5nTFRuWEZzZE5mR1pkOXkwX2J2WW9TT3l5eDAtY1V4WFFpbUdSMFVjYlJFNkxTbzNsVTVYYlZYYktyWTdPRHAzQ2p4QmU3SDJVdUlpNUp4TVV4Z1ZDQkc3Z3ZXd1d2eDR4a08zRnc3ZlFXZ3dSanJMQkg1RG9lMzcwV1R1OFpvdi0xWlpvYk9xUHBZaER1Z3N6a3RaQQ?oc=5",
        "publishedAt": "2026-11-17T19:58+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-17T21:00+05:30",
-   "generatedAt": "2026-11-17T21:24+05:30",
-   "feeds": 16,
-   "headlines": 321,
-   "stories": [
-    {
-     "title": "GRAP III Curbs Revoked In Delhi-NCR As Air Quality Improves",
-     "link": "https://www.ndtv.com/india-news/grap-iii-curbs-revoked-in-delhi-ncr-as-air-quality-improves-12338804#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Hindustan Times",
-      "Mint",
-      "NDTV",
-      "Scroll.in",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-17T17:59+05:30",
-     "score": 8.5,
-     "summary": "The GRAP III was invoked on November 7, a day before Diwali, as the air quality across Delhi and the National Capital Region had plummeted.",
-     "image": "https://c.ndtvimg.com/2023-11/44eh4798_delhi-pollution_625x300_04_November_23.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "GRAP III Curbs Revoked In Delhi-NCR As Air Quality Improves",
-       "link": "https://www.ndtv.com/india-news/grap-iii-curbs-revoked-in-delhi-ncr-as-air-quality-improves-12338804#publisher=newsstand",
-       "publishedAt": "2026-11-17T17:59+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "GRAP-3 revoked across Delhi-NCR as AQI falls to 204; stage 1 and 2 curbs stay",
-       "link": "https://timesofindia.indiatimes.com/city/delhi/grap-3-revoked-across-delhi-ncr-as-aqi-falls-to-204-stage-1-and-2-curbs-stay/articleshow/135924769.cms",
-       "publishedAt": "2026-11-17T17:41+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "GRAP-III restrictions lifted in Delhi-NCR as air quality improves; Stage I and II curbs to remain in effect",
-       "link": "https://www.livemint.com/news/india/grapiii-restrictions-lifted-in-delhi-ncr-as-air-quality-improves-stage-i-and-ii-curbs-to-remain-in-effect-11794915907406.html",
-       "publishedAt": "2026-11-17T17:20+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "GRAP Stage III restrictions revoked in Delhi-NCR as AQI improves to 204",
-       "link": "https://www.hindustantimes.com/india-news/grap-stage-iii-restrictions-revoked-in-delhi-ncr-as-aqi-improves-to-204-101794914664244.html",
-       "publishedAt": "2026-11-17T17:08+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Delhi’s air quality improves, GRAP-3 restrictions lifted",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSDdIQmNuY2ZpLVlXX3JRQWpCZGhWSlhuNzZKXzlVQnZoV2lGYkh5Z0NUcUR3U2dEZ2xvdW51OV9kcGFkNHpBOVZmYkFzcFB3M3dtYmc5S3E5b0ZQQXFjYWkyZTB6bEJpbWQzZzRIaE9iOTFZelUwR1B1eFEzYUJXQnB1cEJuZHJnOTBEXzhDZjR3UHpyZHpGOWNXWi13SlA5LS1OUHdwSnE1OVNWbEJxTUQweVlRNkhX0gG_AUFVX3lxTE40M0ljYmZyMWVHekw0LWVHdlVNZEZoTV9admJzZ3Yzdko0dVFSSGNiQ1VCdUdheVpZZVRUTlk1dFNORmZHdGFfTmpJLWhxOXV5ZHllR1h4eHZJOWRoM1NSM2tMLW1ZTzhJdHRBWXBYOFVGVGNqYlRwbExnYW9JcWFiUmIzSHhzcEhYU1I4ZVZLMkRBWHdDaFJjODlJWGdLU28wa1YzUTBEY3BWOHdmM3VJOGwyZFh0anpMLXZuNjBj?oc=5",
-       "publishedAt": "2026-11-17T17:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "IPL 2027 retention: Full list of retained and released players, remaining purse",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-retention-list-full-list-of-retained-and-released-players-remaining-purse-of-all-10-teams/articleshow/135926264.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricbuzz",
-      "Cricinfo",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T21:12+05:30",
-     "score": 8.46,
-     "summary": "All ten IPL franchises have completed the process of retaining and releasing players before the IPL 2027 auction. Focus will now shift towards the upcoming auction where teams strategize to fill squad gaps. Each franchise's remaining purse will significantly influence their auction strategies. The complete breakdown of retained, released players, and financial resources remains available. IPL fans can look forward…",
-     "image": "https://static.toiimg.com/photo/msid-135926421,imgsize-61814.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "IPL 2027 retention: Full list of retained and released players, remaining purse",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-retention-list-full-list-of-retained-and-released-players-remaining-purse-of-all-10-teams/articleshow/135926264.cms",
-       "publishedAt": "2026-11-17T21:06+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "KKR Retained Players List For IPL 2027",
-       "link": "https://economictimes.indiatimes.com/news/sports/cricket/kkr-retained-players-list-for-ipl-2027-rinku-singh-cameron-green-sunil-narine-among-17-players-check-full-squad/articleshow/135930977.cms",
-       "publishedAt": "2026-11-17T20:45+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "IPL 2027 retention LIVE: Dhoni retires, teams announce lists of released and retained players as deadline ends",
-       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxON1ExaEFVU243dkVDRmxGc09TWks1bVFYWE5Fbm5VZ3dMZjRxbk0wUVFBaHNqbUs5VnkzNGdCckV4U01KV2c0cDM5NDAtVmVrRFpiRnZIVGRMT0ViQU5qTV9VMlpvdEN1NDZENERsN2VzVGlma3pUbF90LTBTOFdYajhpWU5vUXA2MGY1d2xBSzUyREg2QnFwM3ZIOFg3R2sxR3R4RFhVdWZtVVNKbnBPYWpBXzdPMTdoVFBZZ29COTVuUjhvTE9obi1rWnI4RlRteVN3NjNhSnJtZzg2UllWVVhrRERObjAzdUZ1MlNxazlZSFVadzJTSzhTQUpRYWVWU2k2OUUzMNIBjgJBVV95cUxQeUl5VGVjWVVJSUJQcThsRlk4Y2JGTDh6X0pDenhxcjE2RUFGYmVtR2g3NVJOd1NSVWpRMU5EaUNMbHBHZ21XU0k2bWpaNE9jOEFmOW5KYklwQWxXUTVscGxZT2FXNjdEYmoxdmpDOGs4S3djZTF0RjVDZmRGWV9SdVh1eDctQmdDUFV1ZmFEemMxQmt4N2hKc0VNcXhjN2FPaGxCZzZkVzBmWmVYcGJTYjBNckRHZUx0YU1zMkl2dlRlU3ExYkFaQzNVUm14ekZTWVdPWVhwMlBfXzVmU1AtWER4YlpVd3hXUmRpV3VNQ1NOY3MxSE1HVFZMVFA2R2ZyWWVfOGxZbk12M2Jva1E?oc=5",
-       "publishedAt": "2026-11-17T21:12+05:30"
-      }
-     ]
-    },
-    {
-     "title": "PM Modi By His Side, Trump Repeats \"Tough Guy\" Praise At Quad Summit",
-     "link": "https://www.ndtv.com/world-news/pm-modi-by-his-side-trump-repeats-tough-guy-praise-at-quad-summit-12338559#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-17T17:58+05:30",
-     "score": 7.93,
-     "summary": "PM Modi, while addressing the meeting with Quad leaders, said that Quad is a \"constructive and trusted partnership\" for India.",
-     "image": "https://c.ndtvimg.com/2026-11/h3ir5tjc_trump-modi_625x300_17_November_26.jpg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "PM Modi By His Side, Trump Repeats \"Tough Guy\" Praise At Quad Summit",
-       "link": "https://www.ndtv.com/world-news/pm-modi-by-his-side-trump-repeats-tough-guy-praise-at-quad-summit-12338559#publisher=newsstand",
-       "publishedAt": "2026-11-17T17:58+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "'Tough man, great leader': Trump heaps praise on PM Modi at crucial Quad meeting",
-       "link": "https://timesofindia.indiatimes.com/india/hes-a-tough-man-trump-praises-pm-modi-ahead-of-key-quad-meeting/articleshow/135922816.cms",
-       "publishedAt": "2026-11-17T16:40+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "‘He's a very tough man and a great leader’: Trump praises Modi during Quad Summit meet",
-       "link": "https://www.hindustantimes.com/india-news/modi-is-a-very-tough-man-donald-trump-big-praise-during-quad-summit-meet-albanese-japan-australia-asean-video-101794912954712.html",
-       "publishedAt": "2026-11-17T16:30+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Quad Leaders Summit LIVE Updates: Quad trusted Partnership For India, Says PM Modi",
-     "link": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T19:48+05:30",
-     "score": 7.23,
-     "summary": "Quad Leaders Summit LIVE Updates: The Quad leaders, including PM Narendra Modi,US President Donald Trump, Australian Prime Minister Anthony Albanese and Japanese Prime Minister Sanae Takaichi, will participate in a meeting in Manila, Philippines.",
-     "image": "https://c.ndtvimg.com/2026-11/djt6vhu_trump_625x300_17_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Quad Leaders Summit LIVE Updates: Quad trusted Partnership For India, Says PM Modi",
-       "link": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
-       "publishedAt": "2026-11-17T18:17+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "‘Constructive and trusted’: PM Modi on Quad partnership at Manila Summit",
-       "link": "https://www.hindustantimes.com/india-news/constructive-and-trusted-partnership-pm-modi-on-quad-partnership-at-manila-summit-101794913706456.html",
-       "publishedAt": "2026-11-17T16:42+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "ASEAN Summit LIVE updates: Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUI0eEc4ZGlHdHRTeG4yQUJzTTNFdmZWTWlIb1NVZmg0ZlMyQkJwaVFISm42NUw2YzZzNHhFLTVRZHBpU0hhUWtiZ3pJQ2NYTzRfTmNhWEM5SFVWcUhraUVZMGMyeGdaUklBT0NvQVhmb2pqSVdEdk1IcGgzMzJ0YjZqeFlLUkkzRU1Ydlc5SmViQlVGaS11c0hmYlJmUUxVRXVtT0V2aUZ2aWtoNDVrclVpTVYzdkdZQmotY3gxNWJHVFpLLWJNRmhyb2Q3UF9iTmpRSTZDOWFtMUEzR3dLdnM1aXljdFNiZ2hj?oc=5",
-       "publishedAt": "2026-11-17T19:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR0FJbHZvdFBoTndtbkdRTEhNLVFkU0hUSHB2alpacEkwVTBXdm5HNll6TERuMmlJeGFUZU1kYjFkNlBsU2Vfa0owZ3QtT1R3cW9VS0JhRl83eWF4QkloTEFOS3NXNkZnQmk2b0g3ZGE0aVh0TmljOGdpOXgzcTJNdzJMaEMwQnZXM3YtakNZbUZkRU9YRUE0aTdIMGk3X1A1VXl0VGZZRjJuZE9SSDFEMDR0LXlNRUhQWnoxdVduLTRZOTJiOFJXMWFNR252U0J4WE53OWJRLV8tc3Rp0gHjAUFVX3lxTE8wOEJZRXhfZ0tTaVpucUNPZG9XMjRlOVFlWTc1U2lRalJjbWl0Q2ppZElma2NaTTJJcDdTWUpGdTA0RTdva0VmSC1ocWU5NzNjai1tVnNTRThPVGJyNXloSG9vQ3pyZzBIY3NEWThoazBiVnMxclVNTkg4OUNVTU1NQmVxd3VMSGZXWFhsYmNJWFFjQ1E0alNNNTRyTVVkN0loU3hLaUFjVHpKQTU1ZmZST3JsWmJDR3FiMmoweXMxM05uRlk4dHl6Y2RDV29GRXZJdTBCODVjTnFIVFNIZkxuSGZV?oc=5",
-     "source": "The Hindu",
-     "sources": [
-      "BBC",
-      "Bloomberg.com",
-      "CNBC",
-      "The Hindu",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-17T18:26+05:30",
-     "score": 7.01,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
-       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR0FJbHZvdFBoTndtbkdRTEhNLVFkU0hUSHB2alpacEkwVTBXdm5HNll6TERuMmlJeGFUZU1kYjFkNlBsU2Vfa0owZ3QtT1R3cW9VS0JhRl83eWF4QkloTEFOS3NXNkZnQmk2b0g3ZGE0aVh0TmljOGdpOXgzcTJNdzJMaEMwQnZXM3YtakNZbUZkRU9YRUE0aTdIMGk3X1A1VXl0VGZZRjJuZE9SSDFEMDR0LXlNRUhQWnoxdVduLTRZOTJiOFJXMWFNR252U0J4WE53OWJRLV8tc3Rp0gHjAUFVX3lxTE8wOEJZRXhfZ0tTaVpucUNPZG9XMjRlOVFlWTc1U2lRalJjbWl0Q2ppZElma2NaTTJJcDdTWUpGdTA0RTdva0VmSC1ocWU5NzNjai1tVnNTRThPVGJyNXloSG9vQ3pyZzBIY3NEWThoazBiVnMxclVNTkg4OUNVTU1NQmVxd3VMSGZXWFhsYmNJWFFjQ1E0alNNNTRyTVVkN0loU3hLaUFjVHpKQTU1ZmZST3JsWmJDR3FiMmoweXMxM05uRlk4dHl6Y2RDV29GRXZJdTBCODVjTnFIVFNIZkxuSGZV?oc=5",
-       "publishedAt": "2026-11-17T18:26+05:30"
       }
      ]
     }
