@@ -1,6 +1,206 @@
 {
- "updated": "2026-11-26T15:38+05:30",
+ "updated": "2026-11-26T17:29+05:30",
  "hours": [
+  {
+   "hour": "2026-11-26T17:00+05:30",
+   "generatedAt": "2026-11-26T17:29+05:30",
+   "feeds": 16,
+   "headlines": 350,
+   "stories": [
+    {
+     "title": "36 best Black Friday phone deals: iPhone Air, Google Pixel 11 Pro, and more",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVlpjQ2Rfb2JNS2xjVzIxMDVITjFhUUxWVWZQS25Fc3lSbFRLN0hfNXRBcmFxZlFXUkJtbUJueFpxMlBJMEJFVWpoZ2h3Y3dnX3YwdmxtdkxTY1ljaWlNOXZ1b3VnTTVyQkgtbWJBQkdGcEF5elU2UQ?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "Android Police",
+      "EQS News",
+      "Mashable",
+      "PCMag",
+      "PR Newswire",
+      "PR Newswire UK",
+      "RTINGS.com",
+      "ZDNET",
+      "samsung.com"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-26T15:53+05:30",
+     "score": 9.82,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "36 best Black Friday phone deals: iPhone Air, Google Pixel 11 Pro, and more",
+       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVlpjQ2Rfb2JNS2xjVzIxMDVITjFhUUxWVWZQS25Fc3lSbFRLN0hfNXRBcmFxZlFXUkJtbUJueFpxMlBJMEJFVWpoZ2h3Y3dnX3YwdmxtdkxTY1ljaWlNOXZ1b3VnTTVyQkgtbWJBQkdGcEF5elU2UQ?oc=5",
+       "publishedAt": "2026-11-26T15:53+05:30"
+      },
+      {
+       "source": "EQS News",
+       "title": "JMGO Announces Black Friday Deals with Up to 59% Off | Corporate",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTFl3NC1WS1p6dVhXT3lHdHdsaXZydktYN05ZTXpwakJDZ1Bhb2JrYW9IRmJkREJTQzF1MExXUHoxVktqZFUxQ3AzT2FUX0JhTmxpWUZETl9CU2RoSUg5SF9UaE5wR3FXWjlBSGhNWWFUaDZoM05FY1g1eUFfU3lVd2hJdkRzSFFmMnRJTlhsQi1VaVFxdlFIOEdwb25oNzVERWZVb0U1WHVLczd1RVVWUFRlX2tBZVUtaDJ5OGJzcV9MR09JS1VlTjltRQ?oc=5",
+       "publishedAt": "2026-11-26T12:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Jo Bachay… government warns Netflix on Pakistani series",
+     "link": "https://www.thehindu.com/news/national/jo-bachay...-government-warns-netflix-on-pakistani-series/article71745740.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "Scroll.in",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T15:42+05:30",
+     "score": 9.2,
+     "summary": "According to official sources, the government warned Netflix that the 2025 advisory banning Pakistan-origin content from streaming platforms was still in effect",
+     "image": "https://th-i.thgim.com/public/incoming/mfbd1a/article71745757.ece/alternates/LANDSCAPE_1200/2026-10-19T101146Z_1836046113_RC29EJAK8WVW_RTRMADP_3_NETFLIX-RESULTS.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Jo Bachay… government warns Netflix on Pakistani series",
+       "link": "https://www.thehindu.com/news/national/jo-bachay...-government-warns-netflix-on-pakistani-series/article71745740.ece",
+       "publishedAt": "2026-11-26T15:42+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Govt tells Netflix not to stream Pak series 'Jo Bachay Hain Sang Samait Lo' in India",
+       "link": "https://timesofindia.indiatimes.com/india/centre-tells-netflix-to-honour-commitment-not-stream-pakistani-series-jo-bachay-hain-sang-samait-lo-in-india/articleshow/136181655.cms",
+       "publishedAt": "2026-11-26T12:33+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Centre reminds Netflix not to stream Pakistani content amid complaints over ‘Jo Bachay Hain Sang Samait Lo’ show",
+       "link": "https://www.hindustantimes.com/india-news/centre-reminds-netflix-not-to-stream-pakistani-content-in-india-amid-complaints-over-fawad-khan-mahira-khan-jo-bachay-hain-sang-samait-lo-101795675015699.html",
+       "publishedAt": "2026-11-26T12:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "RSSB CET 12th Level Admit Card 2026 LIVE: Download Rajasthan CET Exam Hall Ticket PDF at rssb.rajasthan.gov.in",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRThsaFctUjFJaEtrR3dCbFRIeTIyOGZEOUJ5WXpfQ0lMRXVaeThBTTJmWEdVR2NUR1Uta0NKN1FOcWpwNHlHWk1WVWZoTU9JZnlTS1M4LWpLaHFOQ0tDTWU4YmVYZEo0bTUzRHBYWWlrRUlUZUFFX3JqdGw0RE1kOTd2UzRUVmVReUN1Nlo5NXpFSFdFVzE0MzAteFpfMDVDXzlfZjVzSExBTDRVaENfeWZGaU1ZSFpLXzZfUHRHM1M2ZHlZcUlaVFp0b1lIQ2F1cXFiNzNRRDRyTVdfTUpQTWxUa0U4eVhs?oc=5",
+     "source": "Jagran Josh",
+     "sources": [
+      "Adda247",
+      "Dainik Bhaskar",
+      "Jagran Josh",
+      "News18 Hindi",
+      "PW",
+      "Prabhat Khabar",
+      "The Economic Times",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-26T17:19+05:30",
+     "score": 9.05,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Jagran Josh",
+       "title": "RSSB CET 12th Level Admit Card 2026 LIVE: Download Rajasthan CET Exam Hall Ticket PDF at rssb.rajasthan.gov.in",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRThsaFctUjFJaEtrR3dCbFRIeTIyOGZEOUJ5WXpfQ0lMRXVaeThBTTJmWEdVR2NUR1Uta0NKN1FOcWpwNHlHWk1WVWZoTU9JZnlTS1M4LWpLaHFOQ0tDTWU4YmVYZEo0bTUzRHBYWWlrRUlUZUFFX3JqdGw0RE1kOTd2UzRUVmVReUN1Nlo5NXpFSFdFVzE0MzAteFpfMDVDXzlfZjVzSExBTDRVaENfeWZGaU1ZSFpLXzZfUHRHM1M2ZHlZcUlaVFp0b1lIQ2F1cXFiNzNRRDRyTVdfTUpQTWxUa0U4eVhs?oc=5",
+       "publishedAt": "2026-11-26T17:19+05:30"
+      },
+      {
+       "source": "Adda247",
+       "title": "RSSB CET 12th Level Admit Card 2026 Out Today at recruitment.rajasthan.gov.in, Download Hall Ticket PDF",
+       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xanVCUU9aMlRNRFFDb2dxeDlsM21oT0xwaWVfV2liOHhzMWR5QjRhWm13SDFSY1VqeDRHRGF1bkxVNFRaVXdoSkkyV0JnQU96WTBKYU9HMFVNWDVQTG9pUUNZazhjelc2Y2pxWEpqRlN2UGc?oc=5",
+       "publishedAt": "2026-11-26T13:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Mumbai Police issued Look Out Circular against CJP's Saurav Das: Centre tells Delhi HC",
+     "link": "https://www.thehindu.com/news/national/mumbai-police-issued-look-out-circular-against-cjps-saurav-das-centre-tells-delhi-hc/article71745604.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The Quint",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T17:05+05:30",
+     "score": 8.69,
+     "summary": "Additional Solicitor General Chetan Sharma said the travel advisory issued to Mr. Das was in his own interest, as he could face serious complications if the passport authorities subsequently found his explanation unsatisfactory",
+     "image": "https://th-i.thgim.com/public/incoming/dyn4le/article71745634.ece/alternates/LANDSCAPE_1200/CJP%20PC%20SAURAV%20DAS%2017.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Mumbai Police issued Look Out Circular against CJP's Saurav Das: Centre tells Delhi HC",
+       "link": "https://www.thehindu.com/news/national/mumbai-police-issued-look-out-circular-against-cjps-saurav-das-centre-tells-delhi-hc/article71745604.ece",
+       "publishedAt": "2026-11-26T17:05+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Saurav Das was stopped at airport over Mumbai Police lookout notice, Centre tells HC",
+       "link": "https://timesofindia.indiatimes.com/india/delhi-hc-seeks-centres-response-on-cjp-leader-saurav-dass-plea-over-london-travel/articleshow/136181118.cms",
+       "publishedAt": "2026-11-26T11:57+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Look Out Circular issued against CJP’s Saurav Das at Maharashtra Police’s request: Centre to HC",
+       "link": "https://www.hindustantimes.com/india-news/look-out-circular-issued-against-cjp-s-saurav-das-at-maharashtra-police-s-request-centre-to-hc-101795672099321.html",
+       "publishedAt": "2026-11-26T11:39+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Look Out Circular Issued Against Saurav Das; Passport Discrepancies May Have Bearing On His Citizenship:...",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmJNNUFZbThZSUZKVmZ2YXdpUVlOMXUxTEZxZHpzUUNHR3RkcXBEX1dzLVNJMEVyb09sdGowSzVuSzM4UXhrcEFzVXd4LUhGNHMxakJxTHdBdzNBdFR4aDRUdnBROHk4aVhLTjZKdmdMRFlTeHpwN1E3MGVEY1ludVpOMTAyXzI4NmhoU2ZJQTlwV2hIZkN5dnRJVi1pTnFON1ZUUWNYU0xURFnSAbABQVVfeXFMT2JVNGh3bDU4azdDdnM1TXMyLXE5cmZzdU9zMndISHBvRXllb2dpSElOZzRLVzAzWkp4U0prZUtob19rTFlYY1JnbE1OUE8yMld3a3IyWGxxZ0NGUjFkNHg5RGJQVkVidUdUUHdqbFB1cGZZSWtUZFBfU0VUOURtTS1VSVVzUDVYVElDS3Q0QzFVZmp1d1lZUFh2T2RUVTM4WjV1cEduUWNzUENwUG1BNW4?oc=5",
+       "publishedAt": "2026-11-26T11:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Seven hurt in Bangkok oil facility explosion",
+     "link": "https://economictimes.indiatimes.com/nri/latest-updates/bangkok-oil-depot-explosion-injures-seven-four-critical-nearby-schools-evacuated-as-fire-breaks-out/articleshow/136186497.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "AP News",
+      "Al Jazeera",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T15:58+05:30",
+     "score": 8.5,
+     "summary": "A Large explosion at an oil depot in Bangkok sent flames and smoke into the sky.",
+     "image": "https://static.toiimg.com/photo/msid-136184341,imgsize-9079440.cms",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Seven hurt in Bangkok oil facility explosion",
+       "link": "https://economictimes.indiatimes.com/nri/latest-updates/bangkok-oil-depot-explosion-injures-seven-four-critical-nearby-schools-evacuated-as-fire-breaks-out/articleshow/136186497.cms",
+       "publishedAt": "2026-11-26T15:36+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Explosion rocks Bangkok oil depot",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss",
+       "publishedAt": "2026-11-26T15:00+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Large explosion, fire at oil depot in Bangkok; nearby residents told to evacuate",
+       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/large-explosion-fire-at-oil-depot-in-bangkok-nearby-residents-told-to-evacuate/articleshow/136184137.cms",
+       "publishedAt": "2026-11-26T14:01+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-26T15:00+05:30",
    "generatedAt": "2026-11-26T15:38+05:30",
@@ -29405,184 +29605,6 @@
        "title": "Supreme Court Refuses ED's Plea To Stay Azam Khan's Interim Bail, Agrees To Hear Tomorrow",
        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTlRuR1plVGNQSjhZY2xqQjVOMVNJVE40YkNxVXZJVXJwS1I4Um4zVXJ5RkU2QmQ2dGlFYm1pYVhJaXUwZy1xTUd6VmVoN3oyODZhOTV1aEJiRUxObzVQaGZRd3ZXY20xa1NseGgzVXlGTXQzc0JWVFJ5T2Y5Y3cyZk9aZW1UajBvaGtVNjBoOW1TUFlaa0hPYTQzVkXSAaIBQVVfeXFMTjYtQ192Q01ZTmpYTjNoamFRdXNYazlkQTJaOTFUNWFtNjMtdEJmdU5hTHV4V0xiNnNxT0xwb255MUw5RkJTYzNhTngwYkNJTi1HcFlSRVNoSkFrZ20yVXZpdU1CSWJkT0dzT0VPanE0QTRvQU8wdnlrRG95LUxIdjROTTA5MG1aU2RNQjFuSTBreUpBVzZmWkZpM081VTZNVGl3?oc=5",
        "publishedAt": "2026-11-18T11:25+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T14:00+05:30",
-   "generatedAt": "2026-11-18T14:29+05:30",
-   "feeds": 16,
-   "headlines": 321,
-   "stories": [
-    {
-     "title": "Apec summit live: Xi and Putin start talks as Trump arrives in China",
-     "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-     "source": "The Guardian",
-     "sources": [
-      "Al Jazeera",
-      "Anadolu Ajansı",
-      "BBC",
-      "CNBC",
-      "Hindustan Times",
-      "The Guardian",
-      "The Hindu",
-      "The New York Times",
-      "Xinhua",
-      "russia's pivot to asia"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-18T14:26+05:30",
-     "score": 11.12,
-     "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about…",
-     "image": "https://i.guim.co.uk/img/media/0011d23e2098b25ad493ea535b2c96ddaa8ef28f/579_0_4411_3529/master/4411.jpg?width=140&quality=85&auto=format&fit=max&s=180a577985f10c7f06326a8c211ecf87",
-     "articles": [
-      {
-       "source": "The Guardian",
-       "title": "Apec summit live: Xi and Putin start talks as Trump arrives in China",
-       "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-       "publishedAt": "2026-11-18T14:18+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Apec Summit LIVE updates: Trump en route to Shenzhen; Xi, Putin conclude bilateral talks after two hours | Hindustan Times",
-       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMGJXdkNFYlM4dGJ4TFNyV01LTHJLem92VkFfTXExeE1nS2ZBelhPZUFlN1NJMzVmaVNHNWZfS1psTTMxeWd5YjFTdHFvSXduTkpNckR3RTJSb0hyMlJtdzFXRnZtaGZHNjg5U1dkVnNZWEh3Z0c5bmNZRmRSdWNMV2JlYTk3blVBY1RoSlFrUlZaRld2VDVnZm1EQTBhZFVNM3dfNFVtTi02bnBXMzVOcXAtWXhYS08tSFpyR2I0TTJ6Z2dhbGV6VDJaWXBFb0ZjNFRQOUNyUEg3VHJ4aUFTQ2RLLWF6Ykp3S0d2U2JUQkFlLWxDZGZj0gH8AUFVX3lxTE5ISVhPZElqZGFnT1NWd1ZaeEFILWFNcUV5bmZQeThCTWVXdFlFYXF5WXFMNERlbUxfS1psNmY2alhrbnYyUnJfQ3ZjVjE3dC04dmxHYi1ZQ0gyNlJEb2VOS3JWNnE3c3ByZTJCLVhSbEFvTGt1YklTOWs2RDA0ejVXMlZOOW5QNHpQaWJjdFJoS1J5LXVRbklhZkoydUw1ZHVqSm5DYUdIYnFtbkNscEN4ZG8tNHJtS2hWdFFiQ3lRN1RPNVMtS016UGtRMTMxYWpSU1N5NV91b1h1bXVTSnByN1p6UDYzR0llRFhJbUFYdFVUYWtVZnpUcU85Zw?oc=5",
-       "publishedAt": "2026-11-18T14:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Gold, silver rates today: Check prices across brands",
-     "link": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-check-18k-20k-24k-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas-delhi-hyderabad-bengaluru/articleshow/135949736.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Inshorts",
-      "Livemint",
-      "Rediff",
-      "The Economic Times",
-      "The Shillong Times",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T10:34+05:30",
-     "score": 7.85,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Gold, silver rates today: Check prices across brands",
-       "link": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-check-18k-20k-24k-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas-delhi-hyderabad-bengaluru/articleshow/135949736.cms",
-       "publishedAt": "2026-11-18T10:34+05:30"
-      },
-      {
-       "source": "Livemint",
-       "title": "Gold, silver prices today 18 Nov Wednesday: Check 24K, 22K yellow metal and 999 silver rates in Delhi, Mumbai, Kolkata",
-       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNU1J3aHNldXBmVGlxeFVoM1hVZDBJZWpPNXV1cjQ0azRTLWFrbUFiVkhORGFHSmgtcUlXR1FpNmxmSmZCU2hqdlNJZmJOdlhOUDRSWEZITVRDS1VhbXVsTmgyTGZUbnVwdnRlWjNhQjd0RTlYZXRQTENKMWhnSWtzZFJSTm42Slhyc2VGeGdhZkZBcmJJdTFRbDI1eDhJSGwxd3hLazFXLWFIVWVCWjdpUWVKMlFpQmhXcmlpNnZpN3hhQ1FMS24zS3dmMU8wbVdxOFVRMS13WUQzUlJUU1NudXQwb081MjhsVWM1RFpyWHRGMHhhZThpZ1dZUVIzblZYTkNULUVPUy1ic08zeWfSAZMCQVVfeXFMTk13LXpmOFBaTGJPdENTdDJzMG95QVNNQkpVRkVrbV96LVAtUW9rZXhaeWtNUVhsdlNySl9IbnBwOHFCMHlGTjRpLWVLZC1wbHNOTlhNMHlHSmNFUnRfMWFmazBMQ21fWGpISWRhTnVHODBHNWQ4TDBSUEJodFFGczBIQlZGc0FaUmYyNEZub2FydWVYQ3pZM2t2NUpCTlh2Xzk0WFI0VF9EbXdTR3NpdmtCam5ZelR5bURkZklkV0lpendaT1RLWlZITUdoM2lBSHc1clVTaTRJMGxHSE9FcnRnZlBrQnVRakVTRDlTdzZGSWp1Wmk5ZHpWTDg1WC1QVkZwMzQ4WHZ2M0xXTXJDS1lTT0U?oc=5",
-       "publishedAt": "2026-11-18T09:35+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Big potential benefit': Putin backs trilateral talks with Trump, Xi on APEC sidelines",
-     "link": "https://timesofindia.indiatimes.com/world/china/big-potential-benefit-putin-backs-trilateral-talks-with-trump-xi-on-apec-sidelines/articleshow/135951139.cms",
-     "source": "Times of India",
-     "sources": [
-      "CNBC",
-      "Financial Times",
-      "Reuters",
-      "The Guardian",
-      "The Hindu",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T11:25+05:30",
-     "score": 7.24,
-     "summary": "Russian President Vladimir Putin expects substantial benefits from the upcoming trilateral meeting with US President Donald Trump and Chinese President Xi Jinping. The discussions are set to occur during the Apec summit in Shenzhen, China. Putin aims to strengthen Russia's diplomatic position while addressing the war in Ukraine. However, there are differing agendas that could complicate the talks, particularly…",
-     "image": "https://static.toiimg.com/photo/msid-135951174,imgsize-1356264.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Big potential benefit': Putin backs trilateral talks with Trump, Xi on APEC sidelines",
-       "link": "https://timesofindia.indiatimes.com/world/china/big-potential-benefit-putin-backs-trilateral-talks-with-trump-xi-on-apec-sidelines/articleshow/135951139.cms",
-       "publishedAt": "2026-11-18T11:25+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1FfUS1OenA3M3Y5X29pUkxZUU1MbXdnaDlwNmtGd2RJaktuV2J6LTdVUTBwLW5OR0VEMUNKUlNRQjBDdkxMM2duWTlrQmNVdjFJalhHQUM4UVlUWGNnc2Y4dUJPa1FzSFN4QkxJREZqLVExdWFCOUNzWnllMVRTb3gzdE5XSUZBMlpjTzNiTzVvYUhyaUlENWlBdmlZUFNFWEI0dkM3Ql9ZWmVUR1FuRUtqYjFjdEREVVhqX2czWHdlNVk?oc=5",
-       "publishedAt": "2026-11-18T09:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Supreme Court declines status quo against High Court allowing interim bail to Azam Khan",
-     "link": "https://www.thehindu.com/news/national/azam-khan-supreme-court-ed-interim-bail/article71714741.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Bar and Bench",
-      "Deccan Herald",
-      "Hindustan Times",
-      "Live Law",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T14:08+05:30",
-     "score": 7.05,
-     "summary": "Supreme Court agrees to hear ED appeal against bail on November 19",
-     "image": "https://th-i.thgim.com/public/incoming/402ti7/article71714755.ece/alternates/LANDSCAPE_1200/PTI11_16_2026_000205A.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Supreme Court declines status quo against High Court allowing interim bail to Azam Khan",
-       "link": "https://www.thehindu.com/news/national/azam-khan-supreme-court-ed-interim-bail/article71714741.ece",
-       "publishedAt": "2026-11-18T14:08+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Heavens are not going to fall: SC after ED challenges Azam Khan's interim bail",
-       "link": "https://www.hindustantimes.com/india-news/heavens-are-not-going-to-fall-sc-after-ed-challenges-azam-khan-s-interim-bail-101794986686789.html",
-       "publishedAt": "2026-11-18T12:54+05:30"
-      },
-      {
-       "source": "Bar and Bench",
-       "title": "\"Heavens will not fall\": Supreme Court refuses to stay interim bail to Azam Khan in ED case",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWV9rNzk4Vmc0MzYxV19DTS0zWVBHT3poS3JlN2RsYnRINndXeV9Fa0NWQ0hVcmFpbmF4bTIxYXdCUExRbG5JUjEzMVg4RnhNem4tS3daNnhmNWlqbVU4cWVGNml4NTNpZU5KQ2x1clhHRDRGMmFEa0h3aC1IN0c4X25La1YzQkFJdXlZc3lramVoZGVGWE91N1NETEctUktzTERPdVNaTHo0aGNWbHB2bUpYWHQzOEZjYU5pQzZR0gHLAUFVX3lxTE5tT0tVVHpIUWlTVXNUNy1ycmdoRFlrNzhyYWRvVDM4TEpRSXk5RDZRNUZGZ2RXNVV6UWZocl9jcGJGeWwzakI1QmZTcl9sZTBGbFk1Z3VlQjBWU3VhRUlMQUdxdzI0Wko2dWNXREdUcVhLNmpDU0JqQTJGVnVZYVJVbHZJV053eXkzVDRWVmNCU3VXSFFxMlNfeDBSWjhETWZIYm5KV1d2NmZkdnZWRlVDRHpSb3VfbHNUUFlOMS0yaVU4VG5NUnVVTnU0?oc=5",
-       "publishedAt": "2026-11-18T11:42+05:30"
-      }
-     ]
-    },
-    {
-     "title": "‘India sitting on an economic disaster’: Rahul Gandhi at Columbia University; BJP hits back",
-     "link": "https://www.hindustantimes.com/india-news/india-sitting-on-an-economic-disaster-rahul-at-columbia-university-bjp-hits-back-101794986053627.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Deccan Herald",
-      "Hindustan Times",
-      "NDTV",
-      "The Hindu",
-      "The New Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T13:40+05:30",
-     "score": 7.0,
-     "summary": "Rahul Gandhi also noted that India’s lower costs and larger population made it relatively easier for the country to provide jobs for its youth.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/PTI11-18-2026-000026B-0_1794987292038_nnGf_1794987309729_CNJJ_dd42c4bd-3e81-44f4-9cd1-8dbe248b1dff_6vpu.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "‘India sitting on an economic disaster’: Rahul Gandhi at Columbia University; BJP hits back",
-       "link": "https://www.hindustantimes.com/india-news/india-sitting-on-an-economic-disaster-rahul-at-columbia-university-bjp-hits-back-101794986053627.html",
-       "publishedAt": "2026-11-18T13:40+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Leader of anti-India propaganda: BJP targets Rahul over his remarks at Columbia University",
-       "link": "https://www.thehindu.com/news/national/leader-of-anti-india-propaganda-bjp-targets-rahul-over-his-remarks-at-columbia-university/article71714705.ece",
-       "publishedAt": "2026-11-18T11:53+05:30"
       }
      ]
     }
