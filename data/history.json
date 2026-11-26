@@ -1,6 +1,199 @@
 {
- "updated": "2026-11-26T23:27+05:30",
+ "updated": "2026-11-27T00:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T00:00+05:30",
+   "generatedAt": "2026-11-27T00:26+05:30",
+   "feeds": 16,
+   "headlines": 278,
+   "stories": [
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 7",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk4zN3FOMFpQOHJuamY5NHVlSWtjRXVDSkU5Z3dRZ1F0bUNWZF9LOEhOYXR3SlRHMndXWWJvZ29TWVo0bnVNVDFZOTk1SWVOdTJyT0pRRUpOWTFHVEJuVUhoMGJFcjVKNDRiTkNDeHhRQzhsNG5EM3JvVDh4UEVjV0lTeEk4dFQwRmFGVXVB?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "IMDb",
+      "India Today",
+      "NDTV",
+      "Rediff.com",
+      "Sacnilk",
+      "Telegraph India",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-26T21:48+05:30",
+     "score": 11.06,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk4zN3FOMFpQOHJuamY5NHVlSWtjRXVDSkU5Z3dRZ1F0bUNWZF9LOEhOYXR3SlRHMndXWWJvZ29TWVo0bnVNVDFZOTk1SWVOdTJyT0pRRUpOWTFHVEJuVUhoMGJFcjVKNDRiTkNDeHhRQzhsNG5EM3JvVDh4UEVjV0lTeEk4dFQwRmFGVXVB?oc=5",
+       "publishedAt": "2026-11-26T21:48+05:30"
+      },
+      {
+       "source": "IMDb",
+       "title": "Ramayana Box Office Collection Day 21: Less Than 16 Crore Away From Entering India’s Top 3 Grossers!",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rckdKVUdwOUJfVUZUamN0OUljUmQwT3J6WEJuWUhiV0V3RDI2UFMzOWU5Y1JBRG9GWmJVa0FkSUFMMlhBVHZjeFRnV1o5U1dwZlNmekJkd2VlakhKckc1YVFB?oc=5",
+       "publishedAt": "2026-11-26T18:42+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Parliament Reconvenes From November 30 For Centre's Big Delimitation Move",
+     "link": "https://www.ndtv.com/india-news/amid-delimitation-womens-quota-bill-buzz-centre-seeks-to-reconvene-parliament-from-november-30-12381318#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T23:18+05:30",
+     "score": 9.31,
+     "summary": "A formula to raise seats by a flat 50 per cent can address one fear of southern states. But another fear remains, even as Congress-led Opposition sees fragmentation that could help the BJP-led NDA push the constitutional amendments through after all.",
+     "image": "https://c.ndtvimg.com/2023-07/7ko6i7hc_new-parliament-ani-new-lok-sabha-ani_625x300_01_July_23.jpg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Parliament Reconvenes From November 30 For Centre's Big Delimitation Move",
+       "link": "https://www.ndtv.com/india-news/amid-delimitation-womens-quota-bill-buzz-centre-seeks-to-reconvene-parliament-from-november-30-12381318#publisher=newsstand",
+       "publishedAt": "2026-11-26T23:18+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30",
+       "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+       "publishedAt": "2026-11-26T22:39+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Centre seeks three-day special sitting of Parliament from 30 November",
+       "link": "https://www.livemint.com/news/centre-seeks-three-day-special-sitting-of-parliament-from-30-november-11795704288485.html",
+       "publishedAt": "2026-11-26T21:38+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Understanding the debate over delimitation and women’s quota as Centre proposes special Parliament sitting",
+       "link": "https://www.hindustantimes.com/india-news/understanding-the-debate-over-delimitation-and-women-s-quota-as-centre-proposes-special-parliament-sitting-101795708434941.html",
+       "publishedAt": "2026-11-26T21:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gunmaaster G9 Box Office Day 1 Advance Booking: Emraan Hashmi Starrer Sells Close To 14K Tickets Nationwide",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hU1htNkotMEFldVFxUDVqUmRyRVNwdHdrY0ZrNTVVcFg4dFNhTzBEdFV3N0tzUkstYndzTDhCWGFPdGk4LUpydFA1Wkp3Mi1wZzZJVWl4Y2VmUjFXQmxSUXVR?oc=5",
+     "source": "IMDb",
+     "sources": [
+      "Bollywood Hungama",
+      "IMDb",
+      "India Today",
+      "NDTV",
+      "Nagaland Post",
+      "Sacnilk",
+      "The Times of India",
+      "theopenpress.in"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-26T23:31+05:30",
+     "score": 9.1,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "IMDb",
+       "title": "Gunmaaster G9 Box Office Day 1 Advance Booking: Emraan Hashmi Starrer Sells Close To 14K Tickets Nationwide",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hU1htNkotMEFldVFxUDVqUmRyRVNwdHdrY0ZrNTVVcFg4dFNhTzBEdFV3N0tzUkstYndzTDhCWGFPdGk4LUpydFA1Wkp3Mi1wZzZJVWl4Y2VmUjFXQmxSUXVR?oc=5",
+       "publishedAt": "2026-11-26T23:31+05:30"
+      },
+      {
+       "source": "Sacnilk",
+       "title": "O.M Operation Mole Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjEzeDdkX2RKYWc2TTNNVTMxQUstX1ZETlVaN0pVZ0RDQ0l6UWstTUt2b3c0bFNIRkNGaTVvMi1ycHQ3ZW81bWJ0U1drX25kSHVqV0s3VEVqZWItS2c5U2xsNVB1V1JEa2NrRm9IWTFWTU8xaktWS1hvZW9lLXhOcTNKQVZlcU8xV21QaFVKVjA?oc=5",
+       "publishedAt": "2026-11-26T21:18+05:30"
+      }
+     ]
+    },
+    {
+     "title": "No Question Hour, Zero Hour during special 4-day Parliament sitting",
+     "link": "https://www.hindustantimes.com/india-news/no-question-hour-zero-hour-lok-sabha-rajya-sabha-share-details-of-special-parliament-sitting-101795714198643.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "ThePrint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T23:02+05:30",
+     "score": 8.27,
+     "summary": "Union minister Kiren Rijiju had earlier said the government had requested the Lok Sabha speaker and Rajya Sabha chairman to reconvene the two Houses.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/26/1600x900/lok_1795714300449_8GJq_1795714300564_R4X7_c7581c5f-4eb5-4949-b3d2-1fa8ff8ce07c_39gb.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "No Question Hour, Zero Hour during special 4-day Parliament sitting",
+       "link": "https://www.hindustantimes.com/india-news/no-question-hour-zero-hour-lok-sabha-rajya-sabha-share-details-of-special-parliament-sitting-101795714198643.html",
+       "publishedAt": "2026-11-26T23:02+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Government proposes special sitting of Parliament from November 30",
+       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVVXeUROenNyelhVTFhKMDNFTUxfS011NHQ2Y2VNbFA5a01KcEtEUWtMNjE0RXNpR1JEckwxMzN2RzBOU0EwaEp0Q1ViQWFLQzdEeXF1dFVuRjlkVHJVdlRJbFlNN1BMMTJkTWM2Sk5RZ3BibTY0VU5DMXRUZllPTEtsVmVPNXFyUGdNVmFDcG1rM3h0LTI4bGduZGpDYUlzWERVanh6VGRzMWFMYzZfR3ZqNUNjVmt2TDI2Y09BZF9aOXNRZExuRVoxZlZKdGtLRTdB0gHaAUFVX3lxTFBmMDU4Ykh1NjNLTm1iamI4UXVnQ2RnU3BvUDBiOThUT2tsYmNiT1UtZ0VVS2ZUR1NocHpyMG1WS1d6UzUyS29VaUZxZDV3WjVoYTVOMS14WWJRaXEzWndhZE9VR3h5LUV0MThqekFJSFRMdXByNU5ZVUdNRU1yOEJUZFAzR3ZIU3BvaGk4SzcyTmdJTlF3OXJxRjZTZDd0RkJ5NTJ0V2xBNkV6cVUzZV93d3F6VzRMdFVKc1pGNUFwemhRcEV5WmZLRnJBMjhWaHNTUzBGWnJCUUNn?oc=5",
+       "publishedAt": "2026-11-26T19:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Crude Oil Prices Today | OilPrice.com",
+      "Reuters",
+      "Telegraph India",
+      "ThePrint"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T21:26+05:30",
+     "score": 7.58,
+     "summary": "Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+       "publishedAt": "2026-11-26T21:26+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+       "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-26T20:47+05:30"
+      },
+      {
+       "source": "Crude Oil Prices Today | OilPrice.com",
+       "title": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVRYSzE0d0diSXFSd3RQNWxKZ09JNDJ6dHNyMlM2V25HUWFSVHdGMUlmbktZakFxb0I1eFg4M21VRUVVRnJQVUNEQXFTT2FHX0VlRE15RktYYk1hZFRpX1QzRzZ6aTFqNzdzMmEwd1VyS0NRZDhzWHg5Q1dOcjV4eEJXbllYZmtnQl9jblFQT25xcDV2d193bXd0WXliYkdjbGlMWmRuMXUweTF4T2fSAbMBQVVfeXFMTlVTakl6ZjFENlpVQVpBalk3NzRDTHVucndhbi01Q0hsWmgzSXZydEtXeTU3WFp4VlFTc3YtaHVESEE0ZDIyNlJ6SFUtVWR2QTN5RDJnd2RFUzZxZUhGMlhhUm9helNMU2JObk5PYWpjNGF2ZnFFeDlYQ1EzRDdzTWlzN2htZHJIcTlDRS1MdjFPWWJBX3J3UUhCazBQN0c3Slg4VHg3Tk5wQ2dVN3I2WW9oWEU?oc=5",
+       "publishedAt": "2026-11-26T20:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-26T23:00+05:30",
    "generatedAt": "2026-11-26T23:27+05:30",
@@ -29430,187 +29623,6 @@
        "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
        "publishedAt": "2026-11-18T20:00+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T21:00+05:30",
-   "generatedAt": "2026-11-18T21:27+05:30",
-   "feeds": 16,
-   "headlines": 330,
-   "stories": [
-    {
-     "title": "‘There is no safe space’: Steyn reacts to Bancroft’s Sandpapergate revelations",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-no-safe-space-dale-steyn-reacts-to-cameron-bancrofts-sandpapergate-revelations/articleshow/135964840.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricbuzz",
-      "Cricinfo",
-      "Cricket World",
-      "ESPN India",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T19:49+05:30",
-     "score": 8.23,
-     "summary": "Dale Steyn criticised the idea of a “safe space” for Cameron Bancroft after the Australian reopened the 2018 Sandpapergate scandal. Bancroft claimed the entire team knew about ball tampering and that he was made a scapegoat. He also admitted withholding details during Cricket Australia's investigation, saying the scandal and recent comments by Pat Cummins left him feeling betrayed.",
-     "image": "https://static.toiimg.com/photo/msid-135965658,imgsize-86937.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "‘There is no safe space’: Steyn reacts to Bancroft’s Sandpapergate revelations",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-no-safe-space-dale-steyn-reacts-to-cameron-bancrofts-sandpapergate-revelations/articleshow/135964840.cms",
-       "publishedAt": "2026-11-18T19:49+05:30"
-      },
-      {
-       "source": "Cricinfo",
-       "title": "The key takeaways from Cameron Bancroft's revelations about sandpapergate",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORHR0UjluV3hnYjRXTFFZYU1VVDFoVFNmbW05RDUxVlZLVFFNMXVmZUhORVowNm5QbWJLX0hpM09CcnMwR1dzbTY1Q21Cb21pNnFmOUVtWVN6Y2dBRHNjdEVKejVmWGdzQUVnMWVpRldybTlwSXJBREVjSHl3anJMS1l1RGZnQjhBM3AzaTJORmxmM183RVg3Ul9Xb3ZVNFVTQnVxdXY0c0EtclBBZTdZRnVR0gHDAUFVX3lxTE1EMGRpbmwxSUVSbWxTV0g1X1l0OTVLRS1sRDA4ZzVfaG8zbVBtVk4yZ2dpeC0xOXBhOVdRZmk5LV9HaGRIR0dNQWJhRklDSHJmY3RwRWVuSmZUU1hhMjZkS3FqTDQyTEF2VVBZVWl1aWRwNDU0amROSUNqRXNqZDFFNGYtenE4V2VPcE1RaWRKTWJnNERITjBYZ3hUVldxZ09yQWRlWjFZMGpBYi1FNTNOeFhvLUxNX3dFN3RBVGhkWDNuOA?oc=5",
-       "publishedAt": "2026-11-18T19:40+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Why India is imposing 162.5% duty on bulk Scotch imports despite India-UK trade pact cutting tariffs to 75%",
-     "link": "https://www.livemint.com/news/india/why-india-is-imposing-162-5-duty-on-bulk-scotch-imports-despite-india-uk-trade-pact-cutting-tariffs-to-75-11795010628919.html",
-     "source": "Mint",
-     "sources": [
-      "BusinessLine",
-      "Mint",
-      "Reuters",
-      "The Drinks Business",
-      "The Economic Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-18T20:18+05:30",
-     "score": 8.06,
-     "summary": "The higher duty, which exceeds the 150% tariff applicable before the trade pact, has raised concerns about shipment delays, working capital pressures and potential disruptions to India's $65 billion liquor market.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/scotch_1795013286142_hWBf_1795013302212_6UEd_e843898f-3934-4297-a125-ade7204ce2f2_p7r0.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Why India is imposing 162.5% duty on bulk Scotch imports despite India-UK trade pact cutting tariffs to 75%",
-       "link": "https://www.livemint.com/news/india/why-india-is-imposing-162-5-duty-on-bulk-scotch-imports-despite-india-uk-trade-pact-cutting-tariffs-to-75-11795010628919.html",
-       "publishedAt": "2026-11-18T20:18+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Scotch on the rocks? India imposes 162.5% duty, tax on bulk UK imports",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/scotch-on-the-rocks-india-imposes-162-5-duty-tax-on-bulk-uk-imports-domestic-production-likely-to-be-hit/articleshow/135961860.cms",
-       "publishedAt": "2026-11-18T17:07+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "162.5% duty to be charged on bulk Scotch imports",
-       "link": "https://economictimes.indiatimes.com/industry/cons-products/liquor/govt-to-charge-bulk-scotch-imports-162-5-duty-and-tax-amid-uk-pact-standoff-pernord-ricard/articleshow/135960324.cms",
-       "publishedAt": "2026-11-18T16:12+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
-       "publishedAt": "2026-11-18T18:27+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-     "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC",
-      "BBC News",
-      "Bloomberg.com",
-      "Eurogamer.net",
-      "IGN",
-      "The New York Times"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T20:27+05:30",
-     "score": 7.33,
-     "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-18T20:27+05:30"
-      },
-      {
-       "source": "BBC",
-       "title": "Grand Theft Auto 6: Reviews come in as worldwide release begins",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
-       "publishedAt": "2026-11-18T18:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Told Sourav there was something special': Sachin's message as Dhoni retires",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/told-sourav-there-was-something-special-sachin-tendulkars-heartfelt-message-as-ms-dhoni-retires-from-ipl/articleshow/135966220.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricbuzz",
-      "ESPN India",
-      "IPL",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T20:27+05:30",
-     "score": 7.33,
-     "summary": "MS Dhoni has officially retired from the Indian Premier League, concluding an incredible 19-season career. Embracing a new chapter, he will serve as a mentor for the Chennai Super Kings, a team he has long been associated with. The franchise expressed heartfelt appreciation for his legacy. Meanwhile, cricket legend Sachin Tendulkar took to social media to share fond memories, emphasizing Dhoni's vital contributions…",
-     "image": "https://static.toiimg.com/photo/msid-135966272,imgsize-85224.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Told Sourav there was something special': Sachin's message as Dhoni retires",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/told-sourav-there-was-something-special-sachin-tendulkars-heartfelt-message-as-ms-dhoni-retires-from-ipl/articleshow/135966220.cms",
-       "publishedAt": "2026-11-18T20:27+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Told Sourav there was something special': Sachin Tendulkar's heartfelt message as MS Dhoni retires from",
-       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORDE1cHFqN2sxVGo3aWRzOHF4OUdTTlFJdnA2MG1MbS1FbVBRRHJHdk83TmhYVEdtTHlIVlVOc0lXWGZubHBIWGJCd2QwNHNpQndaSTdVaWNlcjhTWlhiWndYT3lYNGwzODMxQWlCaWdTVzA4TGtUUmtSd0tZVlVyWndDWjBUcklSNkhTc3psVC1fdkYtcGRvRzJubTVoRDM5cGl6Qmd4SzNXMnFjbkx6Wmp5UnVRSjU3eEZlY1oyVjJQSldyeS12VV8wejIydDZqU3J3eGNyRFV0b1hRdzM2MnQ1NU0wNm40TmhSRTVXOUtuRVhUMTY4a1JqYjFuNGh4YlZITk9oRUtSNEJHX1oxS29lbVk?oc=5",
-       "publishedAt": "2026-11-18T20:27+05:30"
-      }
-     ]
-    },
-    {
-     "title": "US used expired missiles against Iran; navy gives odd 'stale bread' comparison",
-     "link": "https://timesofindia.indiatimes.com/defence/international/us-used-expired-missiles-in-op-epic-fury-against-iran-navy-officer-gives-odd-stale-bread-comparison/articleshow/135966025.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "CNBC",
-      "India Today",
-      "NDTV",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T20:11+05:30",
-     "score": 7.29,
-     "summary": "The US Navy recently acknowledged deploying expired munitions in operations against Iran. According to acting navy secretary Hung Cao, the military is dealing with dwindling weapon stockpiles. To address this, previously expired munitions were refurbished for operational use. However, utilizing outdated weapons poses risks, including safety concerns and the likelihood of failure to hit targets.",
-     "image": "https://static.toiimg.com/photo/msid-135966097,imgsize-60844.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "US used expired missiles against Iran; navy gives odd 'stale bread' comparison",
-       "link": "https://timesofindia.indiatimes.com/defence/international/us-used-expired-missiles-in-op-epic-fury-against-iran-navy-officer-gives-odd-stale-bread-comparison/articleshow/135966025.cms",
-       "publishedAt": "2026-11-18T20:11+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "US used expired missiles in Op Epic Fury against Iran; navy officer gives odd 'stale bread' comparison",
-       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZ0Z6Ymc2c1hGQWFLNE5XRFRVek9kMU5GSm1kTC1hV0tOMG8tQUdxUmpHaktxQ2ZqaUFSUjZLcFVlZndkTU8tVEI2U0x5TDZCSHR3blRqUFpjZXhBS1J4UlllSHZXOUplc3hHQ056S0REcHRXZ19QVzNQVVpiTHo3NkJqZk8tcmdwbk9uWTFWOGNFcDFmenNRa0lmSmptbE9ITVFzdVp4eVBBbmFTZjkyUHh1dUltNjl2WFh2ZUdlSDk2aHhRUXZsMzJHeVAzeVVlMGs3NkZ6eVFUMVJBVlpvdjJCX1lCbEQ2WXdvU0FTMW41aHY3QVVTTE5SLUd0Z1Y2Q1lxdEt2dHBsLVFpeTN4OA?oc=5",
-       "publishedAt": "2026-11-18T20:11+05:30"
       }
      ]
     }
