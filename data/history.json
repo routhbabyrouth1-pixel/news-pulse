@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-26T22:36+05:30",
+ "updated": "2026-11-26T23:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-26T23:00+05:30",
+   "generatedAt": "2026-11-26T23:27+05:30",
+   "feeds": 16,
+   "headlines": 281,
+   "stories": [
+    {
+     "title": "O.M Operation Mole Box Office Collection Day 7",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjEzeDdkX2RKYWc2TTNNVTMxQUstX1ZETlVaN0pVZ0RDQ0l6UWstTUt2b3c0bFNIRkNGaTVvMi1ycHQ3ZW81bWJ0U1drX25kSHVqV0s3VEVqZWItS2c5U2xsNVB1V1JEa2NrRm9IWTFWTU8xaktWS1hvZW9lLXhOcTNKQVZlcU8xV21QaFVKVjA?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Bollywood Hungama",
+      "IMDb",
+      "India TV News",
+      "India Today",
+      "Lensmen Reviews",
+      "NDTV",
+      "Nagaland Post",
+      "Sacnilk",
+      "Telegraph India",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-26T21:18+05:30",
+     "score": 13.14,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "O.M Operation Mole Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjEzeDdkX2RKYWc2TTNNVTMxQUstX1ZETlVaN0pVZ0RDQ0l6UWstTUt2b3c0bFNIRkNGaTVvMi1ycHQ3ZW81bWJ0U1drX25kSHVqV0s3VEVqZWItS2c5U2xsNVB1V1JEa2NrRm9IWTFWTU8xaktWS1hvZW9lLXhOcTNKQVZlcU8xV21QaFVKVjA?oc=5",
+       "publishedAt": "2026-11-26T21:18+05:30"
+      },
+      {
+       "source": "IMDb",
+       "title": "Gunmaaster G9 Box Office Day 1 Advance Booking: Emraan Hashmi Starrer Sells Close To 14K Tickets Nationwide",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hU1htNkotMEFldVFxUDVqUmRyRVNwdHdrY0ZrNTVVcFg4dFNhTzBEdFV3N0tzUkstYndzTDhCWGFPdGk4LUpydFA1Wkp3Mi1wZzZJVWl4Y2VmUjFXQmxSUXVR?oc=5",
+       "publishedAt": "2026-11-26T20:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Crude Oil Prices Today | OilPrice.com",
+      "Reuters",
+      "Telegraph India",
+      "ThePrint"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T21:26+05:30",
+     "score": 7.75,
+     "summary": "Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+       "publishedAt": "2026-11-26T21:26+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+       "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-26T20:47+05:30"
+      },
+      {
+       "source": "Crude Oil Prices Today | OilPrice.com",
+       "title": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVRYSzE0d0diSXFSd3RQNWxKZ09JNDJ6dHNyMlM2V25HUWFSVHdGMUlmbktZakFxb0I1eFg4M21VRUVVRnJQVUNEQXFTT2FHX0VlRE15RktYYk1hZFRpX1QzRzZ6aTFqNzdzMmEwd1VyS0NRZDhzWHg5Q1dOcjV4eEJXbllYZmtnQl9jblFQT25xcDV2d193bXd0WXliYkdjbGlMWmRuMXUweTF4T2fSAbMBQVVfeXFMTlVTakl6ZjFENlpVQVpBalk3NzRDTHVucndhbi01Q0hsWmgzSXZydEtXeTU3WFp4VlFTc3YtaHVESEE0ZDIyNlJ6SFUtVWR2QTN5RDJnd2RFUzZxZUhGMlhhUm9helNMU2JObk5PYWpjNGF2ZnFFeDlYQ1EzRDdzTWlzN2htZHJIcTlDRS1MdjFPWWJBX3J3UUhCazBQN0c3Slg4VHg3Tk5wQ2dVN3I2WW9oWEU?oc=5",
+       "publishedAt": "2026-11-26T20:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30",
+     "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T22:39+05:30",
+     "score": 7.62,
+     "summary": "The Union Cabinet will meet on November 27 to clear the amended legislation",
+     "image": "https://th-i.thgim.com/public/incoming/zarshs/article71747086.ece/alternates/LANDSCAPE_1200/Uncertainty-oveGDHGRKK49.4.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30",
+       "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+       "publishedAt": "2026-11-26T22:39+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Centre seeks three-day special sitting of Parliament from 30 November",
+       "link": "https://www.livemint.com/news/centre-seeks-three-day-special-sitting-of-parliament-from-30-november-11795704288485.html",
+       "publishedAt": "2026-11-26T21:38+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Eisenkot Signs Second Coalition Deal, With Left-Leaning Democrats",
+     "link": "https://www.ndtv.com/world-news/israels-eisenkot-and-left-wing-party-agree-coalition-deal-12381831#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The New York Times",
+      "The Times of Israel"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T22:24+05:30",
+     "score": 7.33,
+     "summary": "The Democrats have been pushing Eisenkot for an alliance with two Arab-majority lists that achieved an unprecedented seat haul in the vote, in a bid to unseat Netanyahu.",
+     "image": "https://c.ndtvimg.com/2026-11/73mbc7do_gadi-eisenkot_625x300_08_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Eisenkot Signs Second Coalition Deal, With Left-Leaning Democrats",
+       "link": "https://www.ndtv.com/world-news/israels-eisenkot-and-left-wing-party-agree-coalition-deal-12381831#publisher=newsstand",
+       "publishedAt": "2026-11-26T22:24+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Israel's Eisenkot reaches deal with left-wing faction as coalition talks gain steam",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnltOGlBZG16OU1LUGlBS25WVUFhN2VnM0NhWHpzTlVscC1iOE5kdFZnaGhBbmNOdm80b05IQWttZm9MV0liVmZzVE56bXVxSHJXYXBmMktWSVQwZ2hfNmVGdWVJQmp5RkRtS1dXR0wwT0pXX1dFdUM5dDJrUWNTNHVsYjRNWXBWcmx3RTlqQ0ZQNEJWWFVxalA1Z0tkRExSbGJVOWpWX1pMY25aZHB3VnlvTWF0QUNvaElpM0FORVM5a1ZPa05mWDBXQQ?oc=5",
+       "publishedAt": "2026-11-26T21:46+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India presents 2036 Olympic vision to IOC Future Host Commission in virtual meeting",
+     "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-presents-2036-olympic-vision-to-ioc-future-host-commission-in-virtual-meeting/articleshow/136193442.cms",
+     "source": "Times of India",
+     "sources": [
+      "Hindustan Times",
+      "Japan Today",
+      "PM India",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T20:43+05:30",
+     "score": 7.04,
+     "summary": "India presented its vision and roadmap for hosting the 2036 Olympic and Paralympic Games to the IOC Future Host Commission, with Ahmedabad at the centre of its plans. The presentation highlighted infrastructure readiness, the 2030 Commonwealth Games, government support and India’s hosting experience, as the process moves towards strategic dialogue in March 2027.",
+     "image": "https://static.toiimg.com/photo/msid-136193559,imgsize-152486.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "India presents 2036 Olympic vision to IOC Future Host Commission in virtual meeting",
+       "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-presents-2036-olympic-vision-to-ioc-future-host-commission-in-virtual-meeting/articleshow/136193442.cms",
+       "publishedAt": "2026-11-26T18:51+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "India presents 2036 Olympic vision to IOC Future Host Commission in virtual meeting",
+       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObDJBZV8yYTdRRW5TQkNBTkswUFFWZHk5cDk1ZDF4c1gySnJLM29BZzNoaFlYaEwzRWdHZWxjZ3c2dGZfMmViZHpUb1ZFVjRWUF9WX0tjcFJlY1c2S2tLOUk2eUlPdDF5N1BkY21YLWJySXpreXFSMVlxN1MzYmZoblY1MDU0S2RoNWhYYzhnZjkwS2dQNnlTUE8xNlNHUHhyeGoxVFpncW1fWXhUNXlWNnpVSEc5aXVZNU03a0ZxNHNuc01Vc3JhVmVTZUhFcXRTdDRuOFRTamlBZkoyNGFPbTF5N2t1VGhadEZiOUwtcTFEdWFscnNVTzM2a1ExN1ZJ?oc=5",
+       "publishedAt": "2026-11-26T20:43+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-26T22:00+05:30",
    "generatedAt": "2026-11-26T22:36+05:30",
@@ -29431,181 +29611,6 @@
        "title": "US used expired missiles in Op Epic Fury against Iran; navy officer gives odd 'stale bread' comparison",
        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZ0Z6Ymc2c1hGQWFLNE5XRFRVek9kMU5GSm1kTC1hV0tOMG8tQUdxUmpHaktxQ2ZqaUFSUjZLcFVlZndkTU8tVEI2U0x5TDZCSHR3blRqUFpjZXhBS1J4UlllSHZXOUplc3hHQ056S0REcHRXZ19QVzNQVVpiTHo3NkJqZk8tcmdwbk9uWTFWOGNFcDFmenNRa0lmSmptbE9ITVFzdVp4eVBBbmFTZjkyUHh1dUltNjl2WFh2ZUdlSDk2aHhRUXZsMzJHeVAzeVVlMGs3NkZ6eVFUMVJBVlpvdjJCX1lCbEQ2WXdvU0FTMW41aHY3QVVTTE5SLUd0Z1Y2Q1lxdEt2dHBsLVFpeTN4OA?oc=5",
        "publishedAt": "2026-11-18T20:11+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T19:00+05:30",
-   "generatedAt": "2026-11-18T19:50+05:30",
-   "feeds": 16,
-   "headlines": 323,
-   "stories": [
-    {
-     "title": "Scotch on the rocks? India imposes 162.5% duty, tax on bulk UK imports",
-     "link": "https://timesofindia.indiatimes.com/business/india-business/scotch-on-the-rocks-india-imposes-162-5-duty-tax-on-bulk-uk-imports-domestic-production-likely-to-be-hit/articleshow/135961860.cms",
-     "source": "Times of India",
-     "sources": [
-      "India Shipping News",
-      "Reuters",
-      "The Drinks Business",
-      "The Economic Times",
-      "The Times of India",
-      "Times of India",
-      "scanx.trade"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-18T18:27+05:30",
-     "score": 7.94,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135961968,imgsize-102915.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Scotch on the rocks? India imposes 162.5% duty, tax on bulk UK imports",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/scotch-on-the-rocks-india-imposes-162-5-duty-tax-on-bulk-uk-imports-domestic-production-likely-to-be-hit/articleshow/135961860.cms",
-       "publishedAt": "2026-11-18T17:07+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "162.5% duty to be charged on bulk Scotch imports",
-       "link": "https://economictimes.indiatimes.com/industry/cons-products/liquor/govt-to-charge-bulk-scotch-imports-162-5-duty-and-tax-amid-uk-pact-standoff-pernord-ricard/articleshow/135960324.cms",
-       "publishedAt": "2026-11-18T16:12+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
-       "publishedAt": "2026-11-18T18:27+05:30"
-      }
-     ]
-    },
-    {
-     "title": "IndiGo joins Air India, Akasa in suspending Saudi flights until November 30",
-     "link": "https://timesofindia.indiatimes.com/business/india-business/indigo-joins-air-india-akasa-in-suspending-saudi-flights-until-november-30/articleshow/135964587.cms",
-     "source": "Times of India",
-     "sources": [
-      "Avi-Go",
-      "Gulf News",
-      "Khaleej Times",
-      "The Economic Times",
-      "The Times of India",
-      "Times of India",
-      "deeparrival.com"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-18T18:54+05:30",
-     "score": 7.87,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135964654,imgsize-42442.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "IndiGo joins Air India, Akasa in suspending Saudi flights until November 30",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/indigo-joins-air-india-akasa-in-suspending-saudi-flights-until-november-30/articleshow/135964587.cms",
-       "publishedAt": "2026-11-18T18:54+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "IndiGo grounds all Saudi flights till November 30",
-       "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/indigo-suspends-all-flights-to-four-saudi-arabia-cities-till-november-30-amid-security-concerns/articleshow/135963939.cms",
-       "publishedAt": "2026-11-18T18:26+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "IndiGo joins Air India, Akasa in suspending Saudi flights until November 30",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ1g0SjZVWGdGR1RSTnRXZkp4MElwQ3JXVzJUUUx1NUNlRDRwbUVkNTNYYm15TzVhVWZ0Q0wyTmxYb2liVVpqZFl4ekxvT2JCckJsZms4UEtTdEdMY2tleEJGUVJYTHpwaFY1RzFsS2JEMXZ4SW1nMmpYUnNGQ1g3bWFUTWVZenhveWQzSFlYaGF0bm43QXVwMVg0eTAycXZFbVJsYmp5RWJ5azg2NmxhUlRVX2ZSWUNLUnBGNnpkaGM0VzRMaThrZEtweXBaQ2c1TlR1YmI5cEIwc0FnTlBPSkhKMUhQNjBCWmV3WjRmRHAxZw?oc=5",
-       "publishedAt": "2026-11-18T18:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Supreme Court issues notice on contempt plea against lawyer over remarks about CJI",
-     "link": "https://www.thehindu.com/news/national/supreme-court-issues-notice-on-contempt-plea-against-lawyer-over-remarks-about-cji/article71715528.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Deccan Herald",
-      "Live Law",
-      "Scroll.in",
-      "Supreme Court Observer",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T19:16+05:30",
-     "score": 7.03,
-     "summary": "Solicitor General Tushar Mehta supported the Supreme Court Bar Association’s petition, submitting that ‘the majesty of the court cannot be compromised’",
-     "image": "https://th-i.thgim.com/public/incoming/h63v7x/article71715988.ece/alternates/LANDSCAPE_1200/20261101532L.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Supreme Court issues notice on contempt plea against lawyer over remarks about CJI",
-       "link": "https://www.thehindu.com/news/national/supreme-court-issues-notice-on-contempt-plea-against-lawyer-over-remarks-about-cji/article71715528.ece",
-       "publishedAt": "2026-11-18T19:16+05:30"
-      },
-      {
-       "source": "Live Law",
-       "title": "Supreme Court Issues Notice To CJP, Congress, AAP & AISA On Delhi Traders' Plea Against Protests",
-       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONWNoeDJ5MTNnekkwWjJPaEFrWFpmSTdnbFpCRUpxaG1TblhhWVgxaFRhUWNmT0k0MHhCeGhWTEdNMktqYzdnblJuc1pMcUNCZjFFejI4U1VVYUhUYmZnMnJRZkZ1RFRDbjdFQWROQVk4QjdNeEVIUUVHQ3NBOG92OHpRY0JQeEpRTkdlOUN0VE5aRE83NzJDbGQ5QWNrZjBWdTRZNGVQeUdMOHNacnlFZnNVYVpXdVFob25ZODJMVnhwdXR3UWhibUR5SnJCUdIB0wFBVV95cUxOazhzNV8zOHVwRW5zNU5rRVhhVmVfbDFpQlNkbTJ3N01KaEpxV0NGYUNGX2dUem9zZG5tU2ZnNVhBQXVVbENUV212OVhJbVoxSlBWamZkMG9JQWNVT011bzVKSi16ai1YWG9MLTYtbThMQjN1NzhyWFcwc1ZPR21Kd0h5em1GTGFnRXRVay16RUZoWS10R0kwLWk4QzlkbGc1NURpcXhDZUkxclQ1VVpTWU5uS1hrVnF2OFV1WTRfeEhMeWhiRkJuMW5sWkt6aWdGdHhR?oc=5",
-       "publishedAt": "2026-11-18T15:01+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3RqMFJBV29zRWdMOWZhLWpzZmo4YlpWMnhZd2k5VXBpWU1xZTM2VUNEOFkwV1J4STFoZFhiSElEYnVYTU5RUUFzZ1E3RHlFYUYwSk5VbFJKdExOSUM4TUZYMEk5cVFXenA0V2JMVWNaVE11ZG9kaVdUQ2pDSnV1OUxpcHZaMkpJRGR6ZVlMRjZHWXFYcE9ORjdkaHJ1NmtfM214NTZDN1A4SjdLVGM1SU1qWdIBuAFBVV95cUxPajRldTBMVFFRSnZjdENVdnhHd0dXTXJSMTdQaUJ6V2QtR0p3VDAzVmlDN29Iemw0dE1PNUY4QmRIdm9CVjJ6LXUxMkZpWjQ3MFY5dGFIa3NyVFlJUTZnTUl2UVFxVHNDTVo3d0RreTc0RTF3NHAwcGpFVGhUeFVXRkt1UnNGTnVRb2R2RENCakVkVVoyRVlLZWVjU0hLUFRvWGFFVUlqeHB4dzYwdW5ieG1oc1Q1TnlH?oc=5",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "Bloomberg.com",
-      "CNBC",
-      "Financial Times"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T16:12+05:30",
-     "score": 6.89,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3RqMFJBV29zRWdMOWZhLWpzZmo4YlpWMnhZd2k5VXBpWU1xZTM2VUNEOFkwV1J4STFoZFhiSElEYnVYTU5RUUFzZ1E3RHlFYUYwSk5VbFJKdExOSUM4TUZYMEk5cVFXenA0V2JMVWNaVE11ZG9kaVdUQ2pDSnV1OUxpcHZaMkpJRGR6ZVlMRjZHWXFYcE9ORjdkaHJ1NmtfM214NTZDN1A4SjdLVGM1SU1qWdIBuAFBVV95cUxPajRldTBMVFFRSnZjdENVdnhHd0dXTXJSMTdQaUJ6V2QtR0p3VDAzVmlDN29Iemw0dE1PNUY4QmRIdm9CVjJ6LXUxMkZpWjQ3MFY5dGFIa3NyVFlJUTZnTUl2UVFxVHNDTVo3d0RreTc0RTF3NHAwcGpFVGhUeFVXRkt1UnNGTnVRb2R2RENCakVkVVoyRVlLZWVjU0hLUFRvWGFFVUlqeHB4dzYwdW5ieG1oc1Q1TnlH?oc=5",
-       "publishedAt": "2026-11-18T16:12+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India inks nearly Rs 2,000-cr pact with Israel to upgrade Barak system on warships",
-     "link": "https://timesofindia.indiatimes.com/defence/news/def-min-signs-nearly-rs-2k-cr-contract-with-israel-for-upgrade-of-barak-missile-systems-deployed-on-indian-warships/articleshow/135963944.cms",
-     "source": "Times of India",
-     "sources": [
-      "Moneycontrol.com",
-      "The Economic Times",
-      "The New Indian Express",
-      "Times of India",
-      "Ynetnews",
-      "www.pib.gov.in"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T18:29+05:30",
-     "score": 6.84,
-     "summary": "On Wednesday, India’s defence ministry entered a significant contract with Israel Aerospace Industries, valued at Rs 1,976.40 crore. This collaboration focuses on upgrading the Barak point defence missile system's hardware and software to bolster its capabilities. The enhanced Barak system will reinforce the Indian Navy’s protection against aerial threats, ensuring improved extended-range air defence capabilities…",
-     "image": "https://static.toiimg.com/photo/msid-135963993,imgsize-134336.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "India inks nearly Rs 2,000-cr pact with Israel to upgrade Barak system on warships",
-       "link": "https://timesofindia.indiatimes.com/defence/news/def-min-signs-nearly-rs-2k-cr-contract-with-israel-for-upgrade-of-barak-missile-systems-deployed-on-indian-warships/articleshow/135963944.cms",
-       "publishedAt": "2026-11-18T18:25+05:30"
-      },
-      {
-       "source": "Moneycontrol.com",
-       "title": "India inks Rs 2,000-crore contract with Israel Aerospace Industries to upgrade Navy's Barak missiles",
-       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcnp5ODdZbmF3NElvX19XRGxjUDJxUkxISkRYYUZEWU5CTVE0YWxFM1l2WDdBQUpIcFNhRWo2X1RoQklXX1lPc1VTRlUzVTNnbnp5QWZTcExvd0hEaGY5QUZkblFzVTJWS3FlTm5zREkzYTlid2taa1VOVGlrb2xoS0trQ3p0LUR6ZVFhSVpsLW5uVlVySVEyUlYwWnBobnFjYm96UDNwb2wyNnVrXzhZaDg1Nzl1VHRFbGZHNFlJN0hwSk4yZ3FBcjk1U2ttbnJIOHhiS1ctYkFDWHpwdzhHRVJkdzR3YW5lblJBcEhPRTbSAfYBQVVfeXFMTXFISkJ5dGI0VHlCcENaNGQ3RU5PYl9pc1pGejhUNVlMRTloLXl4YXdua0UwTXpNX094RURjbFFRcGw0ZEpxMTF6LUp3b09XNDBFMVRsZzlXbFN3ZGp3OUVES1Q1VTVfU0dZR0p4WU1CRTBxMGt5Q1hPNU5OMFJTU1NobExHUDVwTUVfQlE4ak9CYlRZaXpqWVhVSWhWNjRIRnJPWXZWeEx5blJreEpvaHQ5VXVKdzRUYnluMU9USHNHd2JrRlcxWTBwM1VCM0U1S1ZMa3REZ2tfUTZuZ19ja0pIUHhDNHhkS3ZiM0xwOGpDdnk5dlNB?oc=5",
-       "publishedAt": "2026-11-18T18:29+05:30"
       }
      ]
     }
