@@ -1,6 +1,154 @@
 {
- "updated": "2026-11-27T01:33+05:30",
+ "updated": "2026-11-27T02:25+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T02:00+05:30",
+   "generatedAt": "2026-11-27T02:25+05:30",
+   "feeds": 16,
+   "headlines": 248,
+   "stories": [
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 7",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk4zN3FOMFpQOHJuamY5NHVlSWtjRXVDSkU5Z3dRZ1F0bUNWZF9LOEhOYXR3SlRHMndXWWJvZ29TWVo0bnVNVDFZOTk1SWVOdTJyT0pRRUpOWTFHVEJuVUhoMGJFcjVKNDRiTkNDeHhRQzhsNG5EM3JvVDh4UEVjV0lTeEk4dFQwRmFGVXVB?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "India Today",
+      "NDTV",
+      "Rediff.com",
+      "Sacnilk",
+      "THE WEEK",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T00:44+05:30",
+     "score": 7.83,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk4zN3FOMFpQOHJuamY5NHVlSWtjRXVDSkU5Z3dRZ1F0bUNWZF9LOEhOYXR3SlRHMndXWWJvZ29TWVo0bnVNVDFZOTk1SWVOdTJyT0pRRUpOWTFHVEJuVUhoMGJFcjVKNDRiTkNDeHhRQzhsNG5EM3JvVDh4UEVjV0lTeEk4dFQwRmFGVXVB?oc=5",
+       "publishedAt": "2026-11-27T00:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gukesh-Sindarov FIDE World Championship 2026 Game 3 Ends In Thrilling Draw",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYWlrSVVVa2J0T182ZWUyRkRldnBwcWlrdF92d3lKX3FUQnlWc2I5d0lOVHB6NXJ4bDJ0aGx4Sk5sRUpLOXlzS0pGS0xSZXpBMVQ2RVVhZnZvUUdFWWhONUd4VXBiWU5jcUV0SE1faEpROEN5a3Vzd2d4dWdKQQ?oc=5",
+     "source": "Chess.com",
+     "sources": [
+      "Chess.com",
+      "ChessBase India",
+      "ESPN India",
+      "News On AIR",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T01:17+05:30",
+     "score": 7.31,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Chess.com",
+       "title": "Gukesh-Sindarov FIDE World Championship 2026 Game 3 Ends In Thrilling Draw",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYWlrSVVVa2J0T182ZWUyRkRldnBwcWlrdF92d3lKX3FUQnlWc2I5d0lOVHB6NXJ4bDJ0aGx4Sk5sRUpLOXlzS0pGS0xSZXpBMVQ2RVVhZnZvUUdFWWhONUd4VXBiWU5jcUV0SE1faEpROEN5a3Vzd2d4dWdKQQ?oc=5",
+       "publishedAt": "2026-11-27T01:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Britain calls up military reservists for first time since Cold War amid Russia threat",
+     "link": "https://timesofindia.indiatimes.com/world/uk/britain-calls-up-military-reservists-for-first-time-since-cold-war-amid-russia-threat/articleshow/136197090.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "Facebook",
+      "Sky News",
+      "The Telegraph",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T21:14+05:30",
+     "score": 6.21,
+     "summary": "In an effort to bolster national security, Britain is contacting 100,000 military reservists. The Ministry of Defence is keen to define their roles and evaluate the skills of former servicemen and women. This initiative is largely a response to the shifting security landscape in Europe due to Russia's aggression in Ukraine.",
+     "image": "https://static.toiimg.com/photo/msid-136197141,imgsize-112581.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Britain calls up military reservists for first time since Cold War amid Russia threat",
+       "link": "https://timesofindia.indiatimes.com/world/uk/britain-calls-up-military-reservists-for-first-time-since-cold-war-amid-russia-threat/articleshow/136197090.cms",
+       "publishedAt": "2026-11-26T21:14+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Britain calls up military reservists for first time since Cold War amid Russia threat",
+       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYWNWZWNicmpiaC1QZWtXdExudmJ2NkVFY01XNHBRWnJhc0E3ai1ydTNUY05neEZweG1YWnFCaTZEWTl0dHZVWXFIc3R4czBHMmxlOE5JbTlzRGsyT3dOTFkwRDZKUXpLYVhkTFhMc21pOExIRFRTVW4ySW1Dc2ZIMnQ3ckZ3NjEycE93U3VHSEdVRTR3ck9tTTZObzlpQmFNbUwzRDRFQXcwNVc1eHhDS1h6Y3J1ZWdrd0NkRFlJOVBoZU5wNkVCOWVDdjNKQ1pfcVc3SlhZRFdJMUQ2SXhYOEVKZTF3VEhTWVQwcg?oc=5",
+       "publishedAt": "2026-11-26T21:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+     "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNN",
+      "Reuters"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T02:05+05:30",
+     "score": 6.13,
+     "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+       "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-27T02:05+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+       "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+       "publishedAt": "2026-11-26T22:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia Jensen Huang News Live Updates: Vance rules out pardon as China chip scrutiny grows",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEhBX0lVWUVDeERWSUl3RW1pVTlGM3BubXJ3ZzhYU0RLUEZ0NEdLb0ZuQWExZ1ZNZ2lPdHVMMFgtNGdvazY4LUxwWkNoMXhST0VXaDMtaVlsenRrbnpabGN1a0JMdnFGZjZiaXp2d1BTMUxuV0NwcWk1cjZrX2JUamxuWDJkSy1ITG5oUldmakdhajNyeG5vVWJJaktKMmVsc1BWQjMyTEV0dVlMNjF5Sk44YmhUd3FKTHRDYktlYm9vaXNUX0hhc3pYU1lpd9IB1AFBVV95cUxPdkpRdV9oNTZScjdwYW1RZ2JOR2UyWWtmYTlMZmQ4MjVXVVlhb3NiWlpsNEZZRVl2cjRlejR0cVpvMGs2ZUpSWU1tTEZxbDZ5Q184RWs0Q2RsSU1lcG9xc0M0ODlKeFprLWFhTFEtZXJmLTg3dUxzUjZNSmpYWGpwZDk1QnVWNlUzelNSZTlfdURQdGt0ODVFSzl5MU5FeDlEYlUzaHQtNDJoSnVrdnJOUFUzdTV6RnBONmRoTlFTcG90R1dHYXQzNUNqdzB5cGU2YmFvUQ?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "NVIDIA Newsroom",
+      "The Economist",
+      "The Guardian",
+      "The Indian Express",
+      "The Washington Post"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T22:28+05:30",
+     "score": 6.09,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Nvidia Jensen Huang News Live Updates: Vance rules out pardon as China chip scrutiny grows",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEhBX0lVWUVDeERWSUl3RW1pVTlGM3BubXJ3ZzhYU0RLUEZ0NEdLb0ZuQWExZ1ZNZ2lPdHVMMFgtNGdvazY4LUxwWkNoMXhST0VXaDMtaVlsenRrbnpabGN1a0JMdnFGZjZiaXp2d1BTMUxuV0NwcWk1cjZrX2JUamxuWDJkSy1ITG5oUldmakdhajNyeG5vVWJJaktKMmVsc1BWQjMyTEV0dVlMNjF5Sk44YmhUd3FKTHRDYktlYm9vaXNUX0hhc3pYU1lpd9IB1AFBVV95cUxPdkpRdV9oNTZScjdwYW1RZ2JOR2UyWWtmYTlMZmQ4MjVXVVlhb3NiWlpsNEZZRVl2cjRlejR0cVpvMGs2ZUpSWU1tTEZxbDZ5Q184RWs0Q2RsSU1lcG9xc0M0ODlKeFprLWFhTFEtZXJmLTg3dUxzUjZNSmpYWGpwZDk1QnVWNlUzelNSZTlfdURQdGt0ODVFSzl5MU5FeDlEYlUzaHQtNDJoSnVrdnJOUFUzdTV6RnBONmRoTlFTcG90R1dHYXQzNUNqdzB5cGU2YmFvUQ?oc=5",
+       "publishedAt": "2026-11-26T22:28+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T01:00+05:30",
    "generatedAt": "2026-11-27T01:33+05:30",
@@ -29406,206 +29554,6 @@
        "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
        "publishedAt": "2026-11-18T18:27+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T23:00+05:30",
-   "generatedAt": "2026-11-18T23:24+05:30",
-   "feeds": 16,
-   "headlines": 299,
-   "stories": [
-    {
-     "title": "'GTA 6' merch: Where to buy shirts, hats, and more on launch day",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tbkVwZHV4MlRsRFFUZjVZa2J2N1Jub2FGMWY4eUs5ZE11bnhpQWlqUXlFdHBnMk96SE05WXFQRTNjeTh3UzdQaUxLdzh2U3VTUi1tdG03bl9hdmdsUG9ZYUpXTmlyY1Yt?oc=5",
-     "source": "Mashable",
-     "sources": [
-      "ABC13 Houston",
-      "Business Insider",
-      "ClubAlfa.it",
-      "Cultured Vultures",
-      "Liverpool Echo",
-      "Mashable",
-      "RTINGS.com",
-      "TechRadar",
-      "The Telegraph",
-      "Yahoo Tech"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-18T22:18+05:30",
-     "score": 11.31,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Mashable",
-       "title": "'GTA 6' merch: Where to buy shirts, hats, and more on launch day",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tbkVwZHV4MlRsRFFUZjVZa2J2N1Jub2FGMWY4eUs5ZE11bnhpQWlqUXlFdHBnMk96SE05WXFQRTNjeTh3UzdQaUxLdzh2U3VTUi1tdG03bl9hdmdsUG9ZYUpXTmlyY1Yt?oc=5",
-       "publishedAt": "2026-11-18T22:18+05:30"
-      },
-      {
-       "source": "RTINGS.com",
-       "title": "GTA VI At 30 FPS: Can Your TV Save The Day?",
-       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUpxZ1FieS15dHJZTjVqNU5DZXdKS25IeTB0WHJTSjhwY1FibHlhbWkwLVBEbjBQVXlCbm1DcnhwNThOc2tQMlU0ZGpmNDNSbWVSUWlfSDE1YmtOVHMtaVhiQUs2bWVkM19JODN0ajREcjBXbldPbHJOOWczTXBYdg?oc=5",
-       "publishedAt": "2026-11-18T21:31+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-     "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC",
-      "BBC News",
-      "Bloomberg.com",
-      "CNN",
-      "Eurogamer.net",
-      "NBC News",
-      "NDTV",
-      "The Guardian"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-18T23:04+05:30",
-     "score": 9.69,
-     "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-18T23:04+05:30"
-      },
-      {
-       "source": "NBC News",
-       "title": "Wondering why your friends are MIA? ‘Grand Theft Auto VI’ might be to blame",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0ZGS3NPdEFFME85dEtuc0NGNVdITWFTeXZQZjZHemdGWlRsbnpUZmloT3VtYzQ1QlBaNWhTSGc1YlViQl9DQmhDcWJyaEpGbUp4SUN2cnhYVUlLcmNJZ296bHVFUE5aWTZoRklleWg1LXRwUTZoVm1QNkd4aktHdXpBSVdWV3A4dDBzLU5kb3ZpMTFqX1pWaW9sRnZ4N0VmZDM3UGxxVjgzQmpvelJzbGZIdmlHTWdoUVRsbA?oc=5",
-       "publishedAt": "2026-11-18T22:30+05:30"
-      },
-      {
-       "source": "BBC",
-       "title": "Grand Theft Auto 6: Reviews come in as worldwide release begins",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
-       "publishedAt": "2026-11-18T21:01+05:30"
-      }
-     ]
-    },
-    {
-     "title": "History in the making? Hakeem Jeffries nominated as House Speaker, set to become first Black American to hold the post",
-     "link": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
-     "source": "Mint",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CNN",
-      "Mint",
-      "The Economic Times",
-      "The Guardian",
-      "The New York Times"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-18T23:05+05:30",
-     "score": 9.11,
-     "summary": "Democrats have nominated Hakeem Jeffries for US House Speaker, putting him on course to become the first Black American to hold the post. The New York lawmaker faces a full House vote on January 3, 2027, amid calls from progressive Democrats for leadership changes and a fresh party direction.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/JEFFRIES-ECNY-12_1761065799235_1761065806419_1795022187578_kPdm_77c94711-deb8-473e-9521-067cf64f8de0_VSjs.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "History in the making? Hakeem Jeffries nominated as House Speaker, set to become first Black American to hold the post",
-       "link": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
-       "publishedAt": "2026-11-18T23:05+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-18T23:04+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
-       "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
-       "publishedAt": "2026-11-18T22:54+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Hakeem Jeffries moves closer to making history",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/democrats-nominate-hakeem-jeffries-to-lead-house-putting-him-on-path-to-historic-speakership/articleshow/135967388.cms",
-       "publishedAt": "2026-11-18T21:39+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
-       "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
-       "publishedAt": "2026-11-18T21:07+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Prince William, Kate Middleton meet PM Modi in Delhi",
-     "link": "https://timesofindia.indiatimes.com/india/prince-william-kate-middleton-meet-pm-modi-in-delhi-as-three-day-india-visit-concludes/articleshow/135966803.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "PM India",
-      "The Hindu",
-      "Times of India",
-      "Vogue"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T21:59+05:30",
-     "score": 8.26,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135967672,imgsize-149774.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Prince William, Kate Middleton meet PM Modi in Delhi",
-       "link": "https://timesofindia.indiatimes.com/india/prince-william-kate-middleton-meet-pm-modi-in-delhi-as-three-day-india-visit-concludes/articleshow/135966803.cms",
-       "publishedAt": "2026-11-18T21:59+05:30"
-      },
-      {
-       "source": "BBC",
-       "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
-       "publishedAt": "2026-11-18T20:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
-     "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
-     "source": "Times of India",
-     "sources": [
-      "Arab News",
-      "CGTN",
-      "Reuters",
-      "The Guardian",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T21:54+05:30",
-     "score": 7.5,
-     "summary": "In a bold move, European Commission president Ursula von der Leyen has put forth a significant initiative to grant Ukraine a €45 billion loan. This funding, earmarked for bolstering Ukraine's defense and stabilizing its economy during the ongoing conflict, would only be repayable once Russia compensates Ukraine for the damages incurred during the war.",
-     "image": "https://static.toiimg.com/photo/msid-135967627,imgsize-72625.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
-       "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
-       "publishedAt": "2026-11-18T21:54+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
-       "publishedAt": "2026-11-18T20:22+05:30"
       }
      ]
     }
