@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-26T10:35+05:30",
+ "updated": "2026-11-26T11:32+05:30",
  "hours": [
+  {
+   "hour": "2026-11-26T11:00+05:30",
+   "generatedAt": "2026-11-26T11:32+05:30",
+   "feeds": 15,
+   "headlines": 250,
+   "stories": [
+    {
+     "title": "Gemini Horoscope Today: November 26, 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUTDU5YWdJaV8weFVUUlRhVTVVMVB3NTk2b1JiMGtrdS1Db0dXLUlKUEp2bVYxVFdmQWpmX1dRRGhCMDlyYXF3MndmRnlBRjVXdjdVNVdydDloLXlxMmFGLVpOdllESGhXSmZCTlJTa3QtN2lRcWxJ?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "ETV Bharat",
+      "Hindustan Times",
+      "India Today",
+      "Kalinga TV",
+      "News18",
+      "Odisha TV",
+      "OrissaPOST",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "Yahoo",
+      "YourTango"
+     ],
+     "sourceCount": 13,
+     "publishedAt": "2026-11-26T05:50+05:30",
+     "score": 13.16,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Gemini Horoscope Today: November 26, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUTDU5YWdJaV8weFVUUlRhVTVVMVB3NTk2b1JiMGtrdS1Db0dXLUlKUEp2bVYxVFdmQWpmX1dRRGhCMDlyYXF3MndmRnlBRjVXdjdVNVdydDloLXlxMmFGLVpOdllESGhXSmZCTlJTa3QtN2lRcWxJ?oc=5",
+       "publishedAt": "2026-11-26T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "From Law Day to Constitution Day: How November 26 found a new identity in India",
+     "link": "https://www.hindustantimes.com/india-news/from-law-day-to-constitution-day-how-november-26-found-a-new-identity-in-india-101795670401519.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "TheWire.in",
+      "Vajiram & Ravi"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T10:50+05:30",
+     "score": 8.38,
+     "summary": "India marks Constitution Day on November 26 to commemorate the 1949 adoption of the Substantive Preamble by the Constituent Assembly, the moment the nation pledged to a sovereign democratic republic and the people’s rule.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_india3_1751287297962_1751287304722.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "From Law Day to Constitution Day: How November 26 found a new identity in India",
+       "link": "https://www.hindustantimes.com/india-news/from-law-day-to-constitution-day-how-november-26-found-a-new-identity-in-india-101795670401519.html",
+       "publishedAt": "2026-11-26T10:50+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Why is November 26 celebrated as Constitution Day in India",
+       "link": "https://www.thehindu.com/news/national/why-is-november-26-celebrated-as-constitution-day-in-india/article71733839.ece",
+       "publishedAt": "2026-11-26T07:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "18 years after 26/11 terror attack, how has India secured its coastal frontier",
+     "link": "https://timesofindia.indiatimes.com/defence/news/18-years-after-26/11-terror-attack-how-has-india-secured-its-coastal-frontier/articleshow/136179027.cms",
+     "source": "Times of India",
+     "sources": [
+      "DefenceXP",
+      "The Hindu",
+      "The Shillong Times",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T10:48+05:30",
+     "score": 7.63,
+     "summary": "After the 2008 Mumbai attacks, India's maritime security framework underwent significant changes to address vulnerabilities. The navy assumed leadership in coordinating overall maritime security alongside the coast guard and state marine police. Integrated surveillance systems were established to track suspicious activities and improve information sharing. Recent exercises proved that while progress has been made…",
+     "image": "https://static.toiimg.com/photo/msid-136179284,imgsize-938356.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "18 years after 26/11 terror attack, how has India secured its coastal frontier",
+       "link": "https://timesofindia.indiatimes.com/defence/news/18-years-after-26/11-terror-attack-how-has-india-secured-its-coastal-frontier/articleshow/136179027.cms",
+       "publishedAt": "2026-11-26T10:36+05:30"
+      },
+      {
+       "source": "DefenceXP",
+       "title": "26/11 Was Not Just an Attack on India",
+       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OdlY5ZWJ3dF82VEtjLWppbUZtM3lwdHZXdTVZRFJ0YVp5NVlHX2hIZU5kaW1aWFpBSGFrOHFBSkhnLXdNY20zMHo0LXA0OFppQWg2c0JvanVXSW0tOUhTNXZJR25SVkZuWUJkQThaMlFfUQ?oc=5",
+       "publishedAt": "2026-11-26T10:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
+     "link": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
+     "source": "The Hindu",
+     "sources": [
+      "BBC News",
+      "CNBC",
+      "India Today",
+      "Telegraph India",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T10:55+05:30",
+     "score": 7.4,
+     "summary": "The order by the U.S. Trade Representative also opens the door for a lower 17% tariff if India and the U.S. sign a trade deal",
+     "image": "https://th-i.thgim.com/public/incoming/x6kns7/article71743744.ece/alternates/LANDSCAPE_1200/2026-11-25T135439Z_732317319_RC21VOATCSR3_RTRMADP_3_USA-TRUMP-TARIFFS.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
+       "link": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
+       "publishedAt": "2026-11-26T10:55+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "US announces new tariffs on host of countries including China",
+       "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-26T09:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nasa's asteroid crash test left stadium-sized crater; first images reveal",
+     "link": "https://timesofindia.indiatimes.com/science/nasas-asteroid-crash-test-left-stadium-sized-crater-first-images-reveal/articleshow/136176872.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "CNN",
+      "Phys.org",
+      "The Guardian",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T11:11+05:30",
+     "score": 6.99,
+     "summary": "Images from the ESA's Hera spacecraft show the aftermath of NASA's successful impact on asteroid Dimorphos. The DART mission altered the asteroid's orbit significantly, demonstrating the potential for planetary defense strategies. Hera's observations offer vital insights into how deflection methods could work in the future. The collision created a crater, providing scientists with important data on the effects of…",
+     "image": "https://static.toiimg.com/photo/msid-136176930,imgsize-18214.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Nasa's asteroid crash test left stadium-sized crater; first images reveal",
+       "link": "https://timesofindia.indiatimes.com/science/nasas-asteroid-crash-test-left-stadium-sized-crater-first-images-reveal/articleshow/136176872.cms",
+       "publishedAt": "2026-11-26T08:26+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "New images reveal crater on asteroid struck by DART spacecraft",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVDRfNEtDNFAyTFhWRDFjVzRzbE9BbnBWQVNYSzZHWGVRbFBfcWZXb0lnLVVGVTlORnlPWENtOFZScXJhQkszOWZlOTZvd1QtdjBDVnU1WTZaQWhjMzBiYWFwaTJMSGlUTjY5bHFhWktRdWVCVlNsbWlRWHd2ckRYemUtZmtFTTM1Q3QxVF9BZWYtLUVnbjh6Z21tTkh5NWxjZTRjM1lRdGhqdklTWU9IbVBfazYtbm1ENlRoYzEyVkNMZ9IByAFBVV95cUxNUDdXaXUzZXBNZndyWmdDU3J0THI0bHZDRVpJUEtzUlFvWkZRVGRLQ19wb3pEcE5iX2VHWXhDVE1fbTh0UEpFc01TRUxfZHVWTEcyRzVMZzBKbWdNSjA0VXV5V1ZkdTBqQlJZWjUtckMyeGlqR1hiQkpURlhlSXJQQzBpbXB1N1ZORlhxUFY1U1F4Y0t6Y29XOS1RaXRocV9hRlN2a3d4eWJBVGZUQWIzeVVsN0RiRUNTOUd4Q2lWTDZYRTBmcFA3UA?oc=5",
+       "publishedAt": "2026-11-26T11:11+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-26T10:00+05:30",
    "generatedAt": "2026-11-26T10:35+05:30",
@@ -29419,222 +29586,6 @@
        "title": "'Sitting on disaster': Rahul flags 'economic crisis' in India during US visit; BJP hits back",
        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRmVaQVVhM3dTZDR0Z0I1d19vYlFPM3FxdjYyZHBZbGd3ZUQydHJxYjBMT3NfbGZVLW1LTFpvdGpjSzR0dDN0LUlsdVF6X2lPWkgtZUR5eGhJUEpIWE0xQVBYY1lBc3VIQTA5cnJEWkVJQlFCd0txU3NqOG16VjZVOVd1NEhuVkUtdlJuZGtnNk5xa0NVZEtzSmJVZ1EwT1o3elVydUVNNWdtcnlZOHlQOFBuYnFRcXgzR3lUajd3R1lyMGRpVnp4SU5KOGR4UUFWckNhN0xtV1ZfR3Z6Q1RQbmZ5RERPMlIxeDBzRHEwb3hsY3FDYmc?oc=5",
        "publishedAt": "2026-11-18T07:24+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T09:00+05:30",
-   "generatedAt": "2026-11-18T09:24+05:30",
-   "feeds": 17,
-   "headlines": 279,
-   "stories": [
-    {
-     "title": "India News Live Updates, 18 November 2026: Massive fire breaks out at Pune’s Timber Market, no casualties reported",
-     "link": "https://indianexpress.com/article/india/breaking-news-live-updates-india-18-november-2026-delhi-aqi-today-weather-cyclone-akvan-rahul-gandhi-us-mumbai-building-collapse-train-cancelled-flights-10967656/",
-     "source": "The Indian Express",
-     "sources": [
-      "Deccan Herald",
-      "ETV Bharat",
-      "Hindustan Times",
-      "India Today",
-      "News18",
-      "Odisha TV",
-      "OrissaPOST",
-      "The Economic Times",
-      "The Indian Express",
-      "The Times of India",
-      "Vogue India",
-      "iDiva"
-     ],
-     "sourceCount": 12,
-     "publishedAt": "2026-11-18T08:57+05:30",
-     "score": 13.11,
-     "summary": "",
-     "image": "https://images.indianexpress.com/2026/11/pune-timber-market-fire.jpg",
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "India News Live Updates, 18 November 2026: Massive fire breaks out at Pune’s Timber Market, no casualties reported",
-       "link": "https://indianexpress.com/article/india/breaking-news-live-updates-india-18-november-2026-delhi-aqi-today-weather-cyclone-akvan-rahul-gandhi-us-mumbai-building-collapse-train-cancelled-flights-10967656/",
-       "publishedAt": "2026-11-18T08:57+05:30"
-      },
-      {
-       "source": "Vogue India",
-       "title": "Horoscope Today: November 18, 2026",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4dnJNd0RTMGRBeTZXWFY1cWdLZUJJQVJOTXdxVnZXeHliTEUyQWVpSXBkcFd1Wi1xUF9yd2VqWVNJaFFpSUpSTnV3YmplMFlOWVhwQzhtcTZRZ1BISDQ1aE1SNTJLbEVqdjFvNF9B?oc=5",
-       "publishedAt": "2026-11-18T06:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "LeT's Lateef Bhat refuses to surrender in Kulgam",
-     "link": "https://economictimes.indiatimes.com/news/defence/kulgam-encounter-let-commander-lateef-bhat-refuses-to-surrender-gunfight-underway/articleshow/135946856.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Hindustan Times",
-      "Mint",
-      "NDTV",
-      "Rediff",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India",
-      "TheWire.in",
-      "Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-18T08:46+05:30",
-     "score": 11.4,
-     "summary": "Bhat, who carries a ₹15-lakh bounty on his head, is the prime suspect in the November 11 attack on three CRPF personnel in Kulgam.",
-     "image": "https://static.toiimg.com/photo/msid-135947453,imgsize-1246548.cms",
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "LeT's Lateef Bhat refuses to surrender in Kulgam",
-       "link": "https://economictimes.indiatimes.com/news/defence/kulgam-encounter-let-commander-lateef-bhat-refuses-to-surrender-gunfight-underway/articleshow/135946856.cms",
-       "publishedAt": "2026-11-18T08:46+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Trapped in Kulgam encounter, LeT commander Lateef Bhat refuses to surrender",
-       "link": "https://timesofindia.indiatimes.com/india/lets-most-wanted-kashmir-commander-lateef-bhat-trapped-in-kulgam-encounter-refuses-to-surrender/articleshow/135946782.cms",
-       "publishedAt": "2026-11-18T08:37+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "LeT terrorist Lateef Bhat escaped operation that killed aide; third getaway in a year: Officials",
-       "link": "https://www.hindustantimes.com/india-news/let-terrorist-lateef-bhat-escaped-operation-that-killed-aide-third-getaway-in-a-year-officials-101794969984630.html",
-       "publishedAt": "2026-11-18T08:32+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Fresh encounter in J&K’s Kulgam as security forces track escaped LeT terrorist Lateef Bhat",
-       "link": "https://www.thehindu.com/news/national/fresh-encounter-in-kulgam-lateef-bhat-november-18-2026/article71714380.ece",
-       "publishedAt": "2026-11-18T08:13+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "Kulgam encounter: Fresh gunfight in Jammu and Kashmir as forces hunt escaped terrorist Lateef Bhat",
-       "link": "https://www.livemint.com/news/india/kulgam-encounter-fresh-gunfight-in-jammu-and-kashmir-as-forces-hunt-escaped-terrorist-lateef-bhat-11794966976143.html",
-       "publishedAt": "2026-11-18T07:33+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Ramayana Part 1 Box Office Collection Day 13 LIVE Updates: Ranbir Kapoor film nears Rs 1500 crore mark worldwide",
-     "link": "https://indianexpress.com/article/entertainment/bollywood/ramayana-collection-day-13-live-updates-ranbir-kapoor-film-earns-rs-1483-cr-10967270/",
-     "source": "The Indian Express",
-     "sources": [
-      "The Economist",
-      "The Hindu",
-      "The Indian Express",
-      "The New Indian Express",
-      "The Times of India",
-      "ThePrint",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-18T08:14+05:30",
-     "score": 9.31,
-     "summary": "‘Ramayana: Part One’ continues to perform well at the box office, nearing Rs 1,500 crore gross worldwide. The film earned approximately Rs 28.70 crore net in India on its 13th day of release. Its total domestic net collection has now reached Rs 821.30 crore while grossing Rs 981.50 crore. Furthermore, the movie has secured the third position on IMDb’s Most Popular Movies chart globally.",
-     "image": "https://images.indianexpress.com/2026/11/ranbir-ramayana.jpg",
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Ramayana Part 1 Box Office Collection Day 13 LIVE Updates: Ranbir Kapoor film nears Rs 1500 crore mark worldwide",
-       "link": "https://indianexpress.com/article/entertainment/bollywood/ramayana-collection-day-13-live-updates-ranbir-kapoor-film-earns-rs-1483-cr-10967270/",
-       "publishedAt": "2026-11-18T08:14+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "‘Ramayana’ nears Rs 1,500 crore mark at worldwide box office",
-       "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-13-ranbir-kapoor-and-yash-starrer-nears-rs-1500-crore-worldwide-despite-second-tuesday-dip/articleshow/135943827.cms",
-       "publishedAt": "2026-11-18T05:41+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "‘Ramayana’ box office collection Day 13: Ranbir Kapoor and Yash starrer nears Rs 1,500 crore worldwide de",
-       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQWWM5OFJQeGVzeW9EbW80Q2toUVpybzhPQ2F0eU9KNS14YXowb2ZaX0FzQ2kzVzI3aU9na2xrTm9iZ29vd1NvX01SbGpaZWRibUl0MFUtYlFLRWs1bWUzSU4tZGlSQ2FfTHVfTlNrbXJjX1I4aTM4VUVoZVJkbVJ0cFVRRUk4NE5lVlQ5VWFjUzJDWWhpemlaN3JHVVE5d1dadjVMOTFBZVdpTC1rWmY2TmQ4LUFTbTNDdGNscTRsckNvdzBvLUdfaE9WQ1hITlBPZ0t0UmsxRl94NGd4aXhRWm41OVpKa3VLRVdHRVNTaG5uNnkxYUpMU05ac3AyMlBRcWJBTVFlcVB4WjQ0WUQ4R3dlcG4tdVpOOTR3ZThkWXJ6WUg4TUY2RkNxeDltam9EWlJjYzFTUE5CaksxNUVfQ3ladWN2cVd1bC1Ndw?oc=5",
-       "publishedAt": "2026-11-18T05:41+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Two Indian crew members injured, one missing after missile attack on LPG tanker in Strait of Hormuz",
-     "link": "https://www.hindustantimes.com/india-news/two-indian-crew-members-injured-one-missing-after-missile-attack-on-lpg-tanker-in-strait-of-hormuz-101794961875057.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "News On AIR",
-      "Rising Kashmir",
-      "Scroll.in",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-18T07:38+05:30",
-     "score": 8.21,
-     "summary": "The vessel was struck twice within hours, with the second attack triggering a fire that left the crew unable to access lifeboats and rafts.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/IRAN-CRISIS-TANKER-2_1794962223321_80kW_1794962235349_tDCb_2dc8c804-6d09-4921-af43-1e59e7de649e_tGTq.JPG",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Two Indian crew members injured, one missing after missile attack on LPG tanker in Strait of Hormuz",
-       "link": "https://www.hindustantimes.com/india-news/two-indian-crew-members-injured-one-missing-after-missile-attack-on-lpg-tanker-in-strait-of-hormuz-101794961875057.html",
-       "publishedAt": "2026-11-18T07:38+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Indian national missing after attacks in Hormuz",
-       "link": "https://economictimes.indiatimes.com/nri/latest-updates/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/articleshow/135945223.cms",
-       "publishedAt": "2026-11-18T07:16+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Indian national missing after attacks on commercial vessel in Strait of Hormuz",
-       "link": "https://www.thehindu.com/news/national/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/article71714331.ece",
-       "publishedAt": "2026-11-18T06:37+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Merchant jailed for 27 yrs on Trump's murder plot",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/pakistani-man-sentenced-to-27-years-jail-for-trumps-murder-plot/articleshow/135946601.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "BBC",
-      "NDTV",
-      "The Economic Times",
-      "The Guardian",
-      "The Hindu",
-      "The Lufkin Daily News",
-      "The Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-18T08:32+05:30",
-     "score": 7.94,
-     "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Guards commander Qassem Suleimani, the Department of Justice said. Asif Merchant, who had alleged ties to Iran, sought to hire a hitman to…",
-     "image": "https://i.guim.co.uk/img/media/470133f77dd96a905faa69a723f46914cdfdc04a/94_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=11062169033367f64e71f0d60d4ca69a",
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Merchant jailed for 27 yrs on Trump's murder plot",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/pakistani-man-sentenced-to-27-years-jail-for-trumps-murder-plot/articleshow/135946601.cms",
-       "publishedAt": "2026-11-18T08:32+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
-       "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
-       "publishedAt": "2026-11-18T05:51+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Pakistani Man Jailed For 27 Years In US For Trump Murder Plot",
-       "link": "https://www.ndtv.com/world-news/pakistani-man-jailed-for-27-years-in-us-for-trump-murder-plot-12341452#publisher=newsstand",
-       "publishedAt": "2026-11-18T04:35+05:30"
       }
      ]
     }
