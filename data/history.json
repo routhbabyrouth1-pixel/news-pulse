@@ -1,6 +1,154 @@
 {
- "updated": "2026-11-27T02:25+05:30",
+ "updated": "2026-11-27T03:23+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T03:00+05:30",
+   "generatedAt": "2026-11-27T03:23+05:30",
+   "feeds": 17,
+   "headlines": 253,
+   "stories": [
+    {
+     "title": "Gukesh's berlin defence masterclass holds Sindarov to draw in game 3",
+     "link": "https://timesofindia.indiatimes.com/sports/chess/gukeshs-berlin-defence-masterclass-holds-sindarov-to-draw-in-game-3-of-world-championship/articleshow/136202706.cms",
+     "source": "Times of India",
+     "sources": [
+      "Chess.com",
+      "ESPN India",
+      "News On AIR",
+      "The Guardian",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T01:22+05:30",
+     "score": 8.16,
+     "summary": "In a gripping clash at the World Chess Championship, D Gukesh showcased impressive strategy with black pieces, managing a hard-fought draw against Javokhir Sindarov. After 60 intense moves, both competitors stood at 1.5 points. Gukesh's adept use of the Berlin Defence successfully thwarted Sindarov's aggressive tactics. Following a well-deserved rest day, the players gear up for Game 4, where Gukesh will shift to…",
+     "image": "https://static.toiimg.com/photo/msid-136202777,imgsize-114764.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Gukesh's berlin defence masterclass holds Sindarov to draw in game 3",
+       "link": "https://timesofindia.indiatimes.com/sports/chess/gukeshs-berlin-defence-masterclass-holds-sindarov-to-draw-in-game-3-of-world-championship/articleshow/136202706.cms",
+       "publishedAt": "2026-11-27T01:22+05:30"
+      },
+      {
+       "source": "Chess.com",
+       "title": "Gukesh-Sindarov FIDE World Championship 2026 Game 3 Ends In Thrilling Draw",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYWlrSVVVa2J0T182ZWUyRkRldnBwcWlrdF92d3lKX3FUQnlWc2I5d0lOVHB6NXJ4bDJ0aGx4Sk5sRUpLOXlzS0pGS0xSZXpBMVQ2RVVhZnZvUUdFWWhONUd4VXBiWU5jcUV0SE1faEpROEN5a3Vzd2d4dWdKQQ?oc=5",
+       "publishedAt": "2026-11-27T01:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 7",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk4zN3FOMFpQOHJuamY5NHVlSWtjRXVDSkU5Z3dRZ1F0bUNWZF9LOEhOYXR3SlRHMndXWWJvZ29TWVo0bnVNVDFZOTk1SWVOdTJyT0pRRUpOWTFHVEJuVUhoMGJFcjVKNDRiTkNDeHhRQzhsNG5EM3JvVDh4UEVjV0lTeEk4dFQwRmFGVXVB?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "India Today",
+      "Lensmen Reviews",
+      "NDTV",
+      "Rediff.com",
+      "Sacnilk",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T00:44+05:30",
+     "score": 7.68,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk4zN3FOMFpQOHJuamY5NHVlSWtjRXVDSkU5Z3dRZ1F0bUNWZF9LOEhOYXR3SlRHMndXWWJvZ29TWVo0bnVNVDFZOTk1SWVOdTJyT0pRRUpOWTFHVEJuVUhoMGJFcjVKNDRiTkNDeHhRQzhsNG5EM3JvVDh4UEVjV0lTeEk4dFQwRmFGVXVB?oc=5",
+       "publishedAt": "2026-11-27T00:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Hamas weighs response after Israel kills 10 people in Gaza",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzFiM29KUVhvZHZUYTV1SWtlLXNYbXg3ZzRodFVmanZkNzJsczZ4UldfRkNkSW1fVDhMaTFYOW9ETUxXaXFKcktCTThoYnBYS21mVjQxYkNWM19MR1h0WHNSdjlGenRTNkExU2RKU0ZKNUhCRWR0OVU2VmFqTUJHeE5QMVNybDE4Qk1WTmp5VGgyWDV0NjhaM3h4Ulp1bWZDUThnSlI0TFMwMnQzNk5KQnZXVTRCUUxvc2FLbmlDYVREeHpwOUpV?oc=5",
+     "source": "Reuters",
+     "sources": [
+      "AP News",
+      "CNN",
+      "Reuters",
+      "The Hindu",
+      "The Times of Israel"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T02:26+05:30",
+     "score": 7.34,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Reuters",
+       "title": "Hamas weighs response after Israel kills 10 people in Gaza",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzFiM29KUVhvZHZUYTV1SWtlLXNYbXg3ZzRodFVmanZkNzJsczZ4UldfRkNkSW1fVDhMaTFYOW9ETUxXaXFKcktCTThoYnBYS21mVjQxYkNWM19MR1h0WHNSdjlGenRTNkExU2RKU0ZKNUhCRWR0OVU2VmFqTUJHeE5QMVNybDE4Qk1WTmp5VGgyWDV0NjhaM3h4Ulp1bWZDUThnSlI0TFMwMnQzNk5KQnZXVTRCUUxvc2FLbmlDYVREeHpwOUpV?oc=5",
+       "publishedAt": "2026-11-27T02:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+     "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNN",
+      "Reuters"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T02:47+05:30",
+     "score": 6.11,
+     "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+       "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-27T02:47+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+       "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+       "publishedAt": "2026-11-26T22:02+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Union Cabinet approves ₹11,000 crore scheme to boost domestic construction equipment manufacturing",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFRkY1hNLUh0dE9TcHhjelo5eGtNa2xhZzJ3bmxTckF1bXRSNVNGS0xvMTRYUmtqcFhaX1RmazRvQ0JJNDlPRngzZjV2YmV3c0VIWThWRzZ6X1AwUjRYSFhHb0hKVGdFQmhwRk9VVXMtQjBMUlZvaVY0YkhReXBKbm5WTlNLV0FSLVlpWTVoT21BMDItSy1KOWRNbjFfSl9ZYkRpbTZsZ1lxd2xSM0FqRFZDTTFPV28?oc=5",
+     "source": "News On AIR",
+     "sources": [
+      "News On AIR",
+      "PM India",
+      "Reuters",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T02:36+05:30",
+     "score": 5.97,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "News On AIR",
+       "title": "Union Cabinet approves ₹11,000 crore scheme to boost domestic construction equipment manufacturing",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFRkY1hNLUh0dE9TcHhjelo5eGtNa2xhZzJ3bmxTckF1bXRSNVNGS0xvMTRYUmtqcFhaX1RmazRvQ0JJNDlPRngzZjV2YmV3c0VIWThWRzZ6X1AwUjRYSFhHb0hKVGdFQmhwRk9VVXMtQjBMUlZvaVY0YkhReXBKbm5WTlNLV0FSLVlpWTVoT21BMDItSy1KOWRNbjFfSl9ZYkRpbTZsZ1lxd2xSM0FqRFZDTTFPV28?oc=5",
+       "publishedAt": "2026-11-27T02:36+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T02:00+05:30",
    "generatedAt": "2026-11-27T02:25+05:30",
@@ -29366,194 +29514,6 @@
        "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
        "publishedAt": "2026-11-18T20:00+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T00:00+05:30",
-   "generatedAt": "2026-11-19T00:23+05:30",
-   "feeds": 16,
-   "headlines": 263,
-   "stories": [
-    {
-     "title": "Historic first: Democrat Hakeem Jeffries nominated to become House Speaker",
-     "link": "https://timesofindia.indiatimes.com/world/us/historic-first-democrats-nominate-hakeem-jeffries-set-to-be-first-black-us-house-speaker/articleshow/135969043.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CNBC",
-      "CNN",
-      "Mint",
-      "The Guardian",
-      "The New York Times",
-      "Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-18T23:25+05:30",
-     "score": 10.09,
-     "summary": "Democrats have nominated Hakeem Jeffries for US House Speaker, putting him on course to become the first Black American to hold the post. The New York lawmaker faces a full House vote on January 3, 2027, amid calls from progressive Democrats for leadership changes and a fresh party direction.",
-     "image": "https://static.toiimg.com/photo/msid-135969103,imgsize-107182.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Historic first: Democrat Hakeem Jeffries nominated to become House Speaker",
-       "link": "https://timesofindia.indiatimes.com/world/us/historic-first-democrats-nominate-hakeem-jeffries-set-to-be-first-black-us-house-speaker/articleshow/135969043.cms",
-       "publishedAt": "2026-11-18T23:25+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "History in the making? Hakeem Jeffries nominated as House Speaker, set to become first Black American to hold the post",
-       "link": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
-       "publishedAt": "2026-11-18T23:05+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-18T23:04+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
-       "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
-       "publishedAt": "2026-11-18T22:54+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
-       "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
-       "publishedAt": "2026-11-18T21:07+05:30"
-      }
-     ]
-    },
-    {
-     "title": "GTA 6 India release time: Indians await much-anticipated game as New Zealand gets to play",
-     "link": "https://www.hindustantimes.com/india-news/gta-6-india-release-time-indians-await-much-anticipated-game-as-new-zealand-gets-to-play-101795012108497.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "BBC",
-      "Bloomberg.com",
-      "Hindustan Times",
-      "NDTV",
-      "The Guardian",
-      "The New York Times"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T23:04+05:30",
-     "score": 7.53,
-     "summary": "Indian gamers will be able to access the game from 12 am IST on November 19, as Rockstar Games has confirmed that GTA 6 will launch at midnight local time",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/MALAYSIA-ENTERTAINMENT-GAMING-GTA6-0_1795012676759_tqpR_1795012681083_Ryzn_e965982c-8f8f-416e-bf34-47a30f6b632e_NNYh.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "GTA 6 India release time: Indians await much-anticipated game as New Zealand gets to play",
-       "link": "https://www.hindustantimes.com/india-news/gta-6-india-release-time-indians-await-much-anticipated-game-as-new-zealand-gets-to-play-101795012108497.html",
-       "publishedAt": "2026-11-18T20:31+05:30"
-      },
-      {
-       "source": "BBC",
-       "title": "GTA 6 reviews say highly-anticipated game is a masterpiece",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QYzNLR182dmNxMWNGNGItTVNHZ1l2UjRPRkY1WGt6WkxBUHZXYkktZmhjekl5M01lUHdicHhCZ1FPRjh1bERTWFBwWldsMWQ0LURiUG9EdHFMdzg?oc=5",
-       "publishedAt": "2026-11-18T23:04+05:30"
-      }
-     ]
-    },
-    {
-     "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
-     "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
-     "source": "Times of India",
-     "sources": [
-      "Arab News",
-      "CGTN",
-      "Reuters",
-      "The Guardian",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T21:54+05:30",
-     "score": 7.33,
-     "summary": "In a bold move, European Commission president Ursula von der Leyen has put forth a significant initiative to grant Ukraine a €45 billion loan. This funding, earmarked for bolstering Ukraine's defense and stabilizing its economy during the ongoing conflict, would only be repayable once Russia compensates Ukraine for the damages incurred during the war.",
-     "image": "https://static.toiimg.com/photo/msid-135967627,imgsize-72625.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
-       "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
-       "publishedAt": "2026-11-18T21:54+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
-       "publishedAt": "2026-11-18T20:22+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Gold tumbles over 2% to lowest since September 2025 on hawkish Fed bets",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHdPVUR5QjJ5U083QUozRDZ1NUs0c0NaU2pFSDdzSGFVWlpsSGlydFZxV21jWjJlOGQ4NVZ1bkNMT1J4ME5UN3BPTzlOdkhQTnpvNVd4WVBya2RRWlhFX0R2dURaVnR6NnJVT0RJcGxfc2piZ2hiYjVmRkdLOHNDb1VPV3YyRjdsenM1M2t6SHA5ekVOc0duZTFpRWNkUTBXUF81c2JRU2toRHlxZGstYUxB?oc=5",
-     "source": "FXStreet",
-     "sources": [
-      "CNBC",
-      "FXEmpire",
-      "FXStreet",
-      "Kitco",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T21:48+05:30",
-     "score": 7.07,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "FXStreet",
-       "title": "Gold tumbles over 2% to lowest since September 2025 on hawkish Fed bets",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHdPVUR5QjJ5U083QUozRDZ1NUs0c0NaU2pFSDdzSGFVWlpsSGlydFZxV21jWjJlOGQ4NVZ1bkNMT1J4ME5UN3BPTzlOdkhQTnpvNVd4WVBya2RRWlhFX0R2dURaVnR6NnJVT0RJcGxfc2piZ2hiYjVmRkdLOHNDb1VPV3YyRjdsenM1M2t6SHA5ekVOc0duZTFpRWNkUTBXUF81c2JRU2toRHlxZGstYUxB?oc=5",
-       "publishedAt": "2026-11-18T21:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India imposes 162.5% duty and tax on bulk Scotch imports amid UK trade pact dispute",
-     "link": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
-     "source": "The Hindu",
-     "sources": [
-      "BusinessLine",
-      "Mint",
-      "Reuters",
-      "The Drinks Business",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T23:00+05:30",
-     "score": 7.02,
-     "summary": "More than 80 containers belonging to Pernod Ricard, Diageo and Bacardi remain stuck at Indian ports as the dispute over customs classification threatens to disrupt the liquor industry.",
-     "image": "https://th-i.thgim.com/public/incoming/42dmsb/article71717328.ece/alternates/LANDSCAPE_1200/Scotch-imports_G6LGPL3SM.4.jpg.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "India imposes 162.5% duty and tax on bulk Scotch imports amid UK trade pact dispute",
-       "link": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
-       "publishedAt": "2026-11-18T23:00+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "Why India is imposing 162.5% duty on bulk Scotch imports despite India-UK trade pact cutting tariffs to 75%",
-       "link": "https://www.livemint.com/news/india/why-india-is-imposing-162-5-duty-on-bulk-scotch-imports-despite-india-uk-trade-pact-cutting-tariffs-to-75-11795010628919.html",
-       "publishedAt": "2026-11-18T20:18+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
-       "publishedAt": "2026-11-18T18:27+05:30"
       }
      ]
     }
