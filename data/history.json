@@ -1,6 +1,176 @@
 {
- "updated": "2026-11-27T00:26+05:30",
+ "updated": "2026-11-27T01:33+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T01:00+05:30",
+   "generatedAt": "2026-11-27T01:33+05:30",
+   "feeds": 16,
+   "headlines": 264,
+   "stories": [
+    {
+     "title": "Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30",
+     "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T00:44+05:30",
+     "score": 8.37,
+     "summary": "The Union Cabinet will meet on November 27 to clear the amended legislation",
+     "image": "https://th-i.thgim.com/public/incoming/zarshs/article71747086.ece/alternates/LANDSCAPE_1200/Uncertainty-oveGDHGRKK49.4.jpg.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30",
+       "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+       "publishedAt": "2026-11-27T00:44+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Parliament Reconvenes From November 30 For Centre's Big Delimitation Move",
+       "link": "https://www.ndtv.com/india-news/amid-delimitation-womens-quota-bill-buzz-centre-seeks-to-reconvene-parliament-from-november-30-12381318#publisher=newsstand",
+       "publishedAt": "2026-11-26T23:18+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Centre seeks three-day special sitting of Parliament from 30 November",
+       "link": "https://www.livemint.com/news/centre-seeks-three-day-special-sitting-of-parliament-from-30-november-11795704288485.html",
+       "publishedAt": "2026-11-26T21:38+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Aakasamlo Oka Tara Box Office Collection Day 7",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk4zN3FOMFpQOHJuamY5NHVlSWtjRXVDSkU5Z3dRZ1F0bUNWZF9LOEhOYXR3SlRHMndXWWJvZ29TWVo0bnVNVDFZOTk1SWVOdTJyT0pRRUpOWTFHVEJuVUhoMGJFcjVKNDRiTkNDeHhRQzhsNG5EM3JvVDh4UEVjV0lTeEk4dFQwRmFGVXVB?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "India Today",
+      "NDTV",
+      "Nagaland Post",
+      "Rediff.com",
+      "Sacnilk",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T00:44+05:30",
+     "score": 7.99,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk4zN3FOMFpQOHJuamY5NHVlSWtjRXVDSkU5Z3dRZ1F0bUNWZF9LOEhOYXR3SlRHMndXWWJvZ29TWVo0bnVNVDFZOTk1SWVOdTJyT0pRRUpOWTFHVEJuVUhoMGJFcjVKNDRiTkNDeHhRQzhsNG5EM3JvVDh4UEVjV0lTeEk4dFQwRmFGVXVB?oc=5",
+       "publishedAt": "2026-11-27T00:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Crude Oil Prices Today | OilPrice.com",
+      "Diplomacy and Law",
+      "Telegraph India",
+      "ThePrint"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T21:26+05:30",
+     "score": 7.41,
+     "summary": "Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+       "publishedAt": "2026-11-26T21:26+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+       "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-26T20:47+05:30"
+      },
+      {
+       "source": "Crude Oil Prices Today | OilPrice.com",
+       "title": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVRYSzE0d0diSXFSd3RQNWxKZ09JNDJ6dHNyMlM2V25HUWFSVHdGMUlmbktZakFxb0I1eFg4M21VRUVVRnJQVUNEQXFTT2FHX0VlRE15RktYYk1hZFRpX1QzRzZ6aTFqNzdzMmEwd1VyS0NRZDhzWHg5Q1dOcjV4eEJXbllYZmtnQl9jblFQT25xcDV2d193bXd0WXliYkdjbGlMWmRuMXUweTF4T2fSAbMBQVVfeXFMTlVTakl6ZjFENlpVQVpBalk3NzRDTHVucndhbi01Q0hsWmgzSXZydEtXeTU3WFp4VlFTc3YtaHVESEE0ZDIyNlJ6SFUtVWR2QTN5RDJnd2RFUzZxZUhGMlhhUm9helNMU2JObk5PYWpjNGF2ZnFFeDlYQ1EzRDdzTWlzN2htZHJIcTlDRS1MdjFPWWJBX3J3UUhCazBQN0c3Slg4VHg3Tk5wQ2dVN3I2WW9oWEU?oc=5",
+       "publishedAt": "2026-11-26T20:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia Jensen Huang News Live Updates: Vance rules out pardon as China chip scrutiny grows",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEhBX0lVWUVDeERWSUl3RW1pVTlGM3BubXJ3ZzhYU0RLUEZ0NEdLb0ZuQWExZ1ZNZ2lPdHVMMFgtNGdvazY4LUxwWkNoMXhST0VXaDMtaVlsenRrbnpabGN1a0JMdnFGZjZiaXp2d1BTMUxuV0NwcWk1cjZrX2JUamxuWDJkSy1ITG5oUldmakdhajNyeG5vVWJJaktKMmVsc1BWQjMyTEV0dVlMNjF5Sk44YmhUd3FKTHRDYktlYm9vaXNUX0hhc3pYU1lpd9IB1AFBVV95cUxPdkpRdV9oNTZScjdwYW1RZ2JOR2UyWWtmYTlMZmQ4MjVXVVlhb3NiWlpsNEZZRVl2cjRlejR0cVpvMGs2ZUpSWU1tTEZxbDZ5Q184RWs0Q2RsSU1lcG9xc0M0ODlKeFprLWFhTFEtZXJmLTg3dUxzUjZNSmpYWGpwZDk1QnVWNlUzelNSZTlfdURQdGt0ODVFSzl5MU5FeDlEYlUzaHQtNDJoSnVrdnJOUFUzdTV6RnBONmRoTlFTcG90R1dHYXQzNUNqdzB5cGU2YmFvUQ?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "Al Jazeera",
+      "The Economist",
+      "The Hindu",
+      "The Indian Express",
+      "The New York Times",
+      "The Washington Post"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T22:28+05:30",
+     "score": 6.99,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Nvidia Jensen Huang News Live Updates: Vance rules out pardon as China chip scrutiny grows",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEhBX0lVWUVDeERWSUl3RW1pVTlGM3BubXJ3ZzhYU0RLUEZ0NEdLb0ZuQWExZ1ZNZ2lPdHVMMFgtNGdvazY4LUxwWkNoMXhST0VXaDMtaVlsenRrbnpabGN1a0JMdnFGZjZiaXp2d1BTMUxuV0NwcWk1cjZrX2JUamxuWDJkSy1ITG5oUldmakdhajNyeG5vVWJJaktKMmVsc1BWQjMyTEV0dVlMNjF5Sk44YmhUd3FKTHRDYktlYm9vaXNUX0hhc3pYU1lpd9IB1AFBVV95cUxPdkpRdV9oNTZScjdwYW1RZ2JOR2UyWWtmYTlMZmQ4MjVXVVlhb3NiWlpsNEZZRVl2cjRlejR0cVpvMGs2ZUpSWU1tTEZxbDZ5Q184RWs0Q2RsSU1lcG9xc0M0ODlKeFprLWFhTFEtZXJmLTg3dUxzUjZNSmpYWGpwZDk1QnVWNlUzelNSZTlfdURQdGt0ODVFSzl5MU5FeDlEYlUzaHQtNDJoSnVrdnJOUFUzdTV6RnBONmRoTlFTcG90R1dHYXQzNUNqdzB5cGU2YmFvUQ?oc=5",
+       "publishedAt": "2026-11-26T22:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Wish Akhilesh spent 6 months in jail': Azam Khan quips; gets witty reply from SP chief",
+     "link": "https://timesofindia.indiatimes.com/india/wish-akhilesh-spent-6-months-in-jail-azam-khan-quips-gets-witty-reply-from-sp-chief/articleshow/136197847.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "Scroll.in",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T21:54+05:30",
+     "score": 6.89,
+     "summary": "Azam Khan openly wished that Akhilesh Yadav would spend time in prison to truly grasp its harsh realities. During the launch of the SP manifesto for the upcoming elections, Khan shared his emotional turmoil over being distanced from his son and the sleepless nights spent worrying about his son's fate amid transfers.",
+     "image": "https://static.toiimg.com/photo/msid-136197906,imgsize-99946.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Wish Akhilesh spent 6 months in jail': Azam Khan quips; gets witty reply from SP chief",
+       "link": "https://timesofindia.indiatimes.com/india/wish-akhilesh-spent-6-months-in-jail-azam-khan-quips-gets-witty-reply-from-sp-chief/articleshow/136197847.cms",
+       "publishedAt": "2026-11-26T21:54+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Akhilesh Yadav On Stage, Azam Khan Says 'Wish He Spent 6 Months In Jail'",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2lBc1N0eFZON0I3cEE1V1F3N1ZBSjYwUkRuMFNhc3lfQzE5QUdxdGFKVTFuVnVvZUQzaThlNWFXVEVjQW9ESEl1cmFSTl9QNy1sbVBvOTJHOXd1VG9YOEh3aEw3SFBKa01UQ0tuVTF2OGNOejlSYjVLRUFXOVg3RkZXRXFSVVV1NTA4LXZSZzl4bTl0bW1POUpFTE1ZS1VnWUlDOVo3WUZEbFVBQTlQZC1XRQ?oc=5",
+       "publishedAt": "2026-11-26T20:54+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T00:00+05:30",
    "generatedAt": "2026-11-27T00:26+05:30",
@@ -29436,193 +29606,6 @@
        "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
        "publishedAt": "2026-11-18T20:22+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T22:00+05:30",
-   "generatedAt": "2026-11-18T22:30+05:30",
-   "feeds": 16,
-   "headlines": 313,
-   "stories": [
-    {
-     "title": "Why India is imposing 162.5% duty on bulk Scotch imports despite India-UK trade pact cutting tariffs to 75%",
-     "link": "https://www.livemint.com/news/india/why-india-is-imposing-162-5-duty-on-bulk-scotch-imports-despite-india-uk-trade-pact-cutting-tariffs-to-75-11795010628919.html",
-     "source": "Mint",
-     "sources": [
-      "BusinessLine",
-      "Mint",
-      "Reuters",
-      "The Drinks Business",
-      "The Times of India",
-      "Times of India",
-      "scanx.trade"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-18T20:18+05:30",
-     "score": 7.93,
-     "summary": "The higher duty, which exceeds the 150% tariff applicable before the trade pact, has raised concerns about shipment delays, working capital pressures and potential disruptions to India's $65 billion liquor market.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/scotch_1795013286142_hWBf_1795013302212_6UEd_e843898f-3934-4297-a125-ade7204ce2f2_p7r0.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Why India is imposing 162.5% duty on bulk Scotch imports despite India-UK trade pact cutting tariffs to 75%",
-       "link": "https://www.livemint.com/news/india/why-india-is-imposing-162-5-duty-on-bulk-scotch-imports-despite-india-uk-trade-pact-cutting-tariffs-to-75-11795010628919.html",
-       "publishedAt": "2026-11-18T20:18+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Scotch on the rocks? India imposes 162.5% duty, tax on bulk UK imports",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/scotch-on-the-rocks-india-imposes-162-5-duty-tax-on-bulk-uk-imports-domestic-production-likely-to-be-hit/articleshow/135961860.cms",
-       "publishedAt": "2026-11-18T17:07+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
-       "publishedAt": "2026-11-18T18:27+05:30"
-      }
-     ]
-    },
-    {
-     "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
-     "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
-     "source": "Times of India",
-     "sources": [
-      "Arab News",
-      "CGTN",
-      "Council, European Union",
-      "Reuters",
-      "The Guardian",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T21:54+05:30",
-     "score": 7.65,
-     "summary": "In a bold move, European Commission president Ursula von der Leyen has put forth a significant initiative to grant Ukraine a €45 billion loan. This funding, earmarked for bolstering Ukraine's defense and stabilizing its economy during the ongoing conflict, would only be repayable once Russia compensates Ukraine for the damages incurred during the war.",
-     "image": "https://static.toiimg.com/photo/msid-135967627,imgsize-72625.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "A war bill for Russia? Europe's €45 billion Ukraine plan echoes Germany's WWI reparations",
-       "link": "https://timesofindia.indiatimes.com/world/europe/a-war-bill-for-russia-europes-45-billion-ukraine-plan-echoes-germanys-wwi-reparations/articleshow/135967589.cms",
-       "publishedAt": "2026-11-18T21:54+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
-       "publishedAt": "2026-11-18T20:22+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CNN",
-      "The Guardian",
-      "The New York Times"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T22:07+05:30",
-     "score": 7.19,
-     "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-18T22:07+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
-       "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
-       "publishedAt": "2026-11-18T21:25+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
-       "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
-       "publishedAt": "2026-11-18T21:07+05:30"
-      }
-     ]
-    },
-    {
-     "title": "MoD signs ₹1,976-crore contract with Israel to upgrade Barak missile system",
-     "link": "https://www.thehindu.com/news/national/mod-signs-1976-crore-contract-with-israel-to-upgrade-barak-missile-system/article71716628.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Moneycontrol.com",
-      "Reuters",
-      "The Economic Times",
-      "The Hindu",
-      "i24NEWS",
-      "www.pib.gov.in"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T22:06+05:30",
-     "score": 7.18,
-     "summary": "The upgrade will involve comprehensive hardware and software improvements to enhance the missile system’s operational capabilities and engagement range aboard Indian Navy warships",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "MoD signs ₹1,976-crore contract with Israel to upgrade Barak missile system",
-       "link": "https://www.thehindu.com/news/national/mod-signs-1976-crore-contract-with-israel-to-upgrade-barak-missile-system/article71716628.ece",
-       "publishedAt": "2026-11-18T22:06+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "India and Israel fire up ₹1,976 crore missile deal",
-       "link": "https://economictimes.indiatimes.com/news/defence/india-signs-rs-1976-crore-deal-with-israel-to-upgrade-navys-barak-missile-systems/articleshow/135963546.cms",
-       "publishedAt": "2026-11-18T18:04+05:30"
-      },
-      {
-       "source": "Moneycontrol.com",
-       "title": "India inks Rs 2,000-crore contract with Israel Aerospace Industries to upgrade Navy's Barak missiles",
-       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcnp5ODdZbmF3NElvX19XRGxjUDJxUkxISkRYYUZEWU5CTVE0YWxFM1l2WDdBQUpIcFNhRWo2X1RoQklXX1lPc1VTRlUzVTNnbnp5QWZTcExvd0hEaGY5QUZkblFzVTJWS3FlTm5zREkzYTlid2taa1VOVGlrb2xoS0trQ3p0LUR6ZVFhSVpsLW5uVlVySVEyUlYwWnBobnFjYm96UDNwb2wyNnVrXzhZaDg1Nzl1VHRFbGZHNFlJN0hwSk4yZ3FBcjk1U2ttbnJIOHhiS1ctYkFDWHpwdzhHRVJkdzR3YW5lblJBcEhPRTbSAfYBQVVfeXFMTXFISkJ5dGI0VHlCcENaNGQ3RU5PYl9pc1pGejhUNVlMRTloLXl4YXdua0UwTXpNX094RURjbFFRcGw0ZEpxMTF6LUp3b09XNDBFMVRsZzlXbFN3ZGp3OUVES1Q1VTVfU0dZR0p4WU1CRTBxMGt5Q1hPNU5OMFJTU1NobExHUDVwTUVfQlE4ak9CYlRZaXpqWVhVSWhWNjRIRnJPWXZWeEx5blJreEpvaHQ5VXVKdzRUYnluMU9USHNHd2JrRlcxWTBwM1VCM0U1S1ZMa3REZ2tfUTZuZ19ja0pIUHhDNHhkS3ZiM0xwOGpDdnk5dlNB?oc=5",
-       "publishedAt": "2026-11-18T18:29+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Prince William, Kate Middleton meet PM Modi in Delhi",
-     "link": "https://timesofindia.indiatimes.com/india/prince-william-kate-middleton-meet-pm-modi-in-delhi-as-three-day-india-visit-concludes/articleshow/135966803.cms",
-     "source": "Times of India",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "Marie Claire",
-      "Reuters",
-      "Times of India",
-      "Vogue"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T21:59+05:30",
-     "score": 7.16,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135967672,imgsize-149774.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Prince William, Kate Middleton meet PM Modi in Delhi",
-       "link": "https://timesofindia.indiatimes.com/india/prince-william-kate-middleton-meet-pm-modi-in-delhi-as-three-day-india-visit-concludes/articleshow/135966803.cms",
-       "publishedAt": "2026-11-18T21:59+05:30"
-      },
-      {
-       "source": "BBC",
-       "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
-       "publishedAt": "2026-11-18T20:00+05:30"
       }
      ]
     }
