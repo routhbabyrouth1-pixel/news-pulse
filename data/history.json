@@ -1,6 +1,166 @@
 {
- "updated": "2026-11-27T04:25+05:30",
+ "updated": "2026-11-27T05:25+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T05:00+05:30",
+   "generatedAt": "2026-11-27T05:25+05:30",
+   "feeds": 16,
+   "headlines": 153,
+   "stories": [
+    {
+     "title": "2 Italians Killed In Drone Strike In Kuwait, Iran Denies Responsibility",
+     "link": "https://www.ndtv.com/world-news/2-italians-killed-in-drone-strike-in-kuwait-iran-denies-responsibility-12382629#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "CNN",
+      "Mint",
+      "NDTV",
+      "The Hindu"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T04:03+05:30",
+     "score": 9.27,
+     "summary": "Iran has in the last week ratcheted up attacks on Kuwait and Gulf neighbour Bahrain while it continues to fight the United States for control of the contested Strait of Hormuz.",
+     "image": "https://c.ndtvimg.com/2026-07/f654ucus_kuwait_625x300_17_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "2 Italians Killed In Drone Strike In Kuwait, Iran Denies Responsibility",
+       "link": "https://www.ndtv.com/world-news/2-italians-killed-in-drone-strike-in-kuwait-iran-denies-responsibility-12382629#publisher=newsstand",
+       "publishedAt": "2026-11-27T04:03+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+       "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-27T02:47+05:30"
+      },
+      {
+       "source": "Mint",
+       "title": "Kuwait Says Iranian Drone Strike Killed Two Italian Workers",
+       "link": "https://www.livemint.com/news/kuwait-says-iranian-drone-strike-killed-two-italian-workers-11795725187362.html",
+       "publishedAt": "2026-11-27T02:03+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTTJLR040dFNoUlFYaVk0RF9CMUp2d1drUlVYVkNXWGQ4MldxM0VFTE52MDMzTHNXVmpFVEZjeGUteHlCY00zWjFNcFVVX1ZWOWhLSE9GeF9tRGE2bWVVd1l4eHVtY3hUc0dnN19rbVZfN0k4cUtZcTRwQlgzbXF5NUZmM242RmU2UGVXR2tGRHM1RUNOMF9qdVZDTjBFZFZDOWp1blozM3lhU1VXcVhR0gG0AUFVX3lxTFBoVDAzRnVkN1JNUEliazROM0hQamFsWVF0a3lxZXBISlcwOFhoWndKNnlDU1JVMzZWVXM1aVVLRm1aQXNNOU45bnZIVHlqcUg2R2hCbHY4bEtHaEFqS2dmY0RmUlpRMG9MRTZoZTYxMDRLLXhaLWtla2dzNWY1b0xzMU15R0dlVkdJTW9EeFNHYkdRN0RwT2llT2ZWUVlKQ3IwS1ZrRWRHSXdwMUdGZGVkcjF0WA?oc=5",
+       "publishedAt": "2026-11-27T02:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gukesh's berlin defence masterclass holds Sindarov to draw in game 3",
+     "link": "https://timesofindia.indiatimes.com/sports/chess/gukeshs-berlin-defence-masterclass-holds-sindarov-to-draw-in-game-3-of-world-championship/articleshow/136202706.cms",
+     "source": "Times of India",
+     "sources": [
+      "Chess.com",
+      "ChessBase India",
+      "ESPN India",
+      "News On AIR",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T04:32+05:30",
+     "score": 8.35,
+     "summary": "In a gripping clash at the World Chess Championship, D Gukesh showcased impressive strategy with black pieces, managing a hard-fought draw against Javokhir Sindarov. After 60 intense moves, both competitors stood at 1.5 points. Gukesh's adept use of the Berlin Defence successfully thwarted Sindarov's aggressive tactics. Following a well-deserved rest day, the players gear up for Game 4, where Gukesh will shift to…",
+     "image": "https://static.toiimg.com/photo/msid-136202777,imgsize-114764.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Gukesh's berlin defence masterclass holds Sindarov to draw in game 3",
+       "link": "https://timesofindia.indiatimes.com/sports/chess/gukeshs-berlin-defence-masterclass-holds-sindarov-to-draw-in-game-3-of-world-championship/articleshow/136202706.cms",
+       "publishedAt": "2026-11-27T01:22+05:30"
+      },
+      {
+       "source": "Chess.com",
+       "title": "Gukesh, Sindarov Both Push For Win As Game 3 Ends In Thrilling Draw",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYWlrSVVVa2J0T182ZWUyRkRldnBwcWlrdF92d3lKX3FUQnlWc2I5d0lOVHB6NXJ4bDJ0aGx4Sk5sRUpLOXlzS0pGS0xSZXpBMVQ2RVVhZnZvUUdFWWhONUd4VXBiWU5jcUV0SE1faEpROEN5a3Vzd2d4dWdKQQ?oc=5",
+       "publishedAt": "2026-11-27T04:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Alienware Makes Some of the Best OLED Gaming Monitors Around and They're All on Sale for Black Friday",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWEE2ZWdQYjFhZDR5a1ljN3lfY2V1Z0FWM28tTGRPbW0zUDhTNWNuWW5rNUpjb3lVd21DT1haaXE2bmt6eHNTT1pIMmh5U2FGcDJNV2tKYUxENDgxTGxTVDFPREVkZVduU2JuY2FvQ2ZhdFd5UExBcXdGZE43Qk92Wl9CaWhSU00wYkE?oc=5",
+     "source": "IGN",
+     "sources": [
+      "IGN",
+      "Mashable",
+      "PC Gamer",
+      "Press Start Australia",
+      "TechRadar"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T00:45+05:30",
+     "score": 6.72,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "IGN",
+       "title": "Alienware Makes Some of the Best OLED Gaming Monitors Around and They're All on Sale for Black Friday",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWEE2ZWdQYjFhZDR5a1ljN3lfY2V1Z0FWM28tTGRPbW0zUDhTNWNuWW5rNUpjb3lVd21DT1haaXE2bmt6eHNTT1pIMmh5U2FGcDJNV2tKYUxENDgxTGxTVDFPREVkZVduU2JuY2FvQ2ZhdFd5UExBcXdGZE43Qk92Wl9CaWhSU00wYkE?oc=5",
+       "publishedAt": "2026-11-27T00:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gunmaaster G9 Box Office Day 1 Advance Booking: Emraan Hashmi Starrer Sells Close To 14K Tickets Nationwide",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hU1htNkotMEFldVFxUDVqUmRyRVNwdHdrY0ZrNTVVcFg4dFNhTzBEdFV3N0tzUkstYndzTDhCWGFPdGk4LUpydFA1Wkp3Mi1wZzZJVWl4Y2VmUjFXQmxSUXVR?oc=5",
+     "source": "IMDb",
+     "sources": [
+      "Bollywood Hungama",
+      "IMDb",
+      "India Today",
+      "NDTV",
+      "theopenpress.in"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T02:33+05:30",
+     "score": 6.02,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "IMDb",
+       "title": "Gunmaaster G9 Box Office Day 1 Advance Booking: Emraan Hashmi Starrer Sells Close To 14K Tickets Nationwide",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hU1htNkotMEFldVFxUDVqUmRyRVNwdHdrY0ZrNTVVcFg4dFNhTzBEdFV3N0tzUkstYndzTDhCWGFPdGk4LUpydFA1Wkp3Mi1wZzZJVWl4Y2VmUjFXQmxSUXVR?oc=5",
+       "publishedAt": "2026-11-27T02:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Black Friday deals on Sony headphones: Shop our pick for under $50 and the Sony XM6",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vNTVCUVNOZl9JOXprbE50NnlyMGU0ekZqODdIWHhFSU1lRlNIcFJfUzF6UFF4elhDeTh1eUQ1Njd4YTg1cno4MnctZmdvYmhuSzI4UGNsOHVWMEc4Rk9PUnNpR1Bpb2pJaF81aExLeWNNT2IxOFRTREh3?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "Android Authority",
+      "Gizmodo",
+      "Mashable",
+      "SoundGuys",
+      "What Hi-Fi?"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T04:30+05:30",
+     "score": 5.94,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "Black Friday deals on Sony headphones: Shop our pick for under $50 and the Sony XM6",
+       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vNTVCUVNOZl9JOXprbE50NnlyMGU0ekZqODdIWHhFSU1lRlNIcFJfUzF6UFF4elhDeTh1eUQ1Njd4YTg1cno4MnctZmdvYmhuSzI4UGNsOHVWMEc4Rk9PUnNpR1Bpb2pJaF81aExLeWNNT2IxOFRTREh3?oc=5",
+       "publishedAt": "2026-11-27T04:30+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T04:00+05:30",
    "generatedAt": "2026-11-27T04:25+05:30",
@@ -29268,214 +29428,6 @@
        "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
        "publishedAt": "2026-11-19T02:28+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T02:00+05:30",
-   "generatedAt": "2026-11-19T02:22+05:30",
-   "feeds": 16,
-   "headlines": 240,
-   "stories": [
-    {
-     "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
-     "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "Axios",
-      "India Today",
-      "Mint",
-      "NDTV",
-      "Pew Research Center",
-      "The Economist",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-19T02:07+05:30",
-     "score": 10.46,
-     "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
-     "image": "https://c.ndtvimg.com/2026-11/h0dca2a_muslims_625x300_19_November_26.jpeg",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
-       "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
-       "publishedAt": "2026-11-19T02:07+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Islam Set To Become World's Largest Religion By 2035: Report",
-       "link": "https://www.ndtv.com/world-news/muslims-set-to-become-worlds-largest-religion-by-2035-12346356#publisher=newsstand",
-       "publishedAt": "2026-11-19T02:03+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "Islam projected to overtake Christianity as world's largest religion by 2035, says study – here's what it revealed",
-       "link": "https://www.livemint.com/news/world/islam-projected-to-overtake-christianity-as-worlds-largest-religion-by-2035-says-study-heres-what-it-revealed-11795024171643.html",
-       "publishedAt": "2026-11-18T23:54+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Muslims will be largest religious group in the world by 2035: Pew study",
-       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/its-the-babies-muslims-projected-to-outnumber-christians-by-2035-says-pew-study/articleshow/135966824.cms",
-       "publishedAt": "2026-11-18T21:07+05:30"
-      },
-      {
-       "source": "India Today",
-       "title": "Islam set to become world's largest religion by 2035, Hindu share projected to decline: Report",
-       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFVvWTdXbFNJSmJZWjBaSmNoSVI3QUs4N0RmNVdmd0I2dW5xVWYySWRYSFlSMTRoRVQwV1BpbkZsZUFQcjN4YTNUMUpySmp5R2RxN2xDQnFGcEhPLUxIbUZoeXhDTnpwaWJBS0w2OU5HOWZNTnBySjV6VUNIT1pTOGNqbWlnTW9BZzV2dmhTTm1CQ21ROW5KODR2elh0YkM2NlBuOXBiMDRZUTM5QW5aOURmWjY0MDBZSy1rcWhBNl92WmRX?oc=5",
-       "publishedAt": "2026-11-18T22:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Democrat Hakeem Jeffries Set To Be First African-American House Speaker",
-     "link": "https://www.ndtv.com/world-news/democrat-hakeem-jeffries-set-to-be-first-african-american-house-speaker-12346248#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CNBC",
-      "CNN",
-      "Mint",
-      "NDTV",
-      "The Guardian",
-      "Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-19T00:22+05:30",
-     "score": 10.42,
-     "summary": "Jeffries secured the nod during closed-door voting, 251-11, ahead of a full House vote when the new Congress convenes in January. Among those voting no were a group of progressive newcomers, who said in a statement there is \"still work to be done\" to ensure their priorities.",
-     "image": "https://c.ndtvimg.com/2026-11/l5iqjdbc_hakeem-jeffries_625x300_19_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Democrat Hakeem Jeffries Set To Be First African-American House Speaker",
-       "link": "https://www.ndtv.com/world-news/democrat-hakeem-jeffries-set-to-be-first-african-american-house-speaker-12346248#publisher=newsstand",
-       "publishedAt": "2026-11-19T00:22+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Historic first: Democrat Hakeem Jeffries nominated to become House Speaker",
-       "link": "https://timesofindia.indiatimes.com/world/us/historic-first-democrats-nominate-hakeem-jeffries-set-to-be-first-black-us-house-speaker/articleshow/135969043.cms",
-       "publishedAt": "2026-11-18T23:25+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "History in the making? Hakeem Jeffries nominated as House Speaker, set to become first Black American to hold the post",
-       "link": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
-       "publishedAt": "2026-11-18T23:05+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-18T23:04+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1VzWXk2T3BfcWwzb0FLRTRJbksxU0NQUnZGMXVBdHRNX0c4b3BrX2FuQUtjb3RaUGRpN1lpTUdaVVV5VkphRmNpS3JEOXB1WVhOeXlSMGllbVFzRndNeFB4TEFaUWEzSG50QTBRdmJTRHJ6ZGJXalNIdWthQ2Yzc2VrY1l0Z2tPVGJVd1lybE8waVZxTFdqWGNQdERZODc0aGIzTDRDbHNGQdIBrwFBVV95cUxOSVBBdWhDN21WMXJ4dnNYS0VXcmVoNkpyZUNtemFHWHVNeGVxWUs3NW91bEpjTVBKWVVJZjV6QzRGMkVvWUdGZVp6TmZMUzVUXzZUNVFpVjRvUDBqdHJPTWZ3d0h4RU85S1hwQ2xpaUV4YWloUGZBTk1uVENfbElYMTUzaEREeWtna2RvUFZQTU1EeGM0b3ZyQVFfcGM3S0dvV01oSzdYaFduNGVyVnJr?oc=5",
-       "publishedAt": "2026-11-19T00:12+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
-     "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
-     "source": "Mint",
-     "sources": [
-      "BBC News",
-      "Inc42",
-      "Mint",
-      "Moneycontrol.com",
-      "Push Square",
-      "The Economist",
-      "YourStory.com"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-19T00:46+05:30",
-     "score": 8.23,
-     "summary": "Grand Theft Auto 6 is here, ending the 13 years-long wait. From critics to fans, many have shared their take across social media. Check it out.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/217106_1795026527055_VsMc_1795026534044_yBay_d6ac50bb-3929-4c0d-aa74-88e7ea3f1510_HXyV.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
-       "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
-       "publishedAt": "2026-11-18T23:59+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-18T23:04+05:30"
-      },
-      {
-       "source": "The Economist",
-       "title": "“Grand Theft Auto VI” may mark the end of an era in gaming",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlI3cG1TZ2poQ1NkUEZiY09tcExRZzlKOGhtRDFZRHMxanZINjU3bTBEb1JhelU3N055WmxSek1kLVVxdXMtTzdMenUxVTZLcTRPNGstYkJSLU9BWHFiTlRoaHlDaUlndkZMT3Y2MFFDTms3SWxzZWg3b1RrQjV1WV9MVUwxMHdHUExETUxxN29wMjBPZjlGWHRRbFpBSWk5RExn?oc=5",
-       "publishedAt": "2026-11-19T00:46+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA",
-     "link": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Telangana Today",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 4,
-     "publishedAt": "2026-11-19T01:27+05:30",
-     "score": 6.35,
-     "summary": "The storm picked up speed to 7 kmph over the past six hours. It was about 580 km from Visakhapatnam, 590 km from Machilipatnam and 710 km from Gopalpur in Odisha",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA",
-       "link": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece",
-       "publishedAt": "2026-11-19T01:27+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India imposes 162.5% duty and tax on bulk Scotch imports amid UK trade pact dispute",
-     "link": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
-     "source": "The Hindu",
-     "sources": [
-      "BusinessLine",
-      "Reuters",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T00:02+05:30",
-     "score": 6.11,
-     "summary": "More than 80 containers belonging to Pernod Ricard, Diageo and Bacardi remain stuck at Indian ports as the dispute over customs classification threatens to disrupt the liquor industry.",
-     "image": "https://th-i.thgim.com/public/incoming/42dmsb/article71717328.ece/alternates/LANDSCAPE_1200/Scotch-imports_G6LGPL3SM.4.jpg.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "India imposes 162.5% duty and tax on bulk Scotch imports amid UK trade pact dispute",
-       "link": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
-       "publishedAt": "2026-11-18T23:00+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
-       "publishedAt": "2026-11-19T00:02+05:30"
       }
      ]
     }
