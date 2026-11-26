@@ -1,6 +1,138 @@
 {
- "updated": "2026-11-26T05:18+05:30",
+ "updated": "2026-11-26T06:39+05:30",
  "hours": [
+  {
+   "hour": "2026-11-26T06:00+05:30",
+   "generatedAt": "2026-11-26T06:39+05:30",
+   "feeds": 16,
+   "headlines": 142,
+   "stories": [
+    {
+     "title": "31 killed, 21 injured in deadly blaze on Cairo ring road after fuel vehicle overturns",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYmVpUUlkem5lbTNxekN3WEtvbVVpN0lHZXJjWjAxdmduSm9uS1NzRDNZcm04c1JJYl9lV3FaUDB2R3A4Z1Zaal9LdTJlRlFLZUdrc2U2Vm9SSFZISGFsblAzY1VYaFNiaFJ6QWwwbU5EbmQ4OVdYVDg1RWFKZWtNNzNBYUVkZ05JOUgtS3poYjFSZ3dFb0loZ2NzaExhTXIyTXVSWUJBZmpGLWQtakdQa1dnR0Y4a0NqMnVIWkFNSHlYV3VaeGNSRmxBQUc5NW5GWjJSZm5DM1BGMy1td3hLVWdnTTctT1pEeWZmQV9vMjU0bm5abnFKWlBB?oc=5",
+     "source": "The Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "NDTV",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T05:07+05:30",
+     "score": 6.49,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Times of India",
+       "title": "31 killed, 21 injured in deadly blaze on Cairo ring road after fuel vehicle overturns",
+       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYmVpUUlkem5lbTNxekN3WEtvbVVpN0lHZXJjWjAxdmduSm9uS1NzRDNZcm04c1JJYl9lV3FaUDB2R3A4Z1Zaal9LdTJlRlFLZUdrc2U2Vm9SSFZISGFsblAzY1VYaFNiaFJ6QWwwbU5EbmQ4OVdYVDg1RWFKZWtNNzNBYUVkZ05JOUgtS3poYjFSZ3dFb0loZ2NzaExhTXIyTXVSWUJBZmpGLWQtakdQa1dnR0Y4a0NqMnVIWkFNSHlYV3VaeGNSRmxBQUc5NW5GWjJSZm5DM1BGMy1td3hLVWdnTTctT1pEeWZmQV9vMjU0bm5abnFKWlBB?oc=5",
+       "publishedAt": "2026-11-26T05:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Disgrace' decisions, divots and howlers - Man Utd chaos against Sporting",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PV0FXTlpOMlhPRTlxYkN0WDdOcDlCTC15RDdGQXk5VVVLeVNmRTZfX2lNczJNM0NMTUdFVzBBcEZvdUw1WXdUb0EybDRDWTlZcXhvNnVZa21QY0xxcFQ0ckZXNFhMQ0Fr?oc=5",
+     "source": "BBC",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "ESPN India",
+      "Sky Sports",
+      "The Guardian"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T05:52+05:30",
+     "score": 5.96,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BBC",
+       "title": "'Disgrace' decisions, divots and howlers - Man Utd chaos against Sporting",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PV0FXTlpOMlhPRTlxYkN0WDdOcDlCTC15RDdGQXk5VVVLeVNmRTZfX2lNczJNM0NMTUdFVzBBcEZvdUw1WXdUb0EybDRDWTlZcXhvNnVZa21QY0xxcFQ0ckZXNFhMQ0Fr?oc=5",
+       "publishedAt": "2026-11-26T05:52+05:30"
+      }
+     ]
+    },
+    {
+     "title": "31 Killed, 15 Injured In Fire In Cairo's Densely Populated Area",
+     "link": "https://www.ndtv.com/world-news/30-killed-in-fire-in-cairos-densely-populated-area-12377651#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "NDTV",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T04:53+05:30",
+     "score": 5.84,
+     "summary": "Cairo Fire: The health ministry said 39 ambulances were sent to the scene and 15 people were taken to hospital with injuries, four of them in critical condition.",
+     "image": "https://c.ndtvimg.com/2026-11/ehi47b2k_fuel_625x300_26_November_26.jpg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "31 Killed, 15 Injured In Fire In Cairo's Densely Populated Area",
+       "link": "https://www.ndtv.com/world-news/30-killed-in-fire-in-cairos-densely-populated-area-12377651#publisher=newsstand",
+       "publishedAt": "2026-11-26T04:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bitcoin recovers after hit from ETF outflows, AI rout, and hot U.S. economic data",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTBkMG93STB0WlRoTFVSa0dNSGltWXg4OWxUa2pXYVREaElrMmRXSlJUUnlJMkZKR2djT0UzRVNLT3ZJb3dCbzUxcFdZTGt6bTVySmt4bGdfelV5N1FWZGllNUNNMFVYUkdhelNsRWZDWUZyUlB2Qlg1VERWMHNpaDN0Z0lfbFE0ZW0zS0czbG9TOXBMalB5OVg5dzZnaEoyekRhUlJRVDZIdnhXdWtDVFZFVXUzZw?oc=5",
+     "source": "Investing.com",
+     "sources": [
+      "CoinDesk",
+      "CoinGape",
+      "FXEmpire",
+      "Investing.com",
+      "Kitco"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T05:19+05:30",
+     "score": 5.82,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Investing.com",
+       "title": "Bitcoin recovers after hit from ETF outflows, AI rout, and hot U.S. economic data",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTBkMG93STB0WlRoTFVSa0dNSGltWXg4OWxUa2pXYVREaElrMmRXSlJUUnlJMkZKR2djT0UzRVNLT3ZJb3dCbzUxcFdZTGt6bTVySmt4bGdfelV5N1FWZGllNUNNMFVYUkdhelNsRWZDWUZyUlB2Qlg1VERWMHNpaDN0Z0lfbFE0ZW0zS0czbG9TOXBMalB5OVg5dzZnaEoyekRhUlJRVDZIdnhXdWtDVFZFVXUzZw?oc=5",
+       "publishedAt": "2026-11-26T05:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Today’s NYT Wordle Hints, Answer and Help for Thursday, Nov. 26, #1986",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVItOEptOEk3UVZrY2FCTkhtbm9vdS1jZTZEbkJZdzFJaFVibUl0NFhBcjJ6YngzTUpwbDF0UzVNZ1FRMTYtazFISHBnRWplZVFsZzI4cUpCN1ZEQW1LbTltVDgxTGx6emc1TEZvbzlTZXhIRkJjYzNnc04yX0s4RXZtNA?oc=5",
+     "source": "CNET",
+     "sources": [
+      "CNET",
+      "Forbes",
+      "Rock Paper Shotgun",
+      "USA Today"
+     ],
+     "sourceCount": 4,
+     "publishedAt": "2026-11-26T02:30+05:30",
+     "score": 5.81,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "CNET",
+       "title": "Today’s NYT Wordle Hints, Answer and Help for Thursday, Nov. 26, #1986",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVItOEptOEk3UVZrY2FCTkhtbm9vdS1jZTZEbkJZdzFJaFVibUl0NFhBcjJ6YngzTUpwbDF0UzVNZ1FRMTYtazFISHBnRWplZVFsZzI4cUpCN1ZEQW1LbTltVDgxTGx6emc1TEZvbzlTZXhIRkJjYzNnc04yX0s4RXZtNA?oc=5",
+       "publishedAt": "2026-11-26T02:30+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-26T05:00+05:30",
    "generatedAt": "2026-11-26T05:18+05:30",
@@ -29477,145 +29609,6 @@
        "title": "Wall Street ends lower ahead of Nvidia results, focus turns to Anthropic debut",
        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
        "publishedAt": "2026-11-18T03:22+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T04:00+05:30",
-   "generatedAt": "2026-11-18T04:22+05:30",
-   "feeds": 16,
-   "headlines": 204,
-   "stories": [
-    {
-     "title": "Apple Services, Including iCloud And App Store, Down For Thousands Of Users",
-     "link": "https://www.ndtv.com/world-news/apple-services-including-icloud-and-app-store-down-for-thousands-of-users-12340975#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Bloomberg.com",
-      "NDTV",
-      "The Guardian",
-      "The Times of India",
-      "USA Today"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T00:15+05:30",
-     "score": 6.06,
-     "summary": "Multiple users complained that they were unexpectedly signed out of iCloud on their Apple devices and faced verification failures while trying to sign in again.",
-     "image": "https://c.ndtvimg.com/2024-03/2h1d5o2g_apple-reuter_625x300_04_March_24.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Apple Services, Including iCloud And App Store, Down For Thousands Of Users",
-       "link": "https://www.ndtv.com/world-news/apple-services-including-icloud-and-app-store-down-for-thousands-of-users-12340975#publisher=newsstand",
-       "publishedAt": "2026-11-18T00:15+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Apple, Google outage: App Store, Gmail, Search and other services down",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQWVQbDloZU9HQlRfNmg3S19FdG54N3Rma2E5TnZiUXZOSDhPMXh2dXFRSU5pdVlvTVFtUXFqZUZNcmxucVBERVdncWNYbFBCM1ROSWlUVWtGbFl0R01vTGV3cTZIN2tGU282U2c5UFFha2VzYkgyc2NXVlB5cm45R3RUa3hNSnpKOUNBR00yTHFrVzB1ak9XbmVwdkJ5OXB2OXhOc2MzWmJFRG1IWncwbVBGUGZJeDVYcmxZNHVXSlZGUDRhdDNKTllfbUlwajBfYXdZNllYSkNHdWJrbE1VVDV2Yw?oc=5",
-       "publishedAt": "2026-11-17T23:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Wall Street ends lower ahead of Nvidia earnings, Anthropic debut",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
-     "source": "Reuters",
-     "sources": [
-      "CNBC",
-      "MarketWatch",
-      "Reuters",
-      "WSJ",
-      "Yahoo Finance"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T02:31+05:30",
-     "score": 5.79,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Reuters",
-       "title": "Wall Street ends lower ahead of Nvidia earnings, Anthropic debut",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
-       "publishedAt": "2026-11-18T02:31+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Here's how far a light-day really is, as NASA's Voyager 1 probe nears milestone",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3l3MHE4X0RJZzczcFE2enVhT05Cc3FwN0xtbzRoN0sxNWl1NDNuRjVfMUZMeEpaNVh2cDlkUDVXTFUzbWtBY3RfWkRJRmpDV1JidTlXdTk4OFJpZzB2S3VrNUxzbXB4VktmTXcwV1BPbE5yOFJJUDlkZXZHeUQyOG9FekZ4R3c?oc=5",
-     "source": "Gulf Coast News and Weather",
-     "sources": [
-      "Down To Earth",
-      "Gulf Coast News and Weather",
-      "Scientific American",
-      "Sky & Telescope",
-      "Telegraph India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T02:30+05:30",
-     "score": 5.73,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Gulf Coast News and Weather",
-       "title": "Here's how far a light-day really is, as NASA's Voyager 1 probe nears milestone",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3l3MHE4X0RJZzczcFE2enVhT05Cc3FwN0xtbzRoN0sxNWl1NDNuRjVfMUZMeEpaNVh2cDlkUDVXTFUzbWtBY3RfWkRJRmpDV1JidTlXdTk4OFJpZzB2S3VrNUxzbXB4VktmTXcwV1BPbE5yOFJJUDlkZXZHeUQyOG9FekZ4R3c?oc=5",
-       "publishedAt": "2026-11-18T02:30+05:30"
-      }
-     ]
-    },
-    {
-     "title": "What's the weather forecast for 'GTA 6'? The Weather Channel has a preview.",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93ZU1Lb3NlSTNGcnBjV0dpWExUbjRFUWFQT3hVZFhXYnRqV0RMLVNOVzU2Yl8ySXVGdUl3Q2pSQTdFcnRsUm1JLTFMWkM4VW1pNFdhTDhMREllUWg1cGd1bjBQTmUwZw?oc=5",
-     "source": "Mashable",
-     "sources": [
-      "Mashable",
-      "Push Square",
-      "RockstarINTEL",
-      "The Northern Virginia Daily",
-      "The Verge"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T01:59+05:30",
-     "score": 5.67,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Mashable",
-       "title": "What's the weather forecast for 'GTA 6'? The Weather Channel has a preview.",
-       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93ZU1Lb3NlSTNGcnBjV0dpWExUbjRFUWFQT3hVZFhXYnRqV0RMLVNOVzU2Yl8ySXVGdUl3Q2pSQTdFcnRsUm1JLTFMWkM4VW1pNFdhTDhMREllUWg1cGd1bjBQTmUwZw?oc=5",
-       "publishedAt": "2026-11-18T01:59+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Three Observations from Germany’s 5-0 demolition of Xavi’s Netherlands",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1QyNHVsbG5VeXpYeUpSUnlsYkRSQlVBekk4ZFRCdE10T1BucGdaQzhqS19YNmZyOVBsSUVudW1VTkJ5WlEzQ1pqTGVhRkpmYlYtRTVKaU5aa0FZajN6N3lOZHY1ZEpESnJQYU5QRF9fbmxjRXVaNDhBdUZxN25NLXJSX2tmZzY3ZXNwY2FpT3IwTlpLUWs1dWpxejhsYktvMVZmN0ZYeWp0aWVLajFweTJTQ1g5TC1kQUE5X2tRbmhXbkdSbWJXa3hYaFFDWlBfMV9qemRFbmlfUQ?oc=5",
-     "source": "Bavarian Football Works",
-     "sources": [
-      "Al Jazeera",
-      "Bavarian Football Works",
-      "ESPN India",
-      "The Guardian",
-      "UEFA.com"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T01:52+05:30",
-     "score": 5.62,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Bavarian Football Works",
-       "title": "Three Observations from Germany’s 5-0 demolition of Xavi’s Netherlands",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1QyNHVsbG5VeXpYeUpSUnlsYkRSQlVBekk4ZFRCdE10T1BucGdaQzhqS19YNmZyOVBsSUVudW1VTkJ5WlEzQ1pqTGVhRkpmYlYtRTVKaU5aa0FZajN6N3lOZHY1ZEpESnJQYU5QRF9fbmxjRXVaNDhBdUZxN25NLXJSX2tmZzY3ZXNwY2FpT3IwTlpLUWs1dWpxejhsYktvMVZmN0ZYeWp0aWVLajFweTJTQ1g5TC1kQUE5X2tRbmhXbkdSbWJXa3hYaFFDWlBfMV9qemRFbmlfUQ?oc=5",
-       "publishedAt": "2026-11-18T01:52+05:30"
       }
      ]
     }
