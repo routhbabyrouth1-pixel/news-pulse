@@ -1,6 +1,174 @@
 {
- "updated": "2026-11-26T18:45+05:30",
+ "updated": "2026-11-26T20:28+05:30",
  "hours": [
+  {
+   "hour": "2026-11-26T20:00+05:30",
+   "generatedAt": "2026-11-26T20:28+05:30",
+   "feeds": 16,
+   "headlines": 305,
+   "stories": [
+    {
+     "title": "Ramayana Box Office Collection Day 21: Less Than 16 Crore Away From Entering India’s Top 3 Grossers!",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rckdKVUdwOUJfVUZUamN0OUljUmQwT3J6WEJuWUhiV0V3RDI2UFMzOWU5Y1JBRG9GWmJVa0FkSUFMMlhBVHZjeFRnV1o5U1dwZlNmekJkd2VlakhKckc1YVFB?oc=5",
+     "source": "IMDb",
+     "sources": [
+      "Baradwaj Rangan",
+      "IMDb",
+      "India Today",
+      "NDTV",
+      "Nagaland Post",
+      "Rediff.com",
+      "Sacnilk",
+      "Telegraph India",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-26T18:42+05:30",
+     "score": 11.45,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "IMDb",
+       "title": "Ramayana Box Office Collection Day 21: Less Than 16 Crore Away From Entering India’s Top 3 Grossers!",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rckdKVUdwOUJfVUZUamN0OUljUmQwT3J6WEJuWUhiV0V3RDI2UFMzOWU5Y1JBRG9GWmJVa0FkSUFMMlhBVHZjeFRnV1o5U1dwZlNmekJkd2VlakhKckc1YVFB?oc=5",
+       "publishedAt": "2026-11-26T18:42+05:30"
+      },
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk4zN3FOMFpQOHJuamY5NHVlSWtjRXVDSkU5Z3dRZ1F0bUNWZF9LOEhOYXR3SlRHMndXWWJvZ29TWVo0bnVNVDFZOTk1SWVOdTJyT0pRRUpOWTFHVEJuVUhoMGJFcjVKNDRiTkNDeHhRQzhsNG5EM3JvVDh4UEVjV0lTeEk4dFQwRmFGVXVB?oc=5",
+       "publishedAt": "2026-11-26T18:13+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock Market Close: Sensex ends volatile session 390 pts up, Nifty at 25,885; realty, IT shine",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY3U5SkU5Zzl4TG5SeXVlbUZuS1NBZWhxd1o4ZDZNOTNybHo3SzBmRUoycVc1c2xOVVFtamE5R0xVd2V0SjRINTVHVWRaTy1NZFFnUXRvRjJkT1JqQ2lhWDBjMjRzMG92QjBmLWFxa1M2VkkxY1Z3SzNXOGJodEtUSkFtSEhHR3RqbERnUjg5WFJGVE1OWmNJdldaZzduT0FxTjlVUlNseDF4YnZUMFhsUUNpa29Ta2gyck5JdGU1QUhtRVNFRk9iNzBqb0lpQU9MWWhzM1h1cldmeFljMzh0VVdaeF9pcFJPd3VTU1dxRjN3Z0FYR2fSAfsBQVVfeXFMT2I0TUFlSUo2UmFrMGMwSDBSTndSbEZJSktPbW5XWnRjVXVoRTNDaFhOSlZJUTcwcE9LZ3RhWDViWXBETlplTmgwVzhMUHA2VVZ3RWxOd3VoczlLSkwtbFUyeEkxdGFJOFY0TXFQdkJNOFIzUHZsQ3FaUm9mUVZqTzk0N0I5bjd5bkJuTk5qaGZPQmF0dlRweXNTOS01UFAtUV9vSGphWUx3cV9TZkxTQUJIT20tRnVWV0VmZFZNOWxObm1ZME5GZW52a2hEcnM0QWtBcEo4c2hfb2d4UlRsRU5VSXdUeUNheXR5NEhUOWlCYU5MSU9mVXhPcEU?oc=5",
+     "source": "Business Standard",
+     "sources": [
+      "Business Standard",
+      "BusinessLine",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "TradingView",
+      "bfsi.economictimes.indiatimes.com"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T15:53+05:30",
+     "score": 8.74,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Business Standard",
+       "title": "Stock Market Close: Sensex ends volatile session 390 pts up, Nifty at 25,885; realty, IT shine",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY3U5SkU5Zzl4TG5SeXVlbUZuS1NBZWhxd1o4ZDZNOTNybHo3SzBmRUoycVc1c2xOVVFtamE5R0xVd2V0SjRINTVHVWRaTy1NZFFnUXRvRjJkT1JqQ2lhWDBjMjRzMG92QjBmLWFxa1M2VkkxY1Z3SzNXOGJodEtUSkFtSEhHR3RqbERnUjg5WFJGVE1OWmNJdldaZzduT0FxTjlVUlNseDF4YnZUMFhsUUNpa29Ta2gyck5JdGU1QUhtRVNFRk9iNzBqb0lpQU9MWWhzM1h1cldmeFljMzh0VVdaeF9pcFJPd3VTU1dxRjN3Z0FYR2fSAfsBQVVfeXFMT2I0TUFlSUo2UmFrMGMwSDBSTndSbEZJSktPbW5XWnRjVXVoRTNDaFhOSlZJUTcwcE9LZ3RhWDViWXBETlplTmgwVzhMUHA2VVZ3RWxOd3VoczlLSkwtbFUyeEkxdGFJOFY0TXFQdkJNOFIzUHZsQ3FaUm9mUVZqTzk0N0I5bjd5bkJuTk5qaGZPQmF0dlRweXNTOS01UFAtUV9vSGphWUx3cV9TZkxTQUJIT20tRnVWV0VmZFZNOWxObm1ZME5GZW52a2hEcnM0QWtBcEo4c2hfb2d4UlRsRU5VSXdUeUNheXR5NEhUOWlCYU5MSU9mVXhPcEU?oc=5",
+       "publishedAt": "2026-11-26T15:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+     "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "BBC News",
+      "Reuters",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T16:51+05:30",
+     "score": 8.15,
+     "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/579b/live/12356f50-e985-11f1-bb43-d1b6102e3b60.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+       "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-26T16:51+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Seven hurt in Bangkok oil facility explosion",
+       "link": "https://economictimes.indiatimes.com/nri/latest-updates/bangkok-oil-depot-explosion-injures-seven-four-critical-nearby-schools-evacuated-as-fire-breaks-out/articleshow/136186497.cms",
+       "publishedAt": "2026-11-26T15:36+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Explosion rocks Bangkok oil depot",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss",
+       "publishedAt": "2026-11-26T15:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "RSSB CET 12th Level Admit Card 2026 (OUT) LIVE: Download Rajasthan CET Exam Hall Ticket PDF at rssb.rajasthan.gov.in",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRThsaFctUjFJaEtrR3dCbFRIeTIyOGZEOUJ5WXpfQ0lMRXVaeThBTTJmWEdVR2NUR1Uta0NKN1FOcWpwNHlHWk1WVWZoTU9JZnlTS1M4LWpLaHFOQ0tDTWU4YmVYZEo0bTUzRHBYWWlrRUlUZUFFX3JqdGw0RE1kOTd2UzRUVmVReUN1Nlo5NXpFSFdFVzE0MzAteFpfMDVDXzlfZjVzSExBTDRVaENfeWZGaU1ZSFpLXzZfUHRHM1M2ZHlZcUlaVFp0b1lIQ2F1cXFiNzNRRDRyTVdfTUpQTWxUa0U4eVhs0gHvAUFVX3lxTE5jX1NDak5TS0ZENXlPUUlEM3B5VzFyUUF2bnRTT3dZSjd5eXBNRnZSejMycG9sZzhhMG9vVmR0V1h6bXFXVkNnUWNMOW1yZGxzVkdiRVlNeHd3WGlFQ1F5S01xLWQzUXNzakw4WnhFUHBBZ1FBelBWSV9lUU03TERqd25hMGlFMkRCSElrSDFHNE9adW5wY0lnQVFiM1FranVXcmI1cFNTemFPd2lkVUIxYXFiRkJ2SnFPZmxERlRvbDhyeUFtM2tmU3VPMGQ1V3FwcE00Skc1RnBQeWRZdTZkOV9JMmtfQkdSQzlreXBZ?oc=5",
+     "source": "Jagran Josh",
+     "sources": [
+      "Adda247",
+      "Dainik Bhaskar",
+      "Inshorts",
+      "Jagran Josh",
+      "News18 Hindi",
+      "PW",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T19:53+05:30",
+     "score": 7.99,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Jagran Josh",
+       "title": "RSSB CET 12th Level Admit Card 2026 (OUT) LIVE: Download Rajasthan CET Exam Hall Ticket PDF at rssb.rajasthan.gov.in",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRThsaFctUjFJaEtrR3dCbFRIeTIyOGZEOUJ5WXpfQ0lMRXVaeThBTTJmWEdVR2NUR1Uta0NKN1FOcWpwNHlHWk1WVWZoTU9JZnlTS1M4LWpLaHFOQ0tDTWU4YmVYZEo0bTUzRHBYWWlrRUlUZUFFX3JqdGw0RE1kOTd2UzRUVmVReUN1Nlo5NXpFSFdFVzE0MzAteFpfMDVDXzlfZjVzSExBTDRVaENfeWZGaU1ZSFpLXzZfUHRHM1M2ZHlZcUlaVFp0b1lIQ2F1cXFiNzNRRDRyTVdfTUpQTWxUa0U4eVhs0gHvAUFVX3lxTE5jX1NDak5TS0ZENXlPUUlEM3B5VzFyUUF2bnRTT3dZSjd5eXBNRnZSejMycG9sZzhhMG9vVmR0V1h6bXFXVkNnUWNMOW1yZGxzVkdiRVlNeHd3WGlFQ1F5S01xLWQzUXNzakw4WnhFUHBBZ1FBelBWSV9lUU03TERqd25hMGlFMkRCSElrSDFHNE9adW5wY0lnQVFiM1FranVXcmI1cFNTemFPd2lkVUIxYXFiRkJ2SnFPZmxERlRvbDhyeUFtM2tmU3VPMGQ1V3FwcE00Skc1RnBQeWRZdTZkOV9JMmtfQkdSQzlreXBZ?oc=5",
+       "publishedAt": "2026-11-26T19:53+05:30"
+      },
+      {
+       "source": "Adda247",
+       "title": "RSSB CET 12th Level Admit Card 2026 Out Today at recruitment.rajasthan.gov.in, Download Hall Ticket PDF",
+       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xanVCUU9aMlRNRFFDb2dxeDlsM21oT0xwaWVfV2liOHhzMWR5QjRhWm13SDFSY1VqeDRHRGF1bkxVNFRaVXdoSkkyV0JnQU96WTBKYU9HMFVNWDVQTG9pUUNZazhjelc2Y2pxWEpqRlN2UGc?oc=5",
+       "publishedAt": "2026-11-26T17:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Experts say new U.S. tariffs do not pose substantial threat, India should not rush into trade deal",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZFByTVdLdWx5cnJhWHlIS1k1cGt1VU5pd2JVMm1LRkYxblg5OVlwMmxKVm1yeWYwVXJsajJJdmhHOXlUNV9zbWJkSDhjOXBmZm1wbFZRUW1OSWdsbkprejN5VDhCVnZEdENEVzEyNThYUURQUGZ5ekp3aTZvM3k4OF8xNTNISTVPeF9FU0tkQjN6LTNfWHhJRmVtaFBKTTE1ZmhZbnVRX21TSmh2VjJYZDlET3VNcF9QRFhOc2t1Qkg0aThHYkU2bTFITW1iNlpfN1B0OXR3WEFJNnJjWVRxVmFlbnAycExUM3pvNm9n0gH0AUFVX3lxTE5hdUhBQXdPYzFYeEFaVEpPYWVGUFlJbmhHZE9NbTZOcUh3OW80bllYenlBcVFrLVZzREs3T0J6eVB0ZmcySm12dUFpZ3FCOUdGQmM1STNBbXBpbkEyZXk0ZnQ1Y2JibnhnUlI0ZUdveG5WenZXZ19NRno0eXhKeFJKZHUyLWJwX19Yay1NX1pSSGQzYUlreloyNFJRZW44S1h2NmV2eW5iOVptS1J1SE5YdlBjdWhSa0tPOFNCclA0S0EwTjhENTBpNkh3cXRvV0FULTZBS0pLTTBwYnNyb3BIdmVoeVFGck92QVBsN2tXTnVwNE0?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "CNBC",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "TheWire.in"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T16:06+05:30",
+     "score": 6.77,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Experts say new U.S. tariffs do not pose substantial threat, India should not rush into trade deal",
+       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZFByTVdLdWx5cnJhWHlIS1k1cGt1VU5pd2JVMm1LRkYxblg5OVlwMmxKVm1yeWYwVXJsajJJdmhHOXlUNV9zbWJkSDhjOXBmZm1wbFZRUW1OSWdsbkprejN5VDhCVnZEdENEVzEyNThYUURQUGZ5ekp3aTZvM3k4OF8xNTNISTVPeF9FU0tkQjN6LTNfWHhJRmVtaFBKTTE1ZmhZbnVRX21TSmh2VjJYZDlET3VNcF9QRFhOc2t1Qkg0aThHYkU2bTFITW1iNlpfN1B0OXR3WEFJNnJjWVRxVmFlbnAycExUM3pvNm9n0gH0AUFVX3lxTE5hdUhBQXdPYzFYeEFaVEpPYWVGUFlJbmhHZE9NbTZOcUh3OW80bllYenlBcVFrLVZzREs3T0J6eVB0ZmcySm12dUFpZ3FCOUdGQmM1STNBbXBpbkEyZXk0ZnQ1Y2JibnhnUlI0ZUdveG5WenZXZ19NRno0eXhKeFJKZHUyLWJwX19Yay1NX1pSSGQzYUlreloyNFJRZW44S1h2NmV2eW5iOVptS1J1SE5YdlBjdWhSa0tPOFNCclA0S0EwTjhENTBpNkh3cXRvV0FULTZBS0pLTTBwYnNyb3BIdmVoeVFGck92QVBsN2tXTnVwNE0?oc=5",
+       "publishedAt": "2026-11-26T16:06+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-26T18:00+05:30",
    "generatedAt": "2026-11-26T18:45+05:30",
@@ -29432,173 +29600,6 @@
        "title": "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA",
        "link": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece",
        "publishedAt": "2026-11-18T17:23+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T16:00+05:30",
-   "generatedAt": "2026-11-18T16:30+05:30",
-   "feeds": 15,
-   "headlines": 315,
-   "stories": [
-    {
-     "title": "‘Grand Theft Auto VI’ is a cultural and economic earthquake. Brace yourself.",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdml2aXIyREpwckNnYWJTdC1FRzNTb2VGUVY4c2ViX0RoS3RlRXlWY2s5S2ZYVzF6TUxKX2UwOVpXbTlDWVRpbGdjMWZvSmNuTXF6T04yWE94RUpPQXdHZ245cVhaTzV4Rndhc0owYW00YzVPcEt2MGJLOERKdXF1LTJwVzhWYXZvcE05YzEtNXAyMGJCZmFaWWh6N1hrQTdvdEV5bUFydC1CTlk?oc=5",
-     "source": "The Washington Post",
-     "sources": [
-      "RockstarINTEL",
-      "Simply Wall St",
-      "The Times of India",
-      "The Washington Post",
-      "blog.youtube",
-      "varindia"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T15:36+05:30",
-     "score": 7.35,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Washington Post",
-       "title": "‘Grand Theft Auto VI’ is a cultural and economic earthquake. Brace yourself.",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdml2aXIyREpwckNnYWJTdC1FRzNTb2VGUVY4c2ViX0RoS3RlRXlWY2s5S2ZYVzF6TUxKX2UwOVpXbTlDWVRpbGdjMWZvSmNuTXF6T04yWE94RUpPQXdHZ245cVhaTzV4Rndhc0owYW00YzVPcEt2MGJLOERKdXF1LTJwVzhWYXZvcE05YzEtNXAyMGJCZmFaWWh6N1hrQTdvdEV5bUFydC1CTlk?oc=5",
-       "publishedAt": "2026-11-18T15:36+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Chinese steel imports threaten Indian industry, Tata Steel CEO warns",
-     "link": "https://timesofindia.indiatimes.com/business/india-business/chinese-steel-imports-threaten-indian-industry-tata-steel-ceo-calls-for-level-playing-field/articleshow/135958719.cms",
-     "source": "Times of India",
-     "sources": [
-      "Business Standard",
-      "ET Government",
-      "McKinsey & Company",
-      "Reuters",
-      "Swarajya",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T15:29+05:30",
-     "score": 7.13,
-     "summary": "Tata Steel's CEO T V Narendran highlighted concerns regarding the impact of Chinese steel imports on India's industry. The company aims to expand its production capacity to 40 million tonnes by 2035, while exploring additional electric arc furnace projects. Steel producers in India are in discussions with the government for measures to protect domestic production.",
-     "image": "https://static.toiimg.com/photo/msid-135958938,imgsize-45652.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Chinese steel imports threaten Indian industry, Tata Steel CEO warns",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/chinese-steel-imports-threaten-indian-industry-tata-steel-ceo-calls-for-level-playing-field/articleshow/135958719.cms",
-       "publishedAt": "2026-11-18T15:29+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says",
-       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSU5xZ3hxUXIyT2tZR3ZHRi1NaG1TZDd1Q2EtRmwtM0hTT2Z6c1RObk9ldkhIUVlkZGJ6b015d243c2s4TnpXYzVydmlYYnl1WDkwcGViTmw4VDlhTl9yeWVOMjFoVUl1QVZ6NTRLXzgxOHNZMGJLdDRYMWQ5eXNyclg4dHRJOWxMV095SlE1cFRRT3RHX1BZMmdOelA0VWxHMUZVdnI4UzQ4Zlk5RHZkRWI1Wk96SXNjVmF3?oc=5",
-       "publishedAt": "2026-11-18T11:23+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Sonia Gandhi's pre-citizenship electoral roll entry case: Delhi court seeks ATR",
-     "link": "https://www.thehindu.com/news/national/sonia-gandhis-pre-citizenship-electoral-roll-entry-case-delhi-court-seeks-atr/article71715052.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Bar and Bench",
-      "Hindustan Times",
-      "Live Law",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T14:34+05:30",
-     "score": 7.05,
-     "summary": "Additional Chief Judicial Magistrate Vinod Joshi sought an ATR from the police and posted the matter for further proceedings on November 28",
-     "image": "https://th-i.thgim.com/public/incoming/c60zpk/article71715060.ece/alternates/LANDSCAPE_1200/2026-11-10T114452Z_1816156645_RC2ZKOA8NAS6_RTRMADP_3_INDIA-BOOK-POLITICS.JPG",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Sonia Gandhi's pre-citizenship electoral roll entry case: Delhi court seeks ATR",
-       "link": "https://www.thehindu.com/news/national/sonia-gandhis-pre-citizenship-electoral-roll-entry-case-delhi-court-seeks-atr/article71715052.ece",
-       "publishedAt": "2026-11-18T14:34+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Sonia Gandhi electoral roll row gets an HC twist",
-       "link": "https://economictimes.indiatimes.com/news/india/delhi-court-seeks-police-report-on-complaint-alleging-sonia-gandhis-name-appeared-on-electoral-roll-before-acquiring-citizenship/articleshow/135955812.cms",
-       "publishedAt": "2026-11-18T14:10+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Delhi court orders cops to file action taken report on complaint against Sonia Gandhi in voter roll case",
-       "link": "https://www.hindustantimes.com/india-news/delhi-court-orders-cops-to-file-action-taken-report-on-complaint-against-sonia-gandhi-101794987243563.html",
-       "publishedAt": "2026-11-18T13:04+05:30"
-      },
-      {
-       "source": "Bar and Bench",
-       "title": "Delhi court seeks report from Police on complaint alleging Sonia Gandhi's name was included in voters roll before she became Indian citizen",
-       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQ080eG14MjI0RWM0RkFLaUo3dnZzMnpMa0lzb3A0c0RzZlhPRWxkY2lYeUd6UXlmSnJON0NZcGItQzVzRnZSQ3hIMjFMZ3R2QkRLRGtRZk85bmtVU0xaWlE2ZGJha3pkUVBuMGk4TmllcWxBLVFyZWV1M2M1T3dfRGxFbGZvdFdCQThzYjlhUlRJbTg0Zl9BUHVwR01jWEhLMVVqdVRZdWJzMjY0VE1YeXB0Z2dtVTdQa2hBbEc4RXphSF9aaDhfM2hTUVRWTmg2T0RvUGwyYUVRS09uMGJIcXRrQmhZbVdoVFJ5Ty1zM1RLVUdNa1M1UnVyQTVYVGNPcmlVc3ZiZkIzWmFmbHJn0gGcAkFVX3lxTE5WdWN5OUFxQjdDVmlodzJHUkRZYkE0cUhXdzJzTElVenQ1Rm1JUGZFLUJHczA1cEFoalZyNW4zMWxCTnBpOE9yemNtNEtlTjZFOFROcURiTjViRmlEWlRhN2lEZzl6TjhTcm5laHpHd201THAtczY4bGJUeC1PRjhSajFTQUJ5SVpzUHNvakVjMGdVeDl2alN3Tm5WVWZvUG82c0h6RmgzOXpWSHZvQnk1VmJvbk83OU90UHQ1T2RxSV9SVEJkM2VNOW5JdmxyQjNtZ01MUGlrM1ViRlRXS0lsVnlzLVVSckZWZDA0Uno1dlRWOHVna09McExHeHFNNmJoY1J6RkFGRWJ2VFRoZ19uYllKaWlhSVJsWUtN?oc=5",
-       "publishedAt": "2026-11-18T11:04+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
-     "link": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "CGTN",
-      "CNBC",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T13:24+05:30",
-     "score": 6.98,
-     "summary": "Putin says Western powers are 'former hegemons', with Europe in the midst of a 'humiliating decline'.",
-     "image": null,
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
-       "link": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
-       "publishedAt": "2026-11-18T13:20+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Whitewashing history': Shinde Sena leaders tear up a copy of Sonia's memoir",
-     "link": "https://timesofindia.indiatimes.com/india/whitewashing-history-shiv-sena-shinde-faction-leaders-tear-up-a-copy-of-sonia-gandhis-memoir/articleshow/135956466.cms",
-     "source": "Times of India",
-     "sources": [
-      "Indian Television Dot Com",
-      "NDTV",
-      "The Hindu",
-      "The News Minute",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T14:39+05:30",
-     "score": 6.88,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135957222,imgsize-1349395.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Whitewashing history': Shinde Sena leaders tear up a copy of Sonia's memoir",
-       "link": "https://timesofindia.indiatimes.com/india/whitewashing-history-shiv-sena-shinde-faction-leaders-tear-up-a-copy-of-sonia-gandhis-memoir/articleshow/135956466.cms",
-       "publishedAt": "2026-11-18T14:39+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Whitewashing history': Shiv Sena Shinde faction leaders tear up a copy of Sonia Gandhi's memoir",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObU4yNnltdlNOWk0yRTlxMmpaLURSazZoaXNobEsyelFqSW5PMWZMOEdXS3hHMDVlVEE3ejJpc3hfQ3J6djRYb1NNTUwwclQxOGdLbE95QjRPNTFsV1ZFMXBqSl80S0pVQ0VRWUhDalVJbU1mTkpIc0NoMi03dXNPZ1RCZi1nYUdwV0d1RVZqQURrWU81V2ZQeFpDb3RsTVJfNzQ2VF9pRGxwNGFydHBLRjNHenN4encwekpvUU1GcFdMaDFCX0FuN2VUOGhIb2JJcUlHeGRRdzA3UTlOVlBjTjZJdnY3eXp0d2lmOGJXcWd3QQ?oc=5",
-       "publishedAt": "2026-11-18T14:39+05:30"
       }
      ]
     }
