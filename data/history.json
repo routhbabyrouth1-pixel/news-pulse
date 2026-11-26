@@ -1,6 +1,165 @@
 {
- "updated": "2026-11-26T09:28+05:30",
+ "updated": "2026-11-26T10:35+05:30",
  "hours": [
+  {
+   "hour": "2026-11-26T10:00+05:30",
+   "generatedAt": "2026-11-26T10:35+05:30",
+   "feeds": 17,
+   "headlines": 313,
+   "stories": [
+    {
+     "title": "Wordle today: The answer and hints for November 25, 2026",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPZ1pqQUhTM2Roby1sSkhIM2RaWW9yWjROVl91TjdycDI4cEFlUnVISF9udlJPMTB5ancyaFlsMmlUNlJVdXcxNnd2VWZGeXA1WDY4UGdzMEFDMGhxbTFjRHRqSXBaRjFObW15X21LTDNsM1VVVGRlYTh3aw?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "ETV Bharat",
+      "Gadget Bridge",
+      "Hindustan Times",
+      "India Today",
+      "Kalinga TV",
+      "Mashable",
+      "News18",
+      "Odisha TV",
+      "OrissaPOST",
+      "PC Guide",
+      "Parade Magazine",
+      "The Economic Times"
+     ],
+     "sourceCount": 17,
+     "publishedAt": "2026-11-26T09:00+05:30",
+     "score": 19.24,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "Wordle today: The answer and hints for November 25, 2026",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPZ1pqQUhTM2Roby1sSkhIM2RaWW9yWjROVl91TjdycDI4cEFlUnVISF9udlJPMTB5ancyaFlsMmlUNlJVdXcxNnd2VWZGeXA1WDY4UGdzMEFDMGhxbTFjRHRqSXBaRjFObW15X21LTDNsM1VVVGRlYTh3aw?oc=5",
+       "publishedAt": "2026-11-26T09:00+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Gemini Horoscope Today: November 26, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUTDU5YWdJaV8weFVUUlRhVTVVMVB3NTk2b1JiMGtrdS1Db0dXLUlKUEp2bVYxVFdmQWpmX1dRRGhCMDlyYXF3MndmRnlBRjVXdjdVNVdydDloLXlxMmFGLVpOdllESGhXSmZCTlJTa3QtN2lRcWxJ?oc=5",
+       "publishedAt": "2026-11-26T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Opposition Wants To Cut OBC Quota For Muslims: PM Modi On Constitution Day",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVm1iOTZsdkNlb0x3LVEwanJaRi1RLTluWVVlMnJtMnpZS1pZeGVmcUdzWTVjc2M1a042RzVhWGZncThpUGpFYmlzU0hGdDBaX3FnNk5QMUpVTW5sb3pFMnQyZmw0ZnR2T1AzN2xiWm1ES3l4Z1JtY3ZFb2pDbmFmWXNRNkd5WUdjb3U1MjNxY3dhSTJ5cUVJMml6RUVlZjJSTzFZTXJLWGlsUXFlQUJvZlFmZG5aTVdfSGtYa19qY1M?oc=5",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "Scroll.in",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T09:59+05:30",
+     "score": 7.4,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Opposition Wants To Cut OBC Quota For Muslims: PM Modi On Constitution Day",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVm1iOTZsdkNlb0x3LVEwanJaRi1RLTluWVVlMnJtMnpZS1pZeGVmcUdzWTVjc2M1a042RzVhWGZncThpUGpFYmlzU0hGdDBaX3FnNk5QMUpVTW5sb3pFMnQyZmw0ZnR2T1AzN2xiWm1ES3l4Z1JtY3ZFb2pDbmFmWXNRNkd5WUdjb3U1MjNxY3dhSTJ5cUVJMml6RUVlZjJSTzFZTXJLWGlsUXFlQUJvZlFmZG5aTVdfSGtYa19qY1M?oc=5",
+       "publishedAt": "2026-11-26T09:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US announces new tariffs on host of countries including China",
+     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC News",
+      "CNBC",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T09:40+05:30",
+     "score": 7.35,
+     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "US announces new tariffs on host of countries including China",
+       "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-26T09:40+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
+       "link": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
+       "publishedAt": "2026-11-26T08:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Rakesh Ranjan, Zomato's Former Executive, Takes The Wheel At Uber",
+     "link": "https://www.ndtv.com/business-news/zomato-former-executive-rakesh-ranjan-new-uber-allen-online-president-india-south-asia-12378254#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "ET Auto",
+      "Inc42",
+      "NDTV",
+      "People Matters - HR News",
+      "afaqs!"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T08:10+05:30",
+     "score": 7.1,
+     "summary": "Zomato's Former Executive Rakesh Ranjan Joins Uber As President: For Uber, India remains one of its most important international markets.",
+     "image": "https://c.ndtvimg.com/2026-11/gilvtms4_uber-president_625x300_26_November_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Rakesh Ranjan, Zomato's Former Executive, Takes The Wheel At Uber",
+       "link": "https://www.ndtv.com/business-news/zomato-former-executive-rakesh-ranjan-new-uber-allen-online-president-india-south-asia-12378254#publisher=newsstand",
+       "publishedAt": "2026-11-26T08:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Watch: Cash shower at Bihar MLA Anant Singh’s daughter’s wedding",
+     "link": "https://indianexpress.com/article/trending/trending-in-india/anant-singh-daughter-shivangi-singh-wedding-viral-video-10979058/",
+     "source": "The Indian Express",
+     "sources": [
+      "Moneycontrol.com",
+      "NDTV",
+      "Telegraph India",
+      "The Indian Express",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T10:00+05:30",
+     "score": 7.0,
+     "summary": "",
+     "image": "https://images.indianexpress.com/2026/11/Anant-Singh-daughter-wedding.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Watch: Cash shower at Bihar MLA Anant Singh’s daughter’s wedding",
+       "link": "https://indianexpress.com/article/trending/trending-in-india/anant-singh-daughter-shivangi-singh-wedding-viral-video-10979058/",
+       "publishedAt": "2026-11-26T10:00+05:30"
+      },
+      {
+       "source": "Moneycontrol.com",
+       "title": "Chhote Sarkar and orange gamcha: Inside Anant Singh's daughter's big fat Bihar wedding that drew...",
+       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNazZybjU3VDF2WjV2TDBGNmdJaHdscXZsRGNXM1EwTy1GQjlNLWtBN19mWTVzM2JYalM5blJZSl9rZmpYbXQ2R1FNcDBuVTEzUnZYQXFmRVJsVDNma3BaZFJwaUN3YVNsb3VpSk1LTEZ3dzg2NG9Jc1pvYVFidGFlallyNUYzSk5lNUoxQmdpVUJEWUdmLVUwV3NrMzRwZzljSmlUa0kzQnNSbnVwYXBHaDdsNTVmTmRBQjBMSmMzdnhHek5rUmN1V0ZHVzVzUHVMN0hBdkpTUkJBUkhVYnVyQUtCa2VuaW1FVDAzNk4zVi1pU3hMOS1UaWlpMlNmSE5N0gGGAkFVX3lxTE45eV80ck5rQUJiVzJFVlFvaloteUxwWXRBRnc2cHhNSkl0SjhzcnZndk9saFlmM1lMN1JlMXk0UjFYRjI5U0NnYnRRY1RSVWhVN1dORzNnQmppbmVwV2VYSl9qM281VWl4QndPR0NYd2F3MkVCV292Y2FjSG1NTGxmOG40YllZUDFKZFNLcHVRSldXUThUTDFsSllSSkxaMVM4UUxGWGRNdWo1Z2xpRDltNkNvODkzYTVnOG9iM1ZTN3BXT0l4Sy1pUXNubkFhRUF5UlhwdjFJWFVCRHRxZ0VJSW1fUW9lV3NQbWdpT0M1S18wUjZyUGtFWjZNbEZ2NndzQTFwWEE?oc=5",
+       "publishedAt": "2026-11-26T08:26+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-26T09:00+05:30",
    "generatedAt": "2026-11-26T09:28+05:30",
@@ -29476,163 +29635,6 @@
        "title": "Pakistani Man Jailed For 27 Years In US For Trump Murder Plot",
        "link": "https://www.ndtv.com/world-news/pakistani-man-jailed-for-27-years-in-us-for-trump-murder-plot-12341452#publisher=newsstand",
        "publishedAt": "2026-11-18T04:35+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T08:00+05:30",
-   "generatedAt": "2026-11-18T08:20+05:30",
-   "feeds": 16,
-   "headlines": 185,
-   "stories": [
-    {
-     "title": "Horoscope Today: November 18, 2026",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4dnJNd0RTMGRBeTZXWFY1cWdLZUJJQVJOTXdxVnZXeHliTEUyQWVpSXBkcFd1Wi1xUF9yd2VqWVNJaFFpSUpSTnV3YmplMFlOWVhwQzhtcTZRZ1BISDQ1aE1SNTJLbEVqdjFvNF9B?oc=5",
-     "source": "Vogue India",
-     "sources": [
-      "Dainik Jagran MP CG",
-      "Deccan Herald",
-      "India Today",
-      "News18",
-      "Odisha TV",
-      "The Economic Times",
-      "The Times of India",
-      "Vogue India",
-      "iDiva"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-18T06:00+05:30",
-     "score": 9.91,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Vogue India",
-       "title": "Horoscope Today: November 18, 2026",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4dnJNd0RTMGRBeTZXWFY1cWdLZUJJQVJOTXdxVnZXeHliTEUyQWVpSXBkcFd1Wi1xUF9yd2VqWVNJaFFpSUpSTnV3YmplMFlOWVhwQzhtcTZRZ1BISDQ1aE1SNTJLbEVqdjFvNF9B?oc=5",
-       "publishedAt": "2026-11-18T06:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Ukraine strikes Putin's prized Crimean Bridge ahead of meeting with US-China",
-     "link": "https://timesofindia.indiatimes.com/world/europe/ukraine-strikes-putins-prized-crimean-bridge-destroys-central-road-section-ahead-of-us-china-meet/articleshow/135944199.cms",
-     "source": "Times of India",
-     "sources": [
-      "BBC",
-      "DW.com",
-      "Institute for the Study of War",
-      "The Guardian",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T06:11+05:30",
-     "score": 7.14,
-     "summary": "In a remarkable move, Ukraine has successfully targeted the Kerch Bridge, causing extensive damage and hampering Russian supply lines to Crimea. President Zelenskyy hailed this operation as extraordinary, executed by Ukraine's Security Service. The aftermath saw a halt in road traffic, while rail services were only partially resumed, complicating Russia's military logistics.",
-     "image": "https://static.toiimg.com/photo/msid-135944251,imgsize-42592.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Ukraine strikes Putin's prized Crimean Bridge ahead of meeting with US-China",
-       "link": "https://timesofindia.indiatimes.com/world/europe/ukraine-strikes-putins-prized-crimean-bridge-destroys-central-road-section-ahead-of-us-china-meet/articleshow/135944199.cms",
-       "publishedAt": "2026-11-18T06:11+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Ukraine strikes Putin's prized Crimean Bridge, destroys central road section ahead of US-China meet",
-       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQWVXUUNEeF9kNkRsS1FOVkZjcVlXb1NBcHNUcUZ2SGxmdjZBdkJWWmFBU2szNW5hZXE5ejRZRE5kX2RVYmMxZUVZMlFja0hOZUltSm0tLWpBTlFRWGYwVHVabmVZMmctNGMwYjQ5djBkVW1pTlZHMnZobHQwMm5RSDZPUWhNNndRcVRBR3VvZlJCdjRYZEZiVFBhc1E4TDhKbkxLUTNEZ25vVHNIRF8yMzI4ZEEzNDQ0aUZ5VzlHZVFXX0p2T2dVbDA5eU5taXh4dklNTDQ0WVQ4cF9MbkV0NlFwUGh6OE1vX1Nsa1g3eFZxd09SSWhYYlZmRERRQUc0dmc?oc=5",
-       "publishedAt": "2026-11-18T06:11+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
-     "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "CNN",
-      "NDTV",
-      "Reuters",
-      "The Guardian",
-      "The Times of Israel"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T05:07+05:30",
-     "score": 6.77,
-     "summary": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
-     "image": "https://c.ndtvimg.com/2026-11/3s8hkr5_matan-kahana_625x300_18_November_26.jpeg",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
-       "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
-       "publishedAt": "2026-11-18T04:58+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Israel Parliament Elects Gadi Eisenkot Ally As Speaker In Blow For Netanyahu",
-       "link": "https://www.ndtv.com/world-news/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-speaker-in-blow-for-netanyahu-12341395#publisher=newsstand",
-       "publishedAt": "2026-11-18T03:44+05:30"
-      }
-     ]
-    },
-    {
-     "title": "On Its Earnings Call, Nvidia Had 3 Words for Anyone Who Thinks It Should Bring Back Its Former CEO",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUkZxX29rWHZNS0ladWViLXpPSUJrRkdtd1hsNFdvbDdiVkhSOEF0a3hJbmRfQlczSktwRkFxdXVMMEEwMWxNd1pYWTlvSzd1MEdwMDdFeDJoc1FYZXdRNnRXeHdpc0lsYmttUnNOS3FpaVJUNXdUUk01OV9UWS0wN2loZ2p2YjdLSGM1RXpHOGR2dHhKQm9ZRkd2YlR5NW5WeTVCdnVpREExNU92b1VtczJ2ckc5VnA4eG9BS05Kel9lMTRlQ2p4UVp4V3AzanFiWjRZ?oc=5",
-     "source": "Inc.com",
-     "sources": [
-      "BBC",
-      "CNBC",
-      "Inc.com",
-      "The Guardian",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T06:35+05:30",
-     "score": 6.46,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Inc.com",
-       "title": "On Its Earnings Call, Nvidia Had 3 Words for Anyone Who Thinks It Should Bring Back Its Former CEO",
-       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUkZxX29rWHZNS0ladWViLXpPSUJrRkdtd1hsNFdvbDdiVkhSOEF0a3hJbmRfQlczSktwRkFxdXVMMEEwMWxNd1pYWTlvSzd1MEdwMDdFeDJoc1FYZXdRNnRXeHdpc0lsYmttUnNOS3FpaVJUNXdUUk01OV9UWS0wN2loZ2p2YjdLSGM1RXpHOGR2dHhKQm9ZRkd2YlR5NW5WeTVCdnVpREExNU92b1VtczJ2ckc5VnA4eG9BS05Kel9lMTRlQ2p4UVp4V3AzanFiWjRZ?oc=5",
-       "publishedAt": "2026-11-18T06:35+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Kuwait Says Countering \"Hostile\" Drone Attacks",
-     "link": "https://www.ndtv.com/world-news/iran-war-kuwait-says-countering-hostile-drone-attacks-12341559#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "AP News",
-      "Al Jazeera",
-      "Arab News",
-      "NDTV",
-      "Yahoo"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T06:26+05:30",
-     "score": 6.43,
-     "summary": "In a statement, the General Staff said Kuwaiti air defences were currently responding to the drone threats and clarified the source of any explosions that residents might hear.",
-     "image": "https://c.ndtvimg.com/2026-07/f654ucus_kuwait_625x300_17_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Kuwait Says Countering \"Hostile\" Drone Attacks",
-       "link": "https://www.ndtv.com/world-news/iran-war-kuwait-says-countering-hostile-drone-attacks-12341559#publisher=newsstand",
-       "publishedAt": "2026-11-18T06:26+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
-       "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
-       "publishedAt": "2026-11-18T05:30+05:30"
       }
      ]
     }
