@@ -1,6 +1,172 @@
 {
- "updated": "2026-11-26T21:30+05:30",
+ "updated": "2026-11-26T22:36+05:30",
  "hours": [
+  {
+   "hour": "2026-11-26T22:00+05:30",
+   "generatedAt": "2026-11-26T22:36+05:30",
+   "feeds": 16,
+   "headlines": 291,
+   "stories": [
+    {
+     "title": "O.M Operation Mole Box Office Collection Day 7",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjEzeDdkX2RKYWc2TTNNVTMxQUstX1ZETlVaN0pVZ0RDQ0l6UWstTUt2b3c0bFNIRkNGaTVvMi1ycHQ3ZW81bWJ0U1drX25kSHVqV0s3VEVqZWItS2c5U2xsNVB1V1JEa2NrRm9IWTFWTU8xaktWS1hvZW9lLXhOcTNKQVZlcU8xV21QaFVKVjA?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Bollywood Hungama",
+      "IMDb",
+      "India Today",
+      "NDTV",
+      "Nagaland Post",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Times of India",
+      "theopenpress.in"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-26T21:18+05:30",
+     "score": 12.29,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "O.M Operation Mole Box Office Collection Day 7",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjEzeDdkX2RKYWc2TTNNVTMxQUstX1ZETlVaN0pVZ0RDQ0l6UWstTUt2b3c0bFNIRkNGaTVvMi1ycHQ3ZW81bWJ0U1drX25kSHVqV0s3VEVqZWItS2c5U2xsNVB1V1JEa2NrRm9IWTFWTU8xaktWS1hvZW9lLXhOcTNKQVZlcU8xV21QaFVKVjA?oc=5",
+       "publishedAt": "2026-11-26T21:18+05:30"
+      },
+      {
+       "source": "IMDb",
+       "title": "Gunmaaster G9 Box Office Day 1 Advance Booking: Emraan Hashmi Starrer Sells Close To 14K Tickets Nationwide",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hU1htNkotMEFldVFxUDVqUmRyRVNwdHdrY0ZrNTVVcFg4dFNhTzBEdFV3N0tzUkstYndzTDhCWGFPdGk4LUpydFA1Wkp3Mi1wZzZJVWl4Y2VmUjFXQmxSUXVR?oc=5",
+       "publishedAt": "2026-11-26T20:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Centre seeks three-day special sitting of Parliament from 30 November",
+     "link": "https://www.livemint.com/news/centre-seeks-three-day-special-sitting-of-parliament-from-30-november-11795704288485.html",
+     "source": "Mint",
+     "sources": [
+      "Hindustan Times",
+      "Mint",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "ThePrint",
+      "TheWire.in"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T21:38+05:30",
+     "score": 9.34,
+     "summary": "The Lok Sabha has been requested to meet on 30 November, while the Rajya Sabha will reconvene on 2 December to take up essential business amid talk of women's quota and delimitation bills.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/ANI-20230526147-0_1685243351009_1795708956437_WpTU_9c4ec480-f611-4c8f-856b-8d1e304bb751_oeE3.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Centre seeks three-day special sitting of Parliament from 30 November",
+       "link": "https://www.livemint.com/news/centre-seeks-three-day-special-sitting-of-parliament-from-30-november-11795704288485.html",
+       "publishedAt": "2026-11-26T21:38+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Understanding the debate over delimitation and women’s quota as Centre proposes special Parliament sitting",
+       "link": "https://www.hindustantimes.com/india-news/understanding-the-debate-over-delimitation-and-women-s-quota-as-centre-proposes-special-parliament-sitting-101795708434941.html",
+       "publishedAt": "2026-11-26T21:33+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Special Parliament sitting from November 30 likely to take up amended Delimitation Bill",
+       "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+       "publishedAt": "2026-11-26T21:24+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Centre Seeks To Reconvene Parliament From November 30 For Big Delimitation-Women's Quota Move",
+       "link": "https://www.ndtv.com/india-news/amid-delimitation-womens-quota-bill-buzz-centre-seeks-to-reconvene-parliament-from-november-30-12381318#publisher=newsstand",
+       "publishedAt": "2026-11-26T20:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "U.K. net migration falls to lowest since 1997; Indians largest foreign group entering and leaving the country",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTmVmdmxuaWJqMS1PbHZ1bDRma3FoNVBIYktQYnVBMEpuY0t4U1VDMGNlWFpFNzFjTk1hNnlTSXdzSnZzTDFwTTVzS2Z6aXp0NVIwVU9QalZ4eGR5b0Y1ZlRYZmNZM2Nrcy1OWG41UkJSMDRJNU91UjN0S3pVV2M3WFRiVF9PWks0RGF4bndiTW85MVB4aTJBSjFXNXpVVnJHSU5Obzl0cGlVeEc0ZFY2RDhhRUVzZ3c4a1lhOTdjUUUwTnNxRlFrSDc1VU1JcHdtZEFmcFJiVHpURHAwcmxkY0kzcmJWSnA2VGtxVXZDS2xpalp1VnBlZThGLTJKRUHSAYYCQVVfeXFMUFV0LWY4OXNITDR1TGZwNmxJRXBNVG9BZWtLaHJuQ1NNVXo5dEM5dm40NFJuVVkxaDFIRE8xYkNHTmRCblFBTWFGbEZPMU5ueGZFVGdFcDA1cVM0Z2RPemo2WXNTcEtPVjBNVl9RU1A0WUdVaGszVXhxX1JIUWh0TlQtY1VLdDduMWhxSk53cTlTclRYbFFyVlRjTG9zWGVsalQzUGhjaGVCVWlGb3J3WTNVUzJWMThnOTg2Mlh3dXlmMzU1dUsybXZHSlBuVVoxcGhPOXVlR1Y0ZzBCSzhRb29sUjQ2UzU0V0RjeUt4SXRvZnFmUTNNdnpXUWZBcVNjM0RhSS1JUQ?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "BBC",
+      "Reuters",
+      "The Guardian",
+      "The Hindu",
+      "The New York Times",
+      "Yahoo"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T21:48+05:30",
+     "score": 7.62,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "U.K. net migration falls to lowest since 1997; Indians largest foreign group entering and leaving the country",
+       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTmVmdmxuaWJqMS1PbHZ1bDRma3FoNVBIYktQYnVBMEpuY0t4U1VDMGNlWFpFNzFjTk1hNnlTSXdzSnZzTDFwTTVzS2Z6aXp0NVIwVU9QalZ4eGR5b0Y1ZlRYZmNZM2Nrcy1OWG41UkJSMDRJNU91UjN0S3pVV2M3WFRiVF9PWks0RGF4bndiTW85MVB4aTJBSjFXNXpVVnJHSU5Obzl0cGlVeEc0ZFY2RDhhRUVzZ3c4a1lhOTdjUUUwTnNxRlFrSDc1VU1JcHdtZEFmcFJiVHpURHAwcmxkY0kzcmJWSnA2VGtxVXZDS2xpalp1VnBlZThGLTJKRUHSAYYCQVVfeXFMUFV0LWY4OXNITDR1TGZwNmxJRXBNVG9BZWtLaHJuQ1NNVXo5dEM5dm40NFJuVVkxaDFIRE8xYkNHTmRCblFBTWFGbEZPMU5ueGZFVGdFcDA1cVM0Z2RPemo2WXNTcEtPVjBNVl9RU1A0WUdVaGszVXhxX1JIUWh0TlQtY1VLdDduMWhxSk53cTlTclRYbFFyVlRjTG9zWGVsalQzUGhjaGVCVWlGb3J3WTNVUzJWMThnOTg2Mlh3dXlmMzU1dUsybXZHSlBuVVoxcGhPOXVlR1Y0ZzBCSzhRb29sUjQ2UzU0V0RjeUt4SXRvZnFmUTNNdnpXUWZBcVNjM0RhSS1JUQ?oc=5",
+       "publishedAt": "2026-11-26T21:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Right to vote cannot be compromised: People Against SIR protest in Delhi on Constitution Day",
+     "link": "https://www.thehindu.com/news/cities/Delhi/right-to-vote-cannot-be-compromised-people-against-sir-protest-in-delhi-on-constitution-day/article71746816.ece",
+     "source": "The Hindu",
+     "sources": [
+      "NarendraModi.in",
+      "PM India",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T22:27+05:30",
+     "score": 7.16,
+     "summary": "Over 200 protesters, including student groups, farmers’ unions and women’s organisations, demand scrapping of the SIR and action against the CEC; police barricades prevent march to Jantar Mantar",
+     "image": "https://th-i.thgim.com/public/incoming/lbxufi/article71746773.ece/alternates/LANDSCAPE_1200/PROTEST%20AGAINST%20SIR%201.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Right to vote cannot be compromised: People Against SIR protest in Delhi on Constitution Day",
+       "link": "https://www.thehindu.com/news/cities/Delhi/right-to-vote-cannot-be-compromised-people-against-sir-protest-in-delhi-on-constitution-day/article71746816.ece",
+       "publishedAt": "2026-11-26T22:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gukesh vs Sindarov LIVE: Latest updates from game 3 of World Chess Championship 2026",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3JORUVCZmhwSVNrOERfUnk2NWNWNExaak5scDM4bDQxbVFpMW1XeEdPMjJSV3JtN014S2FjVE5Ob21TTS1PcWJjNXhvN0wzX1M1bWNsWnlQa1Q5QWJ6ZGpzV0IxQWEtV1dzTjBJUFA3SVF2VTh3bzZZLVk0aTZ3eXVBbVhMUU51ZlozaXdrLV81WXBhY0lXNFpaeEJIbjMzRVdtdHphWjRTQUhSRWlCZnFONkxZbzl5enNQZEZDWUI?oc=5",
+     "source": "ESPN India",
+     "sources": [
+      "ChessBase India",
+      "ESPN India",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T17:07+05:30",
+     "score": 6.59,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "ESPN India",
+       "title": "Gukesh vs Sindarov LIVE: Latest updates from game 3 of World Chess Championship 2026",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3JORUVCZmhwSVNrOERfUnk2NWNWNExaak5scDM4bDQxbVFpMW1XeEdPMjJSV3JtN014S2FjVE5Ob21TTS1PcWJjNXhvN0wzX1M1bWNsWnlQa1Q5QWJ6ZGpzV0IxQWEtV1dzTjBJUFA3SVF2VTh3bzZZLVk0aTZ3eXVBbVhMUU51ZlozaXdrLV81WXBhY0lXNFpaeEJIbjMzRVdtdHphWjRTQUhSRWlCZnFONkxZbzl5enNQZEZDWUI?oc=5",
+       "publishedAt": "2026-11-26T17:07+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-26T21:00+05:30",
    "generatedAt": "2026-11-26T21:30+05:30",
@@ -29440,177 +29606,6 @@
        "title": "India inks Rs 2,000-crore contract with Israel Aerospace Industries to upgrade Navy's Barak missiles",
        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcnp5ODdZbmF3NElvX19XRGxjUDJxUkxISkRYYUZEWU5CTVE0YWxFM1l2WDdBQUpIcFNhRWo2X1RoQklXX1lPc1VTRlUzVTNnbnp5QWZTcExvd0hEaGY5QUZkblFzVTJWS3FlTm5zREkzYTlid2taa1VOVGlrb2xoS0trQ3p0LUR6ZVFhSVpsLW5uVlVySVEyUlYwWnBobnFjYm96UDNwb2wyNnVrXzhZaDg1Nzl1VHRFbGZHNFlJN0hwSk4yZ3FBcjk1U2ttbnJIOHhiS1ctYkFDWHpwdzhHRVJkdzR3YW5lblJBcEhPRTbSAfYBQVVfeXFMTXFISkJ5dGI0VHlCcENaNGQ3RU5PYl9pc1pGejhUNVlMRTloLXl4YXdua0UwTXpNX094RURjbFFRcGw0ZEpxMTF6LUp3b09XNDBFMVRsZzlXbFN3ZGp3OUVES1Q1VTVfU0dZR0p4WU1CRTBxMGt5Q1hPNU5OMFJTU1NobExHUDVwTUVfQlE4ak9CYlRZaXpqWVhVSWhWNjRIRnJPWXZWeEx5blJreEpvaHQ5VXVKdzRUYnluMU9USHNHd2JrRlcxWTBwM1VCM0U1S1ZMa3REZ2tfUTZuZ19ja0pIUHhDNHhkS3ZiM0xwOGpDdnk5dlNB?oc=5",
        "publishedAt": "2026-11-18T18:29+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T18:00+05:30",
-   "generatedAt": "2026-11-18T18:36+05:30",
-   "feeds": 16,
-   "headlines": 322,
-   "stories": [
-    {
-     "title": "Grand Theft Auto 6: Reviews come in as worldwide release begins",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
-     "source": "BBC",
-     "sources": [
-      "BBC",
-      "Bloomberg.com",
-      "CNN",
-      "Eurogamer.net",
-      "IGN",
-      "The Economic Times",
-      "The Guardian",
-      "The National",
-      "The New York Times"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-18T18:22+05:30",
-     "score": 10.71,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "BBC",
-       "title": "Grand Theft Auto 6: Reviews come in as worldwide release begins",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
-       "publishedAt": "2026-11-18T18:22+05:30"
-      },
-      {
-       "source": "The National",
-       "title": "Live streams and days off work: UAE's Grand Theft Auto super fans switched on for mega release",
-       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc0hFSzJ6bF9yd1lBR01uRjFESDRfMHJMTjVsYU1kOTRkaUdpNkVQLTVLdF9nZFpjeTJBQl95cURXTEVDU2U4cHNYZnlkQndmdl81cTlXNWIxR0gwOU5qOUFsWUdfc2VUV1pJOU5kX2xtWHlRVTViX0RrclQyZ2FfT3V2LWJwdXR1RWh5c1pzWTFRSXpJQkNBWkV3d2NBSGdGcjZYaGhxTFBXYnY0bDRrY3JaYWtoRVhNZ05IaTZKQmFqZWZ0RU1lQ05KbzJBT185SHVqanNfLTc3TFJrUlE?oc=5",
-       "publishedAt": "2026-11-18T17:18+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Scotch on the rocks? India imposes 162.5% duty, tax on bulk UK imports",
-     "link": "https://timesofindia.indiatimes.com/business/india-business/scotch-on-the-rocks-india-imposes-162-5-duty-tax-on-bulk-uk-imports-domestic-production-likely-to-be-hit/articleshow/135961860.cms",
-     "source": "Times of India",
-     "sources": [
-      "ET Retail",
-      "India Shipping News",
-      "Reuters",
-      "Simply Wall St",
-      "The Drinks Business",
-      "The Economic Times",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-18T17:07+05:30",
-     "score": 7.92,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135961968,imgsize-102915.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Scotch on the rocks? India imposes 162.5% duty, tax on bulk UK imports",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/scotch-on-the-rocks-india-imposes-162-5-duty-tax-on-bulk-uk-imports-domestic-production-likely-to-be-hit/articleshow/135961860.cms",
-       "publishedAt": "2026-11-18T17:07+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "162.5% duty to be charged on bulk Scotch imports",
-       "link": "https://economictimes.indiatimes.com/industry/cons-products/liquor/govt-to-charge-bulk-scotch-imports-162-5-duty-and-tax-amid-uk-pact-standoff-pernord-ricard/articleshow/135960324.cms",
-       "publishedAt": "2026-11-18T16:12+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
-       "publishedAt": "2026-11-18T17:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Bomb blasts, arson rock Bangladesh ahead of Hasina's planned return",
-     "link": "https://timesofindia.indiatimes.com/world/south-asia/bomb-blasts-arson-rock-bangladesh-ahead-of-hasinas-planned-return-paramilitary-deployed/articleshow/135961303.cms",
-     "source": "Times of India",
-     "sources": [
-      "Asia News Network",
-      "NDTV",
-      "Reuters",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T16:43+05:30",
-     "score": 7.44,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135961384,imgsize-40434.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Bomb blasts, arson rock Bangladesh ahead of Hasina's planned return",
-       "link": "https://timesofindia.indiatimes.com/world/south-asia/bomb-blasts-arson-rock-bangladesh-ahead-of-hasinas-planned-return-paramilitary-deployed/articleshow/135961303.cms",
-       "publishedAt": "2026-11-18T16:43+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Bomb blasts, arson rock Bangladesh ahead of Hasina's planned return; paramilitary deployed",
-       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOczJOMjdDcmI5d2FlXzdDdTZqZWlMWGFKMGVZaWxQS2dPOFo3aTRnaHhDLW9wQ2Q2Q1g5VnFoRlNNWncxTFBUOE91TjdlNE5MRUNoRkFWc1lxR0xkNG5xZ2xqZHYyVzlKMDZqM1VENDJtZ1V3MnNlX3MwV2tHNVI2SnVub1J1UDlEdldJWlBBcGdaaEJMV3VIeEpLamtyRGVGemM2QXpta2hUb2tqMEtLNXhySWpTZ1hNcnFaYlF6LXVYa1pMZkRzdVpIZzVQUHFQSlQ0elIwcDV3VXVUNWhiNjRlbUt5THJMRjVJUUE5UW9rSXQ4dnZJbHZ30gH_AUFVX3lxTE5pNER3S1Z4ZkdCYUVyLS10UllTVmFNeW1rdy1la1E3S1ZlTEQySzhZQWwtSjY1ZXBwTG1IR3ZfaEMzZ3I0YTV6a3Q2cTJDRGZzdGtEeHJ1Tk9hSzd4RnlxdDNpcDU1TG1UWV83NHM1dWh1aXVsa1Q0NE5ZNE9tekMyamxXdDNCNlFManpUdDJOdDhKZWdmZy1Ma2dqRHdCRFJrNC1fczZ5cy1rV1g0UTZ3cDRtV3c2MmFGQ2lBWnc5bVRfeFVBdTdCQkVpTUY1a2NtM0loYm1mUVEwTVZqeTdMaElWemRwU1VUVlc2NFpHMGxvNW1JaDdjYklDaDZ2OA?oc=5",
-       "publishedAt": "2026-11-18T16:43+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cyclone Akvan veers north and may cross anywhere from Narsapur to Puri, 10 Andhra districts on rain alert",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-veers-north-and-may-cross-the-coast-anywhere-from-narsapur-to-puri/article71715514.ece",
-     "source": "The Hindu",
-     "sources": [
-      "DD News",
-      "NDTV",
-      "News On AIR",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T17:54+05:30",
-     "score": 7.38,
-     "summary": "Extremely heavy rain is likely in Srikakulam, Vizianagaram, Visakhapatnam, ASR, Anakapalli and Kakinada districts on November 19 and 20",
-     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/2myo8x/article71715723.ece/alternates/LANDSCAPE_1200/Announcemnt.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone Akvan veers north and may cross anywhere from Narsapur to Puri, 10 Andhra districts on rain alert",
-       "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-veers-north-and-may-cross-the-coast-anywhere-from-narsapur-to-puri/article71715514.ece",
-       "publishedAt": "2026-11-18T17:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Supreme Court issues notice on contempt plea against lawyer over remarks about CJI",
-     "link": "https://www.thehindu.com/news/national/supreme-court-issues-notice-on-contempt-plea-against-lawyer-over-remarks-about-cji/article71715528.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Deccan Herald",
-      "Hindustan Times",
-      "Live Law",
-      "Scroll.in",
-      "Supreme Court Observer",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T18:26+05:30",
-     "score": 7.14,
-     "summary": "Solicitor General Tushar Mehta supported the Supreme Court Bar Association’s petition, submitting that ‘the majesty of the court cannot be compromised’",
-     "image": "https://th-i.thgim.com/public/incoming/h63v7x/article71715988.ece/alternates/LANDSCAPE_1200/20261101532L.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Supreme Court issues notice on contempt plea against lawyer over remarks about CJI",
-       "link": "https://www.thehindu.com/news/national/supreme-court-issues-notice-on-contempt-plea-against-lawyer-over-remarks-about-cji/article71715528.ece",
-       "publishedAt": "2026-11-18T18:26+05:30"
-      },
-      {
-       "source": "Live Law",
-       "title": "Supreme Court Issues Notice To CJP, Congress, AAP & AISA On Delhi Traders' Plea Against Protests",
-       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONWNoeDJ5MTNnekkwWjJPaEFrWFpmSTdnbFpCRUpxaG1TblhhWVgxaFRhUWNmT0k0MHhCeGhWTEdNMktqYzdnblJuc1pMcUNCZjFFejI4U1VVYUhUYmZnMnJRZkZ1RFRDbjdFQWROQVk4QjdNeEVIUUVHQ3NBOG92OHpRY0JQeEpRTkdlOUN0VE5aRE83NzJDbGQ5QWNrZjBWdTRZNGVQeUdMOHNacnlFZnNVYVpXdVFob25ZODJMVnhwdXR3UWhibUR5SnJCUdIB0wFBVV95cUxOazhzNV8zOHVwRW5zNU5rRVhhVmVfbDFpQlNkbTJ3N01KaEpxV0NGYUNGX2dUem9zZG5tU2ZnNVhBQXVVbENUV212OVhJbVoxSlBWamZkMG9JQWNVT011bzVKSi16ai1YWG9MLTYtbThMQjN1NzhyWFcwc1ZPR21Kd0h5em1GTGFnRXRVay16RUZoWS10R0kwLWk4QzlkbGc1NURpcXhDZUkxclQ1VVpTWU5uS1hrVnF2OFV1WTRfeEhMeWhiRkJuMW5sWkt6aWdGdHhR?oc=5",
-       "publishedAt": "2026-11-18T15:01+05:30"
       }
      ]
     }
