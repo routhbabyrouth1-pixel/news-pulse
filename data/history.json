@@ -1,6 +1,177 @@
 {
- "updated": "2026-11-26T08:23+05:30",
+ "updated": "2026-11-26T09:28+05:30",
  "hours": [
+  {
+   "hour": "2026-11-26T09:00+05:30",
+   "generatedAt": "2026-11-26T09:28+05:30",
+   "feeds": 16,
+   "headlines": 211,
+   "stories": [
+    {
+     "title": "Gemini Horoscope Today: November 26, 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUTDU5YWdJaV8weFVUUlRhVTVVMVB3NTk2b1JiMGtrdS1Db0dXLUlKUEp2bVYxVFdmQWpmX1dRRGhCMDlyYXF3MndmRnlBRjVXdjdVNVdydDloLXlxMmFGLVpOdllESGhXSmZCTlJTa3QtN2lRcWxJ?oc=5",
+     "source": "Vogue India",
+     "sources": [
+      "ETV Bharat",
+      "Hindustan Times",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "OrissaPOST",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India",
+      "Yahoo",
+      "YourTango"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-26T05:50+05:30",
+     "score": 11.58,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Vogue India",
+       "title": "Gemini Horoscope Today: November 26, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUTDU5YWdJaV8weFVUUlRhVTVVMVB3NTk2b1JiMGtrdS1Db0dXLUlKUEp2bVYxVFdmQWpmX1dRRGhCMDlyYXF3MndmRnlBRjVXdjdVNVdydDloLXlxMmFGLVpOdllESGhXSmZCTlJTa3QtN2lRcWxJ?oc=5",
+       "publishedAt": "2026-11-26T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Musk's SpaceX gets US nod for 1 million satellites to power AI data centres in space",
+     "link": "https://timesofindia.indiatimes.com/business/international-business/us-approves-musks-spacex-plan-to-deploy-1-million-satellites-for-ai-data-centres-in-space/articleshow/136176040.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "CNBC",
+      "NDTV",
+      "Reuters",
+      "The Guardian",
+      "Times of India",
+      "WSJ"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T07:29+05:30",
+     "score": 7.8,
+     "summary": "Several startups are also in the race, including Starcloud, which successfully operated an advanced processor known as a GPU aboard a satellite in late 2025.",
+     "image": "https://static.toiimg.com/photo/msid-136176219,imgsize-110726.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Musk's SpaceX gets US nod for 1 million satellites to power AI data centres in space",
+       "link": "https://timesofindia.indiatimes.com/business/international-business/us-approves-musks-spacex-plan-to-deploy-1-million-satellites-for-ai-data-centres-in-space/articleshow/136176040.cms",
+       "publishedAt": "2026-11-26T07:29+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Elon Musk's SpaceX Gets Nod To Launch 1 Million Satellites For Space Data Centres",
+       "link": "https://www.ndtv.com/world-news/us-clears-spacex-to-launch-1-million-satellites-for-data-centers-in-space-12377997#publisher=newsstand",
+       "publishedAt": "2026-11-26T07:09+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "US approves SpaceX plan to send a million data satellites to space",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5",
+       "publishedAt": "2026-11-26T05:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Govt.’s endeavour has been to deepen Constitution’s connect with people, strengthen unity: PM Modi",
+     "link": "https://www.thehindu.com/news/national/govts-endeavour-has-been-to-deepen-constitutions-connect-with-people-strengthen-unity-pm-modi/article71743504.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Scroll.in",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T08:48+05:30",
+     "score": 7.39,
+     "summary": "He pays tribute to Dr. Rajendra Prasad, Dr. Babasaheb Ambedkar and all members of the Constituent Assembly, which adopted the Constitution on November 26, 1949; highlights the founding principles’ role in strengthening democracy and promoting social and economic justice",
+     "image": "https://th-i.thgim.com/public/incoming/lvtvu3/article71745123.ece/alternates/LANDSCAPE_1200/PTI11_26_2026_000002B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Govt.’s endeavour has been to deepen Constitution’s connect with people, strengthen unity: PM Modi",
+       "link": "https://www.thehindu.com/news/national/govts-endeavour-has-been-to-deepen-constitutions-connect-with-people-strengthen-unity-pm-modi/article71743504.ece",
+       "publishedAt": "2026-11-26T08:48+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "A commitment to strengthen our Constitution",
+       "link": "https://timesofindia.indiatimes.com/india/a-commitment-to-strengthen-our-constitution/articleshow/136175334.cms",
+       "publishedAt": "2026-11-26T05:48+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "A commitment to strengthen our Constitution",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUk2Z1JmNUdUMEk1X0szQjBIb2xDeUtLZmJ4UU9NVkZNcmZra1dqZEhmM3ZLUkROSnVKV0JCVWFPOGdoYndKU1BYY2xrd2h6Y1NEUHVxSjJOZVB4Zzd3U29UakpIdEdkZW5iYUVwZTlJdHlOOEIwTUZGUE5uZWIxOWJPYll3dXo0dWtvTWhaLW8xdURNbFFrQUlOamR6NlVVWTlmNnhZRGg2Z094TkRLbg?oc=5",
+       "publishedAt": "2026-11-26T05:48+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US announces new tariffs on host of countries including China",
+     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC News",
+      "India Today",
+      "NDTV",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T08:31+05:30",
+     "score": 7.34,
+     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "US announces new tariffs on host of countries including China",
+       "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-26T08:31+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
+       "link": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
+       "publishedAt": "2026-11-26T08:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock market outlook today,26 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYmNwMTNDSm1icWFya1loeFM5eXZLZ0t3V2FyWEkxRzBEc0xPbGdjZ1VxR3UyMjkxUUxtX3NvR05OU0ZNc205VXNGZ2ozOHA0X2RCUkh5QndRRVhFRVNVdHRHaEpGQ3NYbWU0emNScDFWOUlwem1Wd0FvbUhhU0wwOFU4QjNyTGxMXzRwLUVVNlJGenA3akhxT2dkZ1UtMU16RFhYMUVqaEhtM3oyS2NkV2NKMGJYc1FJUVREWTNpOVo0aUhPYUdNOXN3TTlqZXBHVUtITFh2Q3dndVROcFRNSGhKNnE1bC01bTFMYXpTMFNEaHpHWWRwcTRmaGl3emlzalc5UkM1bjZJbUnSAZACQVVfeXFMUG53Z2JheTNrY05QWUZYY2Y5bEdoN2hWcjJ3ZFNHX09GYmRfZE1ma09QYmhNdTdzaHdXcUMwU0IzNHNtLVNaYTBKX1R3djFsamxFUUhiVzY5S3dtV1RrdDMtb2ZUcV9KYWQtbmVIMmwtbjJwT3F6WDVBTVc5d2Z2UTJ4T1lVSnVzakRQbFBpeEJwT1NoQUNreXI0RzI4dktjRDdmUlZUaFZoSTdDOU5ac25zSXlSOGtvVVFnZWx5ZjMzS0xGaW9iZDBJZ0R6djNudG5wWlNJbUl3c3kwWVc3WVhMTHFzZ1BNSmdxeGthUjlXNklKWGxObk5WV3VuWk44X0szeXkwUDN4NF9lUTJ1bmg?oc=5",
+     "source": "Livemint",
+     "sources": [
+      "Livemint",
+      "Moneycontrol.com",
+      "The Economic Times",
+      "The Times of India",
+      "TradingView"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-26T06:38+05:30",
+     "score": 7.03,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Livemint",
+       "title": "Stock market outlook today,26 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYmNwMTNDSm1icWFya1loeFM5eXZLZ0t3V2FyWEkxRzBEc0xPbGdjZ1VxR3UyMjkxUUxtX3NvR05OU0ZNc205VXNGZ2ozOHA0X2RCUkh5QndRRVhFRVNVdHRHaEpGQ3NYbWU0emNScDFWOUlwem1Wd0FvbUhhU0wwOFU4QjNyTGxMXzRwLUVVNlJGenA3akhxT2dkZ1UtMU16RFhYMUVqaEhtM3oyS2NkV2NKMGJYc1FJUVREWTNpOVo0aUhPYUdNOXN3TTlqZXBHVUtITFh2Q3dndVROcFRNSGhKNnE1bC01bTFMYXpTMFNEaHpHWWRwcTRmaGl3emlzalc5UkM1bjZJbUnSAZACQVVfeXFMUG53Z2JheTNrY05QWUZYY2Y5bEdoN2hWcjJ3ZFNHX09GYmRfZE1ma09QYmhNdTdzaHdXcUMwU0IzNHNtLVNaYTBKX1R3djFsamxFUUhiVzY5S3dtV1RrdDMtb2ZUcV9KYWQtbmVIMmwtbjJwT3F6WDVBTVc5d2Z2UTJ4T1lVSnVzakRQbFBpeEJwT1NoQUNreXI0RzI4dktjRDdmUlZUaFZoSTdDOU5ac25zSXlSOGtvVVFnZWx5ZjMzS0xGaW9iZDBJZ0R6djNudG5wWlNJbUl3c3kwWVc3WVhMTHFzZ1BNSmdxeGthUjlXNklKWGxObk5WV3VuWk44X0szeXkwUDN4NF9lUTJ1bmg?oc=5",
+       "publishedAt": "2026-11-26T06:38+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-26T08:00+05:30",
    "generatedAt": "2026-11-26T08:23+05:30",
@@ -29462,160 +29633,6 @@
        "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
        "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
        "publishedAt": "2026-11-18T05:30+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T06:00+05:30",
-   "generatedAt": "2026-11-18T06:37+05:30",
-   "feeds": 15,
-   "headlines": 142,
-   "stories": [
-    {
-     "title": "Jensen Huang 'Ready To Return', Nvidia Chairman Says Will Not Reinstate Him",
-     "link": "https://www.ndtv.com/world-news/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo-12341411#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "BBC",
-      "NDTV",
-      "Reuters",
-      "The Economist",
-      "The Guardian",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-18T05:25+05:30",
-     "score": 9.3,
-     "summary": "Former Nvidia CEO Jensen Huang signaled interest Tuesday in returning to lead the computer chip company in his first public statement since he resigned last week following revelations of an extramarital affair with an alleged Chinese spy.",
-     "image": "https://c.ndtvimg.com/2026-11/m78c4fa8_jensen-huang_625x300_17_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Jensen Huang 'Ready To Return', Nvidia Chairman Says Will Not Reinstate Him",
-       "link": "https://www.ndtv.com/world-news/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo-12341411#publisher=newsstand",
-       "publishedAt": "2026-11-18T05:25+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
-       "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-       "publishedAt": "2026-11-18T05:02+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Nvidia chairman rules out Jensen Huang's return; company doubles revenue",
-       "link": "https://timesofindia.indiatimes.com/business/international-business/board-has-no-plans-to-reinstate-him-as-ceo-nvidia-chairman-rules-out-jensen-huangs-return/articleshow/135943448.cms",
-       "publishedAt": "2026-11-18T04:37+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
-     "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "CNN",
-      "Deccan Chronicle",
-      "Financial Times",
-      "NDTV",
-      "The Times of Israel"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T05:07+05:30",
-     "score": 6.81,
-     "summary": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
-     "image": "https://c.ndtvimg.com/2026-11/3s8hkr5_matan-kahana_625x300_18_November_26.jpeg",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
-       "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
-       "publishedAt": "2026-11-18T04:58+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Israel Parliament Elects Gadi Eisenkot Ally As Speaker In Blow For Netanyahu",
-       "link": "https://www.ndtv.com/world-news/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-speaker-in-blow-for-netanyahu-12341395#publisher=newsstand",
-       "publishedAt": "2026-11-18T03:44+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Jürgen Klopp has unleashed Germany’s wingers",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlY4N1BDMEk5WF9lR0J6LWlIbTZzVjRvSHRzY1dFME9Pd1FvMFphWlhFTUswWjNIcWljeng3UWtGLXVkbjYyRjVnbmh0cFFQSTZnYmM3dUJ6WG5yYy1zS096RGwtdExRdDVKbmdIcHBpMjZzTWhDU04yYml0SklEN3FmdnJidjdRVDd5aEo1SVV3RzRVZnlvQUhYcDRRRXVVNVZ1QTRvMmxHVUo5Y05KckYzVTA1dWZ3Q09pWkk0N2FzcG9TVkE?oc=5",
-     "source": "Bavarian Football Works",
-     "sources": [
-      "Al Jazeera",
-      "Bavarian Football Works",
-      "ESPN India",
-      "The Guardian",
-      "UEFA.com"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T05:30+05:30",
-     "score": 5.86,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Bavarian Football Works",
-       "title": "Jürgen Klopp has unleashed Germany’s wingers",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlY4N1BDMEk5WF9lR0J6LWlIbTZzVjRvSHRzY1dFME9Pd1FvMFphWlhFTUswWjNIcWljeng3UWtGLXVkbjYyRjVnbmh0cFFQSTZnYmM3dUJ6WG5yYy1zS096RGwtdExRdDVKbmdIcHBpMjZzTWhDU04yYml0SklEN3FmdnJidjdRVDd5aEo1SVV3RzRVZnlvQUhYcDRRRXVVNVZ1QTRvMmxHVUo5Y05KckYzVTA1dWZ3Q09pWkk0N2FzcG9TVkE?oc=5",
-       "publishedAt": "2026-11-18T05:30+05:30"
-      }
-     ]
-    },
-    {
-     "title": "What's the weather forecast for 'GTA 6'? The Weather Channel has a preview.",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93ZU1Lb3NlSTNGcnBjV0dpWExUbjRFUWFQT3hVZFhXYnRqV0RMLVNOVzU2Yl8ySXVGdUl3Q2pSQTdFcnRsUm1JLTFMWkM4VW1pNFdhTDhMREllUWg1cGd1bjBQTmUwZw?oc=5",
-     "source": "Mashable",
-     "sources": [
-      "Insider Gaming",
-      "Mashable",
-      "Push Square",
-      "RockstarINTEL",
-      "Times Argus"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T04:14+05:30",
-     "score": 5.66,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Mashable",
-       "title": "What's the weather forecast for 'GTA 6'? The Weather Channel has a preview.",
-       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93ZU1Lb3NlSTNGcnBjV0dpWExUbjRFUWFQT3hVZFhXYnRqV0RMLVNOVzU2Yl8ySXVGdUl3Q2pSQTdFcnRsUm1JLTFMWkM4VW1pNFdhTDhMREllUWg1cGd1bjBQTmUwZw?oc=5",
-       "publishedAt": "2026-11-18T04:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Wall Street ends lower ahead of Nvidia results, focus turns to Anthropic debut",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
-     "source": "Reuters",
-     "sources": [
-      "CNBC",
-      "MarketWatch",
-      "Reuters",
-      "WSJ",
-      "Yahoo Finance"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-18T03:22+05:30",
-     "score": 5.56,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Reuters",
-       "title": "Wall Street ends lower ahead of Nvidia results, focus turns to Anthropic debut",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
-       "publishedAt": "2026-11-18T03:22+05:30"
       }
      ]
     }
