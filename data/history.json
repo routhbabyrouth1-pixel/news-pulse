@@ -1,6 +1,214 @@
 {
- "updated": "2026-11-26T14:32+05:30",
+ "updated": "2026-11-26T15:38+05:30",
  "hours": [
+  {
+   "hour": "2026-11-26T15:00+05:30",
+   "generatedAt": "2026-11-26T15:38+05:30",
+   "feeds": 16,
+   "headlines": 342,
+   "stories": [
+    {
+     "title": "Mumbai Police issued Look Out Circular against CJP's Saurav Das: Centre tells Delhi HC",
+     "link": "https://www.thehindu.com/news/national/mumbai-police-issued-look-out-circular-against-cjps-saurav-das-centre-tells-delhi-hc/article71745604.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T13:19+05:30",
+     "score": 9.11,
+     "summary": "The CJP leader’s counsel submitted that he was not made aware of any LOC issued on November 23, the reason for its issuance and its purpose",
+     "image": "https://th-i.thgim.com/public/incoming/dyn4le/article71745634.ece/alternates/LANDSCAPE_1200/CJP%20PC%20SAURAV%20DAS%2017.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Mumbai Police issued Look Out Circular against CJP's Saurav Das: Centre tells Delhi HC",
+       "link": "https://www.thehindu.com/news/national/mumbai-police-issued-look-out-circular-against-cjps-saurav-das-centre-tells-delhi-hc/article71745604.ece",
+       "publishedAt": "2026-11-26T13:19+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Saurav Das was stopped at airport over Mumbai Police lookout notice, Centre tells HC",
+       "link": "https://timesofindia.indiatimes.com/india/delhi-hc-seeks-centres-response-on-cjp-leader-saurav-dass-plea-over-london-travel/articleshow/136181118.cms",
+       "publishedAt": "2026-11-26T11:57+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Look Out Circular issued against CJP’s Saurav Das at Maharashtra Police’s request: Centre to HC",
+       "link": "https://www.hindustantimes.com/india-news/look-out-circular-issued-against-cjp-s-saurav-das-at-maharashtra-police-s-request-centre-to-hc-101795672099321.html",
+       "publishedAt": "2026-11-26T11:39+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Look Out Circular Issued Against Saurav Das; Passport Discrepancies May Have Bearing On His Citizenship:...",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmJNNUFZbThZSUZKVmZ2YXdpUVlOMXUxTEZxZHpzUUNHR3RkcXBEX1dzLVNJMEVyb09sdGowSzVuSzM4UXhrcEFzVXd4LUhGNHMxakJxTHdBdzNBdFR4aDRUdnBROHk4aVhLTjZKdmdMRFlTeHpwN1E3MGVEY1ludVpOMTAyXzI4NmhoU2ZJQTlwV2hIZkN5dnRJVi1pTnFON1ZUUWNYU0xURFnSAbABQVVfeXFMT2JVNGh3bDU4azdDdnM1TXMyLXE5cmZzdU9zMndISHBvRXllb2dpSElOZzRLVzAzWkp4U0prZUtob19rTFlYY1JnbE1OUE8yMld3a3IyWGxxZ0NGUjFkNHg5RGJQVkVidUdUUHdqbFB1cGZZSWtUZFBfU0VUOURtTS1VSVVzUDVYVElDS3Q0QzFVZmp1d1lZUFh2T2RUVTM4WjV1cEduUWNzUENwUG1BNW4?oc=5",
+       "publishedAt": "2026-11-26T11:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "RSSB CET 12th Level Admit Card 2026 LIVE: Download Rajasthan CET Exam Hall Ticket PDF at rssb.rajasthan.gov.in",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRThsaFctUjFJaEtrR3dCbFRIeTIyOGZEOUJ5WXpfQ0lMRXVaeThBTTJmWEdVR2NUR1Uta0NKN1FOcWpwNHlHWk1WVWZoTU9JZnlTS1M4LWpLaHFOQ0tDTWU4YmVYZEo0bTUzRHBYWWlrRUlUZUFFX3JqdGw0RE1kOTd2UzRUVmVReUN1Nlo5NXpFSFdFVzE0MzAteFpfMDVDXzlfZjVzSExBTDRVaENfeWZGaU1ZSFpLXzZfUHRHM1M2ZHlZcUlaVFp0b1lIQ2F1cXFiNzNRRDRyTVdfTUpQTWxUa0U4eVhs?oc=5",
+     "source": "Jagran Josh",
+     "sources": [
+      "Adda247",
+      "Amar Ujala",
+      "Dainik Bhaskar",
+      "EdexLive",
+      "Education Times",
+      "Jagran Josh",
+      "News18 Hindi",
+      "The Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-26T15:30+05:30",
+     "score": 9.08,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Jagran Josh",
+       "title": "RSSB CET 12th Level Admit Card 2026 LIVE: Download Rajasthan CET Exam Hall Ticket PDF at rssb.rajasthan.gov.in",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRThsaFctUjFJaEtrR3dCbFRIeTIyOGZEOUJ5WXpfQ0lMRXVaeThBTTJmWEdVR2NUR1Uta0NKN1FOcWpwNHlHWk1WVWZoTU9JZnlTS1M4LWpLaHFOQ0tDTWU4YmVYZEo0bTUzRHBYWWlrRUlUZUFFX3JqdGw0RE1kOTd2UzRUVmVReUN1Nlo5NXpFSFdFVzE0MzAteFpfMDVDXzlfZjVzSExBTDRVaENfeWZGaU1ZSFpLXzZfUHRHM1M2ZHlZcUlaVFp0b1lIQ2F1cXFiNzNRRDRyTVdfTUpQTWxUa0U4eVhs?oc=5",
+       "publishedAt": "2026-11-26T15:30+05:30"
+      },
+      {
+       "source": "Adda247",
+       "title": "RSSB CET 12th Level Admit Card 2026 Out Today at recruitment.rajasthan.gov.in, Download Hall Ticket PDF",
+       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xanVCUU9aMlRNRFFDb2dxeDlsM21oT0xwaWVfV2liOHhzMWR5QjRhWm13SDFSY1VqeDRHRGF1bkxVNFRaVXdoSkkyV0JnQU96WTBKYU9HMFVNWDVQTG9pUUNZazhjelc2Y2pxWEpqRlN2UGc?oc=5",
+       "publishedAt": "2026-11-26T13:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Tata Trusts decides to move Bombay High Court challenging N. Chandrasekaran’s reappointment",
+     "link": "https://www.thehindu.com/business/Industry/tata-trusts-to-move-high-court-against-reappointment-of-n-chandrasekaran-as-executive-chairman-of-tata-sons/article71745407.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Bar and Bench",
+      "Moneylife",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T14:19+05:30",
+     "score": 8.28,
+     "summary": "The Tata Trusts termed this “reappointment illegal”, as it violated the company’s Articles of Association",
+     "image": "https://th-i.thgim.com/public/incoming/t6wfbs/article71081412.ece/alternates/LANDSCAPE_1200/2026-06-09T080218Z_199016916_RC28QLAWISQE_RTRMADP_3_TCS-AI.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Tata Trusts decides to move Bombay High Court challenging N. Chandrasekaran’s reappointment",
+       "link": "https://www.thehindu.com/business/Industry/tata-trusts-to-move-high-court-against-reappointment-of-n-chandrasekaran-as-executive-chairman-of-tata-sons/article71745407.ece",
+       "publishedAt": "2026-11-26T14:19+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Tata Trusts To Go To Court Against N Chandrasekaran's Reappointment",
+       "link": "https://www.ndtv.com/india-news/tata-trusts-to-go-to-court-against-n-chandrasekarans-reappointment-12379003#publisher=newsstand",
+       "publishedAt": "2026-11-26T13:37+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Tata Trusts challenge Chandrasekaran's reappointment, seek Rs 65 crore damages",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/tata-trusts-moves-bombay-hc-against-tata-sons-ahead-of-board-meeting-hearing-on-friday/articleshow/136181028.cms",
+       "publishedAt": "2026-11-26T11:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Centre Asks Netflix To Block Pakistani Content Amid 'Jo Bachay...' Series Row",
+     "link": "https://www.ndtv.com/india-news/centre-asks-netflix-to-block-pakistani-content-in-india-honour-2025-commitment-amid-jo-bachay-hain-sang-samait-lo-row-sources-12379420#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "Rediff.com",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-26T13:27+05:30",
+     "score": 8.14,
+     "summary": "Netflix, in June last year, had informed the Centre that it had made no film or series originating in Pakistan available to subscribers in India.",
+     "image": "https://c.ndtvimg.com/2026-11/qjd8boso_jo-bache_625x300_25_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Centre Asks Netflix To Block Pakistani Content Amid 'Jo Bachay...' Series Row",
+       "link": "https://www.ndtv.com/india-news/centre-asks-netflix-to-block-pakistani-content-in-india-honour-2025-commitment-amid-jo-bachay-hain-sang-samait-lo-row-sources-12379420#publisher=newsstand",
+       "publishedAt": "2026-11-26T13:27+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Jo Bachay… government warns Netflix on Pakistani series",
+       "link": "https://www.thehindu.com/news/national/jo-bachay...-government-warns-netflix-on-pakistani-series/article71745740.ece",
+       "publishedAt": "2026-11-26T13:21+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Centre reminds Netflix not to stream Pakistani content amid complaints over ‘Jo Bachay Hain Sang Samait Lo’ show",
+       "link": "https://www.hindustantimes.com/india-news/centre-reminds-netflix-not-to-stream-pakistani-content-in-india-amid-complaints-over-fawad-khan-mahira-khan-jo-bachay-hain-sang-samait-lo-101795675015699.html",
+       "publishedAt": "2026-11-26T12:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Tamil Nadu introduces 15 days of paternity leave for married government employees",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-introduces-15-days-of-paternity-leave-for-married-government-employees/article71745892.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Herald",
+      "Hindustan Times",
+      "Rediff.com",
+      "The Economic Times",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-26T15:32+05:30",
+     "score": 8.06,
+     "summary": "The paternity leave can be availed by male employees either 15 days before the birth of the child or within six months from the date of birth.",
+     "image": "https://th-i.thgim.com/public/incoming/wybgqk/article71745947.ece/alternates/LANDSCAPE_1200/iStock-157281455.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Tamil Nadu introduces 15 days of paternity leave for married government employees",
+       "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-introduces-15-days-of-paternity-leave-for-married-government-employees/article71745892.ece",
+       "publishedAt": "2026-11-26T14:57+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "TN govt announces 15-day paternity leave for men",
+       "link": "https://economictimes.indiatimes.com/news/india/tamil-nadu-government-announces-15-days-paternity-leave-for-male-employees-under-cm-vijay/articleshow/136185372.cms",
+       "publishedAt": "2026-11-26T14:38+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "In a first, Tamil Nadu govt approves 15-day paternity leave for govt staff",
+       "link": "https://www.hindustantimes.com/india-news/vijay-govt-approves-15-day-paternity-leave-for-male-govt-employees-in-tamil-nadu-101795684045036.html",
+       "publishedAt": "2026-11-26T14:38+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "India News Live Updates, 26 November 2026: Tamil Nadu announces 15 days of paternity leave for male staff",
+       "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOYkJ1MzJ1bE1UMldvZHJBVTlEbkNtd1BPZVFpeF9ReHNHZjNrUDBoWXFLelp4Y1dQc2ZZYXFkQWcyNlhpd1kzaWpWcU0yRTJYcUl6aXJ5UDhYNkdaRGtackh6NHZrblZ5S1BOLUota0tNNk5KbzZxU0cyd3lOcmM3ODJHdXNwZmV2NkdObURDVGJydEJ1RExOWHdKLWJLV3ZGYm5UYnpvVnZ6SThtNE9uUVhIZjJRZ3BHLTRqS3B2NjVkYjlkY25DUkY3ZHZMSV8xNEliY1kwVVIwZ1EtVUQtMm0yeTR5TmpnRkN6SVFRSlh4Yl96YzNwVjJSYk9hd2w2Q3VDdURVNzdORVVDVkFEZnFmZHZNMWhLcVB3WUNyVTJmS0JicGhQWl9SSHpzT056ZS1MTFAwRC1admQ1d0YwVGxpRjlOREhLd2Vn0gHSAkFVX3lxTE1qMXNVYmdPM19hS0FKcDVueldIcXgxNEhqaktLNDRoYjVER25WREVOU1k3cDV3eTBMOERqY1c4ZlE3VTN0OXZ0RGhObk1PMFRSdlpHSVNjTGwzVEI0cFV3YU5jX1hXSWtMLTlsOFp4ZktRRllyenp1WVpvR3A2dG04d1V4SjBqdjlLSVV2ZWNVdG1jS0NSWGdPbTBBMjd6NFFSMjcxdUJ2Y0ZzUDF4RlRadmo1Vk5jZG5vaDJUYWstak5ERHhVX0RqMDRNVVdaTXJHQ3MwUTRzZVdMajJieHVnLTUzRFpMeUxLQVAzakdwQUl1NWx2SXVVLVJqZWFLbGJwZ3B3VjJ3NzVLWnpCcGsyS0dFb18wS3FTZEJDVmYtek9yN3hSSHNMUU40cXE5Z3FVd29UUHh6QkQ2Ykd1S3R1MjJEblF3MWxzcG8yaWZsZmJn?oc=5",
+       "publishedAt": "2026-11-26T15:32+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-26T14:00+05:30",
    "generatedAt": "2026-11-26T14:32+05:30",
@@ -29375,194 +29583,6 @@
        "title": "Leader of anti-India propaganda: BJP targets Rahul over his remarks at Columbia University",
        "link": "https://www.thehindu.com/news/national/leader-of-anti-india-propaganda-bjp-targets-rahul-over-his-remarks-at-columbia-university/article71714705.ece",
        "publishedAt": "2026-11-18T11:53+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-18T12:00+05:30",
-   "generatedAt": "2026-11-18T12:42+05:30",
-   "feeds": 16,
-   "headlines": 311,
-   "stories": [
-    {
-     "title": "Trapped in mosque, video call with cops: Inside last Kulgam terrorist commander Lateef Bhat's final moments before encounter",
-     "link": "https://www.hindustantimes.com/india-news/mosque-shelter-video-call-with-cops-inside-last-kulgam-terrorist-local-commander-lateef-bhat-final-moments-before-encounter-101794978859436.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Rediff",
-      "Rising Kashmir",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-18T11:35+05:30",
-     "score": 9.31,
-     "summary": "Security forces killed Lateef Bhat, described by police as South Kashmir’s last active local terrorist commander, in a Kulgam encounter on Wednesday.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/LATEEF_BHAT_ENCOUNTER_1794981627937_CrjU_1794981644643_h5I1_4c548d66-927a-4c0c-85e6-2b71a75620b8_P000.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Trapped in mosque, video call with cops: Inside last Kulgam terrorist commander Lateef Bhat's final moments before encounter",
-       "link": "https://www.hindustantimes.com/india-news/mosque-shelter-video-call-with-cops-inside-last-kulgam-terrorist-local-commander-lateef-bhat-final-moments-before-encounter-101794978859436.html",
-       "publishedAt": "2026-11-18T11:35+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "LeT’s Lateef Bhat killed in Kulgam encounter",
-       "link": "https://www.thehindu.com/news/national/fresh-encounter-in-kulgam-lateef-bhat-november-18-2026/article71714380.ece",
-       "publishedAt": "2026-11-18T11:18+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Lashkar Terrorist Lateef Bhat Killed In J&K Encounter. He Was Hiding Inside Mosque",
-       "link": "https://www.ndtv.com/india-news/lashkar-terrorist-lateef-bhat-killed-in-j-k-encounter-he-was-hiding-inside-mosque-12342224#publisher=newsstand",
-       "publishedAt": "2026-11-18T10:39+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "LeT commander Lateef Bhat killed in Kulgam",
-       "link": "https://economictimes.indiatimes.com/news/defence/kulgam-encounter-let-commander-lateef-bhat-refuses-to-surrender-gunfight-underway/articleshow/135946856.cms",
-       "publishedAt": "2026-11-18T08:46+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Big potential benefit': Putin backs trilateral talks with Trump, Xi on APEC sidelines",
-     "link": "https://timesofindia.indiatimes.com/world/china/big-potential-benefit-putin-backs-trilateral-talks-with-trump-xi-on-apec-sidelines/articleshow/135951139.cms",
-     "source": "Times of India",
-     "sources": [
-      "DW.com",
-      "Financial Times",
-      "Reuters",
-      "The Guardian",
-      "The Hindu",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T11:25+05:30",
-     "score": 8.28,
-     "summary": "Russian President Vladimir Putin expects substantial benefits from the upcoming trilateral meeting with US President Donald Trump and Chinese President Xi Jinping. The discussions are set to occur during the Apec summit in Shenzhen, China. Putin aims to strengthen Russia's diplomatic position while addressing the war in Ukraine. However, there are differing agendas that could complicate the talks, particularly…",
-     "image": "https://static.toiimg.com/photo/msid-135951174,imgsize-1356264.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Big potential benefit': Putin backs trilateral talks with Trump, Xi on APEC sidelines",
-       "link": "https://timesofindia.indiatimes.com/world/china/big-potential-benefit-putin-backs-trilateral-talks-with-trump-xi-on-apec-sidelines/articleshow/135951139.cms",
-       "publishedAt": "2026-11-18T11:25+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1FfUS1OenA3M3Y5X29pUkxZUU1MbXdnaDlwNmtGd2RJaktuV2J6LTdVUTBwLW5OR0VEMUNKUlNRQjBDdkxMM2duWTlrQmNVdjFJalhHQUM4UVlUWGNnc2Y4dUJPa1FzSFN4QkxJREZqLVExdWFCOUNzWnllMVRTb3gzdE5XSUZBMlpjTzNiTzVvYUhyaUlENWlBdmlZUFNFWEI0dkM3Ql9ZWmVUR1FuRUtqYjFjdEREVVhqX2czWHdlNVk?oc=5",
-       "publishedAt": "2026-11-18T09:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Supreme Court issues notice on contempt plea against lawyer over remarks on CJI",
-     "link": "https://www.hindustantimes.com/india-news/supreme-court-cji-surya-kant-notice-contempt-petition-101794981935302.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "Live Law",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-18T11:39+05:30",
-     "score": 8.07,
-     "summary": "The top court on Wednesday considered the AG’s letter along with the other material to entertain the petition.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/supreme_court_1794981985833_QjiX_1794981985961_QtkF_79b00d65-5f3c-40c0-b029-3cb155cbc878_vzr1.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Supreme Court issues notice on contempt plea against lawyer over remarks on CJI",
-       "link": "https://www.hindustantimes.com/india-news/supreme-court-cji-surya-kant-notice-contempt-petition-101794981935302.html",
-       "publishedAt": "2026-11-18T11:39+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "SC issues contempt notice to lawyer over remarks against CJI Surya Kant",
-       "link": "https://timesofindia.indiatimes.com/india/supreme-court-issues-contempt-notice-to-lawyer-over-remarks-against-cji-surya-kant/articleshow/135951002.cms",
-       "publishedAt": "2026-11-18T11:27+05:30"
-      },
-      {
-       "source": "Live Law",
-       "title": "BREAKING| Supreme Court Issues Contempt Notice To Advocate Who Insulted CJI Surya Kant",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGJzcnRCeHR4S2paWGk1UTV5OTUxdmdrSTNMcmZPS3pHdlJsVkw4aXhNaTh3UkREVzh0X0FONDlRbmEzQ24yOF9MYUttTk5SWExpTTVpSWUxSVI0WWZaUG9kQWxnQTBCWGZtUGMtNjJwclZVa3NiWE1Eelk2cE9IcUxraUJaWWJ0RkNMUFFvTzRuOVItTzRScGtvTFNBSkxJSUZDMnhOY09lREUwYWVLaU1xQkhnRmxaTGc?oc=5",
-       "publishedAt": "2026-11-18T10:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Akvan strengthens into severe cyclonic storm, but further intensification not likely",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/akvan-strengthens-into-severe-cyclonic-storm-but-further-intensification-not-likely/article71714428.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Telegraph India",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T12:36+05:30",
-     "score": 7.73,
-     "summary": "The system may cross the A.P. coast between Nellore and Visakhapatnam as a Severe Cyclonic Storm on November 20, and not as a Very Severe Cyclonic Storm as earlier predicted",
-     "image": "https://th-i.thgim.com/public/incoming/h6r5u6/article71714439.ece/alternates/LANDSCAPE_1200/PTI11_18_2026_000011B.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Akvan strengthens into severe cyclonic storm, but further intensification not likely",
-       "link": "https://www.thehindu.com/news/national/andhra-pradesh/akvan-strengthens-into-severe-cyclonic-storm-but-further-intensification-not-likely/article71714428.ece",
-       "publishedAt": "2026-11-18T11:25+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Cyclone Akvan live tracker: Check latest updates",
-       "link": "https://economictimes.indiatimes.com/news/new-updates/cyclone-akvan-live-tracker-check-latest-position-movement-intensity-and-landfall-forecast/articleshow/135945357.cms",
-       "publishedAt": "2026-11-18T07:49+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Cyclone Akvan LIVE: Severe Cyclonic Storm Akvan likely to make landfall between Nellore and Visakhapatnam on November 20",
-       "link": "https://www.hindustantimes.com/india-news/cyclone-akvan-live-updates-bay-of-bengal-odisha-andhra-tamil-nadu-imd-severe-cyclonic-storm-landfall-cyclone-tracker-101794964478811.html",
-       "publishedAt": "2026-11-18T07:28+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Modi Tries to End Photo-Op With Trump in Awkward Quad Briefing",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXpEU0doZ3owNEhTcVh6aDJHNlBjX0h6NXo3Q3Qtbm5XTUxFNEd3WThTUVREU2lzZHIzRWhXMWxFakRXNTZ5ZFdJSm03TEZKRUxJNFg4LXFmTmJIaXVwSWVfdFUxcmpBWUpMYjh4SHdMa3ZwSWJ4eUR3U28tem1LWWpPblI2aWo2TWFkQkx3YjFENHV6SzZwQnNvek1iT1lLSmxud2pJMHdFSXpZVERfYThSZw?oc=5",
-     "source": "Bloomberg",
-     "sources": [
-      "Bloomberg",
-      "Deccan Herald",
-      "News On AIR",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-18T11:52+05:30",
-     "score": 7.61,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Bloomberg",
-       "title": "Modi Tries to End Photo-Op With Trump in Awkward Quad Briefing",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXpEU0doZ3owNEhTcVh6aDJHNlBjX0h6NXo3Q3Qtbm5XTUxFNEd3WThTUVREU2lzZHIzRWhXMWxFakRXNTZ5ZFdJSm03TEZKRUxJNFg4LXFmTmJIaXVwSWVfdFUxcmpBWUpMYjh4SHdMa3ZwSWJ4eUR3U28tem1LWWpPblI2aWo2TWFkQkx3YjFENHV6SzZwQnNvek1iT1lLSmxud2pJMHdFSXpZVERfYThSZw?oc=5",
-       "publishedAt": "2026-11-18T11:52+05:30"
       }
      ]
     }
