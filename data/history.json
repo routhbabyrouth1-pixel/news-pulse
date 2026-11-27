@@ -1,6 +1,196 @@
 {
- "updated": "2026-11-27T16:27+05:30",
+ "updated": "2026-11-27T17:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T17:00+05:30",
+   "generatedAt": "2026-11-27T17:26+05:30",
+   "feeds": 16,
+   "headlines": 338,
+   "stories": [
+    {
+     "title": "The best Black Friday AirPods deals are live: Save $100 on the AirPods Pro 3, $40 on the AirPods 4",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UTnNrN2FsRjJtZDQtazdseThYR2VIaFZTV1BJUXRvYnZFb0hmUGVwV1JNcEJLeFlDX2ZtVi1FMktXWGpremJEQ2NKY044NU9wa21ZZHhsaWg3ZW9qZ3JRdEEtX0VUekxIdlpuSFRxcw?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "Gizmodo",
+      "How-To Geek",
+      "HuffPost",
+      "MIXED News",
+      "Mashable",
+      "NBC News",
+      "PC Guide",
+      "Stuff",
+      "TechRadar",
+      "WIRED"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-27T16:08+05:30",
+     "score": 10.91,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "The best Black Friday AirPods deals are live: Save $100 on the AirPods Pro 3, $40 on the AirPods 4",
+       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UTnNrN2FsRjJtZDQtazdseThYR2VIaFZTV1BJUXRvYnZFb0hmUGVwV1JNcEJLeFlDX2ZtVi1FMktXWGpremJEQ2NKY044NU9wa21ZZHhsaWg3ZW9qZ3JRdEEtX0VUekxIdlpuSFRxcw?oc=5",
+       "publishedAt": "2026-11-27T16:08+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Union Cabinet clears delimitation bill",
+     "link": "https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The News Minute",
+      "The Times of India",
+      "Vartha Bharati",
+      "Whispers in the Corridors"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-27T17:21+05:30",
+     "score": 10.74,
+     "summary": "A similar attempt by the government was rejected in the Lok Sabha during the Monsoon session in April",
+     "image": "https://th-i.thgim.com/public/incoming/37nli3/article71241555.ece/alternates/LANDSCAPE_1200/PTI04_02_2026_000033B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Union Cabinet clears delimitation bill",
+       "link": "https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece",
+       "publishedAt": "2026-11-27T17:21+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Delimitation bill LIVE: Cabinet clears bill, YSRCP to support; Akhilesh says exercise will be BJP's ‘biggest mistake’ | Hindustan Times",
+       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOclBiNTVNLWp2d3FqNFdLZkg3eGJHLXNZcDc1bDdTejNMSlNMeVhoNzdUV19fN0JvcEp4bmp0ZldfTzBnenBZbGVoNXR3MWo2R3dFczFrOVZucFlUd3lRc2ROREtKdjd3ekpnZ1g5WVBnRXJSLWVyMDY3YjVxYlVqczZkYXpzd0VzNzZKUER2aWc1RWxnSloxMG9Xc2l0TF9jNk9jSXRWN1FBcm5uWVRiZXBGSk5NcUY4MGRWTjQyNGE5NEpJR0p6bFZuVXZvRW1xZ0x1Y0hNWlNiVEdkUkdSNERaNm0zZExFR3lLN0g3VEluMzk5eGJYVlNJdjM2UnJxTjR3NNIBigJBVV95cUxQQW5SZVhabDlDell6Wmw2bVJHdDFOMl9ENEpaaktWVXpEcXVEMEN0WndweVNKX0duMzlkanZQWVNNZlNRLWhJLXVTR2xvSjYtamtrejkxR19pSDF5VU1seUtxcC1hWFlUVDdUUlBOcFZxeWpYb2p6WnZ6V3Z0cXFyTWRBZjBReFdYNkRLY1p1czdJci05UHZZdWg1WUVubmJualJPVkEwYmZzNDc2NWVqWlRuVDVUZEhTSGE2WHZOWXNXRkdhanZuWGJCSWNfTmsxZkxNMVpwbUxVV05DbGZIbmJ3ZU9NY3owRGlTc2dZa2FvY2h5UzFRREtYWllra19meDAtbzJnbHdRQQ?oc=5",
+       "publishedAt": "2026-11-27T15:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "DMK sets conditions to support Delimitation Bill",
+     "link": "https://www.thehindu.com/news/national/dmk-sets-conditions-to-support-delimitation-bill/article71749941.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "NDTV",
+      "Scroll.in",
+      "The Economic Times",
+      "The Hindu",
+      "The Indian Express",
+      "The News Minute",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-27T17:12+05:30",
+     "score": 9.46,
+     "summary": "Tamil Nadu’s share in Lok Sabha should not be reduced and the existing proportional strength of all States as determined on the basis of the 1971 Census must remain frozen for another 25 years, are Mr. Stalin’s two demands for supporting the Delimitation bill",
+     "image": "https://th-i.thgim.com/public/incoming/7kv8vb/article71749964.ece/alternates/LANDSCAPE_1200/PTI04_18_2026_000834B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "DMK sets conditions to support Delimitation Bill",
+       "link": "https://www.thehindu.com/news/national/dmk-sets-conditions-to-support-delimitation-bill/article71749941.ece",
+       "publishedAt": "2026-11-27T17:12+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Congress’s Karti Chidambaram asks DMK to explain ‘U-turn’ if it decides to support delimitation bill",
+       "link": "https://www.hindustantimes.com/india-news/congresss-karti-chidambaram-asks-dmk-to-explain-u-turn-if-it-decides-to-support-delimitation-bill-101795771492369.html",
+       "publishedAt": "2026-11-27T14:54+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "DMK's Stalin sets 2 conditions for Delimitation Bill",
+       "link": "https://economictimes.indiatimes.com/news/india/delimitation-bill-dmks-mk-stalin-says-no-compromise-on-tamil-nadus-lok-sabha-seat-share-sets-two-conditions/articleshow/136214612.cms",
+       "publishedAt": "2026-11-27T13:46+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "DMK 'ready' to back BJP's Delimitation Bill if TN's representation remains unchanged",
+       "link": "https://timesofindia.indiatimes.com/city/chennai/dmk-ready-to-support-bjps-delimitation-bill-if-tamil-nadus-representation-remains-unchanged/articleshow/136212236.cms",
+       "publishedAt": "2026-11-27T12:09+05:30"
+      }
+     ]
+    },
+    {
+     "title": "SC orders lighting of lamp atop disputed ‘Deepathoon’ tomorrow, issues contempt notice to top Tamil Nadu officials",
+     "link": "https://www.hindustantimes.com/india-news/sc-observes-brazen-violation-of-tamil-nadu-deepathoon-order-says-time-to-deal-with-iron-hand-101795767767260.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Frontline Magazine",
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "Rediff.com",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T15:18+05:30",
+     "score": 8.14,
+     "summary": "The Supreme Court was hearing petitions over the failure to light the ceremonial lamp at the disputed stone pillar atop the Thirupparankundram hill on Nov 24.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/Karthigai_Deepam_1795774359656_iWuW_1795774359851_iUWc_68f5a566-cf6a-4299-b3c4-676d7eb3ab1e_JRGj.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "SC orders lighting of lamp atop disputed ‘Deepathoon’ tomorrow, issues contempt notice to top Tamil Nadu officials",
+       "link": "https://www.hindustantimes.com/india-news/sc-observes-brazen-violation-of-tamil-nadu-deepathoon-order-says-time-to-deal-with-iron-hand-101795767767260.html",
+       "publishedAt": "2026-11-27T15:00+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Thiruparankundram Row | Supreme Court Orders Lamp Lighting At Deepathoon Tomorrow; Issues Contempt Notice ...",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWU8xV2FaYlp2MHBXRzFGYUdwU1VYQkRMX0lWUENjb2lxVTI1U2JETGg5Y2FVQWN1ZzRMSEhFemRPbHcyWWZSVE5TZ1JUSjA4MHEzX1hJdWxKTG9oaHpJdGpDVHcyblVjbHZaa0tWdGlWaTNJQ1kxcXJBSW0wVUpQaDlzRGJycGQxUzJBSk1rMmgwT3F0VEZxaGMyQWtpVTFWd0ZwRmF5bFNfR3N6ZzI5ajZmZjRQRzBtUDFJZ3pKeDU2MlR5dXpuci1QWmpRSEVFZXlweWlTbkFIWnlmaEczamgzZHoycDFESEllLU04c0RpN1dN0gH6AUFVX3lxTE1tVU9rUzktTE5WdjVPdTI0QWhPZ1M2VDJ0OHFlMEI4YzVpV0RZR21TSlVDT2pSUnFiMVhkbk5WUW03eV9nel9EODNCSzN4cE1oT1NPQncwMUViWm4tbUN0UEs3a25VcnBmenNXdVZ6bG12b0YtakpfREIxX01iZm5Ea3hwbU5RRlR5RTE5S2dwZGdjT0ZVWm40eXRFX1R4S28tUWpaVVRRbXowN1htWk96TkxwMzVSWHloMWlTdU5MSXRfN2RnN0gwVVluR1RKYVowanlpODZUTHVHaDBCSEZtU3F3dDJaSlp1X01zN2htWmFHd25rWWg4T3c?oc=5",
+       "publishedAt": "2026-11-27T15:18+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Calcutta HC sets aside TMC rebel Ritabrata Banerjee’s appointment as Bengal LoP",
+     "link": "https://www.hindustantimes.com/india-news/calcutta-hc-sets-aside-tmc-rebel-ritabrata-banerjee-s-appointment-as-bengal-leader-of-opposition-101795774203886.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "India Today",
+      "Live Law",
+      "NDTV",
+      "Rediff.com",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T15:40+05:30",
+     "score": 8.08,
+     "summary": "The HC order came following a petition by TMC's Mamata Banerjee faction leader Sobhandeb Chattopadhyay.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/ANI-20260917409-0_1795774276200_9n7v_1795774288732_VNoq_0455f8b8-0645-406b-a76f-4c3697084b09_x9qH.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Calcutta HC sets aside TMC rebel Ritabrata Banerjee’s appointment as Bengal LoP",
+       "link": "https://www.hindustantimes.com/india-news/calcutta-hc-sets-aside-tmc-rebel-ritabrata-banerjee-s-appointment-as-bengal-leader-of-opposition-101795774203886.html",
+       "publishedAt": "2026-11-27T15:40+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Big win for Mamata: HC sets aside Ritabrata Banerjee's appointment as Bengal LoP",
+       "link": "https://timesofindia.indiatimes.com/india/big-win-for-mamata-hc-sets-aside-ritabrata-banerjees-appointment-as-bengal-lop/articleshow/136217317.cms",
+       "publishedAt": "2026-11-27T15:22+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Calcutta High Court Quashes Ritabrata Banerjee's Appointment As Leader Of Opposition In West Bengal...",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT3ZxUTc4dFkzS1hCU3QyTUZtSFZkR0xsdFV5UXdJcWdSNUZiVi1jOXMxTktudmQtaWhCZDlMNVRXUUs3SFlscEJSVjRCODVjM3ZKTDZ2eTd5djZaNnlKXzdSMEt3cHRGN0NYYmhiU3JmZHNJaTNfRURYaUpsMjJGYVRsNlUzNGpMbHpjWk84bmR0anAyUFRCTlpydHc0OXNSWjhGbXp2VXYxWTJtbUx4OGdST2RZcDFMRDUzQ1pMdm11TWt6bUxlUURMUXB3TXVUT2FIczJ0anVRbjNCN3VEeUZHa9IB6AFBVV95cUxNMkN6cU1yMU10ZWtCblJTYnphb0p2NlpmdWF4WnZUanNueng5VFpLdzVVdV9zdXhZZkVmVFpGM3ozaVJIOXlwRTBTWFhyeHUxdjllRGk1RDdoRWN4cHVqRmpNd08zaHVvdkNIdGxISnlJOVFRWmFMTXFzOXpPbnF0T3BQTEpMZWJIdkJGTjZKNy1wbUh5d0tWOE9jbE1JX1dBU3kzQmJHWUZnZ2x5V20wc19hdGFJX0lpMFZpdGN3WWVTUWU2dGxrZlpGRVVDaXpPWUV6MkkweVU2QjZOaFk4TnY1V1lncUlH?oc=5",
+       "publishedAt": "2026-11-27T15:24+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T16:00+05:30",
    "generatedAt": "2026-11-27T16:27+05:30",
@@ -29275,203 +29465,6 @@
        "title": "Indian Man's Body Found Inside Burning Car In Canada, Targeted Killing Suspected",
        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQmN5cThVY2hVTjBXcUNsLVJ3UDVOVjlkbVJMbE1qb1NXX3BKejRsaGxHc3ZBaUZZbWNqRmhRNzJpSkJUdkRDbzZMOU93bDhzMUtEQ1lVS0RqNEFCUU1wcXBFVUtzUURTVmRxRGJKaGVaVC1YeURZUXFhR0FONFVDbENqWUpXekhyb292YURvemN3T1oxRkh2Q0pFaVkwZDdHaFVWZzk1MGRfLUx4QkJ3MVBTQkUxc2pO?oc=5",
        "publishedAt": "2026-11-19T09:35+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T14:00+05:30",
-   "generatedAt": "2026-11-19T14:30+05:30",
-   "feeds": 15,
-   "headlines": 303,
-   "stories": [
-    {
-     "title": "'3 Nuclear Powers At One Table': Historic Xi-Trump-Putin Meeting In China",
-     "link": "https://www.ndtv.com/world-news/historic-xi-jinping-donald-trump-vladimir-putin-meeting-begins-in-china-12348331#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "DW.com",
-      "Mint",
-      "NDTV",
-      "The Hindu",
-      "The News Minute"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T14:21+05:30",
-     "score": 8.48,
-     "summary": "The three leaders have divergent geopolitical goals and visions for the world order.",
-     "image": "https://c.ndtvimg.com/2026-11/kkpqhgnk_putin-xi-trump_625x300_19_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "'3 Nuclear Powers At One Table': Historic Xi-Trump-Putin Meeting In China",
-       "link": "https://www.ndtv.com/world-news/historic-xi-jinping-donald-trump-vladimir-putin-meeting-begins-in-china-12348331#publisher=newsstand",
-       "publishedAt": "2026-11-19T14:13+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
-       "link": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
-       "publishedAt": "2026-11-19T11:37+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "Trump, Putin and Xi to hold historic trilateral meeting in China: What's on the agenda and why it matters",
-       "link": "https://www.livemint.com/news/world/trump-putin-and-xi-to-hold-historic-trilateral-meeting-in-china-whats-on-the-agenda-and-why-it-matters-11795065774997.html",
-       "publishedAt": "2026-11-19T11:04+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Xi-Trump-Putin trilateral meeting LIVE: Xi says China-U.S. relations 'stable and improved'",
-       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTER4cFc2cEpRbmd1aWp0X1pkR3oxTEFUdHNKRnRSTDU2QXdTd21yOElQbWp1dzBqTVRLUUE5NS1DSXQydmEzOHlLdGtjczNYTTQyY2J0MjNQY0xPcG1LNzF2N0xSa01jV3BpX21FRzFZaXd4c2VnaUQxaGhMNHplUUlFYkRqTmcyTlR1dHhlb1Qwem54QmNZVFlxeGdhSmU1Z1k1TUE2dkZsTlFTYnVGUFN0NDZhZVhlSWt4LUZlQnFsQ2M2RTJlYnlaVnFsTWVIMU9nM0JMNjV3YjRTMW1zb203aEswWFoyTEJwTkNFWUE0ODYyVmfSAfwBQVVfeXFMUFZ6UGs2aVNoOFdsZldlR2hUcFFUbm84d2RLYzFtejZjTHVQQlBvX2RYVkwyNkhSTzFUZE5BU09ramhCZUVvZTFtVkIzenQ1MHBaWVFHc1hrd3pWYnZ0dlhLRXdEbWJXNUFIRHZfa2RCX3ZnLUlZc1NTTzlSamV3OTNZLVRnRXladEE2RTVYaW5PRVh0OXhlc3VNVjBvRzhXX1BIUnp4bkQ3WWdCNWpzZDhzNWptUFBmeXNubGJBRkVHNTkxb3pKSVhKczZyakFkcTMtRGZyWjRGQlBGR19RbFYycTVraU00TXJ2aVY0MWY0cnZyQVJpMFNENWsx?oc=5",
-       "publishedAt": "2026-11-19T14:21+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Muhammad Yunus' House, Grameen Bank Branches Set Ablaze In Bangladesh: Reports",
-     "link": "https://www.ndtv.com/world-news/muhammad-yunus-house-grameen-bank-branches-set-ablaze-in-bangladesh-say-reports-12347315#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "ThePrint",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T12:25+05:30",
-     "score": 7.4,
-     "summary": "The Awami League's protest marks the first anniversary of a special tribunal verdict that tried Sheikh Hasina in absentia",
-     "image": "https://c.ndtvimg.com/2026-11/tnacni1_dhaka_625x300_19_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Muhammad Yunus' House, Grameen Bank Branches Set Ablaze In Bangladesh: Reports",
-       "link": "https://www.ndtv.com/world-news/muhammad-yunus-house-grameen-bank-branches-set-ablaze-in-bangladesh-say-reports-12347315#publisher=newsstand",
-       "publishedAt": "2026-11-19T12:25+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Bangladesh violence: Muhammad Yunus’s ancestral home set ablaze amid unrest",
-       "link": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-violence-muhammad-yunuss-ancestral-home-set-ablaze-in-chattogram-amid-unrest/articleshow/135978861.cms",
-       "publishedAt": "2026-11-19T11:59+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Supreme Court refuses to intervene in interim bail granted to SP leader Azam Khan",
-     "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-intervene-in-interim-bail-granted-to-sp-leader-azam-khan/article71718981.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "Live Law",
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T12:51+05:30",
-     "score": 7.1,
-     "summary": "The money laundering case relates to alleged financial irregularities concerning the Mohammad Ali Jauhar University; the Bench said any observations made by Allahabad High Court in its order granting interim bail would not influence the final decision in the case",
-     "image": "https://th-i.thgim.com/public/incoming/awsjh6/article71718972.ece/alternates/LANDSCAPE_1200/Supreme-Court-dG6MGQMIVG.3.jpg.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Supreme Court refuses to intervene in interim bail granted to SP leader Azam Khan",
-       "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-intervene-in-interim-bail-granted-to-sp-leader-azam-khan/article71718981.ece",
-       "publishedAt": "2026-11-19T12:51+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "SC favours Azam Khan's interim bail against ED plea",
-       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/sc-dismisses-ed-plea-challenging-azam-khans-interim-bail-in-money-laundering-case/articleshow/135979254.cms",
-       "publishedAt": "2026-11-19T11:26+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "SC refuses to send SP leader Azam Khan back to jail, declines to interfere with interim bail",
-       "link": "https://www.hindustantimes.com/india-news/sc-refuses-to-send-sp-leader-azam-khan-back-to-jail-declines-to-interfere-with-interim-bail-101795067285100.html",
-       "publishedAt": "2026-11-19T11:18+05:30"
-      },
-      {
-       "source": "Live Law",
-       "title": "BREAKING| Supreme Court Dismisses ED's Challenge To Azam Khan's Interim Bail",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFVIa18xS01QMUlOYTEyRGl2d3Y0aTFBS093TVhHU0VLbjRZX1VNUUxxZmtkWUtVNUI4R3VEWm1EUy1CUE1FWFBYbk5wQzk4QWdvRVhMMGx0MG9LdVFzOUpFY3FRV3JjSEZveGVsTURqSlpMclozeHV2Nks5dG1WODJ3Tjc5MXU5d0xtYmtxZWRFVHdxaDFhbjBZb3pGODFreDI2M0EyemZoQQ?oc=5",
-       "publishedAt": "2026-11-19T10:57+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Indian democracy 'sacred', boycotting polls will end it: Rahul Gandhi at University of Chicago",
-     "link": "https://www.thehindu.com/news/national/indian-democracy-sacred-boycotting-polls-will-end-it-rahul-gandhi-at-university-of-chicago/article71719252.ece",
-     "source": "The Hindu",
-     "sources": [
-      "India Today",
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "The New Indian Express",
-      "TheWire.in"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T13:43+05:30",
-     "score": 7.06,
-     "summary": "“So, our strategy is to expose what is going on and take the beating until the people of India realise that the system has been fully demolished,” the Congress leader said",
-     "image": "https://th-i.thgim.com/public/incoming/eh76mt/article71719265.ece/alternates/LANDSCAPE_1200/TH18-Phukan-IndGIAGQL48N.3.jpg.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Indian democracy 'sacred', boycotting polls will end it: Rahul Gandhi at University of Chicago",
-       "link": "https://www.thehindu.com/news/national/indian-democracy-sacred-boycotting-polls-will-end-it-rahul-gandhi-at-university-of-chicago/article71719252.ece",
-       "publishedAt": "2026-11-19T13:28+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "BJP criticises RaGa for 'sick democracy' remarks",
-       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-criticises-rahul-gandhi-for-sick-democracy-remarks-claiming-anti-india-propoganda/articleshow/135977996.cms",
-       "publishedAt": "2026-11-19T10:32+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Rahul Gandhi Said Indian Democracy Is \"Sacred\", But BJP Heard \"Sick\"",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTU3dktKbGJHcnhfNTN2SnV5MWdfMDBVelBQUk5kaUVZVzJFbEsweURfZmZubklrOThJWFMxcF9LYjB6S1NSQzJIMXF2U2pJckdmR3B2SjhSQzQ4WFBEM3cyaWtQSWd0Wm5LVnVGSFFndzNoQ0pabElFdTRwck5FWjl3aHRxZmRQWS0xWEEwdnY5c3F0UWhPQ3c3OVNCX09KZFIyWjFRYw?oc=5",
-       "publishedAt": "2026-11-19T13:43+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert for three A.P. districts",
-     "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Drishti IAS",
-      "ET Government",
-      "The Economic Times",
-      "The Hindu",
-      "The News Minute"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T14:20+05:30",
-     "score": 6.72,
-     "summary": "The IMD says the corridor for landfall, likely on Nov. 20 noon, stretches from Andhra's Narsapur in Andhra Pradesh to Odisha's Puri",
-     "image": "https://th-i.thgim.com/public/incoming/gibfui/article71719313.ece/alternates/LANDSCAPE_1200/IMG_0260.JPG",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert for three A.P. districts",
-       "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-       "publishedAt": "2026-11-19T13:58+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Cyclone Akvan: Heavy rain likely in AP, Odisha & WB",
-       "link": "https://economictimes.indiatimes.com/news/new-updates/cyclone-akvan-weather-today-heavy-rain-thunderstorm-likely-in-andhra-pradesh-odisha-west-bengal-check-latest-imd-rain-forecast/articleshow/135976174.cms",
-       "publishedAt": "2026-11-19T08:48+05:30"
       }
      ]
     }
