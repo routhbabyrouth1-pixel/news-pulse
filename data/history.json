@@ -1,6 +1,153 @@
 {
- "updated": "2026-11-28T03:24+05:30",
+ "updated": "2026-11-28T04:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T04:00+05:30",
+   "generatedAt": "2026-11-28T04:26+05:30",
+   "feeds": 17,
+   "headlines": 192,
+   "stories": [
+    {
+     "title": "Bhogi Box Office Collection Day 1",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaXJxcXNRN1N2MzZkSEo1SlpWdTJBSTVvQ3NVNkpidmV3VnlpVGpUVWhQRXdWUXhwRnF0VERxM011dXlHWmdUeVVYejRwdmM5N3poWGlBbElhQlJ3c3NlQkRDVmZTUXRpdkh4aGZBWVNWMUFZYW9mcV9NT3Q?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "India Today",
+      "Rediff.com",
+      "Sacnilk",
+      "The Hans India",
+      "The Hindu",
+      "The Indian Express",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-28T02:07+05:30",
+     "score": 9.76,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Bhogi Box Office Collection Day 1",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaXJxcXNRN1N2MzZkSEo1SlpWdTJBSTVvQ3NVNkpidmV3VnlpVGpUVWhQRXdWUXhwRnF0VERxM011dXlHWmdUeVVYejRwdmM5N3poWGlBbElhQlJ3c3NlQkRDVmZTUXRpdkh4aGZBWVNWMUFZYW9mcV9NT3Q?oc=5",
+       "publishedAt": "2026-11-28T02:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 28, #1,000",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2VtS3dmVmRyTTJuUjdBS0h1RVRZcE1kdzFjWlFyZ0hCTDRsWlZnbmNrc1lqRi1GbFFocVJIb084cHRvVGVxR2pRb2tMd1ZPUFZRbFpFTUFkN1hMTW5tTEpLYWdhN1hxQXFDNWF1Sm1BOWhBTVhDTFdqTndyTXB6SWtsSkNXbTNTaXRUamRudjNjSGptV1M4?oc=5",
+     "source": "CNET",
+     "sources": [
+      "CNET",
+      "Gadget Bridge",
+      "Mashable",
+      "PC Guide",
+      "Parade Magazine",
+      "TechRadar",
+      "Yahoo Tech",
+      "cwibc.co.id"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-28T02:30+05:30",
+     "score": 9.18,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "CNET",
+       "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 28, #1,000",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2VtS3dmVmRyTTJuUjdBS0h1RVRZcE1kdzFjWlFyZ0hCTDRsWlZnbmNrc1lqRi1GbFFocVJIb084cHRvVGVxR2pRb2tMd1ZPUFZRbFpFTUFkN1hMTW5tTEpLYWdhN1hxQXFDNWF1Sm1BOWhBTVhDTFdqTndyTXB6SWtsSkNXbTNTaXRUamRudjNjSGptV1M4?oc=5",
+       "publishedAt": "2026-11-28T02:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India storm into Asian Champions Trophy final with 6-2 win over Malaysia",
+     "link": "https://indianexpress.com/article/sports/hockey/india-asian-champions-trophy-final-6-2-win-over-malaysia-10981686/",
+     "source": "The Indian Express",
+     "sources": [
+      "ESPN India",
+      "Hockey India",
+      "Olympics",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T22:57+05:30",
+     "score": 6.39,
+     "summary": "",
+     "image": "https://images.indianexpress.com/2026/11/India-w-hocket-ACt.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "India storm into Asian Champions Trophy final with 6-2 win over Malaysia",
+       "link": "https://indianexpress.com/article/sports/hockey/india-asian-champions-trophy-final-6-2-win-over-malaysia-10981686/",
+       "publishedAt": "2026-11-27T22:42+05:30"
+      },
+      {
+       "source": "Olympics",
+       "title": "Women’s Asian Champions Trophy 2026 hockey: India beat Malaysia 6-2 to set up final against China",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPektRQXlxeVVNS3ZMZjR4NF9wZVhqcjFZQUUzbVl5c2pBZkJpV0M3UGJNZm1qdzByWFVXVHJxWm9FNnFMUTN6MkJsdWxVWGotaFJlWjV2eS1EVUgwUmw2OHNSNzNhZVljRzV4NVFHU0FBX3J2dHJ2SF9sUFFuczJDLVlkcnBmNll4UjN0UEpDckl3T3B2c2JSY3ZHd0N4bG44NC1DQWZ3d01nelpZOGlSeEh3cU4?oc=5",
+       "publishedAt": "2026-11-27T22:57+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece",
+     "source": "The Hindu",
+     "sources": [
+      "DinaMani",
+      "Nakkheeran",
+      "Thanthi TV",
+      "The Hindu",
+      "Vikatan"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T01:56+05:30",
+     "score": 6.09,
+     "summary": "The TVK MLA was subsequently brought to the Circuit House in Kallakurichi on the Salem-Ulundurpet highway for questioning, where a large posse of police personnel has been deployed",
+     "image": "https://th-i.thgim.com/public/incoming/4jgn4y/article71751190.ece/alternates/LANDSCAPE_1200/Arul%20vignesh%20arrest%201.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
+       "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece",
+       "publishedAt": "2026-11-28T01:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "OPEC Faces Growing Pressure As Iraq Pushes for Higher Quota",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSU9hekxJRTJMT0h2SWFYdW5VNXhsOXY3c2I2R251YnJ4akhzMFNQWldkM3ZrV2pqOXNmOUV3eXN4SkJvMG52dVphdkhodGRUWmdMUXJIeUhzRzlOTXZzbmNUS2w0ZWlXckZ3S1JTVVJldXdlTVZBMmxILVE3THUzZnN0LVVyMURza0RieEpqMkZUN1pTb1dDSmhzNmYycHM1cVZWSnJyZXVBRm9razdMTUhxRUJGd9IBuwFBVV95cUxNb0QxM1BfUlBfWVVkeUxZZTUtZ1BUR1lobVBoV0Z0VGR5LVNxV2k4MURwdmZ3RlM0M09xdERpWV9CUkFadkR2LUp0QmtzeGo4R0V2OWZFXzVjVU13MWlmTXBtRTJCVHUwYUgwSmx0OUpRcW1xdGNaVGhfUVVyZ25zUlpraGJYcE51MFZnLXgxN2xOTDFFSGhBTHAyeVhveUxKN3NGclZqZUlNc1FhZ0RNVUxKVXNVNWpOZ3d3?oc=5",
+     "source": "Crude Oil Prices Today | OilPrice.com",
+     "sources": [
+      "Crude Oil Prices Today | OilPrice.com",
+      "ET EnergyWorld",
+      "FXEmpire",
+      "Reuters",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T23:00+05:30",
+     "score": 5.59,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Crude Oil Prices Today | OilPrice.com",
+       "title": "OPEC Faces Growing Pressure As Iraq Pushes for Higher Quota",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSU9hekxJRTJMT0h2SWFYdW5VNXhsOXY3c2I2R251YnJ4akhzMFNQWldkM3ZrV2pqOXNmOUV3eXN4SkJvMG52dVphdkhodGRUWmdMUXJIeUhzRzlOTXZzbmNUS2w0ZWlXckZ3S1JTVVJldXdlTVZBMmxILVE3THUzZnN0LVVyMURza0RieEpqMkZUN1pTb1dDSmhzNmYycHM1cVZWSnJyZXVBRm9razdMTUhxRUJGd9IBuwFBVV95cUxNb0QxM1BfUlBfWVVkeUxZZTUtZ1BUR1lobVBoV0Z0VGR5LVNxV2k4MURwdmZ3RlM0M09xdERpWV9CUkFadkR2LUp0QmtzeGo4R0V2OWZFXzVjVU13MWlmTXBtRTJCVHUwYUgwSmx0OUpRcW1xdGNaVGhfUVVyZ25zUlpraGJYcE51MFZnLXgxN2xOTDFFSGhBTHAyeVhveUxKN3NGclZqZUlNc1FhZ0RNVUxKVXNVNWpOZ3d3?oc=5",
+       "publishedAt": "2026-11-27T23:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T03:00+05:30",
    "generatedAt": "2026-11-28T03:24+05:30",
@@ -29156,180 +29303,6 @@
        "title": "Watch: Trump appears to fall asleep during Xi Jinping's address at Apec summit",
        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT28yOEFCakI4WVFWeXpJMlRQeUZkMUc5Y2xLVGtFM1EzS2V1bXNoZTNzRGpQWnRJTW5EVWUxOXlYN2gtRHAtcEJHU1c5c2xIYXh3NVp1YjE2b2VlcjFCMWd3cEwxbVJmRWtnYTdWb2liMnFVdmlxSTdoa29WUmZMWVI3Y2Vob3B4TTNmODZfNzlNMXRzd1FfZVR2b2JYMUtTZF8tbUJDT1JtUHNscDNHck9DZDFjOVF6dlJpeVJYOGZhYnVMM2ZGNWNoSVE2NUpEcjVneGlUNWwxZ253M3V3TmxoMWk?oc=5",
        "publishedAt": "2026-11-19T20:22+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T01:00+05:30",
-   "generatedAt": "2026-11-20T01:30+05:30",
-   "feeds": 17,
-   "headlines": 277,
-   "stories": [
-    {
-     "title": "Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX’s June listing",
-     "link": "https://indianexpress.com/article/business/world-market/anthropic-nasdaq-debut-valuation-ai-ipo-10970472/",
-     "source": "The Indian Express",
-     "sources": [
-      "Bloomberg.com",
-      "Telegraph India",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India",
-      "Times of India",
-      "Yahoo Finance"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-19T23:07+05:30",
-     "score": 7.7,
-     "summary": "",
-     "image": "https://images.indianexpress.com/2026/11/Anthropic-1_20261119024652_20261119173349.jpg",
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX’s June listing",
-       "link": "https://indianexpress.com/article/business/world-market/anthropic-nasdaq-debut-valuation-ai-ipo-10970472/",
-       "publishedAt": "2026-11-19T23:07+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Anthropic IPO: Shares jump over 30% on Nasdaq debut, valuation tops $2 trillion",
-       "link": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-shares-jump-34-on-nasdaq-debut-valuation-tops-2-trillion/articleshow/136000048.cms",
-       "publishedAt": "2026-11-19T22:48+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Anthropic IPO: AI giant makes blockbuster Nasdaq debut, shares jump 34%; valuation tops $2 trillion",
-       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRm50cUxuRDBrY2xNd0xoVk9zdUwtdGhzclJPOXVqTTBDdDBaYzVnSWZrelZqcjh1aWMtcGdVUTVjNXp5QWQ5dGpoWDROZU9SVXZPS0RTWTlnSTBXcF80NHAwTTctTXN1ZlJUOTh0VjdqZWFQV041TkxBU0ROS2EtWTRVYTJvbGVRYTB3UW1NZ01GVzNTWUdNZFNOenBqYi1zYU1PUkdMaTM0cE1KQTRScDA3dEFOVlZ1cmJMUDZGQ0ZlZkJDMWdxRGlCN040dmtUMG9sTlg3dkNHbXJPUkdMUTBsWUlXMXk1aDBoQXhRdUI1RkxVVUY0?oc=5",
-       "publishedAt": "2026-11-19T22:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India now a side player in global affairs, says Rahul Gandhi; false, shameful comments, retorts BJP",
-     "link": "https://indianexpress.com/article/india/india-now-a-side-player-in-global-affairs-says-rahul-gandhi-false-shameful-comments-retorts-bjp-10970355/",
-     "source": "The Indian Express",
-     "sources": [
-      "ANI News",
-      "Deccan Herald",
-      "Hindustan Times",
-      "India Today",
-      "The Indian Express",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T22:40+05:30",
-     "score": 7.03,
-     "summary": "",
-     "image": "https://images.indianexpress.com/2026/11/rahul-gandhi.jpg-1.jpeg",
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "India now a side player in global affairs, says Rahul Gandhi; false, shameful comments, retorts BJP",
-       "link": "https://indianexpress.com/article/india/india-now-a-side-player-in-global-affairs-says-rahul-gandhi-false-shameful-comments-retorts-bjp-10970355/",
-       "publishedAt": "2026-11-19T20:19+05:30"
-      },
-      {
-       "source": "India Today",
-       "title": "Pak mediating US-Iran talks, India a side player: Rahul Gandhi at US event",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMHl3akpUbTVONkF1SUxQZUtLd09wTHJxSDlNWGt3NWR0UXJock1fSEN4Q1piZnFDOUhTdWtONU9JNWhLaDlCclFGTnBCbVEtMDFQUjBuWjhxbXJSR1ZOXzJXXzlIUXJxajBYNWtCdGtRaXBIUjFfQmE3dTBGcHladk9QeklkSkRPSGlGaFFYX1NfMWNMN19xc0tyaHhkVE83RDNLRzJvMUtTeEVzeEt1ODNNUmcxQUpXbmlrRlBhSjdTQjNBQl9vcDQ2dVFSZ1JFa2lIOUFfTzdxQWhnem53aG5zS2xzV2RjcTU0eElLNFVwdw?oc=5",
-       "publishedAt": "2026-11-19T22:40+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'India has become a side player': Rahul attacks PM Modi's foreign policy, cites Pak's role in Iran-US tal",
-       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQzJGYUxSS055ZkkxcHNlOXp6WlBlR1RYaWxxRU1SVXVvb1VBZTRUM2gzdEpuOW1VaHlOY1VBZ0ZXSTFzUWRSRDlOMF90cnQ4ckE5OHNBdTBvSC1XUEs1WTN4M1p3c2pEN0ttdjE3UE1YRHBZWWM3SS1JLWp0VktndklIRDhTMFZzNGN1cTRUdXFMQkVfNzVTMmRCWk9NZndsVTJFX2o3ejRNT3JrZnM0c3lBX1RSZ2RvZjR2a050eHdwUTZZMFlEUlVuWHI5V20zM0lGUThfeVNTczNnQllCamd3TE9QcGFsRWdSUlN0VURvOHl4blNQeTRMbWNBZw?oc=5",
-       "publishedAt": "2026-11-19T22:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Meeting PM Modi turned out to be very lucky': SKY on rediscovering batting form",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/meeting-pm-modi-turned-out-to-be-very-lucky-suryakumar-yadav-on-redisovering-batting-form/articleshow/136000928.cms",
-     "source": "Times of India",
-     "sources": [
-      "News18",
-      "Rediff",
-      "The News Mill",
-      "The Times of India",
-      "Times of India",
-      "Yahoo Sports"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T23:13+05:30",
-     "score": 6.92,
-     "summary": "Suryakumar Yadav credited his meeting with PM Narendra Modi on November 6 for bringing him luck as he rediscovered his batting form. The India batter has impressed in the Syed Mushtaq Ali Trophy with explosive knocks for Mumbai and is aiming for an international comeback. He also hopes to win the IPL 2027 title with Mumbai Indians.",
-     "image": "https://static.toiimg.com/photo/msid-136001143,imgsize-82452.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Meeting PM Modi turned out to be very lucky': SKY on rediscovering batting form",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/meeting-pm-modi-turned-out-to-be-very-lucky-suryakumar-yadav-on-redisovering-batting-form/articleshow/136000928.cms",
-       "publishedAt": "2026-11-19T23:13+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Meeting PM Modi turned out to be very lucky': Suryakumar Yadav on rediscovering batting form",
-       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRUREeEtCUTZiaDBUNXN5VHcyZzZ3MmJaN1NGaWNCQ2x0bFlKYkxWaDBIc2hSSW96cUtiNVR0YUJLOFhpZjF3b3BidC00a1d6MGYyM2xHdzhZbndHeE1kRFVQZlo3Mi1KSkJjT3FwdFlHdnpIMzhjZUtEeDZDRVlXUjNsQlBJclQwTHNyRXR0OTNWc3NGN1JpVFNDb3hNSlIzYmh3R0xxcVdLS0wzcDBsZFVMNW5hcVdyU1JXclM1Y2RpQVFHbl9FVWxjTmMzRXFlWXF3cWwxemRkRkFrQmxxd0xyS2laaDRrN3lZaHplVmZjWG1feDlHZUwweUFfN3Aw0gGGAkFVX3lxTE1MX0NCSXF5VktlbWdmX0dKQ1JjSDNpb1kwTndVOVVqNjhOVTA4VU80MUhOOEpicVlxdXZzV3oxb1BTZUZDd3h4c3h4TFpRNk5DbjRfc0tBUWNKWU85eXE0QVROXzgxWFc5Y3NraFNlQUZSa1BYMGJJR3F4c0w2YXMxMFNiTm1VcTVLdjRKRVBLSW1YSUpaLTdjaUJ3eFhzWEJLZ091UE5DN2gxWHFsWG1VaVh5UWd6SDRZcTJMc3E3cG4yMHE0SUhtQzZYSmoyOGQ0cUcxRDFNYVk0LUNDUmNhT1MyVjl3MFN3STFFVE1fRnZmT2lVakhFb0Z6S2VOUU1neno3cEE?oc=5",
-       "publishedAt": "2026-11-19T23:13+05:30"
-      }
-     ]
-    },
-    {
-     "title": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
-     "source": "Forbes",
-     "sources": [
-      "BBC",
-      "Forbes",
-      "IGN",
-      "The Guardian",
-      "The Hindu"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T21:12+05:30",
-     "score": 6.78,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Forbes",
-       "title": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
-       "publishedAt": "2026-11-19T21:12+05:30"
-      }
-     ]
-    },
-    {
-     "title": "‘Not merely about my daughter’: Arjun Sarja files complaint over rumours about Aishwarya",
-     "link": "https://indianexpress.com/article/entertainment/tamil/arjun-sarja-files-complaint-over-rumours-about-daughter-aishwarya-10970385/",
-     "source": "The Indian Express",
-     "sources": [
-      "Deccan Chronicle",
-      "Hindustan Times",
-      "Inshorts",
-      "Kerala Kaumudi",
-      "NDTV",
-      "The Indian Express"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T21:39+05:30",
-     "score": 6.73,
-     "summary": "",
-     "image": "https://images.indianexpress.com/2026/11/arjun-aishwarya.jpg",
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "‘Not merely about my daughter’: Arjun Sarja files complaint over rumours about Aishwarya",
-       "link": "https://indianexpress.com/article/entertainment/tamil/arjun-sarja-files-complaint-over-rumours-about-daughter-aishwarya-10970385/",
-       "publishedAt": "2026-11-19T21:39+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Arjun Sarja files complaint against those spreading ‘derogatory allegations’ about daughter Aishwarya, her marriage to Umapathy Ramaiah | Hindustan Times",
-       "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOaFV1NHMydHB5TmxfaTdFdkhVRFdwZzRLUUZCdFdlMVJKMW9iclp0ODh5d3pxdjhiWDBDSF9Dd3J6eUdDQktBelJWcGpoaHdtRDBaZEJWMGprNVRpLTNXajExNDBNTEw0STRQbGtSVFNQZlk5MTNsSVdJcENQRjRINmZ1T1NoODZ5eDl1OS1NNDNMWk5sWUNhcGIxUFNGT3M3Yi1zWl84NTNOOTMxc0p5V0NlRHBUS0VCSHNLQ3llVjN3cExWaUN2aDFxR29CSTdaQjd5NHltVW9FZWMtalFCWkJaMFhSUzFvRnJoMXJRRTd0UHkyLUw0ekVaSFN5ODdGU2tlaXhQZndNenZUa0tJZ2ltdWdnZzNWMWFlMzQ1QkRvcjdKbHAxLVU1WEkyZVpNTnRmSHVn0gG7AkFVX3lxTFBfT2Ixd3Z5ZXd1OTd1MFpyUkFOVzltNHp1VkdJaE9fLXJlaGlEMmRhMEp0YnBEVDFoamxpUEQ2U1lRZzBTTE1YUDZoMzIyTFcxZkk2bjdzNEp1M0hsMElWR3JVbGVBUG5DMzFsU1JPNFFweGlVaTEwcHdtbGVzRW94RjlqaFJMNF9wUlpaY1NzVWFhQWRKbTczS3k5M2t1SHJTUEFTOHFPMEJranY4M2lhRHZtYWp2Yzltd0FkRmlhMUVrZGE1YktxTVJiYlVFRFRGNEp6Y3gzTHpPcFNWTkhBbWFheDdvdU1vSExUNU51bmhTTHViT2N3dk53RFhMelk1Z05VTkhmaXlhbmJGLTEyeTFwdVlHS08zeTkwQkF6cGZMeWdzX3FuMVpSaGZaQ2w1OHBzV0dBTkFqdw?oc=5",
-       "publishedAt": "2026-11-19T20:51+05:30"
       }
      ]
     }
