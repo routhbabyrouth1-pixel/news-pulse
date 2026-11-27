@@ -1,6 +1,153 @@
 {
- "updated": "2026-11-28T02:24+05:30",
+ "updated": "2026-11-28T03:24+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T03:00+05:30",
+   "generatedAt": "2026-11-28T03:24+05:30",
+   "feeds": 16,
+   "headlines": 194,
+   "stories": [
+    {
+     "title": "Bhogi Box Office Collection Day 1",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaXJxcXNRN1N2MzZkSEo1SlpWdTJBSTVvQ3NVNkpidmV3VnlpVGpUVWhQRXdWUXhwRnF0VERxM011dXlHWmdUeVVYejRwdmM5N3poWGlBbElhQlJ3c3NlQkRDVmZTUXRpdkh4aGZBWVNWMUFZYW9mcV9NT3Q?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "India Today",
+      "Rediff.com",
+      "Sacnilk",
+      "The Hans India",
+      "The Hindu",
+      "The Indian Express",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-28T02:07+05:30",
+     "score": 9.93,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Bhogi Box Office Collection Day 1",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaXJxcXNRN1N2MzZkSEo1SlpWdTJBSTVvQ3NVNkpidmV3VnlpVGpUVWhQRXdWUXhwRnF0VERxM011dXlHWmdUeVVYejRwdmM5N3poWGlBbElhQlJ3c3NlQkRDVmZTUXRpdkh4aGZBWVNWMUFZYW9mcV9NT3Q?oc=5",
+       "publishedAt": "2026-11-28T02:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Black Friday gaming deals 2026: PS5, Nintendo Switch, and lots more deals live now",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBldnhKX3A0dEZFZTlCVm9oZVZEdnoxT0NBbzhVX3ZzbkJvZ2xncUNZLU4yOTRMNl85elpnT0ZXXzZlRGp4M1hFbU5CaEpQSWJlWDQyNVhVcUFXMDZpU3lWb09VdVpoVHp0RjhxbDZ3?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "Gizmodo",
+      "Harper's BAZAAR",
+      "IGN",
+      "Mashable",
+      "NewsOne",
+      "PC Guide",
+      "Stuff",
+      "Tom's Hardware",
+      "WIRED"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-27T23:08+05:30",
+     "score": 9.36,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "Black Friday gaming deals 2026: PS5, Nintendo Switch, and lots more deals live now",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBldnhKX3A0dEZFZTlCVm9oZVZEdnoxT0NBbzhVX3ZzbkJvZ2xncUNZLU4yOTRMNl85elpnT0ZXXzZlRGp4M1hFbU5CaEpQSWJlWDQyNVhVcUFXMDZpU3lWb09VdVpoVHp0RjhxbDZ3?oc=5",
+       "publishedAt": "2026-11-27T23:08+05:30"
+      },
+      {
+       "source": "WIRED",
+       "title": "The Best Apple Black Friday Deals, All in One Place",
+       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tTWFkZGtKWUJKLU9Vb2E1YnVHWEozRndhS1FRbG0wdzNsZFF0MXA1Rlcyekd3TjV6QlZyVnFqOEdpVE1YbU4wRVVsSU1XbllzX0FLUXczeW9lQllRWDhwOG11Y05PUjlHWlNpYzkwV2RyZw?oc=5",
+       "publishedAt": "2026-11-27T21:54+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Russia-Ukraine War Live Updates: Zelenskyy urges US pressure on Putin, questions Trump’s ‘my friend’ remark",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbEg3TThQT1VmUENIWHJSMTZkbUYxZk9vMjdVc3I4UWVIdDJmWndERmJJQlJNTnhzaGg0T2V6VUpJNVgtVnRUMUFOVmJnOVJBajF0ak1yekFmOVVKWVdQc1U0WEtlRnVpSjh1dWhlLV9oMmc1WmZIenVuc2JmSjhmQXBka0p2LXhQWXh2b3dEclo3SUFjLTF2a3Bhd3dta2Z6a1RQcUdFMElOejJZOEM2UjM4dk8wYlpSLTJjNTFRaWVaYzZWc2V5Y3NmamcwRmJvUFk0MtIB2wFBVV95cUxPSkRPcDIydmdZZWJ3OEs3THZnSUwtWkZqaEpyWnY0TGJXTy1Ib0VOcDF5RHQxTlluQ2s5MkVZUU9OeUNuRDBMRkpjdmw3Y0Y0a3Zidkc0MzN6S3lzdGRhd21xS0dfNTVwWURiNENicnowWllCME9CRXlleDJQUHVqZGU4Uy11Y0c1ajJFOUtaeFljMmFsSEZibUdJLVItUC1NWHk0M0hXNWxlTnpaQ3dWQ3BmQm5XQnVHT3VEdEJNSW83Y2l1WnVmVE05QWNGZVBwVnR4WFo3QmpCcXc?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "BBC",
+      "NDTV",
+      "Reuters",
+      "The Indian Express",
+      "Yahoo"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T21:40+05:30",
+     "score": 6.54,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Russia-Ukraine War Live Updates: Zelenskyy urges US pressure on Putin, questions Trump’s ‘my friend’ remark",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbEg3TThQT1VmUENIWHJSMTZkbUYxZk9vMjdVc3I4UWVIdDJmWndERmJJQlJNTnhzaGg0T2V6VUpJNVgtVnRUMUFOVmJnOVJBajF0ak1yekFmOVVKWVdQc1U0WEtlRnVpSjh1dWhlLV9oMmc1WmZIenVuc2JmSjhmQXBka0p2LXhQWXh2b3dEclo3SUFjLTF2a3Bhd3dta2Z6a1RQcUdFMElOejJZOEM2UjM4dk8wYlpSLTJjNTFRaWVaYzZWc2V5Y3NmamcwRmJvUFk0MtIB2wFBVV95cUxPSkRPcDIydmdZZWJ3OEs3THZnSUwtWkZqaEpyWnY0TGJXTy1Ib0VOcDF5RHQxTlluQ2s5MkVZUU9OeUNuRDBMRkpjdmw3Y0Y0a3Zidkc0MzN6S3lzdGRhd21xS0dfNTVwWURiNENicnowWllCME9CRXlleDJQUHVqZGU4Uy11Y0c1ajJFOUtaeFljMmFsSEZibUdJLVItUC1NWHk0M0hXNWxlTnpaQ3dWQ3BmQm5XQnVHT3VEdEJNSW83Y2l1WnVmVE05QWNGZVBwVnR4WFo3QmpCcXc?oc=5",
+       "publishedAt": "2026-11-27T21:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece",
+     "source": "The Hindu",
+     "sources": [
+      "DinaMani",
+      "Nakkheeran",
+      "Polimer News",
+      "Thanthi TV",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T01:56+05:30",
+     "score": 6.26,
+     "summary": "The TVK MLA was subsequently brought to the Circuit House in Kallakurichi on the Salem-Ulundurpet highway for questioning, where a large posse of police personnel has been deployed",
+     "image": "https://th-i.thgim.com/public/incoming/4jgn4y/article71751190.ece/alternates/LANDSCAPE_1200/Arul%20vignesh%20arrest%201.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
+       "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece",
+       "publishedAt": "2026-11-28T01:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "OPEC Faces Growing Pressure As Iraq Pushes for Higher Quota",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSU9hekxJRTJMT0h2SWFYdW5VNXhsOXY3c2I2R251YnJ4akhzMFNQWldkM3ZrV2pqOXNmOUV3eXN4SkJvMG52dVphdkhodGRUWmdMUXJIeUhzRzlOTXZzbmNUS2w0ZWlXckZ3S1JTVVJldXdlTVZBMmxILVE3THUzZnN0LVVyMURza0RieEpqMkZUN1pTb1dDSmhzNmYycHM1cVZWSnJyZXVBRm9razdMTUhxRUJGd9IBuwFBVV95cUxNb0QxM1BfUlBfWVVkeUxZZTUtZ1BUR1lobVBoV0Z0VGR5LVNxV2k4MURwdmZ3RlM0M09xdERpWV9CUkFadkR2LUp0QmtzeGo4R0V2OWZFXzVjVU13MWlmTXBtRTJCVHUwYUgwSmx0OUpRcW1xdGNaVGhfUVVyZ25zUlpraGJYcE51MFZnLXgxN2xOTDFFSGhBTHAyeVhveUxKN3NGclZqZUlNc1FhZ0RNVUxKVXNVNWpOZ3d3?oc=5",
+     "source": "Crude Oil Prices Today | OilPrice.com",
+     "sources": [
+      "Crude Oil Prices Today | OilPrice.com",
+      "FXEmpire",
+      "Reuters",
+      "TradeWinds News",
+      "WSJ"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T23:00+05:30",
+     "score": 5.76,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Crude Oil Prices Today | OilPrice.com",
+       "title": "OPEC Faces Growing Pressure As Iraq Pushes for Higher Quota",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSU9hekxJRTJMT0h2SWFYdW5VNXhsOXY3c2I2R251YnJ4akhzMFNQWldkM3ZrV2pqOXNmOUV3eXN4SkJvMG52dVphdkhodGRUWmdMUXJIeUhzRzlOTXZzbmNUS2w0ZWlXckZ3S1JTVVJldXdlTVZBMmxILVE3THUzZnN0LVVyMURza0RieEpqMkZUN1pTb1dDSmhzNmYycHM1cVZWSnJyZXVBRm9razdMTUhxRUJGd9IBuwFBVV95cUxNb0QxM1BfUlBfWVVkeUxZZTUtZ1BUR1lobVBoV0Z0VGR5LVNxV2k4MURwdmZ3RlM0M09xdERpWV9CUkFadkR2LUp0QmtzeGo4R0V2OWZFXzVjVU13MWlmTXBtRTJCVHUwYUgwSmx0OUpRcW1xdGNaVGhfUVVyZ25zUlpraGJYcE51MFZnLXgxN2xOTDFFSGhBTHAyeVhveUxKN3NGclZqZUlNc1FhZ0RNVUxKVXNVNWpOZ3d3?oc=5",
+       "publishedAt": "2026-11-27T23:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T02:00+05:30",
    "generatedAt": "2026-11-28T02:24+05:30",
@@ -29183,194 +29330,6 @@
        "title": "Arjun Sarja files complaint against those spreading ‘derogatory allegations’ about daughter Aishwarya, her marriage to Umapathy Ramaiah | Hindustan Times",
        "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOaFV1NHMydHB5TmxfaTdFdkhVRFdwZzRLUUZCdFdlMVJKMW9iclp0ODh5d3pxdjhiWDBDSF9Dd3J6eUdDQktBelJWcGpoaHdtRDBaZEJWMGprNVRpLTNXajExNDBNTEw0STRQbGtSVFNQZlk5MTNsSVdJcENQRjRINmZ1T1NoODZ5eDl1OS1NNDNMWk5sWUNhcGIxUFNGT3M3Yi1zWl84NTNOOTMxc0p5V0NlRHBUS0VCSHNLQ3llVjN3cExWaUN2aDFxR29CSTdaQjd5NHltVW9FZWMtalFCWkJaMFhSUzFvRnJoMXJRRTd0UHkyLUw0ekVaSFN5ODdGU2tlaXhQZndNenZUa0tJZ2ltdWdnZzNWMWFlMzQ1QkRvcjdKbHAxLVU1WEkyZVpNTnRmSHVn0gG7AkFVX3lxTFBfT2Ixd3Z5ZXd1OTd1MFpyUkFOVzltNHp1VkdJaE9fLXJlaGlEMmRhMEp0YnBEVDFoamxpUEQ2U1lRZzBTTE1YUDZoMzIyTFcxZkk2bjdzNEp1M0hsMElWR3JVbGVBUG5DMzFsU1JPNFFweGlVaTEwcHdtbGVzRW94RjlqaFJMNF9wUlpaY1NzVWFhQWRKbTczS3k5M2t1SHJTUEFTOHFPMEJranY4M2lhRHZtYWp2Yzltd0FkRmlhMUVrZGE1YktxTVJiYlVFRFRGNEp6Y3gzTHpPcFNWTkhBbWFheDdvdU1vSExUNU51bmhTTHViT2N3dk53RFhMelk1Z05VTkhmaXlhbmJGLTEyeTFwdVlHS08zeTkwQkF6cGZMeWdzX3FuMVpSaGZaQ2w1OHBzV0dBTkFqdw?oc=5",
        "publishedAt": "2026-11-19T20:51+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T00:00+05:30",
-   "generatedAt": "2026-11-20T00:27+05:30",
-   "feeds": 16,
-   "headlines": 271,
-   "stories": [
-    {
-     "title": "'GTA 6' on PC: What we know about the PC release",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMVl1NzVTX2JPWXB4WlhNMlNaQlQtVTk1Z2JBVUtHcTc5OXJrbmNVY29yN0lfcC1GSEM5Q2c0YUl4a0FGTjVGRDVuUGtyUlVuaEV5V3M5WjRiZUpMd195ME1WY0Z6Zw?oc=5",
-     "source": "Mashable",
-     "sources": [
-      "Android Central",
-      "BBC",
-      "Forbes",
-      "IGN",
-      "Mashable",
-      "PCMag",
-      "The Guardian",
-      "Variety",
-      "https://vr.org/"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-19T22:20+05:30",
-     "score": 11.15,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Mashable",
-       "title": "'GTA 6' on PC: What we know about the PC release",
-       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMVl1NzVTX2JPWXB4WlhNMlNaQlQtVTk1Z2JBVUtHcTc5OXJrbmNVY29yN0lfcC1GSEM5Q2c0YUl4a0FGTjVGRDVuUGtyUlVuaEV5V3M5WjRiZUpMd195ME1WY0Z6Zw?oc=5",
-       "publishedAt": "2026-11-19T22:20+05:30"
-      },
-      {
-       "source": "Forbes",
-       "title": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
-       "publishedAt": "2026-11-19T21:12+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'India has become a side player': Rahul attacks PM Modi's foreign policy",
-     "link": "https://timesofindia.indiatimes.com/india/india-has-become-a-side-player-rahul-attacks-pm-modis-foreign-policy-cites-paks-role-in-iran-us-talks/articleshow/135998901.cms",
-     "source": "Times of India",
-     "sources": [
-      "ANI News",
-      "Deccan Herald",
-      "India Today",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T22:26+05:30",
-     "score": 7.16,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135999461,imgsize-49118.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'India has become a side player': Rahul attacks PM Modi's foreign policy",
-       "link": "https://timesofindia.indiatimes.com/india/india-has-become-a-side-player-rahul-attacks-pm-modis-foreign-policy-cites-paks-role-in-iran-us-talks/articleshow/135998901.cms",
-       "publishedAt": "2026-11-19T22:26+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'India has become a side player': Rahul attacks PM Modi's foreign policy, cites Pak's role in Iran-US tal",
-       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQzJGYUxSS055ZkkxcHNlOXp6WlBlR1RYaWxxRU1SVXVvb1VBZTRUM2gzdEpuOW1VaHlOY1VBZ0ZXSTFzUWRSRDlOMF90cnQ4ckE5OHNBdTBvSC1XUEs1WTN4M1p3c2pEN0ttdjE3UE1YRHBZWWM3SS1JLWp0VktndklIRDhTMFZzNGN1cTRUdXFMQkVfNzVTMmRCWk9NZndsVTJFX2o3ejRNT3JrZnM0c3lBX1RSZ2RvZjR2a050eHdwUTZZMFlEUlVuWHI5V20zM0lGUThfeVNTczNnQllCamd3TE9QcGFsRWdSUlN0VURvOHl4blNQeTRMbWNBZw?oc=5",
-       "publishedAt": "2026-11-19T22:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Xi Jinping, Trump, Putin Meet In Historic Summit, Discuss 'What Is Democracy'",
-     "link": "https://www.ndtv.com/world-news/xi-jinping-trump-putin-meet-in-historic-summit-discuss-what-is-democracy-12350708#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "BBC News",
-      "Hindustan Times",
-      "NDTV",
-      "The Economic Times",
-      "The Guardian"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T23:52+05:30",
-     "score": 6.93,
-     "summary": "The three men made opening remarks touching on weighty topics from nuclear weapons to the war in Ukraine as they met around a large, dark round table with a pinkflower arrangement at its centre.",
-     "image": "https://c.ndtvimg.com/2026-11/sb4lk69_xi-putin-trump-meet_625x300_19_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Xi Jinping, Trump, Putin Meet In Historic Summit, Discuss 'What Is Democracy'",
-       "link": "https://www.ndtv.com/world-news/xi-jinping-trump-putin-meet-in-historic-summit-discuss-what-is-democracy-12350708#publisher=newsstand",
-       "publishedAt": "2026-11-19T23:52+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "What did Trump, Xi and Putin get out of their historic meeting?",
-       "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-19T22:53+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "What Trump, Xi, Putin's historic meeting achieved",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/symbolism-over-substance-what-trump-xi-and-putins-historic-meeting-achieved/articleshow/135999915.cms",
-       "publishedAt": "2026-11-19T22:38+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Trump and Putin ‘hijacked’ China summit",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
-       "publishedAt": "2026-11-19T22:32+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
-       "link": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
-       "publishedAt": "2026-11-19T21:05+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Apec Summit 2026: Trump departs China after historic meetings with Xi, Putin; White House highlights $17 billion gain",
-       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQUgzdzFsTXhNTXhuWjZoZTlvRHdhZDZmZkhybWN4dDFIblhOVms5d0t1ZlhfWnZ2cVNBY1RENUZrdzY4OXlnSUlVMkFkZU1SVG9uUk1KMG5KVlVtM3hiM1AySW9ZaDF2TVdKcWNOMWVmSVljUTNKb2dJVDVmb2lLRjZNX25VLVdhMllfWHhKNllaSUZGdnAteUJCdHVnTjJxTzI3ZlVrMndCd1FIOFNlNmtGREVDTGExckZhaE1IekczZkFXdkl5N2wzSnlTbnVFVFl3djdJc20zX1p0cmNUTmFSV0NSYlNtbFZST0lsTjNDRGFuV3gxX2NTUENzdXFfRHZDZzZjZ1dfbDQ?oc=5",
-       "publishedAt": "2026-11-19T20:35+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'It is baffling': Gavaskar slams India's decision to leave Siraj out",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/it-is-baffling-sunil-gavaskar-slams-indias-decision-to-leave-mohammed-siraj-out/articleshow/135993193.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricbuzz",
-      "Deccan Herald",
-      "Inshorts",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T19:07+05:30",
-     "score": 6.86,
-     "summary": "Sunil Gavaskar and Ravi Shastri criticised India's decision to leave Mohammed Siraj out of the first Test against New Zealand, questioning the selection despite his experience and consistent performances. Meanwhile, New Zealand recovered from 70/5 to finish Day 1 at 243/5, thanks to Henry Nicholls' unbeaten 113 and Glenn Phillips' 94, with Jasprit Bumrah taking three wickets.",
-     "image": "https://static.toiimg.com/photo/msid-135993919,imgsize-99549.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'It is baffling': Gavaskar slams India's decision to leave Siraj out",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/it-is-baffling-sunil-gavaskar-slams-indias-decision-to-leave-mohammed-siraj-out/articleshow/135993193.cms",
-       "publishedAt": "2026-11-19T19:07+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'It is baffling': Sunil Gavaskar slams India's decision to leave Mohammed Siraj out",
-       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRTg4bkNPRGdUS2pYVmcxV1pNdlJWS3hneXFZaFloSTRGanVvX0txb1RlMlFnd3EwMFpPQ3E3NFU1TzBEV0xvdjhkem01eVlCdkFGZENNak9xLU9UdDFTV09pcS1fWGlxaWdYdXpwZVFpZ0IzQ0xBTGVQaUhRVVR2RWVnTWxielNYRFZwWDNNckVIajh2LUpsNWFDbkxNb2o5RjNhZHRDSm5ydl92bWYxRmtoWjg5YjlRNFpCT3kxbVpNR1ZKRUU4eENoLXROUldtNm1kUENpQlBaWGdTSmhvLTBjdXZnZXpvam5VaURxd0JLUTDSAfgBQVVfeXFMT05yTTJBaXp2c2Y5dzNGOVpZVEY1LVY3WlZRRWpXSDU3cUY1bkVtTmtpTUxBUWhWZlhJM3RWTi1GMmZPVkM1SVRMZXJ3Q2FRa0RmdGo2VEtZNHFtY3FTZktISFpVbUVHblJMdW56UmFuWnNTSUxhMlVZa2JDT1NxQ2NBWlluWXlINW5HQmV5UGUwMEZPbWZfVXY3dmFDelBEZG54Z3FORkhXT19nbXFhd1VTQ3ZSU3ljZGhmN1R5ajNmU1VrY0ZGblAwUXF4Y2RRNTNyM1pYWXk0aE9KWS16TXBkYklSSzh5NXh1VXJuZlNtQzRrZ1dOb2g?oc=5",
-       "publishedAt": "2026-11-19T19:07+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Bingo at the Basin as India’s grip slips",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFFqYjlJbldhejZqdXlaQlBDZHc4QzRxd2pPc0hFZTJTVDVBc2tfNW9wb3ltTFhackZEUzVUcTFKR0FQaEswai1mbGJxYkJlZkdmQm0tTmVKLTRFTGdoYWNXTG0tV3hOUEVfR3Z2MnljVXg2QXV1WXg4dEZZRjhxSnpLdFl2MnFWNEU4cw?oc=5",
-     "source": "Cricbuzz",
-     "sources": [
-      "Cricbuzz",
-      "Cricket World",
-      "ICC",
-      "Rediff",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T19:14+05:30",
-     "score": 6.63,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricbuzz",
-       "title": "Bingo at the Basin as India’s grip slips",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFFqYjlJbldhejZqdXlaQlBDZHc4QzRxd2pPc0hFZTJTVDVBc2tfNW9wb3ltTFhackZEUzVUcTFKR0FQaEswai1mbGJxYkJlZkdmQm0tTmVKLTRFTGdoYWNXTG0tV3hOUEVfR3Z2MnljVXg2QXV1WXg4dEZZRjhxSnpLdFl2MnFWNEU4cw?oc=5",
-       "publishedAt": "2026-11-19T19:14+05:30"
       }
      ]
     }
