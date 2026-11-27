@@ -1,6 +1,179 @@
 {
- "updated": "2026-11-27T09:29+05:30",
+ "updated": "2026-11-27T10:35+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T10:00+05:30",
+   "generatedAt": "2026-11-27T10:35+05:30",
+   "feeds": 15,
+   "headlines": 222,
+   "stories": [
+    {
+     "title": "Wordle today: The answer and hints for November 26, 2026",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4X0FadVcyaWd1WnZVWXJPRXRvZGlSRnZ4VWdzWEU1SnE1S09aVDlLcWVPaEZZUHVmT0l1bFUySF95aWZBb3I4QlJGZElhNHNzLUNLZUQtMV8xTlNkdjJZTGFJdWZGWWlucjJBekM2cm5kenBhbTBoSGxvbw?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "CNET",
+      "Dainik Jagran MP CG",
+      "Deccan Herald",
+      "Forbes",
+      "Hindustan Times",
+      "IGN India",
+      "India Today",
+      "Mashable",
+      "News18",
+      "Odisha TV",
+      "OrissaPOST",
+      "PC Guide"
+     ],
+     "sourceCount": 15,
+     "publishedAt": "2026-11-27T08:47+05:30",
+     "score": 17.2,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "Wordle today: The answer and hints for November 26, 2026",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4X0FadVcyaWd1WnZVWXJPRXRvZGlSRnZ4VWdzWEU1SnE1S09aVDlLcWVPaEZZUHVmT0l1bFUySF95aWZBb3I4QlJGZElhNHNzLUNLZUQtMV8xTlNkdjJZTGFJdWZGWWlucjJBekM2cm5kenBhbTBoSGxvbw?oc=5",
+       "publishedAt": "2026-11-27T08:47+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 27, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlb0hZa0JtRlFTX3ltN2RZX0JQMzdXaXREX2pKMV9BTmEwbDZET0xWWHY5UzB1UzlyZTlRbTJYM2cySVhFSkJDQjluZktpblBUYnNDQUpNZnZLd1FBaXY0ZW9yWWxJYk5PQWphajlR?oc=5",
+       "publishedAt": "2026-11-27T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thanksgiving celebrations turn sour in US as storm batters East Coast; 900,000 homes without power, flights cancelled",
+     "link": "https://www.livemint.com/news/us-news/thanksgiving-celebrations-turn-sour-in-us-as-storm-batters-east-coast-900-000-homes-without-power-flights-cancelled-11795745674616.html",
+     "source": "Mint",
+     "sources": [
+      "BBC",
+      "FOX Weather",
+      "Mint",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Yahoo"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-27T07:55+05:30",
+     "score": 9.31,
+     "summary": "A powerful Nor'easter battered the US on Thanksgiving, leaving nearly a million utility customers without electricity, disrupting flights and holiday travel, triggering coastal flood warnings and forcing the postponement of Macy's Thanksgiving Day Parade.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/US-Storm_thanksgiving_1795745897887_A2tN_1795745898068_xmDv_06c6e8a9-f2b9-4d64-b04c-6e0b85679ebd_qNNT.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Thanksgiving celebrations turn sour in US as storm batters East Coast; 900,000 homes without power, flights cancelled",
+       "link": "https://www.livemint.com/news/us-news/thanksgiving-celebrations-turn-sour-in-us-as-storm-batters-east-coast-900-000-homes-without-power-flights-cancelled-11795745674616.html",
+       "publishedAt": "2026-11-27T07:55+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "US Thanksgiving storm: Over 900,000 lose power",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/us-thanksgiving-weather-havoc-over-900000-without-electricity-400-flights-cancelled-macys-parade-postponed/articleshow/136206824.cms",
+       "publishedAt": "2026-11-27T07:35+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "US Storm Disrupts Thanksgiving, Cancels 400 Flights, Leaves 724,000 Without Power",
+       "link": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669#publisher=newsstand",
+       "publishedAt": "2026-11-27T05:28+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Thanksgiving storm batters eastern US, leaves over 900,000 without power as floods disrupt travel",
+       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWVQwTGdxNkprb1lhOWUxVlpnY0lvY2ZFTVRibzd2eUs2WXFZQWc2X1J5Rnh0YmI0TXk4N2picG1aUmk5N0JrTy1LbVZub2hCTWRIYVBjbUtQczkxeWFuRHI4RVY0RExzNmFXa0lpR2ZaMF9tU2NVLUFicUg1a0Eyclo4UTQ0dzhCM0pQSFE5MGlKa0RucENraFVPNlI2XzJ6Yk1WUk1ZYXJZby01WTRSNTlhZTQtSWpqS1B1WUpwNGYySDMwM2l6bGRhR2ZtekVRMjNTUTA5SEppdDJwY2wtc3JZSmc5U3YzT2gtSFlYTkZYQzQzVFdqck5R?oc=5",
+       "publishedAt": "2026-11-27T06:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bengali Actor Mimi Chakraborty Marries Marine Engineer In Kolkata, 1st Pic Out",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYUVmZnQ2REEwUFZlVjdmQU9xWHNvQmxOd2xXYjJxeXN4X2dpdXlHLVJKUFNtUDZ0NUsxY200ZTAzbFM1aThDbzFqTl85OHIxWmtPTUp2UHR0LWdwM3FqZ2doS25aY0FaNVl5YkdxalhPZzJfRGt5dDBRS2VIZVVjZl9pUE5UT09oOE5ZSXhWOU9aUG12U0xNLUpqVTBxemdNMENwQUx5RmpjdHU3TTdTdU5tVDhLVGhXdk0wNzgtaTJod2dJWG5KZ2NXSERvWk45YmhoZWxEbThKTGFVSEctckV4YmZZU1BYTkRKcDRuUzPSAfgBQVVfeXFMUDRRajN0Yk04cmYxN3UxY1NJZFoyNUJzdTk1V3JldlJyMHZtdTNkaW5zS2FtZlVqRnZ3R2JWZ21laGJGdlF0Z3VVVmZkM2Y2d3d0RlkxVHN0V3ZmbzFGNTJTcUdvOTFiSFd0YmI0WHZxZTgtN0ZFYURPcFljNVVOemNqWExOaHBkenZmWjBwQUNrcFFnTmtTaHlnVGF3ck5CVkxBWGNERWRlSXN3MW9EWms3eGRvOEFfMUhYUVdNTEdFR0dYY1FtWGEtMFc1QjBWNlVMWHJVaU5MOVdIdkE5YVYwVzd1SWoyWHlycW9jbUJkQTlpdUpOTVI?oc=5",
+     "source": "NDTV",
+     "sources": [
+      "Hindustan Times",
+      "India TV News",
+      "India Today",
+      "Inshorts",
+      "NDTV"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T09:22+05:30",
+     "score": 7.3,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Bengali Actor Mimi Chakraborty Marries Marine Engineer In Kolkata, 1st Pic Out",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYUVmZnQ2REEwUFZlVjdmQU9xWHNvQmxOd2xXYjJxeXN4X2dpdXlHLVJKUFNtUDZ0NUsxY200ZTAzbFM1aThDbzFqTl85OHIxWmtPTUp2UHR0LWdwM3FqZ2doS25aY0FaNVl5YkdxalhPZzJfRGt5dDBRS2VIZVVjZl9pUE5UT09oOE5ZSXhWOU9aUG12U0xNLUpqVTBxemdNMENwQUx5RmpjdHU3TTdTdU5tVDhLVGhXdk0wNzgtaTJod2dJWG5KZ2NXSERvWk45YmhoZWxEbThKTGFVSEctckV4YmZZU1BYTkRKcDRuUzPSAfgBQVVfeXFMUDRRajN0Yk04cmYxN3UxY1NJZFoyNUJzdTk1V3JldlJyMHZtdTNkaW5zS2FtZlVqRnZ3R2JWZ21laGJGdlF0Z3VVVmZkM2Y2d3d0RlkxVHN0V3ZmbzFGNTJTcUdvOTFiSFd0YmI0WHZxZTgtN0ZFYURPcFljNVVOemNqWExOaHBkenZmWjBwQUNrcFFnTmtTaHlnVGF3ck5CVkxBWGNERWRlSXN3MW9EWms3eGRvOEFfMUhYUVdNTEdFR0dYY1FtWGEtMFc1QjBWNlVMWHJVaU5MOVdIdkE5YVYwVzd1SWoyWHlycW9jbUJkQTlpdUpOTVI?oc=5",
+       "publishedAt": "2026-11-27T09:22+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trump says Putin can come to G20 if he wants",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-putin-can-come-to-g20-if-he-wants/articleshow/136206149.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Reuters",
+      "The Economic Times",
+      "The Independent",
+      "Washington Examiner",
+      "uatv.ua"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T06:14+05:30",
+     "score": 6.78,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Trump says Putin can come to G20 if he wants",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-putin-can-come-to-g20-if-he-wants/articleshow/136206149.cms",
+       "publishedAt": "2026-11-27T06:14+05:30"
+      },
+      {
+       "source": "Reuters",
+       "title": "Trump says Putin can come to G20 if he wants",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjY3Sm9MUkZXUEQyNDc3MFdwRlFBaWcyWkpxbDRYT21RVFYySkgtUm9WeFNFb1lZUU9lM1BqbDBWLW5VLW9PR1ZvMjFxVHZNX2Q2b01rNXdVQUJIYmZ5ZHd4eEI1RkI3dlctelgwODgwczQta2ZWZEpDU2Jwa29MT21ZMlJ1clVNMkM0?oc=5",
+       "publishedAt": "2026-11-27T06:05+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ3pJeHV4bGwwd00tS1pha04zTkw5VWxXeTN0TllsOUphT29scnQ0UHJhc1Mtck5sLXRZMDNlZWtJcWdsaWs2VDNvSlVhZFdiaENHSTE5Y2xCTDhUMHVzS2xkU1VDUDdYamNrWjJoY0tITW1aeEtvWEprc2N2clpndEdaQ2ZETUhFdDYxZjhsaEpkeWtDUmlYVA?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T06:11+05:30",
+     "score": 6.77,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ3pJeHV4bGwwd00tS1pha04zTkw5VWxXeTN0TllsOUphT29scnQ0UHJhc1Mtck5sLXRZMDNlZWtJcWdsaWs2VDNvSlVhZFdiaENHSTE5Y2xCTDhUMHVzS2xkU1VDUDdYamNrWjJoY0tITW1aeEtvWEprc2N2clpndEdaQ2ZETUhFdDYxZjhsaEpkeWtDUmlYVA?oc=5",
+       "publishedAt": "2026-11-27T06:11+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T09:00+05:30",
    "generatedAt": "2026-11-27T09:29+05:30",
@@ -29249,160 +29422,6 @@
        "title": "'Siraj Has Never Let India Down'",
        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlZxMmJQUk8zbDQ2ZzZKbUFGNnpjT0hHTFpRLVFsMHkteHl6Ylpna0dQT1hlTE9BZ0FnZEdNZGJydm5FZ3FyUXlkeWtUMjM0bWdNYWFvNG5SR25tbEtDVVNaUmdoN0VBOUktX1U2MkR2a1NpT3oxcHZ3c25tZkg5OXUzN2k0Q2lw0gGLAUFVX3lxTE9VN3dYWUxFd3U4VGk1aEp5ZXR5ZFFpM3FMZnR1WFVtWFdYUHBnRTUxdVQ3akVKY3VqRFpvX3RTTnR4N1FvelVqTWRUaXk0blMybjJzc3hOeFFpZE1naW03RmZEbXFUVW5adkhBRDZTdFNYQ25VWGd3MENOUjgwTlUzeGk0LVBDRUpBcXM?oc=5",
        "publishedAt": "2026-11-19T06:26+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T06:00+05:30",
-   "generatedAt": "2026-11-19T06:35+05:30",
-   "feeds": 16,
-   "headlines": 160,
-   "stories": [
-    {
-     "title": "Grand Theft Auto 6 to get UK release after 13-year wait for gamers around the world",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
-     "source": "BBC",
-     "sources": [
-      "BBC",
-      "Bloomberg.com",
-      "CNN",
-      "NDTV",
-      "The Guardian"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T04:47+05:30",
-     "score": 7.2,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "BBC",
-       "title": "Grand Theft Auto 6 to get UK release after 13-year wait for gamers around the world",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
-       "publishedAt": "2026-11-19T04:47+05:30"
-      }
-     ]
-    },
-    {
-     "title": "No room for Siraj: India leave out senior pacer despite four-man attack in 1st Test",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-leave-out-mohammed-siraj-ravindra-jadeja-pick-four-man-pace-attack-for-first-new-zealand-test/articleshow/135971882.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricinfo",
-      "Rediff",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T03:37+05:30",
-     "score": 7.01,
-     "summary": "\"We are going with four seamers with Akash Deep, Anshul Kamboj, Prasidh and Bumrah with Washington as the spinning all-rounder,\" Gill said at the toss.",
-     "image": "https://static.toiimg.com/photo/msid-135971927,imgsize-94796.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "No room for Siraj: India leave out senior pacer despite four-man attack in 1st Test",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-leave-out-mohammed-siraj-ravindra-jadeja-pick-four-man-pace-attack-for-first-new-zealand-test/articleshow/135971882.cms",
-       "publishedAt": "2026-11-19T03:27+05:30"
-      },
-      {
-       "source": "Cricinfo",
-       "title": "India leave Siraj and Jadeja out of opening Test in New Zealand",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0otOVBHYkVVa1NxUHREMDNHS0xZRFBRajZHNE5TMGxJUW5RRm5MOEhqd3VRWF9aZjBObVZnY2Z2R1VwWlUtY05nZzNZdVRPc1FPZk1DOHc2ZEpveVpsOFNvVEdCWVhlSEdkck5QT3RMZ3F5UThZZUJ4bXlGU3kyTHFPU2JaUEt1bkszMGVhMDFqS2M1OW42aUZKZlBwUy1JNldTaThTWnMtX09RazVSTDBYaUVwaHp5a19oa9IBzgFBVV95cUxOeU9PeEUwZzZOWksyS2NHV1ZKc2VlSmpqREtsR1RtaHFDbHREMmQ5M2Q1VTVtV3dNendSaDJFQXpvSV92R1hLRzY3Q0lOclAzZGVPVUVtbTc4MTAybVE0MzhYNjQwZWhDSjF0dEdMMExzSU5zei1OTHdfcTcyWkx3TFJxWDZlaTdHcm9RcllBcndfZFNid21JUExEYlZVOTI0dU9OYXdzVXBhazVocmU0eHZka1JWZzFJMmxJTzN6dFVrZWVVdEc0dHhRR3p5dw?oc=5",
-       "publishedAt": "2026-11-19T03:37+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trade deal to be signed after US tariff plan: Commerce secy",
-     "link": "https://timesofindia.indiatimes.com/business/india-business/trade-deal-to-be-signed-after-us-ready-with-tariff-structure/articleshow/135974075.cms",
-     "source": "Times of India",
-     "sources": [
-      "Business Standard",
-      "Business Today",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T04:49+05:30",
-     "score": 6.79,
-     "summary": "Countries need certainty around Section 301 probes, says commerce secretary Rajesh Agarwal",
-     "image": "https://static.toiimg.com/photo/msid-135974079,imgsize-39828.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Trade deal to be signed after US tariff plan: Commerce secy",
-       "link": "https://timesofindia.indiatimes.com/business/india-business/trade-deal-to-be-signed-after-us-ready-with-tariff-structure/articleshow/135974075.cms",
-       "publishedAt": "2026-11-19T04:49+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Trade deal to be signed after US ready with tariff structure",
-       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaVVOV0lZYlR3aUZKX0RlaTdiQ2lUYU5UTGpheVJ3U1VLMTdPMEV2T20xaTA4U0N1Q29HTElzXy1yRlJZa1EzTDZQaVZyRXRVd1o1cGY3aFdsVWNEdHVRNEFkQ1pBSHQ3TGRqWW9vSEZpMDM5cnBTazJpQ0lzdnFGYnRwVXBpY1R6OXRGdmo4UjhkMG0tZHFnaXZCc05FTHd1aEp0aER4X3RDeUxUUDZwZ1dQOTMzVXVtVkpxMm9sdkJKR1JQWWVMbGVTbjhzTjhvaS1TV3N4NzVnTTZSQ09j?oc=5",
-       "publishedAt": "2026-11-19T04:49+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Nvidia halts its H200 chip sales to China - GSMArena.com news",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHFUMjdXZEFiZ1EtdXExZ0lWQmZUQjQ4SzhLUW45MExrMUVZR2xrUWdEWEsySXpITFgyVVR2bDN2REtvdm55ekJLaFNLakFneFZpcWZJVktJVklWUF9LNHdaQ1ZHWDczal9KczNQX0RRZEdwRFNlVkZsdHlNNS16Z0l6b1JBUllCdlHSAYYBQVVfeXFMTmF3VjNEQUMzMnFlVHZvQXNETEZJaXdYN092SFk1SzN0SGhONHB4Qk5sbVg4M3JSYlNjcEkycC1ONXV0Vm5BTmVDZHRDUGx2NThEYms1Q1RzZW9NUy1SNW5PZnBxSjlSQnZjZXBMRHoyWFlQdFloUDcxdDEzeFQxRU9IaldSd2c?oc=5",
-     "source": "GSMArena.com",
-     "sources": [
-      "Bloomberg.com",
-      "CNBC",
-      "GSMArena.com",
-      "Reuters",
-      "WSJ",
-      "Yahoo Finance"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T03:01+05:30",
-     "score": 6.78,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "GSMArena.com",
-       "title": "Nvidia halts its H200 chip sales to China - GSMArena.com news",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHFUMjdXZEFiZ1EtdXExZ0lWQmZUQjQ4SzhLUW45MExrMUVZR2xrUWdEWEsySXpITFgyVVR2bDN2REtvdm55ekJLaFNLakFneFZpcWZJVktJVklWUF9LNHdaQ1ZHWDczal9KczNQX0RRZEdwRFNlVkZsdHlNNS16Z0l6b1JBUllCdlHSAYYBQVVfeXFMTmF3VjNEQUMzMnFlVHZvQXNETEZJaXdYN092SFk1SzN0SGhONHB4Qk5sbVg4M3JSYlNjcEkycC1ONXV0Vm5BTmVDZHRDUGx2NThEYms1Q1RzZW9NUy1SNW5PZnBxSjlSQnZjZXBMRHoyWFlQdFloUDcxdDEzeFQxRU9IaldSd2c?oc=5",
-       "publishedAt": "2026-11-19T03:01+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employees",
-     "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-her-first-all-hands-meeting-nvidia-interim-ceo-colette-kress-promises-salary-hikes-to-49000-employees-tells-staff-make-sure-that-you-feel-good-about-this-company-and-you-do-not-worry-about-/articleshow/135971274.cms",
-     "source": "Times of India",
-     "sources": [
-      "CNBC",
-      "Telegraph India",
-      "The New York Times",
-      "The Times of India",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T01:56+05:30",
-     "score": 6.39,
-     "summary": "Nvidia interim CEO Colette Kress told the company’s nearly 49,000 employees to expect salary hikes and more equity in December, months ahead of schedule, at her first all-hands since Jensen Huang’s resignation, Wired reports. Pay topped the 700 questions staff submitted. The move comes as Nvidia’s board rules out reinstating Huang despite his offer to return, and as leadership works to retain talent amid investor…",
-     "image": "https://static.toiimg.com/photo/msid-135971371,imgsize-675127.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employees",
-       "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-her-first-all-hands-meeting-nvidia-interim-ceo-colette-kress-promises-salary-hikes-to-49000-employees-tells-staff-make-sure-that-you-feel-good-about-this-company-and-you-do-not-worry-about-/articleshow/135971274.cms",
-       "publishedAt": "2026-11-19T01:56+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "In her first all-hands meeting, Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employee",
-       "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNUWp1OGJGXzJtMVNfUzBKZmhJemREYXNCYlRMeGZ0TG1xNnNxZnVITC10cENYTUhZRkNob1lQUGVfQTJ6b1NzUnh2SjZBU0V0ZDZnaVVaVERJTHFBak9mSGcxbGpqaF92VXNhWE9La1NlS2JIeEphTzR6SmlIdWkxWTdYMzBNNE1neVhGWVJnSEtvb21ZdTNGWGgwcFJ3SkcwWEdLWmwxUDZhNkdpNk9ZUzFrdnFIUnpERWZFOWRSeTMxNHVSMkFsOE5LVHc3V3NjcDlodHViQ1RxWXp4ajZMR3pWTk5vd1ZsZU1jWlY5Q21VT0RVVXdhV0JmbTJDRjBGQkk1Ty1jaVotaXhyb2tmYnBtU3gzb2RDSU5rYlJycVBqQ1dsQjVnbHpKbnV5dTM3azM5eFBRTzkyamhFSDFnY0NrZzBvN2tuRmIwQlVCamIzMElqUXF0VTF3ZU9VX1dXMlRCZzctU0llcGlaRjJGY1JfTjZzV2pIaFYwUzZGSTNONXhuRWpXUmVLQdIBkANBVV95cUxNa240bFA0el85SXBQajk4dlN6aEVpWmNFNFJLcnowd3JqUi1zTDcyMGc1Sm5tcEVleFlscGwyVTBNU2FzSEw3RzgxV2JJM3B1b3kyd1pvanI4Mk16VmpXbmdJS3NpSi1naU1iQzdYSjktb0FfVHZIY2xZMUwxZVBqT0k2STdKUEtmYi16QkZyNFN0MnE2VjlxcVVhaU1BZDMxWVdnSmxaZ18zOEgtUnctcWpsVi1ma0Q1ZG9aOV9GX2NvaGVKUmtITjJhZzJldzg1SEtqODJwV3licTZpbkUtdnVIS1FDcnp4S1loQVJGVF9fRmJfemhfZ05HVVFDVmh2cVJORldqV004UkNjbHMwTVd1QTdDNDJaQTdhQzMxU3JkdXZhN1RFNUpGcUh2bWpuekh4VnY4Qm5CeXRVVENqQkFiOE5sQWI1d0drQnhjeFppUWpza21BbUxnOHBfR3FLLVFFbU1fWjVxbENiNVdCaTNjWDdyU1J3NXd6bG5XSmFlSnFlek9xQ0E4R3FyRzhn?oc=5",
-       "publishedAt": "2026-11-19T01:56+05:30"
       }
      ]
     }
