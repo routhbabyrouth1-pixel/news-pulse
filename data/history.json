@@ -1,6 +1,190 @@
 {
- "updated": "2026-11-27T23:26+05:30",
+ "updated": "2026-11-28T00:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T00:00+05:30",
+   "generatedAt": "2026-11-28T00:26+05:30",
+   "feeds": 16,
+   "headlines": 250,
+   "stories": [
+    {
+     "title": "Bhogi Box Office Collection Day 1",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaXJxcXNRN1N2MzZkSEo1SlpWdTJBSTVvQ3NVNkpidmV3VnlpVGpUVWhQRXdWUXhwRnF0VERxM011dXlHWmdUeVVYejRwdmM5N3poWGlBbElhQlJ3c3NlQkRDVmZTUXRpdkh4aGZBWVNWMUFZYW9mcV9NT3Q?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "IMDb",
+      "India Today",
+      "NDTV",
+      "Rediff.com",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hans India",
+      "The Hindu",
+      "The New Indian Express"
+     ],
+     "sourceCount": 13,
+     "publishedAt": "2026-11-27T23:07+05:30",
+     "score": 14.03,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Bhogi Box Office Collection Day 1",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaXJxcXNRN1N2MzZkSEo1SlpWdTJBSTVvQ3NVNkpidmV3VnlpVGpUVWhQRXdWUXhwRnF0VERxM011dXlHWmdUeVVYejRwdmM5N3poWGlBbElhQlJ3c3NlQkRDVmZTUXRpdkh4aGZBWVNWMUFZYW9mcV9NT3Q?oc=5",
+       "publishedAt": "2026-11-27T23:07+05:30"
+      },
+      {
+       "source": "IMDb",
+       "title": "Ramayana Box Office Collection Day 22: Registers 4th-Biggest Third Week Of All Time In India!",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwRjVjVU4zTExKSmplSldNejZGNUpBendXNkE5dEY3ejNzRmZWRlVpNDhXVE5KRC1iNVdYaXVSTGxrM21BSm1fMk5JOTNLR29SckoybGN6ZVNFeEFkZUNZVDZfa2Mxdw?oc=5",
+       "publishedAt": "2026-11-27T19:43+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing woman IAS officer",
+     "link": "https://timesofindia.indiatimes.com/city/chennai/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-woman-ias-officer/articleshow/136223753.cms",
+     "source": "Times of India",
+     "sources": [
+      "DinaMani",
+      "India Today",
+      "NDTV",
+      "Nakkheeran",
+      "Thanthi TV",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India",
+      "Times of India",
+      "Vikatan"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-27T19:24+05:30",
+     "score": 10.66,
+     "summary": "A police team led by inspector Bhuvaneshwari took him into custody from his residence after obtaining an arrest warrant from a magistrate's court in Kallakurichi.",
+     "image": "https://static.toiimg.com/photo/msid-136223768,imgsize-29558.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing woman IAS officer",
+       "link": "https://timesofindia.indiatimes.com/city/chennai/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-woman-ias-officer/articleshow/136223753.cms",
+       "publishedAt": "2026-11-27T18:40+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3lVSDRva2dnOXpxX3BranNjVnA1SHR2OVJQUFhITllET29LSzZoeFdsUVNiVTFBRE5YMGNWbUxhdEFDeVNITmJyYjF3S0JRTDFZLVprZEx6VVZzVHdTR0JmSlN0T0VIdlV1eUd6Wm1wVDhwRzlVaGVBcWhoaXRKdTFkV0RRVDZ4VDc5T3F3NGM4ckpnQUh5RVh3UFZUYXRnX3VoRk1iRjkwRkFpcVo5NElBeTYxd2JEakhna1JJb3pHd3o5UGNHZDl5U2h1VUVRd185MGFBRWlEMW45RUUzc09n0gHoAUFVX3lxTE9tZHV0TmliSjNuMzZWT3ZaNEtjTnhUaHdDS3NPMHlQaXVMQktvUGZHYmpOVkNmMnFvS2RDUVJraXJWNTdSQjc4TkUwcGtpM240dDFsTzg4dWw2UzUxQWhOdWRyLXgwVmM3ZWtUcUo5ZGd1SEh2MW9Mb2MtUzF0Y2lpSGFNYklUUl9DdHVGSzQ1XzFzY3J3OHVXY2N5QzBvN2FDbjJ0TlZ2RnFueTUxTnpNT1ZsamFnN0lTOVMzazJGa3liZ0hJNzZvNDJkb1hDeGNEMUpyc3Y3UnV3RWMzT291SmU0R3hpbW8?oc=5",
+       "publishedAt": "2026-11-27T19:24+05:30"
+      },
+      {
+       "source": "India Today",
+       "title": "TVK MLA Arul Vignesh arrested over woman IAS officer's harassment complaint",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWlBzNVhHVGpRNm1LUmNGQU5ObS1BMzBhRDEteG1EYjZKWHlzN3ZMWVd4QXozYm05TGVaY3hENjRsZG9yRGgxX0xrSVhJVEo5d0N5RzZFU1FvT1VPQWNQR1p2MWJlbzU1QWM0a0I0ektiQ1pINi02MENRT2VoSTJkNVUxMG4xcFN0cno4N1phRmxqTTdJNjBTUTFpMjFvbE5fd2YyeTQ2VzIyamF0YncyYWJCV3Z0RFBqQk45VkN3VW53clFsQUwtXzMyVHZ1YTNLdHp0aGJCWVpEbmtQSUVNbVZGQUJYTzFNa2d4dkZmcEQtMDVYaXfSAfsBQVVfeXFMT2NMNUhIUDNBemVsN2dBVzFlTHlXdm1sSGQwTGFjMTI2REdLN3hoSHBhUEwwZUxTc1B0Z3hrZG9ZaUtzYnRTZ2gzWXhNbzhZMkV2M1NDVUs3dUVLR283NHhjT0F0aUllY2NQNXBGbnpTQ0dJV29rOWF3clJuMlZjMG5lZ3cxd01taUN5Y1FyZ183cVlVbU5oa2NQYjhJb2V0bkE2ZkdjWlpyenc5U3JVRUxEclEzal9ELVgtTWg1R3FoY0xPR3R3eUVlQnMxZDJ5bEZGbjBobWVtbUEtTFYyV3dtcUtxd3c2Q3YtVnpBWjdNQ0tjVUxQSmhLeHc?oc=5",
+       "publishedAt": "2026-11-27T18:34+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bombay HC refuses to stall Tata Sons board meet amid dispute over Chandrasekaran’s reappointment",
+     "link": "https://www.hindustantimes.com/india-news/bombay-hc-refuses-to-stall-tata-sons-board-meet-amid-dispute-over-chandrasekaran-s-reappointment-noel-tata-101795787675172.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Bar and Bench",
+      "ET Retail",
+      "Hindustan Times",
+      "Rediff.com",
+      "Telegraph India",
+      "The Economic Times",
+      "The Hindu",
+      "Times of India"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-27T19:35+05:30",
+     "score": 9.69,
+     "summary": "Two Tata trusts, Sir Dorabji Tata Trust and RD Tata Trust, moved the Bombay High Court challenging N Chandrasekaran’s reappointment.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/tata_sons_1795789303257_daMW_1795789303366_UvsO_4cc6e6cf-eb77-4f9e-85ce-e9664d23dca2_shIN.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Bombay HC refuses to stall Tata Sons board meet amid dispute over Chandrasekaran’s reappointment",
+       "link": "https://www.hindustantimes.com/india-news/bombay-hc-refuses-to-stall-tata-sons-board-meet-amid-dispute-over-chandrasekaran-s-reappointment-noel-tata-101795787675172.html",
+       "publishedAt": "2026-11-27T19:35+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Tata Sons' Monday meet gets Bombay HC nod",
+       "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/bombay-hc-refuses-to-defer-tata-sons-board-meeting-scheduled-for-november-30/articleshow/136224066.cms",
+       "publishedAt": "2026-11-27T19:11+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "No interim relief for Tata Trusts as Bombay HC refuses to halt Tata Sons board meet",
+       "link": "https://timesofindia.indiatimes.com/business/india-business/no-interim-relief-for-tata-trusts-tata-sons-board-meeting-to-be-held-as-scheduled-says-hc/articleshow/136223470.cms",
+       "publishedAt": "2026-11-27T18:39+05:30"
+      },
+      {
+       "source": "Bar and Bench",
+       "title": "No relief for Tata Trusts as Bombay High Court refuses to halt Tata Sons' November 30 board meeting",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDFvMEE3NEJBVkhrdmNkbXhhU0FDOExxRm5QU0UzTHpLRXBrTDJ3cldubHppaDFQcWlyMzR1YXNaUjNLODQ4dmdTeTA4NXVESGdSdzVQMERmeFJ3bjJIZmxWV1NNZDdTRk9sUGhhM2lLV25oMjVvWWV1RXJvNE0tbFlYZWZpMzhXeEo1Z2RXLVhud3U0VGJ0RGdfMTRpaUJoU1NTZ0tvNllxLU9LaF9vQlZSejhncU9TOFlBeThEcTJ6QlZGRmUtMTF2ONIB2AFBVV95cUxNeHdjUzlzU3luZGlHcmlYY2xTWlJMc1ljXzZjV0RpTUhLY0phb2lFaFdxYjRRMDBoRlVIalFpMkE3amgtcHA0UU1aNUoyS0pzMXpJdlA5TDI1OFVsZFdzYjdqd1NzNXhEMm5OQUdUeGlZMVVRNktBdXhrOF90S0pONHpHOVhiVHNQcnlLVThlbWhKb0ZOT0IydUY1dmhEYmc0WGZ5QUstbDBQZW1ZTXVTa2lhRlJNNEdkaTV5NXNMaFFmZE92aWpubDk5NEkxRkZvclNPaUVPUjg?oc=5",
+       "publishedAt": "2026-11-27T18:44+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Russia-Ukraine War Live Updates: Zelenskyy urges US pressure on Putin, questions Trump’s ‘my friend’ remark",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbEg3TThQT1VmUENIWHJSMTZkbUYxZk9vMjdVc3I4UWVIdDJmWndERmJJQlJNTnhzaGg0T2V6VUpJNVgtVnRUMUFOVmJnOVJBajF0ak1yekFmOVVKWVdQc1U0WEtlRnVpSjh1dWhlLV9oMmc1WmZIenVuc2JmSjhmQXBka0p2LXhQWXh2b3dEclo3SUFjLTF2a3Bhd3dta2Z6a1RQcUdFMElOejJZOEM2UjM4dk8wYlpSLTJjNTFRaWVaYzZWc2V5Y3NmamcwRmJvUFk0MtIB2wFBVV95cUxPSkRPcDIydmdZZWJ3OEs3THZnSUwtWkZqaEpyWnY0TGJXTy1Ib0VOcDF5RHQxTlluQ2s5MkVZUU9OeUNuRDBMRkpjdmw3Y0Y0a3Zidkc0MzN6S3lzdGRhd21xS0dfNTVwWURiNENicnowWllCME9CRXlleDJQUHVqZGU4Uy11Y0c1ajJFOUtaeFljMmFsSEZibUdJLVItUC1NWHk0M0hXNWxlTnpaQ3dWQ3BmQm5XQnVHT3VEdEJNSW83Y2l1WnVmVE05QWNGZVBwVnR4WFo3QmpCcXc?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "BBC",
+      "Reuters",
+      "The Independent",
+      "The Indian Express",
+      "Yahoo"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T21:40+05:30",
+     "score": 7.04,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Russia-Ukraine War Live Updates: Zelenskyy urges US pressure on Putin, questions Trump’s ‘my friend’ remark",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbEg3TThQT1VmUENIWHJSMTZkbUYxZk9vMjdVc3I4UWVIdDJmWndERmJJQlJNTnhzaGg0T2V6VUpJNVgtVnRUMUFOVmJnOVJBajF0ak1yekFmOVVKWVdQc1U0WEtlRnVpSjh1dWhlLV9oMmc1WmZIenVuc2JmSjhmQXBka0p2LXhQWXh2b3dEclo3SUFjLTF2a3Bhd3dta2Z6a1RQcUdFMElOejJZOEM2UjM4dk8wYlpSLTJjNTFRaWVaYzZWc2V5Y3NmamcwRmJvUFk0MtIB2wFBVV95cUxPSkRPcDIydmdZZWJ3OEs3THZnSUwtWkZqaEpyWnY0TGJXTy1Ib0VOcDF5RHQxTlluQ2s5MkVZUU9OeUNuRDBMRkpjdmw3Y0Y0a3Zidkc0MzN6S3lzdGRhd21xS0dfNTVwWURiNENicnowWllCME9CRXlleDJQUHVqZGU4Uy11Y0c1ajJFOUtaeFljMmFsSEZibUdJLVItUC1NWHk0M0hXNWxlTnpaQ3dWQ3BmQm5XQnVHT3VEdEJNSW83Y2l1WnVmVE05QWNGZVBwVnR4WFo3QmpCcXc?oc=5",
+       "publishedAt": "2026-11-27T21:40+05:30"
+      }
+     ]
+    },
+    {
+     "title": "How To Watch FIDE World Championship 2026 Game 4",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNFRlUjZyb1FlQU8zcW1fWE5VVmlfNkJwSm9WbHFtSU05VFNIckRLemp6ZjFQZ3J5UzRad2hKd1M2ZDVXWFlwbWhIYVRyN1NTYnhtRDJId01ZVTM0SXpnQ3dOZ2dyeEM4RDR6bkdYNWVqTVJHUWJPUTQzLTRndw?oc=5",
+     "source": "Chess.com",
+     "sources": [
+      "Chess News | ChessBase",
+      "Chess.com",
+      "ChessBase India",
+      "ESPN India",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T19:14+05:30",
+     "score": 6.63,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Chess.com",
+       "title": "How To Watch FIDE World Championship 2026 Game 4",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNFRlUjZyb1FlQU8zcW1fWE5VVmlfNkJwSm9WbHFtSU05VFNIckRLemp6ZjFQZ3J5UzRad2hKd1M2ZDVXWFlwbWhIYVRyN1NTYnhtRDJId01ZVTM0SXpnQ3dOZ2dyeEM4RDR6bkdYNWVqTVJHUWJPUTQzLTRndw?oc=5",
+       "publishedAt": "2026-11-27T19:14+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T23:00+05:30",
    "generatedAt": "2026-11-27T23:26+05:30",
@@ -29203,182 +29387,6 @@
        "title": "Himachal minister stokes row with Op Sindoor remarks; BJP says remarks echo Pakistan's language",
        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS29EUDZfSzdLemFveUJ4YXhzbnVhWDA2WnZDZnFKbEsxTkRMelU4RjdsejJIc2NSTTM3eEpFendhUWtIVWVUMTRNdUZ3UG5pdDRuTW0yZnhIbkRNREllR2hyb0x6Rk5JRi1yTHZnWHd4RkxaZUV5UGZSUGZhbGlyMVZOU0tULWhsOTJWNkxOcjZucUpDQTBPV1VhMl9ZeFh3RnQxUl92UFZ2M1QyYWFiYUhQcUlVdWZ2ZHlGY1VROXRHN3pBeEhSUC1CM0FDOUwwZV9qRk1xTFBsS3ZiMVRDT1lWUVNoOTczTUg2ci1xc0RJa2M?oc=5",
        "publishedAt": "2026-11-19T19:02+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T21:00+05:30",
-   "generatedAt": "2026-11-19T21:27+05:30",
-   "feeds": 14,
-   "headlines": 294,
-   "stories": [
-    {
-     "title": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
-     "source": "Forbes",
-     "sources": [
-      "BBC",
-      "Forbes",
-      "GameSpot",
-      "Mashable",
-      "Notebookcheck",
-      "PCMag",
-      "Rockstar Games",
-      "The Guardian"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-19T21:12+05:30",
-     "score": 10.46,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Forbes",
-       "title": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
-       "publishedAt": "2026-11-19T21:12+05:30"
-      },
-      {
-       "source": "Mashable",
-       "title": "'GTA 6' on PC: What we know about the PC release",
-       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMVl1NzVTX2JPWXB4WlhNMlNaQlQtVTk1Z2JBVUtHcTc5OXJrbmNVY29yN0lfcC1GSEM5Q2c0YUl4a0FGTjVGRDVuUGtyUlVuaEV5V3M5WjRiZUpMd195ME1WY0Z6Zw?oc=5",
-       "publishedAt": "2026-11-19T19:00+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cyclone 'Akvan' LIVE updates: Odisha gears up to evacuate three lakh people to safety",
-     "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The News Minute",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T21:20+05:30",
-     "score": 8.48,
-     "summary": "The severe cyclonic storm is likely to cross north Andhra Pradesh and south Odisha coasts close to Gopalpur, by noon of November 20 with the maximum sustained wind speed of 90-100 kmph gusting to 110 kmph",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/IMD-director-general-Mrutyunjay-Mohapatra-said-Cyc_1795093020755_Qsiu.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone 'Akvan' LIVE updates: Odisha gears up to evacuate three lakh people to safety",
-       "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-       "publishedAt": "2026-11-19T21:20+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Odisha evacuates 1.05 lakh people ahead of Cyclone Akvan, deploys 295 rescue teams",
-       "link": "https://www.hindustantimes.com/india-news/odisha-evacuates-1-05-lakh-people-ahead-of-cyclone-akvan-deploys-295-rescue-teams-101795093029671.html",
-       "publishedAt": "2026-11-19T18:27+05:30"
-      }
-     ]
-    },
-    {
-     "title": "China, Russia and US agree on UN reforms",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/china-and-russia-say-they-and-us-agree-on-un-reforms-boosting-fuel-supplies-dialogue-on-nuclear/articleshow/135990514.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "The Economic Times",
-      "The Economist",
-      "The Guardian",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T18:14+05:30",
-     "score": 7.97,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "China, Russia and US agree on UN reforms",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/china-and-russia-say-they-and-us-agree-on-un-reforms-boosting-fuel-supplies-dialogue-on-nuclear/articleshow/135990514.cms",
-       "publishedAt": "2026-11-19T18:14+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Putin says US-China-Russia can strengthen global stability",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
-       "publishedAt": "2026-11-19T16:52+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "U.S., China, Russia hold historic summit in Shenzhen",
-       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQ1R1em5uRXg4U2xmMlRUbDVqVHVra1U0bUZucGgxX3dMN2JMYU5YazlFc3NMcjU3OExLUkRJbUxVSXpSTU54NFFVakxyNFotWUM3M25uck42RW1xS3JNbDI0TG1HQVlLYWNkNVF3Z3JQWTJBZEp2QWNjWEVLcFVIUVJ2R1Z6Nk92bm9nYV9PTmVEMk5QUGhuQ3NRVjZmNFl1Smh1NDgzdDRjNG1sQ0tQWHpYNDV5aWxfcGNiZXNDZ2tVQTQ5dEpGMUZSc2hQYnlKSWd6YTJxMzloN1Z5WWxtNzZrWTY1SkJ2elFDRVo0SmE0X2E0eG9aS3RkSWwyTld3U3fSAYgCQVVfeXFMT25ZOENvLTF1X012b0txbF82bmc4UjhSM1J0dXVnY1NBR09HeklkWTBwYUJ2UV9IRDByck4yVVNsUTA2S19XWi02OGFDOWNubGpzZ2tNQUFUQUlJVlpRa0s0cnJqYkx2czBUMVhnaWFTUlJlOFFJU21WZG8tTXZMZmhvN3lyaXhrZlQ3S0VPc0hJZFhlUEd6bHJRV3ZWajljY1JhS2R5d3NvSTlyTjU2V05iazBRVHBzbVUxQ1dZd3FNNlI2aHhFLVJHU21JaHdzVHdjcFh1eEdqbzZVNHZUMWZZcDFMV2NJaWZnVnFMWjk0VDBaaGxYWUdtQzlIXzIyMFE5ekNUbkJu?oc=5",
-       "publishedAt": "2026-11-19T17:52+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Bring them back': To end terror, Shah pushes to hunt down fugitives hiding abroad",
-     "link": "https://timesofindia.indiatimes.com/india/bring-them-back-to-end-terror-amit-shah-pushes-to-hunt-down-fugitives-hiding-abroad/articleshow/135995196.cms",
-     "source": "Times of India",
-     "sources": [
-      "Rising Kashmir",
-      "The New Indian Express",
-      "The Shillong Times",
-      "The Times of India",
-      "Times of India",
-      "www.pib.gov.in"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T19:50+05:30",
-     "score": 6.81,
-     "summary": "Amit Shah emphasized the need for international cooperation in the fight against terrorism and organized crime, specifically calling for the return of offenders hiding abroad. He pointed out important milestones, such as the dismantling of the Popular Front of India network. The ongoing two-day Anti-Terror Conference aims to foster intelligence sharing and strengthen investigations, ultimately enhancing inter-agency…",
-     "image": "https://static.toiimg.com/photo/msid-135995323,imgsize-42250.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Bring them back': To end terror, Shah pushes to hunt down fugitives hiding abroad",
-       "link": "https://timesofindia.indiatimes.com/india/bring-them-back-to-end-terror-amit-shah-pushes-to-hunt-down-fugitives-hiding-abroad/articleshow/135995196.cms",
-       "publishedAt": "2026-11-19T19:50+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Bring them back': To end terror, Amit Shah pushes to hunt down fugitives hiding abroad",
-       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVjRNSmJKdWpESlEzaXF3Wl9qSThZMFJXTXNzdjd4Z2l2RFp1Q00yX25wTlo3NmVQQ0JtQy1hN3poR1NZZ21yRHpTZTNaR0s2YmE3dnRSVThRR2FMSmlkaWxhRnNELWQyNF9MN1B2MjdxNWJHMl81V0NxSzNjeGsyYjFiOHNNTUNQc0lYNHNwUFE5d2pGdGpkaDJiTVhHb3kxc293T1FDbHh6QTVUc2pZRGVnV3FMajJ5eE4zSkppT0dXVGZTV29NYjczOUlmR2h5bUdKdzFtMGRMbEJ6RTNIR0ZpczV4Zw?oc=5",
-       "publishedAt": "2026-11-19T19:50+05:30"
-      }
-     ]
-    },
-    {
-     "title": "23-year-old sells AI startup for $4.5 billion",
-     "link": "https://economictimes.indiatimes.com/world/business/ai-goldrush-he-left-stanford-joined-openai-and-at-23-sold-his-18-month-old-ai-startup-for-4-5-billion-about-250-million-for-every-month-it-existed/articleshow/135994206.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "CNBC",
-      "Moneycontrol.com",
-      "Palo Alto Networks",
-      "The Economic Times",
-      "WSJ",
-      "Yahoo Finance"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T19:26+05:30",
-     "score": 6.73,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "23-year-old sells AI startup for $4.5 billion",
-       "link": "https://economictimes.indiatimes.com/world/business/ai-goldrush-he-left-stanford-joined-openai-and-at-23-sold-his-18-month-old-ai-startup-for-4-5-billion-about-250-million-for-every-month-it-existed/articleshow/135994206.cms",
-       "publishedAt": "2026-11-19T19:26+05:30"
-      },
-      {
-       "source": "Moneycontrol.com",
-       "title": "Who is Yash Patil? The 23-year-old Stanford dropout who sold his AI startup to Palo Alto Networks for $4.5...",
-       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcmtfUV80UG5WamM3NjNqVjBZYTMtMW9hSGZEUGZ4WVhkdDZqU0lSUHJzWllBcHI1MXB3WXM5MV9BVGc4Y2FXU051bWVqeE9kaXFpZDAzdW5rWF9qWmphTEpyOHlCcjZmSWI5aHF4S2hRck82bWxpSzdMaklLRUZCTkZhSDFKWGIxMERRSm1DVk41TXpaZ1I3S3E1eXpXTUtOUTY3SjJDakl5STBaM3pBb2pweTkyWF9fZDZZUU55bUFYNzY0eHBWTjNjM1lGM2JkU0tHbVROaG1YdnloZzhvMkFMUkI4QW1vVEdLdXo5X3dlbHNfQmFUb1h5S0bSAYICQVVfeXFMTnVpRXpldVBXWTdvSEdIaS0yTzB2U29ZVFdScEFSbXNiUUh4Vml5bjR4UG55Snh3X1ZPRG1wMldIaVUySHl6dmZ3X3p3WERUcHZtSmJ5OTZPLXg4eEFsOGljcFRQUnZPb2NKRWVZM3FaS0JzREYxaGhqUS1VT0lTS3FsNXF6WnUwOTJpdnVGTHMxMV9RUEN6ZkZ4VGk5LTJPUk9pOUxBYTZVdnZobmZkRmdMcV96NjR3N2tDdjVTdTVBMnZLbWVoNG1WT1N0RGJaWHhYQlgwQ29YNnMzN1Vwb2VBUVJSeC1ZbUVWY0hwVmt0R09rTHlnRGppR2EwRmNpRU9R?oc=5",
-       "publishedAt": "2026-11-19T16:27+05:30"
       }
      ]
     }
