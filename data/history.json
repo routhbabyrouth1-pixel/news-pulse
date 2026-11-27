@@ -1,6 +1,189 @@
 {
- "updated": "2026-11-27T08:25+05:30",
+ "updated": "2026-11-27T09:29+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T09:00+05:30",
+   "generatedAt": "2026-11-27T09:29+05:30",
+   "feeds": 16,
+   "headlines": 216,
+   "stories": [
+    {
+     "title": "Friday OTT releases (November 27, 2026): ‘Drishyam: The Conclusion’, ‘Hanuman Ansh’ and more",
+     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQd25uaks3UFN6NXpsVHQzZTkwd2xGSE1qRkE1T3ZxbjM5TlJUOGlfZFJfUW5ldVFqUUxKdERhRDlUOUkxbzlmNTl5VHNGMkJPZFFuajRtWkl2TExseFdUYmdkM3RPNzBWb1RSc3dvOE5UWDBvd19VX3JwMzAwWjN2VWlfdHdUYnoyQ0NOcGlrbTMtd1Ezd0h0eGZJb2dtNWpOTGkwX1lRanRzZkVjY29pYmdQQVNpX0h3MWFGTV9vWGNCVm5UcW55dkd4N3BOOGU1OEpzUU9JVW1jVkNGY1N6ZkhzYW9zNzFsaEcyRmJXUjYzUFJCVi15UHQzaGREdDl2OG5pRVZvSXktSmvSAZACQVVfeXFMTWZDckZXTG50QlFjSmE4a2ozZ3FrcWF6X3hRTFFfWElwU0NnRkJEb08yYjM0SFRsZEJJWkhpZGwyY09JcFNpQXpXMkpYbFRFM0FwNWMyS2FDMlAyeEM3WVBqZV9mVS00al80WDVWa3paZU1zUzRKWVNzbTRMVjR3RHVHY0VHNTJKQkZ5UnRkc1dFYnVSUTYwWW1XZHU5cExFWk5sTkJNeWs1U2RIcnpDUS1HYTZRcDlpY19vLU9ZdFhnWmxTQWxtWUl4azRtRHl1TEVJRGJiQ2RIOFhRNG9yemxMVXFzOE5VZ1lsR1hPaHVwT19RTDlIbktIUndmZUVDUnpWeGx0REtsSmpMV194aGg?oc=5",
+     "source": "The Times of India",
+     "sources": [
+      "Dainik Jagran MP CG",
+      "Deccan Herald",
+      "Filmfare",
+      "GQ India",
+      "Hindustan Times",
+      "India Today",
+      "Kalinga TV",
+      "News18",
+      "Odisha TV",
+      "OrissaPOST",
+      "The Economic Times",
+      "The Indian Express"
+     ],
+     "sourceCount": 16,
+     "publishedAt": "2026-11-27T06:21+05:30",
+     "score": 16.66,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Times of India",
+       "title": "Friday OTT releases (November 27, 2026): ‘Drishyam: The Conclusion’, ‘Hanuman Ansh’ and more",
+       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQd25uaks3UFN6NXpsVHQzZTkwd2xGSE1qRkE1T3ZxbjM5TlJUOGlfZFJfUW5ldVFqUUxKdERhRDlUOUkxbzlmNTl5VHNGMkJPZFFuajRtWkl2TExseFdUYmdkM3RPNzBWb1RSc3dvOE5UWDBvd19VX3JwMzAwWjN2VWlfdHdUYnoyQ0NOcGlrbTMtd1Ezd0h0eGZJb2dtNWpOTGkwX1lRanRzZkVjY29pYmdQQVNpX0h3MWFGTV9vWGNCVm5UcW55dkd4N3BOOGU1OEpzUU9JVW1jVkNGY1N6ZkhzYW9zNzFsaEcyRmJXUjYzUFJCVi15UHQzaGREdDl2OG5pRVZvSXktSmvSAZACQVVfeXFMTWZDckZXTG50QlFjSmE4a2ozZ3FrcWF6X3hRTFFfWElwU0NnRkJEb08yYjM0SFRsZEJJWkhpZGwyY09JcFNpQXpXMkpYbFRFM0FwNWMyS2FDMlAyeEM3WVBqZV9mVS00al80WDVWa3paZU1zUzRKWVNzbTRMVjR3RHVHY0VHNTJKQkZ5UnRkc1dFYnVSUTYwWW1XZHU5cExFWk5sTkJNeWs1U2RIcnpDUS1HYTZRcDlpY19vLU9ZdFhnWmxTQWxtWUl4azRtRHl1TEVJRGJiQ2RIOFhRNG9yemxMVXFzOE5VZ1lsR1hPaHVwT19RTDlIbktIUndmZUVDUnpWeGx0REtsSmpMV194aGg?oc=5",
+       "publishedAt": "2026-11-27T06:21+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 27, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlb0hZa0JtRlFTX3ltN2RZX0JQMzdXaXREX2pKMV9BTmEwbDZET0xWWHY5UzB1UzlyZTlRbTJYM2cySVhFSkJDQjluZktpblBUYnNDQUpNZnZLd1FBaXY0ZW9yWWxJYk5PQWphajlR?oc=5",
+       "publishedAt": "2026-11-27T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thanksgiving celebrations turn sour in US as storm batters East Coast; 900,000 homes without power, flights cancelled",
+     "link": "https://www.livemint.com/news/us-news/thanksgiving-celebrations-turn-sour-in-us-as-storm-batters-east-coast-900-000-homes-without-power-flights-cancelled-11795745674616.html",
+     "source": "Mint",
+     "sources": [
+      "BBC",
+      "FOX Weather",
+      "Mint",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "Yahoo"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-27T07:55+05:30",
+     "score": 10.24,
+     "summary": "A powerful Nor'easter battered the US on Thanksgiving, leaving nearly a million utility customers without electricity, disrupting flights and holiday travel, triggering coastal flood warnings and forcing the postponement of Macy's Thanksgiving Day Parade.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/US-Storm_thanksgiving_1795745897887_A2tN_1795745898068_xmDv_06c6e8a9-f2b9-4d64-b04c-6e0b85679ebd_qNNT.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Thanksgiving celebrations turn sour in US as storm batters East Coast; 900,000 homes without power, flights cancelled",
+       "link": "https://www.livemint.com/news/us-news/thanksgiving-celebrations-turn-sour-in-us-as-storm-batters-east-coast-900-000-homes-without-power-flights-cancelled-11795745674616.html",
+       "publishedAt": "2026-11-27T07:55+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "US Thanksgiving storm: Over 900,000 lose power",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/us-thanksgiving-weather-havoc-over-900000-without-electricity-400-flights-cancelled-macys-parade-postponed/articleshow/136206824.cms",
+       "publishedAt": "2026-11-27T07:35+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "US Storm Disrupts Thanksgiving, Cancels 400 Flights, Leaves 724,000 Without Power",
+       "link": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669#publisher=newsstand",
+       "publishedAt": "2026-11-27T05:28+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Thanksgiving storm batters eastern US, leaves over 900,000 without power as floods disrupt travel",
+       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWVQwTGdxNkprb1lhOWUxVlpnY0lvY2ZFTVRibzd2eUs2WXFZQWc2X1J5Rnh0YmI0TXk4N2picG1aUmk5N0JrTy1LbVZub2hCTWRIYVBjbUtQczkxeWFuRHI4RVY0RExzNmFXa0lpR2ZaMF9tU2NVLUFicUg1a0Eyclo4UTQ0dzhCM0pQSFE5MGlKa0RucENraFVPNlI2XzJ6Yk1WUk1ZYXJZby01WTRSNTlhZTQtSWpqS1B1WUpwNGYySDMwM2l6bGRhR2ZtekVRMjNTUTA5SEppdDJwY2wtc3JZSmc5U3YzT2gtSFlYTkZYQzQzVFdqck5R?oc=5",
+       "publishedAt": "2026-11-27T06:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gukesh, Sindarov Both Push For Win As Game 3 Ends In Thrilling Draw",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYWlrSVVVa2J0T182ZWUyRkRldnBwcWlrdF92d3lKX3FUQnlWc2I5d0lOVHB6NXJ4bDJ0aGx4Sk5sRUpLOXlzS0pGS0xSZXpBMVQ2RVVhZnZvUUdFWWhONUd4VXBiWU5jcUV0SE1faEpROEN5a3Vzd2d4dWdKQQ?oc=5",
+     "source": "Chess.com",
+     "sources": [
+      "Chess News | ChessBase",
+      "Chess.com",
+      "ChessBase India",
+      "ESPN India",
+      "News On AIR",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T07:12+05:30",
+     "score": 8.12,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Chess.com",
+       "title": "Gukesh, Sindarov Both Push For Win As Game 3 Ends In Thrilling Draw",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYWlrSVVVa2J0T182ZWUyRkRldnBwcWlrdF92d3lKX3FUQnlWc2I5d0lOVHB6NXJ4bDJ0aGx4Sk5sRUpLOXlzS0pGS0xSZXpBMVQ2RVVhZnZvUUdFWWhONUd4VXBiWU5jcUV0SE1faEpROEN5a3Vzd2d4dWdKQQ?oc=5",
+       "publishedAt": "2026-11-27T07:12+05:30"
+      }
+     ]
+    },
+    {
+     "title": "SAP to cut 10,000 jobs in AI restructuring",
+     "link": "https://economictimes.indiatimes.com/tech/technology/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/articleshow/136207524.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Bloomberg.com",
+      "Financial Times",
+      "Reuters",
+      "The Economic Times",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T08:14+05:30",
+     "score": 7.88,
+     "summary": "SAP SE is reportedly preparing to lay off at least 10,000 employees in a major restructuring initiative. This decision is part of the company's strategy to focus more on artificial intelligence capabilities. The impending job cuts will affect various business units including product, engineering, and sales. Leadership changes within the company also accompany these challenges and the restructuring efforts.",
+     "image": "https://static.toiimg.com/photo/msid-136207412,imgsize-40860.cms",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "SAP to cut 10,000 jobs in AI restructuring",
+       "link": "https://economictimes.indiatimes.com/tech/technology/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/articleshow/136207524.cms",
+       "publishedAt": "2026-11-27T08:14+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Europe's largest technology company SAP is planning to cut 10,000 jobs",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/europes-biggest-technology-company-sap-is-planning-to-cut-10000-jobs-as-it-prepares-for-/articleshow/136207404.cms",
+       "publishedAt": "2026-11-27T08:05+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Europe's biggest technology company SAP is planning to cut 10,000 jobs, as it prepares for ...",
+       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQN25teS1WVWQ2NEVhZ0RteENXMDVMWFVUSXRQZ1o4Rlh2LTFQSTFWbmR4WXZpV3RCdWNkbHBLbTYwSk9DbnZXLVhGRU1LSklWZURnVEFpSk4tRFFMSkZKcTVaek85VkY1bkFDRGVsLVdzeno0aTQtSlJPNHptTEZDc3l2dEFLYkJpbWxVSWFuWG1KSFVkMTlFT0dVUVZjSWpidFUtSnBLdTMzUG9MSEFyY1A1ZkZzUVRjNGZ2X0R5b3JRaU9iRTRzUjBDbUZmYm9zamVpcU5KNDVfZXBmcnlSUTdjcnpBQXYxY0RaQ3JWVXl2SHp6TV9BZGVmWUdtVi1K?oc=5",
+       "publishedAt": "2026-11-27T08:05+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Yogi = UP': Uddhav Sena MP's Praise Amid BJP's Chief Minister Face Debate",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRDIxRC03MzNicnBuai1lQWZDQnhKVEN4Q0pJZ1JiUzdPUWRGX3ZLRzZvZzZDOUtMaWMxdmtQdGZtVlVkWGExVlNCWG1yNl81Vm1scFNLWVhJdU1ETzZwc3k4NXd0a0JWWmVNQ2YwMWx4SGFZTlNQU2EzQ1B5UWtEeUVtSEhETnR5WWhuVVVnNmtXXzFFVDFOVmZ2SDJyUkdubUdwNWRBem1SS2hIVEhJNG44eGpVVkFuWDFtbmM0MlpWOTJUYjMwQ3VIMjdrZWdLZUhF?oc=5",
+     "source": "NDTV",
+     "sources": [
+      "Magzter",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T08:41+05:30",
+     "score": 7.61,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "'Yogi = UP': Uddhav Sena MP's Praise Amid BJP's Chief Minister Face Debate",
+       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRDIxRC03MzNicnBuai1lQWZDQnhKVEN4Q0pJZ1JiUzdPUWRGX3ZLRzZvZzZDOUtMaWMxdmtQdGZtVlVkWGExVlNCWG1yNl81Vm1scFNLWVhJdU1ETzZwc3k4NXd0a0JWWmVNQ2YwMWx4SGFZTlNQU2EzQ1B5UWtEeUVtSEhETnR5WWhuVVVnNmtXXzFFVDFOVmZ2SDJyUkdubUdwNWRBem1SS2hIVEhJNG44eGpVVkFuWDFtbmM0MlpWOTJUYjMwQ3VIMjdrZWdLZUhF?oc=5",
+       "publishedAt": "2026-11-27T08:41+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T08:00+05:30",
    "generatedAt": "2026-11-27T08:25+05:30",
@@ -29220,191 +29403,6 @@
        "title": "In her first all-hands meeting, Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employee",
        "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNUWp1OGJGXzJtMVNfUzBKZmhJemREYXNCYlRMeGZ0TG1xNnNxZnVITC10cENYTUhZRkNob1lQUGVfQTJ6b1NzUnh2SjZBU0V0ZDZnaVVaVERJTHFBak9mSGcxbGpqaF92VXNhWE9La1NlS2JIeEphTzR6SmlIdWkxWTdYMzBNNE1neVhGWVJnSEtvb21ZdTNGWGgwcFJ3SkcwWEdLWmwxUDZhNkdpNk9ZUzFrdnFIUnpERWZFOWRSeTMxNHVSMkFsOE5LVHc3V3NjcDlodHViQ1RxWXp4ajZMR3pWTk5vd1ZsZU1jWlY5Q21VT0RVVXdhV0JmbTJDRjBGQkk1Ty1jaVotaXhyb2tmYnBtU3gzb2RDSU5rYlJycVBqQ1dsQjVnbHpKbnV5dTM3azM5eFBRTzkyamhFSDFnY0NrZzBvN2tuRmIwQlVCamIzMElqUXF0VTF3ZU9VX1dXMlRCZzctU0llcGlaRjJGY1JfTjZzV2pIaFYwUzZGSTNONXhuRWpXUmVLQdIBkANBVV95cUxNa240bFA0el85SXBQajk4dlN6aEVpWmNFNFJLcnowd3JqUi1zTDcyMGc1Sm5tcEVleFlscGwyVTBNU2FzSEw3RzgxV2JJM3B1b3kyd1pvanI4Mk16VmpXbmdJS3NpSi1naU1iQzdYSjktb0FfVHZIY2xZMUwxZVBqT0k2STdKUEtmYi16QkZyNFN0MnE2VjlxcVVhaU1BZDMxWVdnSmxaZ18zOEgtUnctcWpsVi1ma0Q1ZG9aOV9GX2NvaGVKUmtITjJhZzJldzg1SEtqODJwV3licTZpbkUtdnVIS1FDcnp4S1loQVJGVF9fRmJfemhfZ05HVVFDVmh2cVJORldqV004UkNjbHMwTVd1QTdDNDJaQTdhQzMxU3JkdXZhN1RFNUpGcUh2bWpuekh4VnY4Qm5CeXRVVENqQkFiOE5sQWI1d0drQnhjeFppUWpza21BbUxnOHBfR3FLLVFFbU1fWjVxbENiNVdCaTNjWDdyU1J3NXd6bG5XSmFlSnFlek9xQ0E4R3FyRzhn?oc=5",
        "publishedAt": "2026-11-19T01:56+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T05:00+05:30",
-   "generatedAt": "2026-11-19T05:19+05:30",
-   "feeds": 16,
-   "headlines": 179,
-   "stories": [
-    {
-     "title": "No room for Siraj: India leave out senior pacer despite four-man attack in 1st Test",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-leave-out-mohammed-siraj-ravindra-jadeja-pick-four-man-pace-attack-for-first-new-zealand-test/articleshow/135971882.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricinfo",
-      "NDTV Sports",
-      "Rediff",
-      "Reuters",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India",
-      "Yahoo Sports",
-      "cwibc.co.id"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-19T03:37+05:30",
-     "score": 12.22,
-     "summary": "\"We are going with four seamers with Akash Deep, Anshul Kamboj, Prasidh and Bumrah with Washington as the spinning all-rounder,\" Gill said at the toss.",
-     "image": "https://static.toiimg.com/photo/msid-135971927,imgsize-94796.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "No room for Siraj: India leave out senior pacer despite four-man attack in 1st Test",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-leave-out-mohammed-siraj-ravindra-jadeja-pick-four-man-pace-attack-for-first-new-zealand-test/articleshow/135971882.cms",
-       "publishedAt": "2026-11-19T03:27+05:30"
-      },
-      {
-       "source": "Cricinfo",
-       "title": "India leave Siraj and Jadeja out of opening Test in New Zealand",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0otOVBHYkVVa1NxUHREMDNHS0xZRFBRajZHNE5TMGxJUW5RRm5MOEhqd3VRWF9aZjBObVZnY2Z2R1VwWlUtY05nZzNZdVRPc1FPZk1DOHc2ZEpveVpsOFNvVEdCWVhlSEdkck5QT3RMZ3F5UThZZUJ4bXlGU3kyTHFPU2JaUEt1bkszMGVhMDFqS2M1OW42aUZKZlBwUy1JNldTaThTWnMtX09RazVSTDBYaUVwaHp5a19oa9IBzgFBVV95cUxOeU9PeEUwZzZOWksyS2NHV1ZKc2VlSmpqREtsR1RtaHFDbHREMmQ5M2Q1VTVtV3dNendSaDJFQXpvSV92R1hLRzY3Q0lOclAzZGVPVUVtbTc4MTAybVE0MzhYNjQwZWhDSjF0dEdMMExzSU5zei1OTHdfcTcyWkx3TFJxWDZlaTdHcm9RcllBcndfZFNid21JUExEYlZVOTI0dU9OYXdzVXBhazVocmU0eHZka1JWZzFJMmxJTzN6dFVrZWVVdEc0dHhRR3p5dw?oc=5",
-       "publishedAt": "2026-11-19T03:37+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CNBC",
-      "CNN",
-      "NDTV",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-19T02:43+05:30",
-     "score": 8.7,
-     "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-19T02:43+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Democrat Hakeem Jeffries Set To Be First African-American House Speaker",
-       "link": "https://www.ndtv.com/world-news/democrat-hakeem-jeffries-set-to-be-first-african-american-house-speaker-12346248#publisher=newsstand",
-       "publishedAt": "2026-11-19T00:22+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Historic first: Democrat Hakeem Jeffries nominated to become House Speaker",
-       "link": "https://timesofindia.indiatimes.com/world/us/historic-first-democrats-nominate-hakeem-jeffries-set-to-be-first-black-us-house-speaker/articleshow/135969043.cms",
-       "publishedAt": "2026-11-18T23:25+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Historic first: Democrats nominate Hakeem Jeffries, set to be first Black US House Speaker",
-       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQ1hVZkhWV1BkSnUtRjJDYWw2Z1FPbDVnTjBScWVYVjFFc2pzNXFtaXJmVTkxM3FWQVF4UEwtNDhxcHhYekR6dEx2eVcxa1J2NmtKWnI0a1JuZ0ZxUlQ3NXpxOWNBM3dUaGZxVTJ2anZJc2xQWDIzdXI4WFg3WGNQMC1Tb2tZUEw4SkNxYjZlUUl5Y3N3Y1lKYmd2VV9KeTdLekMzbDM0Mk9Jc05SR3RYdUZza0hzWU1YckpVT3VjdldsRGxua0FwNmpXSmV2dzNSWFNMek8xMEVIRHp3OGVVRko3VGt1Q1cybjNwT1NydHY?oc=5",
-       "publishedAt": "2026-11-18T23:25+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
-     "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
-     "source": "Mint",
-     "sources": [
-      "AP News",
-      "Inc42",
-      "Mint",
-      "Push Square",
-      "The Economist",
-      "YourStory.com"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T00:46+05:30",
-     "score": 6.99,
-     "summary": "Grand Theft Auto 6 is here, ending the 13 years-long wait. From critics to fans, many have shared their take across social media. Check it out.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/217106_1795026527055_VsMc_1795026534044_yBay_d6ac50bb-3929-4c0d-aa74-88e7ea3f1510_HXyV.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
-       "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
-       "publishedAt": "2026-11-18T23:59+05:30"
-      },
-      {
-       "source": "The Economist",
-       "title": "“Grand Theft Auto VI” may mark the end of an era in gaming",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlI3cG1TZ2poQ1NkUEZiY09tcExRZzlKOGhtRDFZRHMxanZINjU3bTBEb1JhelU3N055WmxSek1kLVVxdXMtTzdMenUxVTZLcTRPNGstYkJSLU9BWHFiTlRoaHlDaUlndkZMT3Y2MFFDTms3SWxzZWg3b1RrQjV1WV9MVUwxMHdHUExETUxxN29wMjBPZjlGWHRRbFpBSWk5RExn?oc=5",
-       "publishedAt": "2026-11-19T00:46+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employees",
-     "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-her-first-all-hands-meeting-nvidia-interim-ceo-colette-kress-promises-salary-hikes-to-49000-employees-tells-staff-make-sure-that-you-feel-good-about-this-company-and-you-do-not-worry-about-/articleshow/135971274.cms",
-     "source": "Times of India",
-     "sources": [
-      "CNBC",
-      "Telegraph India",
-      "The New York Times",
-      "The Times of India",
-      "Times of India",
-      "WSJ"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T01:56+05:30",
-     "score": 6.57,
-     "summary": "Nvidia interim CEO Colette Kress told the company’s nearly 49,000 employees to expect salary hikes and more equity in December, months ahead of schedule, at her first all-hands since Jensen Huang’s resignation, Wired reports. Pay topped the 700 questions staff submitted. The move comes as Nvidia’s board rules out reinstating Huang despite his offer to return, and as leadership works to retain talent amid investor…",
-     "image": "https://static.toiimg.com/photo/msid-135971371,imgsize-675127.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employees",
-       "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-her-first-all-hands-meeting-nvidia-interim-ceo-colette-kress-promises-salary-hikes-to-49000-employees-tells-staff-make-sure-that-you-feel-good-about-this-company-and-you-do-not-worry-about-/articleshow/135971274.cms",
-       "publishedAt": "2026-11-19T01:56+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "In her first all-hands meeting, Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employee",
-       "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNUWp1OGJGXzJtMVNfUzBKZmhJemREYXNCYlRMeGZ0TG1xNnNxZnVITC10cENYTUhZRkNob1lQUGVfQTJ6b1NzUnh2SjZBU0V0ZDZnaVVaVERJTHFBak9mSGcxbGpqaF92VXNhWE9La1NlS2JIeEphTzR6SmlIdWkxWTdYMzBNNE1neVhGWVJnSEtvb21ZdTNGWGgwcFJ3SkcwWEdLWmwxUDZhNkdpNk9ZUzFrdnFIUnpERWZFOWRSeTMxNHVSMkFsOE5LVHc3V3NjcDlodHViQ1RxWXp4ajZMR3pWTk5vd1ZsZU1jWlY5Q21VT0RVVXdhV0JmbTJDRjBGQkk1Ty1jaVotaXhyb2tmYnBtU3gzb2RDSU5rYlJycVBqQ1dsQjVnbHpKbnV5dTM3azM5eFBRTzkyamhFSDFnY0NrZzBvN2tuRmIwQlVCamIzMElqUXF0VTF3ZU9VX1dXMlRCZzctU0llcGlaRjJGY1JfTjZzV2pIaFYwUzZGSTNONXhuRWpXUmVLQdIBkANBVV95cUxNa240bFA0el85SXBQajk4dlN6aEVpWmNFNFJLcnowd3JqUi1zTDcyMGc1Sm5tcEVleFlscGwyVTBNU2FzSEw3RzgxV2JJM3B1b3kyd1pvanI4Mk16VmpXbmdJS3NpSi1naU1iQzdYSjktb0FfVHZIY2xZMUwxZVBqT0k2STdKUEtmYi16QkZyNFN0MnE2VjlxcVVhaU1BZDMxWVdnSmxaZ18zOEgtUnctcWpsVi1ma0Q1ZG9aOV9GX2NvaGVKUmtITjJhZzJldzg1SEtqODJwV3licTZpbkUtdnVIS1FDcnp4S1loQVJGVF9fRmJfemhfZ05HVVFDVmh2cVJORldqV004UkNjbHMwTVd1QTdDNDJaQTdhQzMxU3JkdXZhN1RFNUpGcUh2bWpuekh4VnY4Qm5CeXRVVENqQkFiOE5sQWI1d0drQnhjeFppUWpza21BbUxnOHBfR3FLLVFFbU1fWjVxbENiNVdCaTNjWDdyU1J3NXd6bG5XSmFlSnFlek9xQ0E4R3FyRzhn?oc=5",
-       "publishedAt": "2026-11-19T01:56+05:30"
-      }
-     ]
-    },
-    {
-     "title": "US court to Delhi courts: Help serve summons to RAW ex-chief, Doval",
-     "link": "https://timesofindia.indiatimes.com/india/us-court-to-delhi-courts-help-serve-summons-to-raw-ex-chief-doval/articleshow/135971832.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "LawBeat",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T03:18+05:30",
-     "score": 6.41,
-     "summary": "The order was issued in a civil lawsuit filed by Gurpatwant Singh Pannun, founder of pro-Khalistan outfit Sikhs for Justice (SFJ).",
-     "image": "https://static.toiimg.com/photo/msid-135971900,imgsize-28622.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "US court to Delhi courts: Help serve summons to RAW ex-chief, Doval",
-       "link": "https://timesofindia.indiatimes.com/india/us-court-to-delhi-courts-help-serve-summons-to-raw-ex-chief-doval/articleshow/135971832.cms",
-       "publishedAt": "2026-11-19T03:18+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "US court to Delhi courts: Help serve summons to RAW ex-chief, Doval",
-       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTRYUF9vT1F6UDBJQVZoQUx0Y1NmWERRZEJkMXBKTzNBZDFqdHFpUmZYbG1LTWllTF9Ha3NXWUVVeUFpM2xuVk8zb2tnYV9Ib1lFVTl5bHMtMVNta2RFT3FabzlVLS1SNmoySzVFLW9DQ19tTVdsVmdSbmdxcmtydV91UTlfYm94a3JnTkdHWkZtVWJ4LVpIdVBPZms3QmJOalB5Wm9CZllqVDRMX0RVT3htQklYUHdnU3JVTk1PY29jcTJEc01TaGh1Z0N1QQ?oc=5",
-       "publishedAt": "2026-11-19T03:18+05:30"
       }
      ]
     }
