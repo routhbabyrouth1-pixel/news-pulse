@@ -1,6 +1,191 @@
 {
- "updated": "2026-11-27T15:35+05:30",
+ "updated": "2026-11-27T16:27+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T16:00+05:30",
+   "generatedAt": "2026-11-27T16:27+05:30",
+   "feeds": 16,
+   "headlines": 361,
+   "stories": [
+    {
+     "title": "Union Cabinet clears delimitation bill",
+     "link": "https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece",
+     "source": "The Hindu",
+     "sources": [
+      "ET Government",
+      "Hindustan Times",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The Times of India",
+      "Vartha Bharati",
+      "Whispers in the Corridors"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-27T16:22+05:30",
+     "score": 10.73,
+     "summary": "A similar attempt by the government was rejected in the Lok Sabha during the Monsoon session in April",
+     "image": "https://th-i.thgim.com/public/incoming/37nli3/article71241555.ece/alternates/LANDSCAPE_1200/PTI04_02_2026_000033B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Union Cabinet clears delimitation bill",
+       "link": "https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece",
+       "publishedAt": "2026-11-27T16:22+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Cabinet meeting LIVE updates: Cabinet clears bills on delimitation, women's reservation",
+       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOclBiNTVNLWp2d3FqNFdLZkg3eGJHLXNZcDc1bDdTejNMSlNMeVhoNzdUV19fN0JvcEp4bmp0ZldfTzBnenBZbGVoNXR3MWo2R3dFczFrOVZucFlUd3lRc2ROREtKdjd3ekpnZ1g5WVBnRXJSLWVyMDY3YjVxYlVqczZkYXpzd0VzNzZKUER2aWc1RWxnSloxMG9Xc2l0TF9jNk9jSXRWN1FBcm5uWVRiZXBGSk5NcUY4MGRWTjQyNGE5NEpJR0p6bFZuVXZvRW1xZ0x1Y0hNWlNiVEdkUkdSNERaNm0zZExFR3lLN0g3VEluMzk5eGJYVlNJdjM2UnJxTjR3NA?oc=5",
+       "publishedAt": "2026-11-27T14:20+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "PM Modi to hold key cabinet meet at 1 pm; tweaks to delimitation-linked women's quota Bill on agenda",
+       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYW5ZNTFjNXp6Z2tVWGFmMUNNYXB4Z1JMSGJXQmwtdllMbkhZN2pZQ1JaTmlDYVFGekF1TmUxSE9Tc2xjTzUybVlaTG9RcjhoYlJ5QUhTRUljT2NobXFPbTR6Snp6d0R1eW9KWEl5MWNsY0E2RUtYdmJkbzRVcUdic2xBdi15UE8zbjVhMmpsMmRlZnY2Wl9oZzhjTE1MMVMtS1Z3UTd2TDNrTTJmMlhnclFGZVJXeFdWOGpoNmF0OFVaNzJveldHZVRLOUdHYW9pMjFGZ21sMll4RDM1VFlUYTJYY1E3bkhUYkRMRzYySmZ4ZmlCTGdCYWh3?oc=5",
+       "publishedAt": "2026-11-27T11:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "DMK sets conditions to support Delimitation Bill",
+     "link": "https://www.thehindu.com/news/national/dmk-sets-conditions-to-support-delimitation-bill/article71749941.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Hindustan Times",
+      "Rediff.com",
+      "Telegraph India",
+      "The Hindu",
+      "The New Indian Express",
+      "The News Minute",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T16:23+05:30",
+     "score": 8.49,
+     "summary": "Tamil Nadu’s share in Lok Sabha should not be reduced and the existing proportional strength of all States as determined on the basis of the 1971 Census must remain frozen for another 25 years, are Mr. Stalin’s two demands for supporting the Delimitation bill",
+     "image": "https://th-i.thgim.com/public/incoming/7kv8vb/article71749964.ece/alternates/LANDSCAPE_1200/PTI04_18_2026_000834B.jpg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "DMK sets conditions to support Delimitation Bill",
+       "link": "https://www.thehindu.com/news/national/dmk-sets-conditions-to-support-delimitation-bill/article71749941.ece",
+       "publishedAt": "2026-11-27T16:23+05:30"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Congress’s Karti Chidambaram asks DMK to explain ‘U-turn’ if it decides to support delimitation bill",
+       "link": "https://www.hindustantimes.com/india-news/congresss-karti-chidambaram-asks-dmk-to-explain-u-turn-if-it-decides-to-support-delimitation-bill-101795771492369.html",
+       "publishedAt": "2026-11-27T14:54+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "DMK 'ready' to back BJP's Delimitation Bill if TN's representation remains unchanged",
+       "link": "https://timesofindia.indiatimes.com/city/chennai/dmk-ready-to-support-bjps-delimitation-bill-if-tamil-nadus-representation-remains-unchanged/articleshow/136212236.cms",
+       "publishedAt": "2026-11-27T12:09+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thirupparankundram row LIVE: Supreme Court orders deepam to be lit at 'deepathoon' on November 28, suspends Board of Trustees",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Frontline Magazine",
+      "Live Law",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T16:16+05:30",
+     "score": 8.47,
+     "summary": "The apex court declared that authorities 'wilfully disobeyed' court orders and issued show cause notices on contempt against the Tamil Nadu Chief Secretary, DGP, HR&CE Commissioner, Board of Trustees Chairperson and Trustees",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Thirupparankundram row LIVE: Supreme Court orders deepam to be lit at 'deepathoon' on November 28, suspends Board of Trustees",
+       "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece",
+       "publishedAt": "2026-11-27T16:16+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "SC orders Deepam to be lit on pillar; CRPF enters TN",
+       "link": "https://economictimes.indiatimes.com/news/india/thiruparankundram-deepam-row-supreme-court-warns-tamil-nadu-against-creating-constitutional-chaos-says-its-november-20-order-was-not-an-invitation-to-negotiate/articleshow/136216650.cms",
+       "publishedAt": "2026-11-27T15:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "‘If you have a counter view, make a movie’: SC declines urgent hearing for plea against screening of Ranbir Kapoor-starrer Ramayana",
+     "link": "https://www.hindustantimes.com/india-news/if-you-have-a-counter-view-make-a-movie-sc-dismisses-plea-against-screening-of-ranbir-kapoor-starrer-ramayana-101795761194280.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "AP News",
+      "Bar and Bench",
+      "Hindustan Times",
+      "Live Law",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T12:26+05:30",
+     "score": 7.63,
+     "summary": "Ramayana: Rise of a Legend, also referred to as Ramayana: Part 1, was released in theatres on November 5.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/Ramayana_part_1_1795762005531_d5zP_1795762005663_ygCi_76978a27-2f7b-470f-9958-aee124a8cf06_rAAh.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "‘If you have a counter view, make a movie’: SC declines urgent hearing for plea against screening of Ranbir Kapoor-starrer Ramayana",
+       "link": "https://www.hindustantimes.com/india-news/if-you-have-a-counter-view-make-a-movie-sc-dismisses-plea-against-screening-of-ranbir-kapoor-starrer-ramayana-101795761194280.html",
+       "publishedAt": "2026-11-27T12:26+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Don't waste court's time': SC declines urgent hearing on plea against Ranbir's Ramayana",
+       "link": "https://timesofindia.indiatimes.com/india/dont-waste-courts-time-sc-declines-urgent-hearing-on-plea-against-ranbirs-ramayana/articleshow/136211733.cms",
+       "publishedAt": "2026-11-27T11:53+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Don't waste court's time': SC declines urgent hearing on plea against Ranbir's Ramayana",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLU5wM1B6MjlZbVIxMnpsQmJlaThaOTI5eU5TWENScFVtZWpMd3Etc05uUklzY0lvZmVZcDhNRlN4SlktNDFzWjVLZHhTTUpmQmJaSDlSUTJrdk9tNC11c2pVZnVqV2VFVG9XT3lVRmlscVZ3U25LaGRsM0Q4MUNicmszRm1IQzE5LW5SaVA0R3JSUlFFMEZkVHJHeUZOTWZnbTB3T3l3ZFRFeUxyWmpyNWN1ZTgxT3dRb0d5MjIzLTRGZkVzWDQxc2VzazVnbkRwcjk4TDQ2eWlFa1ZpWmFVRE01XzI?oc=5",
+       "publishedAt": "2026-11-27T11:53+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Trinamool Rebel Ritabrata Banerjee Loses Leader Of Opposition Post In West Bengal Assembly",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVkQwWGQ0eU55VGtUejA3ZHVXa3NOTjNhcXF6NEJBRHl6MVhhVHJwQnBXVENTT25LSDludmhENHYxR1hNVmZNd09Gc0FodG9ua1pMUGtvUlVKVVVjVlEwR0xtV3VZYWtCTC10QWotZkNTTnZjYzNRaWJzSkI4ZUR6YnBzM0lMN0RJekVIQ0FDbzBDZkdCQTN3ZUk3YTBxWnlzckNDR3BreU9WV1dZRVp4R2JDTXl5VzlBd1BnMkJBVmJVa0Nu?oc=5",
+     "source": "NDTV",
+     "sources": [
+      "Bar and Bench",
+      "India Today",
+      "Live Law",
+      "NDTV",
+      "Rediff.com",
+      "tennews.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T15:31+05:30",
+     "score": 7.22,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Trinamool Rebel Ritabrata Banerjee Loses Leader Of Opposition Post In West Bengal Assembly",
+       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVkQwWGQ0eU55VGtUejA3ZHVXa3NOTjNhcXF6NEJBRHl6MVhhVHJwQnBXVENTT25LSDludmhENHYxR1hNVmZNd09Gc0FodG9ua1pMUGtvUlVKVVVjVlEwR0xtV3VZYWtCTC10QWotZkNTTnZjYzNRaWJzSkI4ZUR6YnBzM0lMN0RJekVIQ0FDbzBDZkdCQTN3ZUk3YTBxWnlzckNDR3BreU9WV1dZRVp4R2JDTXl5VzlBd1BnMkJBVmJVa0Nu?oc=5",
+       "publishedAt": "2026-11-27T15:31+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T15:00+05:30",
    "generatedAt": "2026-11-27T15:35+05:30",
@@ -29287,195 +29472,6 @@
        "title": "Cyclone Akvan: Heavy rain likely in AP, Odisha & WB",
        "link": "https://economictimes.indiatimes.com/news/new-updates/cyclone-akvan-weather-today-heavy-rain-thunderstorm-likely-in-andhra-pradesh-odisha-west-bengal-check-latest-imd-rain-forecast/articleshow/135976174.cms",
        "publishedAt": "2026-11-19T08:48+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T12:00+05:30",
-   "generatedAt": "2026-11-19T12:42+05:30",
-   "feeds": 16,
-   "headlines": 291,
-   "stories": [
-    {
-     "title": "Trump-Xi-Putin meeting: What's on the cards?",
-     "link": "https://economictimes.indiatimes.com/news/international/world-news/donald-trump-xi-jinping-putin-meeting-agenda-nuclear-arms-ending-wars-in-iran-and-ukraine-likely-on-discussion-table/articleshow/135979602.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Al Jazeera",
-      "Anadolu Ajansı",
-      "Bloomberg.com",
-      "Hindustan Times",
-      "Inshorts",
-      "NDTV",
-      "The Economic Times",
-      "The Moscow Times"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-19T12:31+05:30",
-     "score": 9.06,
-     "summary": "Shenzhen: President Donald Trump meets on Thursday with China's Xi Jinping and Russia's Vladimir Putin, a moment that could mark a pivot in world history - or become a quickly forgotten photo op.Trump, who will test his reputation as an expert dealmaker in the trilateral meeting, has promoted his time with Xi and Putin - two of America's leading rivals - as a chance to hash out rules for controlling nuclear arms and…",
-     "image": "https://c.ndtvimg.com/2026-11/l3jq0ceo_donald-trump-xi-jinping-vladimir-putin_625x300_19_November_26.jpeg",
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Trump-Xi-Putin meeting: What's on the cards?",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/donald-trump-xi-jinping-putin-meeting-agenda-nuclear-arms-ending-wars-in-iran-and-ukraine-likely-on-discussion-table/articleshow/135979602.cms",
-       "publishedAt": "2026-11-19T11:48+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
-       "link": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
-       "publishedAt": "2026-11-19T11:37+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Trump, Putin, Xi's Historic Meet In China Today. What's On Agenda?",
-       "link": "https://www.ndtv.com/world-news/trump-putin-xi-trilateral-meet-in-china-today-whats-on-agenda-12346996#publisher=newsstand",
-       "publishedAt": "2026-11-19T08:53+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Apec Summit LIVE: ‘Wonderful things can start from this’, says Trump as bilateral meet with Putin begins",
-       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQUgzdzFsTXhNTXhuWjZoZTlvRHdhZDZmZkhybWN4dDFIblhOVms5d0t1ZlhfWnZ2cVNBY1RENUZrdzY4OXlnSUlVMkFkZU1SVG9uUk1KMG5KVlVtM3hiM1AySW9ZaDF2TVdKcWNOMWVmSVljUTNKb2dJVDVmb2lLRjZNX25VLVdhMllfWHhKNllaSUZGdnAteUJCdHVnTjJxTzI3ZlVrMndCd1FIOFNlNmtGREVDTGExckZhaE1IekczZkFXdkl5N2wzSnlTbnVFVFl3djdJc20zX1p0cmNUTmFSV0NSYlNtbFZST0lsTjNDRGFuV3gxX2NTUENzdXFfRHZDZzZjZ1dfbDQ?oc=5",
-       "publishedAt": "2026-11-19T12:31+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trump, Putin and Xi to hold historic trilateral meeting in China: What's on the agenda and why it matters",
-     "link": "https://www.livemint.com/news/world/trump-putin-and-xi-to-hold-historic-trilateral-meeting-in-china-whats-on-the-agenda-and-why-it-matters-11795065774997.html",
-     "source": "Mint",
-     "sources": [
-      "Al Jazeera",
-      "Mint",
-      "NDTV",
-      "The Guardian",
-      "The Hindu",
-      "ThePrint"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T11:04+05:30",
-     "score": 8.23,
-     "summary": "US President Donald Trump met Russian President Vladimir Putin in China ahead of talks with Xi Jinping. The proposed trilateral meeting is expected to cover nuclear disarmament, Iran, global trade and the Russia-Ukraine war.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Trump_Xi_Putin_1795065988382_rYb7_1795065993971_VjOT_92418a1b-ee48-403a-8328-0e03887c00b3_aexI.png",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Trump, Putin and Xi to hold historic trilateral meeting in China: What's on the agenda and why it matters",
-       "link": "https://www.livemint.com/news/world/trump-putin-and-xi-to-hold-historic-trilateral-meeting-in-china-whats-on-the-agenda-and-why-it-matters-11795065774997.html",
-       "publishedAt": "2026-11-19T11:04+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Xi, Trump, Putin exchange greetings before historic China summit",
-       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ0FkWVJPbm1MRHBCUWFlb1JZTS16eFZhWExCRTlKTlhuZG91NXFQcVc1OEpkM1N6bkxES3d0R0VCdzhIR0VBTkk4cTVEODRaWmVaUzF3WXJWUkstRUJ5LVB2QzBrZFdCTGthQVdORmdERm1SMWFsZHRTd0dSYjRQRHM5WTdFWjEtZ3lVd3BNck56SGZCanQ3aF9jLVVKR3RBSWhRUFhmd2pDX1o4bV9EdllfRWljR3R0aE5CNHFpckhxNjdf0gHLAUFVX3lxTE1XQzhWNUFXSDR3LVFCeUhzbDhFOTRXajNGeHp6dGtXTVdXVXdaUGRieThMT255QV9pUzBSR08tbEtNZk56RUYzSjRzVGZGb3I4QlV3RERTNDltb3pzZWl4aTlOa0NSZTFHTmg3MnJjTVRMVkJab3ZfTldSMm1menV1RmN6YnhwcGdkS3VNVEF2SUlqcXZaOXpqX1dEc1R0d2g2N05heHhUbTNjWGtRMWN0ckUwNXE1SDFpdVVmRWl1c1pTdkQtSnV1aS00?oc=5",
-       "publishedAt": "2026-11-19T06:47+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Pretty Women From China Are Considered Spies': Trump On Jensen Huang Scandal",
-     "link": "https://www.ndtv.com/world-news/donald-trump-on-jensen-huang-alice-huang-affair-scandal-nvidia-pretty-women-from-china-are-considered-spies-12346974#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Firstpost",
-      "NDTV",
-      "Reuters",
-      "The Guardian",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-19T10:34+05:30",
-     "score": 7.79,
-     "summary": "Jensen Huang, a Trump ally, resigned last week as the CEO of Nvidia after confessing to an extramarital affair with an alleged Chinese spy, Alice Huang.",
-     "image": "https://c.ndtvimg.com/2026-11/7jmbh5i4_trump-jensen-alice_625x300_19_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "'Pretty Women From China Are Considered Spies': Trump On Jensen Huang Scandal",
-       "link": "https://www.ndtv.com/world-news/donald-trump-on-jensen-huang-alice-huang-affair-scandal-nvidia-pretty-women-from-china-are-considered-spies-12346974#publisher=newsstand",
-       "publishedAt": "2026-11-19T09:02+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "‘Any pretty woman from China is considered spy’: Trump discussed Huang affair with Xi",
-       "link": "https://timesofindia.indiatimes.com/world/us/i-havent-heard-she-was-a-spy-trump-says-jensen-huang-affair-came-up-briefly-in-xi-talks/articleshow/135975327.cms",
-       "publishedAt": "2026-11-19T07:34+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "‘Any pretty woman from China is considered spy’: Trump discussed Huang affair with Xi",
-       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLVRKV2swRVdLN0N5cTRWVXhGSG81Zl95RXBDVHJYSEdyaGZCeVpWX0J2Rlowcm9pY3NnQ1VzRWx6N1RZOF81RHdmd2dhcWtMQXhyM0VpX1BPZWhHVWppMmJQelZ0NnpIWDB4RURpci1jZC13ZmNnSThSbkctdzNHLW1UR1ZlVmh4UGNEaEpjN1NQTElDYkt5OXdUNUVUWU84aHdQNEFNNEJVQ1NUSjFsOXc2UWdTdnMzRlM1b21oeW1fMUJwaFM0ZG03dHhKU0Y5TGRiUGZxaU1jcE5XRC12MUNsenY3REhpTGNlZmluUQ?oc=5",
-       "publishedAt": "2026-11-19T10:34+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Rahul: Oppn won't boycott polls, expose flaws",
-     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-says-oppn-wont-boycott-polls-vows-to-expose-electoral-irregularities-until-system-collapses/articleshow/135976066.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "Deccan Chronicle",
-      "India Today",
-      "Rediff",
-      "The Economic Times",
-      "The Hindu",
-      "The New Indian Express",
-      "TheWire.in"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-19T09:51+05:30",
-     "score": 7.71,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Rahul: Oppn won't boycott polls, expose flaws",
-       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-says-oppn-wont-boycott-polls-vows-to-expose-electoral-irregularities-until-system-collapses/articleshow/135976066.cms",
-       "publishedAt": "2026-11-19T08:40+05:30"
-      },
-      {
-       "source": "India Today",
-       "title": "We end democracy that minute: Rahul Gandhi answers why Congress won't boycott polls",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOHNyZ2pDLThncllpVG40VjNNV0MtaWxNZzJUUGsyRTVXMFVHX2V6Vy15bnB3aTdmek9DeU5wbFpFS19WOEw2d25Xci1haDE0OFFhRHdHRi1jSWpOQXBORk5iNVl6aHRIMjBUZnZZMEhVRElOQ1hQV1otbzlOTUtCR2gwRkV6aDE1ZU5JTnMyZzh4NXZDSVQ5bDdnLWJqOGJQQzc3ZEF1WXl4ZXE3YVNDN1dIYUZfaVoxU2F6VFl1Q2pGSHZfaHUw0gHMAUFVX3lxTE9TeFhqdnFGd25wR2xDNlFubk5NR1lEaWppRVdUWExYQ3cycmN0VmpYVVR5a3h5YV9RNmYtTVRabGJpTHV1RDVTdWc3UnJELWsyczRGM1ExQVRkRkNELUdUSFZ1cnoyN2l0ckloeTVzNHFIN0xhaXZIajFfS2dLUEdWREE5NXM1bkhFejdoN0taQmtrbHhRM3VKTUFXOVphUzVUdEVZU1M0ZGlUdVZVZ0ZnWlgxcGtudWtHQVUxdlY4bU9UTTlleVoyMlFKdA?oc=5",
-       "publishedAt": "2026-11-19T09:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trump wants to talk nuclear with Putin and Xi",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "NDTV",
-      "The Guardian",
-      "The Hindu",
-      "ThePrint"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T12:13+05:30",
-     "score": 7.42,
-     "summary": "US President Donald Trump says he plans to raise nuclear non-proliferation with China’s Xi and Russia’s Putin.",
-     "image": null,
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Trump wants to talk nuclear with Putin and Xi",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
-       "publishedAt": "2026-11-19T10:20+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Xi-Trump-Putin trilateral meeting LIVE: Trump says U.S. opposes 'globalist regulation' of AI ahead of talk with Xi Jinping",
-       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTER4cFc2cEpRbmd1aWp0X1pkR3oxTEFUdHNKRnRSTDU2QXdTd21yOElQbWp1dzBqTVRLUUE5NS1DSXQydmEzOHlLdGtjczNYTTQyY2J0MjNQY0xPcG1LNzF2N0xSa01jV3BpX21FRzFZaXd4c2VnaUQxaGhMNHplUUlFYkRqTmcyTlR1dHhlb1Qwem54QmNZVFlxeGdhSmU1Z1k1TUE2dkZsTlFTYnVGUFN0NDZhZVhlSWt4LUZlQnFsQ2M2RTJlYnlaVnFsTWVIMU9nM0JMNjV3YjRTMW1zb203aEswWFoyTEJwTkNFWUE0ODYyVmfSAfwBQVVfeXFMUFZ6UGs2aVNoOFdsZldlR2hUcFFUbm84d2RLYzFtejZjTHVQQlBvX2RYVkwyNkhSTzFUZE5BU09ramhCZUVvZTFtVkIzenQ1MHBaWVFHc1hrd3pWYnZ0dlhLRXdEbWJXNUFIRHZfa2RCX3ZnLUlZc1NTTzlSamV3OTNZLVRnRXladEE2RTVYaW5PRVh0OXhlc3VNVjBvRzhXX1BIUnp4bkQ3WWdCNWpzZDhzNWptUFBmeXNubGJBRkVHNTkxb3pKSVhKczZyakFkcTMtRGZyWjRGQlBGR19RbFYycTVraU00TXJ2aVY0MWY0cnZyQVJpMFNENWsx?oc=5",
-       "publishedAt": "2026-11-19T12:13+05:30"
       }
      ]
     }
