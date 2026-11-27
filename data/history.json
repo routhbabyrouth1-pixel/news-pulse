@@ -1,6 +1,174 @@
 {
- "updated": "2026-11-27T10:35+05:30",
+ "updated": "2026-11-27T11:35+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T11:00+05:30",
+   "generatedAt": "2026-11-27T11:35+05:30",
+   "feeds": 16,
+   "headlines": 262,
+   "stories": [
+    {
+     "title": "APOD: 2026 November 27 – The Moon Watchers",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN056cUpPd090WUlCSHQ3bGk1bWpiZW0wZjNZSVYycWFVZ3Q4QzVvdXNIOEwycDFySnhSVzBPaUJNVTFwX1R0aWNnWENqcDFqaS1EdGtTR0pZZ0dGNHRSdU44Z1BwWWZ1RGthd0JMZHJvRXZTRUhURXBycUdCakdEZlcxLU1zQQ?oc=5",
+     "source": "NASA Science (.gov)",
+     "sources": [
+      "China Daily",
+      "Dainik Jagran MP CG",
+      "Deccan Herald",
+      "ETV Bharat",
+      "Hindustan Times",
+      "India Today",
+      "NASA Science (.gov)",
+      "News18",
+      "Odisha TV",
+      "OrissaPOST",
+      "Space",
+      "The Economic Times"
+     ],
+     "sourceCount": 16,
+     "publishedAt": "2026-11-27T10:35+05:30",
+     "score": 16.98,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NASA Science (.gov)",
+       "title": "APOD: 2026 November 27 – The Moon Watchers",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN056cUpPd090WUlCSHQ3bGk1bWpiZW0wZjNZSVYycWFVZ3Q4QzVvdXNIOEwycDFySnhSVzBPaUJNVTFwX1R0aWNnWENqcDFqaS1EdGtTR0pZZ0dGNHRSdU44Z1BwWWZ1RGthd0JMZHJvRXZTRUhURXBycUdCakdEZlcxLU1zQQ?oc=5",
+       "publishedAt": "2026-11-27T10:35+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 27, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlb0hZa0JtRlFTX3ltN2RZX0JQMzdXaXREX2pKMV9BTmEwbDZET0xWWHY5UzB1UzlyZTlRbTJYM2cySVhFSkJDQjluZktpblBUYnNDQUpNZnZLd1FBaXY0ZW9yWWxJYk5PQWphajlR?oc=5",
+       "publishedAt": "2026-11-27T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thanksgiving celebrations turn sour in US as storm batters East Coast; 900,000 homes without power, flights cancelled",
+     "link": "https://www.livemint.com/news/us-news/thanksgiving-celebrations-turn-sour-in-us-as-storm-batters-east-coast-900-000-homes-without-power-flights-cancelled-11795745674616.html",
+     "source": "Mint",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "FOX Weather",
+      "Mint",
+      "The Economic Times",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T07:55+05:30",
+     "score": 8.89,
+     "summary": "A powerful Nor'easter battered the US on Thanksgiving, leaving nearly a million utility customers without electricity, disrupting flights and holiday travel, triggering coastal flood warnings and forcing the postponement of Macy's Thanksgiving Day Parade.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/US-Storm_thanksgiving_1795745897887_A2tN_1795745898068_xmDv_06c6e8a9-f2b9-4d64-b04c-6e0b85679ebd_qNNT.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Thanksgiving celebrations turn sour in US as storm batters East Coast; 900,000 homes without power, flights cancelled",
+       "link": "https://www.livemint.com/news/us-news/thanksgiving-celebrations-turn-sour-in-us-as-storm-batters-east-coast-900-000-homes-without-power-flights-cancelled-11795745674616.html",
+       "publishedAt": "2026-11-27T07:55+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "US Thanksgiving storm: Over 900,000 lose power",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/us-thanksgiving-weather-havoc-over-900000-without-electricity-400-flights-cancelled-macys-parade-postponed/articleshow/136206824.cms",
+       "publishedAt": "2026-11-27T07:35+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Thanksgiving storm batters eastern US, leaves over 900,000 without power as floods disrupt travel",
+       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWVQwTGdxNkprb1lhOWUxVlpnY0lvY2ZFTVRibzd2eUs2WXFZQWc2X1J5Rnh0YmI0TXk4N2picG1aUmk5N0JrTy1LbVZub2hCTWRIYVBjbUtQczkxeWFuRHI4RVY0RExzNmFXa0lpR2ZaMF9tU2NVLUFicUg1a0Eyclo4UTQ0dzhCM0pQSFE5MGlKa0RucENraFVPNlI2XzJ6Yk1WUk1ZYXJZby01WTRSNTlhZTQtSWpqS1B1WUpwNGYySDMwM2l6bGRhR2ZtekVRMjNTUTA5SEppdDJwY2wtc3JZSmc5U3YzT2gtSFlYTkZYQzQzVFdqck5R?oc=5",
+       "publishedAt": "2026-11-27T06:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "On what legal basis has government blocked a Pakistani series on Netflix? | Explained",
+     "link": "https://www.thehindu.com/news/national/on-what-legal-basis-has-government-blocked-a-pakistani-series-on-netflix-explained/article71749245.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Deccan Chronicle",
+      "NDTV",
+      "Scroll.in",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T11:10+05:30",
+     "score": 8.43,
+     "summary": "Jo Bachay Hain Sang Samait Lo has drawn a warning from the government that Pakistani-origin content cannot be shown on Indian streaming platforms.",
+     "image": "https://th-i.thgim.com/public/incoming/jck5db/article71749248.ece/alternates/LANDSCAPE_1200/2026-10-20T195323Z_1416703275_RC27C6A64HLE_RTRMADP_3_NETFLIX-RESULTS.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "On what legal basis has government blocked a Pakistani series on Netflix? | Explained",
+       "link": "https://www.thehindu.com/news/national/on-what-legal-basis-has-government-blocked-a-pakistani-series-on-netflix-explained/article71749245.ece",
+       "publishedAt": "2026-11-27T11:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Rs 11-Lakh Chandelier, 2-Lakh Recliner: Inside Arvind Kejriwal's \"Sheesh Mahal\"",
+     "link": "https://www.ndtv.com/india-news/arvind-kejriwals-sheesh-mahal-media-tour-begins-rs-11-lakh-chandelier-2-lakh-recliner-seen-12383158#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "ANI News",
+      "Inshorts",
+      "NDTV",
+      "The Times of India",
+      "The Tribune",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T10:17+05:30",
+     "score": 7.53,
+     "summary": "Delhi Minister Parvesh Verma told NDTV that former chief minister Arvind Kejriwal spent Rs 56 crore on the government bungalow, dubbed 'Sheesh Mahal' by the BJP.",
+     "image": "https://c.ndtvimg.com/2026-11/l8ejrtg8_sheesh-mahal_625x300_27_November_26.jpeg",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Rs 11-Lakh Chandelier, 2-Lakh Recliner: Inside Arvind Kejriwal's \"Sheesh Mahal\"",
+       "link": "https://www.ndtv.com/india-news/arvind-kejriwals-sheesh-mahal-media-tour-begins-rs-11-lakh-chandelier-2-lakh-recliner-seen-12383158#publisher=newsstand",
+       "publishedAt": "2026-11-27T10:17+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Rs 11L chandelier, Rs 5.5L sofa': Delhi govt opens doors of 'Kejriwal's Sheesh Mahal'",
+       "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-govt-opens-arvind-kejriwals-sheesh-mahal-to-media-plans-public-tours-with-rs-20-entry-fee/articleshow/136208848.cms",
+       "publishedAt": "2026-11-27T09:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens 300 Points Lower Amid Mixed Global Cues",
+     "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-27-november-us-iran-war-oil-price-12382856#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BusinessLine",
+      "Investing.com India",
+      "NDTV",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T11:33+05:30",
+     "score": 7.49,
+     "summary": "Stock Market, Sensex, Share Market, Nifty LIVE Updates: Brent Near $97 After Middle East Attacks, But 20% Monthly Slump Tells Another Story.",
+     "image": "https://c.ndtvimg.com/2026-11/an234fmk_stock-markets_625x300_15_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens 300 Points Lower Amid Mixed Global Cues",
+       "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-27-november-us-iran-war-oil-price-12382856#publisher=newsstand",
+       "publishedAt": "2026-11-27T09:16+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T10:00+05:30",
    "generatedAt": "2026-11-27T10:35+05:30",
@@ -29282,146 +29450,6 @@
        "title": "Xi-Trump-Putin trilateral meeting LIVE: Leaders meet with nuclear arms and two wars on table",
        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTER4cFc2cEpRbmd1aWp0X1pkR3oxTEFUdHNKRnRSTDU2QXdTd21yOElQbWp1dzBqTVRLUUE5NS1DSXQydmEzOHlLdGtjczNYTTQyY2J0MjNQY0xPcG1LNzF2N0xSa01jV3BpX21FRzFZaXd4c2VnaUQxaGhMNHplUUlFYkRqTmcyTlR1dHhlb1Qwem54QmNZVFlxeGdhSmU1Z1k1TUE2dkZsTlFTYnVGUFN0NDZhZVhlSWt4LUZlQnFsQ2M2RTJlYnlaVnFsTWVIMU9nM0JMNjV3YjRTMW1zb203aEswWFoyTEJwTkNFWUE0ODYyVmfSAfwBQVVfeXFMUFZ6UGs2aVNoOFdsZldlR2hUcFFUbm84d2RLYzFtejZjTHVQQlBvX2RYVkwyNkhSTzFUZE5BU09ramhCZUVvZTFtVkIzenQ1MHBaWVFHc1hrd3pWYnZ0dlhLRXdEbWJXNUFIRHZfa2RCX3ZnLUlZc1NTTzlSamV3OTNZLVRnRXladEE2RTVYaW5PRVh0OXhlc3VNVjBvRzhXX1BIUnp4bkQ3WWdCNWpzZDhzNWptUFBmeXNubGJBRkVHNTkxb3pKSVhKczZyakFkcTMtRGZyWjRGQlBGR19RbFYycTVraU00TXJ2aVY0MWY0cnZyQVJpMFNENWsx?oc=5",
        "publishedAt": "2026-11-19T07:54+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T07:00+05:30",
-   "generatedAt": "2026-11-19T07:46+05:30",
-   "feeds": 16,
-   "headlines": 169,
-   "stories": [
-    {
-     "title": "Anthropic raises $81.3bn in biggest IPO of all-time",
-     "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "Bloomberg.com",
-      "CNBC",
-      "Inc.com",
-      "Investing.com India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T05:55+05:30",
-     "score": 8.19,
-     "summary": "AI giant prices shares at $83 in blockbuster market debut.",
-     "image": null,
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Anthropic raises $81.3bn in biggest IPO of all-time",
-       "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
-       "publishedAt": "2026-11-19T05:50+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Grand Theft Auto 6 to get UK release after 13-year wait for gamers around the world",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
-     "source": "BBC",
-     "sources": [
-      "BBC",
-      "CNN",
-      "NDTV",
-      "The Guardian",
-      "The Washington Post"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T04:47+05:30",
-     "score": 7.0,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "BBC",
-       "title": "Grand Theft Auto 6 to get UK release after 13-year wait for gamers around the world",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
-       "publishedAt": "2026-11-19T04:47+05:30"
-      }
-     ]
-    },
-    {
-     "title": "No room for Siraj: India leave out senior pacer despite four-man attack in 1st Test",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-leave-out-mohammed-siraj-ravindra-jadeja-pick-four-man-pace-attack-for-first-new-zealand-test/articleshow/135971882.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricinfo",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T03:37+05:30",
-     "score": 6.81,
-     "summary": "\"We are going with four seamers with Akash Deep, Anshul Kamboj, Prasidh and Bumrah with Washington as the spinning all-rounder,\" Gill said at the toss.",
-     "image": "https://static.toiimg.com/photo/msid-135971927,imgsize-94796.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "No room for Siraj: India leave out senior pacer despite four-man attack in 1st Test",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-leave-out-mohammed-siraj-ravindra-jadeja-pick-four-man-pace-attack-for-first-new-zealand-test/articleshow/135971882.cms",
-       "publishedAt": "2026-11-19T03:27+05:30"
-      },
-      {
-       "source": "Cricinfo",
-       "title": "India leave Siraj and Jadeja out of opening Test in New Zealand",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0otOVBHYkVVa1NxUHREMDNHS0xZRFBRajZHNE5TMGxJUW5RRm5MOEhqd3VRWF9aZjBObVZnY2Z2R1VwWlUtY05nZzNZdVRPc1FPZk1DOHc2ZEpveVpsOFNvVEdCWVhlSEdkck5QT3RMZ3F5UThZZUJ4bXlGU3kyTHFPU2JaUEt1bkszMGVhMDFqS2M1OW42aUZKZlBwUy1JNldTaThTWnMtX09RazVSTDBYaUVwaHp5a19oa9IBzgFBVV95cUxOeU9PeEUwZzZOWksyS2NHV1ZKc2VlSmpqREtsR1RtaHFDbHREMmQ5M2Q1VTVtV3dNendSaDJFQXpvSV92R1hLRzY3Q0lOclAzZGVPVUVtbTc4MTAybVE0MzhYNjQwZWhDSjF0dEdMMExzSU5zei1OTHdfcTcyWkx3TFJxWDZlaTdHcm9RcllBcndfZFNid21JUExEYlZVOTI0dU9OYXdzVXBhazVocmU0eHZka1JWZzFJMmxJTzN6dFVrZWVVdEc0dHhRR3p5dw?oc=5",
-       "publishedAt": "2026-11-19T03:37+05:30"
-      }
-     ]
-    },
-    {
-     "title": "BJP turns to Mathura temple issue amid cadre unease, allies’ pressure",
-     "link": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-turns-to-mathura-temple-issue-amid-cadre-unease-allies-pressure/article71717504.ece",
-     "source": "The Hindu",
-     "sources": [
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The New Indian Express",
-      "Whispers in the Corridors"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T06:18+05:30",
-     "score": 6.26,
-     "summary": "Political observers say the renewed focus on Krishna Janmabhoomi serves as a “smokescreen” to mask simmering discontent among the party cadre over the UGC’s equity rules, SIR drive and seat sharing with alliance partners",
-     "image": "https://th-i.thgim.com/public/incoming/rtkxr7/article71717707.ece/alternates/LANDSCAPE_1200/PTI11_17_2026_000277B.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "BJP turns to Mathura temple issue amid cadre unease, allies’ pressure",
-       "link": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-turns-to-mathura-temple-issue-amid-cadre-unease-allies-pressure/article71717504.ece",
-       "publishedAt": "2026-11-19T06:18+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Siraj Has Never Let India Down'",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlZxMmJQUk8zbDQ2ZzZKbUFGNnpjT0hHTFpRLVFsMHkteHl6Ylpna0dQT1hlTE9BZ0FnZEdNZGJydm5FZ3FyUXlkeWtUMjM0bWdNYWFvNG5SR25tbEtDVVNaUmdoN0VBOUktX1U2MkR2a1NpT3oxcHZ3c25tZkg5OXUzN2k0Q2lw0gGLAUFVX3lxTE9VN3dYWUxFd3U4VGk1aEp5ZXR5ZFFpM3FMZnR1WFVtWFdYUHBnRTUxdVQ3akVKY3VqRFpvX3RTTnR4N1FvelVqTWRUaXk0blMybjJzc3hOeFFpZE1naW03RmZEbXFUVW5adkhBRDZTdFNYQ25VWGd3MENOUjgwTlUzeGk0LVBDRUpBcXM?oc=5",
-     "source": "Rediff",
-     "sources": [
-      "India Today",
-      "NDTV Sports",
-      "Rediff",
-      "SportsAdda",
-      "The Indian Express"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T06:26+05:30",
-     "score": 5.99,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Rediff",
-       "title": "'Siraj Has Never Let India Down'",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlZxMmJQUk8zbDQ2ZzZKbUFGNnpjT0hHTFpRLVFsMHkteHl6Ylpna0dQT1hlTE9BZ0FnZEdNZGJydm5FZ3FyUXlkeWtUMjM0bWdNYWFvNG5SR25tbEtDVVNaUmdoN0VBOUktX1U2MkR2a1NpT3oxcHZ3c25tZkg5OXUzN2k0Q2lw0gGLAUFVX3lxTE9VN3dYWUxFd3U4VGk1aEp5ZXR5ZFFpM3FMZnR1WFVtWFdYUHBnRTUxdVQ3akVKY3VqRFpvX3RTTnR4N1FvelVqTWRUaXk0blMybjJzc3hOeFFpZE1naW03RmZEbXFUVW5adkhBRDZTdFNYQ25VWGd3MENOUjgwTlUzeGk0LVBDRUpBcXM?oc=5",
-       "publishedAt": "2026-11-19T06:26+05:30"
       }
      ]
     }
