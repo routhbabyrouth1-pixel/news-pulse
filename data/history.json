@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-27T06:45+05:30",
+ "updated": "2026-11-27T08:25+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T08:00+05:30",
+   "generatedAt": "2026-11-27T08:25+05:30",
+   "feeds": 17,
+   "headlines": 217,
+   "stories": [
+    {
+     "title": "Friday OTT releases (November 27, 2026): ‘Drishyam: The Conclusion’, ‘Hanuman Ansh’ and more",
+     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQd25uaks3UFN6NXpsVHQzZTkwd2xGSE1qRkE1T3ZxbjM5TlJUOGlfZFJfUW5ldVFqUUxKdERhRDlUOUkxbzlmNTl5VHNGMkJPZFFuajRtWkl2TExseFdUYmdkM3RPNzBWb1RSc3dvOE5UWDBvd19VX3JwMzAwWjN2VWlfdHdUYnoyQ0NOcGlrbTMtd1Ezd0h0eGZJb2dtNWpOTGkwX1lRanRzZkVjY29pYmdQQVNpX0h3MWFGTV9vWGNCVm5UcW55dkd4N3BOOGU1OEpzUU9JVW1jVkNGY1N6ZkhzYW9zNzFsaEcyRmJXUjYzUFJCVi15UHQzaGREdDl2OG5pRVZvSXktSmvSAZACQVVfeXFMTWZDckZXTG50QlFjSmE4a2ozZ3FrcWF6X3hRTFFfWElwU0NnRkJEb08yYjM0SFRsZEJJWkhpZGwyY09JcFNpQXpXMkpYbFRFM0FwNWMyS2FDMlAyeEM3WVBqZV9mVS00al80WDVWa3paZU1zUzRKWVNzbTRMVjR3RHVHY0VHNTJKQkZ5UnRkc1dFYnVSUTYwWW1XZHU5cExFWk5sTkJNeWs1U2RIcnpDUS1HYTZRcDlpY19vLU9ZdFhnWmxTQWxtWUl4azRtRHl1TEVJRGJiQ2RIOFhRNG9yemxMVXFzOE5VZ1lsR1hPaHVwT19RTDlIbktIUndmZUVDUnpWeGx0REtsSmpMV194aGg?oc=5",
+     "source": "The Times of India",
+     "sources": [
+      "Deccan Herald",
+      "Filmfare",
+      "GQ India",
+      "Hindustan Times",
+      "IMDb",
+      "India Today",
+      "News18",
+      "Odisha TV",
+      "The Economic Times",
+      "The Indian Express",
+      "The Times of India",
+      "Vogue India"
+     ],
+     "sourceCount": 13,
+     "publishedAt": "2026-11-27T06:21+05:30",
+     "score": 13.87,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Times of India",
+       "title": "Friday OTT releases (November 27, 2026): ‘Drishyam: The Conclusion’, ‘Hanuman Ansh’ and more",
+       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQd25uaks3UFN6NXpsVHQzZTkwd2xGSE1qRkE1T3ZxbjM5TlJUOGlfZFJfUW5ldVFqUUxKdERhRDlUOUkxbzlmNTl5VHNGMkJPZFFuajRtWkl2TExseFdUYmdkM3RPNzBWb1RSc3dvOE5UWDBvd19VX3JwMzAwWjN2VWlfdHdUYnoyQ0NOcGlrbTMtd1Ezd0h0eGZJb2dtNWpOTGkwX1lRanRzZkVjY29pYmdQQVNpX0h3MWFGTV9vWGNCVm5UcW55dkd4N3BOOGU1OEpzUU9JVW1jVkNGY1N6ZkhzYW9zNzFsaEcyRmJXUjYzUFJCVi15UHQzaGREdDl2OG5pRVZvSXktSmvSAZACQVVfeXFMTWZDckZXTG50QlFjSmE4a2ozZ3FrcWF6X3hRTFFfWElwU0NnRkJEb08yYjM0SFRsZEJJWkhpZGwyY09JcFNpQXpXMkpYbFRFM0FwNWMyS2FDMlAyeEM3WVBqZV9mVS00al80WDVWa3paZU1zUzRKWVNzbTRMVjR3RHVHY0VHNTJKQkZ5UnRkc1dFYnVSUTYwWW1XZHU5cExFWk5sTkJNeWs1U2RIcnpDUS1HYTZRcDlpY19vLU9ZdFhnWmxTQWxtWUl4azRtRHl1TEVJRGJiQ2RIOFhRNG9yemxMVXFzOE5VZ1lsR1hPaHVwT19RTDlIbktIUndmZUVDUnpWeGx0REtsSmpMV194aGg?oc=5",
+       "publishedAt": "2026-11-27T06:21+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Horoscope Today: November 27, 2026",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlb0hZa0JtRlFTX3ltN2RZX0JQMzdXaXREX2pKMV9BTmEwbDZET0xWWHY5UzB1UzlyZTlRbTJYM2cySVhFSkJDQjluZktpblBUYnNDQUpNZnZLd1FBaXY0ZW9yWWxJYk5PQWphajlR?oc=5",
+       "publishedAt": "2026-11-27T06:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thanksgiving celebrations turn sour in US as storm batters East Coast; 900,000 homes without power, flights cancelled",
+     "link": "https://www.livemint.com/news/us-news/thanksgiving-celebrations-turn-sour-in-us-as-storm-batters-east-coast-900-000-homes-without-power-flights-cancelled-11795745674616.html",
+     "source": "Mint",
+     "sources": [
+      "BBC",
+      "Mint",
+      "NDTV",
+      "The Economic Times",
+      "The Times of India",
+      "Yahoo"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T07:55+05:30",
+     "score": 8.42,
+     "summary": "A powerful Nor'easter battered the US on Thanksgiving, leaving nearly a million utility customers without electricity, disrupting flights and holiday travel, triggering coastal flood warnings and forcing the postponement of Macy's Thanksgiving Day Parade.",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/US-Storm_thanksgiving_1795745897887_A2tN_1795745898068_xmDv_06c6e8a9-f2b9-4d64-b04c-6e0b85679ebd_qNNT.jpg",
+     "articles": [
+      {
+       "source": "Mint",
+       "title": "Thanksgiving celebrations turn sour in US as storm batters East Coast; 900,000 homes without power, flights cancelled",
+       "link": "https://www.livemint.com/news/us-news/thanksgiving-celebrations-turn-sour-in-us-as-storm-batters-east-coast-900-000-homes-without-power-flights-cancelled-11795745674616.html",
+       "publishedAt": "2026-11-27T07:55+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "US Thanksgiving storm: Over 900,000 lose power",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/us-thanksgiving-weather-havoc-over-900000-without-electricity-400-flights-cancelled-macys-parade-postponed/articleshow/136206824.cms",
+       "publishedAt": "2026-11-27T07:35+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "US Storm Disrupts Thanksgiving, Cancels 400 Flights, Leaves 724,000 Without Power",
+       "link": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669#publisher=newsstand",
+       "publishedAt": "2026-11-27T05:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Very strange': Zelenskyy questions Trump's Putin bonhomie, US support for Ukraine",
+     "link": "https://timesofindia.indiatimes.com/world/europe/he-cant-be-a-friend-zelensky-calls-trumps-putin-bonhomie-strange-questions-support-for-ukraine/articleshow/136205617.cms",
+     "source": "Times of India",
+     "sources": [
+      "AP News",
+      "BBC",
+      "BBC News",
+      "IMDb",
+      "Magzter",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T04:47+05:30",
+     "score": 7.43,
+     "summary": "Ukrainian President Volodymyr Zelenskyy voiced serious concerns regarding US President Donald Trump's close ties with Vladimir Putin, whom he labeled an aggressor resembling Hitler. He expressed disappointment over Trump's positive remarks about Putin while Ukraine faces ongoing conflict. In contrast, Trump described Putin as a friend who genuinely seeks to end the war, revealing the complexities both leaders face…",
+     "image": "https://static.toiimg.com/photo/msid-136205619,imgsize-106484.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Very strange': Zelenskyy questions Trump's Putin bonhomie, US support for Ukraine",
+       "link": "https://timesofindia.indiatimes.com/world/europe/he-cant-be-a-friend-zelensky-calls-trumps-putin-bonhomie-strange-questions-support-for-ukraine/articleshow/136205617.cms",
+       "publishedAt": "2026-11-27T04:47+05:30"
+      },
+      {
+       "source": "BBC News",
+       "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+       "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-27T03:36+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'He can't be a friend': Zelensky calls Trump's Putin bonhomie 'strange'",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUm1WQ19hZzlPWUZWOHZsRW8zVDBEVWdERDZicHNyajlCYXQ5Zi00dzZVdjFFNmVEQnFkeHVWRFN1QmdIenVLZTR3OWhPMTBVWEhJWWpTOTJvNEpHSmIzNGJaclBMaHlJTHBfNkZGcE1IYlNyVjVqckZVRHpaZVNQbVktM2FoWUI0Vnp0VXZOZUFpS1QybzVNZVI3N2owQ2hOOVRfSW1XcUJXbktDZnQ3ZU1vb0JJeU5laWwxQ2FBZVU3eENPY0pSeVZmcDdHU3BaU0plTm5R?oc=5",
+       "publishedAt": "2026-11-27T04:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+     "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T06:17+05:30",
+     "score": 6.73,
+     "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+       "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-27T06:17+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BaXpGUk5KWTAweGxGT2RLSXUxMjdqMGdjdW5RZnJGZ3lmZWttaWZDT2UzcEFHNDFrQWZmelM2bWNaV0pqVmg4UVhUMFFLc3FhaDZ2Tzhtd3dXWjQ?oc=5",
+       "publishedAt": "2026-11-27T06:17+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gukesh, Sindarov Both Push For Win As Game 3 Ends In Thrilling Draw",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYWlrSVVVa2J0T182ZWUyRkRldnBwcWlrdF92d3lKX3FUQnlWc2I5d0lOVHB6NXJ4bDJ0aGx4Sk5sRUpLOXlzS0pGS0xSZXpBMVQ2RVVhZnZvUUdFWWhONUd4VXBiWU5jcUV0SE1faEpROEN5a3Vzd2d4dWdKQQ?oc=5",
+     "source": "Chess.com",
+     "sources": [
+      "Chess News | ChessBase",
+      "Chess.com",
+      "ESPN India",
+      "News On AIR",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T07:12+05:30",
+     "score": 6.3,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Chess.com",
+       "title": "Gukesh, Sindarov Both Push For Win As Game 3 Ends In Thrilling Draw",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYWlrSVVVa2J0T182ZWUyRkRldnBwcWlrdF92d3lKX3FUQnlWc2I5d0lOVHB6NXJ4bDJ0aGx4Sk5sRUpLOXlzS0pGS0xSZXpBMVQ2RVVhZnZvUUdFWWhONUd4VXBiWU5jcUV0SE1faEpROEN5a3Vzd2d4dWdKQQ?oc=5",
+       "publishedAt": "2026-11-27T07:12+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T06:00+05:30",
    "generatedAt": "2026-11-27T06:45+05:30",
@@ -29225,188 +29405,6 @@
        "title": "US court to Delhi courts: Help serve summons to RAW ex-chief, Doval",
        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTRYUF9vT1F6UDBJQVZoQUx0Y1NmWERRZEJkMXBKTzNBZDFqdHFpUmZYbG1LTWllTF9Ha3NXWUVVeUFpM2xuVk8zb2tnYV9Ib1lFVTl5bHMtMVNta2RFT3FabzlVLS1SNmoySzVFLW9DQ19tTVdsVmdSbmdxcmtydV91UTlfYm94a3JnTkdHWkZtVWJ4LVpIdVBPZms3QmJOalB5Wm9CZllqVDRMX0RVT3htQklYUHdnU3JVTk1PY29jcTJEc01TaGh1Z0N1QQ?oc=5",
        "publishedAt": "2026-11-19T03:18+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T04:00+05:30",
-   "generatedAt": "2026-11-19T04:21+05:30",
-   "feeds": 16,
-   "headlines": 201,
-   "stories": [
-    {
-     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CNBC",
-      "CNN",
-      "Mint",
-      "NDTV",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-19T02:43+05:30",
-     "score": 10.48,
-     "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-19T02:43+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Democrat Hakeem Jeffries Set To Be First African-American House Speaker",
-       "link": "https://www.ndtv.com/world-news/democrat-hakeem-jeffries-set-to-be-first-african-american-house-speaker-12346248#publisher=newsstand",
-       "publishedAt": "2026-11-19T00:22+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Historic first: Democrat Hakeem Jeffries nominated to become House Speaker",
-       "link": "https://timesofindia.indiatimes.com/world/us/historic-first-democrats-nominate-hakeem-jeffries-set-to-be-first-black-us-house-speaker/articleshow/135969043.cms",
-       "publishedAt": "2026-11-18T23:25+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "History in the making? Hakeem Jeffries nominated as House Speaker, set to become first Black American to hold the post",
-       "link": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
-       "publishedAt": "2026-11-18T23:05+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Historic first: Democrats nominate Hakeem Jeffries, set to be first Black US House Speaker",
-       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQ1hVZkhWV1BkSnUtRjJDYWw2Z1FPbDVnTjBScWVYVjFFc2pzNXFtaXJmVTkxM3FWQVF4UEwtNDhxcHhYekR6dEx2eVcxa1J2NmtKWnI0a1JuZ0ZxUlQ3NXpxOWNBM3dUaGZxVTJ2anZJc2xQWDIzdXI4WFg3WGNQMC1Tb2tZUEw4SkNxYjZlUUl5Y3N3Y1lKYmd2VV9KeTdLekMzbDM0Mk9Jc05SR3RYdUZza0hzWU1YckpVT3VjdldsRGxua0FwNmpXSmV2dzNSWFNMek8xMEVIRHp3OGVVRko3VGt1Q1cybjNwT1NydHY?oc=5",
-       "publishedAt": "2026-11-18T23:25+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-     "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "AP News",
-      "BBC",
-      "BBC News",
-      "Bloomberg.com",
-      "The Guardian",
-      "The Washington Post"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T03:51+05:30",
-     "score": 7.67,
-     "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-18T23:04+05:30"
-      },
-      {
-       "source": "AP News",
-       "title": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5oVy1LNFdSWUFIbTV3RkNqQlJNWWdlb3pJNUxOV3ZRMU02TjFOV0VBUGVoRDhLOEU0SHpSTl9YMEwtN1pVSV9rQ0I0cUZvRFptd1NGUks3ci0zekpiSmZKMmJobUZfcTZpS1YyVkZCbVR4U3RKQ1F6TUlXU2x5VmdDZ2V1empCQVViM3NNVDhPc1NtMU5IeENVZWlNQQ?oc=5",
-       "publishedAt": "2026-11-19T03:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "9 of the best iPhone 18 Pro cases from Apple, CASETiFY, Troubadour, and more",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3QyNzdBek9RdnYwamZ5YVJ1LTh5QlItTmVwSURCa3ljeVZhWlJXLVJqdUE1SzJOR3kwUXBacnUtVUJfbTNPVmI1LUo4Qm1fNmRZX0dVdktyQ09TaV9EV0RXaGNsVVNiZFZ1VWVqelBYN1U1S004amNpYkNfWnc0RGZ6SjJYQVhVZVBvZFF0SXJ3MUNIYlV4M2VfWFphTmxqSlJ4eXFFclRpN25iUm1XTUwta21yZ3ppMktLeksyMlNLVHFUWlE?oc=5",
-     "source": "TechRadar",
-     "sources": [
-      "Gadget Review",
-      "MakeUseOf",
-      "TechRadar",
-      "Tom's Guide",
-      "markets.businessinsider.com"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T02:09+05:30",
-     "score": 7.13,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "TechRadar",
-       "title": "9 of the best iPhone 18 Pro cases from Apple, CASETiFY, Troubadour, and more",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3QyNzdBek9RdnYwamZ5YVJ1LTh5QlItTmVwSURCa3ljeVZhWlJXLVJqdUE1SzJOR3kwUXBacnUtVUJfbTNPVmI1LUo4Qm1fNmRZX0dVdktyQ09TaV9EV0RXaGNsVVNiZFZ1VWVqelBYN1U1S004amNpYkNfWnc0RGZ6SjJYQVhVZVBvZFF0SXJ3MUNIYlV4M2VfWFphTmxqSlJ4eXFFclRpN25iUm1XTUwta21yZ3ppMktLeksyMlNLVHFUWlE?oc=5",
-       "publishedAt": "2026-11-19T02:09+05:30"
-      }
-     ]
-    },
-    {
-     "title": "William and Kate meet PM Modi as they wrap up India tour",
-     "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "PM India",
-      "Reuters",
-      "Vogue"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T01:37+05:30",
-     "score": 7.04,
-     "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "William and Kate meet PM Modi as they wrap up India tour",
-       "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-19T01:37+05:30"
-      },
-      {
-       "source": "BBC",
-       "title": "William and Kate meet PM Modi as they wrap up India tour",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
-       "publishedAt": "2026-11-19T01:37+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
-     "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
-     "source": "Mint",
-     "sources": [
-      "Inc42",
-      "Mezha",
-      "Mint",
-      "Push Square",
-      "The Economist",
-      "YourStory.com"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T00:46+05:30",
-     "score": 6.7,
-     "summary": "Grand Theft Auto 6 is here, ending the 13 years-long wait. From critics to fans, many have shared their take across social media. Check it out.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/217106_1795026527055_VsMc_1795026534044_yBay_d6ac50bb-3929-4c0d-aa74-88e7ea3f1510_HXyV.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "Grand Theft Auto 6 review out: Biggest disappointment in gaming history? Netizens says ‘GTA 5 was better’ after 13 years",
-       "link": "https://www.livemint.com/news/trends/grand-theft-auto-6-review-out-biggest-disappointment-in-gaming-history-netizens-says-gta-5-was-better-after-13-years-11795025488336.html",
-       "publishedAt": "2026-11-18T23:59+05:30"
-      },
-      {
-       "source": "The Economist",
-       "title": "“Grand Theft Auto VI” may mark the end of an era in gaming",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlI3cG1TZ2poQ1NkUEZiY09tcExRZzlKOGhtRDFZRHMxanZINjU3bTBEb1JhelU3N055WmxSek1kLVVxdXMtTzdMenUxVTZLcTRPNGstYkJSLU9BWHFiTlRoaHlDaUlndkZMT3Y2MFFDTms3SWxzZWg3b1RrQjV1WV9MVUwxMHdHUExETUxxN29wMjBPZjlGWHRRbFpBSWk5RExn?oc=5",
-       "publishedAt": "2026-11-19T00:46+05:30"
       }
      ]
     }
