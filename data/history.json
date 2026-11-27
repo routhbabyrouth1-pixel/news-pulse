@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-27T12:50+05:30",
+ "updated": "2026-11-27T14:32+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T14:00+05:30",
+   "generatedAt": "2026-11-27T14:32+05:30",
+   "feeds": 16,
+   "headlines": 322,
+   "stories": [
+    {
+     "title": "RSSB CET 12th Level Admit Card 2026 (OUT) LIVE: Download Rajasthan CET Exam Hall Ticket PDF at rssb.rajasthan.gov.in",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRThsaFctUjFJaEtrR3dCbFRIeTIyOGZEOUJ5WXpfQ0lMRXVaeThBTTJmWEdVR2NUR1Uta0NKN1FOcWpwNHlHWk1WVWZoTU9JZnlTS1M4LWpLaHFOQ0tDTWU4YmVYZEo0bTUzRHBYWWlrRUlUZUFFX3JqdGw0RE1kOTd2UzRUVmVReUN1Nlo5NXpFSFdFVzE0MzAteFpfMDVDXzlfZjVzSExBTDRVaENfeWZGaU1ZSFpLXzZfUHRHM1M2ZHlZcUlaVFp0b1lIQ2F1cXFiNzNRRDRyTVdfTUpQTWxUa0U4eVhs?oc=5",
+     "source": "Jagran Josh",
+     "sources": [
+      "Adda247",
+      "Careers360",
+      "Dainik Bhaskar",
+      "India Today",
+      "Jagran Josh",
+      "News18 Hindi",
+      "PW",
+      "Prabhat Khabar",
+      "Telegraph India"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-27T14:00+05:30",
+     "score": 10.01,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Jagran Josh",
+       "title": "RSSB CET 12th Level Admit Card 2026 (OUT) LIVE: Download Rajasthan CET Exam Hall Ticket PDF at rssb.rajasthan.gov.in",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRThsaFctUjFJaEtrR3dCbFRIeTIyOGZEOUJ5WXpfQ0lMRXVaeThBTTJmWEdVR2NUR1Uta0NKN1FOcWpwNHlHWk1WVWZoTU9JZnlTS1M4LWpLaHFOQ0tDTWU4YmVYZEo0bTUzRHBYWWlrRUlUZUFFX3JqdGw0RE1kOTd2UzRUVmVReUN1Nlo5NXpFSFdFVzE0MzAteFpfMDVDXzlfZjVzSExBTDRVaENfeWZGaU1ZSFpLXzZfUHRHM1M2ZHlZcUlaVFp0b1lIQ2F1cXFiNzNRRDRyTVdfTUpQTWxUa0U4eVhs?oc=5",
+       "publishedAt": "2026-11-27T14:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Supreme Court grants bail to former AAP legislator Naresh Balyan",
+     "link": "https://www.hindustantimes.com/india-news/supreme-court-grants-bail-to-former-aap-legislator-naresh-balyan-101795768911228.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Bar and Bench",
+      "Hindustan Times",
+      "LawBeat",
+      "Live Law",
+      "The Hindu",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T14:11+05:30",
+     "score": 8.44,
+     "summary": "Former AAP legislator Naresh Balyan said the evidence against him is inadmissible and he was never named originally",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/Naresh-Balyan-was-incarcerated-since-December-2025_1795768904179_WnxF.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Supreme Court grants bail to former AAP legislator Naresh Balyan",
+       "link": "https://www.hindustantimes.com/india-news/supreme-court-grants-bail-to-former-aap-legislator-naresh-balyan-101795768911228.html",
+       "publishedAt": "2026-11-27T14:11+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Supreme Court grants bail to former AAP MLA Naresh Balyan in MCOCA case",
+       "link": "https://www.thehindu.com/news/cities/Delhi/supreme-court-grants-bail-to-former-aap-mla-naresh-balyan-in-mcoca-case/article71749634.ece",
+       "publishedAt": "2026-11-27T13:16+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "SC grants bail to former AAP MLA Naresh Balyan in organised crime case",
+       "link": "https://timesofindia.indiatimes.com/india/supreme-court-grants-bail-to-former-aap-mla-naresh-balyan-in-organised-crime-case/articleshow/136210724.cms",
+       "publishedAt": "2026-11-27T11:19+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Supreme Court Grants Bail To AAP Leader Naresh Balyan In MCOCA Case",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGNZMDJjaVl6VU4wa0Y0UVhzblNrdTZVWmxXOW5POFM1U1hESjRxMTdGUWpsU0pSYTV1bU9JVFJRaFVZeElNNkdxV0JDcWZOanhHQVpzdTVEd3N4Qnk0ZXE1NHBkUXhReXV3QmpxdVlCMlk4dVJ0MDdPT2R6UHFLcmF1V29GNkFqYmo1UGdrdnhSZS01VDEzcmYycC00cUNzYmFzTk03bktwOVV2NWfSAbMBQVVfeXFMTjJtcXJjaFhhMVhidi1neW4tNi1zNDlqOGo3ZUYwZ1Q3Qkh5MVVYM1BoeTRTTWxqblhMem1MZmRmdDNKWFRKRmhZQWlCMW9QN2txbTN0ME5DNC1ub0RZVG5EMWJmcHNUa19LU0IzLTMyTVlva1o1cnVQamp5OW5zOHJPLXNGT3NYa2FrZTFsZDNjbkNJOGljVWdkbWt3TGpTY0RrRFpnRkZNM2FtQkc1NTJmNFk?oc=5",
+       "publishedAt": "2026-11-27T11:15+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Best Black Friday gaming deals 2026: PS5, Nintendo Switch, and more deals live now",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBldnhKX3A0dEZFZTlCVm9oZVZEdnoxT0NBbzhVX3ZzbkJvZ2xncUNZLU4yOTRMNl85elpnT0ZXXzZlRGp4M1hFbU5CaEpQSWJlWDQyNVhVcUFXMDZpU3lWb09VdVpoVHp0RjhxbDZ3?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "GamesBeat",
+      "Gizmodo",
+      "How-To Geek",
+      "Mashable",
+      "PC Gamer",
+      "TechRadar",
+      "Tom's Hardware"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T13:34+05:30",
+     "score": 7.88,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "Best Black Friday gaming deals 2026: PS5, Nintendo Switch, and more deals live now",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBldnhKX3A0dEZFZTlCVm9oZVZEdnoxT0NBbzhVX3ZzbkJvZ2xncUNZLU4yOTRMNl85elpnT0ZXXzZlRGp4M1hFbU5CaEpQSWJlWDQyNVhVcUFXMDZpU3lWb09VdVpoVHp0RjhxbDZ3?oc=5",
+       "publishedAt": "2026-11-27T13:34+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Delhi govt opens Kejriwal’s former residence as ‘Sheesh Mahal’ row returns to focus",
+     "link": "https://www.hindustantimes.com/india-news/delhi-govt-opens-arvind-kejriwal-s-former-residence-as-sheesh-mahal-row-returns-to-focus-101795762723410.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Inshorts",
+      "NDTV",
+      "Telegraph India",
+      "The Economic Times",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T12:32+05:30",
+     "score": 7.78,
+     "summary": "Visuals showed purported price tags on several items inside the bungalow, including a centre table, television, sofa and powder room fittings.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/giff_1795763828258_61ed_1795763844430_FjTt_f3cc3fdc-def1-494f-9f9a-43ca2830eaa3_XTjZ.gif",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Delhi govt opens Kejriwal’s former residence as ‘Sheesh Mahal’ row returns to focus",
+       "link": "https://www.hindustantimes.com/india-news/delhi-govt-opens-arvind-kejriwal-s-former-residence-as-sheesh-mahal-row-returns-to-focus-101795762723410.html",
+       "publishedAt": "2026-11-27T12:32+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Kejriwal's Sheesh Mahal: Public entry date?",
+       "link": "https://economictimes.indiatimes.com/news/new-updates/inside-arvind-kejriwals-sheesh-mahal-from-rs-11-56-lakh-chandelier-and-rs-5-69-lakh-curtains-to-public-opening-date-and-rs-20-ticket-price-check-when-entry-will-open-for-visitors/articleshow/136210499.cms",
+       "publishedAt": "2026-11-27T11:25+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Rs 11L chandelier, Rs 5.5L sofa': Delhi govt opens doors of 'Kejriwal's Sheesh Mahal'",
+       "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-govt-opens-arvind-kejriwals-sheesh-mahal-to-media-plans-public-tours-with-rs-20-entry-fee/articleshow/136208848.cms",
+       "publishedAt": "2026-11-27T09:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Jagan Reddy's YSRCP to back Delimitation Bill in Parliament, but there's a rider",
+     "link": "https://timesofindia.indiatimes.com/india/jagan-mohan-reddys-ysrcp-to-back-ndas-delimitation-bill-push-in-parliament-but-with-a-rider/articleshow/136209271.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T10:10+05:30",
+     "score": 7.77,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136209289,imgsize-946782.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Jagan Reddy's YSRCP to back Delimitation Bill in Parliament, but there's a rider",
+       "link": "https://timesofindia.indiatimes.com/india/jagan-mohan-reddys-ysrcp-to-back-ndas-delimitation-bill-push-in-parliament-but-with-a-rider/articleshow/136209271.cms",
+       "publishedAt": "2026-11-27T10:10+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Jagan Mohan Reddy's YSRCP to back NDA's Delimitation Bill push in Parliament but with a rider",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYVVKWTRBR19pRTVBVjY0LThjeGRhZnlMNDM2RXlJdTdMUklfYVVyMEFfOGZwM3RSTUV3TWw4YlhMamMydndtU3BfQlZCM2hrS2U1b19LVXhDdlQ5NllyekV3aEpfc0h3ckVnLU5OWlRUMkwtaXE0VllSWDlhNWF2NHFWdWZXcnFvSkR5b2F3TDdyVmthbUlkUVZOQURfYzFBTW1oR1VfMkxxQ3BzYzVNMFdsTU5BTTY2NEFkdmQybmxKLVc4anBFRElFU1F0Y2V3ZXh5VGhPamw1OWV1TXJmNG9nRG9CWXI4LUtSRTd5V1I?oc=5",
+       "publishedAt": "2026-11-27T10:10+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T12:00+05:30",
    "generatedAt": "2026-11-27T12:50+05:30",
@@ -29302,161 +29482,6 @@
        "title": "‘Any pretty woman from China is considered spy’: Trump discussed Huang affair with Xi",
        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLVRKV2swRVdLN0N5cTRWVXhGSG81Zl95RXBDVHJYSEdyaGZCeVpWX0J2Rlowcm9pY3NnQ1VzRWx6N1RZOF81RHdmd2dhcWtMQXhyM0VpX1BPZWhHVWppMmJQelZ0NnpIWDB4RURpci1jZC13ZmNnSThSbkctdzNHLW1UR1ZlVmh4UGNEaEpjN1NQTElDYkt5OXdUNUVUWU84aHdQNEFNNEJVQ1NUSjFsOXc2UWdTdnMzRlM1b21oeW1fMUJwaFM0ZG03dHhKU0Y5TGRiUGZxaU1jcE5XRC12MUNsenY3REhpTGNlZmluUQ?oc=5",
        "publishedAt": "2026-11-19T07:34+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T10:00+05:30",
-   "generatedAt": "2026-11-19T10:32+05:30",
-   "feeds": 9,
-   "headlines": 183,
-   "stories": [
-    {
-     "title": "Elon Musk says he feels ‘pretty foolish’ about US midterm spending",
-     "link": "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC News",
-      "NDTV"
-     ],
-     "sourceCount": 3,
-     "publishedAt": "2026-11-19T10:16+05:30",
-     "score": 3.95,
-     "summary": "Musk says campaign cash alone cannot decide elections, even as he heavily funded Republican candidates in Texas.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Elon Musk says he feels ‘pretty foolish’ about US midterm spending",
-       "link": "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
-       "publishedAt": "2026-11-19T10:16+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-19T08:29+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Musk Felt \"Pretty Foolish\" Spending Rs 4,700 Crore On US Midterms",
-       "link": "https://www.ndtv.com/world-news/musk-felt-pretty-foolish-spending-rs-4-700-crore-on-us-midterms-12346664#publisher=newsstand",
-       "publishedAt": "2026-11-19T07:31+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Trump wants to talk nuclear with Putin and Xi",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "Times of India"
-     ],
-     "sourceCount": 2,
-     "publishedAt": "2026-11-19T10:20+05:30",
-     "score": 2.97,
-     "summary": "US President Donald Trump says he plans to raise nuclear non-proliferation with China’s Xi and Russia’s Putin.",
-     "image": "https://static.toiimg.com/photo/msid-135975763,imgsize-109822.cms",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Trump wants to talk nuclear with Putin and Xi",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
-       "publishedAt": "2026-11-19T10:20+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Yalta 2.0 in making? Nuclear arms, two wars on the table as Trump, Xi and Putin meet",
-       "link": "https://timesofindia.indiatimes.com/world/china/yalta-2-0-in-the-making-nuclear-arms-two-wars-on-the-table-as-trump-xi-and-putin-meet/articleshow/135975446.cms",
-       "publishedAt": "2026-11-19T08:09+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Crimean Bridge attacked again, Russian official says",
-     "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC News",
-      "The Guardian"
-     ],
-     "sourceCount": 2,
-     "publishedAt": "2026-11-19T10:07+05:30",
-     "score": 2.93,
-     "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Crimean Bridge attacked again, Russian official says",
-       "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-19T10:07+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Crimea bridge has been attacked again, says Russian-installed governor",
-       "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
-       "publishedAt": "2026-11-19T04:57+05:30"
-      }
-     ]
-    },
-    {
-     "title": "GTA 6 Launch Highlights: India Gets Blockbuster Game After 13-Year Wait",
-     "link": "https://www.ndtv.com/world-news/gta-6-launch-live-updates-release-time-download-gameplay-price-latest-news-key-announcements-reviews-12346071#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "NDTV",
-      "The Economic Times"
-     ],
-     "sourceCount": 2,
-     "publishedAt": "2026-11-19T10:03+05:30",
-     "score": 2.92,
-     "summary": "GTA 6 Launch Highlights: The latest version of Grand Theft Auto VI (GTA 6) is taking players back to Vice City and other parts of the Leonida state.",
-     "image": "https://c.ndtvimg.com/2026-11/hmavikj_gta-6-_625x300_04_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "GTA 6 Launch Highlights: India Gets Blockbuster Game After 13-Year Wait",
-       "link": "https://www.ndtv.com/world-news/gta-6-launch-live-updates-release-time-download-gameplay-price-latest-news-key-announcements-reviews-12346071#publisher=newsstand",
-       "publishedAt": "2026-11-19T10:03+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "GTA 6 releases in India after 13 yrs wait: Price",
-       "link": "https://economictimes.indiatimes.com/news/new-updates/gta-6-launches-in-india-after-13-year-wait-check-price-launch-day-benefits-download-size-playstation-or-xbox-pc-version-and-gta-6-multiplayer-online-release-dates/articleshow/135975791.cms",
-       "publishedAt": "2026-11-19T08:29+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Auto, taxi drivers to protest at Delhi's Ramlila Maidan today over fare revision, EV policy, bike-taxi services",
-     "link": "https://www.hindustantimes.com/india-news/auto-taxi-drivers-to-protest-at-delhis-ramlila-maidan-today-over-fare-revision-ev-policy-and-bike-taxi-services-101795062077623.html",
-     "source": "Hindustan Times",
-     "sources": [
-      "Hindustan Times",
-      "NDTV"
-     ],
-     "sourceCount": 2,
-     "publishedAt": "2026-11-19T10:00+05:30",
-     "score": 2.91,
-     "summary": "The demonstration, organised by the Bharatiya Private Transport Mazdoor Mahasangh, which is affiliated with the Bharatiya Mazdoor Sangh, will begin at 11 am.",
-     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/photo-1589712701903-f63c7452ccf4_1795062460493_xgxt_1795062478122_peUa_2de68272-b877-4120-bd06-1ff2cd699dee_X8lg.jpg",
-     "articles": [
-      {
-       "source": "Hindustan Times",
-       "title": "Auto, taxi drivers to protest at Delhi's Ramlila Maidan today over fare revision, EV policy, bike-taxi services",
-       "link": "https://www.hindustantimes.com/india-news/auto-taxi-drivers-to-protest-at-delhis-ramlila-maidan-today-over-fare-revision-ev-policy-and-bike-taxi-services-101795062077623.html",
-       "publishedAt": "2026-11-19T10:00+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Transport Unions To Protest For Auto-Taxi Fare Hike In Delhi Today",
-       "link": "https://www.ndtv.com/delhi-news/transport-unions-to-protest-for-auto-taxi-fare-hike-in-delhi-today-12344109#publisher=newsstand",
-       "publishedAt": "2026-11-19T08:24+05:30"
       }
      ]
     }
