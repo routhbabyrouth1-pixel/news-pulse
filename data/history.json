@@ -1,6 +1,190 @@
 {
- "updated": "2026-11-27T17:26+05:30",
+ "updated": "2026-11-27T18:42+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T18:00+05:30",
+   "generatedAt": "2026-11-27T18:42+05:30",
+   "feeds": 16,
+   "headlines": 326,
+   "stories": [
+    {
+     "title": "Sharad Pawar’s NCP announces support to delimitation ahead of special Parliament sitting",
+     "link": "https://www.hindustantimes.com/india-news/sharad-pawar-s-ncp-announces-support-to-delimitation-ahead-of-special-parliament-sitting-101795782471365.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Frontline Magazine",
+      "Hindustan Times",
+      "India Today",
+      "NDTV",
+      "Rediff.com",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express",
+      "The New Indian Express",
+      "The News Minute",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 13,
+     "publishedAt": "2026-11-27T18:19+05:30",
+     "score": 14.69,
+     "summary": "The Centre has proposed the expansion of the Lok Sabha and delimitation of constituencies, a move opposed by the opposition INDIA bloc.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/Sharad_Pawar_1795782691553_ZTOf_1795782691683_iNvN_e723e5c1-d4bf-4dbd-8b25-9144820d7b35_bbcy.png",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Sharad Pawar’s NCP announces support to delimitation ahead of special Parliament sitting",
+       "link": "https://www.hindustantimes.com/india-news/sharad-pawar-s-ncp-announces-support-to-delimitation-ahead-of-special-parliament-sitting-101795782471365.html",
+       "publishedAt": "2026-11-27T17:58+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Union Cabinet clears delimitation bill",
+       "link": "https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece",
+       "publishedAt": "2026-11-27T17:21+05:30"
+      },
+      {
+       "source": "India Today",
+       "title": "Union Cabinet Meeting Live: NCP to support NDA's delimitation bill, MLA Jitendra Ahwad says after meeting Sharad Pawar",
+       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdm1KUUQ1bDd5XzdBRnpaaGdEdVpuZnNTUFNubGF2S0FORzFFZFRZNVpkQzdRX2x4RlAzRUNFcG9iZkxNUHJhZDFMc2xOMmV3d0NMSVp0RGctTWVLdFQ3TG9NZGJfNHdTOFpzQ0NRNHlQZ2FKNzJhaFhLUFVFNGdqMzlxcVJZNTlGNHNhVktkTENPbUpJNXBiNkY4LV9EVElUWU0ySzRZNlB4aEhGQ3M4NTcyanVLc0xsUUZVVHRSRzRzS01NVkRnX0lTZjBiS3dkUGNmamE0TTdSZm1EWFZaeGpQajczUdIB6wFBVV95cUxNQ1ZRMGU4WWV4alBOVWVIdGVLQWQxZmxFYTYzV1lWVE5pRkJXVGpNaDc2OGdVRVY1LWE2aU1YaUt3SmZIdDFWU1k3b0o4S0FNanYtaFFMWXAzTkRCUGJSY2NvRGwwR1VmQjRoMWxfTUFUMW5KWWlLVC1FcFdGdDdyT09Dci1Vcl8tREt2RXFsa2lINFJKOWhPZENndjhRY0RHTEZNLTdNNzBtT1hvcFNQQ0hHb3BIdkU3THBCbVJhR2dveEx3TTI5YVFOZzNZWWRCUDN3dXl4bzhwcFBnQWNES19MZUVxdzdnVzZ3?oc=5",
+       "publishedAt": "2026-11-27T18:19+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bhogi Box Office Collection Day 1",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaXJxcXNRN1N2MzZkSEo1SlpWdTJBSTVvQ3NVNkpidmV3VnlpVGpUVWhQRXdWUXhwRnF0VERxM011dXlHWmdUeVVYejRwdmM5N3poWGlBbElhQlJ3c3NlQkRDVmZTUXRpdkh4aGZBWVNWMUFZYW9mcV9NT3Q?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Bollywood Hungama",
+      "Deccan Chronicle",
+      "Livemint",
+      "Outlook India",
+      "Sacnilk",
+      "THE WEEK",
+      "The Hindu",
+      "The New Indian Express",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-27T16:50+05:30",
+     "score": 10.9,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Bhogi Box Office Collection Day 1",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaXJxcXNRN1N2MzZkSEo1SlpWdTJBSTVvQ3NVNkpidmV3VnlpVGpUVWhQRXdWUXhwRnF0VERxM011dXlHWmdUeVVYejRwdmM5N3poWGlBbElhQlJ3c3NlQkRDVmZTUXRpdkh4aGZBWVNWMUFZYW9mcV9NT3Q?oc=5",
+       "publishedAt": "2026-11-27T16:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "SC orders lighting of lamp atop disputed ‘Deepathoon’ tomorrow, issues contempt notice to top Tamil Nadu officials",
+     "link": "https://www.hindustantimes.com/india-news/sc-observes-brazen-violation-of-tamil-nadu-deepathoon-order-says-time-to-deal-with-iron-hand-101795767767260.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Frontline Magazine",
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-27T15:18+05:30",
+     "score": 7.93,
+     "summary": "The Supreme Court was hearing petitions over the failure to light the ceremonial lamp at the disputed stone pillar atop the Thirupparankundram hill on Nov 24.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/Karthigai_Deepam_1795774359656_iWuW_1795774359851_iUWc_68f5a566-cf6a-4299-b3c4-676d7eb3ab1e_JRGj.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "SC orders lighting of lamp atop disputed ‘Deepathoon’ tomorrow, issues contempt notice to top Tamil Nadu officials",
+       "link": "https://www.hindustantimes.com/india-news/sc-observes-brazen-violation-of-tamil-nadu-deepathoon-order-says-time-to-deal-with-iron-hand-101795767767260.html",
+       "publishedAt": "2026-11-27T15:00+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Thiruparankundram Row | Supreme Court Orders Lamp Lighting At Deepathoon Tomorrow; Issues Contempt Notice ...",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWU8xV2FaYlp2MHBXRzFGYUdwU1VYQkRMX0lWUENjb2lxVTI1U2JETGg5Y2FVQWN1ZzRMSEhFemRPbHcyWWZSVE5TZ1JUSjA4MHEzX1hJdWxKTG9oaHpJdGpDVHcyblVjbHZaa0tWdGlWaTNJQ1kxcXJBSW0wVUpQaDlzRGJycGQxUzJBSk1rMmgwT3F0VEZxaGMyQWtpVTFWd0ZwRmF5bFNfR3N6ZzI5ajZmZjRQRzBtUDFJZ3pKeDU2MlR5dXpuci1QWmpRSEVFZXlweWlTbkFIWnlmaEczamgzZHoycDFESEllLU04c0RpN1dN0gH6AUFVX3lxTE1tVU9rUzktTE5WdjVPdTI0QWhPZ1M2VDJ0OHFlMEI4YzVpV0RZR21TSlVDT2pSUnFiMVhkbk5WUW03eV9nel9EODNCSzN4cE1oT1NPQncwMUViWm4tbUN0UEs3a25VcnBmenNXdVZ6bG12b0YtakpfREIxX01iZm5Ea3hwbU5RRlR5RTE5S2dwZGdjT0ZVWm40eXRFX1R4S28tUWpaVVRRbXowN1htWk96TkxwMzVSWHloMWlTdU5MSXRfN2RnN0gwVVluR1RKYVowanlpODZUTHVHaDBCSEZtU3F3dDJaSlp1X01zN2htWmFHd25rWWg4T3c?oc=5",
+       "publishedAt": "2026-11-27T15:18+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Calcutta HC sets aside TMC rebel Ritabrata Banerjee’s appointment as Bengal LoP",
+     "link": "https://www.hindustantimes.com/india-news/calcutta-hc-sets-aside-tmc-rebel-ritabrata-banerjee-s-appointment-as-bengal-leader-of-opposition-101795774203886.html",
+     "source": "Hindustan Times",
+     "sources": [
+      "Hindustan Times",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The Times of India",
+      "ThePrint",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T15:40+05:30",
+     "score": 7.8,
+     "summary": "The HC order came following a petition by TMC's Mamata Banerjee faction leader Sobhandeb Chattopadhyay.",
+     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/ANI-20260917409-0_1795774276200_9n7v_1795774288732_VNoq_0455f8b8-0645-406b-a76f-4c3697084b09_x9qH.jpg",
+     "articles": [
+      {
+       "source": "Hindustan Times",
+       "title": "Calcutta HC sets aside TMC rebel Ritabrata Banerjee’s appointment as Bengal LoP",
+       "link": "https://www.hindustantimes.com/india-news/calcutta-hc-sets-aside-tmc-rebel-ritabrata-banerjee-s-appointment-as-bengal-leader-of-opposition-101795774203886.html",
+       "publishedAt": "2026-11-27T15:40+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Big win for Mamata: HC sets aside Ritabrata Banerjee's appointment as Bengal LoP",
+       "link": "https://timesofindia.indiatimes.com/india/big-win-for-mamata-hc-sets-aside-ritabrata-banerjees-appointment-as-bengal-lop/articleshow/136217317.cms",
+       "publishedAt": "2026-11-27T15:22+05:30"
+      },
+      {
+       "source": "Live Law",
+       "title": "Calcutta High Court Quashes Ritabrata Banerjee's Appointment As Leader Of Opposition In West Bengal...",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT3ZxUTc4dFkzS1hCU3QyTUZtSFZkR0xsdFV5UXdJcWdSNUZiVi1jOXMxTktudmQtaWhCZDlMNVRXUUs3SFlscEJSVjRCODVjM3ZKTDZ2eTd5djZaNnlKXzdSMEt3cHRGN0NYYmhiU3JmZHNJaTNfRURYaUpsMjJGYVRsNlUzNGpMbHpjWk84bmR0anAyUFRCTlpydHc0OXNSWjhGbXp2VXYxWTJtbUx4OGdST2RZcDFMRDUzQ1pMdm11TWt6bUxlUURMUXB3TXVUT2FIczJ0anVRbjNCN3VEeUZHa9IB6AFBVV95cUxNMkN6cU1yMU10ZWtCblJTYnphb0p2NlpmdWF4WnZUanNueng5VFpLdzVVdV9zdXhZZkVmVFpGM3ozaVJIOXlwRTBTWFhyeHUxdjllRGk1RDdoRWN4cHVqRmpNd08zaHVvdkNIdGxISnlJOVFRWmFMTXFzOXpPbnF0T3BQTEpMZWJIdkJGTjZKNy1wbUh5d0tWOE9jbE1JX1dBU3kzQmJHWUZnZ2x5V20wc19hdGFJX0lpMFZpdGN3WWVTUWU2dGxrZlpGRVVDaXpPWUV6MkkweVU2QjZOaFk4TnY1V1lncUlH?oc=5",
+       "publishedAt": "2026-11-27T15:24+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thirupparankundram row LIVE updates: Supreme Court orders deepam to be lit on 'deepathoon' on November 28",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Frontline Magazine",
+      "Live Law",
+      "NDTV",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T18:24+05:30",
+     "score": 7.45,
+     "summary": "The apex court declared that authorities 'wilfully disobeyed' court orders and issued show cause notices on contempt against the Tamil Nadu Chief Secretary, DGP, HR&CE Commissioner, Board of Trustees Chairperson and Trustees",
+     "image": "https://th-i.thgim.com/public/incoming/8oqy2d/article71750557.ece/alternates/LANDSCAPE_1200/9871_10_1_2026_19_30_1_1_9D9D21DC_98E1_4DD7_B870_84C50B4CCFBD.JPEG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Thirupparankundram row LIVE updates: Supreme Court orders deepam to be lit on 'deepathoon' on November 28",
+       "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece",
+       "publishedAt": "2026-11-27T18:24+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"Light Deepam At Deepathoon Tomorrow\": Supreme Court's Big Order Amid Row",
+       "link": "https://www.ndtv.com/india-news/light-deepam-at-deepathoon-tomorrow-supreme-courts-big-order-amid-row-12384448#publisher=newsstand",
+       "publishedAt": "2026-11-27T15:52+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T17:00+05:30",
    "generatedAt": "2026-11-27T17:26+05:30",
@@ -29300,171 +29484,6 @@
        "title": "BREAKING| Supreme Court Dismisses ED's Challenge To Azam Khan's Interim Bail",
        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFVIa18xS01QMUlOYTEyRGl2d3Y0aTFBS093TVhHU0VLbjRZX1VNUUxxZmtkWUtVNUI4R3VEWm1EUy1CUE1FWFBYbk5wQzk4QWdvRVhMMGx0MG9LdVFzOUpFY3FRV3JjSEZveGVsTURqSlpMclozeHV2Nks5dG1WODJ3Tjc5MXU5d0xtYmtxZWRFVHdxaDFhbjBZb3pGODFreDI2M0EyemZoQQ?oc=5",
        "publishedAt": "2026-11-19T10:57+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T15:00+05:30",
-   "generatedAt": "2026-11-19T15:31+05:30",
-   "feeds": 14,
-   "headlines": 307,
-   "stories": [
-    {
-     "title": "Supreme Court refuses to intervene in interim bail granted to SP leader Azam Khan",
-     "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-intervene-in-interim-bail-granted-to-sp-leader-azam-khan/article71718981.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "Live Law",
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T14:10+05:30",
-     "score": 7.52,
-     "summary": "The money laundering case relates to alleged financial irregularities concerning the Mohammad Ali Jauhar University; the Bench said any observations made by Allahabad High Court in its order granting interim bail would not influence the final decision in the case",
-     "image": "https://th-i.thgim.com/public/incoming/awsjh6/article71718972.ece/alternates/LANDSCAPE_1200/Supreme-Court-dG6MGQMIVG.3.jpg.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Supreme Court refuses to intervene in interim bail granted to SP leader Azam Khan",
-       "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-intervene-in-interim-bail-granted-to-sp-leader-azam-khan/article71718981.ece",
-       "publishedAt": "2026-11-19T14:10+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "SC favours Azam Khan's interim bail against ED plea",
-       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/sc-dismisses-ed-plea-challenging-azam-khans-interim-bail-in-money-laundering-case/articleshow/135979254.cms",
-       "publishedAt": "2026-11-19T11:26+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "SC refuses to send SP leader Azam Khan back to jail, declines to interfere with interim bail",
-       "link": "https://www.hindustantimes.com/india-news/sc-refuses-to-send-sp-leader-azam-khan-back-to-jail-declines-to-interfere-with-interim-bail-101795067285100.html",
-       "publishedAt": "2026-11-19T11:18+05:30"
-      },
-      {
-       "source": "Live Law",
-       "title": "BREAKING| Supreme Court Dismisses ED's Challenge To Azam Khan's Interim Bail",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFVIa18xS01QMUlOYTEyRGl2d3Y0aTFBS093TVhHU0VLbjRZX1VNUUxxZmtkWUtVNUI4R3VEWm1EUy1CUE1FWFBYbk5wQzk4QWdvRVhMMGx0MG9LdVFzOUpFY3FRV3JjSEZveGVsTURqSlpMclozeHV2Nks5dG1WODJ3Tjc5MXU5d0xtYmtxZWRFVHdxaDFhbjBZb3pGODFreDI2M0EyemZoQQ?oc=5",
-       "publishedAt": "2026-11-19T10:57+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Anthropic IPO: How Much Dario Amodei, 6 Other Founders Stand To Earn?",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHBUV1hwaHI5WWNEejljbC0zQUNEcGxCY2hLT2Z6QVBrUk1MN3BSNEM4a3YtLWxrWEFtVmFUV3pNWWY3d1c4TGlJUUtBN2c2TDB1ZXJJOFV2Qm5odjluSUJKWmFQNzM4YWFFVkJhcHg1VXVKcVk0SlV2dkhWcEhFNnBBZnNENzZoS0p0OExOckJPcXpwVGxQRUFMY0NkdXFIRGxxbmRsRF92UEROeW40?oc=5",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "CNBC",
-      "NDTV",
-      "Reuters",
-      "The Guardian"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T11:10+05:30",
-     "score": 6.77,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Anthropic IPO: How Much Dario Amodei, 6 Other Founders Stand To Earn?",
-       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHBUV1hwaHI5WWNEejljbC0zQUNEcGxCY2hLT2Z6QVBrUk1MN3BSNEM4a3YtLWxrWEFtVmFUV3pNWWY3d1c4TGlJUUtBN2c2TDB1ZXJJOFV2Qm5odjluSUJKWmFQNzM4YWFFVkJhcHg1VXVKcVk0SlV2dkhWcEhFNnBBZnNENzZoS0p0OExOckJPcXpwVGxQRUFMY0NkdXFIRGxxbmRsRF92UEROeW40?oc=5",
-       "publishedAt": "2026-11-19T11:10+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cyclone ‘Akvan’ heads for Odisha; over one lakh people evacuated",
-     "link": "https://www.thehindu.com/news/national/odisha/cyclone-akvan-heads-for-odisha-over-one-lakh-evacuated-in-the-state/article71719315.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Drishti IAS",
-      "ET Government",
-      "The Hindu",
-      "The News Minute"
-     ],
-     "sourceCount": 4,
-     "publishedAt": "2026-11-19T15:07+05:30",
-     "score": 6.43,
-     "summary": "Odisha Government closes coastal tourist sites including Chilika Lake, Puri beaches, Bhitarakanika and Nandankanan Zoological Park",
-     "image": "https://th-i.thgim.com/public/incoming/gibfui/article71719313.ece/alternates/LANDSCAPE_1200/IMG_0260.JPG",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone ‘Akvan’ heads for Odisha; over one lakh people evacuated",
-       "link": "https://www.thehindu.com/news/national/odisha/cyclone-akvan-heads-for-odisha-over-one-lakh-evacuated-in-the-state/article71719315.ece",
-       "publishedAt": "2026-11-19T15:07+05:30"
-      }
-     ]
-    },
-    {
-     "title": "BJP leader's son run over by flower-showering bulldozer at Akhilesh's Gorakhpur 'rath yatra'",
-     "link": "https://timesofindia.indiatimes.com/india/bjp-leaders-son-run-over-by-flower-showering-bulldozer-at-akhilesh-yadavs-gorakhpur-rath-yatra/articleshow/135977518.cms",
-     "source": "Times of India",
-     "sources": [
-      "India Today",
-      "News18",
-      "The Indian Express",
-      "The New Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T10:14+05:30",
-     "score": 6.23,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135977731,imgsize-2048302.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "BJP leader's son run over by flower-showering bulldozer at Akhilesh's Gorakhpur 'rath yatra'",
-       "link": "https://timesofindia.indiatimes.com/india/bjp-leaders-son-run-over-by-flower-showering-bulldozer-at-akhilesh-yadavs-gorakhpur-rath-yatra/articleshow/135977518.cms",
-       "publishedAt": "2026-11-19T10:14+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "BJP leader's son run over by flower-showering bulldozer at Akhilesh Yadav's Gorakhpur 'rath yatra'",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbmNVeVllMElBS091V1M5V0xGUWo0ZUtxcHY0eGxwV1pSVW8yVmxDRUE5RTd2bXNXcUc4eDJqUEdXcU1SWEtsRnRBMkJQNHYwQ0hxUHg1aTVCMmU0bndaQURrNG9BRUFVZTZIdW9rejBJV2xVUE9ZQ09wal95ZWxiWnNLVjhjaFhtaTFuU1B1WVBfdnBWYkRYbm5RYkdyX0NjY3lES05jZ1NrcDNzWXRVM211NFFBeGRzWjlGTm5fejgxLVVVajhSdTJpc1YwSWhMejYxWEctMlhyNmRJRWZydUlYSFFtUWlaMHdhSGRTOHVYc2FV?oc=5",
-       "publishedAt": "2026-11-19T10:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Indian man found dead inside burning car in Canada, had 'limited known' contacts",
-     "link": "https://timesofindia.indiatimes.com/nri/us-canada-news/indian-man-found-dead-inside-burning-car-in-canada-had-limited-known-contacts/articleshow/135977532.cms",
-     "source": "Times of India",
-     "sources": [
-      "India News Network",
-      "Indo-Canadian Voice",
-      "NDTV",
-      "PGurus",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T10:07+05:30",
-     "score": 6.21,
-     "summary": "Tushar Sharma, a resident of Surrey, was discovered dead in a burning vehicle on October 29. Firefighters located human remains while extinguishing the fire in Langley, British Columbia. The Integrated Homicide Investigation Team is investigating the case for potential motives and contacts. Police believe Sharma was specifically targeted despite his limited criminal background and acquaintances. Investigators…",
-     "image": "https://static.toiimg.com/photo/msid-135977609,imgsize-63724.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Indian man found dead inside burning car in Canada, had 'limited known' contacts",
-       "link": "https://timesofindia.indiatimes.com/nri/us-canada-news/indian-man-found-dead-inside-burning-car-in-canada-had-limited-known-contacts/articleshow/135977532.cms",
-       "publishedAt": "2026-11-19T10:07+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Indian Man's Body Found Inside Burning Car In Canada, Targeted Killing Suspected",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQmN5cThVY2hVTjBXcUNsLVJ3UDVOVjlkbVJMbE1qb1NXX3BKejRsaGxHc3ZBaUZZbWNqRmhRNzJpSkJUdkRDbzZMOU93bDhzMUtEQ1lVS0RqNEFCUU1wcXBFVUtzUURTVmRxRGJKaGVaVC1YeURZUXFhR0FONFVDbENqWUpXekhyb292YURvemN3T1oxRkh2Q0pFaVkwZDdHaFVWZzk1MGRfLUx4QkJ3MVBTQkUxc2pO?oc=5",
-       "publishedAt": "2026-11-19T09:35+05:30"
       }
      ]
     }
