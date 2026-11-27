@@ -1,6 +1,171 @@
 {
- "updated": "2026-11-27T11:35+05:30",
+ "updated": "2026-11-27T12:50+05:30",
  "hours": [
+  {
+   "hour": "2026-11-27T12:00+05:30",
+   "generatedAt": "2026-11-27T12:50+05:30",
+   "feeds": 16,
+   "headlines": 280,
+   "stories": [
+    {
+     "title": "Mahanadi Coalfields Ltd.",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaHJvS2lIZE0xTy1wc1Y4Z3cwMDVEeG5kRFBrM084dkZHNVNtRmlXeEtUQW44S3VETlpXS0o3d29YVXIwVEhfMDVnc2dfTDBUaXptOWN2MHd1RHdOMEw4TzBPQUNWTWJUZGlvNl9PTUhhNm9pTTREUmo3VmRUTVRzQ05EVm5MR0RfX3I1Um4wVFpIU05nS2g0?oc=5",
+     "source": "Moneycontrol.com",
+     "sources": [
+      "BusinessLine",
+      "HDFC Sky",
+      "Inshorts",
+      "Livemint",
+      "MensXP",
+      "Moneycontrol.com",
+      "Newsband",
+      "Reuters",
+      "Sahi",
+      "The Economic Times",
+      "The Times of India"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-27T11:54+05:30",
+     "score": 12.22,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Moneycontrol.com",
+       "title": "Mahanadi Coalfields Ltd.",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaHJvS2lIZE0xTy1wc1Y4Z3cwMDVEeG5kRFBrM084dkZHNVNtRmlXeEtUQW44S3VETlpXS0o3d29YVXIwVEhfMDVnc2dfTDBUaXptOWN2MHd1RHdOMEw4TzBPQUNWTWJUZGlvNl9PTUhhNm9pTTREUmo3VmRUTVRzQ05EVm5MR0RfX3I1Um4wVFpIU05nS2g0?oc=5",
+       "publishedAt": "2026-11-27T11:54+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "Mahanadi Coalfields IPO listing today; Should investors hold or sell shares of the Coal India subsidiary?",
+       "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPc1lyUDVFaDd6YTlTR2NUemV5WlY5NUlpemRNVlRjYlJwSHZPb054RkZ2VWlENHpQUU5kdkp3UU13bGMzZTg4bGhOY3NONWRwNHpkMUU2LXdqQ2V2c1REVDJwVUJHZVlmVXRyREc0cGhFdXliODczNEwzeGtzMU1FcUZxcU9TYUNqSGdZdUhYWnVQU1ctcmJLTS1JZkRMUF84TDBwUElnVlQ4RmxmZl8zbUFHZXVpU1AzZGpGd3ZjT19wT2laYzZBazZwOXlLbHdXZC1vR0F4U2d4VHlNbWlpMkc1eVJIQUlwNzBmRWlfblo0X0tTSFdza2VHQWl2MEd2SlYxWEMydlBla0F5WkJ2SU9Lci1aY0paZGNiTDJsSkVUMy1wYmZic9IBrgJBVV95cUxNcWtZM0R2blJ5UDVhWEJScFBScFRyanBWRzFPdWZIMDQwemgtSlhoaDFrLU1XTHdjUy02UWtwR0JiVlVzOEtReFcxSHUxTnZwcWRzd01IM2dXaEFJNHNVT1lrOG5qY0xlUU53Z1ZDMUxpeElENlpZR3ZvTHo4cWNqVkF0NS0tYld0eVRFUllISzN1cU9zdlRLU3VNZmgtamxIc3RVOGMya3hVWDFyd3hyZEFQbjN3Y2ctbGk0SXlUX20wX181cEludk14cU9EWjd6cDNLNkpvLUZDaVJuRExkY09jWGY3dGR6b3hiWWJBMERhNjhrMGhtVGhaR0tKa2FhRzdNUndEY0RCeWp3VG4zYWhfSkc4dXNLYlg1WVNubm9rbGtxckNqZzdNV3dmQQ?oc=5",
+       "publishedAt": "2026-11-27T07:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Kejriwal's Sheesh Mahal: Public entry date?",
+     "link": "https://economictimes.indiatimes.com/news/new-updates/inside-arvind-kejriwals-sheesh-mahal-from-rs-11-56-lakh-chandelier-and-rs-5-69-lakh-curtains-to-public-opening-date-and-rs-20-ticket-price-check-when-entry-will-open-for-visitors/articleshow/136210499.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "Inshorts",
+      "Moneycontrol.com",
+      "NDTV",
+      "The Economic Times",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-27T11:25+05:30",
+     "score": 7.88,
+     "summary": "Delhi Minister Parvesh Verma told NDTV that former chief minister Arvind Kejriwal spent Rs 56 crore on the government bungalow, dubbed 'Sheesh Mahal' by the BJP.",
+     "image": "https://c.ndtvimg.com/2026-11/l8ejrtg8_sheesh-mahal_625x300_27_November_26.jpeg",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "Kejriwal's Sheesh Mahal: Public entry date?",
+       "link": "https://economictimes.indiatimes.com/news/new-updates/inside-arvind-kejriwals-sheesh-mahal-from-rs-11-56-lakh-chandelier-and-rs-5-69-lakh-curtains-to-public-opening-date-and-rs-20-ticket-price-check-when-entry-will-open-for-visitors/articleshow/136210499.cms",
+       "publishedAt": "2026-11-27T11:25+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Rs 11-Lakh Chandelier, 30-Lakh TV Unit: Inside Arvind Kejriwal's 'Sheesh Mahal'",
+       "link": "https://www.ndtv.com/india-news/arvind-kejriwals-sheesh-mahal-media-tour-begins-rs-11-lakh-chandelier-2-lakh-recliner-seen-12383158#publisher=newsstand",
+       "publishedAt": "2026-11-27T11:09+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Rs 11L chandelier, Rs 5.5L sofa': Delhi govt opens doors of 'Kejriwal's Sheesh Mahal'",
+       "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-govt-opens-arvind-kejriwals-sheesh-mahal-to-media-plans-public-tours-with-rs-20-entry-fee/articleshow/136208848.cms",
+       "publishedAt": "2026-11-27T09:56+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Rs 5.47 lakh sofa, Rs 11 lakh chandelier': Delhi govt opens doors of Arvind Kejriwal's 'Sheesh Mahal'; h",
+       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbnZvdUdzRzN2VFZPbTUwdkFseFpSZ0Z1VDdFTlFINGYxTXo4aWVnNkpBaWxqczAxSGFzWnN0WWVEZlZaTVBVWHd3SVgzLTZydjloNjJnd0NzeHNfYVZpVmp4TlRMeTJLbGx6dkpuWUJRSWx3dHo2OTRURGEzSDJadVRyRFBBTG9IN0ZwandkREtzX3VaNzJCNnJWR21rMVRFRnZDSEd4ajFjNXJnQnpVSTJjLU5nd2pjaE4yWG5KVGMxdTJOakpySWZLT0FuOWtiVGRFT3FTZkJlRkMwcGhWM0NoTGVoN083NDJxTkVjbWF5VnZyYUFKZmJLVDU?oc=5",
+       "publishedAt": "2026-11-27T09:56+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens 700 Points Lower Amid Mixed Global Cues",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDl6MlpsZWZjQ0pYSE5QSjdveVJzYnJ6UUFPQmJOTk9wMWNES3EzMGJubWpIUU5kZEVicnVNVzVfNmlUejBTaXF1Vkt5ZzRjWmZCd0pFc1pKcTE5cWVNSG9NLUtqMXZCN1lBN0pPc3pZeEVmMXpQR3FVb0ptOWI0dGhzbUdUSFlWNV84MjV1MzNBWVRkbkhwZThWVTVWOUgyc2piVkNfb01QbFVCSElxU3pGNUVKZENwbVdxSXVvRnlSbVdjV0g0WkNwMHBtN2ps0gHYAUFVX3lxTE0wVWdNUlVMWC1WNllySjMtT09fUTJ6Wk4tenBDMXkwbXUyMDJqVlJ6WVdHOGxKVFV6YmU0Um9lZlY5TUZfTml2UzNfTU5ZamZqQ0VKUDJVQlJ4NTZtcjJOOTFEWDRUbjc2RUVHV29fR2RGaUp4SmVmRVJQZDZHZWdCb1dLd1FjTmw5RmtWSFByU2NkNFJVTjBkdVNZRkJlLVc0R25qM2RXaU43ZTJEODR1UkR2U2VTZFVOZ3lVZmM0LS1KZVNMQXAxcFRzd284STJDUlJ5c2hrSQ?oc=5",
+     "source": "NDTV",
+     "sources": [
+      "Business Standard",
+      "BusinessLine",
+      "NDTV",
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T11:33+05:30",
+     "score": 7.29,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens 700 Points Lower Amid Mixed Global Cues",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDl6MlpsZWZjQ0pYSE5QSjdveVJzYnJ6UUFPQmJOTk9wMWNES3EzMGJubWpIUU5kZEVicnVNVzVfNmlUejBTaXF1Vkt5ZzRjWmZCd0pFc1pKcTE5cWVNSG9NLUtqMXZCN1lBN0pPc3pZeEVmMXpQR3FVb0ptOWI0dGhzbUdUSFlWNV84MjV1MzNBWVRkbkhwZThWVTVWOUgyc2piVkNfb01QbFVCSElxU3pGNUVKZENwbVdxSXVvRnlSbVdjV0g0WkNwMHBtN2ps0gHYAUFVX3lxTE0wVWdNUlVMWC1WNllySjMtT09fUTJ6Wk4tenBDMXkwbXUyMDJqVlJ6WVdHOGxKVFV6YmU0Um9lZlY5TUZfTml2UzNfTU5ZamZqQ0VKUDJVQlJ4NTZtcjJOOTFEWDRUbjc2RUVHV29fR2RGaUp4SmVmRVJQZDZHZWdCb1dLd1FjTmw5RmtWSFByU2NkNFJVTjBkdVNZRkJlLVc0R25qM2RXaU43ZTJEODR1UkR2U2VTZFVOZ3lVZmM0LS1KZVNMQXAxcFRzd284STJDUlJ5c2hrSQ?oc=5",
+       "publishedAt": "2026-11-27T11:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bengali actor Mimi Chakraborty marries marine engineer Siddhartha Dutta; couple registers marriage in Kol",
+     "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNTVJhdXdwRUdiSU1WMmNlQnp0aW4tTEsyVnRwRE92OFA0eWtyMVVMRmp2SDFqV2YwMW1ZWlA1bkppaURaWUVLbnlNemcyZkt1UjhvaXNpeDhvbU5oZWdZbmJHakZXVk5RTHlUeVZ2Q0dQQ3haaC1IaEJSekdvd0IxZGxLMUR2azZqOVc3UUF1WGtHWkwyTE9mZ0t1VEpSUXNjTUdGWFNwZDdMbWM3al83RDVwaDFYU29ucloyZlZYLXRaWVhQbS1rRnRDLUdwTHhuVlBSVVVVZl90ak1TQ083Ry1YMkM0SE1ySTVwRVlRZUo3bmJNZFh0WnRJejh0NlQzaDVoX2tUQ21PcEk1YkpzVVdOaVQwS0NDRFlPcjJtYU1hdXJjVUZFa290LVk?oc=5",
+     "source": "The Times of India",
+     "sources": [
+      "India TV News",
+      "Inshorts",
+      "Telegraph India",
+      "The Times of India",
+      "t2ONLINE"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T11:14+05:30",
+     "score": 7.23,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Times of India",
+       "title": "Bengali actor Mimi Chakraborty marries marine engineer Siddhartha Dutta; couple registers marriage in Kol",
+       "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNTVJhdXdwRUdiSU1WMmNlQnp0aW4tTEsyVnRwRE92OFA0eWtyMVVMRmp2SDFqV2YwMW1ZWlA1bkppaURaWUVLbnlNemcyZkt1UjhvaXNpeDhvbU5oZWdZbmJHakZXVk5RTHlUeVZ2Q0dQQ3haaC1IaEJSekdvd0IxZGxLMUR2azZqOVc3UUF1WGtHWkwyTE9mZ0t1VEpSUXNjTUdGWFNwZDdMbWM3al83RDVwaDFYU29ucloyZlZYLXRaWVhQbS1rRnRDLUdwTHhuVlBSVVVVZl90ak1TQ083Ry1YMkM0SE1ySTVwRVlRZUo3bmJNZFh0WnRJejh0NlQzaDVoX2tUQ21PcEk1YkpzVVdOaVQwS0NDRFlPcjJtYU1hdXJjVUZFa290LVk?oc=5",
+       "publishedAt": "2026-11-27T11:14+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Wordle today: The answer and hints for November 27, 2026",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYVHB3Z2dZYVBBakxZS1ZHZndjYjk2b3RXQ09IcVkxUmFhZVNCZXpFdzByZjNtUU5ha0lkTjJaLUZFSU1XT1RySmlvUDRwUUxMakc1dEpvYXFDUl9aWUhTOFFyRW81QllBN0pzeDdqM0VsZGxMZG93YmNSRQ?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "CNET",
+      "Forbes",
+      "IGN India",
+      "Mashable",
+      "PC Guide"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-27T10:52+05:30",
+     "score": 7.17,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "Wordle today: The answer and hints for November 27, 2026",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYVHB3Z2dZYVBBakxZS1ZHZndjYjk2b3RXQ09IcVkxUmFhZVNCZXpFdzByZjNtUU5ha0lkTjJaLUZFSU1XT1RySmlvUDRwUUxMakc1dEpvYXFDUl9aWUhTOFFyRW81QllBN0pzeDdqM0VsZGxMZG93YmNSRQ?oc=5",
+       "publishedAt": "2026-11-27T10:52+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-27T11:00+05:30",
    "generatedAt": "2026-11-27T11:35+05:30",
@@ -29292,164 +29457,6 @@
        "title": "Transport Unions To Protest For Auto-Taxi Fare Hike In Delhi Today",
        "link": "https://www.ndtv.com/delhi-news/transport-unions-to-protest-for-auto-taxi-fare-hike-in-delhi-today-12344109#publisher=newsstand",
        "publishedAt": "2026-11-19T08:24+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-19T09:00+05:30",
-   "generatedAt": "2026-11-19T09:25+05:30",
-   "feeds": 16,
-   "headlines": 196,
-   "stories": [
-    {
-     "title": "Gemini Horoscope Today: November 19, 2026",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FNnBTTXdmalE0b0E4U3Fyc2ZpbzJDREZGeWJDQldFRVQ5Zl9zX3NReExvSHFJd0NfWnk0RkNac2pZZF9oMFJkcHotSlhqRDd0bTZaVlctNmd4dkVOTlIwaDRXYzU4NVI5clZOVkQ0M0pRNWFrUTMw?oc=5",
-     "source": "Vogue India",
-     "sources": [
-      "Deccan Herald",
-      "Hindustan Times",
-      "India Today",
-      "News18",
-      "Odisha TV",
-      "OrissaPOST",
-      "The Economic Times",
-      "The Times of India",
-      "Vogue Arabia",
-      "Vogue India"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-19T05:50+05:30",
-     "score": 10.55,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Vogue India",
-       "title": "Gemini Horoscope Today: November 19, 2026",
-       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FNnBTTXdmalE0b0E4U3Fyc2ZpbzJDREZGeWJDQldFRVQ5Zl9zX3NReExvSHFJd0NfWnk0RkNac2pZZF9oMFJkcHotSlhqRDd0bTZaVlctNmd4dkVOTlIwaDRXYzU4NVI5clZOVkQ0M0pRNWFrUTMw?oc=5",
-       "publishedAt": "2026-11-19T05:50+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-     "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "sources": [
-      "BBC",
-      "BBC News",
-      "CNBC",
-      "Deadline",
-      "NDTV",
-      "Reuters",
-      "The Guardian"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-19T08:29+05:30",
-     "score": 8.14,
-     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
-     "articles": [
-      {
-       "source": "BBC News",
-       "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-19T08:29+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Musk Felt \"Pretty Foolish\" Spending Rs 4,700 Crore On US Midterms",
-       "link": "https://www.ndtv.com/world-news/musk-felt-pretty-foolish-spending-rs-4-700-crore-on-us-midterms-12346664#publisher=newsstand",
-       "publishedAt": "2026-11-19T07:31+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Musk says he felt 'pretty foolish' about scale of midterm spending after Republican rout",
-       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTl9SMXVYalFha1V6ZW9BWWRQTUl5TDE3cUlRcjVFTVdSM3VmNUFxbFhkUWlleTFyaG5KUl9ObFE5dkM1NXk1UkNMZHFVRTNHLXVxdF9DRTN0NUdENEtVbUthWTNHVWkwQk1uZUFIWkp4Z21EVkZmdmRLd1FNUHpMSEIxNzY3b29fTWtsMTduYXJveEhPZmVBdjBPWXFPSXg0bjc0bUU5ZWQyck1QZTltSUdPdE5sLTk1cGZacjY0QVRjTWVTdFctMHYtX3NUdnFHVGIw?oc=5",
-       "publishedAt": "2026-11-19T06:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Grand Theft Auto 6 gets UK release after 13-year wait for gamers around the world",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
-     "source": "BBC",
-     "sources": [
-      "BBC",
-      "Bloomberg",
-      "CNN",
-      "NDTV",
-      "The Guardian"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T09:11+05:30",
-     "score": 7.46,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "BBC",
-       "title": "Grand Theft Auto 6 gets UK release after 13-year wait for gamers around the world",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
-       "publishedAt": "2026-11-19T09:11+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Anthropic raises $81.3bn in biggest IPO of all time",
-     "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "CNBC",
-      "NDTV",
-      "Reuters",
-      "cfo.economictimes.indiatimes.com"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T08:39+05:30",
-     "score": 7.37,
-     "summary": "AI giant's prices shares at $83 in blockbuster market debut.",
-     "image": null,
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Anthropic raises $81.3bn in biggest IPO of all time",
-       "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
-       "publishedAt": "2026-11-19T05:50+05:30"
-      }
-     ]
-    },
-    {
-     "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
-     "link": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "NDTV",
-      "The Guardian",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T08:27+05:30",
-     "score": 7.34,
-     "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
-     "image": null,
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
-       "link": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
-       "publishedAt": "2026-11-19T08:27+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Xi-Trump-Putin trilateral meeting LIVE: Leaders meet with nuclear arms and two wars on table",
-       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTER4cFc2cEpRbmd1aWp0X1pkR3oxTEFUdHNKRnRSTDU2QXdTd21yOElQbWp1dzBqTVRLUUE5NS1DSXQydmEzOHlLdGtjczNYTTQyY2J0MjNQY0xPcG1LNzF2N0xSa01jV3BpX21FRzFZaXd4c2VnaUQxaGhMNHplUUlFYkRqTmcyTlR1dHhlb1Qwem54QmNZVFlxeGdhSmU1Z1k1TUE2dkZsTlFTYnVGUFN0NDZhZVhlSWt4LUZlQnFsQ2M2RTJlYnlaVnFsTWVIMU9nM0JMNjV3YjRTMW1zb203aEswWFoyTEJwTkNFWUE0ODYyVmfSAfwBQVVfeXFMUFZ6UGs2aVNoOFdsZldlR2hUcFFUbm84d2RLYzFtejZjTHVQQlBvX2RYVkwyNkhSTzFUZE5BU09ramhCZUVvZTFtVkIzenQ1MHBaWVFHc1hrd3pWYnZ0dlhLRXdEbWJXNUFIRHZfa2RCX3ZnLUlZc1NTTzlSamV3OTNZLVRnRXladEE2RTVYaW5PRVh0OXhlc3VNVjBvRzhXX1BIUnp4bkQ3WWdCNWpzZDhzNWptUFBmeXNubGJBRkVHNTkxb3pKSVhKczZyakFkcTMtRGZyWjRGQlBGR19RbFYycTVraU00TXJ2aVY0MWY0cnZyQVJpMFNENWsx?oc=5",
-       "publishedAt": "2026-11-19T07:54+05:30"
       }
      ]
     }
