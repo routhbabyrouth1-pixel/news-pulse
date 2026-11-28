@@ -1,6 +1,158 @@
 {
- "updated": "2026-11-29T00:18+05:30",
+ "updated": "2026-11-29T01:22+05:30",
  "hours": [
+  {
+   "hour": "2026-11-29T01:00+05:30",
+   "generatedAt": "2026-11-29T01:22+05:30",
+   "feeds": 16,
+   "headlines": 222,
+   "stories": [
+    {
+     "title": "O.M Operation Mole Box Office Collection Day 9",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0tXdXM0YnVNcHcxNkNVZy1DblJzWHJENFppMHNCT2RRaEppZktjVFZPMmc5V1hoMzFvRFNncEZKWHZyUFgyZWpQSDRQb1p3anJtT0xMa0xISHNrT3Etc0ExT3lwdHBGN2I5bTZoZ2l4UEtuaTMzN1RBcGk2Z2ZqdW14UDZ2UGM3aDhTa0NiYks?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "Bollywood Hungama",
+      "India TV News",
+      "India Today",
+      "Rediff.com",
+      "Sacnilk",
+      "THE WEEK",
+      "The Economic Times",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-29T01:11+05:30",
+     "score": 11.07,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "O.M Operation Mole Box Office Collection Day 9",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0tXdXM0YnVNcHcxNkNVZy1DblJzWHJENFppMHNCT2RRaEppZktjVFZPMmc5V1hoMzFvRFNncEZKWHZyUFgyZWpQSDRQb1p3anJtT0xMa0xISHNrT3Etc0ExT3lwdHBGN2I5bTZoZ2l4UEtuaTMzN1RBcGk2Z2ZqdW14UDZ2UGM3aDhTa0NiYks?oc=5",
+       "publishedAt": "2026-11-29T01:11+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sindarov Holds Draw In Game 4 As Gukesh Again Springs Early Surprise",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNFRlUjZyb1FlQU8zcW1fWE5VVmlfNkJwSm9WbHFtSU05VFNIckRLemp6ZjFQZ3J5UzRad2hKd1M2ZDVXWFlwbWhIYVRyN1NTYnhtRDJId01ZVTM0SXpnQ3dOZ2dyeEM4RDR6bkdYNWVqTVJHUWJPUTQzLTRndw?oc=5",
+     "source": "Chess.com",
+     "sources": [
+      "Chess.com",
+      "ESPN India",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T23:10+05:30",
+     "score": 7.14,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Chess.com",
+       "title": "Sindarov Holds Draw In Game 4 As Gukesh Again Springs Early Surprise",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNFRlUjZyb1FlQU8zcW1fWE5VVmlfNkJwSm9WbHFtSU05VFNIckRLemp6ZjFQZ3J5UzRad2hKd1M2ZDVXWFlwbWhIYVRyN1NTYnhtRDJId01ZVTM0SXpnQ3dOZ2dyeEM4RDR6bkdYNWVqTVJHUWJPUTQzLTRndw?oc=5",
+       "publishedAt": "2026-11-28T23:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India beat China to take Women's Asian hockey crown",
+     "link": "https://economictimes.indiatimes.com/news/sports/hockey/india-beat-china-3-1-to-clinch-third-straight-womens-asian-champions-trophy-hockey-title/articleshow/136250917.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "ESPN India",
+      "Hockey India",
+      "News On AIR",
+      "Sportstar",
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T21:32+05:30",
+     "score": 7.11,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "India beat China to take Women's Asian hockey crown",
+       "link": "https://economictimes.indiatimes.com/news/sports/hockey/india-beat-china-3-1-to-clinch-third-straight-womens-asian-champions-trophy-hockey-title/articleshow/136250917.cms",
+       "publishedAt": "2026-11-28T21:32+05:30"
+      },
+      {
+       "source": "Sportstar",
+       "title": "India vs China Highlights: India beats China 3-1 in the Women's Hockey Asian Champions Trophy 2026 Final; Win 3rd title in row",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTzBlNDd0ZVRGWjN2UjZJaEN6NGRtUWFiSUdrQUNUVGt4djl1SUhNNFhkSW1kSGllZ0dFc2dodEc4dHlmbWE2SlhXOUl4NldzeFBwSXJZa1lxZk9iLUdWZG1yU2J5Z3JNNHBSQkFfWU5aNVV6Ulo0REZlZ011N1NzN3h1d0VpUlV3RS02dTdSd05kVTlYblk5QUlUUU5hRmkwM2g4c1hJdFVOSW1UZHhJYW1qMW1jbTdaYU5rbS1pVHJaQdIByAFBVV95cUxPek5qVS1SbFd1eUlwOG4xOXYxaF9JRHZrMnpyS3dneDRZa1lsYTEtbVpaOUxJa1I2SmZwOHd4LUw4LXdzWWJyVEthSGIyeXFlRmxpUFJTbmdOR1BheGhuank4VFE0QXlndjNtZ2Nqb0FOUXdmUC1Ud0RybGYzZ0RIdnJCb1dqdGNmYk9DMDRMRV9PNWFFMWlGNV96T0E2dVFiV2d3bkU1WFotNXczVmszcWRhRGhUWVZLYlg5LUxrV1g0VEJiZHRnNg?oc=5",
+       "publishedAt": "2026-11-28T21:09+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'I feel sorry': Kapil Dev's strong reaction to Mohammed Siraj's continued Test snub",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/i-feel-sorry-kapil-devs-strong-reaction-to-mohammed-sirajs-continued-test-snub-in-new-zealand/articleshow/136251365.cms",
+     "source": "Times of India",
+     "sources": [
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express",
+      "The New Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T22:06+05:30",
+     "score": 6.65,
+     "summary": "Kapil Dev expressed his disappointment over Mohammed Siraj's absence from India's playing XI in the ongoing Test series. Given Siraj's impressive track record in SENA conditions, many, including Jeremy Coney, are baffled by this choice. They emphasised the pacer's earlier performances, notably in England, which showcased his skills.",
+     "image": "https://static.toiimg.com/photo/msid-136251431,imgsize-593198.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'I feel sorry': Kapil Dev's strong reaction to Mohammed Siraj's continued Test snub",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/i-feel-sorry-kapil-devs-strong-reaction-to-mohammed-sirajs-continued-test-snub-in-new-zealand/articleshow/136251365.cms",
+       "publishedAt": "2026-11-28T22:06+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'I feel sorry': Kapil Dev's strong reaction to Mohammed Siraj's continued Test snub in New Zealand",
+       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWl9wd0NVWUNDb2oyZ0c4eGNTenc1dU5BMEljS2JCbTREV1EwNnltT0RrdWVkQUZQVFlDeWZWUDBFd1RCeU0tYmRaNXZTM1NfWWhLcnFSUVEwenNFYUpZc2x6bFMtSUNzRmFfSGRpeEc4dC1fSHZVR3BUbXVkdG90S1VYMzh5Q0pzcHNZY3RUU2M3LTE1cndnUjJPcWphaG5ZRjREVVBnNGhnYng4S1F4Zkl5UlRpc3ZWQ1VYQzRzRE1YRjlVUUkwRmNZN2Q4N1RLOGJrOGVGazhpVHVhT3gtN0gtZnVNSV9jLUxMYnRJcFZxYmcyaXcwRXhNenlVZGJtZ0RyLWdsdVRsUHFiek5LNEpVYXRpU0lfbGRr?oc=5",
+       "publishedAt": "2026-11-28T22:06+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Israel Live Updates: Netanyahu willing to let Eisenkot serve first as PM in proposed unity government",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX3laRXJ1MzRaN25nbmRDWUs4VEttQ3RXOHB6YlFzOVZkX0VaNFdmc292ck9VODJ4WjVUWXhPdjlrQV9SN2pTNXpFNHRTTFlBOWtwU1oxSlU2cFRqZnVQMVRncVRwT2ttVWRQZV9pa3RGRklqblRyUnRyS0QzTmttdTdKVkVZMk1hMjF3emhSSHNXaXFVWTNWQVpMQjBLZHVlTl9wYkMzSEd4WG94amZyM1Z0OVpVU2ViVmkzN0NVQk9DMzlTTFZ1SW4wYWlSM3JTYU9NVlpwYmxsVGVsT25Db2o3SlMxQks3MjVRUHN5MWLSAfcBQVVfeXFMTV90SlhmQXBKRGFfQVB2Uk15YVl4ZUZ1OG9MTXJ0cU9HdlM2ZmtFNFZTN0gtOVUtQWRjbWgyVjhRLVR2UDhHYlhGYllPTFZ6LW1kSGVuZDRCZHBQYnpkZGFUbXA5MC14eFZ1aTF4WklKYXAydUhHUHFid09BXzhyYnJNX1B4R0hDWmVyWWFkUmRwaXVRSkpiUHN1bkREcThhLVo2WUJxQi16S0lLbk5NZ2t6SlNYbHNCaU1id0QxYmhjQ296LUhNSmVEa2J3dE5hNk9scktZMlh3djIxUFNGTWFwdEtqWlViSHVhLXJVNGU5eVh1YmVGUQ?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "BBC",
+      "CNN",
+      "Reuters",
+      "The Hindu",
+      "The Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T22:23+05:30",
+     "score": 6.25,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Israel Live Updates: Netanyahu willing to let Eisenkot serve first as PM in proposed unity government",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX3laRXJ1MzRaN25nbmRDWUs4VEttQ3RXOHB6YlFzOVZkX0VaNFdmc292ck9VODJ4WjVUWXhPdjlrQV9SN2pTNXpFNHRTTFlBOWtwU1oxSlU2cFRqZnVQMVRncVRwT2ttVWRQZV9pa3RGRklqblRyUnRyS0QzTmttdTdKVkVZMk1hMjF3emhSSHNXaXFVWTNWQVpMQjBLZHVlTl9wYkMzSEd4WG94amZyM1Z0OVpVU2ViVmkzN0NVQk9DMzlTTFZ1SW4wYWlSM3JTYU9NVlpwYmxsVGVsT25Db2o3SlMxQks3MjVRUHN5MWLSAfcBQVVfeXFMTV90SlhmQXBKRGFfQVB2Uk15YVl4ZUZ1OG9MTXJ0cU9HdlM2ZmtFNFZTN0gtOVUtQWRjbWgyVjhRLVR2UDhHYlhGYllPTFZ6LW1kSGVuZDRCZHBQYnpkZGFUbXA5MC14eFZ1aTF4WklKYXAydUhHUHFid09BXzhyYnJNX1B4R0hDWmVyWWFkUmRwaXVRSkpiUHN1bkREcThhLVo2WUJxQi16S0lLbk5NZ2t6SlNYbHNCaU1id0QxYmhjQ296LUhNSmVEa2J3dE5hNk9scktZMlh3djIxUFNGTWFwdEtqWlViSHVhLXJVNGU5eVh1YmVGUQ?oc=5",
+       "publishedAt": "2026-11-28T22:23+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-29T00:00+05:30",
    "generatedAt": "2026-11-29T00:18+05:30",
@@ -28895,174 +29047,6 @@
        "title": "Watch: Paper bombs hurled, firecrackers bursted outside education ministry in Italy as protests intensify",
        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ3NEU0lQX3pjQ1FNN1VIVVNDd1hsTkczNGtBaEY5ajg5d0c5NGpLTlNqYVhhajQzVk1jRmtqNEpRZnFnSzFUeW0zM2pVRERoU2JRS1R5bUVNNWNLWm4wYzJDWmI3Z0dJNkdtNnhQeWtRM1dVT3JwZy02emEzbFJMeTRLODJfeFBPdnRGeW80MEJSTTJzQTdTZzFFZnBWM0g0Szh2eGt1ZEp2MlJUNC03QnlQeDR2WFc1TkNFV2p1Ty1qY2tWamNJLW13YTJXSVpZOThRVGxrZmUzQlNmUDYzU0lCMmhxWkxFQ1d1aTY5MUhwSDJnOXkwM0JHVl83bi12WE5EcTVMUlJaUQ?oc=5",
        "publishedAt": "2026-11-20T21:47+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T23:00+05:30",
-   "generatedAt": "2026-11-20T23:25+05:30",
-   "feeds": 15,
-   "headlines": 279,
-   "stories": [
-    {
-     "title": "Godzilla Minus Zero Box Office Collection Day 1",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWNRZ1NleXloWDFzcmFqTDZXWndQQTNGeUstVmlUclpZeWk4a21fN0NXSHA3dzdBbUhuQWJ3UXU0MUdEY05sMGkwWmlwWFgwN0JMMVRzV0pVVGh3aWJpODM4VHBtR2RqUGdGZU82LWtfbmtQN3dmVjNTbXU5MVNYb2pCTGZOSWlnNEdydFpCYw?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "Deccan Chronicle",
-      "IMDb",
-      "Koimoi",
-      "NDTV",
-      "Sacnilk",
-      "THE WEEK",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Tupaki English",
-      "UB - Universitat de Barcelona",
-      "iDiva"
-     ],
-     "sourceCount": 12,
-     "publishedAt": "2026-11-20T22:33+05:30",
-     "score": 13.07,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Godzilla Minus Zero Box Office Collection Day 1",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWNRZ1NleXloWDFzcmFqTDZXWndQQTNGeUstVmlUclpZeWk4a21fN0NXSHA3dzdBbUhuQWJ3UXU0MUdEY05sMGkwWmlwWFgwN0JMMVRzV0pVVGh3aWJpODM4VHBtR2RqUGdGZU82LWtfbmtQN3dmVjNTbXU5MVNYb2pCTGZOSWlnNEdydFpCYw?oc=5",
-       "publishedAt": "2026-11-20T22:33+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India develops first indigenous H5N1 bird flu vaccine, priced at  ₹1-2 per dose",
-     "link": "https://www.livemint.com/news/india-develops-first-indigenous-h5n1-bird-flu-vaccine-priced-at-1-2-per-dose-11795177299717.html",
-     "source": "Mint",
-     "sources": [
-      "ET Manufacturing",
-      "Hindustan Times",
-      "Mint",
-      "NDTV",
-      "News On AIR",
-      "Telegraph India",
-      "The New Indian Express"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-20T19:27+05:30",
-     "score": 7.38,
-     "summary": "India launched its first indigenous H5N1 bird flu vaccine priced at ₹1-2 per dose. The government says the vaccine will help limit poultry losses from recurring outbreaks and improve disease preparedness.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Bird-Flu-0_1716431781371_1795182640372_CIfP_cf4d0fd3-4941-4e4c-afd9-4e3edf25dd6f_dweg.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "India develops first indigenous H5N1 bird flu vaccine, priced at  ₹1-2 per dose",
-       "link": "https://www.livemint.com/news/india-develops-first-indigenous-h5n1-bird-flu-vaccine-priced-at-1-2-per-dose-11795177299717.html",
-       "publishedAt": "2026-11-20T19:27+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "India unveils first indigenous H5N1 bird flu vaccine for chickens at  ₹1-2 per dose",
-       "link": "https://www.hindustantimes.com/india-news/india-unveils-first-indigenous-h5n1-bird-flu-vaccine-for-chickens-at-1-2-per-dose-101795182511502.html",
-       "publishedAt": "2026-11-20T19:18+05:30"
-      },
-      {
-       "source": "News On AIR",
-       "title": "India develops first indigenous H5N1 bird flu vaccine",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3M0VTRrcERsRHdCSElhdGh1dGRzOVFsTFlQX3IyVnZscnFIRnFueGNFRWV1WFIwVE9paGNSWFlKYWg0U2FzT0hqM3lJNF9vUVlNR1pXWTVDU3VneUJkVUl5V2N4YXNLVEZmMXR0VFdNcjI3YXl1eVY2MTBCc1ZBWUVTZDVyUQ?oc=5",
-       "publishedAt": "2026-11-20T17:59+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Pahalgam attack: China yet to share info on how its GoPro was found on terrorists",
-     "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-beijing-yet-to-share-info-on-how-gopro-camera-us-supplied-to-china-were-found-on-terrorists/articleshow/136031503.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "India Today",
-      "Telegraph India",
-      "The Times of India",
-      "Times of India",
-      "Vibes Of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T20:41+05:30",
-     "score": 7.04,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-136031569,imgsize-262552.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Pahalgam attack: China yet to share info on how its GoPro was found on terrorists",
-       "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-beijing-yet-to-share-info-on-how-gopro-camera-us-supplied-to-china-were-found-on-terrorists/articleshow/136031503.cms",
-       "publishedAt": "2026-11-20T20:41+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Pahalgam attack: Beijing yet to share info on how GoPro camera US supplied to China was found on terroris",
-       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdndSWEhobkZLTG1RVWotTnRXNmg5VVpmTW5kNFhMSFJpUWFjOXZOSlJXNVAydnNSTEtOVU8tTl9Da1BFbEl0RW9fV1YtVjhmRTlyNFFSc3BIRjN4NjhrWExrdW9ra1dpX1Ffc21WYlotMjhQY0UwVWt6Si15M3VoanZHM1p6bHkyemtyN3VFSFQ0OENNaVhGcUZCVkpDTS00cmFfSkIxNTFjeVNkV0lLYmk5YjVyWlhGLW0tVEdGaENlc1NHYVlaeGNSTGRLSUVqVHNLRGhkc3BUNFRia3BncDRvQnRwYnlqWnhDTzhuOGluMDhHUkN0U0tvbk54TmJHV3VEUDVR?oc=5",
-       "publishedAt": "2026-11-20T20:41+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Rajasthan Panchayat Election Results 2026: Check ward-wise winners’ list for Zila Parishad and Panchayat Samitis",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlp4Tk03TjYySFpPZzF5MmRxVDJyQndnbXlLQUhsaXladC1WWDVNanp3b3dnQ21mbDB6NUg4X3ZJNFBWSm43SktWaTVaajdkY3NiRWVTMkVTOEF1WFhGZjhkQ2ZrX2JFOUZBUmRaYnZjM19wMmM5RWw3MGJmRXZET1VRcnFoV0t5U0c2cUtpMVpfQk5nbzZkOGxKaDAzSktFMjBsemRCb1V4WjFsY0xkdV9nOHE5NF93TVVqVUV4ckpMbzl6LVVRMkpEYUVjMG1rMW03UnZuemhkdEVZOVHSAeQBQVVfeXFMTjJHNTdxOVNFRG1rS1UwVXhudVJlZGVqTG1sOUY2bFRWeW1oeVVQejRxUnRNQXNCM19tWi1sNnRPVEFIUjk2YU1iSzFvRENqTVFPX3g5Sk9UaGx1bTZ4Und3b3lBa3hXa2JHYk44cnkxYWxRaGQ2d3VaU0pkdU5KeU45ZWZ5c1hXVWdMR1pOMDZRVF91ZFZHbHE3OVNFQWpVZWstT3JEcUE4M2oyLVRjQWRSM2RBeF90b2xxTTBvSVN5alpLUGFLdmtXSTJiZmxFRWtUMFRTM0duMTJadmVDci1nNVNV?oc=5",
-     "source": "The Indian Express",
-     "sources": [
-      "NDTV",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India",
-      "ThePrint"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T22:26+05:30",
-     "score": 6.59,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Indian Express",
-       "title": "Rajasthan Panchayat Election Results 2026: Check ward-wise winners’ list for Zila Parishad and Panchayat Samitis",
-       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlp4Tk03TjYySFpPZzF5MmRxVDJyQndnbXlLQUhsaXladC1WWDVNanp3b3dnQ21mbDB6NUg4X3ZJNFBWSm43SktWaTVaajdkY3NiRWVTMkVTOEF1WFhGZjhkQ2ZrX2JFOUZBUmRaYnZjM19wMmM5RWw3MGJmRXZET1VRcnFoV0t5U0c2cUtpMVpfQk5nbzZkOGxKaDAzSktFMjBsemRCb1V4WjFsY0xkdV9nOHE5NF93TVVqVUV4ckpMbzl6LVVRMkpEYUVjMG1rMW03UnZuemhkdEVZOVHSAeQBQVVfeXFMTjJHNTdxOVNFRG1rS1UwVXhudVJlZGVqTG1sOUY2bFRWeW1oeVVQejRxUnRNQXNCM19tWi1sNnRPVEFIUjk2YU1iSzFvRENqTVFPX3g5Sk9UaGx1bTZ4Und3b3lBa3hXa2JHYk44cnkxYWxRaGQ2d3VaU0pkdU5KeU45ZWZ5c1hXVWdMR1pOMDZRVF91ZFZHbHE3OVNFQWpVZWstT3JEcUE4M2oyLVRjQWRSM2RBeF90b2xxTTBvSVN5alpLUGFLdmtXSTJiZmxFRWtUMFRTM0duMTJadmVDci1nNVNV?oc=5",
-       "publishedAt": "2026-11-20T22:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Will put him out of circulation': NIA on Canada naming Goldy Brar most-wanted criminal",
-     "link": "https://timesofindia.indiatimes.com/india/will-put-him-out-of-circulation-nia-chief-welcomes-canada-naming-goldy-brar-most-wanted-criminal/articleshow/136030092.cms",
-     "source": "Times of India",
-     "sources": [
-      "CTV News",
-      "Rediff",
-      "The Hindu",
-      "The Times of India",
-      "ThePrint",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T19:45+05:30",
-     "score": 6.49,
-     "summary": "The Canadian government has put a $250,000 bounty on gangster Satinderjeet Singh, known as Goldy Brar, who is wanted for first-degree murder connected to a recent homicide in Winnipeg. Brar, who is also on the FBI's Top 10 Most Wanted list with a whopping $1 million reward, poses a serious threat as he is armed and dangerous. His capture would significantly aid ongoing investigations into organized crime activities.",
-     "image": "https://static.toiimg.com/photo/msid-136030263,imgsize-694603.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Will put him out of circulation': NIA on Canada naming Goldy Brar most-wanted criminal",
-       "link": "https://timesofindia.indiatimes.com/india/will-put-him-out-of-circulation-nia-chief-welcomes-canada-naming-goldy-brar-most-wanted-criminal/articleshow/136030092.cms",
-       "publishedAt": "2026-11-20T19:45+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Will put him out of circulation': NIA chief welcomes Canada naming Goldy Brar most-wanted criminal",
-       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa2tCWE4yc2FZVGlkSXotTTVTelVqXzJ4c0hXSGszeEx6c1ZHdU5oT2tneXA2NVREZG5WOF8yYWxvUzlrR0VTWUFZblEyUmJOLWVaYWxqZGhBUXVCTE80RXlGeGk0NDMtMVhxSHhoZmFQcjhoZVRZTnkwQ21TYWMzR2NwWjQ4T0xxWW5jT0l0TUx0ZHRIaFNyeGdrS3JxYXdZQ0JCcWlrcVd4Ml96QzNaTDNQQ0FJQmZrUWx0bE5JZWU1NHluY2xvZGdKV1RVQ2cyamkzMnhyTFh5NzE0UFFlVm9CWGRpRDhUbkNuRGo4Z2V0VXR2UWhJ?oc=5",
-       "publishedAt": "2026-11-20T19:45+05:30"
       }
      ]
     }
