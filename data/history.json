@@ -1,6 +1,168 @@
 {
- "updated": "2026-11-28T19:31+05:30",
+ "updated": "2026-11-28T20:19+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T20:00+05:30",
+   "generatedAt": "2026-11-28T20:19+05:30",
+   "feeds": 17,
+   "headlines": 314,
+   "stories": [
+    {
+     "title": "Ramayana Part 1 Box Office Collection Day 23: Ranbir Kapoor film crosses Rs 1,800 cr; sets $30 mn North America record",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmo4MHJ6TmlDMXdlYTkzV1ZobXp3Y1FOaDZPNmNvRTJONUJ1QXgyYV9OQnhYU09VNDdXQVRmdTRaQzhZblBkMDhOeE0yRWFSMDNuY2djaUktWFpZdGNHNGtrbUJ3Uzl6clFqMkE1N1ZBVXZKNmtWa1gwMk01eFBoZDQ3U2lQbkZyUmxzTGs2UWJGS3hkX3lyaWNrRWxibkhuQ29GVXZpMTFIZkJTbGVjck02VklTeU1PWXVmOFRUc2dLZWN0ajdvQnd3a0x3bHAzdnRuT3BGZHVMSHhMU2Rj0gHmAUFVX3lxTE9XVkE1ZlprRjRCYU1HSWp1N3NrTDVGb1dPaUZfcmZwazBHUFF2dlNHdjBUbXQ4aUc1SWJqR1ZSNkRfZlFCS3kySVNrMDlpVUdBMnNZanFkaDVLTXdxMjNvY0R0WFQ5dnNNemp2b0ctWTViclZ5ZFY4RmpreElRak02UXhSd21tbE15dnFzWEhrdzRPRkNkWklEUlF3TkFEWkRUY1hkS1Z0ZHB6YzZpbGVZcVg1ZXFUR2duZGJfbkozZWJkenBnM3BMalozU1phMTNCdWJha3M2NnJBOXhWbGV0ZTVqWVJB?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "Baradwaj Rangan",
+      "India Today",
+      "Rediff.com",
+      "Sacnilk",
+      "Telegraph India",
+      "The Economic Times",
+      "The Indian Express",
+      "The Times of India",
+      "ThePrint",
+      "www.theweek.in"
+     ],
+     "sourceCount": 10,
+     "publishedAt": "2026-11-28T20:02+05:30",
+     "score": 11.33,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 Box Office Collection Day 23: Ranbir Kapoor film crosses Rs 1,800 cr; sets $30 mn North America record",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmo4MHJ6TmlDMXdlYTkzV1ZobXp3Y1FOaDZPNmNvRTJONUJ1QXgyYV9OQnhYU09VNDdXQVRmdTRaQzhZblBkMDhOeE0yRWFSMDNuY2djaUktWFpZdGNHNGtrbUJ3Uzl6clFqMkE1N1ZBVXZKNmtWa1gwMk01eFBoZDQ3U2lQbkZyUmxzTGs2UWJGS3hkX3lyaWNrRWxibkhuQ29GVXZpMTFIZkJTbGVjck02VklTeU1PWXVmOFRUc2dLZWN0ajdvQnd3a0x3bHAzdnRuT3BGZHVMSHhMU2Rj0gHmAUFVX3lxTE9XVkE1ZlprRjRCYU1HSWp1N3NrTDVGb1dPaUZfcmZwazBHUFF2dlNHdjBUbXQ4aUc1SWJqR1ZSNkRfZlFCS3kySVNrMDlpVUdBMnNZanFkaDVLTXdxMjNvY0R0WFQ5dnNNemp2b0ctWTViclZ5ZFY4RmpreElRak02UXhSd21tbE15dnFzWEhrdzRPRkNkWklEUlF3TkFEWkRUY1hkS1Z0ZHB6YzZpbGVZcVg1ZXFUR2duZGJfbkozZWJkenBnM3BMalozU1phMTNCdWJha3M2NnJBOXhWbGV0ZTVqWVJB?oc=5",
+       "publishedAt": "2026-11-28T20:02+05:30"
+      },
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 9",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSTJ6TDRTR3lJWldQS1RMTW8xeEFld2swelBORF9BcEJ5VGZkeTlZT1NsT0t2NTVjbU4yVE85dUZSQ3l0cTkxNTd5UUxJOVBMdG50Y3ZxVTBzaXA4c3lfQ2NUUDF3dnhhMW5RbG92TTVxZ1BnMzBBSWVRUElkaEZSa0xaeklpS1RxOHA0a1ZR?oc=5",
+       "publishedAt": "2026-11-28T18:20+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal",
+     "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+     "source": "The Hindu",
+     "sources": [
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The News Minute",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T20:06+05:30",
+     "score": 7.47,
+     "summary": "Rahul Gandhi alleged that the move to bring the bill is the new way of the BJP to change the foundation of this country",
+     "image": "https://c.ndtvimg.com/2026-11/w0iivoyz7_rahul-gandhi-mk-stalin_625x300_28_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal",
+       "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+       "publishedAt": "2026-11-28T20:06+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"Think About The Country\": Rahul Gandhi On DMK's Support For Delimitation",
+       "link": "https://www.ndtv.com/india-news/think-about-the-country-rahul-gandhi-on-dmks-support-for-delimitation-12389716#publisher=newsstand",
+       "publishedAt": "2026-11-28T19:57+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Number 850 represents murder of democracy': Rahul attacks BJP over delimitation",
+       "link": "https://timesofindia.indiatimes.com/india/blank-cheque-to-redraw-electoral-map-to-bjps-advantage-rahul-gandhi-on-delimitation-bill-top-quotes/articleshow/136247216.cms",
+       "publishedAt": "2026-11-28T18:14+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "How DMK changed its stand on delimitation",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/from-burning-the-bill-to-backing-it-how-dmk-changed-its-stand-on-the-controversial-delimitation/articleshow/136246565.cms",
+       "publishedAt": "2026-11-28T17:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Several students killed in blast beside Afghan school",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "The Hindu",
+      "Xinhua"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T19:45+05:30",
+     "score": 7.41,
+     "summary": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Several students killed in blast beside Afghan school",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+       "publishedAt": "2026-11-28T15:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'This is... alarming': some Amazon Kindle 2026 owners are reporting the backs of their ereaders are coming apart too easily",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT2RETF9DQzk0d0M3MkZNYWk4MHp1Z3ZlQXJCR2tLaUViWkZXZG1faUFtNS1zSHg2OF92a1RPdU1QRDdfUkJRNjZ4N2RFZU5VbW5WY2x6cWdFUGxYcXdsSG41NXJhYXNXbVozcHhINWVRY3J6bHRWX0pRcW5HV1FodXNUSnUwM0FnM1RBbDVnczMzMmF6dmZDTTFIX2liV3NNQ05OVUtuaktLcHV2TVhLZTZ4NGwxMUcyNUFVdHFiSFQ5ZzE5dWZtVnNSVEdUaXRZbVRGMDZub0JNVXBaaFg0NTFiVlRYRHVNMjJhZzEzY0w2LUJia2dRT3Y1am0?oc=5",
+     "source": "TechRadar",
+     "sources": [
+      "Android Authority",
+      "Android Police",
+      "Mezha.net",
+      "TechRadar",
+      "Wisevoter"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T18:00+05:30",
+     "score": 7.11,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "TechRadar",
+       "title": "'This is... alarming': some Amazon Kindle 2026 owners are reporting the backs of their ereaders are coming apart too easily",
+       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT2RETF9DQzk0d0M3MkZNYWk4MHp1Z3ZlQXJCR2tLaUViWkZXZG1faUFtNS1zSHg2OF92a1RPdU1QRDdfUkJRNjZ4N2RFZU5VbW5WY2x6cWdFUGxYcXdsSG41NXJhYXNXbVozcHhINWVRY3J6bHRWX0pRcW5HV1FodXNUSnUwM0FnM1RBbDVnczMzMmF6dmZDTTFIX2liV3NNQ05OVUtuaktLcHV2TVhLZTZ4NGwxMUcyNUFVdHFiSFQ5ZzE5dWZtVnNSVEdUaXRZbVRGMDZub0JNVXBaaFg0NTFiVlRYRHVNMjJhZzEzY0w2LUJia2dRT3Y1am0?oc=5",
+       "publishedAt": "2026-11-28T18:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India tour of New Zealand 2nd Test Day 2 Sairaj Bahutule rues lack of partnerships as India land on thin ice",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSThUT2lYRE93X3RseXRMZnVaajVWLVlhT18zaVBHeEhmUFRoUFZkMTlfTFgtSWZqXzNSTndIQk9JVHR4SGc4OTB5NV9BTkdOa1FRc3lJd0ZkOXQ1X0ZmT2NoSHJhdXFrVE5IRlRFRU53ejdDTTU4VmNnRExIRzNhODh2a2owRWtGZmVNTDZJOENtY1R1aUNBdmhQLXJSdHptZ3VCRzNxcUw3S0Z3ekR2MUhR?oc=5",
+     "source": "Cricbuzz",
+     "sources": [
+      "BCCI",
+      "Cricbuzz",
+      "ICC",
+      "The Hindu",
+      "The Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T17:00+05:30",
+     "score": 6.95,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricbuzz",
+       "title": "India tour of New Zealand 2nd Test Day 2 Sairaj Bahutule rues lack of partnerships as India land on thin ice",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSThUT2lYRE93X3RseXRMZnVaajVWLVlhT18zaVBHeEhmUFRoUFZkMTlfTFgtSWZqXzNSTndIQk9JVHR4SGc4OTB5NV9BTkdOa1FRc3lJd0ZkOXQ1X0ZmT2NoSHJhdXFrVE5IRlRFRU53ejdDTTU4VmNnRExIRzNhODh2a2owRWtGZmVNTDZJOENtY1R1aUNBdmhQLXJSdHptZ3VCRzNxcUw3S0Z3ekR2MUhR?oc=5",
+       "publishedAt": "2026-11-28T17:00+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T19:00+05:30",
    "generatedAt": "2026-11-28T19:31+05:30",
@@ -28987,177 +29149,6 @@
        "title": "Thiruparankundram Hill | Supreme Court Stays HC Findings, Allows Karthigai Lamp Lighting At Deepathoon On ...",
        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ1VIMnNXLXpSN1NCc1dxNmtPWnQ1SXZRemdBZEJvUmRsZG9UXzRZSnVOc0hGbFBiN2ZMQm1lZm9FVkctbnJUYlkwZmZ6TUxhdTd4cHBZbjlWZmNIMWk3VE9xZ1ZaOHZLS0dSUmRNSF85bjQ3Zk1oWXRkaGdVTnhGcGR3TFllaDZkdk9RUEZ1M3AzZ1BTRWZkNEF4Z1d5WUpxRFVLNUdZRmlxaGFwV3lLN3VVVGhNdkY3VDYzM1ByYjdTb2t5ZVZIbS0zS1VkdFpNWkdhZDRFRk42YnhDb2s3anF0OU42aDhsOE9BLTlhNNIB9AFBVV95cUxQb0hyX0xTVnJ0R0RIZ3ZfVUV5N2xJa0hBbGRBMnlVTko1WkF4YzJyMmVFR09JeVlib2xMQTNWdjZhVEEyMFk1VDFpaXN3OWYya0RHeUc4a1RGNGpsbU0wQ1NYUFR4TUgtVXZmWmwydzVBVF9qM25WVTUzZTd4OWZhUDlTQjEwMmtJRF80ZXJ0aFdKaUtyMDZJeTk2c1Ztd290QkxDcldjcm1EUkwyUFNzLUxhd3ZyMmR5YlB2WUJwYWRYMi1TVVJ0eXZMU0E3QW41QzNOcU9zZ2h1SmpMaDZ3QmUyaWtKQ012RU5GajJmWDNPVWlk?oc=5",
        "publishedAt": "2026-11-20T13:49+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T17:00+05:30",
-   "generatedAt": "2026-11-20T17:26+05:30",
-   "feeds": 16,
-   "headlines": 322,
-   "stories": [
-    {
-     "title": "Aakasamlo Oka Tara Box Office Collection Day 1",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjZqLW82eWJickZaeUwxTmVlRVV5LWNhdVB2d3d3Wkpldy05VzlmS0JadjVmNXdQT2E4WEFsaFB4anZsQ09uY3JCRWNicHk1RXM3Zm5qQjhQS0F2Y2l2bHl5ZEYxcGRsZy16WW9UVmN1UC10TWhZelI4TWFtVEFLRjhhVHBVdUlTTWFnZHNR?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "Deccan Chronicle",
-      "IMDb",
-      "Sacnilk",
-      "THE WEEK",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "UB - Universitat de Barcelona",
-      "iDiva"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-20T15:14+05:30",
-     "score": 10.13,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Aakasamlo Oka Tara Box Office Collection Day 1",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjZqLW82eWJickZaeUwxTmVlRVV5LWNhdVB2d3d3Wkpldy05VzlmS0JadjVmNXdQT2E4WEFsaFB4anZsQ09uY3JCRWNicHk1RXM3Zm5qQjhQS0F2Y2l2bHl5ZEYxcGRsZy16WW9UVmN1UC10TWhZelI4TWFtVEFLRjhhVHBVdUlTTWFnZHNR?oc=5",
-       "publishedAt": "2026-11-20T15:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "‘All our relationships will improve’: Pakistan minister in Delhi for SCO summit",
-     "link": "https://timesofindia.indiatimes.com/india/all-our-relationships-will-improve-pakistan-minister-in-delhi-for-sco-summit/articleshow/136025338.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "PM India",
-      "Scroll.in",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-20T17:12+05:30",
-     "score": 8.46,
-     "summary": "A Culture Ministry director and an MEA under secretary reportedly received Pakistan’s Musadik Malik at Delhi airport, disputing a Pakistani analyst’s claim.",
-     "image": "https://static.toiimg.com/photo/msid-136025543,imgsize-79138.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "‘All our relationships will improve’: Pakistan minister in Delhi for SCO summit",
-       "link": "https://timesofindia.indiatimes.com/india/all-our-relationships-will-improve-pakistan-minister-in-delhi-for-sco-summit/articleshow/136025338.cms",
-       "publishedAt": "2026-11-20T17:12+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Pakistan minister Musadik Malik received at Delhi airport under uniform SCO protocol, Pak analyst's claim fact-checked",
-       "link": "https://www.hindustantimes.com/india-news/pakistan-minister-musadik-malik-received-at-delhi-airport-under-uniform-sco-protocol-pak-analysts-claim-factchecked-101795168125772.html",
-       "publishedAt": "2026-11-20T16:15+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Rubbing salt into Pahalgam victims' wounds': Row over Pakistan minister at SCO meet in Delhi",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYmZvYnkzLUtlTVl4QTV0ZUQ0UzByM25iSDUxWllGdE9OU2pCR1dvZ1RjTmVZOVgtbzlKdFFRTkhPZXVuRE04QUw0LWo4QVFCRnZJSDlUVXV0cGltQlhGY3VSbDlSUFA5Y0ZRbkxYeG9CdVpWdExyeWk0SmNaV0VZMFAwVnllc1lhZllOQ1dGbjhBbXlnZW1CRm90Zlh0eG9hTFZCNUJyUi1leVBPUlg5bV9WM0tBeFIzQWQxRzRYY2ctRk9qRGR2ZHNoWWp6dkpzRzEzUE9fVVAtZ3AzZmxYczdoZ1k3MzlGRTBadFV3?oc=5",
-       "publishedAt": "2026-11-20T15:18+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Stock Market Highlights, November 20: Sensex rises 897 pts, Nifty ends at 25,800, ₹ sees largest single day gain in a month",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFRlRVl2Z3JvQi1qMjV5R1h3WFNwdDJfQTB2bk9pdGh1RFFfdGhPTzRCWjd5cnlFUnZZVFFpSU1mbmFnV0ZRdW1SNDJXOVFqdXVsZ0dfMkR3QmY5UXlrWVIzb25GVl9hMjdPRzRtUC1SQ0c0RWZ3aTdHbHY4UDNteTQyRmFTd21hUmxwZ1hRNXdBQy1HSTlHTTRyTzVUaTFYeXZUQzdqUC1TMTRtNFFiNTNEM0txT24wT2duRFdfSUI4RXBwU195Umpn0gHQAUFVX3lxTFBOamlIUVZ4aTNfVFBtcng1bkd5Y2JaRWNDVUE2RFhfekgweksxOXVTOHAtTDAwWkl2N3Ywd0ZzQjBpRU9sNXdyaHQ1NXlMTWRjRXhYWXBTTE5LSTNwTTRzRjMwa1pSYjBDcUh4Vm4wUGpNakxNTlNSTGxwWVBKTThSQ2JKNHlkY0NFa1g2YjhndFo0M29rYV9raEFFbWdidUxCRmhHLWs0aWpxT0lPLW4xb3JWeDMtQWlJandyaGwzdWRJT2RzRm4xM1V5ZTBUVmI?oc=5",
-     "source": "BusinessLine",
-     "sources": [
-      "BusinessLine",
-      "NDTV",
-      "The Hindu",
-      "The New Indian Express",
-      "bfsi.economictimes.indiatimes.com"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T16:03+05:30",
-     "score": 7.27,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "BusinessLine",
-       "title": "Stock Market Highlights, November 20: Sensex rises 897 pts, Nifty ends at 25,800, ₹ sees largest single day gain in a month",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFRlRVl2Z3JvQi1qMjV5R1h3WFNwdDJfQTB2bk9pdGh1RFFfdGhPTzRCWjd5cnlFUnZZVFFpSU1mbmFnV0ZRdW1SNDJXOVFqdXVsZ0dfMkR3QmY5UXlrWVIzb25GVl9hMjdPRzRtUC1SQ0c0RWZ3aTdHbHY4UDNteTQyRmFTd21hUmxwZ1hRNXdBQy1HSTlHTTRyTzVUaTFYeXZUQzdqUC1TMTRtNFFiNTNEM0txT24wT2duRFdfSUI4RXBwU195Umpn0gHQAUFVX3lxTFBOamlIUVZ4aTNfVFBtcng1bkd5Y2JaRWNDVUE2RFhfekgweksxOXVTOHAtTDAwWkl2N3Ywd0ZzQjBpRU9sNXdyaHQ1NXlMTWRjRXhYWXBTTE5LSTNwTTRzRjMwa1pSYjBDcUh4Vm4wUGpNakxNTlNSTGxwWVBKTThSQ2JKNHlkY0NFa1g2YjhndFo0M29rYV9raEFFbWdidUxCRmhHLWs0aWpxT0lPLW4xb3JWeDMtQWlJandyaGwzdWRJT2RzRm4xM1V5ZTBUVmI?oc=5",
-       "publishedAt": "2026-11-20T16:03+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Op Monsoon Thunder: NCB raids 4 cities, arrests 6 in US-bound drug shipment probe",
-     "link": "https://timesofindia.indiatimes.com/india/operation-monsoon-thunder-ncb-raids-four-cities-arrests-six-in-probe-into-us-bound-opioid-and-psychotropic-drug-shipments/articleshow/136019629.cms",
-     "source": "Times of India",
-     "sources": [
-      "Firstpost",
-      "Hindustan Times",
-      "Rediff",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T14:20+05:30",
-     "score": 7.23,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-136019898,imgsize-91640.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Op Monsoon Thunder: NCB raids 4 cities, arrests 6 in US-bound drug shipment probe",
-       "link": "https://timesofindia.indiatimes.com/india/operation-monsoon-thunder-ncb-raids-four-cities-arrests-six-in-probe-into-us-bound-opioid-and-psychotropic-drug-shipments/articleshow/136019629.cms",
-       "publishedAt": "2026-11-20T14:20+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Operation Monsoon Thunder: NCB raids four cities, arrests six in probe into US-bound opioid and psychotr",
-       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPXzFYVWlmU2E5NHdORGxLWEMtSzFDcTlvX1FrTENpR05KSS0yMUQ3d3N4d0NxYjRrWC1CMFlUNk5ubnpGanRYS3h2UEZYVzdjQUl3SnEzSHlvM2lnSVVKVVBPR3BuMER0SDNsUnAyUmd0UnRXaHpRcnVFZHFoSnZCVVpTZmtsOHdWamJuZld6M2xiS2xwQi1YTUM3ZWY1blIyeUZJc2h0eHVpczh0aHloVldvbkQ0N1FlMlNoeDVnV2h4SFByc2R3R1BQMnVaQ2tCVFdERkNxemE0Qy16VTc2RGdOYVhIYjFuSnJQUmFlZHVPMk9UY2k5R0gyOHNQLWEwaHdQdFlTb2hobTQtQ0VkTGxvTkdwYTZh?oc=5",
-       "publishedAt": "2026-11-20T14:20+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Supreme Court dismisses Karnataka appeal against bike-taxis",
-     "link": "https://www.thehindu.com/news/national/karnataka/supreme-court-dismisses-karnataka-appeal-against-bike-taxis/article71723973.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Bar and Bench",
-      "Live Law",
-      "Mint",
-      "The Economic Times",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T16:53+05:30",
-     "score": 6.98,
-     "summary": "A Bench headed by Justice Satish Chandra Sharma said regulation was better than a blanket ban",
-     "image": "https://th-i.thgim.com/public/incoming/1lv2jt/article71724108.ece/alternates/LANDSCAPE_1200/_JAI3087.JPG",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Supreme Court dismisses Karnataka appeal against bike-taxis",
-       "link": "https://www.thehindu.com/news/national/karnataka/supreme-court-dismisses-karnataka-appeal-against-bike-taxis/article71723973.ece",
-       "publishedAt": "2026-11-20T16:53+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "Ola, Uber, Rapido get relief as Supreme Court rejects Karnataka government’s appeal against bike taxis",
-       "link": "https://www.livemint.com/news/india/ola-uber-rapido-get-relief-as-supreme-court-rejects-karnataka-government-s-appeal-against-bike-taxis-11795170674319.html",
-       "publishedAt": "2026-11-20T16:08+05:30"
-      },
-      {
-       "source": "Bar and Bench",
-       "title": "Supreme Court allows bike taxis in Karnataka, rejects State's appeal to restore ban",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEsyZllGQVROQU5DZmJyaThuUGV1YXBLRkpsZWkyV0F4Q3ZyRUF2QkMtNFhIUE9wT0d2ZlFIdVVRN0lnNTF0ME9FRVlzQ1MtZzJXWUNaMFdhdlhJWlhLSk16Y2RNcUNtUTJuWTlpR19NYXJDNmVQdGpmeW0tS0wxRmthbldnZDNLUkpoTC1jTkVFLUItOUVTZF9ia3VnTE9fb253Y181WUVMa29VMnRKbGh2dVXSAcIBQVVfeXFMTzYzNGNfM3AtWkpxNUswRjZNaDRObWtzc3FhMlpfX3AwNnNZeWJvWURQUHR3TFY0TmE0WlhPTlN2bzA0Q01xekFwdGZQQnN1NXNhQ0M0VUh3Qk05WldCRGJsYmcwZUhUUzEzYXd4dEpZV3M3SDh3U0xVdWwtZTlQMl9uSU4tUlVFNFhUWmZaMHpRMjM3NDROclJjTENyLXFNXzVYcDBqb1FzcWU1Q2RsS0E3Nkc0WGdvTXNYeGlOSnNjemc?oc=5",
-       "publishedAt": "2026-11-20T13:16+05:30"
       }
      ]
     }
