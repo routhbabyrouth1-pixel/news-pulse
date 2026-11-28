@@ -1,6 +1,175 @@
 {
- "updated": "2026-11-29T01:22+05:30",
+ "updated": "2026-11-29T02:16+05:30",
  "hours": [
+  {
+   "hour": "2026-11-29T02:00+05:30",
+   "generatedAt": "2026-11-29T02:16+05:30",
+   "feeds": 17,
+   "headlines": 220,
+   "stories": [
+    {
+     "title": "ENE Repeat Box Office Collection Day 10",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVVZbURHRUhGdklwYzJ3NVk4YkxLdzl6TFpoRjZFZXc5UVJqMC1Bb1RJMFY1Sm9QcFJUUkJ4OG5xWmlyc3pVT2JXN28xdUE3dnJKbGtHRFE5ajRXZktkS0o3V2RKOTBvQmo5dFFmZ3NOMDVZWUY0anhPQmxFekQ1a05iVm4?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "FlipItMoney",
+      "Gulte",
+      "India Today",
+      "Koimoi",
+      "Rediff.com",
+      "Sacnilk",
+      "THE WEEK",
+      "The Economic Times",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-29T01:27+05:30",
+     "score": 11.96,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "ENE Repeat Box Office Collection Day 10",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVVZbURHRUhGdklwYzJ3NVk4YkxLdzl6TFpoRjZFZXc5UVJqMC1Bb1RJMFY1Sm9QcFJUUkJ4OG5xWmlyc3pVT2JXN28xdUE3dnJKbGtHRFE5ajRXZktkS0o3V2RKOTBvQmo5dFFmZ3NOMDVZWUY0anhPQmxFekQ1a05iVm4?oc=5",
+       "publishedAt": "2026-11-29T01:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Gukesh’s preparation catches Sindarov by surprise, but Game 4 ends in a draw",
+     "link": "https://indianexpress.com/article/sports/chess/gukesh-sindarov-game-4-draw-preparation-world-championship-2026-10982594/",
+     "source": "The Indian Express",
+     "sources": [
+      "Chess.com",
+      "DD News",
+      "ESPN India",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express",
+      "Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-29T00:12+05:30",
+     "score": 9.15,
+     "summary": "Defending champion D Gukesh and challenger Javokhir Sindarov drew Game 4 in the World Chess Championship. The match ended in a stalemate after 34 moves, leaving the overall score tied at 2-2. Neither player has achieved a decisive advantage in the first four games of the championship. Sindarov demonstrated patience despite facing clock pressure, managing to neutralise Gukesh's offensive moves.",
+     "image": "https://images.indianexpress.com/2026/11/Gukesh-Game-4.jpg",
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Gukesh’s preparation catches Sindarov by surprise, but Game 4 ends in a draw",
+       "link": "https://indianexpress.com/article/sports/chess/gukesh-sindarov-game-4-draw-preparation-world-championship-2026-10982594/",
+       "publishedAt": "2026-11-29T00:12+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "4th draw in a row! Gukesh, Sindarov remain locked at 2-2 after Game 4 of World C'ship",
+       "link": "https://timesofindia.indiatimes.com/sports/chess/fourth-draw-in-a-row-gukesh-sindarov-remain-locked-at-2-2-after-game-4-of-world-chess-championship/articleshow/136253857.cms",
+       "publishedAt": "2026-11-28T23:51+05:30"
+      },
+      {
+       "source": "Chess.com",
+       "title": "Sindarov Holds Draw In Game 4 As Gukesh Again Springs Early Surprise",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNFRlUjZyb1FlQU8zcW1fWE5VVmlfNkJwSm9WbHFtSU05VFNIckRLemp6ZjFQZ3J5UzRad2hKd1M2ZDVXWFlwbWhIYVRyN1NTYnhtRDJId01ZVTM0SXpnQ3dOZ2dyeEM4RDR6bkdYNWVqTVJHUWJPUTQzLTRndw?oc=5",
+       "publishedAt": "2026-11-28T23:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "After SIR unity, the delimitation divide: How BJP punctured Cong’s oppn unity claims",
+     "link": "https://timesofindia.indiatimes.com/india/after-sir-unity-the-delimitation-divide-how-bjp-punctured-congresss-opposition-unity-claims/articleshow/136252166.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T22:51+05:30",
+     "score": 7.93,
+     "summary": "The NDA government has called a special session of Parliament to discuss crucial matters, including the Delimitation Bill. This move has put opposition unity on trial as key members reassess their stance on the legislation. Significant support has emerged from the Nationalist Congress Party and Dravida Munnetra Kazhagam, while Rahul Gandhi remains a vocal advocate for preserving democracy. The growing discord within…",
+     "image": "https://static.toiimg.com/photo/msid-136253155,imgsize-102948.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "After SIR unity, the delimitation divide: How BJP punctured Cong’s oppn unity claims",
+       "link": "https://timesofindia.indiatimes.com/india/after-sir-unity-the-delimitation-divide-how-bjp-punctured-congresss-opposition-unity-claims/articleshow/136252166.cms",
+       "publishedAt": "2026-11-28T22:51+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "After SIR unity, the delimitation divide: How BJP punctured Congress’s opposition unity claims",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOclJzUEs5eGp3cGYyZXgtdTdfTFp6S2tDa0FzQTlkYmpRaGJCdHMwZkJTaVBBbEdpZVhvMlhTa09ucXM0WkRJVElydF9VWXMwaTNiQU16UGdPQ0ppMlZFZDBzejhtOGNWclg1VWJEQ2p1VDczeHdZcmRBZkF2b2pLR2dvWEZFWWZUS2xONWFoVWdOSTFzRWZWcjRiRzJsc1czY0hrMWNJb0pEVjU2T01PaTMtdi1zSGhWWGpyTUhQbEdIT1FzZ2JxTlduLVZEdE5DYXBKOERLbVFadnlJTnFJajJ3ZDFGRnYtYlFUMnFBWHk?oc=5",
+       "publishedAt": "2026-11-28T22:51+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Man United at-risk of going bottom of Premier League after 4-0 Brentford loss",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzdIdThRZkgxN3ppU0ljeXJxNFhDNUFVUVZmQm9tdEV6NEtwWnhUTW1IV2pQVlFPazI5V1FteXR4Q2ZJZmxreFdSRmwzUmdRcFlsSzdNVzh0RWR4eWhvU2k0bHZmblRJcWdJVDlQaXFCSXJzQzhXdXJGTTQtYWJZSUNiWWc3WlFTOEtBcQ?oc=5",
+     "source": "ESPN India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "ESPN India",
+      "Goal.com",
+      "Manchester United",
+      "Sky Sports",
+      "Sportstar"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-28T22:25+05:30",
+     "score": 7.73,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "ESPN India",
+       "title": "Man United at-risk of going bottom of Premier League after 4-0 Brentford loss",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzdIdThRZkgxN3ppU0ljeXJxNFhDNUFVUVZmQm9tdEV6NEtwWnhUTW1IV2pQVlFPazI5V1FteXR4Q2ZJZmxreFdSRmwzUmdRcFlsSzdNVzh0RWR4eWhvU2k0bHZmblRJcWdJVDlQaXFCSXJzQzhXdXJGTTQtYWJZSUNiWWc3WlFTOEtBcQ?oc=5",
+       "publishedAt": "2026-11-28T22:25+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Eisenkot invites Netanyahu to talks after caretaker PM proposes unity government",
+     "link": "https://www.theguardian.com/world/2026/nov/28/benjamin-netanyahu-offers-rotate-israeli-premiership-with-main-rival-gadi-eisenkot",
+     "source": "The Guardian",
+     "sources": [
+      "BBC",
+      "CNN",
+      "Reuters",
+      "The Guardian",
+      "The Hindu",
+      "The Indian Express"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-29T01:34+05:30",
+     "score": 7.63,
+     "summary": "Likud leader, who is fighting for political survival, offered to rotate Israeli premiership with main rival Israeli premiership hopeful Gadi Eisenkot on Saturday invited Benjamin Netanyahu to immediate talks after the caretaker prime minister, who is fighting for political survival, suggested a unity government with a rotation deal for the top job. Netanyahu’s party said he would meet Eisenkot for coalition talks…",
+     "image": "https://i.guim.co.uk/img/media/92fb2499439ae67fe5cdbbb54d4ac0153bd599e0/1072_115_3332_2665/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=139c4471b3d94550aac9d5cf28f36d67",
+     "articles": [
+      {
+       "source": "The Guardian",
+       "title": "Eisenkot invites Netanyahu to talks after caretaker PM proposes unity government",
+       "link": "https://www.theguardian.com/world/2026/nov/28/benjamin-netanyahu-offers-rotate-israeli-premiership-with-main-rival-gadi-eisenkot",
+       "publishedAt": "2026-11-29T01:34+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Israel Live Updates: Netanyahu willing to let Eisenkot serve first as PM in proposed unity government",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX3laRXJ1MzRaN25nbmRDWUs4VEttQ3RXOHB6YlFzOVZkX0VaNFdmc292ck9VODJ4WjVUWXhPdjlrQV9SN2pTNXpFNHRTTFlBOWtwU1oxSlU2cFRqZnVQMVRncVRwT2ttVWRQZV9pa3RGRklqblRyUnRyS0QzTmttdTdKVkVZMk1hMjF3emhSSHNXaXFVWTNWQVpMQjBLZHVlTl9wYkMzSEd4WG94amZyM1Z0OVpVU2ViVmkzN0NVQk9DMzlTTFZ1SW4wYWlSM3JTYU9NVlpwYmxsVGVsT25Db2o3SlMxQks3MjVRUHN5MWLSAfcBQVVfeXFMTV90SlhmQXBKRGFfQVB2Uk15YVl4ZUZ1OG9MTXJ0cU9HdlM2ZmtFNFZTN0gtOVUtQWRjbWgyVjhRLVR2UDhHYlhGYllPTFZ6LW1kSGVuZDRCZHBQYnpkZGFUbXA5MC14eFZ1aTF4WklKYXAydUhHUHFid09BXzhyYnJNX1B4R0hDWmVyWWFkUmRwaXVRSkpiUHN1bkREcThhLVo2WUJxQi16S0lLbk5NZ2t6SlNYbHNCaU1id0QxYmhjQ296LUhNSmVEa2J3dE5hNk9scktZMlh3djIxUFNGTWFwdEtqWlViSHVhLXJVNGU5eVh1YmVGUQ?oc=5",
+       "publishedAt": "2026-11-28T22:23+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-29T01:00+05:30",
    "generatedAt": "2026-11-29T01:22+05:30",
@@ -28859,180 +29028,6 @@
      "sourceCount": 6,
      "publishedAt": "2026-11-20T21:47+05:30",
      "score": 6.43,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-136033183,imgsize-8374165.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Watch: Paper bombs, firecrackers hurled at edu ministry in Italy as protests intensify",
-       "link": "https://timesofindia.indiatimes.com/world/europe/watch-paper-bombs-hurled-firecrackers-bursted-outside-education-ministry-in-italy-as-protests-intensify/articleshow/136032887.cms",
-       "publishedAt": "2026-11-20T21:47+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Watch: Paper bombs hurled, firecrackers bursted outside education ministry in Italy as protests intensify",
-       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ3NEU0lQX3pjQ1FNN1VIVVNDd1hsTkczNGtBaEY5ajg5d0c5NGpLTlNqYVhhajQzVk1jRmtqNEpRZnFnSzFUeW0zM2pVRERoU2JRS1R5bUVNNWNLWm4wYzJDWmI3Z0dJNkdtNnhQeWtRM1dVT3JwZy02emEzbFJMeTRLODJfeFBPdnRGeW80MEJSTTJzQTdTZzFFZnBWM0g0Szh2eGt1ZEp2MlJUNC03QnlQeDR2WFc1TkNFV2p1Ty1qY2tWamNJLW13YTJXSVpZOThRVGxrZmUzQlNmUDYzU0lCMmhxWkxFQ1d1aTY5MUhwSDJnOXkwM0JHVl83bi12WE5EcTVMUlJaUQ?oc=5",
-       "publishedAt": "2026-11-20T21:47+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-21T00:00+05:30",
-   "generatedAt": "2026-11-21T00:26+05:30",
-   "feeds": 16,
-   "headlines": 276,
-   "stories": [
-    {
-     "title": "ENE Repeat Box Office Collection Day 2",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGl3cVRVMU9wckE4QlJkWnNFTzZtejdnMjRPYWJNQmZOLVZlSkNhcTUyTm1QYmVBSDRnR3ZJME1fR0JpVXZ6WU5TYmZ0Rmk5ZDJBaVk3VXVrZXEyMTJoazk3aWpZZWRUSEltQjdkZ0s2N2dUSGJpVjZiV1dNU1pkNXRGYw?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "Deccan Chronicle",
-      "IMDb",
-      "Koimoi",
-      "NDTV",
-      "Sacnilk",
-      "THE WEEK",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Tupaki English",
-      "UB - Universitat de Barcelona",
-      "iDiva"
-     ],
-     "sourceCount": 12,
-     "publishedAt": "2026-11-21T00:03+05:30",
-     "score": 13.15,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "ENE Repeat Box Office Collection Day 2",
-       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGl3cVRVMU9wckE4QlJkWnNFTzZtejdnMjRPYWJNQmZOLVZlSkNhcTUyTm1QYmVBSDRnR3ZJME1fR0JpVXZ6WU5TYmZ0Rmk5ZDJBaVk3VXVrZXEyMTJoazk3aWpZZWRUSEltQjdkZ0s2N2dUSGJpVjZiV1dNU1pkNXRGYw?oc=5",
-       "publishedAt": "2026-11-21T00:03+05:30"
-      }
-     ]
-    },
-    {
-     "title": "SP to contest 30 Uttarakhand seats with Congress",
-     "link": "https://economictimes.indiatimes.com/news/politics-and-nation/samajwadi-party-to-contest-30-seats-in-uttarakhand-in-alliance-with-congress/articleshow/136027901.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India",
-      "ThePrint"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T21:35+05:30",
-     "score": 7.27,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "SP to contest 30 Uttarakhand seats with Congress",
-       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/samajwadi-party-to-contest-30-seats-in-uttarakhand-in-alliance-with-congress/articleshow/136027901.cms",
-       "publishedAt": "2026-11-20T18:27+05:30"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "ECI Rajasthan Panchayat Election Results 2026 LIVE Updates: Congress pulls ahead of BJP, leads in over 3,700 Panchayat seats",
-       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORlZBWkRaeTZUUGZhSFhucGpkaWw4bWV1WE9jd0Z6UGpoa0dQWDNaX1pJejlQRTdYaW1kVlBOUFg4c01ueU5lcXg5STZBOWVjMlM1d1A1WmYyNHJuRmFueDFYUE9HTHcwQ2VzQ0NPNUFSamtnZHR6WElRT2J0Umxuc3dSUU9SNFhpRU1YZVBIbTdiUzJ0US1OXzhCUWQ0WFBPcVZBZFZUdjRHWG15MnRRcTlId2ZrMGVPVFBzRnNIbXVLQ19kSWlHUWZsMUFybXZVNjFJNUh3bnJVdDk0OWw5SA?oc=5",
-       "publishedAt": "2026-11-20T21:35+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Pahalgam attack: China yet to share info on how its GoPro was found on terrorists",
-     "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-beijing-yet-to-share-info-on-how-gopro-camera-us-supplied-to-china-were-found-on-terrorists/articleshow/136031503.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "India Today",
-      "Telegraph India",
-      "The Times of India",
-      "Times of India",
-      "Vibes Of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T20:41+05:30",
-     "score": 6.88,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-136031569,imgsize-262552.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Pahalgam attack: China yet to share info on how its GoPro was found on terrorists",
-       "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-beijing-yet-to-share-info-on-how-gopro-camera-us-supplied-to-china-were-found-on-terrorists/articleshow/136031503.cms",
-       "publishedAt": "2026-11-20T20:41+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Pahalgam attack: Beijing yet to share info on how GoPro camera US supplied to China was found on terroris",
-       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdndSWEhobkZLTG1RVWotTnRXNmg5VVpmTW5kNFhMSFJpUWFjOXZOSlJXNVAydnNSTEtOVU8tTl9Da1BFbEl0RW9fV1YtVjhmRTlyNFFSc3BIRjN4NjhrWExrdW9ra1dpX1Ffc21WYlotMjhQY0UwVWt6Si15M3VoanZHM1p6bHkyemtyN3VFSFQ0OENNaVhGcUZCVkpDTS00cmFfSkIxNTFjeVNkV0lLYmk5YjVyWlhGLW0tVEdGaENlc1NHYVlaeGNSTGRLSUVqVHNLRGhkc3BUNFRia3BncDRvQnRwYnlqWnhDTzhuOGluMDhHUkN0U0tvbk54TmJHV3VEUDVR?oc=5",
-       "publishedAt": "2026-11-20T20:41+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
-     "link": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "The Guardian",
-      "The Times of India",
-      "The Washington Post",
-      "Times of India",
-      "qz.com"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T23:24+05:30",
-     "score": 6.86,
-     "summary": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
-     "image": "https://static.toiimg.com/photo/msid-136036120,imgsize-67902.cms",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
-       "link": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
-       "publishedAt": "2026-11-20T23:24+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Zohran Mamdani sets 2032 deadline to close notorious Rikers Island jail",
-       "link": "https://timesofindia.indiatimes.com/world/us/our-nation-has-a-mass-incarceration-problem-mamdani-sets-2032-deadline-to-close-notorious-rikers-island-jail/articleshow/136035337.cms",
-       "publishedAt": "2026-11-20T23:16+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "New York mayor Zohran Mamdani unveils a $290 million plan to close Rikers Island by 2032, five years afte",
-       "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPYzcxWDVTYmVYMVFLa2pYeUhKQWdldVdpd2ZseFJFRWpsOWpDRGZQbWROWkdBSG5EMGx0ZldxS2VVYW52NXdYSE16eFE4REJ5VkFrUWpDTnEtWjFHeWdFMUVDZ1hqdTdtLVA0U01mbmw3SE5uTXpoRDhSSmZhNVNQNlJacm5lQTBYQmdSeGEzWEVyeE01czZCMkFjOXV1SG1PWDdSWmxVamc1XzNUN0g1WWMwa3BxX3oxVXB0dG56TVZEZUNjNER3cjZpekRpZGg3S0U5cUhidzA5dV9jOEpaTUFMZF9pcDQyc3BPR1pfVGl3R1JIVnFuR2JFVm5pbmZ2R09UaHdfcS1ib3BvLVF3TnhQZ2R4RURiOEJyU3JLVFotenM2bmdZTkprTWVLNUhZcG9IZ3VsQkVxQlg2XzYxVEtJOE1VTmdsYnkxTF9TSV9ka3BoS29Ja1lLYk1DY1IxZHppbDAwTkpwb0pPdEh6V2lxRmhVSmlKcDdmalhITzBRcXRNZVcwREhSTGNvcVXSAZQDQVVfeXFMTmxJZXFtTV9tOEthUER3a1FrbFVrMHpqeko2QkpRQmFJSzYyV2ZxVjRpQV9PdWZDc1Z4Sjk5R1dqQjltMzNpcVk1blRCR2hsNktsc1NQYUs3X1p1TU5HOFlpeWdaeGtEcnlwaFpWcjRxa1A2TnlXVEdrSEphT0NPTExzX002WDdZT240djk5MFlfWm82eFEwYlAxaTB0a1dqcTFnWER6U1d2RkRyOXh2NEFpVzRRUlBFVVM0Tm9Fb0lsaFF4WWlOSTluR0kxZndJamQ5bVYtbGlBbVloVzNrbDhWU0FHemZzalBIUnRTSGx3WTUtSU1MVVRQY1VwWm5DaVJ1dk9VcXlhckZRVGlYSExJVHlxZ2xfb09KNzh2UTkxVW1acGNEY0drU2VTbVI3ek8yeEhodkRoUDc3UWpkWE96UXBiZTd2MmUxMlFfV09Id1hRa3Vlamp2dWNyTlZPMHpqd2hwcUI5R0F4RlBDMWlnd3dzUVQzeGxsN2plelVwVGE3ZFllYWROYXZicF93UWNXclc?oc=5",
-       "publishedAt": "2026-11-20T18:35+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Watch: Paper bombs, firecrackers hurled at edu ministry in Italy as protests intensify",
-     "link": "https://timesofindia.indiatimes.com/world/europe/watch-paper-bombs-hurled-firecrackers-bursted-outside-education-ministry-in-italy-as-protests-intensify/articleshow/136032887.cms",
-     "source": "Times of India",
-     "sources": [
-      "Deccan Chronicle",
-      "India Today",
-      "The Hindu",
-      "The Independent",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T21:47+05:30",
-     "score": 6.6,
      "summary": "",
      "image": "https://static.toiimg.com/photo/msid-136033183,imgsize-8374165.cms",
      "articles": [
