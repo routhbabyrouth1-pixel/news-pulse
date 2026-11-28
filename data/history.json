@@ -1,6 +1,180 @@
 {
- "updated": "2026-11-28T09:25+05:30",
+ "updated": "2026-11-28T10:28+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T10:00+05:30",
+   "generatedAt": "2026-11-28T10:28+05:30",
+   "feeds": 16,
+   "headlines": 179,
+   "stories": [
+    {
+     "title": "Wordle today: The answer and hints for November 27, 2026",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYVHB3Z2dZYVBBakxZS1ZHZndjYjk2b3RXQ09IcVkxUmFhZVNCZXpFdzByZjNtUU5ha0lkTjJaLUZFSU1XT1RySmlvUDRwUUxMakc1dEpvYXFDUl9aWUhTOFFyRW81QllBN0pzeDdqM0VsZGxMZG93YmNSRQ?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "CNET",
+      "Deccan Herald",
+      "ETV Bharat",
+      "Hindustan Times",
+      "India Today",
+      "Mashable",
+      "News18",
+      "PC Guide",
+      "Parade Magazine",
+      "The Times of India",
+      "Vogue India"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-28T08:36+05:30",
+     "score": 12.44,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "Wordle today: The answer and hints for November 27, 2026",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYVHB3Z2dZYVBBakxZS1ZHZndjYjk2b3RXQ09IcVkxUmFhZVNCZXpFdzByZjNtUU5ha0lkTjJaLUZFSU1XT1RySmlvUDRwUUxMakc1dEpvYXFDUl9aWUhTOFFyRW81QllBN0pzeDdqM0VsZGxMZG93YmNSRQ?oc=5",
+       "publishedAt": "2026-11-28T08:36+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Cancer Horoscope Today: November 28, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rdjJOVHdrV3BocVY3RDJuSUJvMExSUk5nMFFKYTRhcDB2Uy1BRUJqa0RmMzhpWmY2SjY1WV82M1NEbjVZWTk1UFNDMnRjZGpiYWZIT0RJZFhYUnlGTWVwbjlJOXJKX3M3ZzFBZVFFLUhzLWZ2LWJv?oc=5",
+       "publishedAt": "2026-11-28T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "O'Rourke returns to New Zealand Test squad for Australia tour",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRG5VOWowUmtSSU1KX0w3WUtnWWZjcFVKRGhnMVVXZEVNSDdPUmRSQjZONFk1TnE5TGwteW1zT3RqY05DSFNMLWoxYlZ6VzVDYmQxcTk2bk1mQVkwdUl4Z1lTSGdaWHR2cFR0VUZPaGJYdUUwdm9DbjlrQmNxNXZDMjVqU0pYOVB2YnNURmpZZzMzT3Q4TlhYdDA5ZldXdW5aSlUwQ2V0OVXSAboBQVVfeXFMTnBVS0p3Q0tSa3VGMy1HTFBhWFFnUzRSOUtmSFd1S1ZSUzhZbVR0Qmx5MFhIdkN1RXRxZEZ4bVdnM3d0YzVWNW9LN1JtWjloQjlPaXpoTUd2YnBSNXZxelFzV2N4SEJFdk1tN2RNMTRtQ283LWpjamJFcXlmb3RWSjRJbXRhMk9fa0s3WU5FZlJDMng5am54MF9ROUJiTk5FSS1UMllLMFBhWHdtRF9pZDhJMk1vRTVHcEJ3?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "BBC",
+      "Cricbuzz",
+      "Cricinfo",
+      "ICC",
+      "Rediff.com",
+      "Sport Nation",
+      "cricket.com.au"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-28T09:10+05:30",
+     "score": 9.28,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "O'Rourke returns to New Zealand Test squad for Australia tour",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRG5VOWowUmtSSU1KX0w3WUtnWWZjcFVKRGhnMVVXZEVNSDdPUmRSQjZONFk1TnE5TGwteW1zT3RqY05DSFNMLWoxYlZ6VzVDYmQxcTk2bk1mQVkwdUl4Z1lTSGdaWHR2cFR0VUZPaGJYdUUwdm9DbjlrQmNxNXZDMjVqU0pYOVB2YnNURmpZZzMzT3Q4TlhYdDA5ZldXdW5aSlUwQ2V0OVXSAboBQVVfeXFMTnBVS0p3Q0tSa3VGMy1HTFBhWFFnUzRSOUtmSFd1S1ZSUzhZbVR0Qmx5MFhIdkN1RXRxZEZ4bVdnM3d0YzVWNW9LN1JtWjloQjlPaXpoTUd2YnBSNXZxelFzV2N4SEJFdk1tN2RNMTRtQ283LWpjamJFcXlmb3RWSjRJbXRhMk9fa0s3WU5FZlJDMng5am54MF9ROUJiTk5FSS1UMllLMFBhWHdtRF9pZDhJMk1vRTVHcEJ3?oc=5",
+       "publishedAt": "2026-11-28T09:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "With options limited, PM said readying to offer Eisenkot top spot in rotational gov’t",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3k4dk1ZZzQ2Q2VsTHRMVldmbGNUQzFyNUxPeW54VDBLNS1YemhnOUxFdEVxRTZabXJUbUt2UnlkXy1KS21oNWtpcEhtWDdoeDlTcnZuMUR6cnBvSkY2cGV1amhNd0tUZFNTNTVaeWtpaFVaYm96X3hWbjdhelBRVU5MOENPQkxLcmpPSTFjcmFIeF96VjlHeTBNb3JaeUU3cHFpS0Y2ajlTcjVqQnV4SktwVHfSAboBQVVfeXFMT2IwT2RzZnlfYjhhbHhXXzk2NEpPLU5GNERaUy1qeXFZNkhzbjEwYWlnYmRSX0xMNWVYQThjdnlFaGpFRG83akJ2dnVhV2puSWN1aElzQVF3VmNMNU9Hc2ZoVUlYbjRlblRfQ2JIU3JmdVlvRGctbnpxVWVQa3hXQ0xDWWREaWw5MS16ZFF3WWpsejAwR0pWRm5NSFV1WkdmdF9OTmRPX3lzcGRISWFiZkpzWU9DaXk3WU9B?oc=5",
+     "source": "The Times of Israel",
+     "sources": [
+      "Al Jazeera",
+      "France 24",
+      "NDTV",
+      "The Hindu",
+      "The Times of Israel",
+      "Xinhua"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T06:04+05:30",
+     "score": 7.77,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Times of Israel",
+       "title": "With options limited, PM said readying to offer Eisenkot top spot in rotational gov’t",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3k4dk1ZZzQ2Q2VsTHRMVldmbGNUQzFyNUxPeW54VDBLNS1YemhnOUxFdEVxRTZabXJUbUt2UnlkXy1KS21oNWtpcEhtWDdoeDlTcnZuMUR6cnBvSkY2cGV1amhNd0tUZFNTNTVaeWtpaFVaYm96X3hWbjdhelBRVU5MOENPQkxLcmpPSTFjcmFIeF96VjlHeTBNb3JaeUU3cHFpS0Y2ajlTcjVqQnV4SktwVHfSAboBQVVfeXFMT2IwT2RzZnlfYjhhbHhXXzk2NEpPLU5GNERaUy1qeXFZNkhzbjEwYWlnYmRSX0xMNWVYQThjdnlFaGpFRG83akJ2dnVhV2puSWN1aElzQVF3VmNMNU9Hc2ZoVUlYbjRlblRfQ2JIU3JmdVlvRGctbnpxVWVQa3hXQ0xDWWREaWw5MS16ZFF3WWpsejAwR0pWRm5NSFV1WkdmdF9OTmRPX3lzcGRISWFiZkpzWU9DaXk3WU9B?oc=5",
+       "publishedAt": "2026-11-28T06:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US: Jets clip wings at Reagan National Airport",
+     "link": "https://economictimes.indiatimes.com/news/international/world-news/american-airlines-jets-clip-wings-at-reagan-national-airport/articleshow/136237120.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "BBC",
+      "India Today",
+      "The Economic Times",
+      "The Times of India",
+      "Times of India",
+      "Yahoo",
+      "upi"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-28T08:38+05:30",
+     "score": 7.75,
+     "summary": "Two American Airlines Boeing 737-800 aircraft clipped each other's wings while taxiing for departure at Ronald Reagan Washington National Airport on Friday, prompting an emergency response and an investigation by the Federal Aviation Administration (FAA).The collision occurred around 5.10 pm local time when Flight 638, bound for Dallas-Fort Worth, made contact with Flight 2152, which was scheduled to fly to…",
+     "image": "https://static.toiimg.com/photo/msid-136236375,imgsize-797490.cms",
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "US: Jets clip wings at Reagan National Airport",
+       "link": "https://economictimes.indiatimes.com/news/international/world-news/american-airlines-jets-clip-wings-at-reagan-national-airport/articleshow/136237120.cms",
+       "publishedAt": "2026-11-28T08:38+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Two American Airlines planes clip wings while taxiing at Washington airport",
+       "link": "https://timesofindia.indiatimes.com/world/us/two-american-airlines-planes-clip-wings-while-taxiing-at-washington-airport-faa-to-probe/articleshow/136236334.cms",
+       "publishedAt": "2026-11-28T07:03+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Two American Airlines planes clip wings while taxiing at Washington airport; FAA to probe",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTGFnQ2YwREVpLUc0VmlBaTRYRXFWVExJcnNCNUs5cXNGck9hcjJDdHhRWHdxSWQ0WEtQYVE5SENnd3ZDRFdwZkpnbXRXNXd1d2ozMEtyUkNnNkVwX1Z4dUtBaWtXb24yWkxEdG9SZ0NDSXZ0cWVUTjd2SnZmUWVYUWprNkRnVFMxNUloTlBBY2dFYzJDa24xak9ZaHN3YzJUbUZQNGczdjBQNmZ1ZzY3djdHV3FaQjFIdFVrbHN6MTFNdzBJSHZkRnRyOXBIN2xnR0tqeFBzTVdRU09UMVRwVXctc0VwVzZQbURMbzBwZ2I?oc=5",
+       "publishedAt": "2026-11-28T07:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'SC must review its order': TN Cong as top court directs deepam lighting at Deepathoon",
+     "link": "https://timesofindia.indiatimes.com/india/sc-must-review-its-order-tn-congress-as-top-court-directs-deepam-lighting-at-deepathoon/articleshow/136237111.cms",
+     "source": "Times of India",
+     "sources": [
+      "NDTV",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T10:01+05:30",
+     "score": 7.42,
+     "summary": "Manickam Tagore, president of the Tamil Nadu Congress committee, has urged a review by the Supreme Court regarding its recent decision mandating the lighting of a ceremonial lamp at Madurai's Deepathoon stone pillar. This order has sparked concerns over federal principles, judiciary roles, and temple administration. Previous Supreme Court directives on security forces for the event's smooth execution have raised…",
+     "image": "https://static.toiimg.com/photo/msid-136237213,imgsize-155363.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'SC must review its order': TN Cong as top court directs deepam lighting at Deepathoon",
+       "link": "https://timesofindia.indiatimes.com/india/sc-must-review-its-order-tn-congress-as-top-court-directs-deepam-lighting-at-deepathoon/articleshow/136237111.cms",
+       "publishedAt": "2026-11-28T08:40+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "'Victory To Lord Murugan': PM Modi On Supreme Court's Deepam Order",
+       "link": "https://www.ndtv.com/tamil-nadu-news/deepam-row-victory-to-lord-murugan-pm-narendra-modi-on-supreme-courts-deepam-order-12387346#publisher=newsstand",
+       "publishedAt": "2026-11-28T08:12+05:30"
+      },
+      {
+       "source": "The Hindu",
+       "title": "Thirupparankundram row: Supreme Court finds wilful disobedience of Deepam order, directs lighting of pillar today",
+       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTmNfSUVyV2FOX1JTQnVWR1pLSDJZUW1DVW00QTZlVTZmUEVMS0RzaWVQR2tYTzdFWGJ0NFdiR1NhSlJQRHJQT0ZKTGlsY1RxYkI1Qm9kRmJwb2hKcjl6VE1ZVXI2X3FKRzc3RWgteEZURGxjVURLV3NJVEx0T0xkY2k0YXN4TENid2d0d21TLUpNOGxQbTRPZ1N5T2VxU0dZQy16emhBRzdGZ0ItRXFiYXBmTDM3VlVxSHVXVnREVkdlMTJ3Yk9VOW1tNG5LbE10S29iaG9CQTE0WG5fdmhKX0ZHYzJGb3R4WTFmSGhDR19fR194MThicUtoN0pPWG5WVXlsNDladjM3WExoWFNISDFfSXhHTVpVOWNBZXU2UnB2UQ?oc=5",
+       "publishedAt": "2026-11-28T10:01+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T09:00+05:30",
    "generatedAt": "2026-11-28T09:25+05:30",
@@ -29136,160 +29310,6 @@
        "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years",
        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
        "publishedAt": "2026-11-20T04:35+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T06:00+05:30",
-   "generatedAt": "2026-11-20T06:29+05:30",
-   "feeds": 17,
-   "headlines": 213,
-   "stories": [
-    {
-     "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
-     "link": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "Rockstar Games",
-      "The Guardian",
-      "The New York Times",
-      "Yahoo Tech"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T01:00+05:30",
-     "score": 7.59,
-     "summary": "Runaway success of popular franchise comes as video game industry has struggled with mass layoffs in recent years.",
-     "image": null,
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
-       "link": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
-       "publishedAt": "2026-11-20T00:57+05:30"
-      }
-     ]
-    },
-    {
-     "title": "De Villiers calls Khawaja 'biggest traitor' as sandpaper row explodes",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/de-villiers-calls-usman-khawaja-biggest-traitor-cummins-captaincy-faces-threat-as-sandpaper-shockwaves-reverberate/articleshow/136007568.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricinfo",
-      "Scroll.in",
-      "The Guardian",
-      "The Indian Express",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T04:29+05:30",
-     "score": 7.42,
-     "summary": "The controversy resurfaced after Cameron Bancroft released a 4,000-word statement in which he made claims about his former teammates, including Cummins.",
-     "image": "https://static.toiimg.com/photo/msid-47529300.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "De Villiers calls Khawaja 'biggest traitor' as sandpaper row explodes",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/de-villiers-calls-usman-khawaja-biggest-traitor-cummins-captaincy-faces-threat-as-sandpaper-shockwaves-reverberate/articleshow/136007568.cms",
-       "publishedAt": "2026-11-20T04:29+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "De Villiers calls Usman Khawaja 'biggest traitor'; Cummins' captaincy faces threat as Sandpaper shockwaves reverberate",
-       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQd1ZyTGFpTVFwMko2MzVqRm5ZSUtLNkZKVHJTMk1sLW53MmRrMUo0X2F2d3IxNXNSb0I2MUltbjNEOFFSZFMyTG02cEZaQWxQblhaX1BIUEZHMFZheXBacENETjFRRjZXNlRMZlBtb2JpZWxnVUdaakplTEJLM2JPUmdfV3l0ekI1RC1KWmZFMHR2SEFxLVhmbzNlWnQwbjZFMEJMempITUNNeDRZZ2ZQU1NieDNYc19kMGRNWXF6Y3VSUGFIWENuZmVwSGtHR3VQWTRRbjI4YnpNRXVKaDZLYkdVcHpPa1dRRVhYczg1by1JRzF4VTZoTmltQVRlS0NCV2VHWVhoZkdVZ3l0eDhydzVvRk53MVpMSGJuZFZ4bjNTUQ?oc=5",
-       "publishedAt": "2026-11-20T04:29+05:30"
-      }
-     ]
-    },
-    {
-     "title": "47 Train Cancelled, Over 3 Lakh Evacuated As Cyclone Akvan Heads To Odisha",
-     "link": "https://www.ndtv.com/india-news/47-train-cancelled-over-3-lakh-evacuated-as-cyclone-akvan-heads-to-odisha-12351955#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The News Minute",
-      "The Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T05:18+05:30",
-     "score": 7.3,
-     "summary": "Cyclone Akvan: Chief Minister Mohan Charan Majhi conducted another comprehensive review of the preparedness and response measures for the impending Cyclone 'Akvan'.",
-     "image": "https://c.ndtvimg.com/2026-11/1d5ict8k_akvan_625x300_19_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "47 Train Cancelled, Over 3 Lakh Evacuated As Cyclone Akvan Heads To Odisha",
-       "link": "https://www.ndtv.com/india-news/47-train-cancelled-over-3-lakh-evacuated-as-cyclone-akvan-heads-to-odisha-12351955#publisher=newsstand",
-       "publishedAt": "2026-11-20T05:18+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
-       "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-       "publishedAt": "2026-11-20T01:43+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Bavuma scripts history, creates captaincy world record with Bangladesh Test win",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/temba-bavuma-scripts-history-creates-captaincy-world-record-after-bangladesh-test-win/articleshow/136005463.cms",
-     "source": "Times of India",
-     "sources": [
-      "Betfair",
-      "Cricinfo",
-      "ICC",
-      "News18",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T04:04+05:30",
-     "score": 6.9,
-     "summary": "South Africa's win also took them to the top of the World Test Championship standings. They have now won six of their eight matches in the current cycle.",
-     "image": "https://static.toiimg.com/photo/msid-47529300.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Bavuma scripts history, creates captaincy world record with Bangladesh Test win",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/temba-bavuma-scripts-history-creates-captaincy-world-record-after-bangladesh-test-win/articleshow/136005463.cms",
-       "publishedAt": "2026-11-20T04:04+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Temba Bavuma scripts history, creates captaincy world record with Bangladesh Test win",
-       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOc3VHYlItVkloTDdKSngyb1YySUUzdG1kdGNCdDVIVWJmZVZQMHNVM184MlFpdHptWGxwWGxHczRLY0FfRHZSbnJ5UTNPLUdJM0ZkOVVLaEVQZ3VqbjdHemVLQ0h1R21QeGVLMlJUTTZpRE5aR3F5ek0wYmxMQUNLeDlhRy0zMFpWSnl6MWQySE1DWmFqSFJzQWtjeHc4NzQ3NmExNkpGZ1dtcWZCNzF1WWhxM1pUSkphbjBxbml2ektvZnRISWRiQ1N4SlFJcXNpSGc2NGFjdXZHZ3NzSkQ0TnJpQjc4TERyQm5KYWRWS3pFdU1xZThSYVJYVQ?oc=5",
-       "publishedAt": "2026-11-20T04:04+05:30"
-      }
-     ]
-    },
-    {
-     "title": "U.S. loses measles elimination status as cases surge: How to protect your family and community",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbGRNX3B3dHhzbGEyT0VrWTBmRld4UDZmSlZGV002ZF9hcE5MSFZsUk1VQ290OC1JOVNqQkI1REFoVXRQM1FZQlZXdkxKXzMxLUNpNDdWQVcyVmZkblA2cG1iUWcwOVl3LWp1STIyanR2cGVPcGJtbWVxTDBYei1zRUdEd19uOHBZeUhEcDBCdHVQVEdrRjE1NXZjVnZRLXZhV0J5NnVYblhxRGpMT1BCQ2pkaWwwWEFyNVpSZENIMA?oc=5",
-     "source": "Loma Linda University",
-     "sources": [
-      "Loma Linda University",
-      "Pan American Health Organization (PAHO)",
-      "The Economist",
-      "The Guardian",
-      "WSJ"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T06:02+05:30",
-     "score": 5.97,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Loma Linda University",
-       "title": "U.S. loses measles elimination status as cases surge: How to protect your family and community",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbGRNX3B3dHhzbGEyT0VrWTBmRld4UDZmSlZGV002ZF9hcE5MSFZsUk1VQ290OC1JOVNqQkI1REFoVXRQM1FZQlZXdkxKXzMxLUNpNDdWQVcyVmZkblA2cG1iUWcwOVl3LWp1STIyanR2cGVPcGJtbWVxTDBYei1zRUdEd19uOHBZeUhEcDBCdHVQVEdrRjE1NXZjVnZRLXZhV0J5NnVYblhxRGpMT1BCQ2pkaWwwWEFyNVpSZENIMA?oc=5",
-       "publishedAt": "2026-11-20T06:02+05:30"
       }
      ]
     }
