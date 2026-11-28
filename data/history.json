@@ -1,6 +1,175 @@
 {
- "updated": "2026-11-28T12:38+05:30",
+ "updated": "2026-11-28T14:20+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T14:00+05:30",
+   "generatedAt": "2026-11-28T14:20+05:30",
+   "feeds": 16,
+   "headlines": 265,
+   "stories": [
+    {
+     "title": "65 Black Friday laptop deals I recommend: Apple, Dell, Lenovo, and more",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HTFNwSVR4TzRBNXhBVVN3c29UWVRlZGpsSlU0MzVOaWs1UVZyRFZZOUpfX1lLVG9nRjZPRmg5WnBTbmlYbXcwbmZrN3pocGx6UzZGaTRuak5wN0VBZ3hfYmlSbWpiS3lkU3E4YUk1MUJyQUU5?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "BigGo Finance",
+      "Gizmodo",
+      "HuffPost",
+      "Mashable",
+      "PC Gamer",
+      "PC Guide",
+      "PCMag",
+      "Rolling Stone",
+      "SoundGuys",
+      "Stuff",
+      "TechRadar",
+      "What Hi-Fi?"
+     ],
+     "sourceCount": 12,
+     "publishedAt": "2026-11-28T13:47+05:30",
+     "score": 13.02,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "65 Black Friday laptop deals I recommend: Apple, Dell, Lenovo, and more",
+       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HTFNwSVR4TzRBNXhBVVN3c29UWVRlZGpsSlU0MzVOaWs1UVZyRFZZOUpfX1lLVG9nRjZPRmg5WnBTbmlYbXcwbmZrN3pocGx6UzZGaTRuak5wN0VBZ3hfYmlSbWpiS3lkU3E4YUk1MUJyQUU5?oc=5",
+       "publishedAt": "2026-11-28T13:47+05:30"
+      }
+     ]
+    },
+    {
+     "title": "O.M Operation Mole Box Office Collection Day 9",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0tXdXM0YnVNcHcxNkNVZy1DblJzWHJENFppMHNCT2RRaEppZktjVFZPMmc5V1hoMzFvRFNncEZKWHZyUFgyZWpQSDRQb1p3anJtT0xMa0xISHNrT3Etc0ExT3lwdHBGN2I5bTZoZ2l4UEtuaTMzN1RBcGk2Z2ZqdW14UDZ2UGM3aDhTa0NiYks?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "India Today",
+      "NDTV",
+      "Rediff.com",
+      "Sacnilk",
+      "The Economic Times",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-28T13:33+05:30",
+     "score": 8.37,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "O.M Operation Mole Box Office Collection Day 9",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0tXdXM0YnVNcHcxNkNVZy1DblJzWHJENFppMHNCT2RRaEppZktjVFZPMmc5V1hoMzFvRFNncEZKWHZyUFgyZWpQSDRQb1p3anJtT0xMa0xISHNrT3Etc0ExT3lwdHBGN2I5bTZoZ2l4UEtuaTMzN1RBcGk2Z2ZqdW14UDZ2UGM3aDhTa0NiYks?oc=5",
+       "publishedAt": "2026-11-28T13:33+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Watch: Indian man carrying gold jewellery in car shot at 30 times on Peru highway",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-indian-man-carrying-gold-jewellery-in-car-shot-at-30-times-on-peru-highway/articleshow/136238886.cms",
+     "source": "Times of India",
+     "sources": [
+      "India News Network",
+      "India Today",
+      "Inshorts",
+      "NDTV",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T10:38+05:30",
+     "score": 7.88,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136239843,imgsize-6124241.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Watch: Indian man carrying gold jewellery in car shot at 30 times on Peru highway",
+       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-indian-man-carrying-gold-jewellery-in-car-shot-at-30-times-on-peru-highway/articleshow/136238886.cms",
+       "publishedAt": "2026-11-28T10:32+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "Indian Man Shot In Peru Highway Ambush As Masked Gunmen Fire 30+ Rounds, Steal Gold Jewellery",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcExnU2JCRW1FZnVSSzdCTmZQZ001X25IUTctVC16UGNXUXdERzAtOXFxa2k0YkhkMmFMVFNUaXdYQktXdGt6SGVGaS1obDR4M1JzRVd4VGVCdjZpZ0pEdF9jTGRSTHJLdUVWSjZmSzI4VjRYS0tRWDJ5OGtZY3VXNXZYcDk4WjNqZk5wSUhDdXA1S2FwbG9oUzdCSFV6WmpzS1lRQXlZRE5IMWVqYXlzalBCWXMyZ3VmWlFOTEp1d3VvZVQ4eDN2V3MzR1nSAdQBQVVfeXFMT3VnMEFSOUFrNXpjR2x2RXpna0h5TGxTSGtDdTg5dVE5R3RIVFBvTUc1YzQzMU5UZE9uR0tKM3FyYXYyZWJQd3ZxVWdJck41MGZGRWZQaUN2dWRVd0FKYmhkZk0xYlRtZExxUFdXTWt3b3Rma1hhVVBHenkwSEJYZFNNMzRGa3EtV0hWZC1JZ1Foel9zQmJpMjFGUTVGMmNuSGxJVGVXSUdjMWNXRlJ6RzNtNVVEcjRnbWlDRjc4cnBfNHNJYlVsRnBMUkNEZEdmX0Fjbk8?oc=5",
+       "publishedAt": "2026-11-28T10:38+05:30"
+      },
+      {
+       "source": "India Today",
+       "title": "Video: Robbers ambush Indian man in Peru, spray bullets at car, flee with jewellery",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX3VlOHNCdmxyWjB3bFN1UlMwbkp5Tk5YVGRTeGNlLXpNeHVCRDFLNHNBbVE3bmYzMlp4YXJ1SWRueFI0YVh5MXBiWVd3dkJkcjRsY1RTZUhpTnkxcy1vWFVqUGtRUFpab090WDFJZE5OUE4ySGxYcVZ3XzRDNUhuR3pUcWNnX2VfSVl5MGJaVVFhSEc4Y2E5eThKX1did0NwV1ZtZ0t3YkU5SzY3WDZHNVR5clVWcEVIbXozb0dmR2FPa1hHdThDS2JDUG9xNDlWT2JIYXFjaFczOGhUOGRBSk530gHnAUFVX3lxTE5lczFLc004OUdzVE5wWmlsNG1lUllqMzdiWWJPYXZWYmc5UFlsdHVrWTIxUER2S1BoU1J1TERIS1RMOE5RV1dhTXowMGlFTzNQSWt4U05wQWxZRmFScHlQZzBjODJ2b290ZGZCVkNFbHRrSERfUWtvZUdNTmdxdUFqUWJ1WWd6ckdDdlE0bGNDVEk2UDF2RGhiNzRyZDYyMVNnVFNCekc4Q0owMDJ1OEE4UlBzRFJYZkR4UjRTVUNVRmZxVk9SaUFRWm5FX3g1R2NmOHlNSEtMZGY1aDBtNHI3LVk1WUtjQQ?oc=5",
+       "publishedAt": "2026-11-28T08:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bloodbath at Rohtak hotel: How 'girlfriend' lured gangster into murder trap; 4 shot dead",
+     "link": "https://timesofindia.indiatimes.com/city/gurgaon/bloodbath-at-rohtak-hotel-how-girlfriend-lured-gangster-into-murder-trap-4-men-shot-dead/articleshow/136241902.cms",
+     "source": "Times of India",
+     "sources": [
+      "India Today",
+      "NDTV",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India",
+      "United News of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T13:26+05:30",
+     "score": 7.1,
+     "summary": "Jhanvi Chaudhary allegedly posed as Sunny Ritolia's girlfriend to facilitate a murder plot by the Himanshu Bhau gang. On November 25, she brought Sunny to the Milan hotel, where armed assailants opened fire, resulting in four deaths. The conspiracy to kill Sunny had been planned for months, with Jhanvi being given a flat and a car. After the shooting, she quickly fled to the Delhi airport and left for Bangkok.",
+     "image": "https://static.toiimg.com/photo/msid-136242041,imgsize-106946.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Bloodbath at Rohtak hotel: How 'girlfriend' lured gangster into murder trap; 4 shot dead",
+       "link": "https://timesofindia.indiatimes.com/city/gurgaon/bloodbath-at-rohtak-hotel-how-girlfriend-lured-gangster-into-murder-trap-4-men-shot-dead/articleshow/136241902.cms",
+       "publishedAt": "2026-11-28T13:26+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Bloodbath at Rohtak hotel: How 'girlfriend' lured gangster into murder trap; 4 men shot dead",
+       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV0hPeTlVWlRTZ1EyQmkzQ24xcFVqSjU0Mnl0LWE5VjI5YUViQkp3RUR4YVpsMFEtYWp0Si1yaDNFT2RRdXdxVTVoVDJCdXF4TDZEWTgyMTdXb2FTdGdESE9BWkxoWU1KQmNjcjU4TElxdXFJRlE0cWtfcThxc3NCN0VHQkQzSXhPSWhmT0t2VVh2VEVOMkJKV2hsOTVSYWhMbjJMdk13NjJWb0VnZ0VPUHhaUDF0emE4YmhpZkV5cG9fR2s4X0QwN24xZVUta2FCMnZUVTEwWHFaYUg3ZG5ldVFYVnBCZGpIS3ZvMFplU0s1RTFsNWc?oc=5",
+       "publishedAt": "2026-11-28T13:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Ben Stokes dethroned! Rishabh Pant creates history in Christchurch",
+     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pant-surpasses-ben-stokes-to-become-leading-six-hitter-in-wtc-history/articleshow/136240428.cms",
+     "source": "Times of India",
+     "sources": [
+      "Awaz The Voice",
+      "Inshorts",
+      "Sportstar",
+      "The Indian Express",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T11:58+05:30",
+     "score": 6.9,
+     "summary": "Rishabh Pant achieved a milestone by surpassing Ben Stokes as the player with the most sixes in World Test Championship history. He reached 89 sixes during India's first innings against New Zealand in Christchurch. Despite this achievement, Pant was dismissed after scoring 23 runs off 39 balls in the same match. India faced difficulties in their first innings after New Zealand scored 356 runs.",
+     "image": "https://static.toiimg.com/photo/msid-136240488,imgsize-45957.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Ben Stokes dethroned! Rishabh Pant creates history in Christchurch",
+       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pant-surpasses-ben-stokes-to-become-leading-six-hitter-in-wtc-history/articleshow/136240428.cms",
+       "publishedAt": "2026-11-28T11:58+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Rishabh Pant surpasses Ben Stokes to become leading six-hitter in WTC history",
+       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOV0lRb2d0dnA3cFVpZTZJN2lwZ1V1LUZ3S1RSVnd0X1M0U1dSRXhzMER3SFIzQ3NoeUFMUXBreWtwRTUyLUZLN3hjSmk5aFZlNExJb1Jpb0lKQWtzTk5sT0VLT2QyQkxSc052Q3Z5ZjMxTXdaLVNUUXViaXdUaXhFUldsNUNNM2FwdDlob3NQZVBtZW04MGxwSTVGMnEzb3dMcUxYVWtJbHFJMm1yZkNRYmkzdzZxdnFQeC1adVc3SFZURkRraUdfMjV3SXl6VGkyT3RXYUNtV19xdGVzbUJLYnlQbmdtM2NHMWdoeVdmeU5zcGNlcWJOLTN5UGlDMVdlNndGWFJB?oc=5",
+       "publishedAt": "2026-11-28T11:58+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T12:00+05:30",
    "generatedAt": "2026-11-28T12:38+05:30",
@@ -29059,235 +29228,6 @@
        "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
        "publishedAt": "2026-11-20T08:24+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T10:00+05:30",
-   "generatedAt": "2026-11-20T10:28+05:30",
-   "feeds": 16,
-   "headlines": 233,
-   "stories": [
-    {
-     "title": "PAK-A vs UAE Live score - Asia Cup Rising Stars (50 Overs) 2026 November 20, 2026 3rd Match, Group B in Doha",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWERzVWtkbWtvMUMwY1U2ZU8yc2FfVl8yM2dTRUp5bXZ2djBITy1GLVVHRFBzOGtyQUliTGZSQjFPSE5BTlNXVURKOTh6YnR0dTU3bUZVSVNiY1BqT2xnaXVwYmdpNjBab251LTRwcGNKVGM5X2hwVW5ORnRKa1pySXBDV3VjQnpxYmIxYWxhaWZGQU9uUWVyQjMydFNIaURhb2RCei1pNV8yZXlsaUIxY2ZpdnhKWC1kTFI0UUVRalk2eS1xS09VT1dwVlkxd3ltSXhpWWp5N1hKeXJNQUpnUFJ4NjEzLWdUd25Yb29tVQ?oc=5",
-     "source": "Cricinfo",
-     "sources": [
-      "Al Jazeera",
-      "Cricbuzz",
-      "Cricinfo",
-      "ETV Bharat",
-      "Hindustan Times",
-      "India Today",
-      "News18",
-      "Odisha TV",
-      "The Eastern Herald",
-      "The Economic Times",
-      "The Times of India",
-      "Vogue Arabia"
-     ],
-     "sourceCount": 13,
-     "publishedAt": "2026-11-20T08:05+05:30",
-     "score": 14.1,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricinfo",
-       "title": "PAK-A vs UAE Live score - Asia Cup Rising Stars (50 Overs) 2026 November 20, 2026 3rd Match, Group B in Doha",
-       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWERzVWtkbWtvMUMwY1U2ZU8yc2FfVl8yM2dTRUp5bXZ2djBITy1GLVVHRFBzOGtyQUliTGZSQjFPSE5BTlNXVURKOTh6YnR0dTU3bUZVSVNiY1BqT2xnaXVwYmdpNjBab251LTRwcGNKVGM5X2hwVW5ORnRKa1pySXBDV3VjQnpxYmIxYWxhaWZGQU9uUWVyQjMydFNIaURhb2RCei1pNV8yZXlsaUIxY2ZpdnhKWC1kTFI0UUVRalk2eS1xS09VT1dwVlkxd3ltSXhpWWp5N1hKeXJNQUpnUFJ4NjEzLWdUd25Yb29tVQ?oc=5",
-       "publishedAt": "2026-11-20T08:05+05:30"
-      },
-      {
-       "source": "Vogue India",
-       "title": "Aries Horoscope Today: November 20, 2026",
-       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYMkJ2RWkzNEVObmJNRDJHc0NpVWVUTjVUeHp5YklRMVAtZnBZc2V5OHBRSmVDel8wb0FyUWZ6SHY3ZVVXTV9VdXNWWnVLQnVQWmNDU3FlZjlzUE9WY2k4cmJQZTNTbmZUQjdBdVdXaUp6Q25aR1E?oc=5",
-       "publishedAt": "2026-11-20T05:50+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Fiona, Global Sensation Hippo, Dies After Eating Visitor's Hat At US Zoo",
-     "link": "https://www.ndtv.com/world-news/fiona-global-sensation-hippo-dies-after-eating-visitors-hat-at-us-cincinnati-zoo-12352014#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "BBC News",
-      "CNN",
-      "NDTV",
-      "The Economic Times",
-      "The Guardian",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-20T09:35+05:30",
-     "score": 9.89,
-     "summary": "Within an hour of the announcement, visitors began leaving flowers and cards by a hippo statue outside the zoo. \"Forever our Fiona,\" one note read.",
-     "image": "https://c.ndtvimg.com/2026-11/386qinv8_zoo-fiona_625x300_20_November_26.jpeg",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Fiona, Global Sensation Hippo, Dies After Eating Visitor's Hat At US Zoo",
-       "link": "https://www.ndtv.com/world-news/fiona-global-sensation-hippo-dies-after-eating-visitors-hat-at-us-cincinnati-zoo-12352014#publisher=newsstand",
-       "publishedAt": "2026-11-20T09:35+05:30"
-      },
-      {
-       "source": "The Guardian",
-       "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
-       "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
-       "publishedAt": "2026-11-20T08:35+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "‘Forever our Fiona’: Cincinnati Zoo’s famous hippo dies after swallowing visitor’s hat",
-       "link": "https://timesofindia.indiatimes.com/world/us/fiona-the-hippo-dies-after-visitors-hat-triggers-fatal-medical-emergency-at-cincinnati-zoo/articleshow/136010851.cms",
-       "publishedAt": "2026-11-20T08:31+05:30"
-      },
-      {
-       "source": "Al Jazeera",
-       "title": "Hippo Fiona dies days after swallowing visitor’s hat",
-       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
-       "publishedAt": "2026-11-20T08:21+05:30"
-      },
-      {
-       "source": "BBC News",
-       "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-       "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-       "publishedAt": "2026-11-20T05:10+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Fiona the hippo dies after visitor’s hat triggers fatal medical emergency at Cincinnati Zoo",
-       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeUd0WDRYVjJDTVJ2di15Y3ZVVXR4RHdFSVF4R1F5UlYzbmlKTkNwWG4zeEF1ZGMtRDd5M1BDYkk5R25oQS13Umh6azJiM1ZDMHFpU3hTbTNJUlh4X01Fb0RKRWkwNWg2QndHQWo2X3lqMkFXUUVUU0dvUUs0R2NrZUo0bk00RUwySTk5VEl3RENUQVZvTXJaTGFsd0p1Zkg0R3p1SG5WbmVnUG5qV1FBRXpzMjVoZDdSM3dYbjUwaVpVamxOaHQyQTRKTTBEeVZhY21OMjRjVnFFMk1ZQTAtclo2XzVsal8wMEc3OXRSU3p6RnPSAfgBQVVfeXFMTWhucG9SUnJRUzBEdGZkM3BuMm5fMHlGZWZYX1U4RVljOFBKVE1xTWZFMU1MNk40VEk5TnRzcHRGa2F0UU5ObEVwMng0SWZRZ3Q4RFNzZ0dkY21XeEs0NmRhQmhWemtnNEhtdURTMjJzS1VXakcwZVRycXZFcjlVcTk3TnQzaTRxVG9vZndKYVpodlUyMXlfTEFnTmlYR3h3RnBISFRNZnhEN2ZuajN0a3Jnc3pSal9XaGJlczUzN0pkSTUzOXhiZm41S1pqWFlFOUZ6bGdnYkQ1dGl5aWxoSm56VXdldUF4Vm1vNFdyYW5nOXE4a1VMbnk?oc=5",
-       "publishedAt": "2026-11-20T08:31+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cyclone 'Akvan' LIVE: Odisha's coastal districts witness rough sea and strong winds as landfall begins",
-     "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Telegraph India",
-      "The Economic Times",
-      "The Hindu",
-      "The News Minute",
-      "The Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-20T10:15+05:30",
-     "score": 9.46,
-     "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
-     "image": "https://c.ndtvimg.com/2026-11/h6fdoq6_cyclone-akvan_625x300_20_November_26.jpeg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone 'Akvan' LIVE: Odisha's coastal districts witness rough sea and strong winds as landfall begins",
-       "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
-       "publishedAt": "2026-11-20T10:15+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Cyclone Akvan LIVE Updates: Cyclone Akvan Begins Landfall Process On Odisha Coast, Over 3 Lakh Evacuated",
-       "link": "https://www.ndtv.com/india-news/cyclone-akvan-live-imd-weather-updates-landfall-rainfall-odisha-andhra-pradesh-akvan-weakens-into-cyclonic-storm-likely-to-cross-odisha-andhra-coast-12352070#publisher=newsstand",
-       "publishedAt": "2026-11-20T09:26+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "3-hr ordeal in Odisha as Cyclone Akvan hits",
-       "link": "https://economictimes.indiatimes.com/news/india/cyclone-akvan-landfall-begins-process-to-continue-for-three-hours/articleshow/136010225.cms",
-       "publishedAt": "2026-11-20T07:44+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Odisha schools closed in several districts today due to Cyclone Akvan",
-       "link": "https://www.hindustantimes.com/india-news/odisha-schools-closed-in-several-districts-today-november-20-due-to-cyclone-akvan-101795135380272.html",
-       "publishedAt": "2026-11-20T06:22+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Gangster linked to Dawood Ibrahim killed in U.P. encounter",
-     "link": "https://www.thehindu.com/news/national/uttar-pradesh/gangster-linked-to-dawood-ibrahim-killed-in-up-encounter/article71723107.ece",
-     "source": "The Hindu",
-     "sources": [
-      "ANI News",
-      "Hindustan Times",
-      "India Today",
-      "NDTV",
-      "News18",
-      "Rediff",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-20T10:11+05:30",
-     "score": 9.45,
-     "summary": "Naseem Durrani, accused of firing around 20 rounds at 26-year-old Sameer in northeast Delhi’s Sonia Vihar on November 16, was killed in a joint operation by Delhi Police and Noida STF in Bulandshahr",
-     "image": "https://th-i.thgim.com/public/incoming/cr3zjm/article71723128.ece/alternates/LANDSCAPE_1200/durrani.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Gangster linked to Dawood Ibrahim killed in U.P. encounter",
-       "link": "https://www.thehindu.com/news/national/uttar-pradesh/gangster-linked-to-dawood-ibrahim-killed-in-up-encounter/article71723107.ece",
-       "publishedAt": "2026-11-20T10:11+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Gangster linked to Dawood's D-Company shot dead in UP: Police",
-       "link": "https://www.hindustantimes.com/india-news/naseem-durrani-accused-in-two-delhi-murders-and-linked-to-dawood-s-d-company-killed-in-encounter-101795141101547.html",
-       "publishedAt": "2026-11-20T08:04+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Dawood Ibrahim's Aide Who Shot Dead Man Near Delhi Minister's Office Killed In UP Encounter",
-       "link": "https://www.ndtv.com/india-news/naseem-durrani-dawood-ibrahims-aide-and-d-company-gangster-who-fired-at-delhi-minister-kapil-mishras-office-killed-in-encounter-12352098#publisher=newsstand",
-       "publishedAt": "2026-11-20T07:52+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Gangster Naseem Durrani, linked to murder outside Kapil Mishra's office, shot dead in encounter: 'Also in",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVjFyUk1FcW8zdlZHSEh5Slk2WVplLVg0OURfd1JFWFlQUHhpN1cyUC1Gc1Bqbm00T25VR0k5S21jUENaT0VHQWxoNjlhZ3V4OEgwcmhzYjhJTWdzMUJDb0lUNzJrVXg3amxVRi1qMm5Qc1ZEZExXLUJULVVhYS1pVnI5WUVjMF9iZEw4VG5Od2sxNTVXRnh1RTdaWS1lcXhXTG4xenFDeklSZE5KU3JXUjBsVDUwb3VkUTB3MnV5Q1RHaTlTVGFWQmdoRmZnTnU2cU5lWExNX1BKeEpxR0JGSmY0X0hUNXVJTkN1LXF3?oc=5",
-       "publishedAt": "2026-11-20T06:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Removal proceedings against me infructuous after resignation: Justice Varma tells Lok Sabha Secretariat",
-     "link": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Deccan Herald",
-      "India Today",
-      "NDTV",
-      "The Economic Times",
-      "The Hindu",
-      "The South First",
-      "The Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-20T09:36+05:30",
-     "score": 8.07,
-     "summary": "In a letter circulated among MPs on November 19, Justice Varma stated that the proceedings directed toward his removal did not survive his resignation",
-     "image": "https://th-i.thgim.com/public/incoming/7yy6ix/article71721691.ece/alternates/LANDSCAPE_1200/IMG_vbk-16-9-Justice_Yas_2_1_N4GCTCD6.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Removal proceedings against me infructuous after resignation: Justice Varma tells Lok Sabha Secretariat",
-       "link": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece",
-       "publishedAt": "2026-11-20T09:36+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "I am innocent: Justice Varma tells LS secretariat",
-       "link": "https://economictimes.indiatimes.com/news/india/resignation-not-admission-of-wrongdoing-i-am-innocent-justice-varma-tells-lok-sabha-secretariat/articleshow/136010549.cms",
-       "publishedAt": "2026-11-20T08:12+05:30"
       }
      ]
     }
