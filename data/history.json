@@ -1,6 +1,151 @@
 {
- "updated": "2026-11-28T05:22+05:30",
+ "updated": "2026-11-28T06:38+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T06:00+05:30",
+   "generatedAt": "2026-11-28T06:38+05:30",
+   "feeds": 16,
+   "headlines": 126,
+   "stories": [
+    {
+     "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 28, #1,000",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2VtS3dmVmRyTTJuUjdBS0h1RVRZcE1kdzFjWlFyZ0hCTDRsWlZnbmNrc1lqRi1GbFFocVJIb084cHRvVGVxR2pRb2tMd1ZPUFZRbFpFTUFkN1hMTW5tTEpLYWdhN1hxQXFDNWF1Sm1BOWhBTVhDTFdqTndyTXB6SWtsSkNXbTNTaXRUamRudjNjSGptV1M4?oc=5",
+     "source": "CNET",
+     "sources": [
+      "CNET",
+      "Gadget Bridge",
+      "Mashable",
+      "PC Guide",
+      "Parade Magazine",
+      "TechRadar",
+      "Yahoo Tech",
+      "cwibc.co.id"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-28T02:30+05:30",
+     "score": 9.06,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "CNET",
+       "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 28, #1,000",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2VtS3dmVmRyTTJuUjdBS0h1RVRZcE1kdzFjWlFyZ0hCTDRsWlZnbmNrc1lqRi1GbFFocVJIb084cHRvVGVxR2pRb2tMd1ZPUFZRbFpFTUFkN1hMTW5tTEpLYWdhN1hxQXFDNWF1Sm1BOWhBTVhDTFdqTndyTXB6SWtsSkNXbTNTaXRUamRudjNjSGptV1M4?oc=5",
+       "publishedAt": "2026-11-28T02:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bhogi Box Office Collection Day 1",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaXJxcXNRN1N2MzZkSEo1SlpWdTJBSTVvQ3NVNkpidmV3VnlpVGpUVWhQRXdWUXhwRnF0VERxM011dXlHWmdUeVVYejRwdmM5N3poWGlBbElhQlJ3c3NlQkRDVmZTUXRpdkh4aGZBWVNWMUFZYW9mcV9NT3Q?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "Sacnilk",
+      "The Hans India",
+      "The Hindu",
+      "The Indian Express",
+      "The New Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-28T02:07+05:30",
+     "score": 7.38,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "Bhogi Box Office Collection Day 1",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaXJxcXNRN1N2MzZkSEo1SlpWdTJBSTVvQ3NVNkpidmV3VnlpVGpUVWhQRXdWUXhwRnF0VERxM011dXlHWmdUeVVYejRwdmM5N3poWGlBbElhQlJ3c3NlQkRDVmZTUXRpdkh4aGZBWVNWMUFZYW9mcV9NT3Q?oc=5",
+       "publishedAt": "2026-11-28T02:07+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Sharad Pawar Dials Congress, Explains Support For Delimitation: Inside Scoop",
+     "link": "https://www.ndtv.com/india-news/sharad-pawar-dials-congress-explains-support-for-delimitation-inside-scoop-12386348#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "NDTV",
+      "Telegraph India",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T04:45+05:30",
+     "score": 7.19,
+     "summary": "Sources suggest the 85-year-old leader explained his \"compulsion\" over a phone call with the Congress leadership.",
+     "image": "https://c.ndtvimg.com/2024-03/2n17fcio_sharad-pawar-rahul-gandhi_625x300_12_March_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Sharad Pawar Dials Congress, Explains Support For Delimitation: Inside Scoop",
+       "link": "https://www.ndtv.com/india-news/sharad-pawar-dials-congress-explains-support-for-delimitation-inside-scoop-12386348#publisher=newsstand",
+       "publishedAt": "2026-11-28T04:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Bisleri in fresh trouble, after Goa FSSAI finds bacteria in West Bengal water sample",
+     "link": "https://timesofindia.indiatimes.com/india/bisleri-in-fresh-trouble-after-goa-fssai-finds-bacteria-in-west-bengal-water-sample/articleshow/136232845.cms",
+     "source": "Times of India",
+     "sources": [
+      "ETHealthworld.com",
+      "NDTV",
+      "The Hindu",
+      "The Quint",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T01:32+05:30",
+     "score": 6.19,
+     "summary": "The Food Safety and Standards Authority of India has initiated prosecution against Bisleri International over unsafe drinking water samples. Recent tests revealed coliform bacteria in samples from its West Bengal and Goa plants. FSSAI has restricted the sale of specific batches following these findings and intensified surveillance on packaged drinking water quality. The regulator aims to ensure compliance with food…",
+     "image": "https://static.toiimg.com/photo/msid-136232858,imgsize-88116.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Bisleri in fresh trouble, after Goa FSSAI finds bacteria in West Bengal water sample",
+       "link": "https://timesofindia.indiatimes.com/india/bisleri-in-fresh-trouble-after-goa-fssai-finds-bacteria-in-west-bengal-water-sample/articleshow/136232845.cms",
+       "publishedAt": "2026-11-28T01:32+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Bisleri in fresh trouble, after Goa FSSAI finds bacteria in West Bengal water sample",
+       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0IxZkh3NjRUb2xsNXNQVzJVLTVGS0ZaSmcwR0xCRDViTUhIT2hLSXlCMXJYRHBjTVFRZC1VSFg4NkdPNUtZY19KbVRnTHB3NWU5SGFmSkJkdWpuMWlHLUU5aXhKT05zb2FLcm5PNlhEMVUyb3owNldGU0xSWnF5ZjA0MnBOVHozUGNjSGVUVFE5MFpZX1NpUExiaEYxUmYtUFlqU2ZlYVRadno0aFpFcWg5LVZLbHhZaXh1TDFqSmNnZ2RvbXZ5VkJOSmJTempFV1B4anRNUk1veDhKbDBfemhlamVFQQ?oc=5",
+       "publishedAt": "2026-11-28T01:32+05:30"
+      }
+     ]
+    },
+    {
+     "title": "My Hero Academia Unleashes Its Next Major Battle With February 6 Release Date",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzdndEOWlEaG8yMXNPUGNVN19uNjFTT3FQd1NwdERXNFZXelBQem92MjdCU3JEZzZZNnZibk5IYlNNZ0RKSzE2TUticlJISWNXdFVqbkp6XzlaRlJaS1NlN3hB?oc=5",
+     "source": "IMDb",
+     "sources": [
+      "Bandai Namco Europe",
+      "Bleeding Cool News",
+      "IMDb",
+      "Sportsdunia",
+      "Wisevoter"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T06:02+05:30",
+     "score": 5.93,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "IMDb",
+       "title": "My Hero Academia Unleashes Its Next Major Battle With February 6 Release Date",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzdndEOWlEaG8yMXNPUGNVN19uNjFTT3FQd1NwdERXNFZXelBQem92MjdCU3JEZzZZNnZibk5IYlNNZ0RKSzE2TUticlJISWNXdFVqbkp6XzlaRlJaS1NlN3hB?oc=5",
+       "publishedAt": "2026-11-28T06:02+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T05:00+05:30",
    "generatedAt": "2026-11-28T05:22+05:30",
@@ -29126,159 +29271,6 @@
        "title": "Google’s Quantum Chip Beats Classical Limits in Tests of Teamwork",
        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFk5V0Z3NE9EMkxXZlNHQnk0bndFLVo5dGs2ZGZkOUIyWjZHM3BWZ29Wc2p0Wl9MSnMtVFFzT3Rrc2JSZk9EenpESmZVdjVmbHp3RXIxaVlHUFpoai1iN0dzd0ZtNENEOGhXRDlCTXQteU1RMlFXaERiZWh6ZThkNnl3R2l6YnJQRWdlZloyOVZWejlsX3JoQXJISGlvTFo2UWFYTkNVXzZydw?oc=5",
        "publishedAt": "2026-11-20T03:39+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T03:00+05:30",
-   "generatedAt": "2026-11-20T03:19+05:30",
-   "feeds": 16,
-   "headlines": 220,
-   "stories": [
-    {
-     "title": "US Will \"See What Happens\" In Conflict With Iran After January 1: Trump",
-     "link": "https://www.ndtv.com/world-news/iran-war-us-will-see-what-happens-in-conflict-with-iran-after-january-1-says-donald-trump-12351565#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "Anadolu Ajansı",
-      "Axios",
-      "CBS News",
-      "NDTV",
-      "Reuters",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T02:20+05:30",
-     "score": 7.34,
-     "summary": "In recent weeks, Trump has alternated between threats of escalation against Iran and indicating he could wind down hostilities, with the two sides in a standoff over efforts to resolve the conflict.",
-     "image": "https://c.ndtvimg.com/2026-05/su2ndu6o_donald-trump-afp_625x300_12_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "US Will \"See What Happens\" In Conflict With Iran After January 1: Trump",
-       "link": "https://www.ndtv.com/world-news/iran-war-us-will-see-what-happens-in-conflict-with-iran-after-january-1-says-donald-trump-12351565#publisher=newsstand",
-       "publishedAt": "2026-11-20T00:28+05:30"
-      },
-      {
-       "source": "Reuters",
-       "title": "Trump eyes 2027 to 'see what happens' with Iran",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
-       "publishedAt": "2026-11-20T02:20+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Anthropic shares list at 34% premium on Nasdaq, valuation surges to $2 trillion",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRnB2X1dIZjNhSHg2cHFxYnhxMWYzbWtGTVdqdkVicjZpeDBKWUxXcWpqX1h0NEplN3VIZnZYV19HaVJJQm9IVG80eDgzT3JvZERwUmdrdU55ak5LWE9VQ0pDSzJic21nOUpLNzM0OTdvVlNXSDB4RGhpQUhoS0gyY000UzRITGRvamxKY1BhOGVzR1NsMVNpdWplSkZHNENEaFFOamJmd09rMk9sVHd2TUkzbW5ZWlJhcGd4V2VFWEUzYm52dm9LcEFNUzN3bDdoVHZ4RGExN1bSAd4BQVVfeXFMT2h3bUVjbEprMkhBaUxKVHlaTlVwcjAyLTRQdjF5VDJhZS1VZ2RXb0NnRUdRU18tLWk5TlN1bm9RTENqRnNxeGRSS2NCSENkRmtDWHREZzhLa1RtOUhQQVliMHd5cG1MNVhIQURTUnd6RWdaTlRWY1FtQVdwNzZVUWhoYWZMbW82b0xNSEh3RFhyRWV5TTEtV25FNGtQbGdvRVR0bk5kSWh1am9LWDNVdHYtMFhOaXYwLVVOMFNOVXRHLUJCMUJHNU5DdDdRdDYwdEp0U2hNQmIwdGJZS1R3?oc=5",
-     "source": "Moneycontrol.com",
-     "sources": [
-      "Bloomberg.com",
-      "Forbes",
-      "Moneycontrol.com",
-      "The Hindu",
-      "Yahoo Finance"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-19T22:26+05:30",
-     "score": 6.69,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Moneycontrol.com",
-       "title": "Anthropic shares list at 34% premium on Nasdaq, valuation surges to $2 trillion",
-       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRnB2X1dIZjNhSHg2cHFxYnhxMWYzbWtGTVdqdkVicjZpeDBKWUxXcWpqX1h0NEplN3VIZnZYV19HaVJJQm9IVG80eDgzT3JvZERwUmdrdU55ak5LWE9VQ0pDSzJic21nOUpLNzM0OTdvVlNXSDB4RGhpQUhoS0gyY000UzRITGRvamxKY1BhOGVzR1NsMVNpdWplSkZHNENEaFFOamJmd09rMk9sVHd2TUkzbW5ZWlJhcGd4V2VFWEUzYm52dm9LcEFNUzN3bDdoVHZ4RGExN1bSAd4BQVVfeXFMT2h3bUVjbEprMkhBaUxKVHlaTlVwcjAyLTRQdjF5VDJhZS1VZ2RXb0NnRUdRU18tLWk5TlN1bm9RTENqRnNxeGRSS2NCSENkRmtDWHREZzhLa1RtOUhQQVliMHd5cG1MNVhIQURTUnd6RWdaTlRWY1FtQVdwNzZVUWhoYWZMbW82b0xNSEh3RFhyRWV5TTEtV25FNGtQbGdvRVR0bk5kSWh1am9LWDNVdHYtMFhOaXYwLVVOMFNOVXRHLUJCMUJHNU5DdDdRdDYwdEp0U2hNQmIwdGJZS1R3?oc=5",
-       "publishedAt": "2026-11-19T22:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Meeting PM Modi turned out to be very lucky': SKY on rediscovering batting form",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/meeting-pm-modi-turned-out-to-be-very-lucky-suryakumar-yadav-on-redisovering-batting-form/articleshow/136000928.cms",
-     "source": "Times of India",
-     "sources": [
-      "News18",
-      "Rediff",
-      "The News Mill",
-      "The Times of India",
-      "Times of India",
-      "Yahoo Sports"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T23:13+05:30",
-     "score": 6.62,
-     "summary": "Suryakumar Yadav credited his meeting with PM Narendra Modi on November 6 for bringing him luck as he rediscovered his batting form. The India batter has impressed in the Syed Mushtaq Ali Trophy with explosive knocks for Mumbai and is aiming for an international comeback. He also hopes to win the IPL 2027 title with Mumbai Indians.",
-     "image": "https://static.toiimg.com/photo/msid-136001143,imgsize-82452.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Meeting PM Modi turned out to be very lucky': SKY on rediscovering batting form",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/meeting-pm-modi-turned-out-to-be-very-lucky-suryakumar-yadav-on-redisovering-batting-form/articleshow/136000928.cms",
-       "publishedAt": "2026-11-19T23:13+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Meeting PM Modi turned out to be very lucky': Suryakumar Yadav on rediscovering batting form",
-       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRUREeEtCUTZiaDBUNXN5VHcyZzZ3MmJaN1NGaWNCQ2x0bFlKYkxWaDBIc2hSSW96cUtiNVR0YUJLOFhpZjF3b3BidC00a1d6MGYyM2xHdzhZbndHeE1kRFVQZlo3Mi1KSkJjT3FwdFlHdnpIMzhjZUtEeDZDRVlXUjNsQlBJclQwTHNyRXR0OTNWc3NGN1JpVFNDb3hNSlIzYmh3R0xxcVdLS0wzcDBsZFVMNW5hcVdyU1JXclM1Y2RpQVFHbl9FVWxjTmMzRXFlWXF3cWwxemRkRkFrQmxxd0xyS2laaDRrN3lZaHplVmZjWG1feDlHZUwweUFfN3Aw0gGGAkFVX3lxTE1MX0NCSXF5VktlbWdmX0dKQ1JjSDNpb1kwTndVOVVqNjhOVTA4VU80MUhOOEpicVlxdXZzV3oxb1BTZUZDd3h4c3h4TFpRNk5DbjRfc0tBUWNKWU85eXE0QVROXzgxWFc5Y3NraFNlQUZSa1BYMGJJR3F4c0w2YXMxMFNiTm1VcTVLdjRKRVBLSW1YSUpaLTdjaUJ3eFhzWEJLZ091UE5DN2gxWHFsWG1VaVh5UWd6SDRZcTJMc3E3cG4yMHE0SUhtQzZYSmoyOGQ0cUcxRDFNYVk0LUNDUmNhT1MyVjl3MFN3STFFVE1fRnZmT2lVakhFb0Z6S2VOUU1neno3cEE?oc=5",
-       "publishedAt": "2026-11-19T23:13+05:30"
-      }
-     ]
-    },
-    {
-     "title": "French cut: Bo gets the boot from Texas Country Club",
-     "link": "https://timesofindia.indiatimes.com/world/us/bo-french-gets-the-boot-from-texas-country-club/articleshow/135999362.cms",
-     "source": "Times of India",
-     "sources": [
-      "LGBTQ Nation",
-      "People.com",
-      "Politico",
-      "The Times of India",
-      "Times of India",
-      "Yahoo"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T22:21+05:30",
-     "score": 6.24,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-135999408,imgsize-65136.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "French cut: Bo gets the boot from Texas Country Club",
-       "link": "https://timesofindia.indiatimes.com/world/us/bo-french-gets-the-boot-from-texas-country-club/articleshow/135999362.cms",
-       "publishedAt": "2026-11-19T22:21+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Bo French gets the boot from Texas Country Club",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGl0d195ZDN1Q1lWTDVtTU1qbnRZVGF4UlFfTnJUb3g4bnJwSlR3eW9JcnZrclZZaEZod0VVNWsxR25adEdScTRrZHBTSlZWeTdUbnoxY1JwaUtibXdDa25QN0k2QzJEdkFYNmhkbXk4UUNBeDN5ZWlqNU8zU01vaWdIaGl5ZV9lblc0TWhtRzctcGVtc2ZLVGNYOFpwMnFWYndobzdVVk5RU1I3MENxbVdkWm9jblRkVHc?oc=5",
-       "publishedAt": "2026-11-19T22:21+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
-     "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Down To Earth",
-      "The Hindu",
-      "The New Indian Express",
-      "The News Minute"
-     ],
-     "sourceCount": 4,
-     "publishedAt": "2026-11-20T01:43+05:30",
-     "score": 6.23,
-     "summary": "The severe cyclonic storm is likely to cross north Andhra Pradesh and south Odisha coasts close to Gopalpur by noon on November 20",
-     "image": "https://th-i.thgim.com/public/incoming/7p3ica/article71721528.ece/alternates/LANDSCAPE_1200/PTI11_19_2026_000200A.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
-       "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-       "publishedAt": "2026-11-20T01:43+05:30"
       }
      ]
     }
