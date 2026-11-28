@@ -1,6 +1,184 @@
 {
- "updated": "2026-11-28T11:26+05:30",
+ "updated": "2026-11-28T12:38+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T12:00+05:30",
+   "generatedAt": "2026-11-28T12:38+05:30",
+   "feeds": 16,
+   "headlines": 237,
+   "stories": [
+    {
+     "title": "O.M Operation Mole Box Office Collection Day 9",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0tXdXM0YnVNcHcxNkNVZy1DblJzWHJENFppMHNCT2RRaEppZktjVFZPMmc5V1hoMzFvRFNncEZKWHZyUFgyZWpQSDRQb1p3anJtT0xMa0xISHNrT3Etc0ExT3lwdHBGN2I5bTZoZ2l4UEtuaTMzN1RBcGk2Z2ZqdW14UDZ2UGM3aDhTa0NiYks?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "Baradwaj Rangan",
+      "India Today",
+      "MensXP",
+      "NDTV",
+      "Pinkvilla",
+      "Rediff.com",
+      "Sacnilk",
+      "The Economic Times",
+      "The Hindu",
+      "The Indian Express",
+      "The Times of India"
+     ],
+     "sourceCount": 11,
+     "publishedAt": "2026-11-28T12:15+05:30",
+     "score": 12.69,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "O.M Operation Mole Box Office Collection Day 9",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0tXdXM0YnVNcHcxNkNVZy1DblJzWHJENFppMHNCT2RRaEppZktjVFZPMmc5V1hoMzFvRFNncEZKWHZyUFgyZWpQSDRQb1p3anJtT0xMa0xISHNrT3Etc0ExT3lwdHBGN2I5bTZoZ2l4UEtuaTMzN1RBcGk2Z2ZqdW14UDZ2UGM3aDhTa0NiYks?oc=5",
+       "publishedAt": "2026-11-28T12:15+05:30"
+      },
+      {
+       "source": "Pinkvilla",
+       "title": "Yeh Prem Mol Liya Opening Day Box Office: Ayushmann Khurrana and Sharvari starrer takes DULL start, collects Rs. 3.50 crore on Day 1",
+       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQeEZCVkxLTXRzY2QzQkhnQUhWZTQ0YVJZbThVWE0xVnNMd3dhaFJHSzdvalZYeU9lSnQ4bmgtUVJ4YWJFYndPYXM2Yk1nbS1VVFVJTnhaRnFVWEtmdkZLZ2pCZnB5b1JtWjJQSHBqQWx1VUpzRm4yWFJHZm9ic043a0xSTXdjWThmLXdjaTd6T2FzNkt2SFVGemlGS1FwOUdqOGNkLVJidU1IVTBMZzk2YXFUeloyZmJmZTlsUXM1SnNHaFIxQ19zZVJrWndFMGFieVhPanB6bzJXTGEtelphWjF3WHZOQ1VPY3NLdk1JYXNJLWJYdkhobUlWTFZ0S3F2Q1ZZbGZid3VPd0lPWnJnZW5VUHVuVU3SAZwCQVVfeXFMTmpseWtwZ1ZETjhiRjhiYm5PUlBDNjViaXNvbV9EV21meE8xUFR1MldCTm5LRVBxU2t0WjUxV3RRSmRlLXM3b3lHakRCZXJDZ0RhNjJ2ZFkzWTBuY0U4ZDJYR3ZBMXZnOEd5OXpfM3I1a292cDd4dlV4bkpiZDRKWTBYdnNNd19qUlE5TnJtRkdEWnpJeTJ1dk0yaUFyQ2dHNjNVZ2ZXV05kTi1IOXBkWnJOLWhkN1pCTElCRFZHTU96QXhtNi13ZDhmakNvTmdmMHQtX21hMzVNSE55SHVkVzk0UFhfbzlCOExyWi0zaVNjbUdXNGhtNTV5ZERGa3k5NXRoVC00TWRoUUY0RjdXbjQtam9ucFJDUUEzc3M?oc=5",
+       "publishedAt": "2026-11-28T10:32+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Gunmaaster G9' box office collection day 1: Emraan Hashmi and Genelia Deshmukh's film opens at Rs 4.30 c",
+       "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQSHJabzhkUlNWX2tmVUF5VEdTNk54NHNHbGJyeUx2Y25iaG1aVWFPV3lDdXp6QVBLeDV3bWNERFRvRzNFNUlqUUZtXzN3akFPQjF4NzhpZGtpdWVwMmhVRG1tdEcyYm51OXhBcV9oZkJTNGw5dU9FT1dycGVNUHNvOEtCZE9NYjNmVnU1eDJIRGdCYjNCQ3lvWmRRc2I0dDRYaXNFZU40QlY4VHg0RUg1R2JhbzdVLWFFRldzUjJwMkJGY2NYZ1U3RGtBbUpBWWdBSHpRWU1LZ09QX0ZiendybVZ4NVFBQnRoQXE2dXc3LTNpbEhzbzBRQXJIR3k2NmxBaXBXM2J5a25sN0V3dzktLTNmeURwWjZ5cUc2Y04xNXotdUg1c0Y1UE45QTJ4ZHI2V0x1QTNocG5IaGQ0cGZueVRxZ2ZVcjVaakpxek9qbEdmMnRJRFpnQ3UwM0IyU2ZZWUdzWVBR?oc=5",
+       "publishedAt": "2026-11-28T06:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Watch: Indian man carrying gold jewellery in car shot at 30 times on Peru highway",
+     "link": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-indian-man-carrying-gold-jewellery-in-car-shot-at-30-times-on-peru-highway/articleshow/136238886.cms",
+     "source": "Times of India",
+     "sources": [
+      "India News Network",
+      "India Today",
+      "Inshorts",
+      "NDTV",
+      "NewsBytes",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T10:32+05:30",
+     "score": 8.15,
+     "summary": "",
+     "image": "https://static.toiimg.com/photo/msid-136239843,imgsize-6124241.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Watch: Indian man carrying gold jewellery in car shot at 30 times on Peru highway",
+       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-indian-man-carrying-gold-jewellery-in-car-shot-at-30-times-on-peru-highway/articleshow/136238886.cms",
+       "publishedAt": "2026-11-28T10:32+05:30"
+      },
+      {
+       "source": "India Today",
+       "title": "Video: Robbers ambush Indian man in Peru, spray bullets at car, flee with jewellery",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX3VlOHNCdmxyWjB3bFN1UlMwbkp5Tk5YVGRTeGNlLXpNeHVCRDFLNHNBbVE3bmYzMlp4YXJ1SWRueFI0YVh5MXBiWVd3dkJkcjRsY1RTZUhpTnkxcy1vWFVqUGtRUFpab090WDFJZE5OUE4ySGxYcVZ3XzRDNUhuR3pUcWNnX2VfSVl5MGJaVVFhSEc4Y2E5eThKX1did0NwV1ZtZ0t3YkU5SzY3WDZHNVR5clVWcEVIbXozb0dmR2FPa1hHdThDS2JDUG9xNDlWT2JIYXFjaFczOGhUOGRBSk530gHnAUFVX3lxTE5lczFLc004OUdzVE5wWmlsNG1lUllqMzdiWWJPYXZWYmc5UFlsdHVrWTIxUER2S1BoU1J1TERIS1RMOE5RV1dhTXowMGlFTzNQSWt4U05wQWxZRmFScHlQZzBjODJ2b290ZGZCVkNFbHRrSERfUWtvZUdNTmdxdUFqUWJ1WWd6ckdDdlE0bGNDVEk2UDF2RGhiNzRyZDYyMVNnVFNCekc4Q0owMDJ1OEE4UlBzRFJYZkR4UjRTVUNVRmZxVk9SaUFRWm5FX3g1R2NmOHlNSEtMZGY1aDBtNHI3LVk1WUtjQQ?oc=5",
+       "publishedAt": "2026-11-28T08:27+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thirupparankundram row: 'Deepathoon' set for lamp lighting as preparations begin on hill",
+     "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTmNfSUVyV2FOX1JTQnVWR1pLSDJZUW1DVW00QTZlVTZmUEVMS0RzaWVQR2tYTzdFWGJ0NFdiR1NhSlJQRHJQT0ZKTGlsY1RxYkI1Qm9kRmJwb2hKcjl6VE1ZVXI2X3FKRzc3RWgteEZURGxjVURLV3NJVEx0T0xkY2k0YXN4TENid2d0d21TLUpNOGxQbTRPZ1N5T2VxU0dZQy16emhBRzdGZ0ItRXFiYXBmTDM3VlVxSHVXVnREVkdlMTJ3Yk9VOW1tNG5LbE10S29iaG9CQTE0WG5fdmhKX0ZHYzJGb3R4WTFmSGhDR19fR194MThicUtoN0pPWG5WVXlsNDladjM3WExoWFNISDFfSXhHTVpVOWNBZXU2UnB2UdIBqAJBVV95cUxOb3dhZjJSYkhKa2l1bUsxMVpJTDBCOGNUNC0zRzBidWdhTlN2WE5NVUxhcjd6OEFyNTdFcU5USzBQWl96bk5PeXNwU3lKZTJUaTJJMmJybXFTNzg1Ry04M0ZQWDc2YVUtWHpKekxpdWxhU293ZVpuOVhHWTB1WHRaTnF1REpiVks1dGxLOThEeFZGdkwtVC1NaUhkX1Q5R0FwNjA0Sm51b21yU1NIN1BYSnlxY0Zna0lHaW4zVUpvc3NHSzFNemhDbDladWJRWnRQejUtNUlYdWtPaGdsMDVXV2tEUzE4VXN1RWJmS1BDVDc2WktUUVdBLU1fZnUzUHZzN1RULVlFMEZleXhhUFNDb1ZKZHk0NXJfZWMwZzY5Zm9FaVhqaU1iWQ?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "NDTV",
+      "Rediff.com",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T12:28+05:30",
+     "score": 7.47,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Thirupparankundram row: 'Deepathoon' set for lamp lighting as preparations begin on hill",
+       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTmNfSUVyV2FOX1JTQnVWR1pLSDJZUW1DVW00QTZlVTZmUEVMS0RzaWVQR2tYTzdFWGJ0NFdiR1NhSlJQRHJQT0ZKTGlsY1RxYkI1Qm9kRmJwb2hKcjl6VE1ZVXI2X3FKRzc3RWgteEZURGxjVURLV3NJVEx0T0xkY2k0YXN4TENid2d0d21TLUpNOGxQbTRPZ1N5T2VxU0dZQy16emhBRzdGZ0ItRXFiYXBmTDM3VlVxSHVXVnREVkdlMTJ3Yk9VOW1tNG5LbE10S29iaG9CQTE0WG5fdmhKX0ZHYzJGb3R4WTFmSGhDR19fR194MThicUtoN0pPWG5WVXlsNDladjM3WExoWFNISDFfSXhHTVpVOWNBZXU2UnB2UdIBqAJBVV95cUxOb3dhZjJSYkhKa2l1bUsxMVpJTDBCOGNUNC0zRzBidWdhTlN2WE5NVUxhcjd6OEFyNTdFcU5USzBQWl96bk5PeXNwU3lKZTJUaTJJMmJybXFTNzg1Ry04M0ZQWDc2YVUtWHpKekxpdWxhU293ZVpuOVhHWTB1WHRaTnF1REpiVks1dGxLOThEeFZGdkwtVC1NaUhkX1Q5R0FwNjA0Sm51b21yU1NIN1BYSnlxY0Zna0lHaW4zVUpvc3NHSzFNemhDbDladWJRWnRQejUtNUlYdWtPaGdsMDVXV2tEUzE4VXN1RWJmS1BDVDc2WktUUVdBLU1fZnUzUHZzN1RULVlFMEZleXhhUFNDb1ZKZHk0NXJfZWMwZzY5Zm9FaVhqaU1iWQ?oc=5",
+       "publishedAt": "2026-11-28T12:28+05:30"
+      }
+     ]
+    },
+    {
+     "title": "American Airlines Jets Clip Wings At Reagan National Airport",
+     "link": "https://www.ndtv.com/world-news/american-airlines-jets-clip-wings-at-reagan-national-airport-12387822#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "BBC",
+      "CNN",
+      "India Today",
+      "NDTV",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T10:55+05:30",
+     "score": 7.46,
+     "summary": "American Airlines Flight 638 clipped the wing of Flight 2152 while taxiing for departure at around 5:10 p.m. local time on Friday, the Federal Aviation Administration said.",
+     "image": "https://c.ndtvimg.com/2026-06/uuingud8_american-airlines_625x300_04_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "American Airlines Jets Clip Wings At Reagan National Airport",
+       "link": "https://www.ndtv.com/world-news/american-airlines-jets-clip-wings-at-reagan-national-airport-12387822#publisher=newsstand",
+       "publishedAt": "2026-11-28T10:55+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "Two American Airlines planes clip wings while taxiing at Washington airport",
+       "link": "https://timesofindia.indiatimes.com/world/us/two-american-airlines-planes-clip-wings-while-taxiing-at-washington-airport-faa-to-probe/articleshow/136236334.cms",
+       "publishedAt": "2026-11-28T07:03+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Two American Airlines planes clip wings while taxiing at Washington airport; FAA to probe",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTGFnQ2YwREVpLUc0VmlBaTRYRXFWVExJcnNCNUs5cXNGck9hcjJDdHhRWHdxSWQ0WEtQYVE5SENnd3ZDRFdwZkpnbXRXNXd1d2ozMEtyUkNnNkVwX1Z4dUtBaWtXb24yWkxEdG9SZ0NDSXZ0cWVUTjd2SnZmUWVYUWprNkRnVFMxNUloTlBBY2dFYzJDa24xak9ZaHN3YzJUbUZQNGczdjBQNmZ1ZzY3djdHV3FaQjFIdFVrbHN6MTFNdzBJSHZkRnRyOXBIN2xnR0tqeFBzTVdRU09UMVRwVXctc0VwVzZQbURMbzBwZ2I?oc=5",
+       "publishedAt": "2026-11-28T07:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Putin commissions nuclear submarine carrying hypersonic missiles",
+     "link": "https://timesofindia.indiatimes.com/defence/international/russia-capable-of-building-powerful-nuclear-submarines-putin-unveils-new-weapon-carrying-hypersonic-missiles/articleshow/136238811.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "Anadolu Ajansı",
+      "The Hindu",
+      "The Times of India",
+      "Times of India",
+      "Українські Національні Новини (УНН)"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T10:33+05:30",
+     "score": 6.73,
+     "summary": "Russian President Vladimir Putin oversaw the commissioning of a new nuclear-powered submarine called the Perm. This submarine is notable for being equipped with Russian-made Zircon hypersonic missiles. Putin stated that the navy will receive five additional submarines by 2030, enhancing its capabilities. The Perm is a fourth-generation submarine in the Yasen-M class designed for covert underwater operations.",
+     "image": "https://static.toiimg.com/photo/msid-136238922,imgsize-92890.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Putin commissions nuclear submarine carrying hypersonic missiles",
+       "link": "https://timesofindia.indiatimes.com/defence/international/russia-capable-of-building-powerful-nuclear-submarines-putin-unveils-new-weapon-carrying-hypersonic-missiles/articleshow/136238811.cms",
+       "publishedAt": "2026-11-28T10:33+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Russia capable of building powerful nuclear submarines': Putin unveils new weapon carrying hypersonic mi",
+       "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWXB4OURCekR2X0IxMWdDTGc0VWJRNG93bDB1aVZ1WHZFbkY2TWh6YXFtdEE0LVVVSU9XcTB2eUFMU0dQaFZ4REpjYXY4UVBsMUtGYnJwbzZLVjJHeUM1T3ZNcDZvLW1RcWhaOTBuSTNVWWxSRzFNTk9EZVBzVkg3SUs2NHppX1BZV2M2YkpOcjY5RFdGR05CSHhXUzc4bWM2bVZRdTVXaTZpZ2NxanVUOHpadWVpUVJXci11dGNwZlpQZjh1VWFOQVhMdEh5SlRyeE9rVERiTm5fd0lxUURJZWNaN2E3cmRkSHNpTUZEN3JlbERZNFdyeEc4cWZQNzNJS0JSRi1UM0NRTDNnNkFzRmF0eGUyYVJRd3otSNIBogJBVV95cUxNYlNqV1loU3R1VHpWa2w0VU9uVEhQX1lOallxOXh6RXpMcXo1anNyTVhWWDdDcE5tVTloemVkWlVWNThlLTdfTDJ2ekNaUEZGaVZ4M2YzOXN3ZUFmQU9qWFFCUkNVVGR5VmFIVW14SnVyb3ZBT3YwenFlSEQ5MExGODFRYW9FMkw1M2dLQlVHT21ocXV4akFid2RYYlJ1cTZ3NWZ3Q25IZGtScTZTSTZyc1dCWlhiWVlwUC1qdWNtQnpYd2otT3lMS0RlUFFzWm5nek1TdXJGaDhqWENacFh2TEFKcU9zdHcySm0wMzZKd0lKRHVuc3lCWGRlMzIwY00yNTdPN0RpZ3prVlRoZTJ0V2Q3cGxhOWxEelZKaGtEYVdxQQ?oc=5",
+       "publishedAt": "2026-11-28T10:33+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T11:00+05:30",
    "generatedAt": "2026-11-28T11:26+05:30",
@@ -29110,178 +29288,6 @@
        "title": "I am innocent: Justice Varma tells LS secretariat",
        "link": "https://economictimes.indiatimes.com/news/india/resignation-not-admission-of-wrongdoing-i-am-innocent-justice-varma-tells-lok-sabha-secretariat/articleshow/136010549.cms",
        "publishedAt": "2026-11-20T08:12+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T09:00+05:30",
-   "generatedAt": "2026-11-20T09:22+05:30",
-   "feeds": 16,
-   "headlines": 203,
-   "stories": [
-    {
-     "title": "PAK-A vs UAE Live score - Asia Cup Rising Stars (50 Overs) 2026 November 20, 2026 3rd Match, Group B in Doha",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWERzVWtkbWtvMUMwY1U2ZU8yc2FfVl8yM2dTRUp5bXZ2djBITy1GLVVHRFBzOGtyQUliTGZSQjFPSE5BTlNXVURKOTh6YnR0dTU3bUZVSVNiY1BqT2xnaXVwYmdpNjBab251LTRwcGNKVGM5X2hwVW5ORnRKa1pySXBDV3VjQnpxYmIxYWxhaWZGQU9uUWVyQjMydFNIaURhb2RCei1pNV8yZXlsaUIxY2ZpdnhKWC1kTFI0UUVRalk2eS1xS09VT1dwVlkxd3ltSXhpWWp5N1hKeXJNQUpnUFJ4NjEzLWdUd25Yb29tVQ?oc=5",
-     "source": "Cricinfo",
-     "sources": [
-      "Al Jazeera",
-      "Cricbuzz",
-      "Cricinfo",
-      "ETV Bharat",
-      "Hindustan Times",
-      "India Today",
-      "News18",
-      "Odisha TV",
-      "The Eastern Herald",
-      "The Economic Times",
-      "The Times of India",
-      "Vogue Arabia"
-     ],
-     "sourceCount": 13,
-     "publishedAt": "2026-11-20T08:05+05:30",
-     "score": 14.16,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Cricinfo",
-       "title": "PAK-A vs UAE Live score - Asia Cup Rising Stars (50 Overs) 2026 November 20, 2026 3rd Match, Group B in Doha",
-       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWERzVWtkbWtvMUMwY1U2ZU8yc2FfVl8yM2dTRUp5bXZ2djBITy1GLVVHRFBzOGtyQUliTGZSQjFPSE5BTlNXVURKOTh6YnR0dTU3bUZVSVNiY1BqT2xnaXVwYmdpNjBab251LTRwcGNKVGM5X2hwVW5ORnRKa1pySXBDV3VjQnpxYmIxYWxhaWZGQU9uUWVyQjMydFNIaURhb2RCei1pNV8yZXlsaUIxY2ZpdnhKWC1kTFI0UUVRalk2eS1xS09VT1dwVlkxd3ltSXhpWWp5N1hKeXJNQUpnUFJ4NjEzLWdUd25Yb29tVQ?oc=5",
-       "publishedAt": "2026-11-20T08:05+05:30"
-      },
-      {
-       "source": "Vogue India",
-       "title": "Aries Horoscope Today: November 20, 2026",
-       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYMkJ2RWkzNEVObmJNRDJHc0NpVWVUTjVUeHp5YklRMVAtZnBZc2V5OHBRSmVDel8wb0FyUWZ6SHY3ZVVXTV9VdXNWWnVLQnVQWmNDU3FlZjlzUE9WY2k4cmJQZTNTbmZUQjdBdVdXaUp6Q25aR1E?oc=5",
-       "publishedAt": "2026-11-20T05:50+05:30"
-      }
-     ]
-    },
-    {
-     "title": "US cyber chief Sean Cairncross 'fired' amid wave of tech outages",
-     "link": "https://timesofindia.indiatimes.com/world/us/trump-backs-firing-of-us-cyber-chief-sean-cairncross-amid-tech-outages/articleshow/136009545.cms",
-     "source": "Times of India",
-     "sources": [
-      "Axios",
-      "Investing.com South Africa",
-      "The Economic Times",
-      "The Hindu",
-      "The New York Times",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-20T07:02+05:30",
-     "score": 8.36,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-136009758,imgsize-104660.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "US cyber chief Sean Cairncross 'fired' amid wave of tech outages",
-       "link": "https://timesofindia.indiatimes.com/world/us/trump-backs-firing-of-us-cyber-chief-sean-cairncross-amid-tech-outages/articleshow/136009545.cms",
-       "publishedAt": "2026-11-20T07:02+05:30"
-      },
-      {
-       "source": "The Economic Times",
-       "title": "Trump ousts cyber director amid tech outages",
-       "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-ousts-cyber-director-sean-cairncross-after-tech-outages-spark-criticism/articleshow/136009515.cms",
-       "publishedAt": "2026-11-20T07:02+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "US cyber chief Sean Cairncross 'fired' amid wave of tech outages; Trump backs move",
-       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOUhEZ2owWS1PZ0FZS1pmcnVNTEg1MkpaSGFQZjNzVzFGb1hEelNtTHg1MTViZlZrWmJJazZuMGJrRExaOTAwSkZMUFZDTk5KZU1rOG1BbFpfbzR2b3p6b3FDcFA2UGpWZmhtZ1ZCOWZkWEVnakV1eG9HdTdoNlBmQS1iSkJ3WmkyTFFiTUZJcGdJWktkNTUzakN4Y2N4eFFMeGVkV3I2YzhnYTM2ZlpncTBNdXFHbnRGUGp1dTI4Qk9GXzFDajJtQWFmcVFUUW1hOHVyeFBOcXc?oc=5",
-       "publishedAt": "2026-11-20T07:02+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
-     "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "Open Magazine",
-      "Telegraph India",
-      "The Hindu"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T09:18+05:30",
-     "score": 7.49,
-     "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
-     "image": "https://th-i.thgim.com/public/incoming/yhl028/article71722867.ece/alternates/LANDSCAPE_1200/20261119493L.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
-       "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
-       "publishedAt": "2026-11-20T09:18+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Cyclone Akvan LIVE: Cyclone Akvan landfall process begins near Gopalpur; 3 lakh evacuated in Odisha, 47 trains cancelled",
-       "link": "https://www.hindustantimes.com/india-news/cyclone-akvan-tracker-live-updates-landfall-imd-red-alert-heavy-rainfall-odisha-ganjam-gajapati-puri-jagatsinghp-101795135589664.html",
-       "publishedAt": "2026-11-20T06:31+05:30"
-      }
-     ]
-    },
-    {
-     "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
-     "source": "BBC",
-     "sources": [
-      "BBC",
-      "Rockstar Games",
-      "The Guardian",
-      "The Hindu",
-      "The New York Times"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T08:18+05:30",
-     "score": 7.32,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "BBC",
-       "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
-       "publishedAt": "2026-11-20T08:18+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Just second batter in history! Phillips equals Rohit's rare feat with century",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/just-the-second-batter-in-history-of-cricket-glenn-phillips-equals-rohit-sharmas-rare-feat-with-century-against-india/articleshow/136009469.cms",
-     "source": "Times of India",
-     "sources": [
-      "ICC",
-      "Rediff",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T06:57+05:30",
-     "score": 7.1,
-     "summary": "He is the second player overall to score a century in Tests, ODIs and T20Is against the same opponent in a calendar year.",
-     "image": "https://static.toiimg.com/photo/msid-136009564,imgsize-99381.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Just second batter in history! Phillips equals Rohit's rare feat with century",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/just-the-second-batter-in-history-of-cricket-glenn-phillips-equals-rohit-sharmas-rare-feat-with-century-against-india/articleshow/136009469.cms",
-       "publishedAt": "2026-11-20T06:57+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Just the second batter in history of cricket! Glenn Phillips equals Rohit Sharma's rare feat with century",
-       "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNcFB5ZUxRbERseXoxOUY3RHpvWkNUNkZSVFZCcURKRjRKR0NUYkNyOUphckN5TGZrYXNIS0puYlduQzFJcVZxcldxN3JsZnkzUnV6Ui12N0hGbW4ydzlEcEhiTWJXYlhWSG5zb3c4c05DRVdMaTFmaV90S29zVGZNRmxFVjdtdTJzTWxBNE56dHd2cDdEYk5BOURIQnF6eFhJLUg5d1JCa1dRX1ZFeF92bDduaGNOLTBKXzE3T3RrMFRKdDhrQW5KdmswWDRWWGNmVWgwQUh0TUZxTkd5UTNVel91NWE4NkZZaEhkbm80aGFELVY4dGpsMFgwRHdPa2ZBSjdsdlA5TzNQRnBLbW1MZ1QzMy1nMDdTNEk2SDdja0JTTG1iUjV1OV9sZ1NsNm85bWlHOUFFaWNkb3M?oc=5",
-       "publishedAt": "2026-11-20T06:57+05:30"
       }
      ]
     }
