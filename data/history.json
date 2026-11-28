@@ -1,6 +1,163 @@
 {
- "updated": "2026-11-28T22:17+05:30",
+ "updated": "2026-11-28T23:13+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T23:00+05:30",
+   "generatedAt": "2026-11-28T23:13+05:30",
+   "feeds": 16,
+   "headlines": 240,
+   "stories": [
+    {
+     "title": "O.M Operation Mole Box Office Collection Day 9",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0tXdXM0YnVNcHcxNkNVZy1DblJzWHJENFppMHNCT2RRaEppZktjVFZPMmc5V1hoMzFvRFNncEZKWHZyUFgyZWpQSDRQb1p3anJtT0xMa0xISHNrT3Etc0ExT3lwdHBGN2I5bTZoZ2l4UEtuaTMzN1RBcGk2Z2ZqdW14UDZ2UGM3aDhTa0NiYks?oc=5",
+     "source": "Sacnilk",
+     "sources": [
+      "ETV Bharat",
+      "India Today",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Economic Times",
+      "The Indian Express",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 9,
+     "publishedAt": "2026-11-28T21:01+05:30",
+     "score": 9.69,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Sacnilk",
+       "title": "O.M Operation Mole Box Office Collection Day 9",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0tXdXM0YnVNcHcxNkNVZy1DblJzWHJENFppMHNCT2RRaEppZktjVFZPMmc5V1hoMzFvRFNncEZKWHZyUFgyZWpQSDRQb1p3anJtT0xMa0xISHNrT3Etc0ExT3lwdHBGN2I5bTZoZ2l4UEtuaTMzN1RBcGk2Z2ZqdW14UDZ2UGM3aDhTa0NiYks?oc=5",
+       "publishedAt": "2026-11-28T21:01+05:30"
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 Box Office Collection Day 23: Ranbir Kapoor film crosses Rs 1,800 cr; sets $30 mn North America record",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmo4MHJ6TmlDMXdlYTkzV1ZobXp3Y1FOaDZPNmNvRTJONUJ1QXgyYV9OQnhYU09VNDdXQVRmdTRaQzhZblBkMDhOeE0yRWFSMDNuY2djaUktWFpZdGNHNGtrbUJ3Uzl6clFqMkE1N1ZBVXZKNmtWa1gwMk01eFBoZDQ3U2lQbkZyUmxzTGs2UWJGS3hkX3lyaWNrRWxibkhuQ29GVXZpMTFIZkJTbGVjck02VklTeU1PWXVmOFRUc2dLZWN0ajdvQnd3a0x3bHAzdnRuT3BGZHVMSHhMU2Rj0gHmAUFVX3lxTE9XVkE1ZlprRjRCYU1HSWp1N3NrTDVGb1dPaUZfcmZwazBHUFF2dlNHdjBUbXQ4aUc1SWJqR1ZSNkRfZlFCS3kySVNrMDlpVUdBMnNZanFkaDVLTXdxMjNvY0R0WFQ5dnNNemp2b0ctWTViclZ5ZFY4RmpreElRak02UXhSd21tbE15dnFzWEhrdzRPRkNkWklEUlF3TkFEWkRUY1hkS1Z0ZHB6YzZpbGVZcVg1ZXFUR2duZGJfbkozZWJkenBnM3BMalozU1phMTNCdWJha3M2NnJBOXhWbGV0ZTVqWVJB?oc=5",
+       "publishedAt": "2026-11-28T21:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India beat China to take Women's Asian hockey crown",
+     "link": "https://economictimes.indiatimes.com/news/sports/hockey/india-beat-china-3-1-to-clinch-third-straight-womens-asian-champions-trophy-hockey-title/articleshow/136250917.cms",
+     "source": "The Economic Times",
+     "sources": [
+      "ESPN India",
+      "Hockey India",
+      "News On AIR",
+      "Sportstar",
+      "The Economic Times",
+      "The Hindu"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T21:32+05:30",
+     "score": 8.22,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Economic Times",
+       "title": "India beat China to take Women's Asian hockey crown",
+       "link": "https://economictimes.indiatimes.com/news/sports/hockey/india-beat-china-3-1-to-clinch-third-straight-womens-asian-champions-trophy-hockey-title/articleshow/136250917.cms",
+       "publishedAt": "2026-11-28T21:32+05:30"
+      },
+      {
+       "source": "Sportstar",
+       "title": "India vs China Highlights: India beats China 3-1 in the Women's Hockey Asian Champions Trophy 2026 Final; Win 3rd title in row",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTzBlNDd0ZVRGWjN2UjZJaEN6NGRtUWFiSUdrQUNUVGt4djl1SUhNNFhkSW1kSGllZ0dFc2dodEc4dHlmbWE2SlhXOUl4NldzeFBwSXJZa1lxZk9iLUdWZG1yU2J5Z3JNNHBSQkFfWU5aNVV6Ulo0REZlZ011N1NzN3h1d0VpUlV3RS02dTdSd05kVTlYblk5QUlUUU5hRmkwM2g4c1hJdFVOSW1UZHhJYW1qMW1jbTdaYU5rbS1pVHJaQdIByAFBVV95cUxPek5qVS1SbFd1eUlwOG4xOXYxaF9JRHZrMnpyS3dneDRZa1lsYTEtbVpaOUxJa1I2SmZwOHd4LUw4LXdzWWJyVEthSGIyeXFlRmxpUFJTbmdOR1BheGhuank4VFE0QXlndjNtZ2Nqb0FOUXdmUC1Ud0RybGYzZ0RIdnJCb1dqdGNmYk9DMDRMRV9PNWFFMWlGNV96T0E2dVFiV2d3bkU1WFotNXczVmszcWRhRGhUWVZLYlg5LUxrV1g0VEJiZHRnNg?oc=5",
+       "publishedAt": "2026-11-28T21:09+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Telegram Issues Security Alert to Users on Older iOS Versions; Durov Says \"iPhones Are Being Mass-Hacked\"",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XV0tMblJsR3V3MlItWUpQUjVCd2NLNDhTTnhiX0M5eFdGYld6S3czTTJrS3VIenM1VEsyb2tDcHlFREU0SXUyRFJodEtTYzkzdDN3U0Z2anRsVUk1OFpJdmRqaHM1endZelk5RW9fMzQzeUtTaGc?oc=5",
+     "source": "BigGo Finance",
+     "sources": [
+      "BigGo Finance",
+      "Coin Edition",
+      "India Today",
+      "Mezha.net",
+      "Notebookcheck",
+      "dev.ua"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T20:55+05:30",
+     "score": 6.99,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "BigGo Finance",
+       "title": "Telegram Issues Security Alert to Users on Older iOS Versions; Durov Says \"iPhones Are Being Mass-Hacked\"",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XV0tMblJsR3V3MlItWUpQUjVCd2NLNDhTTnhiX0M5eFdGYld6S3czTTJrS3VIenM1VEsyb2tDcHlFREU0SXUyRFJodEtTYzkzdDN3U0Z2anRsVUk1OFpJdmRqaHM1endZelk5RW9fMzQzeUtTaGc?oc=5",
+       "publishedAt": "2026-11-28T20:55+05:30"
+      },
+      {
+       "source": "Mezha.net",
+       "title": "Telegram warns iPhone users on older iOS versions to update",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeGFma3pjLXAxU2xlak9FX2RNWGFEbG5Ub0xyUWxTaGY4WkhaZEZPcTV0UnB2TXBpRWhUSXhselZLM1lJSUtKalNYcDBiRG9aZ3N5dWxfdkJzTXBDdzd5ZUNIejBYSEZXNzVEaWVXVDh2ME5mSi1HRlJ6ZTl5Qm9mbnlHWEJYS3M?oc=5",
+       "publishedAt": "2026-11-28T20:16+05:30"
+      }
+     ]
+    },
+    {
+     "title": "At least 10 students killed in blast beside school in Afghanistan’s Kunar",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUlFZXdrQ045NjNWMjFEZnEzQTVmcjBfTHBkc1ZfX21JdE1EWmE2WXpGRFJ4c1l6TjFMakxmcFZMa3EwT3NONlZrWXhNLWRFcFFhUl9NY3Mtb1hsUTBRSjM1dFFPYmViSEIxbVNJdlUxeUdoWEhPUUh0SEh5MW1jTmVtNGtObW5FTk0ydE9NSTBFdTdEZm1xMkJreGlKMkRieVY3SmN5RWRYQU9xLTZrZkVRVkHSAboBQVVfeXFMT2xkaW9oSWY5NEpmRTU5NlBXem9RTUd1RTlURm9aVDNZQ2VCMnBzZ09vajd0cHB1YU5IalZ3SGpnWlp6LURkdWh1THBTUHNYZm5yNWdnMHJrc1NsYXlTck1lUmctUVBFa1BnTXU0dTd6dGg5cHFkRFF2aUZxWnRwWk16czFmT3NSa2ltVlc0RTYydENGNHVGWW9rTlZPRnU1NnRTX21sMUZBcGdvQmdnZEhlNUUtZnBfeWRB?oc=5",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "NDTV",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T19:45+05:30",
+     "score": 6.92,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "At least 10 students killed in blast beside school in Afghanistan’s Kunar",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUlFZXdrQ045NjNWMjFEZnEzQTVmcjBfTHBkc1ZfX21JdE1EWmE2WXpGRFJ4c1l6TjFMakxmcFZMa3EwT3NONlZrWXhNLWRFcFFhUl9NY3Mtb1hsUTBRSjM1dFFPYmViSEIxbVNJdlUxeUdoWEhPUUh0SEh5MW1jTmVtNGtObW5FTk0ydE9NSTBFdTdEZm1xMkJreGlKMkRieVY3SmN5RWRYQU9xLTZrZkVRVkHSAboBQVVfeXFMT2xkaW9oSWY5NEpmRTU5NlBXem9RTUd1RTlURm9aVDNZQ2VCMnBzZ09vajd0cHB1YU5IalZ3SGpnWlp6LURkdWh1THBTUHNYZm5yNWdnMHJrc1NsYXlTck1lUmctUVBFa1BnTXU0dTd6dGg5cHFkRFF2aUZxWnRwWk16czFmT3NSa2ltVlc0RTYydENGNHVGWW9rTlZPRnU1NnRTX21sMUZBcGdvQmdnZEhlNUUtZnBfeWRB?oc=5",
+       "publishedAt": "2026-11-28T19:45+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India: Security forces deployed at Thiruparankundram ahead of Hindu lamp-lighting at disputed pillar",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTA5eWlKLUtjLXNTVnNndjF1ZUNUSlFNX01VZGJQZVJ4T3NocmdKbDZkS1lua1drY3F0VThfNmRhZ1ViX19zaHVnd3VCVWFRbkd0a2NZTHloakR2OXR1ZWNJVk5UZWluYWRHLXF2eGhmbzFHU2dwcEhUc3JCc3hEMXBJblhfV0x5WHpxVWhKWDg0RDE0VnBOcDhxWWNoVVBHOWhDZUliZw?oc=5",
+     "source": "DW.com",
+     "sources": [
+      "DW.com",
+      "The Hindu",
+      "The News Minute",
+      "The Times of India",
+      "ThePrint"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T17:50+05:30",
+     "score": 6.6,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "DW.com",
+       "title": "India: Security forces deployed at Thiruparankundram ahead of Hindu lamp-lighting at disputed pillar",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTA5eWlKLUtjLXNTVnNndjF1ZUNUSlFNX01VZGJQZVJ4T3NocmdKbDZkS1lua1drY3F0VThfNmRhZ1ViX19zaHVnd3VCVWFRbkd0a2NZTHloakR2OXR1ZWNJVk5UZWluYWRHLXF2eGhmbzFHU2dwcEhUc3JCc3hEMXBJblhfV0x5WHpxVWhKWDg0RDE0VnBOcDhxWWNoVVBHOWhDZUliZw?oc=5",
+       "publishedAt": "2026-11-28T17:50+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T22:00+05:30",
    "generatedAt": "2026-11-28T22:17+05:30",
@@ -28939,167 +29096,6 @@
        "title": "Nations League quarterfinal draw: England face Norway, Spain to meet France",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXFra09xREJNWDRGekMzZDJPaVNXVXlMQW5WTy1oOHpIdlJkSTFYOXN0MTNvZVJvZnNsQWVYSFdTbktjLThqakJNWFNMMTdzRC1JMEdwenU1bnRULUZjdFJhZEJ3Q1BBLWdhWE1RSHp2NG5wZklTMXhJTldQa3prN2lpbUtUd3JwOWU4UXJmR0tsNGRqNmc?oc=5",
        "publishedAt": "2026-11-20T16:30+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T21:00+05:30",
-   "generatedAt": "2026-11-20T21:25+05:30",
-   "feeds": 16,
-   "headlines": 297,
-   "stories": [
-    {
-     "title": "India develops first indigenous H5N1 bird flu vaccine, priced at  ₹1-2 per dose",
-     "link": "https://www.livemint.com/news/india-develops-first-indigenous-h5n1-bird-flu-vaccine-priced-at-1-2-per-dose-11795177299717.html",
-     "source": "Mint",
-     "sources": [
-      "ET Manufacturing",
-      "Hindustan Times",
-      "Inshorts",
-      "Mint",
-      "NDTV",
-      "News On AIR",
-      "Telegraph India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-20T19:27+05:30",
-     "score": 7.71,
-     "summary": "India launched its first indigenous H5N1 bird flu vaccine priced at ₹1-2 per dose. The government says the vaccine will help limit poultry losses from recurring outbreaks and improve disease preparedness.",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Bird-Flu-0_1716431781371_1795182640372_CIfP_cf4d0fd3-4941-4e4c-afd9-4e3edf25dd6f_dweg.jpg",
-     "articles": [
-      {
-       "source": "Mint",
-       "title": "India develops first indigenous H5N1 bird flu vaccine, priced at  ₹1-2 per dose",
-       "link": "https://www.livemint.com/news/india-develops-first-indigenous-h5n1-bird-flu-vaccine-priced-at-1-2-per-dose-11795177299717.html",
-       "publishedAt": "2026-11-20T19:27+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "India unveils first indigenous H5N1 bird flu vaccine for chickens at  ₹1-2 per dose",
-       "link": "https://www.hindustantimes.com/india-news/india-unveils-first-indigenous-h5n1-bird-flu-vaccine-for-chickens-at-1-2-per-dose-101795182511502.html",
-       "publishedAt": "2026-11-20T19:18+05:30"
-      },
-      {
-       "source": "News On AIR",
-       "title": "India develops first indigenous H5N1 bird flu vaccine",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3M0VTRrcERsRHdCSElhdGh1dGRzOVFsTFlQX3IyVnZscnFIRnFueGNFRWV1WFIwVE9paGNSWFlKYWg0U2FzT0hqM3lJNF9vUVlNR1pXWTVDU3VneUJkVUl5V2N4YXNLVEZmMXR0VFdNcjI3YXl1eVY2MTBCc1ZBWUVTZDVyUQ?oc=5",
-       "publishedAt": "2026-11-20T17:59+05:30"
-      }
-     ]
-    },
-    {
-     "title": "GTA VI's First-Day Haul Nears $2.4 Billion, Closing In on Morgan Stanley's Full-Quarter Sales Target",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZExnam14UVB6RXFrX2ZtZF9KTTJjU3pIRVpxU3ItWWh4T0Z2OGp5YnZBRFZWSk96ZXdSbDZaMXBRX2lzY0FPQjN5YnhUR2pKX3p1ekV1QnRkMFJfTWJvOWFPcnhZQ2hTN3o1UmJtVHRJMDRFZVE?oc=5",
-     "source": "BigGo Finance",
-     "sources": [
-      "BBC",
-      "BigGo Finance",
-      "CNBC",
-      "The Economist",
-      "The Guardian"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T18:35+05:30",
-     "score": 7.03,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "BigGo Finance",
-       "title": "GTA VI's First-Day Haul Nears $2.4 Billion, Closing In on Morgan Stanley's Full-Quarter Sales Target",
-       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZExnam14UVB6RXFrX2ZtZF9KTTJjU3pIRVpxU3ItWWh4T0Z2OGp5YnZBRFZWSk96ZXdSbDZaMXBRX2lzY0FPQjN5YnhUR2pKX3p1ekV1QnRkMFJfTWJvOWFPcnhZQ2hTN3o1UmJtVHRJMDRFZVE?oc=5",
-       "publishedAt": "2026-11-20T18:35+05:30"
-      }
-     ]
-    },
-    {
-     "title": "India boycott trophy ceremony after Pakistan handed Blind Asia Cup title following washout",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/india-boycott-trophy-ceremony-after-pakistan-handed-blind-asia-cup-title-following-washout/articleshow/136029621.cms",
-     "source": "Times of India",
-     "sources": [
-      "India Today",
-      "Sportstar",
-      "Telangana Today",
-      "The Times of India",
-      "Times of India",
-      "www.daily-sun.com"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T19:26+05:30",
-     "score": 6.84,
-     "summary": "A controversy arose after Pakistan was declared winners of the Men's Blind Cricket Asia Cup 2026. The final match against India was abandoned because of rain, leading to dissatisfaction from the Indian team. India's cricket association alleged that the decision was unfair and not communicated beforehand. Additionally, India decided to boycott the trophy presentation ceremony in protest against the ruling.",
-     "image": "https://static.toiimg.com/photo/msid-136029839,imgsize-75812.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "India boycott trophy ceremony after Pakistan handed Blind Asia Cup title following washout",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/india-boycott-trophy-ceremony-after-pakistan-handed-blind-asia-cup-title-following-washout/articleshow/136029621.cms",
-       "publishedAt": "2026-11-20T19:26+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "India boycott trophy ceremony after Pakistan handed Blind Asia Cup title following washout",
-       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdXQtQmNGeEhOY3NGVlhJb0tSdHJsZ2trVk5YdTN3ZFg0V2pjX2ZFejEtUTBKTl9uUmdqVXRac0szNEFaYmNRaXl4SUlkeUUzUjkwVXlIeVdfc1ZXSUlLbHZGNW1wcG5seFMxMVBicHlCZTdNdnJUMHgyUHJvR3NRR0pzM3J5TUFxMkJDbXYzc2dldXpBai1XZ3hJWGd0ei15UWNaX3JQTG0zb0RaSHN3dWdnS0dqZGNzcTVpWjMwcC1nSWItUWtNUi10Rk5iVy1IWWs0SDNDYktXeVZQYjRIN2FiMW9DdzNhMXk4X0NRdFI2NXJnVmtRTGMybVFySGhpQVE?oc=5",
-       "publishedAt": "2026-11-20T19:26+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Nations League quarterfinal draw: Spain face France, England play Norway",
-     "link": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "BBC",
-      "ESPN India",
-      "Official FC Barcelona Website",
-      "Sportstar",
-      "UEFA.com"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T18:14+05:30",
-     "score": 6.72,
-     "summary": "World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.",
-     "image": null,
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Nations League quarterfinal draw: Spain face France, England play Norway",
-       "link": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
-       "publishedAt": "2026-11-20T18:14+05:30"
-      },
-      {
-       "source": "ESPN India",
-       "title": "Nations League quarterfinal draw: England face Norway, Spain to meet France",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXFra09xREJNWDRGekMzZDJPaVNXVXlMQW5WTy1oOHpIdlJkSTFYOXN0MTNvZVJvZnNsQWVYSFdTbktjLThqakJNWFNMMTdzRC1JMEdwenU1bnRULUZjdFJhZEJ3Q1BBLWdhWE1RSHp2NG5wZklTMXhJTldQa3prN2lpbUtUd3JwOWU4UXJmR0tsNGRqNmc?oc=5",
-       "publishedAt": "2026-11-20T16:30+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Pak Minister Wanted To Visit Taj Mahal, Nizamuddin, Centre Said No: Sources",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTmsyYnVCbDFUenR2cER3ZGc4Qmo1UmhnVVAwNVVyR3BjMDIxX25YSlhEU3NqaXFZdWNaeTctVnBydVBYd1R1Mnl0ZXlpN3F6ZkdCRTExemUzeElHbnM5d2FZYU53NG5XcWI3ZUNDOEN0TDBqQm5JR1Vfd1FPUjcxVFdjSnkzb2dfZFRPdG02RzFwLUllVktDRF9kV0JaUWo1Ynd6Y1FTMHoteHZXVFpVTEFpTmZuWFBlZUlON1JEallDc3dIWGg5UG9SUmlZMFdOY3d1MXB2dmk?oc=5",
-     "source": "NDTV",
-     "sources": [
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "ThePrint"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T16:32+05:30",
-     "score": 6.69,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "Pak Minister Wanted To Visit Taj Mahal, Nizamuddin, Centre Said No: Sources",
-       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTmsyYnVCbDFUenR2cER3ZGc4Qmo1UmhnVVAwNVVyR3BjMDIxX25YSlhEU3NqaXFZdWNaeTctVnBydVBYd1R1Mnl0ZXlpN3F6ZkdCRTExemUzeElHbnM5d2FZYU53NG5XcWI3ZUNDOEN0TDBqQm5JR1Vfd1FPUjcxVFdjSnkzb2dfZFRPdG02RzFwLUllVktDRF9kV0JaUWo1Ynd6Y1FTMHoteHZXVFpVTEFpTmZuWFBlZUlON1JEallDc3dIWGg5UG9SUmlZMFdOY3d1MXB2dmk?oc=5",
-       "publishedAt": "2026-11-20T16:32+05:30"
       }
      ]
     }
