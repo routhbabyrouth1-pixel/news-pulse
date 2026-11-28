@@ -1,6 +1,158 @@
 {
- "updated": "2026-11-28T10:28+05:30",
+ "updated": "2026-11-28T11:26+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T11:00+05:30",
+   "generatedAt": "2026-11-28T11:26+05:30",
+   "feeds": 16,
+   "headlines": 209,
+   "stories": [
+    {
+     "title": "Wordle today: The answer and hints for November 27, 2026",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYVHB3Z2dZYVBBakxZS1ZHZndjYjk2b3RXQ09IcVkxUmFhZVNCZXpFdzByZjNtUU5ha0lkTjJaLUZFSU1XT1RySmlvUDRwUUxMakc1dEpvYXFDUl9aWUhTOFFyRW81QllBN0pzeDdqM0VsZGxMZG93YmNSRQ?oc=5",
+     "source": "Mashable",
+     "sources": [
+      "CNET",
+      "Deccan Herald",
+      "ETV Bharat",
+      "Hindustan Times",
+      "India Today",
+      "Mashable",
+      "News18",
+      "Odisha TV",
+      "PC Guide",
+      "The Economic Times",
+      "The Times of India",
+      "Vogue India"
+     ],
+     "sourceCount": 13,
+     "publishedAt": "2026-11-28T08:36+05:30",
+     "score": 14.28,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Mashable",
+       "title": "Wordle today: The answer and hints for November 27, 2026",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYVHB3Z2dZYVBBakxZS1ZHZndjYjk2b3RXQ09IcVkxUmFhZVNCZXpFdzByZjNtUU5ha0lkTjJaLUZFSU1XT1RySmlvUDRwUUxMakc1dEpvYXFDUl9aWUhTOFFyRW81QllBN0pzeDdqM0VsZGxMZG93YmNSRQ?oc=5",
+       "publishedAt": "2026-11-28T08:36+05:30"
+      },
+      {
+       "source": "Vogue India",
+       "title": "Gemini Horoscope Today: November 28, 2026",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JQk9aelhuY3JfLXZJWHdBX3FaSG9SSHVyQXQ1OWxVZ0UtMkVvek5IVG5BczItZlNOeDNuQ0tQcXFDZ0pIdWd3eWFrR0xwQXI2eGN0SGVuejdrY1J5ejhHZk9lMDlkb09Jd09rRjBJZGdxQ2h3ZXhV?oc=5",
+       "publishedAt": "2026-11-28T05:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "O'Rourke returns to New Zealand Test squad for Australia tour",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRG5VOWowUmtSSU1KX0w3WUtnWWZjcFVKRGhnMVVXZEVNSDdPUmRSQjZONFk1TnE5TGwteW1zT3RqY05DSFNMLWoxYlZ6VzVDYmQxcTk2bk1mQVkwdUl4Z1lTSGdaWHR2cFR0VUZPaGJYdUUwdm9DbjlrQmNxNXZDMjVqU0pYOVB2YnNURmpZZzMzT3Q4TlhYdDA5ZldXdW5aSlUwQ2V0OVXSAboBQVVfeXFMTnBVS0p3Q0tSa3VGMy1HTFBhWFFnUzRSOUtmSFd1S1ZSUzhZbVR0Qmx5MFhIdkN1RXRxZEZ4bVdnM3d0YzVWNW9LN1JtWjloQjlPaXpoTUd2YnBSNXZxelFzV2N4SEJFdk1tN2RNMTRtQ283LWpjamJFcXlmb3RWSjRJbXRhMk9fa0s3WU5FZlJDMng5am54MF9ROUJiTk5FSS1UMllLMFBhWHdtRF9pZDhJMk1vRTVHcEJ3?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "Cricbuzz",
+      "Cricinfo",
+      "ICC",
+      "Rediff.com",
+      "Sky Sports",
+      "Sport Nation",
+      "The Guardian",
+      "cricket.com.au"
+     ],
+     "sourceCount": 8,
+     "publishedAt": "2026-11-28T09:10+05:30",
+     "score": 9.37,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "O'Rourke returns to New Zealand Test squad for Australia tour",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRG5VOWowUmtSSU1KX0w3WUtnWWZjcFVKRGhnMVVXZEVNSDdPUmRSQjZONFk1TnE5TGwteW1zT3RqY05DSFNMLWoxYlZ6VzVDYmQxcTk2bk1mQVkwdUl4Z1lTSGdaWHR2cFR0VUZPaGJYdUUwdm9DbjlrQmNxNXZDMjVqU0pYOVB2YnNURmpZZzMzT3Q4TlhYdDA5ZldXdW5aSlUwQ2V0OVXSAboBQVVfeXFMTnBVS0p3Q0tSa3VGMy1HTFBhWFFnUzRSOUtmSFd1S1ZSUzhZbVR0Qmx5MFhIdkN1RXRxZEZ4bVdnM3d0YzVWNW9LN1JtWjloQjlPaXpoTUd2YnBSNXZxelFzV2N4SEJFdk1tN2RNMTRtQ283LWpjamJFcXlmb3RWSjRJbXRhMk9fa0s3WU5FZlJDMng5am54MF9ROUJiTk5FSS1UMllLMFBhWHdtRF9pZDhJMk1vRTVHcEJ3?oc=5",
+       "publishedAt": "2026-11-28T09:10+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thirupparankundram row: Supreme Court-appointed former Judges leave for Madurai",
+     "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTmNfSUVyV2FOX1JTQnVWR1pLSDJZUW1DVW00QTZlVTZmUEVMS0RzaWVQR2tYTzdFWGJ0NFdiR1NhSlJQRHJQT0ZKTGlsY1RxYkI1Qm9kRmJwb2hKcjl6VE1ZVXI2X3FKRzc3RWgteEZURGxjVURLV3NJVEx0T0xkY2k0YXN4TENid2d0d21TLUpNOGxQbTRPZ1N5T2VxU0dZQy16emhBRzdGZ0ItRXFiYXBmTDM3VlVxSHVXVnREVkdlMTJ3Yk9VOW1tNG5LbE10S29iaG9CQTE0WG5fdmhKX0ZHYzJGb3R4WTFmSGhDR19fR194MThicUtoN0pPWG5WVXlsNDladjM3WExoWFNISDFfSXhHTVpVOWNBZXU2UnB2UdIBqAJBVV95cUxOb3dhZjJSYkhKa2l1bUsxMVpJTDBCOGNUNC0zRzBidWdhTlN2WE5NVUxhcjd6OEFyNTdFcU5USzBQWl96bk5PeXNwU3lKZTJUaTJJMmJybXFTNzg1Ry04M0ZQWDc2YVUtWHpKekxpdWxhU293ZVpuOVhHWTB1WHRaTnF1REpiVks1dGxLOThEeFZGdkwtVC1NaUhkX1Q5R0FwNjA0Sm51b21yU1NIN1BYSnlxY0Zna0lHaW4zVUpvc3NHSzFNemhDbDladWJRWnRQejUtNUlYdWtPaGdsMDVXV2tEUzE4VXN1RWJmS1BDVDc2WktUUVdBLU1fZnUzUHZzN1RULVlFMEZleXhhUFNDb1ZKZHk0NXJfZWMwZzY5Zm9FaVhqaU1iWQ?oc=5",
+     "source": "The Hindu",
+     "sources": [
+      "Live Law",
+      "NDTV",
+      "Rediff.com",
+      "Telegraph India",
+      "The Hindu",
+      "The News Minute"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T11:18+05:30",
+     "score": 8.48,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Thirupparankundram row: Supreme Court-appointed former Judges leave for Madurai",
+       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTmNfSUVyV2FOX1JTQnVWR1pLSDJZUW1DVW00QTZlVTZmUEVMS0RzaWVQR2tYTzdFWGJ0NFdiR1NhSlJQRHJQT0ZKTGlsY1RxYkI1Qm9kRmJwb2hKcjl6VE1ZVXI2X3FKRzc3RWgteEZURGxjVURLV3NJVEx0T0xkY2k0YXN4TENid2d0d21TLUpNOGxQbTRPZ1N5T2VxU0dZQy16emhBRzdGZ0ItRXFiYXBmTDM3VlVxSHVXVnREVkdlMTJ3Yk9VOW1tNG5LbE10S29iaG9CQTE0WG5fdmhKX0ZHYzJGb3R4WTFmSGhDR19fR194MThicUtoN0pPWG5WVXlsNDladjM3WExoWFNISDFfSXhHTVpVOWNBZXU2UnB2UdIBqAJBVV95cUxOb3dhZjJSYkhKa2l1bUsxMVpJTDBCOGNUNC0zRzBidWdhTlN2WE5NVUxhcjd6OEFyNTdFcU5USzBQWl96bk5PeXNwU3lKZTJUaTJJMmJybXFTNzg1Ry04M0ZQWDc2YVUtWHpKekxpdWxhU293ZVpuOVhHWTB1WHRaTnF1REpiVks1dGxLOThEeFZGdkwtVC1NaUhkX1Q5R0FwNjA0Sm51b21yU1NIN1BYSnlxY0Zna0lHaW4zVUpvc3NHSzFNemhDbDladWJRWnRQejUtNUlYdWtPaGdsMDVXV2tEUzE4VXN1RWJmS1BDVDc2WktUUVdBLU1fZnUzUHZzN1RULVlFMEZleXhhUFNDb1ZKZHk0NXJfZWMwZzY5Zm9FaVhqaU1iWQ?oc=5",
+       "publishedAt": "2026-11-28T11:18+05:30"
+      }
+     ]
+    },
+    {
+     "title": "With options limited, PM said readying to offer Eisenkot top spot in rotational gov’t",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3k4dk1ZZzQ2Q2VsTHRMVldmbGNUQzFyNUxPeW54VDBLNS1YemhnOUxFdEVxRTZabXJUbUt2UnlkXy1KS21oNWtpcEhtWDdoeDlTcnZuMUR6cnBvSkY2cGV1amhNd0tUZFNTNTVaeWtpaFVaYm96X3hWbjdhelBRVU5MOENPQkxLcmpPSTFjcmFIeF96VjlHeTBNb3JaeUU3cHFpS0Y2ajlTcjVqQnV4SktwVHfSAboBQVVfeXFMT2IwT2RzZnlfYjhhbHhXXzk2NEpPLU5GNERaUy1qeXFZNkhzbjEwYWlnYmRSX0xMNWVYQThjdnlFaGpFRG83akJ2dnVhV2puSWN1aElzQVF3VmNMNU9Hc2ZoVUlYbjRlblRfQ2JIU3JmdVlvRGctbnpxVWVQa3hXQ0xDWWREaWw5MS16ZFF3WWpsejAwR0pWRm5NSFV1WkdmdF9OTmRPX3lzcGRISWFiZkpzWU9DaXk3WU9B?oc=5",
+     "source": "The Times of Israel",
+     "sources": [
+      "Daily Sabah",
+      "France 24",
+      "NDTV",
+      "Reuters",
+      "The Hindu",
+      "The Times of Israel",
+      "Xinhua"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-28T06:04+05:30",
+     "score": 7.86,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Times of Israel",
+       "title": "With options limited, PM said readying to offer Eisenkot top spot in rotational gov’t",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3k4dk1ZZzQ2Q2VsTHRMVldmbGNUQzFyNUxPeW54VDBLNS1YemhnOUxFdEVxRTZabXJUbUt2UnlkXy1KS21oNWtpcEhtWDdoeDlTcnZuMUR6cnBvSkY2cGV1amhNd0tUZFNTNTVaeWtpaFVaYm96X3hWbjdhelBRVU5MOENPQkxLcmpPSTFjcmFIeF96VjlHeTBNb3JaeUU3cHFpS0Y2ajlTcjVqQnV4SktwVHfSAboBQVVfeXFMT2IwT2RzZnlfYjhhbHhXXzk2NEpPLU5GNERaUy1qeXFZNkhzbjEwYWlnYmRSX0xMNWVYQThjdnlFaGpFRG83akJ2dnVhV2puSWN1aElzQVF3VmNMNU9Hc2ZoVUlYbjRlblRfQ2JIU3JmdVlvRGctbnpxVWVQa3hXQ0xDWWREaWw5MS16ZFF3WWpsejAwR0pWRm5NSFV1WkdmdF9OTmRPX3lzcGRISWFiZkpzWU9DaXk3WU9B?oc=5",
+       "publishedAt": "2026-11-28T06:04+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Iranian Girl, 14, Beaten To Death By Husband Days After Giving Birth For Asking To Visit Family",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaG5EbEN5SEVYSWRkSjBNNndzT2lfaTVTZFIxQTMyQTE3UUJYXzMxRGxQRXE3WEFxOE5vc3JDSy03eDEzRmpadzJXTlhwSFpMYWVrYW9FeGd5ZThoS0FXUkd3Mk00QlFidnd6a1pRYXFKaG5CeVo4Zk9YcjdaSGgxb1FGZVFHbGJMMEhXYThzZXAtSVhvM09NaGxleHczSElBWWVHTTBMNF9SUTlWUjUtQkF1MkZsQVAzR3JseVZBTlJLcmVLSDczbFJwbFdIazTSAdcBQVVfeXFMT3BwWU13N0E0cVpfRHRMeEc2WmVnNXlNSkNlSzNRd2d5bk5XQ1dWNnNqbFp6akZxYzRIM29oYWkxUXdoTWpwS2J6Wmh2cXV1Tl83RlBjTC16TlBNRk9KVUxHU3E1enNraTBJdldxRU9tVEZYV0o5STB1c3JwRnh4MU5yS25qSThwelN2c3hwbW51M254M0ZqNHJRaGFhT2VMSXZKX2tUaUJzcjJCXzZVNGdXODlTMXR2b0cxOU5yMHFXYXoxNURuZ05oLXlUMGtnS1NuZk5nVmc?oc=5",
+     "source": "NDTV",
+     "sources": [
+      "Around Prague",
+      "Daily Mail",
+      "NDTV",
+      "NewsBytes",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T11:04+05:30",
+     "score": 7.44,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "Iranian Girl, 14, Beaten To Death By Husband Days After Giving Birth For Asking To Visit Family",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaG5EbEN5SEVYSWRkSjBNNndzT2lfaTVTZFIxQTMyQTE3UUJYXzMxRGxQRXE3WEFxOE5vc3JDSy03eDEzRmpadzJXTlhwSFpMYWVrYW9FeGd5ZThoS0FXUkd3Mk00QlFidnd6a1pRYXFKaG5CeVo4Zk9YcjdaSGgxb1FGZVFHbGJMMEhXYThzZXAtSVhvM09NaGxleHczSElBWWVHTTBMNF9SUTlWUjUtQkF1MkZsQVAzR3JseVZBTlJLcmVLSDczbFJwbFdIazTSAdcBQVVfeXFMT3BwWU13N0E0cVpfRHRMeEc2WmVnNXlNSkNlSzNRd2d5bk5XQ1dWNnNqbFp6akZxYzRIM29oYWkxUXdoTWpwS2J6Wmh2cXV1Tl83RlBjTC16TlBNRk9KVUxHU3E1enNraTBJdldxRU9tVEZYV0o5STB1c3JwRnh4MU5yS25qSThwelN2c3hwbW51M254M0ZqNHJRaGFhT2VMSXZKX2tUaUJzcjJCXzZVNGdXODlTMXR2b0cxOU5yMHFXYXoxNURuZ05oLXlUMGtnS1NuZk5nVmc?oc=5",
+       "publishedAt": "2026-11-28T11:04+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T10:00+05:30",
    "generatedAt": "2026-11-28T10:28+05:30",
@@ -29130,186 +29282,6 @@
        "title": "Just the second batter in history of cricket! Glenn Phillips equals Rohit Sharma's rare feat with century",
        "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNcFB5ZUxRbERseXoxOUY3RHpvWkNUNkZSVFZCcURKRjRKR0NUYkNyOUphckN5TGZrYXNIS0puYlduQzFJcVZxcldxN3JsZnkzUnV6Ui12N0hGbW4ydzlEcEhiTWJXYlhWSG5zb3c4c05DRVdMaTFmaV90S29zVGZNRmxFVjdtdTJzTWxBNE56dHd2cDdEYk5BOURIQnF6eFhJLUg5d1JCa1dRX1ZFeF92bDduaGNOLTBKXzE3T3RrMFRKdDhrQW5KdmswWDRWWGNmVWgwQUh0TUZxTkd5UTNVel91NWE4NkZZaEhkbm80aGFELVY4dGpsMFgwRHdPa2ZBSjdsdlA5TzNQRnBLbW1MZ1QzMy1nMDdTNEk2SDdja0JTTG1iUjV1OV9sZ1NsNm85bWlHOUFFaWNkb3M?oc=5",
        "publishedAt": "2026-11-20T06:57+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T07:00+05:30",
-   "generatedAt": "2026-11-20T07:37+05:30",
-   "feeds": 16,
-   "headlines": 142,
-   "stories": [
-    {
-     "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-     "source": "Al Jazeera",
-     "sources": [
-      "Al Jazeera",
-      "Bloomberg.com",
-      "NDTV",
-      "Reuters",
-      "The Economist",
-      "The Times of India",
-      "Times of India",
-      "TradingView"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-20T06:31+05:30",
-     "score": 8.98,
-     "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
-     "image": "https://static.toiimg.com/photo/msid-136005246,imgsize-77880.cms",
-     "articles": [
-      {
-       "source": "Al Jazeera",
-       "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-       "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-       "publishedAt": "2026-11-20T05:28+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Trump pushes Iran war decision to 2027, says he'll 'see what happens' after Jan 1",
-       "link": "https://timesofindia.indiatimes.com/world/us/trump-pushes-iran-war-decision-to-2027-says-he-will-see-what-happens-after-january-1/articleshow/136005177.cms",
-       "publishedAt": "2026-11-20T03:13+05:30"
-      },
-      {
-       "source": "TradingView",
-       "title": "Iran war impact: Worst may be over",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYUw0dklpRWktb3Q2ZW1iS3JiVWFWU3duMHo5TFFpcXdmRkhIZzcxWVg4QXVVWm1pMXNaTUtzNkhNZmF2TS13Ukh1eFdwNk01UlBmSm8yNUtSTGQ3Q0NTTDJta2ZOV2ZVblZnYjlveDQyUkh6RUFTdUQtajZpZzhjR3hlSWk0VXVWLXc3eDl1V1BwY3M0?oc=5",
-       "publishedAt": "2026-11-20T06:31+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Trump pushes Iran war decision to 2027, says he will 'see what happens' after January 1",
-       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRHhhcTFCcGpFSGk4TW5tTm15REF6TldtM2d4bGNYQktETk1sX3pfNU9TQjlDRkwwTlhvdFU3cmQ0YVVMRnlGVTF4LThaYVR1Z0pxb19qc1JRNjVzZWNaYjR0ZmRueWZsZEp0YTZMRW1rZF9PV2pwQUVabDVteGtVdFY3M1lGZDVycmtwdjFxTThjVnhYXzFvQ1RzSl9UX2VBeURSUDVkeWNpUFRSVzRtMlpJUWtHdUhGblFxYkhfNDdENHBxNjlIbEJWTHpvVkExa0NwMHNjMjFNc2MtWHNxclVzYWRTdlAtYmMw?oc=5",
-       "publishedAt": "2026-11-20T03:13+05:30"
-      }
-     ]
-    },
-    {
-     "title": "De Villiers calls Khawaja 'biggest traitor' as sandpaper row explodes",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/de-villiers-calls-usman-khawaja-biggest-traitor-cummins-captaincy-faces-threat-as-sandpaper-shockwaves-reverberate/articleshow/136007568.cms",
-     "source": "Times of India",
-     "sources": [
-      "Cricinfo",
-      "Nine.com.au",
-      "Scroll.in",
-      "The Guardian",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T04:29+05:30",
-     "score": 7.23,
-     "summary": "The controversy resurfaced after Cameron Bancroft released a 4,000-word statement in which he made claims about his former teammates, including Cummins.",
-     "image": "https://static.toiimg.com/photo/msid-47529300.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "De Villiers calls Khawaja 'biggest traitor' as sandpaper row explodes",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/de-villiers-calls-usman-khawaja-biggest-traitor-cummins-captaincy-faces-threat-as-sandpaper-shockwaves-reverberate/articleshow/136007568.cms",
-       "publishedAt": "2026-11-20T04:29+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "De Villiers calls Usman Khawaja 'biggest traitor'; Cummins' captaincy faces threat as Sandpaper shockwaves reverberate",
-       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQd1ZyTGFpTVFwMko2MzVqRm5ZSUtLNkZKVHJTMk1sLW53MmRrMUo0X2F2d3IxNXNSb0I2MUltbjNEOFFSZFMyTG02cEZaQWxQblhaX1BIUEZHMFZheXBacENETjFRRjZXNlRMZlBtb2JpZWxnVUdaakplTEJLM2JPUmdfV3l0ekI1RC1KWmZFMHR2SEFxLVhmbzNlWnQwbjZFMEJMempITUNNeDRZZ2ZQU1NieDNYc19kMGRNWXF6Y3VSUGFIWENuZmVwSGtHR3VQWTRRbjI4YnpNRXVKaDZLYkdVcHpPa1dRRVhYczg1by1JRzF4VTZoTmltQVRlS0NCV2VHWVhoZkdVZ3l0eDhydzVvRk53MVpMSGJuZFZ4bjNTUQ?oc=5",
-       "publishedAt": "2026-11-20T04:29+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Removal proceedings against me infructuous after resignation: Justice Varma tells Lok Sabha Secretariat",
-     "link": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Deccan Herald",
-      "Moneycontrol.com",
-      "NDTV",
-      "The Hindu",
-      "The Indian Awaaz",
-      "ThePrint"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T06:30+05:30",
-     "score": 7.19,
-     "summary": "In a letter circulated among MPs on November 19, Justice Varma stated that the proceedings directed toward his removal did not survive his resignation",
-     "image": "https://th-i.thgim.com/public/incoming/7yy6ix/article71721691.ece/alternates/LANDSCAPE_1200/IMG_vbk-16-9-Justice_Yas_2_1_N4GCTCD6.jpg",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Removal proceedings against me infructuous after resignation: Justice Varma tells Lok Sabha Secretariat",
-       "link": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece",
-       "publishedAt": "2026-11-20T06:30+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Resignation Not Admission Of Guilt: Justice Yashwant Varma Tells Lok Sabha Secretariat",
-       "link": "https://www.ndtv.com/india-news/resignation-not-admission-of-guilt-justice-yashwant-varma-tells-lok-sabha-secretariat-12351554#publisher=newsstand",
-       "publishedAt": "2026-11-20T06:23+05:30"
-      }
-     ]
-    },
-    {
-     "title": "47 Train Cancelled, Over 3 Lakh Evacuated As Cyclone Akvan Heads To Odisha",
-     "link": "https://www.ndtv.com/india-news/47-train-cancelled-over-3-lakh-evacuated-as-cyclone-akvan-heads-to-odisha-12351955#publisher=newsstand",
-     "source": "NDTV",
-     "sources": [
-      "NDTV",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T05:18+05:30",
-     "score": 7.11,
-     "summary": "Cyclone Akvan: Chief Minister Mohan Charan Majhi conducted another comprehensive review of the preparedness and response measures for the impending Cyclone 'Akvan'.",
-     "image": "https://c.ndtvimg.com/2026-11/1d5ict8k_akvan_625x300_19_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "NDTV",
-       "title": "47 Train Cancelled, Over 3 Lakh Evacuated As Cyclone Akvan Heads To Odisha",
-       "link": "https://www.ndtv.com/india-news/47-train-cancelled-over-3-lakh-evacuated-as-cyclone-akvan-heads-to-odisha-12351955#publisher=newsstand",
-       "publishedAt": "2026-11-20T05:18+05:30"
-      },
-      {
-       "source": "Times of India",
-       "title": "Cyclone Akvan: Odisha braces for landfall; 3 lakh evacuated, CM holds midnight meet",
-       "link": "https://timesofindia.indiatimes.com/india/cyclone-akvan-odisha-braces-for-landfall-3-lakh-evacuated-cm-majhi-holds-midnight-meet/articleshow/136005443.cms",
-       "publishedAt": "2026-11-20T04:00+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
-       "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-       "publishedAt": "2026-11-20T01:43+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
-     "source": "Yahoo Tech",
-     "sources": [
-      "BBC",
-      "The Guardian",
-      "The Hindu",
-      "The New York Times",
-      "Yahoo Tech"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T04:35+05:30",
-     "score": 7.0,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Yahoo Tech",
-       "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years",
-       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
-       "publishedAt": "2026-11-20T04:35+05:30"
       }
      ]
     }
