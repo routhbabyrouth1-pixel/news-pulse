@@ -1,6 +1,169 @@
 {
- "updated": "2026-11-28T06:38+05:30",
+ "updated": "2026-11-28T08:21+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T08:00+05:30",
+   "generatedAt": "2026-11-28T08:21+05:30",
+   "feeds": 16,
+   "headlines": 123,
+   "stories": [
+    {
+     "title": "Clayton and Rocchiccioli named in Australia Test squad for New Zealand series",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNnVOemVTTW9GN3hGUUk4VnoxajB0dWdpNlNOdWlZSjJKaTViMlpHMmdZRW45bFNGeEF0RmdJcUJLTmZmeGRlODk5M0pKa2I1bGxZRGVtQ3JDMGNxUEZZTjZsM1haQmhRNXBTSkRiN05lZ2VCV285aEYza2ZaTm9ZdHhFM1pmQjhfSnRxMHlvZkt2QjFLQ3Q4emRLZ2RZa09xUC1NVzJuR2Vuc205SXNmN05KeHplT0lHdDhXNEExclhUUFNQa2fSAdcBQVVfeXFMTTRlTG5vdVhrNllmS2t4OHNGQm81TTRwblRKMng0WDl1bU1ZUV9Rakt1NHBpWWFxMWwxT3NNRUp2WnRtclIzMG4yQV8tajJUWUF1Y0hrS3lHaW9tU01EQ1p6eGRjSFlWbHkzb3l0Mm0zWmJFUmQ1TlhHekpTZmpFSkFsUkp3STByY0VsR3lDcllkWFdzd0NyQlFxMm1CNHY4WWJtaVM5Nm9iQjA4dzZIU1haaTlVOGtYNUxqNVRzaGtzczdSOGVTbnlPZ2JRRXlEV19ZUU1LM0k?oc=5",
+     "source": "Cricinfo",
+     "sources": [
+      "AFP.com",
+      "Cricbuzz",
+      "Cricinfo",
+      "ICC",
+      "Sport Nation",
+      "The News Mill",
+      "cricket.com.au"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-28T06:37+05:30",
+     "score": 8.21,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Cricinfo",
+       "title": "Clayton and Rocchiccioli named in Australia Test squad for New Zealand series",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNnVOemVTTW9GN3hGUUk4VnoxajB0dWdpNlNOdWlZSjJKaTViMlpHMmdZRW45bFNGeEF0RmdJcUJLTmZmeGRlODk5M0pKa2I1bGxZRGVtQ3JDMGNxUEZZTjZsM1haQmhRNXBTSkRiN05lZ2VCV285aEYza2ZaTm9ZdHhFM1pmQjhfSnRxMHlvZkt2QjFLQ3Q4emRLZ2RZa09xUC1NVzJuR2Vuc205SXNmN05KeHplT0lHdDhXNEExclhUUFNQa2fSAdcBQVVfeXFMTTRlTG5vdVhrNllmS2t4OHNGQm81TTRwblRKMng0WDl1bU1ZUV9Rakt1NHBpWWFxMWwxT3NNRUp2WnRtclIzMG4yQV8tajJUWUF1Y0hrS3lHaW9tU01EQ1p6eGRjSFlWbHkzb3l0Mm0zWmJFUmQ1TlhHekpTZmpFSkFsUkp3STByY0VsR3lDcllkWFdzd0NyQlFxMm1CNHY4WWJtaVM5Nm9iQjA4dzZIU1haaTlVOGtYNUxqNVRzaGtzczdSOGVTbnlPZ2JRRXlEV19ZUU1LM0k?oc=5",
+       "publishedAt": "2026-11-28T06:37+05:30"
+      }
+     ]
+    },
+    {
+     "title": "US battered by Thanksgiving storms: Thousands without power as floods wreak havoc",
+     "link": "https://timesofindia.indiatimes.com/world/us/us-battered-by-thanksgiving-storms-hundreds-of-thousands-without-power-as-floods-wreak-havoc/articleshow/136235994.cms",
+     "source": "Times of India",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "The Guardian",
+      "The Hindu",
+      "The Weather Channel",
+      "Times of India",
+      "Yahoo"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-28T06:59+05:30",
+     "score": 7.96,
+     "summary": "Heavy rains and high winds downed trees and power lines and led to water rescues from New York to Virginia Skies cleared along the US eastern seaboard on Friday, and power was being restored to hundreds of thousands of customers whose Thanksgiving plans were disrupted by heavy rains and high winds that swept over the region a day earlier. The storms snarled travel, downed trees and power lines and led to water…",
+     "image": "https://static.toiimg.com/photo/msid-136236012,imgsize-135012.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "US battered by Thanksgiving storms: Thousands without power as floods wreak havoc",
+       "link": "https://timesofindia.indiatimes.com/world/us/us-battered-by-thanksgiving-storms-hundreds-of-thousands-without-power-as-floods-wreak-havoc/articleshow/136235994.cms",
+       "publishedAt": "2026-11-28T06:14+05:30"
+      },
+      {
+       "source": "The Guardian",
+       "title": "Thousands still without power after storms that snarled Thanksgiving travel",
+       "link": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
+       "publishedAt": "2026-11-28T03:44+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Thanksgiving storms leave nearly a million without power across the US",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV05RRm9ueHQ3Qmdpb09FZUJxVWN4R3JUVGk5SWI5SGh3MlNJZGVxTXNrRURzTmN1OWgzejIxN0dxSzZfTjNaaV9paGZfN3I1cVZUOTJMYTlEdUFlUFZEN2ItM01pVVMtWEcwVVczQjBtMUVfeFc0Y2MzbDdRSlFzcXRPMnRMWUdkSFRjTHUwS281OVBMTnNQV2Q2Y21LM1pCZ3dXa19zVFFSQ0RsTndLMFVR0gG3AUFVX3lxTFBLT2JDS2VjblItcVVUbkdIUWZXc1IwcUJGSGNKZTZUUHhhYXlrazIyZGtXNDFvaGJSOGxmVEZYVDVzM1ZIdWU3cEJJbXNuSC1ybjNUQmcwa21vY3VPTWkwRTBMVHREWENlNTg3ajdFUTFRcU1McVJMWF9VSTB4UGxzTzVpWlZjSU5sQjZTNXJyYnJPTEc3NFIwM3Q3LVZIV1NyV0cyYktESTEzR1drcFdLaHQwclBnbw?oc=5",
+       "publishedAt": "2026-11-28T06:59+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Quordle hints and answers for Saturday, November 28 (game #1769)",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeHczTW56cnRiekpWcjRqRUM1RWNqWk1PVmx2LVZ6VXZMS3hmMFlaZExmRHFmaG1fenNBNXlNeGtnUVdYVU5BdWZrSVVDZTFpMXJzRFZnZVI3eVdaTmZ5WGFtWmlWOWhXM0ZsNDhfUWxiYWQ5U2d6VzdVQWczZHpMVFByczZaSGlXU29NZ3ZVQlU2X2JjSkpsdGd3?oc=5",
+     "source": "TechRadar",
+     "sources": [
+      "Analytics Insight",
+      "TechRadar",
+      "Technobezz",
+      "The Eastern Herald",
+      "Yahoo Tech"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T05:30+05:30",
+     "score": 7.02,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "TechRadar",
+       "title": "Quordle hints and answers for Saturday, November 28 (game #1769)",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeHczTW56cnRiekpWcjRqRUM1RWNqWk1PVmx2LVZ6VXZMS3hmMFlaZExmRHFmaG1fenNBNXlNeGtnUVdYVU5BdWZrSVVDZTFpMXJzRFZnZVI3eVdaTmZ5WGFtWmlWOWhXM0ZsNDhfUWxiYWQ5U2d6VzdVQWczZHpMVFByczZaSGlXU29NZ3ZVQlU2X2JjSkpsdGd3?oc=5",
+       "publishedAt": "2026-11-28T05:30+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Two American Airlines planes clip wings while taxiing at Washington airport",
+     "link": "https://timesofindia.indiatimes.com/world/us/two-american-airlines-planes-clip-wings-while-taxiing-at-washington-airport-faa-to-probe/articleshow/136236334.cms",
+     "source": "Times of India",
+     "sources": [
+      "BBC",
+      "India Today",
+      "The Times of India",
+      "The Washington Post",
+      "Times of India",
+      "upi"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T07:03+05:30",
+     "score": 6.84,
+     "summary": "Two American Airlines planes clipped their wings while taxiing at Ronald Reagan Washington National Airport. The incident occurred around 5.10pm ET and led to an emergency response. No injuries were reported as the Federal Aviation Administration began investigating the event. Both aircraft returned to their gates for inspection, after which American Airlines arranged alternative travel for passengers.",
+     "image": "https://static.toiimg.com/photo/msid-136236375,imgsize-797490.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "Two American Airlines planes clip wings while taxiing at Washington airport",
+       "link": "https://timesofindia.indiatimes.com/world/us/two-american-airlines-planes-clip-wings-while-taxiing-at-washington-airport-faa-to-probe/articleshow/136236334.cms",
+       "publishedAt": "2026-11-28T07:03+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "Two American Airlines planes clip wings while taxiing at Washington airport; FAA to probe",
+       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTGFnQ2YwREVpLUc0VmlBaTRYRXFWVExJcnNCNUs5cXNGck9hcjJDdHhRWHdxSWQ0WEtQYVE5SENnd3ZDRFdwZkpnbXRXNXd1d2ozMEtyUkNnNkVwX1Z4dUtBaWtXb24yWkxEdG9SZ0NDSXZ0cWVUTjd2SnZmUWVYUWprNkRnVFMxNUloTlBBY2dFYzJDa24xak9ZaHN3YzJUbUZQNGczdjBQNmZ1ZzY3djdHV3FaQjFIdFVrbHN6MTFNdzBJSHZkRnRyOXBIN2xnR0tqeFBzTVdRU09UMVRwVXctc0VwVzZQbURMbzBwZ2I?oc=5",
+       "publishedAt": "2026-11-28T07:03+05:30"
+      }
+     ]
+    },
+    {
+     "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+     "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "sources": [
+      "BBC",
+      "BBC News",
+      "Filme Shilmy",
+      "MissMalini",
+      "Moneycontrol.com",
+      "The Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T06:20+05:30",
+     "score": 6.75,
+     "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbd/live/d9f6b7b0-e97b-11f1-acd8-af22a7ebb474.jpg",
+     "articles": [
+      {
+       "source": "BBC News",
+       "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+       "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+       "publishedAt": "2026-11-28T06:20+05:30"
+      },
+      {
+       "source": "BBC",
+       "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTDhDaFFzQk5McHJKWmIySTJfMkFZb3dLelRTMG1wdWNOUEgzMDF6TWxGaEh3RXNWRmZYOGtZS293bmNDTmNlSjc2eU9VYzYzUnJwUE9uVzZyYnc?oc=5",
+       "publishedAt": "2026-11-28T06:20+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T06:00+05:30",
    "generatedAt": "2026-11-28T06:38+05:30",
@@ -29118,159 +29281,6 @@
        "title": "How non-player characters in 'Grand Theft Auto VI' help create its big world",
        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1VvemJuSEpzTkFITTloV2lSQnhOdi1KYjVIcjRkYnNGSk56U2hucDJpUThDalNaaU13WXRlR0VvYUM0aUkyWkNmNFl4eE9Zd05LcU1xU1NzWHRhd3otakxIUElPenE4QUVvcE1iVFl4VUxZWGIyYXFFd3d3TjBkQzdvUkRhQmxDNkdtekc3cnhJLVZTbm8wcmg5X2k4MnY4ekxMME9tOHNwRU1aaUR1Vml4VVZoOWJsR1pj?oc=5",
        "publishedAt": "2026-11-20T04:15+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T04:00+05:30",
-   "generatedAt": "2026-11-20T04:17+05:30",
-   "feeds": 16,
-   "headlines": 208,
-   "stories": [
-    {
-     "title": "Trump says no rush on Iran decision, looks to next year",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
-     "source": "Reuters",
-     "sources": [
-      "Anadolu Ajansı",
-      "Forex Factory",
-      "NDTV",
-      "Reuters",
-      "TRT World",
-      "The Economist",
-      "The Hill",
-      "The Hindu",
-      "The Times of India"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-20T03:06+05:30",
-     "score": 10.1,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Reuters",
-       "title": "Trump says no rush on Iran decision, looks to next year",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
-       "publishedAt": "2026-11-20T03:06+05:30"
-      }
-     ]
-    },
-    {
-     "title": "ENE Repeat Box Office Collection Day 1",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNakgyS1NCNWF3eUN1YU9yb2NzUjI3MDdUclRlVlpwMy05b3ZIMWpsX1lyZ3Q4eFNyQ0p2R1pYNWJZdlRqYXo3U05GRXJLVVlMS1VHMVRPcmxkVUhXYks3VmVpVEd1d2JRQjRZU1Q2OEEySC1aQ0l3T3NtSzc3Um94ZWFWdw?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "IMDb",
-      "IndiaGlitz",
-      "Sacnilk",
-      "THE WEEK",
-      "The Hindu",
-      "The Indian Express",
-      "The Times of India",
-      "Tupaki English"
-     ],
-     "sourceCount": 8,
-     "publishedAt": "2026-11-20T00:54+05:30",
-     "score": 8.62,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "ENE Repeat Box Office Collection Day 1",
-       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNakgyS1NCNWF3eUN1YU9yb2NzUjI3MDdUclRlVlpwMy05b3ZIMWpsX1lyZ3Q4eFNyQ0p2R1pYNWJZdlRqYXo3U05GRXJLVVlMS1VHMVRPcmxkVUhXYks3VmVpVEd1d2JRQjRZU1Q2OEEySC1aQ0l3T3NtSzc3Um94ZWFWdw?oc=5",
-       "publishedAt": "2026-11-20T00:54+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Cyclone Akvan: Odisha braces for landfall; 3 lakh evacuated, CM holds midnight meet",
-     "link": "https://timesofindia.indiatimes.com/india/cyclone-akvan-odisha-braces-for-landfall-3-lakh-evacuated-cm-majhi-holds-midnight-meet/articleshow/136005443.cms",
-     "source": "Times of India",
-     "sources": [
-      "Down To Earth",
-      "Telegraph India",
-      "The Hindu",
-      "The News Minute",
-      "Times of India"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T04:00+05:30",
-     "score": 7.45,
-     "summary": "Odisha has evacuated nearly 3 lakh residents and set up over 2,500 relief camps in response to Cyclone Akvan. The cyclone is expected to make landfall between Puri and Gopalpur with significant wind speeds. Rescue teams, including the National Disaster Response Force and Coast Guard, are ready to assist in vulnerable areas. Meanwhile, Andhra Pradesh is also preparing for the storm with designated alerts for various…",
-     "image": "https://static.toiimg.com/photo/msid-136005474,imgsize-263576.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Cyclone Akvan: Odisha braces for landfall; 3 lakh evacuated, CM holds midnight meet",
-       "link": "https://timesofindia.indiatimes.com/india/cyclone-akvan-odisha-braces-for-landfall-3-lakh-evacuated-cm-majhi-holds-midnight-meet/articleshow/136005443.cms",
-       "publishedAt": "2026-11-20T04:00+05:30"
-      },
-      {
-       "source": "The Hindu",
-       "title": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
-       "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-       "publishedAt": "2026-11-20T01:43+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'Meeting PM Modi turned out to be very lucky': SKY on rediscovering batting form",
-     "link": "https://timesofindia.indiatimes.com/sports/cricket/news/meeting-pm-modi-turned-out-to-be-very-lucky-suryakumar-yadav-on-redisovering-batting-form/articleshow/136000928.cms",
-     "source": "Times of India",
-     "sources": [
-      "ANI News",
-      "Rediff",
-      "The News Mill",
-      "The Times of India",
-      "Times of India",
-      "Yahoo Sports"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-19T23:13+05:30",
-     "score": 6.9,
-     "summary": "Suryakumar Yadav credited his meeting with PM Narendra Modi on November 6 for bringing him luck as he rediscovered his batting form. The India batter has impressed in the Syed Mushtaq Ali Trophy with explosive knocks for Mumbai and is aiming for an international comeback. He also hopes to win the IPL 2027 title with Mumbai Indians.",
-     "image": "https://static.toiimg.com/photo/msid-136001143,imgsize-82452.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "'Meeting PM Modi turned out to be very lucky': SKY on rediscovering batting form",
-       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/meeting-pm-modi-turned-out-to-be-very-lucky-suryakumar-yadav-on-redisovering-batting-form/articleshow/136000928.cms",
-       "publishedAt": "2026-11-19T23:13+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Meeting PM Modi turned out to be very lucky': Suryakumar Yadav on rediscovering batting form",
-       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRUREeEtCUTZiaDBUNXN5VHcyZzZ3MmJaN1NGaWNCQ2x0bFlKYkxWaDBIc2hSSW96cUtiNVR0YUJLOFhpZjF3b3BidC00a1d6MGYyM2xHdzhZbndHeE1kRFVQZlo3Mi1KSkJjT3FwdFlHdnpIMzhjZUtEeDZDRVlXUjNsQlBJclQwTHNyRXR0OTNWc3NGN1JpVFNDb3hNSlIzYmh3R0xxcVdLS0wzcDBsZFVMNW5hcVdyU1JXclM1Y2RpQVFHbl9FVWxjTmMzRXFlWXF3cWwxemRkRkFrQmxxd0xyS2laaDRrN3lZaHplVmZjWG1feDlHZUwweUFfN3Aw0gGGAkFVX3lxTE1MX0NCSXF5VktlbWdmX0dKQ1JjSDNpb1kwTndVOVVqNjhOVTA4VU80MUhOOEpicVlxdXZzV3oxb1BTZUZDd3h4c3h4TFpRNk5DbjRfc0tBUWNKWU85eXE0QVROXzgxWFc5Y3NraFNlQUZSa1BYMGJJR3F4c0w2YXMxMFNiTm1VcTVLdjRKRVBLSW1YSUpaLTdjaUJ3eFhzWEJLZ091UE5DN2gxWHFsWG1VaVh5UWd6SDRZcTJMc3E3cG4yMHE0SUhtQzZYSmoyOGQ0cUcxRDFNYVk0LUNDUmNhT1MyVjl3MFN3STFFVE1fRnZmT2lVakhFb0Z6S2VOUU1neno3cEE?oc=5",
-       "publishedAt": "2026-11-19T23:13+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Google’s Quantum Chip Beats Classical Limits in Tests of Teamwork",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFk5V0Z3NE9EMkxXZlNHQnk0bndFLVo5dGs2ZGZkOUIyWjZHM3BWZ29Wc2p0Wl9MSnMtVFFzT3Rrc2JSZk9EenpESmZVdjVmbHp3RXIxaVlHUFpoai1iN0dzd0ZtNENEOGhXRDlCTXQteU1RMlFXaERiZWh6ZThkNnl3R2l6YnJQRWdlZloyOVZWejlsX3JoQXJISGlvTFo2UWFYTkNVXzZydw?oc=5",
-     "source": "The Quantum Insider",
-     "sources": [
-      "Google Research",
-      "MLQ.ai",
-      "The Quantum Insider",
-      "Unite.AI",
-      "blog.google"
-     ],
-     "sourceCount": 5,
-     "publishedAt": "2026-11-20T03:39+05:30",
-     "score": 6.0,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Quantum Insider",
-       "title": "Google’s Quantum Chip Beats Classical Limits in Tests of Teamwork",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFk5V0Z3NE9EMkxXZlNHQnk0bndFLVo5dGs2ZGZkOUIyWjZHM3BWZ29Wc2p0Wl9MSnMtVFFzT3Rrc2JSZk9EenpESmZVdjVmbHp3RXIxaVlHUFpoai1iN0dzd0ZtNENEOGhXRDlCTXQteU1RMlFXaERiZWh6ZThkNnl3R2l6YnJQRWdlZloyOVZWejlsX3JoQXJISGlvTFo2UWFYTkNVXzZydw?oc=5",
-       "publishedAt": "2026-11-20T03:39+05:30"
       }
      ]
     }
