@@ -1,6 +1,176 @@
 {
- "updated": "2026-11-28T18:26+05:30",
+ "updated": "2026-11-28T19:31+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T19:00+05:30",
+   "generatedAt": "2026-11-28T19:31+05:30",
+   "feeds": 13,
+   "headlines": 233,
+   "stories": [
+    {
+     "title": "Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal",
+     "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+     "source": "The Hindu",
+     "sources": [
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T19:23+05:30",
+     "score": 7.73,
+     "summary": "Rahul Gandhi alleged that the move to bring the bill is the new way of the BJP to change the foundation of this country",
+     "image": "https://static.toiimg.com/photo/msid-136247259,imgsize-38480.cms",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal",
+       "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+       "publishedAt": "2026-11-28T19:23+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Number 850 represents murder of democracy': Rahul attacks BJP over delimitation",
+       "link": "https://timesofindia.indiatimes.com/india/blank-cheque-to-redraw-electoral-map-to-bjps-advantage-rahul-gandhi-on-delimitation-bill-top-quotes/articleshow/136247216.cms",
+       "publishedAt": "2026-11-28T18:14+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "How DMK changed its stand on delimitation",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/from-burning-the-bill-to-backing-it-how-dmk-changed-its-stand-on-the-controversial-delimitation/articleshow/136246565.cms",
+       "publishedAt": "2026-11-28T17:50+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"Our 3 MPs Will Vote In Favour\": BRS Announces Support For Delimitation Bill",
+       "link": "https://www.ndtv.com/india-news/our-3-mps-will-vote-in-favour-brs-announces-support-for-delimitation-bill-12389126#publisher=newsstand",
+       "publishedAt": "2026-11-28T17:26+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Thirupparankundram Karthigai Deepam lit at ‘deepathoon’ in accordance with Supreme Court order",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-karthigai-deepam-lit-on-deepathoon-in-accordance-with-supreme-court-order/article71754315.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Bar and Bench",
+      "Frontline Magazine",
+      "NDTV",
+      "The Hindu",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T19:29+05:30",
+     "score": 7.49,
+     "summary": "To ensure compliance and maintain order, the Supreme Court had placed the security of the hillock under the control of the Central Reserve Police Force (CRPF)",
+     "image": "https://th-i.thgim.com/public/incoming/dqwicm/article71754525.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-28%20at%2017.13.28.jpeg",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Thirupparankundram Karthigai Deepam lit at ‘deepathoon’ in accordance with Supreme Court order",
+       "link": "https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-karthigai-deepam-lit-on-deepathoon-in-accordance-with-supreme-court-order/article71754315.ece",
+       "publishedAt": "2026-11-28T19:29+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India failed to build partnerships in second Test, admits Bahutule",
+     "link": "https://www.thehindu.com/sport/cricket/india-failed-to-build-partnerships-in-second-test-admits-bahutule/article71754187.ece",
+     "source": "The Hindu",
+     "sources": [
+      "Cricbuzz",
+      "ICC",
+      "Telegraph India",
+      "The Hindu",
+      "The Indian Express"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T17:40+05:30",
+     "score": 7.19,
+     "summary": "India spin bowling coach Sairaj Bahutule says the batters could not convert starts in the second Test against New Zealand in Christchurch, while dropped catches and wide lines also hurt as India slipped to 116 for six in reply to 356",
+     "image": "https://th-i.thgim.com/public/incoming/n8517g/article71754210.ece/alternates/LANDSCAPE_1200/INDIA%20Afghanistan%20ODI%2026.JPG",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "India failed to build partnerships in second Test, admits Bahutule",
+       "link": "https://www.thehindu.com/sport/cricket/india-failed-to-build-partnerships-in-second-test-admits-bahutule/article71754187.ece",
+       "publishedAt": "2026-11-28T17:40+05:30"
+      },
+      {
+       "source": "Cricbuzz",
+       "title": "India tour of New Zealand 2nd Test Day 2 Sairaj Bahutule rues lack of partnerships as India land on thin ice",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSThUT2lYRE93X3RseXRMZnVaajVWLVlhT18zaVBHeEhmUFRoUFZkMTlfTFgtSWZqXzNSTndIQk9JVHR4SGc4OTB5NV9BTkdOa1FRc3lJd0ZkOXQ1X0ZmT2NoSHJhdXFrVE5IRlRFRU53ejdDTTU4VmNnRExIRzNhODh2a2owRWtGZmVNTDZJOENtY1R1aUNBdmhQLXJSdHptZ3VCRzNxcUw3S0Z3ekR2MUhR?oc=5",
+       "publishedAt": "2026-11-28T17:00+05:30"
+      }
+     ]
+    },
+    {
+     "title": "7 Killed, Over 90 Injured In Explosion At School In Afghanistan",
+     "link": "https://www.ndtv.com/world-news/7-killed-over-90-injured-in-explosion-at-school-in-afghanistan-12388797#publisher=newsstand",
+     "source": "NDTV",
+     "sources": [
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "NDTV",
+      "The Hindu"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T16:23+05:30",
+     "score": 6.98,
+     "summary": "Initial information indicated the blast at the school on the outskirts of the provincial capital, Asadabad, occurred due to negligence at the depot storing explosives belonging to mining companies, an official said.",
+     "image": "https://c.ndtvimg.com/2024-09/kfim27vg_kabul-blast-generic_625x300_02_September_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "NDTV",
+       "title": "7 Killed, Over 90 Injured In Explosion At School In Afghanistan",
+       "link": "https://www.ndtv.com/world-news/7-killed-over-90-injured-in-explosion-at-school-in-afghanistan-12388797#publisher=newsstand",
+       "publishedAt": "2026-11-28T15:55+05:30"
+      },
+      {
+       "source": "Al Jazeera",
+       "title": "Several students killed in blast beside Afghan school",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+       "publishedAt": "2026-11-28T15:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "'Vetrivel, Veeravel': Historic lighting of Deepam, celebrations captured in videos",
+     "link": "https://timesofindia.indiatimes.com/india/vetrivel-veeravel-historic-lighting-of-deepam-emotional-celebrations-captured-in-9-videos/articleshow/136246533.cms",
+     "source": "Times of India",
+     "sources": [
+      "Bar and Bench",
+      "Frontline Magazine",
+      "NDTV",
+      "The Times of India",
+      "Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T18:24+05:30",
+     "score": 6.56,
+     "summary": "On Saturday, Madurai devotees witnessed the lighting of the Karthigai Deepam at Thiruparankundram hill. This ceremony took place under the supervision of Supreme Court-appointed judges. A significant gathering celebrated the event while following strict security measures and guidelines. A devotee expressed concerns over previous noncompliance with the Supreme Court's orders. Prime Minister Narendra Modi also…",
+     "image": "https://static.toiimg.com/photo/msid-136247527,imgsize-19702920.cms",
+     "articles": [
+      {
+       "source": "Times of India",
+       "title": "'Vetrivel, Veeravel': Historic lighting of Deepam, celebrations captured in videos",
+       "link": "https://timesofindia.indiatimes.com/india/vetrivel-veeravel-historic-lighting-of-deepam-emotional-celebrations-captured-in-9-videos/articleshow/136246533.cms",
+       "publishedAt": "2026-11-28T18:24+05:30"
+      },
+      {
+       "source": "The Times of India",
+       "title": "'Vetrivel, Veeravel': Historic lighting of Deepam, emotional celebrations captured in 9 videos",
+       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbjZrak1EN2hkTlphS0lJQy1ieHJHTUQ5eEE1WE1iMHdxZEFHa3lNRDVrbXRrSGdQRFNkNkNCNjhLR281ZjFTc1lFb2hjdjB2dFZYd0J5RzFpUUphT04xN0hpSlFyQUVFX0JoQ0VSTEpSVUFXeXBNNnN4V09BVS1ZMzl4Y2JGbHRacTBteXlMdFF2ZGJneWFDd2hCeXU4aFlvQ05UU0JrUFZkaXZDTjZlN3VzcjBvNnVmRVNEY245dWc4U2lRSzZjVHJOdlpTZFIxY0ozSVp4VmVIY2dzTDdVMWRnRnZTUk5FNDNTT0ZB?oc=5",
+       "publishedAt": "2026-11-28T18:24+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T18:00+05:30",
    "generatedAt": "2026-11-28T18:26+05:30",
@@ -28988,190 +29158,6 @@
        "title": "Supreme Court allows bike taxis in Karnataka, rejects State's appeal to restore ban",
        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEsyZllGQVROQU5DZmJyaThuUGV1YXBLRkpsZWkyV0F4Q3ZyRUF2QkMtNFhIUE9wT0d2ZlFIdVVRN0lnNTF0ME9FRVlzQ1MtZzJXWUNaMFdhdlhJWlhLSk16Y2RNcUNtUTJuWTlpR19NYXJDNmVQdGpmeW0tS0wxRmthbldnZDNLUkpoTC1jTkVFLUItOUVTZF9ia3VnTE9fb253Y181WUVMa29VMnRKbGh2dVXSAcIBQVVfeXFMTzYzNGNfM3AtWkpxNUswRjZNaDRObWtzc3FhMlpfX3AwNnNZeWJvWURQUHR3TFY0TmE0WlhPTlN2bzA0Q01xekFwdGZQQnN1NXNhQ0M0VUh3Qk05WldCRGJsYmcwZUhUUzEzYXd4dEpZV3M3SDh3U0xVdWwtZTlQMl9uSU4tUlVFNFhUWmZaMHpRMjM3NDROclJjTENyLXFNXzVYcDBqb1FzcWU1Q2RsS0E3Nkc0WGdvTXNYeGlOSnNjemc?oc=5",
        "publishedAt": "2026-11-20T13:16+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T16:00+05:30",
-   "generatedAt": "2026-11-20T16:28+05:30",
-   "feeds": 16,
-   "headlines": 321,
-   "stories": [
-    {
-     "title": "Aakasamlo Oka Tara Box Office Collection Day 1",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjZqLW82eWJickZaeUwxTmVlRVV5LWNhdVB2d3d3Wkpldy05VzlmS0JadjVmNXdQT2E4WEFsaFB4anZsQ09uY3JCRWNicHk1RXM3Zm5qQjhQS0F2Y2l2bHl5ZEYxcGRsZy16WW9UVmN1UC10TWhZelI4TWFtVEFLRjhhVHBVdUlTTWFnZHNR?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "Deccan Chronicle",
-      "Film Music Reporter",
-      "IMDb",
-      "Sacnilk",
-      "THE WEEK",
-      "The Hindu",
-      "The Times of India",
-      "UB - Universitat de Barcelona",
-      "iDiva"
-     ],
-     "sourceCount": 9,
-     "publishedAt": "2026-11-20T15:14+05:30",
-     "score": 10.01,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Aakasamlo Oka Tara Box Office Collection Day 1",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjZqLW82eWJickZaeUwxTmVlRVV5LWNhdVB2d3d3Wkpldy05VzlmS0JadjVmNXdQT2E4WEFsaFB4anZsQ09uY3JCRWNicHk1RXM3Zm5qQjhQS0F2Y2l2bHl5ZEYxcGRsZy16WW9UVmN1UC10TWhZelI4TWFtVEFLRjhhVHBVdUlTTWFnZHNR?oc=5",
-       "publishedAt": "2026-11-20T15:14+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Samantha Ruth Prabhu welcomes baby boy",
-     "link": "https://economictimes.indiatimes.com/news/new-updates/samantha-ruth-prabhu-and-raj-nidimoru-welcome-baby-boy-share-first-pictures-and-reveal-their-little-ones-beautiful-name/articleshow/136019077.cms",
-     "source": "The Economic Times",
-     "sources": [
-      "India TV News",
-      "MissMalini",
-      "NDTV",
-      "Rediff",
-      "The Economic Times",
-      "The Times of India"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T13:55+05:30",
-     "score": 8.07,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "The Economic Times",
-       "title": "Samantha Ruth Prabhu welcomes baby boy",
-       "link": "https://economictimes.indiatimes.com/news/new-updates/samantha-ruth-prabhu-and-raj-nidimoru-welcome-baby-boy-share-first-pictures-and-reveal-their-little-ones-beautiful-name/articleshow/136019077.cms",
-       "publishedAt": "2026-11-20T13:48+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Samantha Ruth Prabhu, Raj Nidimoru blessed with a baby boy, announce his name with an adorable first gli",
-       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQU0Vsc1ZwME12SGgzQjRWZEFyNmhLRTJVc1hXMDVVT3p3bEZpU2JGb01hbXFSbWtteURRVkc5LTc4WGNrUmpEdFBpdUthSkRTVUhsa0ZiRVpNcEtsc1c1QmtRclZsMHg0MzZ4YkI1QmlKdWdGbFZ4U2duSG1ZS2gxSXloajlfY2hia0lLeU5VdkpGcmFKOUx5TjNtdVN1V2o4T2xzTzdvbFVkN3ZHaExKQWRQUG11MXh1VVk4MHM1U2FDdVZjRUpCc2FhOWNHMVFPdld5Q0dnUmVqVWRZejIzQ2N3SGpnTGlNZjBqOXUwUkpJWFNpRzVwQldaWXhsTk1pTnZPYVI0UjUxQXlQX2hjTFVPMklvRm44aVV4cGxfTjFnQUp3OEFxWVBSRFNLcE91WVF2ZndrMA?oc=5",
-       "publishedAt": "2026-11-20T13:55+05:30"
-      }
-     ]
-    },
-    {
-     "title": "PM Modi speaks to Yogi Adityanath, offers condolences over mother's death",
-     "link": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-to-yogi-adityanath-offers-condolences-over-mothers-death/articleshow/136022673.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "The New Indian Express",
-      "The Times of India",
-      "ThePrint",
-      "Times of India",
-      "tennews.in"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-20T15:51+05:30",
-     "score": 8.0,
-     "summary": "Union Home Minister Amit Shah also expressed grief over the demise of Yogi Adityanath's mother.",
-     "image": "https://static.toiimg.com/photo/msid-136022778,imgsize-1322133.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "PM Modi speaks to Yogi Adityanath, offers condolences over mother's death",
-       "link": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-to-yogi-adityanath-offers-condolences-over-mothers-death/articleshow/136022673.cms",
-       "publishedAt": "2026-11-20T15:51+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Yogi Adityanath’s mother Savitri Devi dies at 91; PM Modi condoles demise",
-       "link": "https://www.hindustantimes.com/india-news/uttar-pradesh-chief-minister-yogi-adityanaths-mother-savitri-devi-dies-in-uttarakhand-101795158780052.html",
-       "publishedAt": "2026-11-20T12:47+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "PM Modi speaks to Yogi Adityanath, offers condolences over mother's death",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmJlYXBwM2VaMkN1eFVuQ2FjZUpqdjFpTkp1Z2NkVE5Wdl9sRHBZXzdZRV90cUIweVhScXlBczdSTmRYWDlJblBHdERHUVpzMHlsRkJsS0R6aVRPelhha0ZObmxMNHNlR25yY1pWMFNtcG95d0REMjllcVl6OGE1dGRRMmtLX25UR19uXzZlSE5iV1BRSkxPS05RcXRMcU14cV9rNlZKekJiVENPejJ0WEpIUVlxZ2hmdWRCQWJKLWlYV2lpUS1sME1LQ2Q2VnQyeU5SU3RB?oc=5",
-       "publishedAt": "2026-11-20T15:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "'If we have water, will give to T.N.' says Shivakumar after SC verdict on Cauvery dispute | LIVE",
-     "link": "https://www.thehindu.com/news/national/cauvery-water-sharing-dispute-tamil-nadu-karnataka-supreme-court-judgement-live-updates-november-20-2026/article71723088.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Hindustan Times",
-      "Live Law",
-      "NDTV",
-      "Rediff",
-      "The Hindu",
-      "The New Indian Express"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T15:36+05:30",
-     "score": 7.61,
-     "summary": "Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves",
-     "image": "https://c.ndtvimg.com/2023-03/pqfo1fb_d-k-shivakumar-_625x300_06_March_23.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "'If we have water, will give to T.N.' says Shivakumar after SC verdict on Cauvery dispute | LIVE",
-       "link": "https://www.thehindu.com/news/national/cauvery-water-sharing-dispute-tamil-nadu-karnataka-supreme-court-judgement-live-updates-november-20-2026/article71723088.ece",
-       "publishedAt": "2026-11-20T15:36+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "'No Water Even For Drinking': DK Shivakumar After Top Court Relief On Cauvery",
-       "link": "https://www.ndtv.com/india-news/no-water-even-for-drinking-dk-shivakumar-after-supreme-court-relief-on-cauvery-12353666#publisher=newsstand",
-       "publishedAt": "2026-11-20T14:52+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Cauvery dispute: SC dismisses Tamil Nadu's pleas for additional water release from Karnataka",
-       "link": "https://www.hindustantimes.com/india-news/cauvery-dispute-sc-dismisses-tamil-nadu-s-pleas-for-additional-water-release-from-karnataka-101795161882622.html",
-       "publishedAt": "2026-11-20T13:34+05:30"
-      },
-      {
-       "source": "Live Law",
-       "title": "Cauvery River Dispute : Supreme Court Dismisses Tamil Nadu's Applications Seeking Additional Water...",
-       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOemdVMGhMaTMtU09BX0trS2xjR0tLR3NBVjB1Smh6QmJCbGVHbU1QS3NZUkFpOFhxdjk0MXdBSDNOR3V4N3g0SllRazUwTlJlbEItQ0hnLTB1SUpvNnZSSG1CMGVKdVhWRy1tWnRYUWt5Smd3aGFsdzdEMVlLTktxWUJSamFCU21CQ3h3SkQ5OTREaFpKZ2pFVkdmWF9yWjVOLWthVlI3ZmgySkMwNjNIU0dhTEtBZExJWVNfRmNoUWhoNXYyRDF2WDFUekNUdTJOUXVOWmJlTlRveVhsT1dqZUpyWmo3ZmJYeldxRGRnRdIB9AFBVV95cUxOZDEwWTlGRkRDdlY2eVM2UjBDbGZZVGdDbHJmM3FGNmVSbEJGdUcyanhhQTMyTU5LZzVOUUFzay1famRKTGFaM0NQM25fNEdnUzRnUWY1VDliM0xEUXVBbVlSS2JBSlg1Ri1tN1hFdlFqUl9WcGpaZ1dvRjdZM09tVFJMUGp3TlpXU3lpR1BZNUxXS24zR1ZSaHlEZ2N2YXR1TTltSzB3QTZBQTJhenR6UExIaENLX2hPdE1nNXc2WE01Sy1zcTBLLTh4VDVVLWx2b2N0WEJvTmhYeWJtY0ExTC1ydkszYl8zNVA3Vnd4Q1ZKS1E4?oc=5",
-       "publishedAt": "2026-11-20T10:48+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Op Monsoon Thunder: NCB raids 4 cities, arrests 6 in US-bound drug shipment probe",
-     "link": "https://timesofindia.indiatimes.com/india/operation-monsoon-thunder-ncb-raids-four-cities-arrests-six-in-probe-into-us-bound-opioid-and-psychotropic-drug-shipments/articleshow/136019629.cms",
-     "source": "Times of India",
-     "sources": [
-      "Inshorts",
-      "Rediff",
-      "The Hindu",
-      "The Times of India",
-      "Times of India",
-      "Tripuratimes"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T14:20+05:30",
-     "score": 7.39,
-     "summary": "",
-     "image": "https://static.toiimg.com/photo/msid-136019898,imgsize-91640.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "Op Monsoon Thunder: NCB raids 4 cities, arrests 6 in US-bound drug shipment probe",
-       "link": "https://timesofindia.indiatimes.com/india/operation-monsoon-thunder-ncb-raids-four-cities-arrests-six-in-probe-into-us-bound-opioid-and-psychotropic-drug-shipments/articleshow/136019629.cms",
-       "publishedAt": "2026-11-20T14:20+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "Operation Monsoon Thunder: NCB raids four cities, arrests six in probe into US-bound opioid and psychotr",
-       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPXzFYVWlmU2E5NHdORGxLWEMtSzFDcTlvX1FrTENpR05KSS0yMUQ3d3N4d0NxYjRrWC1CMFlUNk5ubnpGanRYS3h2UEZYVzdjQUl3SnEzSHlvM2lnSVVKVVBPR3BuMER0SDNsUnAyUmd0UnRXaHpRcnVFZHFoSnZCVVpTZmtsOHdWamJuZld6M2xiS2xwQi1YTUM3ZWY1blIyeUZJc2h0eHVpczh0aHloVldvbkQ0N1FlMlNoeDVnV2h4SFByc2R3R1BQMnVaQ2tCVFdERkNxemE0Qy16VTc2RGdOYVhIYjFuSnJQUmFlZHVPMk9UY2k5R0gyOHNQLWEwaHdQdFlTb2hobTQtQ0VkTGxvTkdwYTZh?oc=5",
-       "publishedAt": "2026-11-20T14:20+05:30"
       }
      ]
     }
