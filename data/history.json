@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-28T20:19+05:30",
+ "updated": "2026-11-28T21:15+05:30",
  "hours": [
+  {
+   "hour": "2026-11-28T21:00+05:30",
+   "generatedAt": "2026-11-28T21:15+05:30",
+   "feeds": 17,
+   "headlines": 314,
+   "stories": [
+    {
+     "title": "Ramayana Part 1 Box Office Collection Day 23: Ranbir Kapoor film crosses Rs 1,800 cr; sets $30 mn North America record",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmo4MHJ6TmlDMXdlYTkzV1ZobXp3Y1FOaDZPNmNvRTJONUJ1QXgyYV9OQnhYU09VNDdXQVRmdTRaQzhZblBkMDhOeE0yRWFSMDNuY2djaUktWFpZdGNHNGtrbUJ3Uzl6clFqMkE1N1ZBVXZKNmtWa1gwMk01eFBoZDQ3U2lQbkZyUmxzTGs2UWJGS3hkX3lyaWNrRWxibkhuQ29GVXZpMTFIZkJTbGVjck02VklTeU1PWXVmOFRUc2dLZWN0ajdvQnd3a0x3bHAzdnRuT3BGZHVMSHhMU2Rj0gHmAUFVX3lxTE9XVkE1ZlprRjRCYU1HSWp1N3NrTDVGb1dPaUZfcmZwazBHUFF2dlNHdjBUbXQ4aUc1SWJqR1ZSNkRfZlFCS3kySVNrMDlpVUdBMnNZanFkaDVLTXdxMjNvY0R0WFQ5dnNNemp2b0ctWTViclZ5ZFY4RmpreElRak02UXhSd21tbE15dnFzWEhrdzRPRkNkWklEUlF3TkFEWkRUY1hkS1Z0ZHB6YzZpbGVZcVg1ZXFUR2duZGJfbkozZWJkenBnM3BMalozU1phMTNCdWJha3M2NnJBOXhWbGV0ZTVqWVJB?oc=5",
+     "source": "The Indian Express",
+     "sources": [
+      "Baradwaj Rangan",
+      "Bollywood Hungama",
+      "India TV News",
+      "India Today",
+      "Livemint",
+      "NDTV",
+      "Rediff.com",
+      "Sacnilk",
+      "THE WEEK",
+      "Telegraph India",
+      "The Economic Times",
+      "The Indian Express"
+     ],
+     "sourceCount": 14,
+     "publishedAt": "2026-11-28T21:00+05:30",
+     "score": 15.46,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "The Indian Express",
+       "title": "Ramayana Part 1 Box Office Collection Day 23: Ranbir Kapoor film crosses Rs 1,800 cr; sets $30 mn North America record",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmo4MHJ6TmlDMXdlYTkzV1ZobXp3Y1FOaDZPNmNvRTJONUJ1QXgyYV9OQnhYU09VNDdXQVRmdTRaQzhZblBkMDhOeE0yRWFSMDNuY2djaUktWFpZdGNHNGtrbUJ3Uzl6clFqMkE1N1ZBVXZKNmtWa1gwMk01eFBoZDQ3U2lQbkZyUmxzTGs2UWJGS3hkX3lyaWNrRWxibkhuQ29GVXZpMTFIZkJTbGVjck02VklTeU1PWXVmOFRUc2dLZWN0ajdvQnd3a0x3bHAzdnRuT3BGZHVMSHhMU2Rj0gHmAUFVX3lxTE9XVkE1ZlprRjRCYU1HSWp1N3NrTDVGb1dPaUZfcmZwazBHUFF2dlNHdjBUbXQ4aUc1SWJqR1ZSNkRfZlFCS3kySVNrMDlpVUdBMnNZanFkaDVLTXdxMjNvY0R0WFQ5dnNNemp2b0ctWTViclZ5ZFY4RmpreElRak02UXhSd21tbE15dnFzWEhrdzRPRkNkWklEUlF3TkFEWkRUY1hkS1Z0ZHB6YzZpbGVZcVg1ZXFUR2duZGJfbkozZWJkenBnM3BMalozU1phMTNCdWJha3M2NnJBOXhWbGV0ZTVqWVJB?oc=5",
+       "publishedAt": "2026-11-28T21:00+05:30"
+      },
+      {
+       "source": "Sacnilk",
+       "title": "Aakasamlo Oka Tara Box Office Collection Day 9",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSTJ6TDRTR3lJWldQS1RMTW8xeEFld2swelBORF9BcEJ5VGZkeTlZT1NsT0t2NTVjbU4yVE85dUZSQ3l0cTkxNTd5UUxJOVBMdG50Y3ZxVTBzaXA4c3lfQ2NUUDF3dnhhMW5RbG92TTVxZ1BnMzBBSWVRUElkaEZSa0xaeklpS1RxOHA0a1ZR?oc=5",
+       "publishedAt": "2026-11-28T18:20+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Several students killed in blast beside Afghan school",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+     "source": "Al Jazeera",
+     "sources": [
+      "Al Arabiya English",
+      "Al Jazeera",
+      "BBC",
+      "CNN",
+      "NDTV",
+      "The Hindu",
+      "Xinhua"
+     ],
+     "sourceCount": 7,
+     "publishedAt": "2026-11-28T19:45+05:30",
+     "score": 9.25,
+     "summary": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
+     "image": null,
+     "articles": [
+      {
+       "source": "Al Jazeera",
+       "title": "Several students killed in blast beside Afghan school",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+       "publishedAt": "2026-11-28T15:35+05:30"
+      }
+     ]
+    },
+    {
+     "title": "Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal",
+     "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+     "source": "The Hindu",
+     "sources": [
+      "NDTV",
+      "The Economic Times",
+      "The Hindu",
+      "The Times of India",
+      "TheWire.in",
+      "Times of India"
+     ],
+     "sourceCount": 6,
+     "publishedAt": "2026-11-28T20:06+05:30",
+     "score": 7.56,
+     "summary": "Rahul Gandhi alleged that the move to bring the bill is the new way of the BJP to change the foundation of this country",
+     "image": "https://c.ndtvimg.com/2026-11/w0iivoyz7_rahul-gandhi-mk-stalin_625x300_28_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "articles": [
+      {
+       "source": "The Hindu",
+       "title": "Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal",
+       "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+       "publishedAt": "2026-11-28T20:06+05:30"
+      },
+      {
+       "source": "NDTV",
+       "title": "\"Think About The Country\": Rahul Gandhi On DMK's Support For Delimitation",
+       "link": "https://www.ndtv.com/india-news/think-about-the-country-rahul-gandhi-on-dmks-support-for-delimitation-12389716#publisher=newsstand",
+       "publishedAt": "2026-11-28T19:57+05:30"
+      },
+      {
+       "source": "Times of India",
+       "title": "'Number 850 represents murder of democracy': Rahul attacks BJP over delimitation",
+       "link": "https://timesofindia.indiatimes.com/india/blank-cheque-to-redraw-electoral-map-to-bjps-advantage-rahul-gandhi-on-delimitation-bill-top-quotes/articleshow/136247216.cms",
+       "publishedAt": "2026-11-28T18:14+05:30"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "How DMK changed its stand on delimitation",
+       "link": "https://economictimes.indiatimes.com/news/politics-and-nation/from-burning-the-bill-to-backing-it-how-dmk-changed-its-stand-on-the-controversial-delimitation/articleshow/136246565.cms",
+       "publishedAt": "2026-11-28T17:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India: Security forces deployed at Thiruparankundram ahead of Hindu lamp-lighting at disputed pillar",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTA5eWlKLUtjLXNTVnNndjF1ZUNUSlFNX01VZGJQZVJ4T3NocmdKbDZkS1lua1drY3F0VThfNmRhZ1ViX19zaHVnd3VCVWFRbkd0a2NZTHloakR2OXR1ZWNJVk5UZWluYWRHLXF2eGhmbzFHU2dwcEhUc3JCc3hEMXBJblhfV0x5WHpxVWhKWDg0RDE0VnBOcDhxWWNoVVBHOWhDZUliZw?oc=5",
+     "source": "DW.com",
+     "sources": [
+      "DW.com",
+      "Frontline Magazine",
+      "Telegraph India",
+      "The News Minute",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T17:50+05:30",
+     "score": 6.93,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "DW.com",
+       "title": "India: Security forces deployed at Thiruparankundram ahead of Hindu lamp-lighting at disputed pillar",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTA5eWlKLUtjLXNTVnNndjF1ZUNUSlFNX01VZGJQZVJ4T3NocmdKbDZkS1lua1drY3F0VThfNmRhZ1ViX19zaHVnd3VCVWFRbkd0a2NZTHloakR2OXR1ZWNJVk5UZWluYWRHLXF2eGhmbzFHU2dwcEhUc3JCc3hEMXBJblhfV0x5WHpxVWhKWDg0RDE0VnBOcDhxWWNoVVBHOWhDZUliZw?oc=5",
+       "publishedAt": "2026-11-28T17:50+05:30"
+      }
+     ]
+    },
+    {
+     "title": "India sees robust growth momentum, flags El Nino, West Asia risks",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWZ3WW40QXdLcVJLMlpJcVlhMnJjZktyXzhCajN5U2dibWxaR3dmUVBFQUxHU1RBQUlFUXlmcWhjZW51UElMRVRqSzltX0d2bGVKekZhblBqLV9JNHZxODAwdWtKYVJzbkJKS3FnOG43X2VVQVlhVDB5M29kQk82QUtWWEd5eVZrQ3h0UTIzd19jT3NmQTFWTFh1eWpFZEt5NkRmV2xWX2pnODlYc0NGYVpkdFl4YWJEMXM4OWk3NkhackhEbE04?oc=5",
+     "source": "Moneycontrol.com",
+     "sources": [
+      "Asia Insurance Post",
+      "Business Standard",
+      "Moneycontrol.com",
+      "Telegraph India",
+      "The Times of India"
+     ],
+     "sourceCount": 5,
+     "publishedAt": "2026-11-28T17:35+05:30",
+     "score": 6.89,
+     "summary": "",
+     "image": null,
+     "articles": [
+      {
+       "source": "Moneycontrol.com",
+       "title": "India sees robust growth momentum, flags El Nino, West Asia risks",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWZ3WW40QXdLcVJLMlpJcVlhMnJjZktyXzhCajN5U2dibWxaR3dmUVBFQUxHU1RBQUlFUXlmcWhjZW51UElMRVRqSzltX0d2bGVKekZhblBqLV9JNHZxODAwdWtKYVJzbkJKS3FnOG43X2VVQVlhVDB5M29kQk82QUtWWEd5eVZrQ3h0UTIzd19jT3NmQTFWTFh1eWpFZEt5NkRmV2xWX2pnODlYc0NGYVpkdFl4YWJEMXM4OWk3NkhackhEbE04?oc=5",
+       "publishedAt": "2026-11-28T17:35+05:30"
+      }
+     ]
+    }
+   ]
+  },
   {
    "hour": "2026-11-28T20:00+05:30",
    "generatedAt": "2026-11-28T20:19+05:30",
@@ -28956,199 +29123,6 @@
        "title": "GTA 6 best settings: The options you should change first on PS5 and Xbox",
        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xcDhhTXhnTTA0cmRDSlQycUE2eG1OTmNpZ2hMbEtXcXFmNXNpNXBuVS1tTFdrV2RZRDhPYVQ4eGZwS1g5NXhOZjM4WmQ3MWY4NG5uaVlSS05DWFprNGluUUNrT3RhMkZkOVE?oc=5",
        "publishedAt": "2026-11-20T19:09+05:30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hour": "2026-11-20T18:00+05:30",
-   "generatedAt": "2026-11-20T18:35+05:30",
-   "feeds": 16,
-   "headlines": 324,
-   "stories": [
-    {
-     "title": "Scene Box Office Collection Day 15",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03eUx1ay1wWG9JWDdmd3pIR3lGdVJMREJVXzFmLUpBdEdmMDJQSEcyTkxic3pPT0lCWHNYTzd6Qk1Uc05lSjdKY01BRGgza0tmWTc0dFVVNVk3RUpNVnlrZlJRYTlvaXRyVTVTQkgxQmJfcWIxWVVFQ0ktZmV2UQ?oc=5",
-     "source": "Sacnilk",
-     "sources": [
-      "Deccan Chronicle",
-      "Koimoi",
-      "Rediff",
-      "Sacnilk",
-      "THE WEEK",
-      "Telegraph India",
-      "The Hindu",
-      "The Times of India",
-      "UB - Universitat de Barcelona",
-      "iDiva"
-     ],
-     "sourceCount": 10,
-     "publishedAt": "2026-11-20T18:10+05:30",
-     "score": 11.31,
-     "summary": "",
-     "image": null,
-     "articles": [
-      {
-       "source": "Sacnilk",
-       "title": "Scene Box Office Collection Day 15",
-       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03eUx1ay1wWG9JWDdmd3pIR3lGdVJMREJVXzFmLUpBdEdmMDJQSEcyTkxic3pPT0lCWHNYTzd6Qk1Uc05lSjdKY01BRGgza0tmWTc0dFVVNVk3RUpNVnlrZlJRYTlvaXRyVTVTQkgxQmJfcWIxWVVFQ0ktZmV2UQ?oc=5",
-       "publishedAt": "2026-11-20T18:10+05:30"
-      }
-     ]
-    },
-    {
-     "title": "‘All our relationships will improve’: Pakistan minister in Delhi for SCO summit",
-     "link": "https://timesofindia.indiatimes.com/india/all-our-relationships-will-improve-pakistan-minister-in-delhi-for-sco-summit/articleshow/136025338.cms",
-     "source": "Times of India",
-     "sources": [
-      "Hindustan Times",
-      "NDTV",
-      "News On AIR",
-      "PM India",
-      "The Hindu",
-      "The Times of India",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-20T17:12+05:30",
-     "score": 8.52,
-     "summary": "A Culture Ministry director and an MEA under secretary reportedly received Pakistan’s Musadik Malik at Delhi airport, disputing a Pakistani analyst’s claim.",
-     "image": "https://static.toiimg.com/photo/msid-136025543,imgsize-79138.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "‘All our relationships will improve’: Pakistan minister in Delhi for SCO summit",
-       "link": "https://timesofindia.indiatimes.com/india/all-our-relationships-will-improve-pakistan-minister-in-delhi-for-sco-summit/articleshow/136025338.cms",
-       "publishedAt": "2026-11-20T17:12+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Pakistan minister Musadik Malik received at Delhi airport under uniform SCO protocol, Pak analyst's claim fact-checked",
-       "link": "https://www.hindustantimes.com/india-news/pakistan-minister-musadik-malik-received-at-delhi-airport-under-uniform-sco-protocol-pak-analysts-claim-factchecked-101795168125772.html",
-       "publishedAt": "2026-11-20T16:15+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "'Rubbing salt into Pahalgam victims' wounds': Row over Pakistan minister at SCO meet in Delhi",
-       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYmZvYnkzLUtlTVl4QTV0ZUQ0UzByM25iSDUxWllGdE9OU2pCR1dvZ1RjTmVZOVgtbzlKdFFRTkhPZXVuRE04QUw0LWo4QVFCRnZJSDlUVXV0cGltQlhGY3VSbDlSUFA5Y0ZRbkxYeG9CdVpWdExyeWk0SmNaV0VZMFAwVnllc1lhZllOQ1dGbjhBbXlnZW1CRm90Zlh0eG9hTFZCNUJyUi1leVBPUlg5bV9WM0tBeFIzQWQxRzRYY2ctRk9qRGR2ZHNoWWp6dkpzRzEzUE9fVVAtZ3AzZmxYczdoZ1k3MzlGRTBadFV3?oc=5",
-       "publishedAt": "2026-11-20T15:18+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Supreme Court dismisses Karnataka appeal against bike-taxis",
-     "link": "https://www.thehindu.com/news/national/karnataka/supreme-court-dismisses-karnataka-appeal-against-bike-taxis/article71723973.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Bar and Bench",
-      "Deccan Herald",
-      "Live Law",
-      "Mint",
-      "Scroll.in",
-      "The Economic Times",
-      "The Hindu"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-20T18:00+05:30",
-     "score": 7.97,
-     "summary": "A Bench headed by Justice Satish Chandra Sharma said regulation was better than a blanket ban",
-     "image": "https://th-i.thgim.com/public/incoming/1lv2jt/article71724108.ece/alternates/LANDSCAPE_1200/_JAI3087.JPG",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Supreme Court dismisses Karnataka appeal against bike-taxis",
-       "link": "https://www.thehindu.com/news/national/karnataka/supreme-court-dismisses-karnataka-appeal-against-bike-taxis/article71723973.ece",
-       "publishedAt": "2026-11-20T18:00+05:30"
-      },
-      {
-       "source": "Mint",
-       "title": "Ola, Uber, Rapido get relief as Supreme Court rejects Karnataka government’s appeal against bike taxis",
-       "link": "https://www.livemint.com/news/india/ola-uber-rapido-get-relief-as-supreme-court-rejects-karnataka-government-s-appeal-against-bike-taxis-11795170674319.html",
-       "publishedAt": "2026-11-20T16:08+05:30"
-      },
-      {
-       "source": "Bar and Bench",
-       "title": "Supreme Court allows bike taxis in Karnataka, rejects State's appeal to restore ban",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEsyZllGQVROQU5DZmJyaThuUGV1YXBLRkpsZWkyV0F4Q3ZyRUF2QkMtNFhIUE9wT0d2ZlFIdVVRN0lnNTF0ME9FRVlzQ1MtZzJXWUNaMFdhdlhJWlhLSk16Y2RNcUNtUTJuWTlpR19NYXJDNmVQdGpmeW0tS0wxRmthbldnZDNLUkpoTC1jTkVFLUItOUVTZF9ia3VnTE9fb253Y181WUVMa29VMnRKbGh2dVXSAcIBQVVfeXFMTzYzNGNfM3AtWkpxNUswRjZNaDRObWtzc3FhMlpfX3AwNnNZeWJvWURQUHR3TFY0TmE0WlhPTlN2bzA0Q01xekFwdGZQQnN1NXNhQ0M0VUh3Qk05WldCRGJsYmcwZUhUUzEzYXd4dEpZV3M3SDh3U0xVdWwtZTlQMl9uSU4tUlVFNFhUWmZaMHpRMjM3NDROclJjTENyLXFNXzVYcDBqb1FzcWU1Q2RsS0E3Nkc0WGdvTXNYeGlOSnNjemc?oc=5",
-       "publishedAt": "2026-11-20T13:16+05:30"
-      }
-     ]
-    },
-    {
-     "title": "PM Modi speaks to Yogi Adityanath, offers condolences over mother's death",
-     "link": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-to-yogi-adityanath-offers-condolences-over-mothers-death/articleshow/136022673.cms",
-     "source": "Times of India",
-     "sources": [
-      "ANI News",
-      "Hindustan Times",
-      "NDTV",
-      "The New Indian Express",
-      "The Times of India",
-      "ThePrint",
-      "Times of India"
-     ],
-     "sourceCount": 7,
-     "publishedAt": "2026-11-20T15:51+05:30",
-     "score": 7.62,
-     "summary": "Union Home Minister Amit Shah also expressed grief over the demise of Yogi Adityanath's mother.",
-     "image": "https://static.toiimg.com/photo/msid-136022778,imgsize-1322133.cms",
-     "articles": [
-      {
-       "source": "Times of India",
-       "title": "PM Modi speaks to Yogi Adityanath, offers condolences over mother's death",
-       "link": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-to-yogi-adityanath-offers-condolences-over-mothers-death/articleshow/136022673.cms",
-       "publishedAt": "2026-11-20T15:51+05:30"
-      },
-      {
-       "source": "Hindustan Times",
-       "title": "Yogi Adityanath’s mother Savitri Devi dies at 91; PM Modi condoles demise",
-       "link": "https://www.hindustantimes.com/india-news/uttar-pradesh-chief-minister-yogi-adityanaths-mother-savitri-devi-dies-in-uttarakhand-101795158780052.html",
-       "publishedAt": "2026-11-20T12:47+05:30"
-      },
-      {
-       "source": "The Times of India",
-       "title": "PM Modi speaks to Yogi Adityanath, offers condolences over mother's death",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmJlYXBwM2VaMkN1eFVuQ2FjZUpqdjFpTkp1Z2NkVE5Wdl9sRHBZXzdZRV90cUIweVhScXlBczdSTmRYWDlJblBHdERHUVpzMHlsRkJsS0R6aVRPelhha0ZObmxMNHNlR25yY1pWMFNtcG95d0REMjllcVl6OGE1dGRRMmtLX25UR19uXzZlSE5iV1BRSkxPS05RcXRMcU14cV9rNlZKekJiVENPejJ0WEpIUVlxZ2hmdWRCQWJKLWlYV2lpUS1sME1LQ2Q2VnQyeU5SU3RB?oc=5",
-       "publishedAt": "2026-11-20T15:51+05:30"
-      }
-     ]
-    },
-    {
-     "title": "Supreme Court allows lighting of lamp on ‘Deepathoon’ at Thirupparankundram as limited one-time arrangement",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-allows-lighting-of-lamp-on-the-deepathoon-as-a-limited-one-time-arrangement/article71723742.ece",
-     "source": "The Hindu",
-     "sources": [
-      "Bar and Bench",
-      "Live Law",
-      "NDTV",
-      "Rediff",
-      "Supreme Court Observer",
-      "The Hindu"
-     ],
-     "sourceCount": 6,
-     "publishedAt": "2026-11-20T15:56+05:30",
-     "score": 7.31,
-     "summary": "A Bench headed by Justice Aravind Kumar however stayed the conclusive findings of the Madras HC in a January 6 judgment that upheld the right to light the lamp on the ‘Deepathoon’ as an essential practice",
-     "image": "https://th-i.thgim.com/public/incoming/ml1sva/article71723824.ece/alternates/LANDSCAPE_1200/9871_10_1_2026_19_30_1_1_9D9D21DC_98E1_4DD7_B870_84C50B4CCFBD.JPEG",
-     "articles": [
-      {
-       "source": "The Hindu",
-       "title": "Supreme Court allows lighting of lamp on ‘Deepathoon’ at Thirupparankundram as limited one-time arrangement",
-       "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-allows-lighting-of-lamp-on-the-deepathoon-as-a-limited-one-time-arrangement/article71723742.ece",
-       "publishedAt": "2026-11-20T15:56+05:30"
-      },
-      {
-       "source": "NDTV",
-       "title": "Supreme Court Allows One-Time Lighting Of Deepam At Thiruparankundram Hill",
-       "link": "https://www.ndtv.com/india-news/supreme-court-allows-one-time-lighting-of-karthigai-deepam-at-thiruparankundram-hill-12353634#publisher=newsstand",
-       "publishedAt": "2026-11-20T15:14+05:30"
-      },
-      {
-       "source": "Live Law",
-       "title": "Thiruparankundram Hill | Supreme Court Stays HC Findings, Allows Karthigai Lamp Lighting At Deepathoon On ...",
-       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ1VIMnNXLXpSN1NCc1dxNmtPWnQ1SXZRemdBZEJvUmRsZG9UXzRZSnVOc0hGbFBiN2ZMQm1lZm9FVkctbnJUYlkwZmZ6TUxhdTd4cHBZbjlWZmNIMWk3VE9xZ1ZaOHZLS0dSUmRNSF85bjQ3Zk1oWXRkaGdVTnhGcGR3TFllaDZkdk9RUEZ1M3AzZ1BTRWZkNEF4Z1d5WUpxRFVLNUdZRmlxaGFwV3lLN3VVVGhNdkY3VDYzM1ByYjdTb2t5ZVZIbS0zS1VkdFpNWkdhZDRFRk42YnhDb2s3anF0OU42aDhsOE9BLTlhNNIB9AFBVV95cUxQb0hyX0xTVnJ0R0RIZ3ZfVUV5N2xJa0hBbGRBMnlVTko1WkF4YzJyMmVFR09JeVlib2xMQTNWdjZhVEEyMFk1VDFpaXN3OWYya0RHeUc4a1RGNGpsbU0wQ1NYUFR4TUgtVXZmWmwydzVBVF9qM25WVTUzZTd4OWZhUDlTQjEwMmtJRF80ZXJ0aFdKaUtyMDZJeTk2c1Ztd290QkxDcldjcm1EUkwyUFNzLUxhd3ZyMmR5YlB2WUJwYWRYMi1TVVJ0eXZMU0E3QW41QzNOcU9zZ2h1SmpMaDZ3QmUyaWtKQ012RU5GajJmWDNPVWlk?oc=5",
-       "publishedAt": "2026-11-20T13:49+05:30"
       }
      ]
     }
